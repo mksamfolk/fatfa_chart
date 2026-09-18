@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fat Fa Chart</title>
 
-    <!--    <script src="vendor/tailwindcss.js"></script>-->
-    <!--    <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>-->
-    <!--    <script src="vendor/papaparse-5.4.1.min.js"></script>-->
+        <script src="vendor/tailwindcss.js"></script>
+        <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
+        <script src="vendor/papaparse-5.4.1.min.js"></script>
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<!--    <script src="https://cdn.tailwindcss.com"></script>-->
+<!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>-->
 
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
@@ -1234,7 +1234,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
             loadingOverlay.classList.remove('hidden');
             loadingOverlay.classList.add('flex');
 
-            const listResponse = await fetch('/data/stock_list.json');
+            const listResponse = await fetch('data/stock_list.json');
             if (!listResponse.ok) throw new Error("stock_list.json not found on server.");
 
             const stockList = await listResponse.json();
@@ -1248,7 +1248,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
                 loadingSubtext.innerText = `Fetching ${i + 1} of ${stockList.length}`;
 
                 try {
-                    const csvResponse = await fetch(`/data/${stockName}.csv`);
+                    const csvResponse = await fetch(`data/${stockName}.csv`);
                     if (!csvResponse.ok) continue;
 
                     const csvText = await csvResponse.text();
