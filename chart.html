@@ -11,9 +11,9 @@
 
     <title>Fat Fa Chart</title>
 
-        <script src="vendor/tailwindcss.js"></script>
-        <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
-        <script src="vendor/papaparse-5.4.1.min.js"></script>
+            <script src="vendor/tailwindcss.js"></script>
+            <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
+            <script src="vendor/papaparse-5.4.1.min.js"></script>
 
 <!--    <script src="https://cdn.tailwindcss.com"></script>-->
 <!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
@@ -123,9 +123,9 @@
             </div>
         </div>
 
-        <!-- Delete Chart Button -->
-        <button id="removeFileBtn" class="hidden p-2 text-red-500 hover:text-red-700 hover:bg-red-50 bg-gray-50 border border-gray-200 rounded-lg shadow-sm transition outline-none" title="Remove this chart">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+        <!-- Move To Top Button -->
+        <button id="moveToTopBtn" class="hidden p-2 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded-lg shadow-sm transition outline-none" title="Move to top">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
         </button>
     </div>
 
@@ -300,6 +300,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
 
     const customPalette = ['#2563eb', '#db2777', '#059669', '#d97706', '#7c3aed', '#0891b2'];
 
+    // --- Initialization ---
     function initCharts() {
         const mainContainer = document.getElementById('main-chart');
         const volContainer = document.getElementById('volume-chart');
@@ -843,7 +844,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         const nav = document.getElementById('fileNavControls');
         const search = document.getElementById('searchContainer');
         const filtersBtn = document.getElementById('openFilterBtn');
-        const removeBtn = document.getElementById('removeFileBtn');
+        const moveToTopBtn = document.getElementById('moveToTopBtn');
 
         if (uploadedFiles.length > 0) {
             filtersBtn.classList.remove('hidden');
@@ -854,12 +855,12 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         if (activeIndices.length > 0 && currentActiveIdx !== -1) {
             nav.classList.remove('hidden');
             search.classList.remove('hidden');
-            removeBtn.classList.remove('hidden');
+            moveToTopBtn.classList.remove('hidden');
             document.getElementById('fileCounter').innerText = `${currentActiveIdx + 1} / ${activeIndices.length}`;
         } else {
             nav.classList.add('hidden');
             search.classList.add('hidden');
-            removeBtn.classList.add('hidden');
+            moveToTopBtn.classList.add('hidden');
         }
     }
 
@@ -915,38 +916,41 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         loadCurrentFile();
     });
 
-    document.getElementById('removeFileBtn').addEventListener('click', () => {
+    // Move to Top Button logic
+    document.getElementById('moveToTopBtn').addEventListener('click', () => {
         if (activeIndices.length === 0) return;
 
-        // Permanently remove from the master file list
         const realIndex = activeIndices[currentActiveIdx];
-        uploadedFiles.splice(realIndex, 1);
 
-        if (uploadedFiles.length === 0) {
-            activeIndices = [];
-            currentActiveIdx = -1;
-            updateFileNavUI();
-            document.getElementById('statusText').innerText = "All files removed. Showing sample data.";
-            document.getElementById('csvFileInput').value = '';
-            Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(results) { processChartData(results.data); } });
-        } else {
-            // Remove from active view and gracefully shift the active pointer down
-            activeIndices.splice(currentActiveIdx, 1);
-            for(let i=0; i<activeIndices.length; i++) {
-                if (activeIndices[i] > realIndex) activeIndices[i]--;
-            }
-
-            if (activeIndices.length === 0) {
-                currentActiveIdx = -1;
+        // If already the absolute very first file, simply verify UI
+        if (realIndex === 0) {
+            if (currentActiveIdx !== 0) {
+                currentActiveIdx = 0;
                 updateFileNavUI();
-                document.getElementById('statusText').innerText = "No stocks match current filters.";
-                Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
-            } else {
-                if (currentActiveIdx >= activeIndices.length) { currentActiveIdx = activeIndices.length - 1; }
-                loadCurrentFile();
+            }
+            showToast("Already at the top.", "success");
+            return;
+        }
+
+        // 1. Move file to absolute beginning of master upload array
+        const fileToMove = uploadedFiles.splice(realIndex, 1)[0];
+        uploadedFiles.unshift(fileToMove);
+
+        // 2. Adjust shadow view list logic to maintain active array
+        activeIndices.splice(currentActiveIdx, 1);
+        for (let i = 0; i < activeIndices.length; i++) {
+            if (activeIndices[i] < realIndex) {
+                activeIndices[i]++;
             }
         }
-        showToast("Chart permanently removed.", "success");
+
+        // 3. Inject new index mapping at the beginning
+        activeIndices.unshift(0);
+
+        // 4. Reset pointer to position 1 and refresh
+        currentActiveIdx = 0;
+        updateFileNavUI();
+        showToast("Moved to top.", "success");
     });
 
     function createLegendItem(container, name, color, shapeClass, series, targetChart) {
