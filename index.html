@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Fat Fa Chart...</title>
+
+    <!-- Anti-Caching Meta Tags for the index file itself -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; }
+    </style>
+</head>
+<body class="flex items-center justify-center h-screen w-screen overflow-hidden m-0">
+
+<div class="flex flex-col items-center justify-center text-center">
+    <!-- Spinner -->
+    <div class="animate-spin rounded-full h-12 w-12 border-t-4 border-b-4 border-blue-600 mb-4 shadow-sm"></div>
+    <h1 class="text-xl font-bold text-gray-800 tracking-wide">Loading Fat Fa Chart</h1>
+    <p class="text-sm text-gray-500 mt-2">Bypassing browser cache...</p>
+
+    <!-- Fallback link in case JavaScript is disabled -->
+    <noscript>
+        <p class="mt-6 text-sm text-gray-600">
+            JavaScript is disabled. <a href="chart.html" class="text-blue-600 hover:underline font-medium">Click here to continue</a>.
+        </p>
+    </noscript>
+</div>
+
+<script>
+    // Use replace() instead of href so this intermediate page isn't stored in the browser's Back button history.
+    // Append the current epoch timestamp to guarantee a unique URL and bust the cache.
+    window.onload = function() {
+        const cacheBuster = new Date().getTime();
+        window.location.replace(`chart.html?_t=${cacheBuster}`);
+    };
+</script>
+</body>
+</html>
