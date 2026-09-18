@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fat Fa Chart</title>
+
+    <script src="vendor/tailwindcss.js"></script>
+    <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
+    <script src="vendor/papaparse-5.4.1.min.js"></script>
+
+<!--    <script src="https://cdn.tailwindcss.com"></script>-->
+<!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>-->
+
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+        .chart-container { position: relative; width: 100%; border-bottom: 1px solid #e5e7eb; }
+        #main-chart { height: 60%; }
+        #volume-chart { height: 20%; }
+        #analytics-chart { height: 20%; border-bottom: none; }
+
+        /* Cursor override for drawing mode */
+        .drawing-mode { cursor: crosshair !important; }
+        .drawing-mode canvas { cursor: crosshair !important; }
+        #statusText { font-size: 1.5rem; }
+    </style>
+</head>
+<body class="flex flex-col h-screen">
+
+<header class="relative z-50 bg-white border-b border-gray-200 px-4 py-3 flex flex-wrap items-center justify-between shrink-0 shadow-sm gap-y-2">
+    <!-- Left Side: Logo, Load, Search -->
+    <div class="flex items-center space-x-4">
+        <div class="font-bold text-xl flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 110 110" class="w-9 h-9 drop-shadow-sm">
+                <!-- Left Ear (Brown) -->
+                <path d="M 20 40 L 5 5 L 40 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
+                <path d="M 22 33 L 13 14 L 33 24 Z" fill="#fcd5ce"/>
+                <!-- Right Ear (Brown) -->
+                <path d="M 80 40 L 95 5 L 60 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
+                <path d="M 78 33 L 87 14 L 67 24 Z" fill="#fcd5ce"/>
+                <!-- Face Base (White) -->
+                <path d="M 10 55 C 10 20, 90 20, 90 55 C 90 90, 65 95, 50 95 C 35 95, 10 90, 10 55 Z" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                <!-- Left Brown Patch -->
+                <path d="M 11 50 C 11 30, 25 20, 40 20 C 45 20, 48 30, 42 45 C 35 60, 25 65, 12 58 Z" fill="#4a3c31"/>
+                <!-- Right Brown Patch -->
+                <path d="M 89 50 C 89 30, 75 20, 60 20 C 55 20, 52 30, 58 45 C 65 60, 75 65, 88 58 Z" fill="#4a3c31"/>
+                <!-- Eyes -->
+                <!-- Left Eye -->
+                <ellipse cx="32" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                <ellipse cx="34" cy="55" rx="8" ry="11" fill="#c3ce75"/>
+                <ellipse cx="35" cy="55" rx="4" ry="8" fill="#2d241e"/>
+                <circle cx="33" cy="49" r="2.5" fill="#ffffff"/>
+                <circle cx="37" cy="58" r="1" fill="#ffffff"/>
+                <!-- Right Eye -->
+                <ellipse cx="68" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                <ellipse cx="66" cy="55" rx="8" ry="11" fill="#c3ce75"/>
+                <ellipse cx="65" cy="55" rx="4" ry="8" fill="#2d241e"/>
+                <circle cx="67" cy="49" r="2.5" fill="#ffffff"/>
+                <circle cx="63" cy="58" r="1" fill="#ffffff"/>
+                <!-- Nose -->
+                <path d="M 46 72 L 54 72 L 50 77 Z" fill="#f4a2b3" stroke="#2d241e" stroke-width="1.5" stroke-linejoin="round"/>
+                <!-- Mouth -->
+                <path d="M 40 78 Q 45 83 50 79 Q 55 83 60 78" fill="none" stroke="#2d241e" stroke-width="2" stroke-linecap="round"/>
+                <!-- Whiskers Left -->
+                <path d="M 15 65 L -5 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                <path d="M 15 70 L -5 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                <!-- Whiskers Right -->
+                <path d="M 85 65 L 105 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                <path d="M 85 70 L 105 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            <span>
+                    <span class="text-[#171717]">F</span><span class="text-[#ea580c]">a</span><span class="text-[#4a3c31]">t</span>
+                    <span class="text-[#171717] ml-1">F</span><span class="text-[#ea580c]">a</span>
+                    <span class="text-[#4a3c31] ml-1">C</span><span class="text-[#171717]">h</span><span class="text-[#ea580c]">a</span><span class="text-[#4a3c31]">r</span><span class="text-[#171717]">t</span>
+                </span>
+        </div>
+
+        <!-- Load CSV & Info Icon Group -->
+        <div class="flex items-center gap-1">
+            <label class="cursor-pointer bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md font-medium text-sm transition-colors shadow-sm flex items-center gap-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+                Load CSV Data
+                <input type="file" id="csvFileInput" accept=".csv" multiple class="hidden" />
+            </label>
+            <button id="viewFormatBtn" class="p-1.5 text-gray-400 hover:text-blue-600 hover:bg-blue-50 rounded-full transition-colors outline-none" title="View CSV Data Format">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            </button>
+        </div>
+
+        <!-- File Navigation Controls -->
+        <div id="fileNavControls" class="hidden flex items-center gap-2 bg-gray-50 border border-gray-200 rounded-md px-2 py-1 shadow-sm">
+            <button id="prevFileBtn" class="p-1 text-gray-600 hover:text-blue-600 hover:bg-gray-200 rounded transition"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg></button>
+            <span id="fileCounter" class="text-sm font-medium text-gray-700 min-w-[3rem] text-center">1 / 1</span>
+            <button id="nextFileBtn" class="p-1 text-gray-600 hover:text-blue-600 hover:bg-gray-200 rounded transition"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></button>
+        </div>
+
+        <!-- Search Bar -->
+        <div id="searchContainer" class="relative hidden">
+            <div class="relative">
+                <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                    <svg class="w-4 h-4 text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
+                    </svg>
+                </div>
+                <input type="text" id="searchInput" class="block w-48 p-2 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder="Search stock...">
+            </div>
+            <div id="searchResults" class="absolute z-50 w-full bg-white rounded-lg shadow-lg border border-gray-200 mt-1 hidden max-h-60 overflow-y-auto">
+                <!-- Results will be injected here -->
+            </div>
+        </div>
+
+        <!-- Delete Chart Button -->
+        <button id="removeFileBtn" class="hidden p-2 text-red-500 hover:text-red-700 hover:bg-red-50 bg-gray-50 border border-gray-200 rounded-lg shadow-sm transition outline-none" title="Remove this chart">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+        </button>
+    </div>
+
+    <!-- Right Side: Navigation, Drawing, Formatting -->
+    <div class="flex items-center gap-4">
+
+        <!-- Draw Button with Embedded Color Picker -->
+        <div class="flex items-center bg-gray-50 border border-gray-300 rounded-md shadow-sm overflow-hidden transition-colors" id="drawGroup">
+            <button id="drawBtn" class="hover:bg-gray-100 text-gray-700 px-3 py-2 font-medium text-sm flex items-center gap-2 h-full outline-none">
+                <svg id="drawIcon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path></svg>
+                <span id="drawText">Draw</span>
+            </button>
+            <div class="w-px h-6 bg-gray-300"></div>
+            <div class="px-2 py-1 flex items-center hover:bg-gray-100 cursor-pointer h-full">
+                <input type="color" id="lineColorPicker" value="#2563eb" class="h-6 w-6 border-0 rounded cursor-pointer p-0 bg-transparent outline-none" title="Choose Line Color">
+            </div>
+        </div>
+
+        <!-- Undo Button -->
+        <button id="undoBtn" class="bg-gray-50 hover:bg-gray-100 text-gray-700 border border-gray-300 px-3 py-2 rounded-md font-medium text-sm transition-colors shadow-sm flex items-center gap-2" title="Undo Last Line">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h10a8 8 0 018 8v2M3 10l6 6m-6-6l6-6"></path></svg>
+        </button>
+
+        <div class="text-sm text-gray-500 flex items-center gap-3 ml-2">
+            <span id="statusText">Showing sample data</span>
+
+            <!-- Filters Button -->
+            <button id="openFilterBtn" class="text-blue-500 hover:text-blue-700 underline font-medium flex items-center gap-1 hidden">
+                Filters
+                <span id="filterCountBadge" class="bg-blue-100 text-blue-800 text-xs font-semibold px-1.5 py-0.5 rounded hidden">0</span>
+            </button>
+        </div>
+    </div>
+</header>
+
+<main class="flex-grow flex flex-col relative w-full bg-white z-10">
+    <div id="main-chart" class="chart-container">
+        <div id="main-legend" class="absolute top-2 left-4 z-20 text-xs font-medium flex flex-wrap gap-4 pointer-events-auto transition-all"></div>
+    </div>
+    <div id="volume-chart" class="chart-container bg-gray-50">
+        <div id="vol-legend" class="absolute top-2 left-4 z-20 text-xs font-medium flex flex-wrap gap-4 pointer-events-auto empty:hidden transition-all"></div>
+    </div>
+    <div id="analytics-chart" class="chart-container bg-white">
+        <div id="analytics-legend" class="absolute top-2 left-4 z-20 text-xs font-medium flex flex-wrap gap-4 pointer-events-auto empty:hidden transition-all"></div>
+    </div>
+</main>
+
+<!-- Format Data Modal -->
+<div id="formatModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-3xl flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 class="text-lg font-bold text-gray-800">CSV Data Format</h3>
+            <button id="closeModalBtn" class="text-gray-500 hover:text-gray-800">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div class="p-4 overflow-y-auto flex-grow text-sm text-gray-700">
+            <p class="mb-3">Your CSV file must include columns for <strong>Date, Open, High, Low, Close</strong>.</p>
+            <p class="mb-3">You can add custom columns and control where they render using this header format:<br>
+                <code class="bg-gray-100 px-2 py-1 rounded text-blue-600 font-bold">ColumnName:Pane:Type</code></p>
+            <ul class="list-disc pl-5 mb-4 space-y-1">
+                <li><strong>Pane:</strong> <code class="bg-gray-100 px-1">Top</code>, <code class="bg-gray-100 px-1">Middle</code>, <code class="bg-gray-100 px-1">Bottom</code>, <code class="bg-blue-100 px-1 font-semibold">HIDDEN</code></li>
+                <li><strong>Type:</strong> <code class="bg-gray-100 px-1">Line</code>, <code class="bg-gray-100 px-1">Histogram</code>, <code class="bg-gray-100 px-1">ColorLine</code></li>
+            </ul>
+            <p class="mb-2 text-xs italic text-gray-500">Note: To use a <strong>ColorLine</strong>, provide a second hidden column named <strong>ColumnName_Dir</strong> with values 1 (Uptrend) or 0 (Downtrend).</p>
+            <p class="mb-2 text-xs italic text-gray-500">Note: Using the <strong class="text-blue-700">HIDDEN</strong> pane (e.g., <code class="bg-gray-100 px-1 font-mono">RSI:HIDDEN</code>) makes the column available in the Filter Modal, but skips drawing it on the chart!</p>
+            <div class="relative group mt-2">
+                <button id="copyFormatBtn" class="absolute top-2 right-2 bg-blue-100 hover:bg-blue-200 text-blue-700 px-2 py-1 rounded text-xs font-semibold transition">Copy Full Sample</button>
+                <pre id="sampleCsvContent" class="bg-gray-50 p-4 rounded border border-gray-200 overflow-x-auto text-xs font-mono leading-relaxed">
+Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,ST_Dir,Momentum:Bottom:Line
+2023-01-03,130.28,130.9,124.17,125.07,112117500,,,,,
+2023-01-04,126.89,128.66,125.08,126.36,89113600,,,,,
+2023-01-05,127.13,127.77,124.76,125.02,80962700,,,,,</pre>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Global Filter Modal -->
+<div id="filterModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 class="text-lg font-bold text-gray-800">Global Filters</h3>
+            <button id="closeFilterModalBtn" class="text-gray-500 hover:text-gray-800">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div class="p-4 flex-grow flex flex-col gap-2">
+            <p class="text-sm text-gray-600 mb-2">
+                Filter stocks using JavaScript expressions. Use <code class="bg-gray-100 px-1 rounded font-bold text-blue-600">$</code> to reference the <strong>last row</strong> of data. Failed stocks will be hidden from view.
+                <br><span class="text-xs text-gray-500 italic">Example: <code class="bg-gray-100 px-1">$.Close > 100</code> or <code class="bg-gray-100 px-1">$.Macd > $.MacdSignal</code></span>
+            </p>
+            <div class="flex gap-2">
+                <input type="text" id="filterInput" class="flex-grow p-2 border border-gray-300 rounded focus:ring-blue-500 focus:border-blue-500 outline-none text-sm font-mono" placeholder="e.g. $.Macd > $.MacdSignal">
+                <button id="addFilterBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors">Add</button>
+            </div>
+
+            <!-- Clickable Columns UI -->
+            <div class="mt-1">
+                <span class="text-xs font-semibold text-gray-600">Available Columns (Click to insert at cursor):</span>
+                <div id="columnTagsContainer" class="flex flex-wrap gap-1.5 mt-1 max-h-24 overflow-y-auto pb-1">
+                    <span class="text-gray-400 italic text-xs">Load data to see columns...</span>
+                </div>
+            </div>
+
+            <!-- Validation Error Message -->
+            <div id="filterErrorMsg" class="text-xs text-red-500 hidden font-medium px-1"></div>
+
+            <div class="border border-gray-200 rounded-md bg-gray-50 flex-grow min-h-[150px] overflow-y-auto p-2 flex flex-col gap-2 mt-2" id="filterListContainer">
+                <!-- Filters injected here -->
+            </div>
+        </div>
+
+        <!-- Footer: Export/Import and Action Buttons -->
+        <div class="p-4 border-t flex justify-between items-center gap-2">
+            <div class="flex gap-2">
+                <button id="exportFiltersBtn" class="text-gray-600 hover:text-blue-600 hover:bg-blue-50 px-3 py-2 rounded text-sm font-medium transition-colors border border-gray-200 shadow-sm flex items-center gap-1" title="Export filters to a text file">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg> Export
+                </button>
+                <label class="cursor-pointer text-gray-600 hover:text-blue-600 hover:bg-blue-50 px-3 py-2 rounded text-sm font-medium transition-colors border border-gray-200 shadow-sm flex items-center gap-1" title="Import filters from a text file">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg> Import
+                    <input type="file" id="importFiltersInput" accept=".txt" class="hidden" />
+                </label>
+            </div>
+            <div class="flex gap-2">
+                <button id="clearFiltersBtn" class="text-red-500 hover:text-red-700 hover:bg-red-50 px-4 py-2 rounded text-sm font-medium transition-colors">Clear All</button>
+                <button id="applyFiltersBtn" class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors shadow-sm">Apply Filters</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // --- State and Constants ---
+    let mainChart, volumeChart, analyticsChart;
+    let candleSeries;
+
+    let mainPrimarySeries, volPrimarySeries, analyticsPrimarySeries;
+    let activeCustomSeries = [];
+    let globalCandleData = [];
+
+    // Master list of all uploaded files (Persisted, untouched by filters)
+    let uploadedFiles = [];
+
+    // Shadow list representing currently visible files (Indices pointing to uploadedFiles)
+    let activeIndices = [];
+    let currentActiveIdx = -1;
+
+    // Filter state
+    let globalFilters = [];
+    let globalAvailableHeaders = new Set(); // Stores known CSV headers for typo-checking
+
+    // Hidden series tracking (Persists across navigation)
+    let hiddenSeriesNames = new Set();
+
+    // Drawing State
+    let isDrawingMode = false;
+    let drawStartPoint = null;
+    let drawnLineSeries = [];
+    let tempLineSeries = null;
+
+    const chartTheme = {
+        layout: { background: { type: 'solid', color: '#ffffff' }, textColor: '#374151' },
+        grid: { vertLines: { color: '#f3f4f6' }, horzLines: { color: '#f3f4f6' } },
+        crosshair: { mode: LightweightCharts.CrosshairMode.Normal },
+        rightPriceScale: {
+            borderColor: '#d1d5db',
+            minimumWidth: 90
+        },
+        timeScale: { borderColor: '#d1d5db' }
+    };
+
+    const customPalette = ['#2563eb', '#db2777', '#059669', '#d97706', '#7c3aed', '#0891b2'];
+
+    // --- Initialization ---
+    function initCharts() {
+        const mainContainer = document.getElementById('main-chart');
+        const volContainer = document.getElementById('volume-chart');
+        const analyticsContainer = document.getElementById('analytics-chart');
+
+        mainChart = LightweightCharts.createChart(mainContainer, { ...chartTheme });
+        candleSeries = mainChart.addCandlestickSeries({
+            upColor: '#22c55e', downColor: '#ef4444', borderVisible: false, wickUpColor: '#22c55e', wickDownColor: '#ef4444',
+        });
+        mainPrimarySeries = candleSeries;
+
+        volumeChart = LightweightCharts.createChart(volContainer, {
+            ...chartTheme, layout: { background: { type: 'solid', color: '#f9fafb' }, textColor: '#374151' }
+        });
+
+        analyticsChart = LightweightCharts.createChart(analyticsContainer, { ...chartTheme });
+
+        mainChart.timeScale().applyOptions({ visible: false });
+        volumeChart.timeScale().applyOptions({ visible: false });
+
+        function getCrosshairDataPoint(series, param) {
+            if (!param.time || !param.seriesData || param.point.x < 0 || param.point.y < 0) return null;
+            const data = param.seriesData.get(series);
+            if (!data) return null;
+            return { time: param.time, value: data.value !== undefined ? data.value : data.close };
+        }
+
+        let isSyncing = false;
+        let rubberBandRAF = null;
+
+        mainChart.subscribeCrosshairMove(param => {
+            if (isDrawingMode && drawStartPoint && tempLineSeries && param.point) {
+                const logical = mainChart.timeScale().coordinateToLogical(param.point.x);
+                if (logical !== null) {
+                    const currentIndex = Math.max(0, Math.min(globalCandleData.length - 1, Math.round(logical)));
+                    const currentTime = globalCandleData[currentIndex].time;
+                    const currentPrice = candleSeries.coordinateToPrice(param.point.y);
+
+                    if (currentPrice !== null && currentPrice !== undefined && drawStartPoint.time !== currentTime) {
+                        const data = drawStartPoint.time < currentTime ? [
+                            { time: drawStartPoint.time, value: drawStartPoint.price },
+                            { time: currentTime, value: currentPrice }
+                        ] : [
+                            { time: currentTime, value: currentPrice },
+                            { time: drawStartPoint.time, value: drawStartPoint.price }
+                        ];
+
+                        if (rubberBandRAF) cancelAnimationFrame(rubberBandRAF);
+                        rubberBandRAF = requestAnimationFrame(() => {
+                            if (tempLineSeries) {
+                                try { tempLineSeries.setData(data); } catch (e) {}
+                            }
+                        });
+                    }
+                }
+            }
+
+            if (isSyncing) return;
+            if (!param.point) {
+                if (!param.time) { volumeChart.clearCrosshairPosition(); analyticsChart.clearCrosshairPosition(); }
+                return;
+            }
+
+            isSyncing = true;
+            if (volPrimarySeries) {
+                const dp = getCrosshairDataPoint(mainPrimarySeries, param);
+                if(dp) volumeChart.setCrosshairPosition(dp.value, dp.time, volPrimarySeries);
+            }
+            if (analyticsPrimarySeries) {
+                const dp = getCrosshairDataPoint(mainPrimarySeries, param);
+                if(dp) analyticsChart.setCrosshairPosition(dp.value, dp.time, analyticsPrimarySeries);
+            }
+            isSyncing = false;
+        });
+
+        volumeChart.subscribeCrosshairMove(param => {
+            if (isSyncing) return;
+            if (!param.point) { if (!param.time) { mainChart.clearCrosshairPosition(); analyticsChart.clearCrosshairPosition(); } return; }
+            isSyncing = true;
+            if (mainPrimarySeries) { const dp = getCrosshairDataPoint(volPrimarySeries, param); if(dp) mainChart.setCrosshairPosition(dp.value, dp.time, mainPrimarySeries); }
+            if (analyticsPrimarySeries) { const dp = getCrosshairDataPoint(volPrimarySeries, param); if(dp) analyticsChart.setCrosshairPosition(dp.value, dp.time, analyticsPrimarySeries); }
+            isSyncing = false;
+        });
+
+        analyticsChart.subscribeCrosshairMove(param => {
+            if (isSyncing) return;
+            if (!param.point) { if (!param.time) { mainChart.clearCrosshairPosition(); volumeChart.clearCrosshairPosition(); } return; }
+            isSyncing = true;
+            if (mainPrimarySeries) { const dp = getCrosshairDataPoint(analyticsPrimarySeries, param); if(dp) mainChart.setCrosshairPosition(dp.value, dp.time, mainPrimarySeries); }
+            if (volPrimarySeries) { const dp = getCrosshairDataPoint(analyticsPrimarySeries, param); if(dp) volumeChart.setCrosshairPosition(dp.value, dp.time, volPrimarySeries); }
+            isSyncing = false;
+        });
+
+        mainChart.timeScale().subscribeVisibleLogicalRangeChange(range => { if (range) { volumeChart.timeScale().setVisibleLogicalRange(range); analyticsChart.timeScale().setVisibleLogicalRange(range); }});
+        volumeChart.timeScale().subscribeVisibleLogicalRangeChange(range => { if (range) { mainChart.timeScale().setVisibleLogicalRange(range); analyticsChart.timeScale().setVisibleLogicalRange(range); }});
+        analyticsChart.timeScale().subscribeVisibleLogicalRangeChange(range => { if (range) { mainChart.timeScale().setVisibleLogicalRange(range); volumeChart.timeScale().setVisibleLogicalRange(range); }});
+
+        mainChart.subscribeClick((param) => {
+            if (!isDrawingMode || !param.point) return;
+
+            const logical = mainChart.timeScale().coordinateToLogical(param.point.x);
+            if (logical === null) { showToast("Please click inside the active chart area."); return; }
+
+            const dataIndex = Math.max(0, Math.min(globalCandleData.length - 1, Math.round(logical)));
+            const time = globalCandleData[dataIndex].time;
+            const price = candleSeries.coordinateToPrice(param.point.y);
+            if (price === null || price === undefined) return;
+
+            if (!drawStartPoint) {
+                drawStartPoint = { time, price, index: dataIndex };
+                document.getElementById('drawText').innerText = `Click End...`;
+                document.getElementById('drawGroup').classList.add('ring-2', 'ring-blue-300', 'bg-blue-50');
+
+                const selectedColor = document.getElementById('lineColorPicker').value;
+                tempLineSeries = mainChart.addLineSeries({
+                    color: selectedColor, lineWidth: 3, lineStyle: 0, crosshairMarkerVisible: false, lastValueVisible: false, priceLineVisible: false, autoscaleInfoProvider: () => null
+                });
+
+                mainChart.priceScale('right').applyOptions({ autoScale: false });
+                showToast("Start point marked.", "success");
+            } else {
+                if (drawStartPoint.index === dataIndex || drawStartPoint.time === time) {
+                    showToast("Cannot draw a vertical line.");
+                    if (tempLineSeries) { mainChart.removeSeries(tempLineSeries); tempLineSeries = null; }
+                    drawStartPoint = null;
+                    resetDrawButton();
+                    return;
+                }
+
+                const data = drawStartPoint.time < time ? [
+                    { time: drawStartPoint.time, value: drawStartPoint.price },
+                    { time, value: price }
+                ] : [
+                    { time, value: price },
+                    { time: drawStartPoint.time, value: drawStartPoint.price }
+                ];
+
+                try {
+                    tempLineSeries.setData(data);
+                    drawnLineSeries.push(tempLineSeries);
+                    tempLineSeries = null;
+                    showToast("Line drawn!", "success");
+                } catch (e) {
+                    if(tempLineSeries) { mainChart.removeSeries(tempLineSeries); tempLineSeries = null; }
+                }
+
+                drawStartPoint = null;
+                resetDrawButton();
+            }
+        });
+
+        window.addEventListener('resize', () => {
+            mainChart.applyOptions({ width: mainContainer.clientWidth, height: mainContainer.clientHeight });
+            volumeChart.applyOptions({ width: volContainer.clientWidth, height: volContainer.clientHeight });
+            analyticsChart.applyOptions({ width: analyticsContainer.clientWidth, height: analyticsContainer.clientHeight });
+        });
+    }
+
+    function showToast(message, type = 'error') {
+        let container = document.getElementById('toastContainer');
+        if (!container) {
+            container = document.createElement('div');
+            container.id = 'toastContainer';
+            container.className = 'fixed bottom-4 right-4 z-50 flex flex-col space-y-2 pointer-events-none';
+            document.body.appendChild(container);
+        }
+        const toast = document.createElement('div');
+        toast.className = `px-4 py-2 rounded shadow text-white font-medium transition-opacity duration-300 ${type === 'error' ? 'bg-red-500' : 'bg-green-500'}`;
+        toast.innerText = message;
+        container.appendChild(toast);
+        setTimeout(() => { toast.classList.add('opacity-0'); setTimeout(() => toast.remove(), 300); }, 2500);
+    }
+
+    const drawBtn = document.getElementById('drawBtn');
+    const mainChartDiv = document.getElementById('main-chart');
+
+    function resetDrawButton() {
+        if (tempLineSeries) {
+            try { mainChart.removeSeries(tempLineSeries); } catch(e){}
+            tempLineSeries = null;
+        }
+        isDrawingMode = false;
+        document.getElementById('drawIcon').innerHTML = `<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path>`;
+        document.getElementById('drawText').innerText = `Draw`;
+
+        const group = document.getElementById('drawGroup');
+        group.classList.remove('bg-blue-50', 'ring-2', 'ring-blue-300');
+        group.classList.add('bg-gray-50');
+        mainChartDiv.classList.remove('drawing-mode');
+
+        mainChart.applyOptions({ handleScroll: true, handleScale: true });
+        mainChart.priceScale('right').applyOptions({ autoScale: true });
+    }
+
+    drawBtn.addEventListener('click', (e) => {
+        if (e.target.id === 'lineColorPicker' || e.target.closest('#lineColorPicker')) return;
+
+        if (isDrawingMode) {
+            drawStartPoint = null;
+            resetDrawButton();
+        } else {
+            isDrawingMode = true;
+            drawStartPoint = null;
+            document.getElementById('drawIcon').innerHTML = `<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>`;
+            document.getElementById('drawText').innerText = `Cancel`;
+
+            const group = document.getElementById('drawGroup');
+            group.classList.remove('bg-gray-50');
+            group.classList.add('bg-blue-50', 'border-blue-400');
+            mainChartDiv.classList.add('drawing-mode');
+
+            mainChart.applyOptions({ handleScroll: false, handleScale: false });
+        }
+    });
+
+    document.getElementById('undoBtn').addEventListener('click', () => {
+        if (drawnLineSeries.length > 0) { mainChart.removeSeries(drawnLineSeries.pop()); showToast("Line removed.", "success"); }
+        else { showToast("No lines to undo.", "error"); }
+        if (isDrawingMode && drawStartPoint) { drawStartPoint = null; resetDrawButton(); drawBtn.click(); }
+    });
+
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+
+    function renderSearchResults(query = '') {
+        const lowerQuery = query.toLowerCase();
+
+        // Only search through the active shadow list
+        const matchedFiles = activeIndices.map(origIdx => {
+            return { ...uploadedFiles[origIdx], origIdx, viewIdx: activeIndices.indexOf(origIdx) };
+        }).filter(f => f.name.toLowerCase().includes(lowerQuery));
+
+        searchResults.innerHTML = '';
+        if (matchedFiles.length === 0) {
+            searchResults.innerHTML = '<div class="p-3 text-sm text-gray-500">No matches found.</div>';
+            return;
+        }
+
+        matchedFiles.forEach(file => {
+            const item = document.createElement('div');
+            item.className = 'p-2 cursor-pointer hover:bg-blue-50 text-sm border-b border-gray-100 last:border-0';
+            if (file.viewIdx === currentActiveIdx) item.classList.add('font-bold', 'text-blue-600', 'bg-blue-50/50');
+            item.innerText = file.name;
+
+            item.addEventListener('mousedown', () => {
+                currentActiveIdx = file.viewIdx;
+                loadCurrentFile();
+                searchInput.value = '';
+                searchResults.classList.add('hidden');
+            });
+            searchResults.appendChild(item);
+        });
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        renderSearchResults(e.target.value);
+        searchResults.classList.remove('hidden');
+    });
+
+    searchInput.addEventListener('focus', (e) => {
+        if (activeIndices.length === 0) return;
+        renderSearchResults(e.target.value);
+        searchResults.classList.remove('hidden');
+    });
+
+    searchInput.addEventListener('blur', () => {
+        setTimeout(() => searchResults.classList.add('hidden'), 150);
+    });
+
+    const formatModal = document.getElementById('formatModal');
+    document.getElementById('viewFormatBtn').addEventListener('click', () => { formatModal.classList.remove('hidden'); formatModal.classList.add('flex'); });
+    document.getElementById('closeModalBtn').addEventListener('click', () => { formatModal.classList.add('hidden'); formatModal.classList.remove('flex'); });
+
+    document.getElementById('copyFormatBtn').addEventListener('click', () => {
+        const txt = window.generatedDataForExport || document.getElementById('sampleCsvContent').innerText;
+        navigator.clipboard.writeText(txt).then(() => {
+            document.getElementById('copyFormatBtn').innerText = 'Copied Full Dataset!';
+            setTimeout(() => document.getElementById('copyFormatBtn').innerText = 'Copy Full Sample', 2500);
+        });
+    });
+
+    // --- Validation and Filter Engine ---
+    const filterModal = document.getElementById('filterModal');
+    const filterInput = document.getElementById('filterInput');
+    const filterListContainer = document.getElementById('filterListContainer');
+    const filterCountBadge = document.getElementById('filterCountBadge');
+    const filterErrorMsg = document.getElementById('filterErrorMsg');
+
+    document.getElementById('openFilterBtn').addEventListener('click', () => {
+        renderFilterList();
+        filterModal.classList.remove('hidden');
+        filterModal.classList.add('flex');
+        filterErrorMsg.classList.add('hidden'); // Clear prior errors
+    });
+
+    document.getElementById('closeFilterModalBtn').addEventListener('click', () => {
+        filterModal.classList.add('hidden');
+        filterModal.classList.remove('flex');
+    });
+
+    // Helper to beautifully insert text at the user's blinking cursor!
+    function insertAtCursor(myField, myValue) {
+        if (myField.selectionStart || myField.selectionStart === '0') {
+            var startPos = myField.selectionStart;
+            var endPos = myField.selectionEnd;
+            myField.value = myField.value.substring(0, startPos) + myValue + myField.value.substring(endPos, myField.value.length);
+            myField.selectionStart = startPos + myValue.length;
+            myField.selectionEnd = startPos + myValue.length;
+        } else {
+            myField.value += myValue;
+        }
+        myField.focus();
+        myField.dispatchEvent(new Event('input')); // trigger validation clear
+    }
+
+    function renderFilterList() {
+        filterListContainer.innerHTML = '';
+        if (globalFilters.length === 0) {
+            filterListContainer.innerHTML = '<div class="text-gray-400 text-sm text-center mt-4">No filters added.</div>';
+            return;
+        }
+        globalFilters.forEach((filterStr, index) => {
+            const item = document.createElement('div');
+            item.className = "flex justify-between items-center bg-white border border-gray-200 p-2 rounded shadow-sm text-sm font-mono text-gray-700";
+            item.innerHTML = `
+                <span>${filterStr}</span>
+                <button class="text-red-400 hover:text-red-600 p-1 outline-none" onclick="removeFilter(${index})">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                </button>
+            `;
+            filterListContainer.appendChild(item);
+        });
+    }
+
+    window.removeFilter = function(index) {
+        globalFilters.splice(index, 1);
+        renderFilterList();
+    };
+
+    filterInput.addEventListener('input', () => {
+        filterErrorMsg.classList.add('hidden');
+    });
+
+    document.getElementById('addFilterBtn').addEventListener('click', () => {
+        const val = filterInput.value.trim();
+        if (!val) return;
+
+        // Validation Step 1: Check Javascript Syntax
+        try {
+            // Replace $.Property with a safe dummy number to test if the math/logic compiles
+            let testStr = val.replace(/\$\.([a-zA-Z0-9_:-]+)/g, '1');
+            testStr = testStr.replace(/\$\./g, '1'); // Catch loose $. just in case
+            eval(testStr);
+        } catch (e) {
+            filterErrorMsg.innerText = `Syntax Error: Invalid JavaScript expression. Please check your math and symbols.`;
+            filterErrorMsg.classList.remove('hidden');
+            return;
+        }
+
+        // Validation Step 2: Check Column Spelling
+        const regex = /\$\.([a-zA-Z0-9_:-]+)/g;
+        let match;
+        let missingHeaders = [];
+
+        while ((match = regex.exec(val)) !== null) {
+            let prop = match[1].toLowerCase();
+            if (globalAvailableHeaders.size > 0 && !globalAvailableHeaders.has(prop)) {
+                missingHeaders.push(match[1]);
+            }
+        }
+
+        if (missingHeaders.length > 0) {
+            filterErrorMsg.innerText = `Warning: Unknown column(s): ${missingHeaders.join(', ')}. Check spelling or View Format.`;
+            filterErrorMsg.classList.remove('hidden');
+            return;
+        }
+
+        filterErrorMsg.classList.add('hidden');
+
+        if (!globalFilters.includes(val)) {
+            globalFilters.push(val);
+            filterInput.value = '';
+            renderFilterList();
+        }
+    });
+
+    filterInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') document.getElementById('addFilterBtn').click();
+    });
+
+    document.getElementById('clearFiltersBtn').addEventListener('click', () => {
+        globalFilters = [];
+        renderFilterList();
+    });
+
+    // --- Filter Export & Import ---
+    document.getElementById('exportFiltersBtn').addEventListener('click', () => {
+        if (globalFilters.length === 0) {
+            showToast("No filters to export.", "error");
+            return;
+        }
+        const textToSave = globalFilters.join('\n');
+        const blob = new Blob([textToSave], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'fat_fa_filters.txt';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        showToast("Filters exported!", "success");
+    });
+
+    document.getElementById('importFiltersInput').addEventListener('change', (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = function(event) {
+            const content = event.target.result;
+            const lines = content.split(/\r?\n/);
+            let importedCount = 0;
+
+            lines.forEach(line => {
+                const trimmed = line.trim();
+                if (trimmed && !globalFilters.includes(trimmed)) {
+                    globalFilters.push(trimmed);
+                    importedCount++;
+                }
+            });
+
+            if (importedCount > 0) {
+                renderFilterList();
+                showToast(`Imported ${importedCount} filters successfully.`, "success");
+            } else {
+                showToast("No new filters found to import.", "error");
+            }
+        };
+        reader.readAsText(file);
+        e.target.value = '';
+    });
+
+    document.getElementById('applyFiltersBtn').addEventListener('click', () => {
+        filterModal.classList.add('hidden'); filterModal.classList.remove('flex');
+
+        if (globalFilters.length > 0) {
+            filterCountBadge.innerText = globalFilters.length;
+            filterCountBadge.classList.remove('hidden');
+        } else {
+            filterCountBadge.classList.add('hidden');
+        }
+
+        if (uploadedFiles.length === 0) return;
+
+        if (globalFilters.length === 0) {
+            // Restore shadow list to represent all uploaded files safely
+            activeIndices = uploadedFiles.map((_, i) => i);
+            currentActiveIdx = 0;
+            updateFileNavUI();
+            loadCurrentFile();
+            showToast("Filters cleared. All stocks restored.", "success");
+            return;
+        }
+
+        showToast("Evaluating filters...");
+
+        const evaluationPromises = uploadedFiles.map((fileObj, index) => {
+            return new Promise(resolve => {
+                Papa.parse(fileObj.file, {
+                    header: true,
+                    // Crucial: Forces parser to ignore entirely blank lines at the bottom of the CSV
+                    skipEmptyLines: 'greedy',
+                    complete: results => {
+                        const parsed = results.data;
+                        if (!parsed || parsed.length === 0) return resolve({ index, passed: false });
+
+                        const rawLastRow = parsed[parsed.length - 1];
+                        const lastRow = {};
+
+                        for (let key in rawLastRow) {
+                            if (!key) continue;
+
+                            let trimmedKey = key.trim();
+                            let valStr = String(rawLastRow[key] || '').trim();
+                            let valNum = parseFloat(valStr);
+                            let finalVal = isNaN(valNum) ? valStr : valNum;
+
+                            lastRow[trimmedKey] = finalVal;
+
+                            // Map base name (e.g. Macd:Bottom:Line -> Macd) so $.Macd works flawlessly
+                            let baseName = trimmedKey.split(':')[0].trim();
+                            if (baseName !== trimmedKey) {
+                                lastRow[baseName] = finalVal;
+                            }
+                        }
+
+                        let passedAll = true;
+                        for (let filterStr of globalFilters) {
+                            try {
+                                let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_:-]+)/g, 'lastRow["$1"]');
+                                evalStr = evalStr.replace(/\$\./g, 'lastRow.');
+
+                                if (!eval(evalStr)) {
+                                    passedAll = false;
+                                    break;
+                                }
+                            } catch (e) {
+                                console.warn(`Filter evaluation failed for ${fileObj.name}: ${filterStr}`, e);
+                                passedAll = false;
+                                break;
+                            }
+                        }
+
+                        resolve({ index, passed: passedAll });
+                    }
+                });
+            });
+        });
+
+        Promise.all(evaluationPromises).then(results => {
+            // Rebuild the visible shadow list based on the evaluation results
+            activeIndices = results.filter(r => r.passed).map(r => r.index);
+            const hiddenCount = uploadedFiles.length - activeIndices.length;
+
+            if (activeIndices.length === 0) {
+                currentActiveIdx = -1;
+                updateFileNavUI();
+                document.getElementById('statusText').innerText = "All stocks hidden by filters.";
+                Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
+                showToast(`Hidden ${hiddenCount} stocks. None matched filters.`, "error");
+            } else {
+                currentActiveIdx = 0;
+                updateFileNavUI();
+                loadCurrentFile();
+                showToast(`Filtered successfully. Hiding ${hiddenCount} stocks.`, "success");
+            }
+        });
+    });
+
+    function updateFileNavUI() {
+        const nav = document.getElementById('fileNavControls');
+        const search = document.getElementById('searchContainer');
+        const filtersBtn = document.getElementById('openFilterBtn');
+        const removeBtn = document.getElementById('removeFileBtn');
+
+        if (uploadedFiles.length > 0) {
+            filtersBtn.classList.remove('hidden');
+        } else {
+            filtersBtn.classList.add('hidden');
+        }
+
+        if (activeIndices.length > 0 && currentActiveIdx !== -1) {
+            nav.classList.remove('hidden');
+            search.classList.remove('hidden');
+            removeBtn.classList.remove('hidden');
+            document.getElementById('fileCounter').innerText = `${currentActiveIdx + 1} / ${activeIndices.length}`;
+        } else {
+            nav.classList.add('hidden');
+            search.classList.add('hidden');
+            removeBtn.classList.add('hidden');
+        }
+    }
+
+    function loadCurrentFile() {
+        if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
+
+        const realIndex = activeIndices[currentActiveIdx];
+        const fileObj = uploadedFiles[realIndex];
+
+        drawnLineSeries.forEach(s => { try { mainChart.removeSeries(s); } catch(e){} });
+        drawnLineSeries = [];
+        if (isDrawingMode) resetDrawButton();
+
+        Papa.parse(fileObj.file, {
+            header: true, skipEmptyLines: true,
+            complete: function(results) {
+                processChartData(results.data);
+                document.getElementById('statusText').innerText = fileObj.name;
+                updateFileNavUI();
+            }
+        });
+    }
+
+    document.getElementById('csvFileInput').addEventListener('change', (event) => {
+        const files = event.target.files;
+        if (files.length > 0) {
+            uploadedFiles = [];
+            for (let i = 0; i < files.length; i++) {
+                const stockName = files[i].name.replace(/\.[^/.]+$/, "");
+                uploadedFiles.push({ name: stockName, file: files[i] });
+            }
+
+            if (globalFilters.length > 0) {
+                document.getElementById('applyFiltersBtn').click();
+            } else {
+                activeIndices = uploadedFiles.map((_, i) => i);
+                currentActiveIdx = 0;
+                loadCurrentFile();
+            }
+        }
+        event.target.value = '';
+    });
+
+    document.getElementById('prevFileBtn').addEventListener('click', () => {
+        if (activeIndices.length <= 1) return;
+        currentActiveIdx = (currentActiveIdx - 1 + activeIndices.length) % activeIndices.length;
+        loadCurrentFile();
+    });
+
+    document.getElementById('nextFileBtn').addEventListener('click', () => {
+        if (activeIndices.length <= 1) return;
+        currentActiveIdx = (currentActiveIdx + 1) % activeIndices.length;
+        loadCurrentFile();
+    });
+
+    document.getElementById('removeFileBtn').addEventListener('click', () => {
+        if (activeIndices.length === 0) return;
+
+        // Permanently remove from the master file list
+        const realIndex = activeIndices[currentActiveIdx];
+        uploadedFiles.splice(realIndex, 1);
+
+        if (uploadedFiles.length === 0) {
+            activeIndices = [];
+            currentActiveIdx = -1;
+            updateFileNavUI();
+            document.getElementById('statusText').innerText = "All files removed. Showing sample data.";
+            document.getElementById('csvFileInput').value = '';
+            Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(results) { processChartData(results.data); } });
+        } else {
+            // Remove from active view and gracefully shift the active pointer down
+            activeIndices.splice(currentActiveIdx, 1);
+            for(let i=0; i<activeIndices.length; i++) {
+                if (activeIndices[i] > realIndex) activeIndices[i]--;
+            }
+
+            if (activeIndices.length === 0) {
+                currentActiveIdx = -1;
+                updateFileNavUI();
+                document.getElementById('statusText').innerText = "No stocks match current filters.";
+                Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
+            } else {
+                if (currentActiveIdx >= activeIndices.length) { currentActiveIdx = activeIndices.length - 1; }
+                loadCurrentFile();
+            }
+        }
+        showToast("Chart permanently removed.", "success");
+    });
+
+    function createLegendItem(container, name, color, shapeClass, series, targetChart) {
+        const item = document.createElement('div');
+        item.className = "flex items-center gap-1.5 cursor-pointer hover:bg-gray-100/80 px-1.5 py-0.5 rounded transition-all bg-white/80 border border-gray-100 shadow-sm backdrop-blur-sm";
+        item.innerHTML = `<span class="w-2.5 h-2.5 ${shapeClass}" style="background-color: ${color}"></span><span class="text-gray-700 select-none">${name}</span>`;
+
+        if (hiddenSeriesNames.has(name)) {
+            series.applyOptions({ visible: false });
+            item.classList.add('opacity-50', 'grayscale', 'line-through');
+        }
+
+        item.addEventListener('click', () => {
+            const isCurrentlyVisible = series.options().visible;
+            if (isCurrentlyVisible !== false) {
+                series.applyOptions({ visible: false });
+                item.classList.add('opacity-50', 'grayscale', 'line-through');
+                hiddenSeriesNames.add(name);
+            } else {
+                series.applyOptions({ visible: true });
+                item.classList.remove('opacity-50', 'grayscale', 'line-through');
+                hiddenSeriesNames.delete(name);
+            }
+        });
+
+        container.appendChild(item);
+    }
+
+    function parseHeader(headerString) {
+        const parts = headerString.split(':');
+        const name = parts[0];
+        let pane = 'Top';
+        let type = 'Line';
+
+        if (parts.length >= 2) pane = parts[1];
+        else if (name.toLowerCase().includes('vol')) { pane = 'Middle'; type = 'Histogram'; }
+
+        if (parts.length >= 3) type = parts[2];
+
+        return { name, pane, type, original: headerString };
+    }
+
+    function processChartData(data) {
+        if (!data || data.length === 0) return;
+
+        // Memorize all incoming headers to spell-check future custom filters!
+        globalAvailableHeaders.clear();
+        let displayTags = new Set(); // For the UI buttons
+
+        Object.keys(data[0]).forEach(key => {
+            if (!key) return;
+            let trimmed = key.trim();
+            globalAvailableHeaders.add(trimmed.toLowerCase());
+
+            // Also memorize the dynamically generated Base Name
+            let baseName = trimmed.split(':')[0].trim();
+            globalAvailableHeaders.add(baseName.toLowerCase());
+
+            // Add standard and base names to UI tags
+            displayTags.add(baseName);
+            if (trimmed.endsWith('_Dir')) displayTags.add(trimmed); // Keep _Dir explicit
+        });
+
+        // Update the modal UI with clickable tags
+        const tagsContainer = document.getElementById('columnTagsContainer');
+        if (tagsContainer) {
+            tagsContainer.innerHTML = '';
+            Array.from(displayTags).sort().forEach(tag => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = "bg-blue-50 hover:bg-blue-100 text-blue-700 border border-blue-200 px-2 py-0.5 rounded text-xs font-mono font-medium transition-colors shadow-sm outline-none";
+                btn.innerText = tag;
+                btn.onclick = () => insertAtCursor(document.getElementById('filterInput'), `$.${tag}`);
+                tagsContainer.appendChild(btn);
+            });
+        }
+
+        activeCustomSeries.forEach(s => {
+            try { mainChart.removeSeries(s); } catch(e){}
+            try { volumeChart.removeSeries(s); } catch(e){}
+            try { analyticsChart.removeSeries(s); } catch(e){}
+        });
+        activeCustomSeries = [];
+        volPrimarySeries = null;
+        analyticsPrimarySeries = null;
+
+        const candleData = [];
+        const customDataSets = {};
+        const headers = Object.keys(data[0]);
+
+        const headerConfigs = headers.filter(h => !h.endsWith('_Dir')).map(parseHeader);
+
+        headerConfigs.forEach(config => {
+            const lowerName = config.name.toLowerCase();
+            if (!['date', 'time', 'open', 'high', 'low', 'close'].includes(lowerName)) {
+                customDataSets[config.original] = { config: config, data: [] };
+            }
+        });
+
+        data.forEach(row => {
+            const dateVal = row['Date'] || row['Time'] || row['date'] || row['time'];
+            if (!dateVal) return;
+
+            let parsedTime;
+            try {
+                const d = new Date(dateVal);
+                parsedTime = d.getTime() / 1000;
+            } catch(e) { return; }
+
+            let open, close;
+            if (row['Open'] && row['High'] && row['Low'] && row['Close']) {
+                open = parseFloat(row['Open']);
+                close = parseFloat(row['Close']);
+                candleData.push({
+                    time: parsedTime,
+                    open: open,
+                    high: parseFloat(row['High']),
+                    low: parseFloat(row['Low']),
+                    close: close,
+                });
+            }
+
+            Object.keys(customDataSets).forEach(originalHeader => {
+                const val = parseFloat(row[originalHeader]);
+                const config = customDataSets[originalHeader].config;
+
+                if (!isNaN(val)) {
+                    let point = { time: parsedTime, value: val };
+
+                    if (config.name === 'Volume' && config.type === 'Histogram' && open !== undefined && close !== undefined) {
+                        point.color = close >= open ? '#22c55e80' : '#ef444480';
+                    }
+
+                    if (config.type === 'ColorLine') {
+                        const dirHeader = `${config.name}_Dir`;
+                        let dir = row[dirHeader];
+                        let isUp = (dir !== undefined && (dir == '1' || dir.toLowerCase() == 'true' || dir.toLowerCase() == 'up'));
+
+                        point.color = isUp ? '#22c55e' : '#ef4444';
+                    }
+
+                    customDataSets[originalHeader].data.push(point);
+                }
+            });
+        });
+
+        candleData.sort((a, b) => a.time - b.time);
+        globalCandleData = candleData;
+
+        Object.values(customDataSets).forEach(dataset => {
+            const dataMap = new Map(dataset.data.map(p => [p.time, p]));
+            const paddedData = [];
+            globalCandleData.forEach(candle => {
+                if (dataMap.has(candle.time)) {
+                    paddedData.push(dataMap.get(candle.time));
+                } else {
+                    paddedData.push({ time: candle.time });
+                }
+            });
+            dataset.data = paddedData;
+        });
+
+        candleSeries.setData(candleData);
+
+        const mainLegend = document.getElementById('main-legend');
+        const volLegend = document.getElementById('vol-legend');
+        const analyticsLegend = document.getElementById('analytics-legend');
+
+        mainLegend.innerHTML = ''; volLegend.innerHTML = ''; analyticsLegend.innerHTML = '';
+        createLegendItem(mainLegend, "Price", "#22c55e", "rounded-sm", candleSeries, mainChart);
+
+        let colorIndex = 0;
+
+        Object.values(customDataSets).forEach(dataset => {
+            if (dataset.data.length === 0) return;
+
+            // Skip rendering if explicitly requested to be HIDDEN
+            if (dataset.config.pane.toUpperCase() === 'HIDDEN') return;
+
+            let targetChart, targetLegend;
+            if (dataset.config.pane === 'Top') { targetChart = mainChart; targetLegend = mainLegend; }
+            else if (dataset.config.pane === 'Middle') { targetChart = volumeChart; targetLegend = volLegend; }
+            else if (dataset.config.pane === 'Bottom') { targetChart = analyticsChart; targetLegend = analyticsLegend; }
+            else { targetChart = mainChart; targetLegend = mainLegend; }
+
+            if (dataset.config.type === 'ColorLine') {
+                const stSeries = targetChart.addLineSeries({ lineWidth: 2, crosshairMarkerVisible: true });
+                stSeries.setData(dataset.data);
+                activeCustomSeries.push(stSeries);
+
+                const item = document.createElement('div');
+                item.className = "flex items-center gap-1.5 cursor-pointer hover:bg-gray-100/80 px-1.5 py-0.5 rounded transition-all bg-white/80 border border-gray-100 shadow-sm backdrop-blur-sm";
+                item.innerHTML = `<span class="w-2.5 h-2.5 rounded-full" style="background: linear-gradient(135deg, #22c55e 50%, #ef4444 50%)"></span><span class="text-gray-700 select-none">${dataset.config.name}</span>`;
+
+                if (hiddenSeriesNames.has(dataset.config.name)) {
+                    stSeries.applyOptions({ visible: false });
+                    item.classList.add('opacity-50', 'grayscale', 'line-through');
+                }
+
+                item.addEventListener('click', () => {
+                    const v = stSeries.options().visible !== false;
+                    stSeries.applyOptions({ visible: !v });
+                    if(v){ item.classList.add('opacity-50', 'grayscale', 'line-through'); hiddenSeriesNames.add(dataset.config.name); }
+                    else { item.classList.remove('opacity-50', 'grayscale', 'line-through'); hiddenSeriesNames.delete(dataset.config.name); }
+                });
+                targetLegend.appendChild(item);
+
+            } else {
+                const seriesColor = customPalette[colorIndex % customPalette.length];
+                colorIndex++;
+
+                let newSeries;
+                if (dataset.config.type === 'Histogram') { newSeries = targetChart.addHistogramSeries({ color: seriesColor, priceFormat: { type: 'volume' }}); }
+                else { newSeries = targetChart.addLineSeries({ color: seriesColor, lineWidth: 2 }); }
+
+                newSeries.setData(dataset.data);
+                activeCustomSeries.push(newSeries);
+
+                const shapeClass = dataset.config.type === 'Histogram' ? 'rounded-sm' : 'rounded-full';
+                createLegendItem(targetLegend, dataset.config.name, seriesColor, shapeClass, newSeries, targetChart);
+
+                if (targetChart === volumeChart && !volPrimarySeries) volPrimarySeries = newSeries;
+                if (targetChart === analyticsChart && !analyticsPrimarySeries) analyticsPrimarySeries = newSeries;
+            }
+        });
+
+        requestAnimationFrame(() => {
+            const len = globalCandleData.length;
+            if (len > 0) {
+                const range = { from: Math.max(0, len - 250), to: len - 1 };
+                mainChart.timeScale().setVisibleLogicalRange(range);
+                volumeChart.timeScale().setVisibleLogicalRange(range);
+                analyticsChart.timeScale().setVisibleLogicalRange(range);
+            } else {
+                mainChart.timeScale().fitContent();
+                volumeChart.timeScale().fitContent();
+                analyticsChart.timeScale().fitContent();
+            }
+
+            mainChart.priceScale('right').applyOptions({ autoScale: true });
+            volumeChart.priceScale('right').applyOptions({ autoScale: true });
+            analyticsChart.priceScale('right').applyOptions({ autoScale: true });
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        initCharts();
+
+        let generatedData = "Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,Macd:Bottom:Line\n";
+        let currentPrice = 100.0;
+        let prices = [];
+        let currentDate = new Date('2023-01-01T12:00:00Z');
+
+        for (let i = 1; i <= 80; i++) {
+            currentDate.setUTCDate(currentDate.getUTCDate() + 1);
+            if (currentDate.getUTCDay() === 0) currentDate.setUTCDate(currentDate.getUTCDate() + 1);
+            if (currentDate.getUTCDay() === 6) currentDate.setUTCDate(currentDate.getUTCDate() + 2);
+
+            let gap = (Math.random() - 0.5) * 0.8;
+            let open = currentPrice + gap;
+            let dailyMove = (Math.random() - 0.5) * 3.6 + 0.08;
+            let close = open + dailyMove;
+            let max = Math.max(open, close), min = Math.min(open, close);
+            let high = max + (Math.random() * 1.5), low = min - (Math.random() * 1.5);
+
+            let vol = Math.floor(30000000 + (Math.random() * 20000000) + (Math.abs(dailyMove) * 15000000));
+
+            currentPrice = close;
+            prices.push(close);
+
+            let ma10 = '';
+            if (prices.length >= 10) ma10 = (prices.slice(-10).reduce((a, b) => a + b, 0) / 10).toFixed(2);
+
+            let st = close - (dailyMove > 0 ? 3 : -3);
+            let stDir = Math.floor(i / 15) % 2 === 0 ? 1 : 0;
+
+            let momentum = '';
+            if (prices.length >= 10) momentum = (close - prices[prices.length - 10]).toFixed(2);
+
+            let dateStr = currentDate.toISOString().split('T')[0];
+            generatedData += `${dateStr},${open.toFixed(2)},${high.toFixed(2)},${low.toFixed(2)},${close.toFixed(2)},${vol},${ma10},${st.toFixed(2)},${stDir},${momentum}\n`;
+        }
+
+        window.generatedDataForExport = generatedData;
+        Papa.parse(generatedData, { header: true, skipEmptyLines: true, complete: function(results) { processChartData(results.data); } });
+    });
+</script>
+</body>
+</html>
