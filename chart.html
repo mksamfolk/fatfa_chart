@@ -1234,7 +1234,9 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
             loadingOverlay.classList.remove('hidden');
             loadingOverlay.classList.add('flex');
 
-            const listResponse = await fetch('data/stock_list.json');
+            // Add cache-busting timestamp and no-store header to force fresh JSON fetch
+            const cacheBuster = Date.now();
+            const listResponse = await fetch(`/data/stock_list.json?_t=${cacheBuster}`, { cache: 'no-store' });
             if (!listResponse.ok) throw new Error("stock_list.json not found on server.");
 
             const stockList = await listResponse.json();
@@ -1248,7 +1250,8 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
                 loadingSubtext.innerText = `Fetching ${i + 1} of ${stockList.length}`;
 
                 try {
-                    const csvResponse = await fetch(`data/${stockName}.csv`);
+                    // Force fresh CSV fetch for every single stock file
+                    const csvResponse = await fetch(`/data/${stockName}.csv?_t=${cacheBuster}`, { cache: 'no-store' });
                     if (!csvResponse.ok) continue;
 
                     const csvText = await csvResponse.text();
