@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fat Fa Chart</title>
 
-    <script src="vendor/tailwindcss.js"></script>
-    <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
-    <script src="vendor/papaparse-5.4.1.min.js"></script>
+    <!--    <script src="vendor/tailwindcss.js"></script>-->
+    <!--    <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>-->
+    <!--    <script src="vendor/papaparse-5.4.1.min.js"></script>-->
 
-<!--    <script src="https://cdn.tailwindcss.com"></script>-->
-<!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
-<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>-->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
@@ -27,6 +27,13 @@
     </style>
 </head>
 <body class="flex flex-col h-screen">
+
+<!-- Loading Overlay -->
+<div id="loadingOverlay" class="fixed inset-0 bg-gray-900 bg-opacity-80 hidden flex-col items-center justify-center z-[100] backdrop-blur-sm transition-opacity duration-300">
+    <div class="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-blue-500 mb-6 shadow-lg"></div>
+    <h2 class="text-white text-2xl font-bold tracking-wide" id="loadingText">Initializing...</h2>
+    <p class="text-gray-300 text-sm mt-2" id="loadingSubtext">Fetching stock data</p>
+</div>
 
 <header class="relative z-50 bg-white border-b border-gray-200 px-4 py-3 flex flex-wrap items-center justify-between shrink-0 shadow-sm gap-y-2">
     <!-- Left Side: Logo, Load, Search -->
@@ -287,7 +294,6 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
 
     const customPalette = ['#2563eb', '#db2777', '#059669', '#d97706', '#7c3aed', '#0891b2'];
 
-    // --- Initialization ---
     function initCharts() {
         const mainContainer = document.getElementById('main-chart');
         const volContainer = document.getElementById('volume-chart');
@@ -569,7 +575,6 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         });
     });
 
-    // --- Validation and Filter Engine ---
     const filterModal = document.getElementById('filterModal');
     const filterInput = document.getElementById('filterInput');
     const filterListContainer = document.getElementById('filterListContainer');
@@ -1181,9 +1186,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         });
     }
 
-    document.addEventListener('DOMContentLoaded', () => {
-        initCharts();
-
+    function prepareSampleDataFallback() {
         let generatedData = "Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,Macd:Bottom:Line\n";
         let currentPrice = 100.0;
         let prices = [];
@@ -1220,7 +1223,80 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         }
 
         window.generatedDataForExport = generatedData;
-        Papa.parse(generatedData, { header: true, skipEmptyLines: true, complete: function(results) { processChartData(results.data); } });
+    }
+
+    async function loadInitialData() {
+        const loadingOverlay = document.getElementById('loadingOverlay');
+        const loadingText = document.getElementById('loadingText');
+        const loadingSubtext = document.getElementById('loadingSubtext');
+
+        try {
+            loadingOverlay.classList.remove('hidden');
+            loadingOverlay.classList.add('flex');
+
+            const listResponse = await fetch('/data/stock_list.json');
+            if (!listResponse.ok) throw new Error("stock_list.json not found on server.");
+
+            const stockList = await listResponse.json();
+
+            uploadedFiles = [];
+            activeIndices = [];
+
+            for (let i = 0; i < stockList.length; i++) {
+                const stockName = stockList[i];
+                loadingText.innerText = `Loading ${stockName}`;
+                loadingSubtext.innerText = `Fetching ${i + 1} of ${stockList.length}`;
+
+                try {
+                    const csvResponse = await fetch(`/data/${stockName}.csv`);
+                    if (!csvResponse.ok) continue;
+
+                    const csvText = await csvResponse.text();
+
+                    // Creates a synthetic File object from the fetched text.
+                    // This allows us to perfectly reuse the existing manual upload architecture!
+                    const file = new File([csvText], `${stockName}.csv`, { type: "text/csv" });
+                    uploadedFiles.push({ name: stockName, file: file });
+
+                } catch (err) {
+                    console.warn(`Failed to fetch CSV for ${stockName}:`, err);
+                }
+            }
+
+            if (uploadedFiles.length > 0) {
+                if (globalFilters.length > 0) {
+                    document.getElementById('applyFiltersBtn').click();
+                } else {
+                    activeIndices = uploadedFiles.map((_, i) => i);
+                    currentActiveIdx = 0;
+                    loadCurrentFile();
+                }
+                showToast(`Successfully auto-loaded ${uploadedFiles.length} stocks.`, "success");
+            } else {
+                throw new Error("No valid CSV files were loaded from the JSON list.");
+            }
+
+        } catch (error) {
+            console.warn("Auto-load skipped or failed. Falling back to sample generated data.", error);
+            Papa.parse(window.generatedDataForExport, {
+                header: true,
+                skipEmptyLines: true,
+                complete: function(results) { processChartData(results.data); }
+            });
+        } finally {
+            loadingOverlay.classList.add('hidden');
+            loadingOverlay.classList.remove('flex');
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        initCharts();
+
+        // Prepare the fallback string in case auto-load fails or all files are deleted
+        prepareSampleDataFallback();
+
+        // Attempt the automatic fetch sequence
+        loadInitialData();
     });
 </script>
 </body>
