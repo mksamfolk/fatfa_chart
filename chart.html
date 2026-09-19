@@ -11,13 +11,13 @@
 
     <title>Fat Fa Chart</title>
 
-            <script src="vendor/tailwindcss.js"></script>
-            <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
-            <script src="vendor/papaparse-5.4.1.min.js"></script>
+    <!--        <script src="vendor/tailwindcss.js"></script>-->
+    <!--        <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>-->
+    <!--        <script src="vendor/papaparse-5.4.1.min.js"></script>-->
 
-<!--    <script src="https://cdn.tailwindcss.com"></script>-->
-<!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
-<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>-->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
@@ -44,49 +44,54 @@
 <header class="relative z-50 bg-white border-b border-gray-200 px-4 py-3 flex flex-wrap items-center justify-between shrink-0 shadow-sm gap-y-2">
     <!-- Left Side: Logo, Load, Search -->
     <div class="flex items-center space-x-4">
-        <div class="font-bold text-xl flex items-center gap-2">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 110 110" class="w-9 h-9 drop-shadow-sm">
-                <!-- Left Ear (Brown) -->
-                <path d="M 20 40 L 5 5 L 40 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
-                <path d="M 22 33 L 13 14 L 33 24 Z" fill="#fcd5ce"/>
-                <!-- Right Ear (Brown) -->
-                <path d="M 80 40 L 95 5 L 60 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
-                <path d="M 78 33 L 87 14 L 67 24 Z" fill="#fcd5ce"/>
-                <!-- Face Base (White) -->
-                <path d="M 10 55 C 10 20, 90 20, 90 55 C 90 90, 65 95, 50 95 C 35 95, 10 90, 10 55 Z" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
-                <!-- Left Brown Patch -->
-                <path d="M 11 50 C 11 30, 25 20, 40 20 C 45 20, 48 30, 42 45 C 35 60, 25 65, 12 58 Z" fill="#4a3c31"/>
-                <!-- Right Brown Patch -->
-                <path d="M 89 50 C 89 30, 75 20, 60 20 C 55 20, 52 30, 58 45 C 65 60, 75 65, 88 58 Z" fill="#4a3c31"/>
-                <!-- Eyes -->
-                <!-- Left Eye -->
-                <ellipse cx="32" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
-                <ellipse cx="34" cy="55" rx="8" ry="11" fill="#c3ce75"/>
-                <ellipse cx="35" cy="55" rx="4" ry="8" fill="#2d241e"/>
-                <circle cx="33" cy="49" r="2.5" fill="#ffffff"/>
-                <circle cx="37" cy="58" r="1" fill="#ffffff"/>
-                <!-- Right Eye -->
-                <ellipse cx="68" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
-                <ellipse cx="66" cy="55" rx="8" ry="11" fill="#c3ce75"/>
-                <ellipse cx="65" cy="55" rx="4" ry="8" fill="#2d241e"/>
-                <circle cx="67" cy="49" r="2.5" fill="#ffffff"/>
-                <circle cx="63" cy="58" r="1" fill="#ffffff"/>
-                <!-- Nose -->
-                <path d="M 46 72 L 54 72 L 50 77 Z" fill="#f4a2b3" stroke="#2d241e" stroke-width="1.5" stroke-linejoin="round"/>
-                <!-- Mouth -->
-                <path d="M 40 78 Q 45 83 50 79 Q 55 83 60 78" fill="none" stroke="#2d241e" stroke-width="2" stroke-linecap="round"/>
-                <!-- Whiskers Left -->
-                <path d="M 15 65 L -5 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
-                <path d="M 15 70 L -5 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
-                <!-- Whiskers Right -->
-                <path d="M 85 65 L 105 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
-                <path d="M 85 70 L 105 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
-            </svg>
-            <span>
+        <!-- Header Logo and As Of Date -->
+        <div class="flex flex-col justify-center">
+            <div class="font-bold text-xl flex items-center gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 110 110" class="w-9 h-9 drop-shadow-sm">
+                    <!-- Left Ear (Brown) -->
+                    <path d="M 20 40 L 5 5 L 40 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
+                    <path d="M 22 33 L 13 14 L 33 24 Z" fill="#fcd5ce"/>
+                    <!-- Right Ear (Brown) -->
+                    <path d="M 80 40 L 95 5 L 60 25 Z" fill="#4a3c31" stroke="#2d241e" stroke-width="3" stroke-linejoin="round"/>
+                    <path d="M 78 33 L 87 14 L 67 24 Z" fill="#fcd5ce"/>
+                    <!-- Face Base (White) -->
+                    <path d="M 10 55 C 10 20, 90 20, 90 55 C 90 90, 65 95, 50 95 C 35 95, 10 90, 10 55 Z" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                    <!-- Left Brown Patch -->
+                    <path d="M 11 50 C 11 30, 25 20, 40 20 C 45 20, 48 30, 42 45 C 35 60, 25 65, 12 58 Z" fill="#4a3c31"/>
+                    <!-- Right Brown Patch -->
+                    <path d="M 89 50 C 89 30, 75 20, 60 20 C 55 20, 52 30, 58 45 C 65 60, 75 65, 88 58 Z" fill="#4a3c31"/>
+                    <!-- Eyes -->
+                    <!-- Left Eye -->
+                    <ellipse cx="32" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                    <ellipse cx="34" cy="55" rx="8" ry="11" fill="#c3ce75"/>
+                    <ellipse cx="35" cy="55" rx="4" ry="8" fill="#2d241e"/>
+                    <circle cx="33" cy="49" r="2.5" fill="#ffffff"/>
+                    <circle cx="37" cy="58" r="1" fill="#ffffff"/>
+                    <!-- Right Eye -->
+                    <ellipse cx="68" cy="55" rx="12" ry="14" fill="#ffffff" stroke="#2d241e" stroke-width="3"/>
+                    <ellipse cx="66" cy="55" rx="8" ry="11" fill="#c3ce75"/>
+                    <ellipse cx="65" cy="55" rx="4" ry="8" fill="#2d241e"/>
+                    <circle cx="67" cy="49" r="2.5" fill="#ffffff"/>
+                    <circle cx="63" cy="58" r="1" fill="#ffffff"/>
+                    <!-- Nose -->
+                    <path d="M 46 72 L 54 72 L 50 77 Z" fill="#f4a2b3" stroke="#2d241e" stroke-width="1.5" stroke-linejoin="round"/>
+                    <!-- Mouth -->
+                    <path d="M 40 78 Q 45 83 50 79 Q 55 83 60 78" fill="none" stroke="#2d241e" stroke-width="2" stroke-linecap="round"/>
+                    <!-- Whiskers Left -->
+                    <path d="M 15 65 L -5 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M 15 70 L -5 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                    <!-- Whiskers Right -->
+                    <path d="M 85 65 L 105 60" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M 85 70 L 105 72" fill="none" stroke="#2d241e" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+                <span>
                     <span class="text-[#171717]">F</span><span class="text-[#ea580c]">a</span><span class="text-[#4a3c31]">t</span>
                     <span class="text-[#171717] ml-1">F</span><span class="text-[#ea580c]">a</span>
                     <span class="text-[#4a3c31] ml-1">C</span><span class="text-[#171717]">h</span><span class="text-[#ea580c]">a</span><span class="text-[#4a3c31]">r</span><span class="text-[#171717]">t</span>
                 </span>
+            </div>
+            <!-- As of Date Display -->
+            <div id="asofDateDisplay" class="text-xs text-gray-500 hidden ml-11 font-medium tracking-wide"></div>
         </div>
 
         <!-- Load CSV & Info Icon Group -->
@@ -1249,7 +1254,25 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
             const listResponse = await fetch(`data/stock_list.json?_t=${cacheBuster}`, { cache: 'no-store' });
             if (!listResponse.ok) throw new Error("stock_list.json not found on server.");
 
-            const stockList = await listResponse.json();
+            const jsonPayload = await listResponse.json();
+            let stockList = [];
+            let asofDate = "";
+
+            // Handle both the new object format and fallback to the old array format just in case
+            if (Array.isArray(jsonPayload)) {
+                stockList = jsonPayload;
+            } else {
+                stockList = jsonPayload.stocks || [];
+                asofDate = jsonPayload.asof || "";
+            }
+
+            if (asofDate) {
+                const asofEl = document.getElementById('asofDateDisplay');
+                if (asofEl) {
+                    asofEl.innerText = `Data as of: ${asofDate}`;
+                    asofEl.classList.remove('hidden');
+                }
+            }
 
             uploadedFiles = [];
             activeIndices = [];
