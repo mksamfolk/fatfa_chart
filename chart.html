@@ -956,6 +956,9 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         activeIndices.unshift(0);
 
         // 4. Reset pointer to position 1 and refresh
+        if (currentActiveIdx < activeIndices.length - 1) {
+            currentActiveIdx++;
+        }
         // currentActiveIdx = 0;
         updateFileNavUI();
         showToast("Moved to top.", "success");
