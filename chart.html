@@ -131,6 +131,11 @@
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
         </button>
 
+        <!-- Copy Filtered Button -->
+        <button id="copyFilteredBtn" class="hidden p-2 text-green-600 hover:text-green-800 hover:bg-green-50 bg-gray-50 border border-gray-200 rounded-lg shadow-sm transition outline-none" title="Copy filtered symbols to clipboard">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+        </button>
+
         <span id="statusText">Showing sample data</span>
 
         <!-- As of Date Display -->
@@ -853,6 +858,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         const search = document.getElementById('searchContainer');
         const filtersBtn = document.getElementById('openFilterBtn');
         const moveToTopBtn = document.getElementById('moveToTopBtn');
+        const copyFilteredBtn = document.getElementById('copyFilteredBtn');
 
         if (uploadedFiles.length > 0) {
             filtersBtn.classList.remove('hidden');
@@ -864,11 +870,13 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
             nav.classList.remove('hidden');
             search.classList.remove('hidden');
             moveToTopBtn.classList.remove('hidden');
+            copyFilteredBtn.classList.remove('hidden');
             document.getElementById('fileCounter').innerText = `${currentActiveIdx + 1} / ${activeIndices.length}`;
         } else {
             nav.classList.add('hidden');
             search.classList.add('hidden');
             moveToTopBtn.classList.add('hidden');
+            copyFilteredBtn.classList.add('hidden');
         }
     }
 
@@ -961,6 +969,23 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         // currentActiveIdx = 0;
         // updateFileNavUI();
         showToast("Moved to top.", "success");
+    });
+
+    // Copy Filtered Symbols Logic
+    document.getElementById('copyFilteredBtn').addEventListener('click', async () => {
+        if (activeIndices.length === 0) return;
+
+        // Grab the stock symbols mapped safely from the active filtered indices
+        const symbols = activeIndices.map(idx => uploadedFiles[idx].name).join('\n');
+
+        const symbolCount = activeIndices.length;
+
+        try {
+            await navigator.clipboard.writeText(symbols);
+            showToast(`Copied ${symbolCount} symbols to clipboard!`, "success");
+        } catch (err) {
+            showToast("Failed to copy to clipboard.", "error");
+        }
     });
 
     function createLegendItem(container, name, color, shapeClass, series, targetChart) {
