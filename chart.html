@@ -108,11 +108,6 @@
             <!-- Market Cap Display -->
             <span id="marketCapText" class="hidden text-xs text-gray-600 font-medium px-2 py-1 bg-gray-100 border border-gray-200 rounded"></span>
 
-            <!-- Move To Top Button -->
-            <button id="moveToTopBtn" class="hidden p-1 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded shadow-sm transition outline-none" title="Move to top">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
-            </button>
-
             <!-- As of Date Display -->
             <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
         </div>
@@ -861,7 +856,6 @@
         const nav = document.getElementById('fileNavControls');
         const search = document.getElementById('searchContainer');
         const filtersBtn = document.getElementById('openFilterBtn');
-        const moveToTopBtn = document.getElementById('moveToTopBtn');
         const copyFilteredBtn = document.getElementById('copyFilteredBtn');
 
         if (uploadedFiles.length > 0) {
@@ -873,13 +867,11 @@
         if (activeIndices.length > 0 && currentActiveIdx !== -1) {
             nav.classList.remove('hidden');
             search.classList.remove('hidden');
-            moveToTopBtn.classList.remove('hidden');
             copyFilteredBtn.classList.remove('hidden');
             document.getElementById('fileCounter').innerText = `${currentActiveIdx + 1} / ${activeIndices.length}`;
         } else {
             nav.classList.add('hidden');
             search.classList.add('hidden');
-            moveToTopBtn.classList.add('hidden');
             copyFilteredBtn.classList.add('hidden');
         }
     }
@@ -946,29 +938,6 @@
         if (activeIndices.length <= 1) return;
         currentActiveIdx = (currentActiveIdx + 1) % activeIndices.length;
         loadCurrentFile();
-    });
-
-    document.getElementById('moveToTopBtn').addEventListener('click', () => {
-        if (activeIndices.length === 0) return;
-        const realIndex = activeIndices[currentActiveIdx];
-
-        if (realIndex === 0) {
-            if (currentActiveIdx !== 0) { currentActiveIdx = 0; updateFileNavUI(); }
-            showToast("Already at the top.", "success"); return;
-        }
-
-        const fileToMove = uploadedFiles.splice(realIndex, 1)[0];
-        uploadedFiles.unshift(fileToMove);
-
-        activeIndices.splice(currentActiveIdx, 1);
-        for (let i = 0; i < activeIndices.length; i++) {
-            if (activeIndices[i] < realIndex) activeIndices[i]++;
-        }
-
-        activeIndices.unshift(0);
-        currentActiveIdx = 0;
-        updateFileNavUI();
-        showToast("Moved to top.", "success");
     });
 
     document.getElementById('copyFilteredBtn').addEventListener('click', async () => {
