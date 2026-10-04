@@ -34,7 +34,6 @@
 </head>
 <body class="flex flex-col h-screen">
 
-<!-- Loading Overlay -->
 <div id="loadingOverlay" class="fixed inset-0 bg-gray-900 bg-opacity-80 hidden flex-col items-center justify-center z-[100] backdrop-blur-sm transition-opacity duration-300">
     <div class="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-blue-500 mb-6 shadow-lg"></div>
     <h2 class="text-white text-2xl font-bold tracking-wide" id="loadingText">Initializing...</h2>
@@ -139,7 +138,7 @@
         <span id="statusText">Showing sample data</span>
 
         <!-- As of Date Display -->
-        <div id="asofDateDisplay"></div>
+        <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
 
     </div>
 
@@ -164,6 +163,8 @@
         </button>
 
         <div class="text-sm text-gray-500 flex items-center gap-3 ml-2">
+            <!-- Details Button -->
+            <button id="showDetailsBtn" class="text-blue-500 hover:text-blue-700 underline font-medium hidden">Details</button>
 
             <!-- Filters Button -->
             <button id="openFilterBtn" class="text-blue-500 hover:text-blue-700 underline font-medium flex items-center gap-1 hidden">
@@ -212,6 +213,23 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
 2023-01-03,130.28,130.9,124.17,125.07,112117500,,,,,
 2023-01-04,126.89,128.66,125.08,126.36,89113600,,,,,
 2023-01-05,127.13,127.77,124.76,125.02,80962700,,,,,</pre>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Ticker Details Modal -->
+<div id="detailsModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 class="text-lg font-bold text-gray-800" id="detailsModalTitle">Ticker Details</h3>
+            <button id="closeDetailsModalBtn" class="text-gray-500 hover:text-gray-800">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div class="p-4 overflow-y-auto flex-grow text-sm text-gray-700">
+            <div id="detailsContent" class="grid grid-cols-2 gap-4">
+                <!-- Key-value pairs injected here -->
             </div>
         </div>
     </div>
@@ -300,6 +318,33 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
     let drawnLineSeries = [];
     let tempLineSeries = null;
 
+    // Split raw CSV text: Extract first two lines as metadata if they do not contain typical chart headers
+    function extractMetadataAndCsv(fullText) {
+        const lines = fullText.split(/\r?\n/);
+        if (lines.length < 3) return { metadata: {}, remainingCsv: fullText };
+
+        const firstLine = lines[0].trim();
+        const firstCell = firstLine.split(',')[0].trim().toLowerCase().replace(/^["']|["']$/g, '');
+
+        if (firstCell !== 'date' && firstCell !== 'time' && firstCell !== 'timestamp') {
+            const metaCsv = lines.slice(0, 2).join('\n');
+            const parsedMeta = Papa.parse(metaCsv).data;
+            let metadata = {};
+            if (parsedMeta.length >= 2) {
+                const keys = parsedMeta[0];
+                const vals = parsedMeta[1];
+                for (let i = 0; i < keys.length; i++) {
+                    const key = keys[i] ? String(keys[i]).trim() : '';
+                    if (key) metadata[key] = vals[i] !== undefined ? String(vals[i]).trim() : '';
+                }
+            }
+            const remainingCsv = lines.slice(2).join('\n');
+            return { metadata, remainingCsv };
+        }
+
+        return { metadata: {}, remainingCsv: fullText };
+    }
+
     const chartTheme = {
         layout: { background: { type: 'solid', color: '#ffffff' }, textColor: '#374151' },
         grid: { vertLines: { color: '#f3f4f6' }, horzLines: { color: '#f3f4f6' } },
@@ -313,7 +358,6 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
 
     const customPalette = ['#2563eb', '#db2777', '#059669', '#d97706', '#7c3aed', '#0891b2'];
 
-    // --- Initialization ---
     function initCharts() {
         const mainContainer = document.getElementById('main-chart');
         const volContainer = document.getElementById('volume-chart');
@@ -587,6 +631,37 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
     document.getElementById('viewFormatBtn').addEventListener('click', () => { formatModal.classList.remove('hidden'); formatModal.classList.add('flex'); });
     document.getElementById('closeModalBtn').addEventListener('click', () => { formatModal.classList.add('hidden'); formatModal.classList.remove('flex'); });
 
+    // Details Modal Logic
+    const detailsModal = document.getElementById('detailsModal');
+    const showDetailsBtn = document.getElementById('showDetailsBtn');
+    const detailsContent = document.getElementById('detailsContent');
+    const detailsModalTitle = document.getElementById('detailsModalTitle');
+
+    showDetailsBtn.addEventListener('click', () => {
+        if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
+        const fileObj = uploadedFiles[activeIndices[currentActiveIdx]];
+
+        detailsModalTitle.innerText = `${fileObj.name} Details`;
+        detailsContent.innerHTML = '';
+
+        if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
+            for (const [key, value] of Object.entries(fileObj.metadata)) {
+                const row = document.createElement('div');
+                row.className = 'col-span-2 sm:col-span-1 flex flex-col bg-gray-50 p-2 rounded border border-gray-100';
+                row.innerHTML = `<span class="text-xs font-semibold text-gray-500 uppercase">${key}</span><span class="font-medium text-gray-800 break-words">${value}</span>`;
+                detailsContent.appendChild(row);
+            }
+        }
+
+        detailsModal.classList.remove('hidden');
+        detailsModal.classList.add('flex');
+    });
+
+    document.getElementById('closeDetailsModalBtn').addEventListener('click', () => {
+        detailsModal.classList.add('hidden');
+        detailsModal.classList.remove('flex');
+    });
+
     document.getElementById('copyFormatBtn').addEventListener('click', () => {
         const txt = window.generatedDataForExport || document.getElementById('sampleCsvContent').innerText;
         navigator.clipboard.writeText(txt).then(() => {
@@ -782,7 +857,7 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
 
         const evaluationPromises = uploadedFiles.map((fileObj, index) => {
             return new Promise(resolve => {
-                Papa.parse(fileObj.file, {
+                Papa.parse(fileObj.text, {
                     header: true,
                     // Crucial: Forces parser to ignore entirely blank lines at the bottom of the CSV
                     skipEmptyLines: 'greedy',
@@ -890,23 +965,34 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         drawnLineSeries = [];
         if (isDrawingMode) resetDrawButton();
 
-        Papa.parse(fileObj.file, {
+        Papa.parse(fileObj.text, {
             header: true, skipEmptyLines: true,
             complete: function(results) {
                 processChartData(results.data);
                 document.getElementById('statusText').innerText = fileObj.name;
+
+                const showDetailsBtn = document.getElementById('showDetailsBtn');
+                if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
+                    showDetailsBtn.classList.remove('hidden');
+                } else {
+                    showDetailsBtn.classList.add('hidden');
+                }
+
                 updateFileNavUI();
             }
         });
     }
 
-    document.getElementById('csvFileInput').addEventListener('change', (event) => {
+    document.getElementById('csvFileInput').addEventListener('change', async (event) => {
         const files = event.target.files;
         if (files.length > 0) {
             uploadedFiles = [];
             for (let i = 0; i < files.length; i++) {
-                const stockName = files[i].name.replace(/\.[^/.]+$/, "");
-                uploadedFiles.push({ name: stockName, file: files[i] });
+                const file = files[i];
+                const stockName = file.name.replace(/\.[^/.]+$/, "");
+                const text = await file.text();
+                const { metadata, remainingCsv } = extractMetadataAndCsv(text);
+                uploadedFiles.push({ name: stockName, text: remainingCsv, metadata });
             }
 
             if (globalFilters.length > 0) {
@@ -964,10 +1050,8 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
         activeIndices.unshift(0);
 
         // 4. Reset pointer to position 1 and refresh
-        currentActiveIdx = (currentActiveIdx + 1) % activeIndices.length;
-        loadCurrentFile();
-        // currentActiveIdx = 0;
-        // updateFileNavUI();
+        currentActiveIdx = 0;
+        updateFileNavUI();
         showToast("Moved to top.", "success");
     });
 
@@ -1318,11 +1402,9 @@ Date,Open,High,Low,Close,Volume:Middle:Histogram,MA10:Top:Line,ST:Top:ColorLine,
                     if (!csvResponse.ok) continue;
 
                     const csvText = await csvResponse.text();
+                    const { metadata, remainingCsv } = extractMetadataAndCsv(csvText);
 
-                    // Creates a synthetic File object from the fetched text.
-                    // This allows us to perfectly reuse the existing manual upload architecture!
-                    const file = new File([csvText], `${stockName}.csv`, { type: "text/csv" });
-                    uploadedFiles.push({ name: stockName, file: file });
+                    uploadedFiles.push({ name: stockName, text: remainingCsv, metadata });
 
                 } catch (err) {
                     console.warn(`Failed to fetch CSV for ${stockName}:`, err);
