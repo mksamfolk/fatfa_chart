@@ -108,10 +108,10 @@
             <button id="moveToTopBtn" class="hidden p-1.5 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded shadow-sm transition outline-none" title="Move to top">
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
             </button>
-        </div>
 
-        <!-- As of Date Display -->
-        <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
+            <!-- As of Date Display -->
+            <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
+        </div>
 
     </div>
 
@@ -155,7 +155,7 @@
     </div>
 </div>
 
-<!-- Global Filter Modal -->
+<!-- Tabbed Global Filter Modal -->
 <div id="filterModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
     <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
         <div class="flex justify-between items-center p-4 border-b">
@@ -164,30 +164,49 @@
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
             </button>
         </div>
-        <div class="p-4 flex-grow flex flex-col gap-2">
+
+        <!-- Filter Tabs -->
+        <div class="flex border-b border-gray-200">
+            <button id="tabPriceBtn" class="w-1/2 py-3 text-sm font-medium text-blue-600 border-b-2 border-blue-600 focus:outline-none transition-colors">Price Data Filters</button>
+            <button id="tabMetaBtn" class="w-1/2 py-3 text-sm font-medium text-gray-500 border-b-2 border-transparent hover:text-gray-700 focus:outline-none transition-colors">Ticker Detail Filters</button>
+        </div>
+
+        <!-- Tab Content 1: Price Data -->
+        <div id="panePrice" class="p-4 flex-grow flex flex-col gap-2 min-h-[300px]">
             <p class="text-sm text-gray-600 mb-2">
-                Filter stocks using JavaScript expressions. Use <code class="bg-gray-100 px-1 rounded font-bold text-blue-600">$</code> to reference the <strong>last row</strong> of data. Failed stocks will be hidden from view.
+                Filter stocks based on the <strong>last row</strong> of price data. Use <code class="bg-gray-100 px-1 rounded font-bold text-blue-600">$</code> to reference columns.
                 <br><span class="text-xs text-gray-500 italic">Example: <code class="bg-gray-100 px-1">$.Close > 100</code> or <code class="bg-gray-100 px-1">$.Macd > $.MacdSignal</code></span>
             </p>
             <div class="flex gap-2">
-                <input type="text" id="filterInput" class="flex-grow p-2 border border-gray-300 rounded focus:ring-blue-500 focus:border-blue-500 outline-none text-sm font-mono" placeholder="e.g. $.Macd > $.MacdSignal">
-                <button id="addFilterBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors">Add</button>
+                <input type="text" id="priceFilterInput" class="flex-grow p-2 border border-gray-300 rounded focus:ring-blue-500 focus:border-blue-500 outline-none text-sm font-mono" placeholder="e.g. $.Macd > $.MacdSignal">
+                <button id="addPriceFilterBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors">Add</button>
             </div>
-
-            <!-- Clickable Columns UI -->
             <div class="mt-1">
-                <span class="text-xs font-semibold text-gray-600">Available Columns (Click to insert at cursor):</span>
-                <div id="columnTagsContainer" class="flex flex-wrap gap-1.5 mt-1 max-h-24 overflow-y-auto pb-1">
+                <span class="text-xs font-semibold text-gray-600">Available Columns (Click to insert):</span>
+                <div id="priceTagsContainer" class="flex flex-wrap gap-1.5 mt-1 max-h-24 overflow-y-auto pb-1">
                     <span class="text-gray-400 italic text-xs">Load data to see columns...</span>
                 </div>
             </div>
+            <div id="priceFilterErrorMsg" class="text-xs text-red-500 hidden font-medium px-1"></div>
+            <div class="border border-gray-200 rounded-md bg-gray-50 flex-grow min-h-[100px] overflow-y-auto p-2 flex flex-col gap-2 mt-2" id="priceFilterListContainer"></div>
+        </div>
 
-            <!-- Validation Error Message -->
-            <div id="filterErrorMsg" class="text-xs text-red-500 hidden font-medium px-1"></div>
-
-            <div class="border border-gray-200 rounded-md bg-gray-50 flex-grow min-h-[150px] overflow-y-auto p-2 flex flex-col gap-2 mt-2" id="filterListContainer">
-                <!-- Filters injected here -->
+        <!-- Tab Content 2: Ticker Details (Metadata) -->
+        <div id="paneMeta" class="p-4 flex-grow flex flex-col gap-2 min-h-[300px] hidden">
+            <p class="text-sm text-gray-600 mb-2">
+                Filter stocks based on fundamental ticker details. Use <code class="bg-gray-100 px-1 rounded font-bold text-blue-600">$</code> to reference fields.
+                <br><span class="text-xs text-gray-500 italic">Example: <code class="bg-gray-100 px-1">$.marketCap > 1000000000</code> or <code class="bg-gray-100 px-1">$.sector == 'Technology'</code></span>
+            </p>
+            <div class="flex gap-2">
+                <input type="text" id="metaFilterInput" class="flex-grow p-2 border border-gray-300 rounded focus:ring-blue-500 focus:border-blue-500 outline-none text-sm font-mono" placeholder="e.g. $.marketCap > 1000000000">
+                <button id="addMetaFilterBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium transition-colors">Add</button>
             </div>
+            <div class="mt-1">
+                <span class="text-xs font-semibold text-gray-600">Available Details (Click to insert):</span>
+                <div id="metaTagsContainer" class="flex flex-wrap gap-1.5 mt-1 max-h-24 overflow-y-auto pb-1"></div>
+            </div>
+            <div id="metaFilterErrorMsg" class="text-xs text-red-500 hidden font-medium px-1"></div>
+            <div class="border border-gray-200 rounded-md bg-gray-50 flex-grow min-h-[100px] overflow-y-auto p-2 flex flex-col gap-2 mt-2" id="metaFilterListContainer"></div>
         </div>
 
         <!-- Footer: Export/Import and Action Buttons -->
@@ -225,12 +244,47 @@
     let activeIndices = [];
     let currentActiveIdx = -1;
 
-    // Filter state
-    let globalFilters = [];
+    // Split Filter state
+    let priceFilters = [];
+    let metaFilters = [];
     let globalAvailableHeaders = new Set(); // Stores known CSV headers for typo-checking
+    let activeFilterTab = 'price'; // 'price' or 'meta'
 
     // Hidden series tracking (Persists across navigation)
     let hiddenSeriesNames = new Set();
+
+    const metadataLabelMap = {
+        "symbol": "Symbol", "longName": "Long Name", "sector": "Sector", "industry": "Industry", "country": "Country",
+        "marketCap": "Market Cap", "currentPrice": "Current Price", "averageVolume10days": "Average Volume 10 days",
+        "averageVolume3months": "Average Volume 3 months", "averageDollarVolume": "Average Dollar Volume",
+        "revenueGrowth": "Revenue Growth", "earningsGrowth": "Earnings Growth", "earningsQuarterlyGrowth": "Earnings Quarterly Growth",
+        "grossMargins": "Gross Margins", "operatingMargins": "Operating Margins", "profitMargins": "Profit Margins",
+        "returnOnEquity": "Return On Equity", "returnOnAssets": "Return On Assets", "totalCash": "Total Cash",
+        "totalDebt": "Total Debt", "debtToEquity": "Debt to Equity", "currentRatio": "Current Ratio", "quickRatio": "Quick Ratio",
+        "operatingCashflow": "Operating Cashflow", "freeCashflow": "Free Cashflow", "sharesOutstanding": "Shares Outstanding",
+        "floatShares": "Float Shares", "heldPercentInsiders": "Held Percent Insiders", "heldPercentInstitutions": "Held Percent Institutions",
+        "sharesShort": "Shares Short", "shortRatio": "Short Ratio", "shortPercentOfFloat": "Short Percent of Float",
+        "trailingPE": "Trailing PE", "forwardPE": "Forward PE", "priceToSalesTrailing12Months": "Price to Sales Trailing 12 Months",
+        "priceToBook": "Price to Book", "enterpriseToRevenue": "Enterprise to Revenue", "enterpriseToEbitda": "Enterprise to Ebitda",
+        "targetMeanPrice": "Target Mean Price", "targetHighPrice": "Target High Price", "targetLowPrice": "Target Low Price",
+        "recommendationMean": "Recommendation Mean", "recommendationKey": "Recommendation Key", "numberOfAnalystOpinions": "Number of Analyst Opinions",
+        "epsRevisionUpLast7Days": "Eps Revision Up Last 7 Days", "epsRevisionUpLast30Days": "Eps Revision Up Last 30 Days",
+        "epsRevisionDownLast7Days": "Eps Revision Down Last 7 Days", "epsRevisionDownLast30Days": "Eps Revision Down Last 30 Days",
+        "nextEarningsDate": "Next Earnings Date", "beta": "Beta", "website": "Website", "retrievedAt": "Retrieved At"
+    };
+
+    const dollarFields = new Set([
+        "marketCap", "currentPrice", "averageDollarVolume", "totalCash",
+        "totalDebt", "operatingCashflow", "freeCashflow", "targetMeanPrice",
+        "targetHighPrice", "targetLowPrice"
+    ]);
+
+    const commaFields = new Set([
+        "averageVolume10days", "averageVolume3months", "sharesOutstanding",
+        "floatShares", "sharesShort", "numberOfAnalystOpinions",
+        "epsRevisionUpLast7Days", "epsRevisionUpLast30Days",
+        "epsRevisionDownLast7Days", "epsRevisionDownLast30Days"
+    ]);
 
     // Split raw CSV text: Extract first two lines as metadata if they do not contain typical chart headers
     function extractMetadataAndCsv(fullText) {
@@ -263,10 +317,7 @@
         layout: { background: { type: 'solid', color: '#ffffff' }, textColor: '#374151' },
         grid: { vertLines: { color: '#f3f4f6' }, horzLines: { color: '#f3f4f6' } },
         crosshair: { mode: LightweightCharts.CrosshairMode.Normal },
-        rightPriceScale: {
-            borderColor: '#d1d5db',
-            minimumWidth: 90
-        },
+        rightPriceScale: { borderColor: '#d1d5db', minimumWidth: 90 },
         timeScale: { borderColor: '#d1d5db' }
     };
 
@@ -307,7 +358,6 @@
                 if (!param.time) { volumeChart.clearCrosshairPosition(); analyticsChart.clearCrosshairPosition(); }
                 return;
             }
-
             isSyncing = true;
             if (volPrimarySeries) {
                 const dp = getCrosshairDataPoint(mainPrimarySeries, param);
@@ -369,8 +419,6 @@
 
     function renderSearchResults(query = '') {
         const lowerQuery = query.toLowerCase();
-
-        // Only search through the active shadow list
         const matchedFiles = activeIndices.map(origIdx => {
             return { ...uploadedFiles[origIdx], origIdx, viewIdx: activeIndices.indexOf(origIdx) };
         }).filter(f => f.name.toLowerCase().includes(lowerQuery));
@@ -412,80 +460,7 @@
         setTimeout(() => searchResults.classList.add('hidden'), 150);
     });
 
-    // Details Modal Logic
-    const detailsModal = document.getElementById('detailsModal');
-    const showDetailsBtn = document.getElementById('showDetailsBtn');
-    const detailsContent = document.getElementById('detailsContent');
-    const detailsModalTitle = document.getElementById('detailsModalTitle');
-
-    const metadataLabelMap = {
-        "symbol": "Symbol",
-        "longName": "Long Name",
-        "sector": "Sector",
-        "industry": "Industry",
-        "country": "Country",
-        "marketCap": "Market Cap",
-        "currentPrice": "Current Price",
-        "averageVolume10days": "Average Volume10days",
-        "averageVolume3months": "Average Volume3months",
-        "averageDollarVolume": "Average Dollar Volume",
-        "revenueGrowth": "Revenue Growth",
-        "earningsGrowth": "Earnings Growth",
-        "earningsQuarterlyGrowth": "Earnings Quarterly Growth",
-        "grossMargins": "Gross Margins",
-        "operatingMargins": "Operating Margins",
-        "profitMargins": "Profit Margins",
-        "returnOnEquity": "Return On Equity",
-        "returnOnAssets": "Return On Assets",
-        "totalCash": "Total Cash",
-        "totalDebt": "Total Debt",
-        "debtToEquity": "Debt to Equity",
-        "currentRatio": "Current Ratio",
-        "quickRatio": "Quick Ratio",
-        "operatingCashflow": "Operating Cashflow",
-        "freeCashflow": "Free Cashflow",
-        "sharesOutstanding": "Shares Outstanding",
-        "floatShares": "Float Shares",
-        "heldPercentInsiders": "Held Percent Insiders",
-        "heldPercentInstitutions": "Held Percent Institutions",
-        "sharesShort": "Shares Short",
-        "shortRatio": "Short Ratio",
-        "shortPercentOfFloat": "Short Percent of Float",
-        "trailingPE": "Trailing PE",
-        "forwardPE": "Forward PE",
-        "priceToSalesTrailing12Months": "Price to Sales Trailing12 Months",
-        "priceToBook": "Price to Book",
-        "enterpriseToRevenue": "Enterprise to Revenue",
-        "enterpriseToEbitda": "Enterprise to Ebitda",
-        "targetMeanPrice": "Target Mean Price",
-        "targetHighPrice": "Target High Price",
-        "targetLowPrice": "Target Low Price",
-        "recommendationMean": "Recommendation Mean",
-        "recommendationKey": "Recommendation Key",
-        "numberOfAnalystOpinions": "Number of Analyst Opinions",
-        "epsRevisionUpLast7Days": "Eps Revision Up Last 7 Days",
-        "epsRevisionUpLast30Days": "Eps Revision Up Last 30 Days",
-        "epsRevisionDownLast7Days": "Eps Revision Down Last 7 Days",
-        "epsRevisionDownLast30Days": "Eps Revision Down Last 30 Days",
-        "nextEarningsDate": "Next Earnings Date",
-        "beta": "Beta",
-        "website": "Website",
-        "retrievedAt": "Retrieved At"
-    };
-
-    const dollarFields = new Set([
-        "marketCap", "currentPrice", "averageDollarVolume", "totalCash",
-        "totalDebt", "operatingCashflow", "freeCashflow", "targetMeanPrice",
-        "targetHighPrice", "targetLowPrice"
-    ]);
-
-    const commaFields = new Set([
-        "averageVolume10days", "averageVolume3months", "sharesOutstanding",
-        "floatShares", "sharesShort", "numberOfAnalystOpinions",
-        "epsRevisionUpLast7Days", "epsRevisionUpLast30Days",
-        "epsRevisionDownLast7Days", "epsRevisionDownLast30Days"
-    ]);
-
+    // Details Formatting Logic
     function formatDollarValue(val) {
         if (val === null || val === undefined || val === '') return val;
         let num = parseFloat(val);
@@ -502,7 +477,6 @@
         } else {
             formatted = absNum.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
         }
-
         return (isNegative ? '-$' : '$') + formatted;
     }
 
@@ -512,6 +486,12 @@
         if (isNaN(num)) return val;
         return num.toLocaleString('en-US');
     }
+
+    // Details Modal Logic
+    const detailsModal = document.getElementById('detailsModal');
+    const showDetailsBtn = document.getElementById('showDetailsBtn');
+    const detailsContent = document.getElementById('detailsContent');
+    const detailsModalTitle = document.getElementById('detailsModalTitle');
 
     showDetailsBtn.addEventListener('click', () => {
         if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
@@ -533,7 +513,6 @@
 
                 const row = document.createElement('div');
                 row.className = 'col-span-2 sm:col-span-1 flex flex-col bg-gray-50 p-2 rounded border border-gray-100';
-                // Removed 'uppercase' class to respect the CamelCase formatting
                 row.innerHTML = `<span class="text-xs font-semibold text-gray-500">${displayLabel}</span><span class="font-medium text-gray-800 break-words">${displayValue}</span>`;
                 detailsContent.appendChild(row);
             }
@@ -549,16 +528,41 @@
     });
 
     const filterModal = document.getElementById('filterModal');
-    const filterInput = document.getElementById('filterInput');
-    const filterListContainer = document.getElementById('filterListContainer');
     const filterCountBadge = document.getElementById('filterCountBadge');
-    const filterErrorMsg = document.getElementById('filterErrorMsg');
+
+    // Tab Switching Logic
+    const tabPriceBtn = document.getElementById('tabPriceBtn');
+    const tabMetaBtn = document.getElementById('tabMetaBtn');
+    const panePrice = document.getElementById('panePrice');
+    const paneMeta = document.getElementById('paneMeta');
+
+    tabPriceBtn.addEventListener('click', () => {
+        activeFilterTab = 'price';
+        tabPriceBtn.classList.replace('text-gray-500', 'text-blue-600');
+        tabPriceBtn.classList.replace('border-transparent', 'border-blue-600');
+        tabMetaBtn.classList.replace('text-blue-600', 'text-gray-500');
+        tabMetaBtn.classList.replace('border-blue-600', 'border-transparent');
+        panePrice.classList.remove('hidden');
+        paneMeta.classList.add('hidden');
+    });
+
+    tabMetaBtn.addEventListener('click', () => {
+        activeFilterTab = 'meta';
+        tabMetaBtn.classList.replace('text-gray-500', 'text-blue-600');
+        tabMetaBtn.classList.replace('border-transparent', 'border-blue-600');
+        tabPriceBtn.classList.replace('text-blue-600', 'text-gray-500');
+        tabPriceBtn.classList.replace('border-blue-600', 'border-transparent');
+        paneMeta.classList.remove('hidden');
+        panePrice.classList.add('hidden');
+    });
 
     document.getElementById('openFilterBtn').addEventListener('click', () => {
-        renderFilterList();
+        renderFilterLists();
+        renderMetaTags();
         filterModal.classList.remove('hidden');
         filterModal.classList.add('flex');
-        filterErrorMsg.classList.add('hidden'); // Clear prior errors
+        document.getElementById('priceFilterErrorMsg').classList.add('hidden');
+        document.getElementById('metaFilterErrorMsg').classList.add('hidden');
     });
 
     document.getElementById('closeFilterModalBtn').addEventListener('click', () => {
@@ -566,7 +570,6 @@
         filterModal.classList.remove('flex');
     });
 
-    // Helper to beautifully insert text at the user's blinking cursor!
     function insertAtCursor(myField, myValue) {
         if (myField.selectionStart || myField.selectionStart === '0') {
             var startPos = myField.selectionStart;
@@ -578,104 +581,131 @@
             myField.value += myValue;
         }
         myField.focus();
-        myField.dispatchEvent(new Event('input')); // trigger validation clear
+        myField.dispatchEvent(new Event('input'));
     }
 
-    function renderFilterList() {
-        filterListContainer.innerHTML = '';
-        if (globalFilters.length === 0) {
-            filterListContainer.innerHTML = '<div class="text-gray-400 text-sm text-center mt-4">No filters added.</div>';
-            return;
+    function renderFilterLists() {
+        // Render Price Filters
+        const priceList = document.getElementById('priceFilterListContainer');
+        priceList.innerHTML = '';
+        if (priceFilters.length === 0) {
+            priceList.innerHTML = '<div class="text-gray-400 text-sm text-center mt-4">No price filters added.</div>';
+        } else {
+            priceFilters.forEach((filterStr, index) => {
+                const item = document.createElement('div');
+                item.className = "flex justify-between items-center bg-white border border-gray-200 p-2 rounded shadow-sm text-sm font-mono text-gray-700";
+                item.innerHTML = `<span>${filterStr}</span><button class="text-red-400 hover:text-red-600 p-1 outline-none" onclick="removeFilter('price', ${index})"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg></button>`;
+                priceList.appendChild(item);
+            });
         }
-        globalFilters.forEach((filterStr, index) => {
-            const item = document.createElement('div');
-            item.className = "flex justify-between items-center bg-white border border-gray-200 p-2 rounded shadow-sm text-sm font-mono text-gray-700";
-            item.innerHTML = `
-                <span>${filterStr}</span>
-                <button class="text-red-400 hover:text-red-600 p-1 outline-none" onclick="removeFilter(${index})">
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
-                </button>
-            `;
-            filterListContainer.appendChild(item);
+
+        // Render Meta Filters
+        const metaList = document.getElementById('metaFilterListContainer');
+        metaList.innerHTML = '';
+        if (metaFilters.length === 0) {
+            metaList.innerHTML = '<div class="text-gray-400 text-sm text-center mt-4">No ticker detail filters added.</div>';
+        } else {
+            metaFilters.forEach((filterStr, index) => {
+                const item = document.createElement('div');
+                item.className = "flex justify-between items-center bg-white border border-gray-200 p-2 rounded shadow-sm text-sm font-mono text-gray-700";
+                item.innerHTML = `<span>${filterStr}</span><button class="text-red-400 hover:text-red-600 p-1 outline-none" onclick="removeFilter('meta', ${index})"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg></button>`;
+                metaList.appendChild(item);
+            });
+        }
+    }
+
+    function renderMetaTags() {
+        const tagsContainer = document.getElementById('metaTagsContainer');
+        tagsContainer.innerHTML = '';
+        const keys = Object.keys(metadataLabelMap).sort();
+        keys.forEach(key => {
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = "bg-green-50 hover:bg-green-100 text-green-700 border border-green-200 px-2 py-0.5 rounded text-xs font-mono font-medium transition-colors shadow-sm outline-none";
+            btn.innerText = key;
+            btn.onclick = () => insertAtCursor(document.getElementById('metaFilterInput'), `$.${key}`);
+            tagsContainer.appendChild(btn);
         });
     }
 
-    window.removeFilter = function(index) {
-        globalFilters.splice(index, 1);
-        renderFilterList();
+    window.removeFilter = function(type, index) {
+        if (type === 'price') priceFilters.splice(index, 1);
+        if (type === 'meta') metaFilters.splice(index, 1);
+        renderFilterLists();
     };
 
-    filterInput.addEventListener('input', () => {
-        filterErrorMsg.classList.add('hidden');
-    });
+    // Price Filter Addition
+    const priceInput = document.getElementById('priceFilterInput');
+    const priceErrorMsg = document.getElementById('priceFilterErrorMsg');
+    priceInput.addEventListener('input', () => priceErrorMsg.classList.add('hidden'));
 
-    document.getElementById('addFilterBtn').addEventListener('click', () => {
-        const val = filterInput.value.trim();
+    document.getElementById('addPriceFilterBtn').addEventListener('click', () => {
+        const val = priceInput.value.trim();
         if (!val) return;
 
-        // Validation Step 1: Check Javascript Syntax
         try {
-            // Replace $.Property with a safe dummy number to test if the math/logic compiles
             let testStr = val.replace(/\$\.([a-zA-Z0-9_:-]+)/g, '1');
-            testStr = testStr.replace(/\$\./g, '1'); // Catch loose $. just in case
+            testStr = testStr.replace(/\$\./g, '1');
             eval(testStr);
         } catch (e) {
-            filterErrorMsg.innerText = `Syntax Error: Invalid JavaScript expression. Please check your math and symbols.`;
-            filterErrorMsg.classList.remove('hidden');
-            return;
+            priceErrorMsg.innerText = `Syntax Error: Invalid JavaScript expression.`;
+            priceErrorMsg.classList.remove('hidden'); return;
         }
 
-        // Validation Step 2: Check Column Spelling
         const regex = /\$\.([a-zA-Z0-9_:-]+)/g;
-        let match;
-        let missingHeaders = [];
-
+        let match, missingHeaders = [];
         while ((match = regex.exec(val)) !== null) {
             let prop = match[1].toLowerCase();
-            if (globalAvailableHeaders.size > 0 && !globalAvailableHeaders.has(prop)) {
-                missingHeaders.push(match[1]);
-            }
+            if (globalAvailableHeaders.size > 0 && !globalAvailableHeaders.has(prop)) missingHeaders.push(match[1]);
         }
-
         if (missingHeaders.length > 0) {
-            filterErrorMsg.innerText = `Warning: Unknown column(s): ${missingHeaders.join(', ')}. Check spelling or View Format.`;
-            filterErrorMsg.classList.remove('hidden');
-            return;
+            priceErrorMsg.innerText = `Warning: Unknown column(s): ${missingHeaders.join(', ')}.`;
+            priceErrorMsg.classList.remove('hidden'); return;
         }
 
-        filterErrorMsg.classList.add('hidden');
+        if (!priceFilters.includes(val)) { priceFilters.push(val); priceInput.value = ''; renderFilterLists(); }
+    });
+    priceInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') document.getElementById('addPriceFilterBtn').click(); });
 
-        if (!globalFilters.includes(val)) {
-            globalFilters.push(val);
-            filterInput.value = '';
-            renderFilterList();
+    // Meta Filter Addition
+    const metaInput = document.getElementById('metaFilterInput');
+    const metaErrorMsg = document.getElementById('metaFilterErrorMsg');
+    metaInput.addEventListener('input', () => metaErrorMsg.classList.add('hidden'));
+
+    document.getElementById('addMetaFilterBtn').addEventListener('click', () => {
+        const val = metaInput.value.trim();
+        if (!val) return;
+
+        try {
+            // For meta fields which might be strings, test broadly
+            let testStr = val.replace(/\$\.([a-zA-Z0-9_]+)/g, '1');
+            testStr = testStr.replace(/\$\./g, '1');
+            eval(testStr);
+        } catch (e) {
+            metaErrorMsg.innerText = `Syntax Error: Invalid JavaScript expression. Note: String values need quotes (e.g. $.sector == 'Technology').`;
+            metaErrorMsg.classList.remove('hidden'); return;
         }
-    });
 
-    filterInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') document.getElementById('addFilterBtn').click();
+        if (!metaFilters.includes(val)) { metaFilters.push(val); metaInput.value = ''; renderFilterLists(); }
     });
+    metaInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') document.getElementById('addMetaFilterBtn').click(); });
 
     document.getElementById('clearFiltersBtn').addEventListener('click', () => {
-        globalFilters = [];
-        renderFilterList();
+        priceFilters = []; metaFilters = []; renderFilterLists();
     });
 
+    // Export & Import with P: and M: Prefixes
     document.getElementById('exportFiltersBtn').addEventListener('click', () => {
-        if (globalFilters.length === 0) {
-            showToast("No filters to export.", "error");
-            return;
-        }
-        const textToSave = globalFilters.join('\n');
-        const blob = new Blob([textToSave], { type: 'text/plain' });
+        if (priceFilters.length === 0 && metaFilters.length === 0) { showToast("No filters to export.", "error"); return; }
+
+        let exportLines = [];
+        priceFilters.forEach(f => exportLines.push(`P:${f}`));
+        metaFilters.forEach(f => exportLines.push(`M:${f}`));
+
+        const blob = new Blob([exportLines.join('\n')], { type: 'text/plain' });
         const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'fat_fa_filters.txt';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+        const a = document.createElement('a'); a.href = url; a.download = 'fat_fa_filters.txt';
+        document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url);
         showToast("Filters exported!", "success");
     });
 
@@ -685,34 +715,35 @@
 
         const reader = new FileReader();
         reader.onload = function(event) {
-            const content = event.target.result;
-            const lines = content.split(/\r?\n/);
+            const lines = event.target.result.split(/\r?\n/);
             let importedCount = 0;
 
             lines.forEach(line => {
                 const trimmed = line.trim();
-                if (trimmed && !globalFilters.includes(trimmed)) {
-                    globalFilters.push(trimmed);
-                    importedCount++;
+                if (!trimmed) return;
+
+                if (trimmed.startsWith('M:')) {
+                    const rule = trimmed.substring(2);
+                    if (!metaFilters.includes(rule)) { metaFilters.push(rule); importedCount++; }
+                } else {
+                    // Default to price filter (supports old un-prefixed exports)
+                    const rule = trimmed.startsWith('P:') ? trimmed.substring(2) : trimmed;
+                    if (!priceFilters.includes(rule)) { priceFilters.push(rule); importedCount++; }
                 }
             });
 
-            if (importedCount > 0) {
-                renderFilterList();
-                showToast(`Imported ${importedCount} filters successfully.`, "success");
-            } else {
-                showToast("No new filters found to import.", "error");
-            }
+            if (importedCount > 0) { renderFilterLists(); showToast(`Imported ${importedCount} filters.`, "success"); }
+            else { showToast("No new filters found.", "error"); }
         };
-        reader.readAsText(file);
-        e.target.value = '';
+        reader.readAsText(file); e.target.value = '';
     });
 
     document.getElementById('applyFiltersBtn').addEventListener('click', () => {
         filterModal.classList.add('hidden'); filterModal.classList.remove('flex');
 
-        if (globalFilters.length > 0) {
-            filterCountBadge.innerText = globalFilters.length;
+        const totalFilters = priceFilters.length + metaFilters.length;
+        if (totalFilters > 0) {
+            filterCountBadge.innerText = totalFilters;
             filterCountBadge.classList.remove('hidden');
         } else {
             filterCountBadge.classList.add('hidden');
@@ -720,8 +751,7 @@
 
         if (uploadedFiles.length === 0) return;
 
-        if (globalFilters.length === 0) {
-            // Restore shadow list to represent all uploaded files safely
+        if (totalFilters === 0) {
             activeIndices = uploadedFiles.map((_, i) => i);
             currentActiveIdx = 0;
             updateFileNavUI();
@@ -734,10 +764,39 @@
 
         const evaluationPromises = uploadedFiles.map((fileObj, index) => {
             return new Promise(resolve => {
+
+                // STEP 1: Fast-Fail Metadata Evaluation
+                let passedMeta = true;
+                if (metaFilters.length > 0) {
+                    const meta = fileObj.metadata || {};
+                    // Convert numeric strings to actual floats for mathematical evaluation
+                    const parsedMeta = {};
+                    for (let key in meta) {
+                        let valNum = parseFloat(meta[key]);
+                        parsedMeta[key] = isNaN(valNum) ? meta[key] : valNum;
+                    }
+
+                    for (let filterStr of metaFilters) {
+                        try {
+                            let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_]+)/g, 'parsedMeta["$1"]');
+                            evalStr = evalStr.replace(/\$\./g, 'parsedMeta.');
+                            if (!eval(evalStr)) { passedMeta = false; break; }
+                        } catch (e) {
+                            console.warn(`Meta Filter failed for ${fileObj.name}: ${filterStr}`, e);
+                            passedMeta = false; break;
+                        }
+                    }
+                }
+
+                // If it fails metadata, instantly reject without parsing CSV
+                if (!passedMeta) return resolve({ index, passed: false });
+
+                // If it passes metadata but there are no price filters, instantly accept
+                if (priceFilters.length === 0) return resolve({ index, passed: true });
+
+                // STEP 2: Heavy Price Data Evaluation
                 Papa.parse(fileObj.text, {
-                    header: true,
-                    // Crucial: Forces parser to ignore entirely blank lines at the bottom of the CSV
-                    skipEmptyLines: 'greedy',
+                    header: true, skipEmptyLines: 'greedy',
                     complete: results => {
                         const parsed = results.data;
                         if (!parsed || parsed.length === 0) return resolve({ index, passed: false });
@@ -747,46 +806,34 @@
 
                         for (let key in rawLastRow) {
                             if (!key) continue;
-
                             let trimmedKey = key.trim();
-                            let valStr = String(rawLastRow[key] || '').trim();
-                            let valNum = parseFloat(valStr);
-                            let finalVal = isNaN(valNum) ? valStr : valNum;
-
+                            let valNum = parseFloat(rawLastRow[key]);
+                            let finalVal = isNaN(valNum) ? String(rawLastRow[key] || '').trim() : valNum;
                             lastRow[trimmedKey] = finalVal;
 
-                            // Map base name (e.g. Macd:Bottom:Line -> Macd) so $.Macd works flawlessly
                             let baseName = trimmedKey.split(':')[0].trim();
-                            if (baseName !== trimmedKey) {
-                                lastRow[baseName] = finalVal;
-                            }
+                            if (baseName !== trimmedKey) lastRow[baseName] = finalVal;
                         }
 
-                        let passedAll = true;
-                        for (let filterStr of globalFilters) {
+                        let passedPrice = true;
+                        for (let filterStr of priceFilters) {
                             try {
                                 let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_:-]+)/g, 'lastRow["$1"]');
                                 evalStr = evalStr.replace(/\$\./g, 'lastRow.');
-
-                                if (!eval(evalStr)) {
-                                    passedAll = false;
-                                    break;
-                                }
+                                if (!eval(evalStr)) { passedPrice = false; break; }
                             } catch (e) {
-                                console.warn(`Filter evaluation failed for ${fileObj.name}: ${filterStr}`, e);
-                                passedAll = false;
-                                break;
+                                console.warn(`Price Filter failed for ${fileObj.name}: ${filterStr}`, e);
+                                passedPrice = false; break;
                             }
                         }
 
-                        resolve({ index, passed: passedAll });
+                        resolve({ index, passed: passedPrice });
                     }
                 });
             });
         });
 
         Promise.all(evaluationPromises).then(results => {
-            // Rebuild the visible shadow list based on the evaluation results
             activeIndices = results.filter(r => r.passed).map(r => r.index);
             const hiddenCount = uploadedFiles.length - activeIndices.length;
 
@@ -868,58 +915,36 @@
         loadCurrentFile();
     });
 
-    // Move to Top Button logic
     document.getElementById('moveToTopBtn').addEventListener('click', () => {
         if (activeIndices.length === 0) return;
-
         const realIndex = activeIndices[currentActiveIdx];
 
-        // If already the absolute very first file, simply verify UI
         if (realIndex === 0) {
-            if (currentActiveIdx !== 0) {
-                currentActiveIdx = 0;
-                updateFileNavUI();
-            }
-            showToast("Already at the top.", "success");
-            return;
+            if (currentActiveIdx !== 0) { currentActiveIdx = 0; updateFileNavUI(); }
+            showToast("Already at the top.", "success"); return;
         }
 
-        // 1. Move file to absolute beginning of master upload array
         const fileToMove = uploadedFiles.splice(realIndex, 1)[0];
         uploadedFiles.unshift(fileToMove);
 
-        // 2. Adjust shadow view list logic to maintain active array
         activeIndices.splice(currentActiveIdx, 1);
         for (let i = 0; i < activeIndices.length; i++) {
-            if (activeIndices[i] < realIndex) {
-                activeIndices[i]++;
-            }
+            if (activeIndices[i] < realIndex) activeIndices[i]++;
         }
 
-        // 3. Inject new index mapping at the beginning
         activeIndices.unshift(0);
-
-        // 4. Reset pointer to position 1 and refresh
         currentActiveIdx = 0;
         updateFileNavUI();
         showToast("Moved to top.", "success");
     });
 
-    // Copy Filtered Symbols Logic
     document.getElementById('copyFilteredBtn').addEventListener('click', async () => {
         if (activeIndices.length === 0) return;
-
-        // Grab the stock symbols mapped safely from the active filtered indices
         const symbols = activeIndices.map(idx => uploadedFiles[idx].name).join('\n');
-
-        const symbolCount = activeIndices.length;
-
         try {
             await navigator.clipboard.writeText(symbols);
-            showToast(`Copied ${symbolCount} symbols to clipboard!`, "success");
-        } catch (err) {
-            showToast("Failed to copy to clipboard.", "error");
-        }
+            showToast(`Copied ${activeIndices.length} symbols to clipboard!`, "success");
+        } catch (err) { showToast("Failed to copy to clipboard.", "error"); }
     });
 
     function createLegendItem(container, name, color, shapeClass, series, targetChart) {
@@ -944,47 +969,37 @@
                 hiddenSeriesNames.delete(name);
             }
         });
-
         container.appendChild(item);
     }
 
     function parseHeader(headerString) {
         const parts = headerString.split(':');
         const name = parts[0];
-        let pane = 'Top';
-        let type = 'Line';
+        let pane = 'Top'; let type = 'Line';
 
         if (parts.length >= 2) pane = parts[1];
         else if (name.toLowerCase().includes('vol')) { pane = 'Middle'; type = 'Histogram'; }
-
         if (parts.length >= 3) type = parts[2];
-
         return { name, pane, type, original: headerString };
     }
 
     function processChartData(data) {
         if (!data || data.length === 0) return;
 
-        // Memorize all incoming headers to spell-check future custom filters!
         globalAvailableHeaders.clear();
-        let displayTags = new Set(); // For the UI buttons
+        let displayTags = new Set();
 
         Object.keys(data[0]).forEach(key => {
             if (!key) return;
             let trimmed = key.trim();
             globalAvailableHeaders.add(trimmed.toLowerCase());
-
-            // Also memorize the dynamically generated Base Name
             let baseName = trimmed.split(':')[0].trim();
             globalAvailableHeaders.add(baseName.toLowerCase());
-
-            // Add standard and base names to UI tags
             displayTags.add(baseName);
-            if (trimmed.endsWith('_Dir')) displayTags.add(trimmed); // Keep _Dir explicit
+            if (trimmed.endsWith('_Dir')) displayTags.add(trimmed);
         });
 
-        // Update the modal UI with clickable tags
-        const tagsContainer = document.getElementById('columnTagsContainer');
+        const tagsContainer = document.getElementById('priceTagsContainer');
         if (tagsContainer) {
             tagsContainer.innerHTML = '';
             Array.from(displayTags).sort().forEach(tag => {
@@ -992,7 +1007,7 @@
                 btn.type = 'button';
                 btn.className = "bg-blue-50 hover:bg-blue-100 text-blue-700 border border-blue-200 px-2 py-0.5 rounded text-xs font-mono font-medium transition-colors shadow-sm outline-none";
                 btn.innerText = tag;
-                btn.onclick = () => insertAtCursor(document.getElementById('filterInput'), `$.${tag}`);
+                btn.onclick = () => insertAtCursor(document.getElementById('priceFilterInput'), `$.${tag}`);
                 tagsContainer.appendChild(btn);
             });
         }
@@ -1002,14 +1017,10 @@
             try { volumeChart.removeSeries(s); } catch(e){}
             try { analyticsChart.removeSeries(s); } catch(e){}
         });
-        activeCustomSeries = [];
-        volPrimarySeries = null;
-        analyticsPrimarySeries = null;
+        activeCustomSeries = []; volPrimarySeries = null; analyticsPrimarySeries = null;
 
-        const candleData = [];
-        const customDataSets = {};
+        const candleData = []; const customDataSets = {};
         const headers = Object.keys(data[0]);
-
         const headerConfigs = headers.filter(h => !h.endsWith('_Dir')).map(parseHeader);
 
         headerConfigs.forEach(config => {
@@ -1022,24 +1033,13 @@
         data.forEach(row => {
             const dateVal = row['Date'] || row['Time'] || row['date'] || row['time'];
             if (!dateVal) return;
-
             let parsedTime;
-            try {
-                const d = new Date(dateVal);
-                parsedTime = d.getTime() / 1000;
-            } catch(e) { return; }
+            try { parsedTime = new Date(dateVal).getTime() / 1000; } catch(e) { return; }
 
             let open, close;
             if (row['Open'] && row['High'] && row['Low'] && row['Close']) {
-                open = parseFloat(row['Open']);
-                close = parseFloat(row['Close']);
-                candleData.push({
-                    time: parsedTime,
-                    open: open,
-                    high: parseFloat(row['High']),
-                    low: parseFloat(row['Low']),
-                    close: close,
-                });
+                open = parseFloat(row['Open']); close = parseFloat(row['Close']);
+                candleData.push({ time: parsedTime, open: open, high: parseFloat(row['High']), low: parseFloat(row['Low']), close: close });
             }
 
             Object.keys(customDataSets).forEach(originalHeader => {
@@ -1048,19 +1048,15 @@
 
                 if (!isNaN(val)) {
                     let point = { time: parsedTime, value: val };
-
                     if (config.name === 'Volume' && config.type === 'Histogram' && open !== undefined && close !== undefined) {
                         point.color = close >= open ? '#22c55e80' : '#ef444480';
                     }
-
                     if (config.type === 'ColorLine') {
                         const dirHeader = `${config.name}_Dir`;
                         let dir = row[dirHeader];
                         let isUp = (dir !== undefined && (dir == '1' || dir.toLowerCase() == 'true' || dir.toLowerCase() == 'up'));
-
                         point.color = isUp ? '#22c55e' : '#ef4444';
                     }
-
                     customDataSets[originalHeader].data.push(point);
                 }
             });
@@ -1073,11 +1069,8 @@
             const dataMap = new Map(dataset.data.map(p => [p.time, p]));
             const paddedData = [];
             globalCandleData.forEach(candle => {
-                if (dataMap.has(candle.time)) {
-                    paddedData.push(dataMap.get(candle.time));
-                } else {
-                    paddedData.push({ time: candle.time });
-                }
+                if (dataMap.has(candle.time)) { paddedData.push(dataMap.get(candle.time)); }
+                else { paddedData.push({ time: candle.time }); }
             });
             dataset.data = paddedData;
         });
@@ -1095,8 +1088,6 @@
 
         Object.values(customDataSets).forEach(dataset => {
             if (dataset.data.length === 0) return;
-
-            // Skip rendering if explicitly requested to be HIDDEN
             if (dataset.config.pane.toUpperCase() === 'HIDDEN') return;
 
             let targetChart, targetLegend;
@@ -1107,18 +1098,13 @@
 
             if (dataset.config.type === 'ColorLine') {
                 const stSeries = targetChart.addLineSeries({ lineWidth: 2, crosshairMarkerVisible: true });
-                stSeries.setData(dataset.data);
-                activeCustomSeries.push(stSeries);
-
+                stSeries.setData(dataset.data); activeCustomSeries.push(stSeries);
                 const item = document.createElement('div');
                 item.className = "flex items-center gap-1.5 cursor-pointer hover:bg-gray-100/80 px-1.5 py-0.5 rounded transition-all bg-white/80 border border-gray-100 shadow-sm backdrop-blur-sm";
                 item.innerHTML = `<span class="w-2.5 h-2.5 rounded-full" style="background: linear-gradient(135deg, #22c55e 50%, #ef4444 50%)"></span><span class="text-gray-700 select-none">${dataset.config.name}</span>`;
-
                 if (hiddenSeriesNames.has(dataset.config.name)) {
-                    stSeries.applyOptions({ visible: false });
-                    item.classList.add('opacity-50', 'grayscale', 'line-through');
+                    stSeries.applyOptions({ visible: false }); item.classList.add('opacity-50', 'grayscale', 'line-through');
                 }
-
                 item.addEventListener('click', () => {
                     const v = stSeries.options().visible !== false;
                     stSeries.applyOptions({ visible: !v });
@@ -1128,16 +1114,11 @@
                 targetLegend.appendChild(item);
 
             } else {
-                const seriesColor = customPalette[colorIndex % customPalette.length];
-                colorIndex++;
-
+                const seriesColor = customPalette[colorIndex % customPalette.length]; colorIndex++;
                 let newSeries;
                 if (dataset.config.type === 'Histogram') { newSeries = targetChart.addHistogramSeries({ color: seriesColor, priceFormat: { type: 'volume' }}); }
                 else { newSeries = targetChart.addLineSeries({ color: seriesColor, lineWidth: 2 }); }
-
-                newSeries.setData(dataset.data);
-                activeCustomSeries.push(newSeries);
-
+                newSeries.setData(dataset.data); activeCustomSeries.push(newSeries);
                 const shapeClass = dataset.config.type === 'Histogram' ? 'rounded-sm' : 'rounded-full';
                 createLegendItem(targetLegend, dataset.config.name, seriesColor, shapeClass, newSeries, targetChart);
 
@@ -1154,11 +1135,8 @@
                 volumeChart.timeScale().setVisibleLogicalRange(range);
                 analyticsChart.timeScale().setVisibleLogicalRange(range);
             } else {
-                mainChart.timeScale().fitContent();
-                volumeChart.timeScale().fitContent();
-                analyticsChart.timeScale().fitContent();
+                mainChart.timeScale().fitContent(); volumeChart.timeScale().fitContent(); analyticsChart.timeScale().fitContent();
             }
-
             mainChart.priceScale('right').applyOptions({ autoScale: true });
             volumeChart.priceScale('right').applyOptions({ autoScale: true });
             analyticsChart.priceScale('right').applyOptions({ autoScale: true });
@@ -1177,30 +1155,20 @@
             if (currentDate.getUTCDay() === 6) currentDate.setUTCDate(currentDate.getUTCDate() + 2);
 
             let gap = (Math.random() - 0.5) * 0.8;
-            let open = currentPrice + gap;
-            let dailyMove = (Math.random() - 0.5) * 3.6 + 0.08;
-            let close = open + dailyMove;
+            let open = currentPrice + gap; let dailyMove = (Math.random() - 0.5) * 3.6 + 0.08; let close = open + dailyMove;
             let max = Math.max(open, close), min = Math.min(open, close);
             let high = max + (Math.random() * 1.5), low = min - (Math.random() * 1.5);
 
             let vol = Math.floor(30000000 + (Math.random() * 20000000) + (Math.abs(dailyMove) * 15000000));
+            currentPrice = close; prices.push(close);
 
-            currentPrice = close;
-            prices.push(close);
-
-            let ma10 = '';
-            if (prices.length >= 10) ma10 = (prices.slice(-10).reduce((a, b) => a + b, 0) / 10).toFixed(2);
-
-            let st = close - (dailyMove > 0 ? 3 : -3);
-            let stDir = Math.floor(i / 15) % 2 === 0 ? 1 : 0;
-
-            let momentum = '';
-            if (prices.length >= 10) momentum = (close - prices[prices.length - 10]).toFixed(2);
+            let ma10 = ''; if (prices.length >= 10) ma10 = (prices.slice(-10).reduce((a, b) => a + b, 0) / 10).toFixed(2);
+            let st = close - (dailyMove > 0 ? 3 : -3); let stDir = Math.floor(i / 15) % 2 === 0 ? 1 : 0;
+            let momentum = ''; if (prices.length >= 10) momentum = (close - prices[prices.length - 10]).toFixed(2);
 
             let dateStr = currentDate.toISOString().split('T')[0];
             generatedData += `${dateStr},${open.toFixed(2)},${high.toFixed(2)},${low.toFixed(2)},${close.toFixed(2)},${vol},${ma10},${st.toFixed(2)},${stDir},${momentum}\n`;
         }
-
         window.generatedDataForExport = generatedData;
     }
 
@@ -1210,10 +1178,8 @@
         const loadingSubtext = document.getElementById('loadingSubtext');
 
         try {
-            loadingOverlay.classList.remove('hidden');
-            loadingOverlay.classList.add('flex');
+            loadingOverlay.classList.remove('hidden'); loadingOverlay.classList.add('flex');
 
-            // Add cache-busting timestamp and no-store header to force fresh JSON fetch
             const cacheBuster = Date.now();
             const listResponse = await fetch(`data/stock_list.json?_t=${cacheBuster}`, { cache: 'no-store' });
             if (!listResponse.ok) throw new Error("stock_list.json not found on server.");
@@ -1222,24 +1188,15 @@
             let stockList = [];
             let asofDate = "";
 
-            // Handle both the new object format and fallback to the old array format just in case
-            if (Array.isArray(jsonPayload)) {
-                stockList = jsonPayload;
-            } else {
-                stockList = jsonPayload.stocks || [];
-                asofDate = jsonPayload.asof || "";
-            }
+            if (Array.isArray(jsonPayload)) { stockList = jsonPayload; }
+            else { stockList = jsonPayload.stocks || []; asofDate = jsonPayload.asof || ""; }
 
             if (asofDate) {
                 const asofEl = document.getElementById('asofDateDisplay');
-                if (asofEl) {
-                    asofEl.innerText = ` (As of: ${asofDate})`;
-                    asofEl.classList.remove('hidden');
-                }
+                if (asofEl) { asofEl.innerText = ` (As of: ${asofDate})`; asofEl.classList.remove('hidden'); }
             }
 
-            uploadedFiles = [];
-            activeIndices = [];
+            uploadedFiles = []; activeIndices = [];
 
             for (let i = 0; i < stockList.length; i++) {
                 const stockName = stockList[i];
@@ -1247,22 +1204,17 @@
                 loadingSubtext.innerText = `Fetching ${i + 1} of ${stockList.length}`;
 
                 try {
-                    // Force fresh CSV fetch for every single stock file
                     const csvResponse = await fetch(`data/${stockName}.csv?_t=${cacheBuster}`, { cache: 'no-store' });
                     if (!csvResponse.ok) continue;
 
                     const csvText = await csvResponse.text();
                     const { metadata, remainingCsv } = extractMetadataAndCsv(csvText);
-
                     uploadedFiles.push({ name: stockName, text: remainingCsv, metadata });
-
-                } catch (err) {
-                    console.warn(`Failed to fetch CSV for ${stockName}:`, err);
-                }
+                } catch (err) { console.warn(`Failed to fetch CSV for ${stockName}:`, err); }
             }
 
             if (uploadedFiles.length > 0) {
-                if (globalFilters.length > 0) {
+                if (priceFilters.length > 0 || metaFilters.length > 0) {
                     document.getElementById('applyFiltersBtn').click();
                 } else {
                     activeIndices = uploadedFiles.map((_, i) => i);
@@ -1276,24 +1228,15 @@
 
         } catch (error) {
             console.warn("Auto-load skipped or failed. Falling back to sample generated data.", error);
-            Papa.parse(window.generatedDataForExport, {
-                header: true,
-                skipEmptyLines: true,
-                complete: function(results) { processChartData(results.data); }
-            });
+            Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(results) { processChartData(results.data); } });
         } finally {
-            loadingOverlay.classList.add('hidden');
-            loadingOverlay.classList.remove('flex');
+            loadingOverlay.classList.add('hidden'); loadingOverlay.classList.remove('flex');
         }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
         initCharts();
-
-        // Prepare the fallback string in case auto-load fails or all files are deleted
         prepareSampleDataFallback();
-
-        // Attempt the automatic fetch sequence
         loadInitialData();
     });
 </script>
