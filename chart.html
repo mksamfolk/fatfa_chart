@@ -9,11 +9,15 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-    <title>Fat Fa Chart</title>
+    <title>Fat Fa Chart - VCP stocks</title>
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="vendor/tailwindcss.js"></script>
+    <script src="vendor/lightweight-charts-4.1.1.standalone.production.js"></script>
+    <script src="vendor/papaparse-5.4.1.min.js"></script>
+
+<!--    <script src="https://cdn.tailwindcss.com"></script>-->
+<!--    <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>-->
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>-->
 
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
@@ -289,7 +293,7 @@
     let activeFilterTab = 'price'; // 'price' or 'meta'
 
     // Hidden series tracking (Persists across navigation)
-    let hiddenSeriesNames = new Set();
+    let hiddenSeriesNames = new Set(['Ma10', 'MA10', 'Ma20', 'MA20', 'Supertrend', 'ParabolicSAR']);
 
     const metadataLabelMap = {
         "symbol": "Symbol", "longName": "Long Name", "sector": "Sector", "industry": "Industry", "country": "Country",
