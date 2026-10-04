@@ -96,19 +96,22 @@
         <div class="flex items-center gap-2 pl-2 border-l border-gray-200">
             <span id="statusText" class="font-semibold text-lg text-gray-800">Showing sample data</span>
 
-            <!-- Move To Top Button -->
-            <button id="moveToTopBtn" class="hidden p-1 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded shadow-sm transition outline-none" title="Move to top">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
-            </button>
-
             <!-- Details Button -->
             <button id="showDetailsBtn" class="hidden px-2 py-0.5 text-xs font-medium text-blue-600 bg-blue-50 border border-blue-200 hover:bg-blue-100 rounded transition outline-none shadow-sm" title="View Ticker Details">Details</button>
 
             <!-- Industry Display -->
             <span id="industryText" class="hidden text-xs text-gray-600 font-medium px-2 py-1 bg-gray-100 border border-gray-200 rounded"></span>
 
+            <!-- Sector Display -->
+            <span id="sectorText" class="hidden text-xs text-gray-600 font-medium px-2 py-1 bg-gray-100 border border-gray-200 rounded"></span>
+
             <!-- Market Cap Display -->
             <span id="marketCapText" class="hidden text-xs text-gray-600 font-medium px-2 py-1 bg-gray-100 border border-gray-200 rounded"></span>
+
+            <!-- Move To Top Button -->
+            <button id="moveToTopBtn" class="hidden p-1 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded shadow-sm transition outline-none" title="Move to top">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
+            </button>
 
             <!-- As of Date Display -->
             <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
@@ -116,6 +119,7 @@
 
     </div>
 
+    <!-- Right Side: Navigation, Drawing, Formatting -->
     <div class="flex items-center gap-4">
         <div class="text-sm text-gray-500 flex items-center gap-3 ml-2">
             <!-- Filters Button -->
@@ -894,7 +898,8 @@
 
                 const showDetailsBtn = document.getElementById('showDetailsBtn');
                 const industryTextEl = document.getElementById('industryText');
-                const marketCapTextEl = document.getElementById('marketCapText'); // NEW
+                const sectorTextEl = document.getElementById('sectorText');
+                const marketCapTextEl = document.getElementById('marketCapText');
 
                 if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
                     showDetailsBtn.classList.remove('hidden');
@@ -906,6 +911,13 @@
                         industryTextEl.classList.add('hidden');
                     }
 
+                    if (fileObj.metadata.sector) {
+                        sectorTextEl.innerText = fileObj.metadata.sector;
+                        sectorTextEl.classList.remove('hidden');
+                    } else {
+                        sectorTextEl.classList.add('hidden');
+                    }
+
                     if (fileObj.metadata.marketCap) {
                         marketCapTextEl.innerText = formatDollarValue(fileObj.metadata.marketCap);
                         marketCapTextEl.classList.remove('hidden');
@@ -915,7 +927,8 @@
                 } else {
                     showDetailsBtn.classList.add('hidden');
                     industryTextEl.classList.add('hidden');
-                    marketCapTextEl.classList.add('hidden'); // NEW
+                    sectorTextEl.classList.add('hidden');
+                    marketCapTextEl.classList.add('hidden');
                 }
 
                 updateFileNavUI();
