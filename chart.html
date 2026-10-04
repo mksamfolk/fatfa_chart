@@ -99,6 +99,12 @@
             <!-- Details Button -->
             <button id="showDetailsBtn" class="hidden px-2 py-0.5 text-xs font-medium text-blue-600 bg-blue-50 border border-blue-200 hover:bg-blue-100 rounded transition outline-none shadow-sm" title="View Ticker Details">Details</button>
 
+            <!-- Pick Button -->
+            <button id="pickBtn" class="hidden px-2 py-0.5 text-xs font-medium text-amber-600 bg-amber-50 border border-amber-200 hover:bg-amber-100 rounded transition outline-none shadow-sm" title="Pick/Unpick this symbol">
+                <svg id="pickBtnIcon" class="w-3.5 h-3.5 inline-block mr-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path></svg>
+                <span id="pickBtnText">Pick</span>
+            </button>
+
             <!-- Industry Display -->
             <span id="industryText" class="hidden text-xs text-gray-600 font-medium px-2 py-1 bg-gray-100 border border-gray-200 rounded"></span>
 
@@ -117,6 +123,12 @@
     <!-- Right Side: Navigation, Drawing, Formatting -->
     <div class="flex items-center gap-4">
         <div class="text-sm text-gray-500 flex items-center gap-3 ml-2">
+            <!-- Picked Button -->
+            <button id="openPickedBtn" class="text-amber-500 hover:text-amber-700 underline font-medium flex items-center gap-1 hidden">
+                Picked
+                <span id="pickedCountBadge" class="bg-amber-100 text-amber-800 text-xs font-semibold px-1.5 py-0.5 rounded hidden">0</span>
+            </button>
+
             <!-- Filters Button -->
             <button id="openFilterBtn" class="text-blue-500 hover:text-blue-700 underline font-medium flex items-center gap-1 hidden">
                 Filters
@@ -228,6 +240,27 @@
     </div>
 </div>
 
+<!-- Picked Modal -->
+<div id="pickedModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 class="text-lg font-bold text-gray-800">Picked Symbols</h3>
+            <button id="closePickedModalBtn" class="text-gray-500 hover:text-gray-800">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div class="p-4 overflow-y-auto flex-grow text-sm text-gray-700 min-h-[150px]">
+            <div id="pickedListContainer" class="flex flex-wrap gap-2">
+                <!-- Picked symbols injected here -->
+            </div>
+        </div>
+        <div class="p-4 border-t flex justify-end gap-2">
+            <button id="closePickedBtn" class="text-gray-600 hover:text-gray-800 hover:bg-gray-50 px-4 py-2 rounded text-sm font-medium transition-colors border border-gray-200 shadow-sm">Close</button>
+            <button id="toggleShowPickedBtn" class="bg-amber-500 hover:bg-amber-600 text-white px-4 py-2 rounded text-sm font-medium transition-colors shadow-sm">Show Picked Only</button>
+        </div>
+    </div>
+</div>
+
 <script>
     // --- State and Constants ---
     let mainChart, volumeChart, analyticsChart;
@@ -242,7 +275,12 @@
 
     // Shadow list representing currently visible files (Indices pointing to uploadedFiles)
     let activeIndices = [];
+    let baseActiveIndices = [];
     let currentActiveIdx = -1;
+
+    // Pick state
+    let pickedSymbols = new Set();
+    let isShowingPickedOnly = false;
 
     // Split Filter state
     let priceFilters = [];
@@ -752,10 +790,8 @@
         if (uploadedFiles.length === 0) return;
 
         if (totalFilters === 0) {
-            activeIndices = uploadedFiles.map((_, i) => i);
-            currentActiveIdx = 0;
-            updateFileNavUI();
-            loadCurrentFile();
+            baseActiveIndices = uploadedFiles.map((_, i) => i);
+            applyPickedFilter();
             showToast("Filters cleared. All stocks restored.", "success");
             return;
         }
@@ -834,23 +870,49 @@
         });
 
         Promise.all(evaluationPromises).then(results => {
-            activeIndices = results.filter(r => r.passed).map(r => r.index);
-            const hiddenCount = uploadedFiles.length - activeIndices.length;
+            baseActiveIndices = results.filter(r => r.passed).map(r => r.index);
+            applyPickedFilter();
 
-            if (activeIndices.length === 0) {
-                currentActiveIdx = -1;
-                updateFileNavUI();
-                document.getElementById('statusText').innerText = "All stocks hidden by filters.";
-                Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
+            const hiddenCount = uploadedFiles.length - baseActiveIndices.length;
+            if (baseActiveIndices.length === 0) {
                 showToast(`Hidden ${hiddenCount} stocks. None matched filters.`, "error");
             } else {
-                currentActiveIdx = 0;
-                updateFileNavUI();
-                loadCurrentFile();
                 showToast(`Filtered successfully. Hiding ${hiddenCount} stocks.`, "success");
             }
         });
     });
+
+    function applyPickedFilter(preserveIndex = false) {
+        let currentName = (currentActiveIdx >= 0 && currentActiveIdx < activeIndices.length) ? uploadedFiles[activeIndices[currentActiveIdx]].name : null;
+        let oldIdx = currentActiveIdx;
+
+        if (isShowingPickedOnly) {
+            activeIndices = baseActiveIndices.filter(idx => pickedSymbols.has(uploadedFiles[idx].name));
+        } else {
+            activeIndices = [...baseActiveIndices];
+        }
+
+        if (activeIndices.length === 0) {
+            currentActiveIdx = -1;
+            updateFileNavUI();
+            document.getElementById('statusText').innerText = isShowingPickedOnly ? "No picked stocks match current filters." : "All stocks hidden by filters.";
+            document.getElementById('showDetailsBtn').classList.add('hidden');
+            document.getElementById('pickBtn').classList.add('hidden');
+            Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
+        } else {
+            if (preserveIndex) {
+                currentActiveIdx = Math.min(Math.max(0, oldIdx), activeIndices.length - 1);
+            } else {
+                let foundIdx = -1;
+                if (currentName) {
+                    foundIdx = activeIndices.findIndex(idx => uploadedFiles[idx].name === currentName);
+                }
+                currentActiveIdx = foundIdx > -1 ? foundIdx : 0;
+            }
+            updateFileNavUI();
+            loadCurrentFile();
+        }
+    }
 
     function updateFileNavUI() {
         const nav = document.getElementById('fileNavControls');
@@ -889,6 +951,9 @@
                 document.getElementById('statusText').innerText = fileObj.name;
 
                 const showDetailsBtn = document.getElementById('showDetailsBtn');
+                const pickBtn = document.getElementById('pickBtn');
+                const pickIcon = document.getElementById('pickBtnIcon');
+
                 const industryTextEl = document.getElementById('industryText');
                 const sectorTextEl = document.getElementById('sectorText');
                 const marketCapTextEl = document.getElementById('marketCapText');
@@ -923,10 +988,102 @@
                     marketCapTextEl.classList.add('hidden');
                 }
 
+                pickBtn.classList.remove('hidden');
+                if (pickedSymbols.has(fileObj.name)) {
+                    document.getElementById('pickBtnText').innerText = 'Picked';
+                    pickBtn.classList.replace('text-amber-600', 'text-amber-700');
+                    pickBtn.classList.replace('bg-amber-50', 'bg-amber-100');
+                    pickIcon.setAttribute('fill', 'currentColor');
+                } else {
+                    document.getElementById('pickBtnText').innerText = 'Pick';
+                    pickBtn.classList.replace('text-amber-700', 'text-amber-600');
+                    pickBtn.classList.replace('bg-amber-100', 'bg-amber-50');
+                    pickIcon.setAttribute('fill', 'none');
+                }
+
                 updateFileNavUI();
             }
         });
     }
+
+    // Picked UI & Modal Logic
+    document.getElementById('pickBtn').addEventListener('click', () => {
+        if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
+        const fileObj = uploadedFiles[activeIndices[currentActiveIdx]];
+
+        if (pickedSymbols.has(fileObj.name)) {
+            pickedSymbols.delete(fileObj.name);
+        } else {
+            pickedSymbols.add(fileObj.name);
+        }
+
+        updatePickedUI();
+        loadCurrentFile(); // refresh button state
+
+        // If showing picked only, unpicking immediately hides the stock
+        if (isShowingPickedOnly && !pickedSymbols.has(fileObj.name)) {
+            applyPickedFilter(true);
+        }
+    });
+
+    function updatePickedUI() {
+        const badge = document.getElementById('pickedCountBadge');
+        const openBtn = document.getElementById('openPickedBtn');
+
+        if (pickedSymbols.size > 0 || isShowingPickedOnly) {
+            openBtn.classList.remove('hidden');
+        } else {
+            openBtn.classList.add('hidden');
+        }
+
+        if (pickedSymbols.size > 0) {
+            badge.classList.remove('hidden');
+            badge.innerText = pickedSymbols.size;
+        } else {
+            badge.classList.add('hidden');
+        }
+    }
+
+    const pickedModal = document.getElementById('pickedModal');
+    const pickedListContainer = document.getElementById('pickedListContainer');
+    const toggleShowPickedBtn = document.getElementById('toggleShowPickedBtn');
+
+    document.getElementById('openPickedBtn').addEventListener('click', () => {
+        pickedListContainer.innerHTML = '';
+        if (pickedSymbols.size === 0) {
+            pickedListContainer.innerHTML = '<span class="text-gray-500 italic">No symbols picked yet.</span>';
+        } else {
+            pickedSymbols.forEach(sym => {
+                const tag = document.createElement('span');
+                tag.className = 'px-2 py-1 bg-amber-50 border border-amber-200 text-amber-800 rounded text-sm font-medium';
+                tag.innerText = sym;
+                pickedListContainer.appendChild(tag);
+            });
+        }
+
+        toggleShowPickedBtn.innerText = isShowingPickedOnly ? "Undo Show Picked Only" : "Show Picked Only";
+        toggleShowPickedBtn.className = isShowingPickedOnly
+            ? "bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded text-sm font-medium transition-colors shadow-sm"
+            : "bg-amber-500 hover:bg-amber-600 text-white px-4 py-2 rounded text-sm font-medium transition-colors shadow-sm";
+
+        pickedModal.classList.remove('hidden');
+        pickedModal.classList.add('flex');
+    });
+
+    document.getElementById('closePickedModalBtn').addEventListener('click', () => {
+        pickedModal.classList.add('hidden'); pickedModal.classList.remove('flex');
+    });
+    document.getElementById('closePickedBtn').addEventListener('click', () => {
+        pickedModal.classList.add('hidden'); pickedModal.classList.remove('flex');
+    });
+
+    toggleShowPickedBtn.addEventListener('click', () => {
+        isShowingPickedOnly = !isShowingPickedOnly;
+        applyPickedFilter();
+        updatePickedUI();
+        pickedModal.classList.add('hidden'); pickedModal.classList.remove('flex');
+        showToast(isShowingPickedOnly ? "Showing picked stocks only." : "Removed picked filter.", "success");
+    });
 
     document.getElementById('prevFileBtn').addEventListener('click', () => {
         if (activeIndices.length <= 1) return;
@@ -1219,9 +1376,8 @@
                 if (priceFilters.length > 0 || metaFilters.length > 0) {
                     document.getElementById('applyFiltersBtn').click();
                 } else {
-                    activeIndices = uploadedFiles.map((_, i) => i);
-                    currentActiveIdx = 0;
-                    loadCurrentFile();
+                    baseActiveIndices = uploadedFiles.map((_, i) => i);
+                    applyPickedFilter();
                 }
                 showToast(`Successfully auto-loaded ${uploadedFiles.length} stocks.`, "success");
             } else {
