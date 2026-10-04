@@ -108,10 +108,10 @@
             <button id="moveToTopBtn" class="hidden p-1.5 text-blue-500 hover:text-blue-700 hover:bg-blue-50 bg-gray-50 border border-gray-200 rounded shadow-sm transition outline-none" title="Move to top">
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16M12 8v12M8 12l4-4 4 4"></path></svg>
             </button>
-
-            <!-- As of Date Display -->
-            <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
         </div>
+
+        <!-- As of Date Display -->
+        <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
 
     </div>
 
@@ -418,6 +418,101 @@
     const detailsContent = document.getElementById('detailsContent');
     const detailsModalTitle = document.getElementById('detailsModalTitle');
 
+    const metadataLabelMap = {
+        "symbol": "Symbol",
+        "longName": "Long Name",
+        "sector": "Sector",
+        "industry": "Industry",
+        "country": "Country",
+        "marketCap": "Market Cap",
+        "currentPrice": "Current Price",
+        "averageVolume10days": "Average Volume10days",
+        "averageVolume3months": "Average Volume3months",
+        "averageDollarVolume": "Average Dollar Volume",
+        "revenueGrowth": "Revenue Growth",
+        "earningsGrowth": "Earnings Growth",
+        "earningsQuarterlyGrowth": "Earnings Quarterly Growth",
+        "grossMargins": "Gross Margins",
+        "operatingMargins": "Operating Margins",
+        "profitMargins": "Profit Margins",
+        "returnOnEquity": "Return On Equity",
+        "returnOnAssets": "Return On Assets",
+        "totalCash": "Total Cash",
+        "totalDebt": "Total Debt",
+        "debtToEquity": "Debt to Equity",
+        "currentRatio": "Current Ratio",
+        "quickRatio": "Quick Ratio",
+        "operatingCashflow": "Operating Cashflow",
+        "freeCashflow": "Free Cashflow",
+        "sharesOutstanding": "Shares Outstanding",
+        "floatShares": "Float Shares",
+        "heldPercentInsiders": "Held Percent Insiders",
+        "heldPercentInstitutions": "Held Percent Institutions",
+        "sharesShort": "Shares Short",
+        "shortRatio": "Short Ratio",
+        "shortPercentOfFloat": "Short Percent of Float",
+        "trailingPE": "Trailing PE",
+        "forwardPE": "Forward PE",
+        "priceToSalesTrailing12Months": "Price to Sales Trailing12 Months",
+        "priceToBook": "Price to Book",
+        "enterpriseToRevenue": "Enterprise to Revenue",
+        "enterpriseToEbitda": "Enterprise to Ebitda",
+        "targetMeanPrice": "Target Mean Price",
+        "targetHighPrice": "Target High Price",
+        "targetLowPrice": "Target Low Price",
+        "recommendationMean": "Recommendation Mean",
+        "recommendationKey": "Recommendation Key",
+        "numberOfAnalystOpinions": "Number of Analyst Opinions",
+        "epsRevisionUpLast7Days": "Eps Revision Up Last 7 Days",
+        "epsRevisionUpLast30Days": "Eps Revision Up Last 30 Days",
+        "epsRevisionDownLast7Days": "Eps Revision Down Last 7 Days",
+        "epsRevisionDownLast30Days": "Eps Revision Down Last 30 Days",
+        "nextEarningsDate": "Next Earnings Date",
+        "beta": "Beta",
+        "website": "Website",
+        "retrievedAt": "Retrieved At"
+    };
+
+    const dollarFields = new Set([
+        "marketCap", "currentPrice", "averageDollarVolume", "totalCash",
+        "totalDebt", "operatingCashflow", "freeCashflow", "targetMeanPrice",
+        "targetHighPrice", "targetLowPrice"
+    ]);
+
+    const commaFields = new Set([
+        "averageVolume10days", "averageVolume3months", "sharesOutstanding",
+        "floatShares", "sharesShort", "numberOfAnalystOpinions",
+        "epsRevisionUpLast7Days", "epsRevisionUpLast30Days",
+        "epsRevisionDownLast7Days", "epsRevisionDownLast30Days"
+    ]);
+
+    function formatDollarValue(val) {
+        if (val === null || val === undefined || val === '') return val;
+        let num = parseFloat(val);
+        if (isNaN(num)) return val;
+
+        let isNegative = num < 0;
+        let absNum = Math.abs(num);
+        let formatted = "";
+
+        if (absNum >= 1e9) {
+            formatted = (absNum / 1e9).toFixed(2) + 'B';
+        } else if (absNum >= 1e6) {
+            formatted = (absNum / 1e6).toFixed(2) + 'M';
+        } else {
+            formatted = absNum.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        }
+
+        return (isNegative ? '-$' : '$') + formatted;
+    }
+
+    function formatCommaValue(val) {
+        if (val === null || val === undefined || val === '') return val;
+        let num = parseFloat(val);
+        if (isNaN(num)) return val;
+        return num.toLocaleString('en-US');
+    }
+
     showDetailsBtn.addEventListener('click', () => {
         if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
         const fileObj = uploadedFiles[activeIndices[currentActiveIdx]];
@@ -427,9 +522,19 @@
 
         if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
             for (const [key, value] of Object.entries(fileObj.metadata)) {
+                const displayLabel = metadataLabelMap[key] || key;
+                let displayValue = value;
+
+                if (dollarFields.has(key)) {
+                    displayValue = formatDollarValue(value);
+                } else if (commaFields.has(key)) {
+                    displayValue = formatCommaValue(value);
+                }
+
                 const row = document.createElement('div');
                 row.className = 'col-span-2 sm:col-span-1 flex flex-col bg-gray-50 p-2 rounded border border-gray-100';
-                row.innerHTML = `<span class="text-xs font-semibold text-gray-500 uppercase">${key}</span><span class="font-medium text-gray-800 break-words">${value}</span>`;
+                // Removed 'uppercase' class to respect the CamelCase formatting
+                row.innerHTML = `<span class="text-xs font-semibold text-gray-500">${displayLabel}</span><span class="font-medium text-gray-800 break-words">${displayValue}</span>`;
                 detailsContent.appendChild(row);
             }
         }
@@ -556,7 +661,6 @@
         renderFilterList();
     });
 
-    // --- Filter Export & Import ---
     document.getElementById('exportFiltersBtn').addEventListener('click', () => {
         if (globalFilters.length === 0) {
             showToast("No filters to export.", "error");
