@@ -26,7 +26,27 @@
         #main-chart { height: 60%; }
         #volume-chart { height: 20%; }
         #analytics-chart { height: 20%; border-bottom: none; }
-        #statusText { font-size: 1.5rem; }
+        #statusText { position: relative; font-size: 1.5rem; }
+        #statusText[data-tooltip]:not([data-tooltip=""]):hover::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            top: 100%;
+            left: 0;
+            z-index: 100;
+            width: max-content;
+            max-width: 280px;
+            padding: 6px 10px;
+            border-radius: 6px;
+            background: #1f2937;
+            color: white;
+            font-size: 0.875rem;
+            font-weight: 400;
+            line-height: 1.4;
+            white-space: normal;
+            overflow-wrap: anywhere;
+            box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
+            pointer-events: none;
+        }
     </style>
 </head>
 <body class="flex flex-col h-screen">
@@ -877,6 +897,7 @@
             currentActiveIdx = -1;
             updateFileNavUI();
             document.getElementById('statusText').innerText = isShowingPickedOnly ? "No picked stocks match current filters." : "All stocks hidden by filters.";
+            document.getElementById('statusText').dataset.tooltip = '';
             document.getElementById('showDetailsBtn').classList.add('hidden');
             document.getElementById('pickBtn').classList.add('hidden');
             Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
@@ -930,6 +951,7 @@
             complete: function(results) {
                 processChartData(results.data);
                 document.getElementById('statusText').innerText = fileObj.name;
+                document.getElementById('statusText').dataset.tooltip = fileObj.metadata?.longName || '';
 
                 const showDetailsBtn = document.getElementById('showDetailsBtn');
                 const pickBtn = document.getElementById('pickBtn');
