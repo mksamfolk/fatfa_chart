@@ -27,7 +27,7 @@
         #volume-chart { height: 20%; }
         #analytics-chart { height: 20%; border-bottom: none; }
         #statusText { position: relative; font-size: 1.5rem; }
-        #statusText[data-tooltip]:not([data-tooltip=""]):hover::after {
+        #statusText[data-tooltip]:not([data-tooltip=""])::after {
             content: attr(data-tooltip);
             position: absolute;
             top: 100%;
@@ -46,6 +46,18 @@
             overflow-wrap: anywhere;
             box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
             pointer-events: none;
+            opacity: 0;
+        }
+        #statusText.tooltip-preview::after {
+            animation: status-tooltip-fade 1s ease-out 1s backwards;
+        }
+        #statusText:hover::after {
+            /* Hover takes precedence while the automatic preview fades. */
+            opacity: 1 !important;
+        }
+        @keyframes status-tooltip-fade {
+            from { opacity: 1; }
+            to { opacity: 0; }
         }
     </style>
 </head>
@@ -950,8 +962,13 @@
             header: true, skipEmptyLines: true,
             complete: function(results) {
                 processChartData(results.data);
-                document.getElementById('statusText').innerText = fileObj.name;
-                document.getElementById('statusText').dataset.tooltip = fileObj.metadata?.longName || '';
+                const statusText = document.getElementById('statusText');
+                statusText.innerText = fileObj.name;
+                statusText.dataset.tooltip = fileObj.metadata?.longName || '';
+                statusText.classList.remove('tooltip-preview');
+                // Flush styles so each loaded symbol starts a fresh preview.
+                void statusText.offsetWidth;
+                statusText.classList.add('tooltip-preview');
 
                 const showDetailsBtn = document.getElementById('showDetailsBtn');
                 const pickBtn = document.getElementById('pickBtn');
