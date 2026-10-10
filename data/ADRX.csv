@@ -1,0 +1,12 @@
+symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+ADRX,ADARx Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,1898927744,17.78,895570,1197163,21285558.14,2.587,,,0.0,-40.06836,0.0,,,427252000,6898000,6.473,12.982,12.561,-88322000,,106801325,43849590,0.41777,0.29569998,,,,,,309.92783,-0.802419,297.209,-17.322,,,,,none,,,,,,,,https://www.adarx.com,2026-10-10T21:19:13.117939+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram,RsRating:Hidden:Hidden
+2026-09-29,19.90,21.50,19.51,20.64,,,,,,,,19.5100,1,26820,,,,,0
+2026-09-30,20.65,21.61,19.23,19.94,,,,,,,,21.6100,0,15729,,,,,0
+2026-10-01,19.99,20.77,18.99,19.54,,,,,,,,21.6100,0,18801,,,,,0
+2026-10-02,19.31,19.53,17.85,18.25,,,,,,,,21.6100,0,17100,,,,,0
+2026-10-05,18.25,19.40,17.30,19.05,,,,,,,,21.3844,0,17410,,,,,0
+2026-10-06,19.05,19.57,18.01,18.58,,,,,,,,21.0576,0,19228,,,,,0
+2026-10-07,18.33,18.70,17.20,17.33,,,,,,,,20.7570,0,12228,,,,,0
+2026-10-08,17.13,18.10,16.64,17.68,,,,,,,,20.4013,0,7429,,,,,0
+2026-10-09,17.70,18.19,17.06,17.78,,,,,,,,19.9500,0,12242,,,,,0

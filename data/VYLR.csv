@@ -1,0 +1,10 @@
+symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+VYLR,Vylor Inc.,Financial Services,Shell Companies,United States,52049588224,73.15,10698614,10698614,782603614.1,-0.012,-0.099,-0.116,0.4954,0.3013,0.056649998,0.04256,0.04546,2364999936,4874999808,19.191,1.516,0.989,1211000064,2417250048,711546000,665461290,,,,,,104.50001,18.035677,2.922164,1.9393408,2.674,11.141,50.66323,85.0,13.65291,2.0,buy,4,0,0,0,0,2026-11-11,0.577,https://www.vylor.com,2026-10-10T21:46:40.997112+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram,RsRating:Hidden:Hidden
+2026-10-01,66.00,75.00,65.00,68.26,,,,,,,,65.0000,1,1025047,,,,,0
+2026-10-02,68.71,71.36,65.11,67.26,,,,,,,,65.0000,1,911985,,,,,0
+2026-10-05,66.60,73.66,66.60,73.33,,,,,,,,65.0000,1,1253246,,,,,0
+2026-10-06,71.91,74.10,71.25,72.93,,,,,,,,65.1100,1,546712,,,,,0
+2026-10-07,75.49,75.49,72.75,72.99,,,,,,,,65.3078,1,618685,,,,,0
+2026-10-08,73.86,75.19,72.55,72.79,,,,,,,,65.7151,1,590283,,,,,0
+2026-10-09,72.79,73.95,71.65,73.15,,,,,,,,66.1061,1,376123,,,,,0
