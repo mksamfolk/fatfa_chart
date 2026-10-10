@@ -321,7 +321,7 @@
         "recommendationMean": "Recommendation Mean", "recommendationKey": "Recommendation Key", "numberOfAnalystOpinions": "Number of Analyst Opinions",
         "epsRevisionUpLast7Days": "Eps Revision Up Last 7 Days", "epsRevisionUpLast30Days": "Eps Revision Up Last 30 Days",
         "epsRevisionDownLast7Days": "Eps Revision Down Last 7 Days", "epsRevisionDownLast30Days": "Eps Revision Down Last 30 Days",
-        "nextEarningsDate": "Next Earnings Date", "beta": "Beta", "website": "Website", "retrievedAt": "Retrieved At"
+        "nextEarningsDate": "Next Earnings Date", "beta": "Beta", "website": "Website", "retrievedAt": "Retrieved At", "rsRating": "RS Rating"
     };
 
     const dollarFields = new Set([
@@ -553,6 +553,8 @@
 
         if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
             for (const [key, value] of Object.entries(fileObj.metadata)) {
+                if (key === 'rsRating') continue;
+
                 const displayLabel = metadataLabelMap[key] || key;
                 let displayValue = value;
 

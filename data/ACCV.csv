@@ -1,11 +1,11 @@
-symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-ACCV,Accelevation Holdings Corp.,Industrials,Electrical Equipment & Parts,United States,3720902912,16.72,2090450,2090450,34952324.0,0.8,,,0.29251,0.08966,0.0677,,,28346000,689400000,2202.063,1.93,1.076,-6531000,,120022472,,0.01229,0.0,,,,38.0,,5.1206965,,,,,,,,none,,,,,,,,https://www.accelevation.com,2026-10-10T21:18:56.489580+01:00
-Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram,RsRating:Hidden:Hidden
-2026-09-30,17.55,18.10,17.51,17.95,,,,,,,,18.1000,0,228991,,,,,0
-2026-10-01,17.88,17.88,15.46,16.58,,,,,,,,18.1000,0,142318,,,,,0
-2026-10-02,16.46,17.92,15.03,17.72,,,,,,,,18.1000,0,97513,,,,,0
-2026-10-05,17.25,17.61,16.37,16.46,,,,,,,,17.9772,0,39773,,,,,0
-2026-10-06,16.46,17.00,16.01,16.40,,,,,,,,17.9200,0,57971,,,,,0
-2026-10-07,16.34,16.59,15.14,15.19,,,,,,,,17.8044,0,20107,,,,,0
-2026-10-08,15.01,15.88,14.77,15.66,,,,,,,,17.6934,0,30227,,,,,0
-2026-10-09,15.81,16.77,15.33,16.72,,,,,,,,17.5180,0,26302,,,,,0
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,ACCV,Accelevation Holdings Corp.,Industrials,Electrical Equipment & Parts,United States,3720902912,16.72,2090450,2090450,34952324.0,0.8,,,0.29251,0.08966,0.0677,,,28346000,689400000,2202.063,1.93,1.076,-6531000,,120022472,,0.01229,0.0,,,,38.0,,5.1206965,,,,,,,,none,,,,,,,,https://www.accelevation.com,2026-10-10T21:18:56.489580+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-30,17.55,18.10,17.51,17.95,,,,,,,,18.1000,0,228991,,,,
+2026-10-01,17.88,17.88,15.46,16.58,,,,,,,,18.1000,0,142318,,,,
+2026-10-02,16.46,17.92,15.03,17.72,,,,,,,,18.1000,0,97513,,,,
+2026-10-05,17.25,17.61,16.37,16.46,,,,,,,,17.9772,0,39773,,,,
+2026-10-06,16.46,17.00,16.01,16.40,,,,,,,,17.9200,0,57971,,,,
+2026-10-07,16.34,16.59,15.14,15.19,,,,,,,,17.8044,0,20107,,,,
+2026-10-08,15.01,15.88,14.77,15.66,,,,,,,,17.6934,0,30227,,,,
+2026-10-09,15.81,16.77,15.33,16.72,,,,,,,,17.5180,0,26302,,,,
