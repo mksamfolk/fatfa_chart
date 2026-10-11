@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,VEEE,Twin Vee Powercats Co.,Consumer Cyclical,Recreational Vehicles,United States,5760903,9.865,30560,2612242,25769767.330000002,-0.342,,,0.00588,-0.74218005,-0.76307,-0.62583,-0.27294,3721284,3083195,21.403,2.36,1.358,-7667790,-1416623,583974,524325,0.09118,0.097559996,23267,1.15,0.040599998,,,0.4253378,0.39112678,0.383,-0.683,74.00007,74.00007,74.00007,,none,1,,,,,2026-11-05,0.895,https://twinvee.com,2026-10-11T11:08:48.297524+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,9.20,9.33,9.09,9.31,,,,,,,0,9.0900,1,87,,,,
+2026-09-04,9.52,9.99,9.38,9.90,,,,,,,0,9.0900,1,148,,,,
+2026-09-08,9.61,10.23,9.60,9.93,,,,,,,0,9.0900,1,133,,,,
+2026-09-09,9.51,9.74,9.31,9.39,,,,,,,0,9.1356,1,52,,,,
+2026-09-10,9.85,9.85,9.39,9.75,,,,,,,0,9.1794,1,86,,,,
+2026-09-11,9.48,9.65,9.42,9.60,,,,,,,0,9.2214,1,34,,,,
+2026-10-05,10.81,10.94,10.47,10.80,,,,,,,0,9.2617,1,174,,,,
+2026-10-06,10.68,10.68,10.17,10.48,,,,,,,0,9.3626,1,257,,,,
+2026-10-07,10.25,10.36,9.86,10.35,,,,,,,0,9.4573,1,209,,,,
+2026-10-08,10.41,10.44,9.91,10.14,9.96,,,,,11.9978,0,9.5464,1,222,,,,
+2026-10-09,9.91,9.91,9.52,9.86,10.02,,,,,11.5415,0,10.9420,0,66,,,,

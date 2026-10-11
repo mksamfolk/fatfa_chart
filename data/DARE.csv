@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,DARE,Daré Bioscience Inc.,Healthcare,Biotechnology,United States,15212070,0.7734,249570,525382,406330.4388,,,,2.43908,-15.82534,0.0,,-0.39286998,12617594,6763626,,0.986,0.749,-11293561,-6908168,19669083,12983539,0.12078,0.13369,859250,1.67,0.043899998,,-1.8636146,11.136712,-20.902702,4.358,-0.663,8.33333,12.0,5.0,,none,3,0,0,0,0,2026-11-12,1.009,https://darebioscience.com,2026-10-11T10:29:27.843456+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,0.75,0.78,0.69,0.71,,,,,,,0,0.6900,1,321,,,,
+2026-09-04,0.70,0.76,0.70,0.72,,,,,,,0,0.6900,1,315,,,,
+2026-09-08,0.73,0.74,0.70,0.71,,,,,,,0,0.6900,1,137,,,,
+2026-09-09,0.73,0.73,0.69,0.72,,,,,,,0,0.7790,0,124,,,,
+2026-09-10,0.70,0.73,0.70,0.70,,,,,,,0,0.7772,0,72,,,,
+2026-09-11,0.72,0.72,0.70,0.71,,,,,,,0,0.7755,0,66,,,,
+2026-10-05,0.83,0.87,0.83,0.84,,,,,,,0,0.6910,1,133,,,,
+2026-10-06,0.83,0.88,0.83,0.83,,,,,,,0,0.6946,1,74,,,,
+2026-10-07,0.81,0.82,0.79,0.79,,,,,,,0,0.7020,1,89,,,,
+2026-10-08,0.79,0.80,0.75,0.77,0.75,,,,,0.9470,0,0.7091,1,128,,,,
+2026-10-09,0.79,0.79,0.76,0.77,0.76,,,,,0.9366,0,0.7159,1,54,,,,

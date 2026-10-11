@@ -1,0 +1,20 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,CATL,Catalyst Acquisition Corp.,Financial Services,Shell Companies,United States,266760496,9.8182,15940,38388,376901.06159999996,,,,0.0,0.0,0.0,,,,153534,,,,0,,21420000,19775956,0.0,0.13744001,0,,,,,,-613.63745,,,,,,,none,,,,,,,,,2026-10-11T10:24:39.287681+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-17,10.09,10.12,9.83,9.88,,,,,,,0,10.1200,0,706,,,,
+2026-09-18,9.83,9.86,9.79,9.84,,,,,,,0,10.1200,0,124,,,,
+2026-09-21,9.90,9.90,9.80,9.80,,,,,,,0,10.1200,0,66,,,,
+2026-09-22,9.86,9.87,9.83,9.83,,,,,,,0,10.1134,0,3459,,,,
+2026-09-23,9.83,9.88,9.83,9.85,,,,,,,0,10.1069,0,77,,,,
+2026-09-24,9.88,9.88,9.81,9.81,,,,,,,0,10.1006,0,235,,,,
+2026-09-25,9.81,9.81,9.79,9.80,,,,,,,0,10.0944,0,183,,,,
+2026-09-28,9.80,9.80,9.79,9.79,,,,,,,0,10.0883,0,150,,,,
+2026-09-29,9.80,9.80,9.79,9.80,,,,,,,0,10.0823,0,22,,,,
+2026-09-30,9.80,9.80,9.79,9.80,9.82,,,,,10.0110,0,10.0765,0,58,,,,
+2026-10-01,9.80,9.80,9.78,9.78,9.81,,,,,9.9904,0,10.0708,0,602,,,,
+2026-10-02,9.82,9.82,9.80,9.80,9.81,,,,,9.9904,0,10.0591,0,23,,,,
+2026-10-05,9.82,9.83,9.80,9.82,9.81,,,,,9.9904,0,10.0480,0,621,,,,
+2026-10-06,9.89,9.90,9.81,9.81,9.81,,,,,9.9904,0,10.0372,0,39,,,,
+2026-10-07,9.89,9.89,9.85,9.85,9.81,,,,,9.9904,0,10.0269,0,11,,,,
+2026-10-08,9.88,9.88,9.81,9.81,9.81,,,,,9.9904,0,10.0171,0,14,,,,
+2026-10-09,9.88,9.88,9.82,9.82,9.81,,,,,9.9904,0,10.0076,0,24,,,,

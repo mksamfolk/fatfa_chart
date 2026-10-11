@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,PLTK,Playtika Holding Corp.,Communication Services,Electronic Gaming & Multimedia,Israel,873447616,2.29,938030,1456217,3334736.93,0.05,0.426,0.446,0.73477,0.18753,-0.098859996,,0.08399,441700000,2510099968,,1.137,0.973,454300000,400500000,381418186,78167843,0.85551,0.16204001,7044579,4.9,0.0874,,3.523077,0.308726,-2.1830313,1.041,4.624,4.775,14.0,2.75,2.63636,hold,10,2,1,0,0,2026-11-05,1.069,https://www.playtika.com,2026-10-11T10:55:41.356875+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,2.21,2.29,2.21,2.24,,,,,,,0,2.2900,0,2679,,,,
+2026-09-04,2.21,2.23,2.19,2.20,,,,,,,0,2.2900,0,2123,,,,
+2026-09-08,2.26,2.26,2.15,2.22,,,,,,,0,2.2900,0,1881,,,,
+2026-09-09,2.21,2.29,2.20,2.26,,,,,,,0,2.1500,1,3371,,,,
+2026-09-10,2.26,2.28,2.21,2.22,,,,,,,0,2.1500,1,2163,,,,
+2026-09-11,2.25,2.35,2.24,2.31,,,,,,,0,2.1528,1,2600,,,,
+2026-10-05,2.18,2.20,2.13,2.18,,,,,,,0,2.3500,0,1852,,,,
+2026-10-06,2.19,2.30,2.18,2.29,,,,,,,0,2.3500,0,2729,,,,
+2026-10-07,2.26,2.33,2.26,2.32,,,,,,,0,2.3456,0,1783,,,,
+2026-10-08,2.29,2.35,2.29,2.30,2.25,,,,,2.6065,0,2.1300,1,2215,,,,
+2026-10-09,2.30,2.31,2.26,2.29,2.26,,,,,2.5538,0,2.1344,1,1964,,,,

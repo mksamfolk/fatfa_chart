@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,JZ,Jianzhi Education Technology Group Company Limited,Technology,Information Technology Services,China,3082640,1.28,35140650,6731103,8615811.84,0.398,,,0.16290002,-1.26488,-0.28309,-0.36786,-0.14840999,22826040,7326432,7.862,3.575,1.547,-17506572,-124122672,2377874,1403950,0.0,0.00147,53688,0.02,0.0234,,,0.04209511,0.14062203,-0.116,0.416,,,,,none,,,,,,,2.158,https://www.jianzhi-jiaoyu.com,2026-10-11T10:43:10.435364+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,1.05,1.07,1.00,1.03,,,,,,,0,1.0000,1,118,,,,
+2026-09-04,1.04,1.07,1.01,1.05,,,,,,,0,1.0000,1,79,,,,
+2026-09-08,1.05,1.05,0.82,0.88,,,,,,,0,1.0700,0,195,,,,
+2026-09-09,0.88,0.89,0.76,0.79,,,,,,,0,1.0660,0,197,,,,
+2026-09-10,0.95,0.98,0.73,0.77,,,,,,,0,1.0539,0,9908,,,,
+2026-09-11,0.79,0.82,0.70,0.76,,,,,,,0,1.0341,0,865,,,,
+2026-10-05,0.43,0.50,0.43,0.47,,,,,,,0,1.0074,0,106,,,,
+2026-10-06,0.46,0.47,0.44,0.44,,,,,,,0,0.9493,0,37,,,,
+2026-10-07,0.44,0.47,0.43,0.47,,,,,,,0,0.8969,0,47,,,,
+2026-10-08,0.58,1.17,0.57,0.83,0.75,,,,,1.4552,0,0.4260,1,239604,,,,
+2026-10-09,0.80,1.47,0.73,1.28,0.77,,,,,1.4552,0,0.4340,1,54565,,,,

@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,CELZ,Creative Medical Technology Holdings Inc.,Healthcare,Biotechnology,United States,6366359,0.8385,122680,6766570,5673768.945,,,,0.66866994,-2080.044,0.0,-0.77884,-0.47323,8839115,14194,0.164,12.91,12.653,-5901718,-3456562,7592557,6557287,0.15704,0.05657,84256,0.11,0.0128,,-0.9528409,2122.1196,0.6290323,-1042.866,0.511,20.0,20.0,20.0,,none,1,0,0,1,1,,1.905,https://www.creativemedicaltechnology.com,2026-10-11T10:25:26.047998+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,1.14,1.14,1.04,1.06,,,,,,,0,1.0400,1,183,,,,
+2026-09-04,1.06,1.12,1.06,1.11,,,,,,,0,1.0400,1,168,,,,
+2026-09-08,1.10,1.12,1.07,1.08,,,,,,,0,1.0400,1,152,,,,
+2026-09-09,1.08,1.09,1.04,1.04,,,,,,,0,1.1400,0,113,,,,
+2026-09-10,1.05,1.06,0.94,0.95,,,,,,,0,1.1380,0,304,,,,
+2026-09-11,0.95,1.00,0.95,0.96,,,,,,,0,1.1299,0,96,,,,
+2026-10-05,0.96,0.96,0.92,0.92,,,,,,,0,1.1222,0,65,,,,
+2026-10-06,0.90,0.92,0.89,0.90,,,,,,,0,1.1101,0,63,,,,
+2026-10-07,0.91,0.91,0.88,0.89,,,,,,,0,1.0925,0,46,,,,
+2026-10-08,0.88,0.89,0.86,0.86,0.98,,,,,1.0433,0,1.0712,0,35,,,,
+2026-10-09,0.86,0.88,0.82,0.84,0.95,,,,,1.0181,0,1.0459,0,125,,,,

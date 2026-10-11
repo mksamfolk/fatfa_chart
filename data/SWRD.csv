@@ -1,0 +1,23 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,SWRD,Stewards Inc.,Financial Services,Credit Services,United States,591139136,2.62,181140,1696881,4445828.22,0.046,,,0.60089,-1.14475,-1.7564701,-3.11386,-0.11563,1096000,118986000,313.732,0.853,0.06,-6882227,2345475,225625627,88112880,0.57842,0.0,259249,0.17,,,,34.938496,291.1111,40.789,-85.867,,,,,none,,,,,,,1.261,https://www.stewards.com,2026-10-11T11:04:24.730862+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-14,3.02,3.08,2.50,2.78,,,,,,,0,3.0800,0,3325,,,,
+2026-09-15,2.42,2.54,1.81,1.94,,,,,,,0,3.0800,0,1634,,,,
+2026-09-16,2.00,2.00,1.46,1.81,,,,,,,0,3.0800,0,1271,,,,
+2026-09-17,1.72,2.13,1.67,2.13,,,,,,,0,3.0152,0,973,,,,
+2026-09-18,2.08,2.20,1.82,2.15,,,,,,,0,2.9530,0,735,,,,
+2026-09-21,2.15,2.15,1.79,1.99,,,,,,,0,2.8933,0,683,,,,
+2026-09-22,1.91,2.32,1.80,2.18,,,,,,,0,2.8359,0,635,,,,
+2026-09-23,2.16,2.50,2.12,2.42,,,,,,,0,2.7809,0,847,,,,
+2026-09-24,2.48,2.98,2.36,2.81,,,,,,,0,1.4600,1,2425,,,,
+2026-09-25,2.72,2.93,2.43,2.61,2.28,,,,,4.2730,0,1.4904,1,783,,,,
+2026-09-28,2.51,2.58,2.23,2.38,2.24,,,,,3.9527,0,1.5202,1,334,,,,
+2026-09-29,2.39,2.45,2.17,2.43,2.29,,,,,3.7869,0,1.5494,1,267,,,,
+2026-09-30,2.28,2.42,2.11,2.42,2.35,,,,,3.6902,0,1.5780,1,423,,,,
+2026-10-01,2.40,2.40,2.16,2.28,2.37,,,,,3.6407,0,1.6060,1,389,,,,
+2026-10-02,2.23,2.57,2.13,2.45,2.40,,,,,3.6407,0,1.6335,1,444,,,,
+2026-10-05,2.37,2.47,2.25,2.34,2.43,,,,,3.6407,0,1.6604,1,629,,,,
+2026-10-06,2.29,2.71,2.26,2.65,2.48,,,,,3.6407,0,1.6868,1,463,,,,
+2026-10-07,2.53,2.79,2.32,2.55,2.49,,,,,3.6407,0,1.7127,1,555,,,,
+2026-10-08,2.51,2.74,2.43,2.54,2.47,,,,,3.6407,0,1.7380,1,521,,,,
+2026-10-09,2.49,2.65,2.43,2.62,2.47,2.37,,,,3.6407,0,1.7629,1,440,,,,

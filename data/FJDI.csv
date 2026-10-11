@@ -1,0 +1,15 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,FJDI,ARC Group Securities Acquisition I,Financial Services,Shell Companies,United States,193846800,9.87,54150,134625,1328748.75,,,,0.0,0.0,0.0,,,25000,283861,,,,-278636,,10640000,11059931,0.0126600005,0.0,,,,,,,-394.8,,,,,,,none,,,,,,,,,2026-10-11T10:34:30.529238+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-24,9.88,9.90,9.84,9.85,,,,,,,0,9.9000,0,6549,,,,
+2026-09-25,9.86,9.86,9.84,9.85,,,,,,,0,9.9000,0,4030,,,,
+2026-09-28,9.85,9.88,9.84,9.85,,,,,,,0,9.9000,0,238,,,,
+2026-09-29,9.86,9.88,9.86,9.86,,,,,,,0,9.8988,0,3078,,,,
+2026-09-30,9.86,9.87,9.86,9.87,,,,,,,0,9.8976,0,69,,,,
+2026-10-01,9.87,9.87,9.85,9.87,,,,,,,0,9.8965,0,589,,,,
+2026-10-02,9.86,9.87,9.86,9.87,,,,,,,0,9.8953,0,104,,,,
+2026-10-05,9.87,9.87,9.85,9.87,,,,,,,0,9.8942,0,1060,,,,
+2026-10-06,9.87,9.87,9.87,9.87,,,,,,,0,9.8932,0,,,,,
+2026-10-07,9.86,9.87,9.85,9.87,9.86,,,,,9.9290,0,9.8921,0,27,,,,
+2026-10-08,9.87,9.87,9.87,9.87,9.86,,,,,9.9290,0,9.8910,0,,,,,
+2026-10-09,9.87,9.87,9.87,9.87,9.87,,,,,9.9259,0,9.8900,0,176,,,,

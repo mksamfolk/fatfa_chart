@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,PMI,Picard Medical Inc.,Healthcare,Medical Devices,United States,22170250,9.48,416320,1696655,16084289.4,0.386,,,0.18603,-1.5670301,0.0,,-0.93614995,38000,1578000,91.958,1.019,0.088,-16043000,-22790376,2338634,1281782,0.41865003,0.064380005,231853,0.05,0.1499,,-2.1066666,3.5190873,11.353293,3.838,-1.564,,,,,none,,0,0,0,0,2026-08-14,,https://www.picardmedical.com,2026-10-11T10:55:50.599824+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,4.54,4.60,4.10,4.49,,,,,,,0,4.1010,1,1366,,,,
+2026-09-04,4.46,5.35,4.34,4.56,,,,,,,0,4.1010,1,2322,,,,
+2026-09-08,4.70,4.77,4.24,4.31,,,,,,,0,4.1010,1,843,,,,
+2026-09-09,4.25,4.65,4.05,4.41,,,,,,,0,5.3520,0,1097,,,,
+2026-09-10,4.30,5.00,4.18,4.41,,,,,,,0,5.3259,0,1415,,,,
+2026-09-11,4.56,5.33,4.55,5.33,,,,,,,0,4.0460,1,2648,,,,
+2026-10-05,6.15,7.20,5.56,6.93,,,,,,,0,4.0717,1,6228,,,,
+2026-10-06,6.80,9.00,6.69,8.74,,,,,,,0,4.1968,1,7959,,,,
+2026-10-07,8.70,10.19,7.63,9.37,,,,,,,0,4.4850,1,7417,,,,
+2026-10-08,9.29,10.10,8.85,9.68,6.22,,,,,13.1869,0,4.9416,1,2498,,,,
+2026-10-09,9.51,9.72,8.15,9.48,6.72,,,,,12.7467,0,5.3618,1,2839,,,,

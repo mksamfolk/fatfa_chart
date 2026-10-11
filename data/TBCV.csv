@@ -1,0 +1,8 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,294147008,9.8,23440,23440,229712.00000000003,,,,0.0,0.0,0.0,,,226,154886,,0.083,0.001,-4774,,30015000,30314892,,,,,,,,,,,,,,,,none,,,,,,,,,2026-10-11T11:04:50.893650+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-05,10.06,11.10,9.82,9.83,,,,,,,,11.1000,0,971,,,,
+2026-10-06,9.78,9.80,9.78,9.80,,,,,,,,11.1000,0,121,,,,
+2026-10-07,9.78,9.80,9.78,9.80,,,,,,,,11.1000,0,60,,,,
+2026-10-08,9.80,9.80,9.80,9.80,,,,,,,,11.0736,0,,,,,
+2026-10-09,9.80,9.80,9.80,9.80,,,,,,,,11.0477,0,,,,,

@@ -1,0 +1,14 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,PPSI,Pioneer Power Solutions Inc.,Industrials,Electrical Equipment & Parts,United States,34130244,3.075,89310,95010,292155.75,-0.4,,,0.16187,-0.39948002,-0.38111,-0.26681,-0.11617,10668000,1337000,5.399,4.112,2.71,-5481000,-5747750,11099266,8603041,0.22489999,0.13348,110082,0.89,0.0128,,-18.088236,1.5654639,1.3776882,1.14,-4.602,9.5,12.0,7.0,,none,2,0,0,2,2,2026-11-12,1.85,https://www.pioneerpowersolutions.com,2026-10-11T10:56:15.260477+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-03,2.90,3.05,2.89,3.01,,,,,,,0,2.8860,1,268,,,,
+2026-09-04,2.98,3.01,2.89,2.89,,,,,,,0,2.8860,1,184,,,,
+2026-09-08,2.96,3.22,2.90,2.92,,,,,,,0,2.8860,1,585,,,,
+2026-09-09,3.12,3.23,2.90,3.14,,,,,,,0,2.8900,1,728,,,,
+2026-09-10,3.17,3.17,2.96,2.97,,,,,,,0,2.9000,1,240,,,,
+2026-09-11,3.04,3.13,3.02,3.06,,,,,,,0,2.9000,1,211,,,,
+2026-10-05,3.32,3.32,3.20,3.25,,,,,,,0,2.9201,1,137,,,,
+2026-10-06,3.23,3.39,3.12,3.17,,,,,,,0,2.9521,1,573,,,,
+2026-10-07,3.14,3.14,3.01,3.06,,,,,,,0,2.9959,1,195,,,,
+2026-10-08,3.04,3.09,2.96,3.08,3.06,,,,,3.6639,0,3.3900,0,186,,,,
+2026-10-09,3.08,3.20,3.01,3.08,3.06,,,,,3.6639,0,3.3814,0,264,,,,

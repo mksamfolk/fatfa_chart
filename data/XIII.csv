@@ -1,0 +1,19 @@
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,XIII,Churchill Capital Corp XIII,Financial Services,Shell Companies,United States,428076000,10.34,83880,60968,630409.12,,,,0.0,0.0,0.0,,,,52440,1596.347,,,,,41400000,,0.0,0.16332,0,,,,,,,,,,,,,none,,,,,,,,,2026-10-11T11:11:40.367361+01:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-18,10.83,11.25,10.01,10.72,,,,,,,0,10.0100,1,636,,,,
+2026-09-21,10.30,10.30,10.13,10.13,,,,,,,0,10.0100,1,52,,,,
+2026-09-22,10.20,10.34,10.14,10.34,,,,,,,0,10.0100,1,138,,,,
+2026-09-23,10.40,10.40,10.25,10.34,,,,,,,0,10.0348,1,540,,,,
+2026-09-24,10.21,10.30,10.21,10.25,,,,,,,0,10.0591,1,37,,,,
+2026-09-25,10.30,10.30,10.22,10.22,,,,,,,0,10.0829,1,33,,,,
+2026-09-28,10.21,10.25,10.21,10.25,,,,,,,0,10.1063,1,65,,,,
+2026-09-29,10.23,10.30,10.21,10.30,,,,,,,0,10.1291,1,3105,,,,
+2026-09-30,10.28,10.28,10.26,10.26,,,,,,,0,10.1516,1,7,,,,
+2026-10-01,10.26,10.29,10.23,10.23,10.30,,,,,11.0490,0,10.1735,1,3117,,,,
+2026-10-02,10.23,10.31,10.22,10.31,10.26,,,,,11.0021,0,10.1951,1,11,,,,
+2026-10-05,10.31,10.31,10.31,10.31,10.28,,,,,10.9734,0,10.2162,1,2,,,,
+2026-10-06,10.31,10.31,10.31,10.31,10.28,,,,,10.9071,0,10.2200,1,,,,,
+2026-10-07,10.29,10.30,10.28,10.30,10.27,,,,,10.8363,0,10.2406,1,10,,,,
+2026-10-08,10.30,10.30,10.22,10.22,10.27,,,,,10.7757,0,11.2500,0,2280,,,,
+2026-10-09,10.34,10.34,10.34,10.34,10.28,,,,,10.7757,0,11.2294,0,2,,,,
