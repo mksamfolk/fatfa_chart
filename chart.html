@@ -23,6 +23,25 @@
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
         .chart-container { position: relative; width: 100%; border-bottom: 1px solid #e5e7eb; }
+        #searchResults { top: 100%; left: 0; min-width: 16rem; }
+        #searchResults[data-empty="true"] { max-height: none; overflow: visible; padding: 0.75rem; }
+        #searchResults .fetch-stock-button {
+            display: block;
+            width: 100%;
+            min-height: 44px;
+            margin-top: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            border: 1px solid #2563eb;
+            border-radius: 0.375rem;
+            background: #2563eb;
+            color: white;
+            text-align: left;
+            font-size: 0.875rem;
+            overflow-wrap: anywhere;
+            cursor: pointer;
+        }
+        #searchResults .fetch-stock-button:hover { background: #1d4ed8; }
+        #searchResults .fetch-stock-button:disabled { opacity: 0.5; cursor: wait; }
         #main-chart { height: 60%; }
         #volume-chart { height: 20%; }
         #analytics-chart { height: 20%; border-bottom: none; }
@@ -467,16 +486,64 @@
 
     const searchInput = document.getElementById('searchInput');
     const searchResults = document.getElementById('searchResults');
+    const pendingStockFetches = new Set();
+
+    async function fetchSearchStock(stockName) {
+        if (pendingStockFetches.has(stockName)) return;
+        pendingStockFetches.add(stockName);
+        renderSearchResults(searchInput.value);
+
+        try {
+            const response = await fetch(`data/${encodeURIComponent(stockName)}.csv?_t=${Date.now()}`, { cache: 'no-store' });
+            if (!response.ok) throw new Error(`Could not fetch data for ${stockName} (HTTP ${response.status}).`);
+
+            const { metadata, remainingCsv } = extractMetadataAndCsv(await response.text());
+            const existingIndex = uploadedFiles.findIndex(file => file.name.toUpperCase() === stockName);
+            const file = { name: existingIndex === -1 ? stockName : uploadedFiles[existingIndex].name, text: remainingCsv, metadata };
+            if (existingIndex !== -1) uploadedFiles.splice(existingIndex, 1);
+            uploadedFiles.unshift(file);
+
+            // Keep existing index references valid after moving the fetched file to the front.
+            const moveToFront = indices => [0, ...indices
+                .filter(index => index !== existingIndex)
+                .map(index => existingIndex === -1 || index < existingIndex ? index + 1 : index)];
+            baseActiveIndices = moveToFront(baseActiveIndices);
+            activeIndices = moveToFront(activeIndices);
+            currentActiveIdx = 0;
+            updateFileNavUI();
+            loadCurrentFile();
+            searchInput.value = '';
+            searchResults.classList.add('hidden');
+            showToast(`Loaded ${file.name} at the top of the list.`, 'success');
+        } catch (error) {
+            showToast(error.message || `Could not fetch data for ${stockName}.`);
+        } finally {
+            pendingStockFetches.delete(stockName);
+            renderSearchResults(searchInput.value);
+        }
+    }
 
     function renderSearchResults(query = '') {
-        const lowerQuery = query.toLowerCase();
+        const lowerQuery = query.trim().toLowerCase();
         const matchedFiles = activeIndices.map(origIdx => {
             return { ...uploadedFiles[origIdx], origIdx, viewIdx: activeIndices.indexOf(origIdx) };
         }).filter(f => f.name.toLowerCase().includes(lowerQuery));
 
         searchResults.innerHTML = '';
+        searchResults.dataset.empty = String(matchedFiles.length === 0);
         if (matchedFiles.length === 0) {
-            searchResults.innerHTML = '<div class="p-3 text-sm text-gray-500">No matches found.</div>';
+            searchResults.innerHTML = '<div class="text-sm text-gray-500">No matches found.</div>';
+            const stockName = query.trim().toUpperCase();
+            if (stockName) {
+                const fetchButton = document.createElement('button');
+                fetchButton.type = 'button';
+                fetchButton.className = 'fetch-stock-button';
+                fetchButton.disabled = pendingStockFetches.has(stockName);
+                fetchButton.textContent = fetchButton.disabled ? `Fetching ${stockName}…` : `Fetch ${stockName} data`;
+                fetchButton.addEventListener('mousedown', event => event.preventDefault());
+                fetchButton.addEventListener('click', () => fetchSearchStock(stockName));
+                searchResults.appendChild(fetchButton);
+            }
             return;
         }
 
@@ -502,13 +569,17 @@
     });
 
     searchInput.addEventListener('focus', (e) => {
-        if (activeIndices.length === 0) return;
         renderSearchResults(e.target.value);
         searchResults.classList.remove('hidden');
     });
 
-    searchInput.addEventListener('blur', () => {
-        setTimeout(() => searchResults.classList.add('hidden'), 150);
+    const searchContainer = document.getElementById('searchContainer');
+    searchContainer.addEventListener('focusout', () => {
+        setTimeout(() => {
+            if (!searchContainer.contains(document.activeElement)) {
+                searchResults.classList.add('hidden');
+            }
+        }, 150);
     });
 
     // Details Formatting Logic
