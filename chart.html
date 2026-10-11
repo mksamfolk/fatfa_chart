@@ -532,7 +532,7 @@
     }
 
     function renderSearchResults(query = '') {
-        const lowerQuery = query.trim().toLowerCase();
+        const lowerQuery = query.toLowerCase();
         const matchedFiles = activeIndices.map(origIdx => {
             return { ...uploadedFiles[origIdx], origIdx, viewIdx: activeIndices.indexOf(origIdx) };
         }).filter(f => f.name.toLowerCase().includes(lowerQuery));
