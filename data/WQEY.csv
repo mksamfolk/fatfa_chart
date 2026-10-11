@@ -1,8 +1,0 @@
-rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WQEY,WISeKey International Holding AG,Technology,Software - Application,Switzerland,49262492,8.61,176100,176100,1516221.0,1.16,,,0.52532,-3.5743399,-0.43048,-0.15349,-0.09905,491433984,8600000,1.551,12.378,12.122,-41436000,-29381124,4120664,4088268,0.0,0.03056,,,,,,1.9371802,,2.607,-1.175,,,,,none,,,,,,,0.492,https://www.wisekey.com,2026-10-11T11:10:59.920709+01:00
-Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
-2026-10-05,19.01,19.78,12.55,13.40,,,,,,,,19.7800,0,6553,,,,
-2026-10-06,11.47,12.40,9.75,10.24,,,,,,,,19.7800,0,1097,,,,
-2026-10-07,10.79,11.80,9.55,9.78,,,,,,,,19.7800,0,787,,,,
-2026-10-08,10.64,10.64,9.41,9.52,,,,,,,,19.3708,0,564,,,,
-2026-10-09,10.16,10.35,8.40,8.61,,,,,,,,18.7732,0,1246,,,,

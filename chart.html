@@ -494,7 +494,7 @@
         renderSearchResults(searchInput.value);
 
         try {
-            const response = await fetch(`data/${encodeURIComponent(stockName)}.csv?_t=${Date.now()}`, { cache: 'no-store' });
+            const response = await fetch(`local/${encodeURIComponent(stockName)}.csv?_t=${Date.now()}`, { cache: 'no-store' });
             if (!response.ok) throw new Error(`Could not fetch data for ${stockName} (HTTP ${response.status}).`);
 
             const { metadata, remainingCsv } = extractMetadataAndCsv(await response.text());
