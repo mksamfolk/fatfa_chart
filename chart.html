@@ -510,9 +510,17 @@
             baseActiveIndices = moveToFront(baseActiveIndices);
             activeIndices = moveToFront(activeIndices);
             currentActiveIdx = 0;
-            updateFileNavUI();
-            loadCurrentFile();
+            const passing = getPassingStockFilters(file);
+            priceFilters = passing.price;
+            metaFilters = passing.meta;
+            if (isShowingPickedOnly && !pickedSymbols.has(file.name)) {
+                isShowingPickedOnly = false;
+                updatePickedUI();
+            }
+            renderFilterLists();
+            applyFilters(false);
             searchInput.value = '';
+            searchInput.blur();
             searchResults.classList.add('hidden');
             showToast(`Loaded ${file.name} at the top of the list.`, 'success');
         } catch (error) {
@@ -862,111 +870,76 @@
         reader.readAsText(file); e.target.value = '';
     });
 
-    document.getElementById('applyFiltersBtn').addEventListener('click', () => {
-        filterModal.classList.add('hidden'); filterModal.classList.remove('flex');
-
-        const totalFilters = priceFilters.length + metaFilters.length;
-        if (totalFilters > 0) {
-            filterCountBadge.innerText = totalFilters;
-            filterCountBadge.classList.remove('hidden');
-        } else {
-            filterCountBadge.classList.add('hidden');
+    function getPassingStockFilters(fileObj) {
+        const parsedMeta = {};
+        for (const [key, value] of Object.entries(fileObj.metadata || {})) {
+            const number = parseFloat(value);
+            parsedMeta[key] = isNaN(number) ? value : number;
         }
 
-        if (uploadedFiles.length === 0) return;
-
-        if (totalFilters === 0) {
-            baseActiveIndices = uploadedFiles.map((_, i) => i);
-            applyPickedFilter();
-            showToast("Filters cleared. All stocks restored.", "success");
-            return;
-        }
-
-        showToast("Evaluating filters...");
-
-        const evaluationPromises = uploadedFiles.map((fileObj, index) => {
-            return new Promise(resolve => {
-
-                // STEP 1: Fast-Fail Metadata Evaluation
-                let passedMeta = true;
-                if (metaFilters.length > 0) {
-                    const meta = fileObj.metadata || {};
-                    // Convert numeric strings to actual floats for mathematical evaluation
-                    const parsedMeta = {};
-                    for (let key in meta) {
-                        let valNum = parseFloat(meta[key]);
-                        parsedMeta[key] = isNaN(valNum) ? meta[key] : valNum;
-                    }
-
-                    for (let filterStr of metaFilters) {
-                        try {
-                            let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_]+)/g, 'parsedMeta["$1"]');
-                            evalStr = evalStr.replace(/\$\./g, 'parsedMeta.');
-                            if (!eval(evalStr)) { passedMeta = false; break; }
-                        } catch (e) {
-                            console.warn(`Meta Filter failed for ${fileObj.name}: ${filterStr}`, e);
-                            passedMeta = false; break;
-                        }
-                    }
-                }
-
-                // If it fails metadata, instantly reject without parsing CSV
-                if (!passedMeta) return resolve({ index, passed: false });
-
-                // If it passes metadata but there are no price filters, instantly accept
-                if (priceFilters.length === 0) return resolve({ index, passed: true });
-
-                // STEP 2: Heavy Price Data Evaluation
-                Papa.parse(fileObj.text, {
-                    header: true, skipEmptyLines: 'greedy',
-                    complete: results => {
-                        const parsed = results.data;
-                        if (!parsed || parsed.length === 0) return resolve({ index, passed: false });
-
-                        const rawLastRow = parsed[parsed.length - 1];
-                        const lastRow = {};
-
-                        for (let key in rawLastRow) {
-                            if (!key) continue;
-                            let trimmedKey = key.trim();
-                            let valNum = parseFloat(rawLastRow[key]);
-                            let finalVal = isNaN(valNum) ? String(rawLastRow[key] || '').trim() : valNum;
-                            lastRow[trimmedKey] = finalVal;
-
-                            let baseName = trimmedKey.split(':')[0].trim();
-                            if (baseName !== trimmedKey) lastRow[baseName] = finalVal;
-                        }
-
-                        let passedPrice = true;
-                        for (let filterStr of priceFilters) {
-                            try {
-                                let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_:-]+)/g, 'lastRow["$1"]');
-                                evalStr = evalStr.replace(/\$\./g, 'lastRow.');
-                                if (!eval(evalStr)) { passedPrice = false; break; }
-                            } catch (e) {
-                                console.warn(`Price Filter failed for ${fileObj.name}: ${filterStr}`, e);
-                                passedPrice = false; break;
-                            }
-                        }
-
-                        resolve({ index, passed: passedPrice });
-                    }
-                });
-            });
+        const passingMeta = metaFilters.filter(filterStr => {
+            try {
+                let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_]+)/g, 'parsedMeta["$1"]');
+                evalStr = evalStr.replace(/\$\./g, 'parsedMeta.');
+                return Boolean(eval(evalStr));
+            } catch (error) {
+                console.warn(`Meta Filter failed for ${fileObj.name}: ${filterStr}`, error);
+                return false;
+            }
         });
 
-        Promise.all(evaluationPromises).then(results => {
-            baseActiveIndices = results.filter(r => r.passed).map(r => r.index);
-            applyPickedFilter();
+        const parsed = priceFilters.length > 0
+            ? Papa.parse(fileObj.text, { header: true, skipEmptyLines: 'greedy' }).data
+            : [];
+        const lastRow = {};
+        for (const [key, value] of Object.entries(parsed[parsed.length - 1] || {})) {
+            if (!key) continue;
+            const trimmedKey = key.trim();
+            const number = parseFloat(value);
+            const finalValue = isNaN(number) ? String(value || '').trim() : number;
+            lastRow[trimmedKey] = finalValue;
+            lastRow[trimmedKey.split(':')[0].trim()] = finalValue;
+        }
 
+        const passingPrice = priceFilters.filter(filterStr => {
+            if (parsed.length === 0) return false;
+            try {
+                let evalStr = filterStr.replace(/\$\.([a-zA-Z0-9_:-]+)/g, 'lastRow["$1"]');
+                evalStr = evalStr.replace(/\$\./g, 'lastRow.');
+                return Boolean(eval(evalStr));
+            } catch (error) {
+                console.warn(`Price Filter failed for ${fileObj.name}: ${filterStr}`, error);
+                return false;
+            }
+        });
+        return { price: passingPrice, meta: passingMeta };
+    }
+
+    function applyFilters(showFeedback = true) {
+        filterModal.classList.add('hidden'); filterModal.classList.remove('flex');
+        const totalFilters = priceFilters.length + metaFilters.length;
+        filterCountBadge.innerText = totalFilters;
+        filterCountBadge.classList.toggle('hidden', totalFilters === 0);
+
+        baseActiveIndices = uploadedFiles.flatMap((fileObj, index) => {
+            const passing = getPassingStockFilters(fileObj);
+            return passing.price.length === priceFilters.length && passing.meta.length === metaFilters.length ? [index] : [];
+        });
+        applyPickedFilter();
+
+        if (showFeedback) {
             const hiddenCount = uploadedFiles.length - baseActiveIndices.length;
-            if (baseActiveIndices.length === 0) {
+            if (totalFilters === 0) {
+                showToast("Filters cleared. All stocks restored.", "success");
+            } else if (baseActiveIndices.length === 0) {
                 showToast(`Hidden ${hiddenCount} stocks. None matched filters.`, "error");
             } else {
                 showToast(`Filtered successfully. Hiding ${hiddenCount} stocks.`, "success");
             }
-        });
-    });
+        }
+    }
+
+    document.getElementById('applyFiltersBtn').addEventListener('click', () => applyFilters());
 
     function applyPickedFilter(preserveIndex = false) {
         let currentName = (currentActiveIdx >= 0 && currentActiveIdx < activeIndices.length) ? uploadedFiles[activeIndices[currentActiveIdx]].name : null;
