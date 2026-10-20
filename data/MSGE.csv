@@ -1,5 +1,5 @@
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-85.98,MSGE,Madison Square Garden Entertainment Corp.,Communication Services,Entertainment,United States,3830777856,80.98,630960,433040,35067579.2,0.274,,,0.47338,-0.04718,0.06239,4.07537,0.0581,293599008,1175364992,2567.364,0.698,0.559,351435008,343931744,40438480,35421213,0.038900003,1.04018,1433413,2.91,0.0458,58.681164,27.876078,3.6112704,83.65703,4.436,21.044,91.625,103.0,80.0,2.2,buy,8,1,1,0,0,2026-11-05,0.555,https://www.msgentertainment.com,2026-10-12T17:51:54.142792+01:00
+82.42,MSGE,Madison Square Garden Entertainment Corp.,Communication Services,Entertainment,United States,3678455040,77.76,532510,435379,33855071.04,0.274,,,0.47338,-0.04718,0.06239,4.07537,0.0581,293599008,1175364992,2567.364,0.698,0.559,351435008,343931744,40438480,35421213,0.038900003,1.04941,1433413,2.91,0.0458,56.347828,26.767643,3.467676,80.33058,4.299,20.393,91.625,103.0,80.0,2.2,buy,8,1,1,0,0,2026-11-05,0.555,https://www.msgentertainment.com,2026-10-18T09:03:11.033427+01:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-17,35.00,35.00,32.00,32.00,,,,,,,0,35.0000,0,6,,,,
 2023-04-18,32.00,32.85,32.00,32.70,,,,,,,0,35.0000,0,235,,,,
@@ -877,4 +877,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-08,82.00,83.20,81.55,81.66,80.62,80.06,79.60,71.73,68.56,82.2006,0,75.9000,1,40928,36458,0.5970,0.4325,0.1645
 2026-10-09,81.66,82.76,80.71,80.84,80.80,80.15,79.64,71.87,68.70,82.2006,0,76.0460,1,20921,36388,0.5828,0.4626,0.1202
 2026-10-12,81.26,81.29,79.75,79.78,80.60,80.11,79.69,72.01,68.83,82.2006,0,76.1891,1,16530,36287,0.4805,0.4662,0.0144
-2026-10-13,80.15,80.99,79.84,80.18,80.45,80.08,79.75,72.16,68.96,82.2006,0,76.3293,1,12971,36036,0.4268,0.4583,-0.0315
+2026-10-13,80.15,81.09,79.84,80.20,80.45,80.08,79.75,72.16,68.96,82.2006,0,76.3293,1,48713,36751,0.4284,0.4586,-0.0302
+2026-10-14,79.36,80.50,78.00,79.11,80.35,80.07,79.77,72.30,69.08,82.2006,0,76.4667,1,40125,36858,0.2958,0.4261,-0.1303
+2026-10-15,79.53,81.00,78.69,79.72,80.32,80.20,79.81,72.46,69.21,82.2006,0,76.6014,1,27448,36906,0.2371,0.3883,-0.1511
+2026-10-16,79.93,80.53,76.90,77.76,80.11,80.13,79.83,72.60,69.33,82.2006,0,76.7334,1,26609,36931,0.0321,0.3170,-0.2849
+2026-10-19,78.16,79.15,77.36,77.54,79.86,79.95,79.85,72.74,69.45,82.2006,0,76.8627,1,18485,36874,-0.1464,0.2244,-0.3708

@@ -1,5 +1,5 @@
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.97,NMAX,,Communication Services,Broadcasting,United States,1326479872,10.27,790640,1046131,10743765.37,0.165,,,0.39639,0.02411,-0.031519998,-0.05824,-0.03836,128299792,11578683,10.23,2.386,2.007,-68273728,-37640884,89921348,30941724,0.2195,0.66374,4503543,3.78,0.5701,513.50006,146.7143,6.525144,11.723745,5.995,-100.225,18.5,20.0,17.0,,none,2,0,0,0,0,2026-11-13,,https://www.newsmax.com,2026-10-12T17:53:52.865287+01:00
+70.55,NMAX,,Communication Services,Broadcasting,United States,1128864000,8.74,678050,1061792,9280062.08,0.165,,,0.39639,0.02411,-0.031519998,-0.05824,-0.03836,128299792,11578683,10.23,2.386,2.007,-68273728,-37640884,89921348,30941724,0.2195,0.66366,4503543,3.78,0.5701,437.0,124.85714,5.5530434,9.977169,4.979,-83.231,15.66667,20.0,10.0,2.0,buy,3,0,0,0,0,2026-11-13,,https://www.newsmax.com,2026-10-18T09:05:02.911029+01:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-31,14.46,83.51,14.00,83.51,,,,,,,0,14.0000,1,559684,,,,
 2025-04-01,125.98,265.00,114.22,233.00,,,,,,,0,14.0000,1,2660371,,,,
@@ -386,4 +386,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-07,9.92,10.00,9.77,10.00,10.38,10.62,10.14,8.25,7.95,11.4894,0,10.9172,0,6614,11965,-0.0863,0.0676,-0.1539
 2026-10-08,9.95,10.40,9.84,10.36,10.32,10.59,10.19,8.27,7.95,11.4894,0,10.7910,0,6511,11978,-0.0755,0.0390,-0.1145
 2026-10-09,10.46,10.53,10.26,10.34,10.26,10.53,10.24,8.28,7.96,11.4894,0,10.6749,0,4990,11990,-0.0678,0.0176,-0.0854
-2026-10-12,10.34,10.43,10.25,10.36,10.21,10.48,10.30,8.30,7.97,11.4894,0,10.5681,0,5559,11997,-0.0593,0.0022,-0.0616
+2026-10-12,10.34,10.43,10.25,10.36,10.21,10.48,10.30,8.30,7.97,11.4894,0,10.5681,0,5996,12006,-0.0593,0.0022,-0.0616
+2026-10-13,10.27,10.58,9.99,10.05,10.13,10.44,10.34,8.33,7.98,11.4894,0,9.3400,1,6272,12011,-0.0768,-0.0136,-0.0632
+2026-10-14,9.96,9.96,9.18,9.27,9.98,10.39,10.36,8.34,7.98,11.1518,0,10.5800,0,6526,12002,-0.1518,-0.0412,-0.1106
+2026-10-15,9.11,9.37,8.89,9.31,9.92,10.34,10.38,8.36,7.98,10.6976,0,10.5800,0,8020,12056,-0.2057,-0.0741,-0.1316
+2026-10-16,9.29,9.38,8.68,8.74,9.84,10.26,10.38,8.37,7.99,10.6509,0,10.5124,0,6156,12091,-0.2910,-0.1175,-0.1735
