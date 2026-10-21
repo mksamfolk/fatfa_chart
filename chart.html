@@ -161,6 +161,10 @@
                 <span id="pickedCountBadge" class="bg-amber-100 text-amber-800 text-xs font-semibold px-1.5 py-0.5 rounded hidden">0</span>
             </button>
 
+            <button id="openSortBtn" class="text-blue-500 hover:text-blue-700 underline font-medium flex items-center gap-1 hidden">
+                Sort <span id="sortCountBadge" class="bg-blue-100 text-blue-800 text-xs font-semibold px-1.5 py-0.5 rounded hidden">0</span>
+            </button>
+
             <!-- Filters Button -->
             <button id="openFilterBtn" class="text-blue-500 hover:text-blue-700 underline font-medium flex items-center gap-1 hidden">
                 Filters
@@ -272,6 +276,34 @@
     </div>
 </div>
 
+<!-- Ordered sorting rules; changes are staged until Apply. -->
+<div id="sortModal" role="dialog" aria-modal="true" aria-labelledby="sortTitle" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-2xl flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 id="sortTitle" class="text-lg font-bold text-gray-800">Sort stocks</h3>
+            <button id="closeSortBtn" aria-label="Close sorting" class="text-gray-600 px-2 py-1">✕</button>
+        </div>
+        <div class="p-4 overflow-y-auto flex flex-col gap-3">
+            <p class="text-sm text-gray-600">Rules run from top to bottom. Later rules break ties. Sorting applies after filters, including picked stocks.</p>
+            <p class="text-xs text-gray-500">Price formulas use the last data row. Field names are case-insensitive. Missing values and invalid results sort last; complete ties keep the original list order.</p>
+            <div class="flex flex-wrap gap-2">
+                <button id="addPriceSortBtn" class="border border-blue-200 bg-blue-50 text-blue-700 rounded px-3 py-2 text-sm">+ Price data rule</button>
+                <button id="addMetaSortBtn" class="border border-green-200 bg-green-50 text-green-700 rounded px-3 py-2 text-sm">+ Ticker detail rule</button>
+                <button id="dailyReturnSortBtn" class="text-blue-700 underline text-sm px-2">Add daily return ↓</button>
+            </div>
+            <div id="sortRulesContainer" class="flex flex-col gap-3"></div>
+            <p id="sortError" role="alert" class="text-sm text-red-600 hidden"></p>
+        </div>
+        <div class="p-4 border-t flex flex-wrap justify-between gap-2">
+            <button id="clearSortBtn" class="text-red-600 px-3 py-2 text-sm">Clear rules</button>
+            <div class="flex gap-2">
+                <button id="cancelSortBtn" class="border rounded px-3 py-2 text-sm">Cancel</button>
+                <button id="applySortBtn" class="bg-blue-600 hover:bg-blue-700 text-white rounded px-4 py-2 text-sm font-medium">Apply sorting</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Picked Modal -->
 <div id="pickedModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
     <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
@@ -319,6 +351,9 @@
     let metaFilters = [];
     let globalAvailableHeaders = new Set(); // Stores known CSV headers for typo-checking
     let activeFilterTab = 'price'; // 'price' or 'meta'
+
+    let sortRules = [];
+    let draftSortRules = [];
 
     // Hidden series tracking (Persists across navigation)
     let hiddenSeriesNames = new Set(['Ma10', 'MA10', 'Ma20', 'MA20', 'Supertrend', 'ParabolicSAR']);
@@ -559,7 +594,7 @@
             searchInput.value = '';
             searchInput.blur();
             searchResults.classList.add('hidden');
-            showToast(`Loaded ${file.name} at the top of the list.`, 'success');
+            showToast(`Loaded ${file.name}${sortRules.length ? " into the sorted list" : " at the top of the list"}.`, 'success');
         } catch (error) {
             showToast(error.message || `Could not fetch data for ${stockName}.`);
         } finally {
@@ -912,6 +947,169 @@
         reader.readAsText(file); e.target.value = '';
     });
 
+    // Compile once per rule, evaluate once per stock, then compare cached keys.
+    function compileSortFormula(formula) {
+        if (!formula.trim()) throw new Error('Enter a formula.');
+        const expression = formula.replace(/\$\.([a-zA-Z0-9_:-]+)/g, (_, field) => `field(${JSON.stringify(field.toLowerCase())})`);
+        return new Function('field', `"use strict"; return (${expression});`);
+    }
+
+    function sortFieldValues(file, source) {
+        const values = Object.create(null);
+        const rows = source === 'price' ? Papa.parse(file.text, { header: true, skipEmptyLines: 'greedy' }).data : [];
+        const raw = source === 'price' ? rows[rows.length - 1] : file.metadata;
+        for (const [key, value] of Object.entries(raw || {})) {
+            const name = key.trim().toLowerCase();
+            const cleaned = typeof value === 'string' ? value.trim() : value;
+            const number = Number(cleaned);
+            const parsed = cleaned === '' || cleaned == null ? null : Number.isFinite(number) ? number : cleaned;
+            values[name] = parsed;
+            if (source === 'price') values[name.split(':')[0].trim()] = parsed;
+        }
+        return values;
+    }
+
+    function sortStockIndices(indices) {
+        if (!sortRules.length) return [...indices];
+        const compiled = sortRules.map(rule => ({ ...rule, evaluate: compileSortFormula(rule.formula) }));
+        const ranked = indices.map(index => {
+            const sources = {};
+            const keys = compiled.map(rule => {
+                try {
+                    const values = sources[rule.source] ||= sortFieldValues(uploadedFiles[index], rule.source);
+                    const result = rule.evaluate(field => {
+                        if (values[field] == null) throw new Error('Missing field');
+                        return values[field];
+                    });
+                    return (typeof result === 'number' && Number.isFinite(result)) ||
+                        (typeof result === 'string' && result.trim() !== '') ? result : null;
+                } catch { return null; }
+            });
+            return { index, keys };
+        });
+        ranked.sort((a, b) => {
+            for (let i = 0; i < compiled.length; i++) {
+                const x = a.keys[i], y = b.keys[i];
+                if (x === null && y === null) continue;
+                if (x === null) return 1;
+                if (y === null) return -1;
+                const comparison = typeof x === 'number' && typeof y === 'number'
+                    ? x - y : String(x).localeCompare(String(y), 'en', { numeric: true });
+                if (comparison) return compiled[i].direction === 'asc' ? comparison : -comparison;
+            }
+            return a.index - b.index;
+        });
+        return ranked.map(item => item.index);
+    }
+
+    const sortModal = document.getElementById('sortModal');
+    function closeSortModal() {
+        sortModal.classList.add('hidden');
+        sortModal.classList.remove('flex');
+        document.getElementById('openSortBtn').focus();
+    }
+
+    function renderSortRules(focusIndex = -1) {
+        const container = document.getElementById('sortRulesContainer');
+        container.replaceChildren();
+        document.getElementById('sortError').classList.add('hidden');
+        if (!draftSortRules.length) {
+            const empty = document.createElement('p');
+            empty.className = 'text-sm text-gray-500 border rounded p-4';
+            empty.textContent = 'No sorting rules. Stocks follow the original list order.';
+            container.appendChild(empty);
+        }
+        draftSortRules.forEach((rule, index) => {
+            const row = document.createElement('div');
+            row.className = 'border border-gray-200 bg-gray-50 rounded p-3 flex flex-col gap-2';
+            row.innerHTML = `<div class="flex flex-wrap items-center gap-2">
+                <strong class="text-sm">${index === 0 ? '1. Sort by' : `${index + 1}. Then by`}</strong>
+                <select aria-label="Data source for rule ${index + 1}" class="border rounded p-1 text-sm"><option value="price">Price data</option><option value="meta">Ticker details</option></select>
+                <select aria-label="Direction for rule ${index + 1}" class="border rounded p-1 text-sm"><option value="desc">Descending · High → Low / Z → A</option><option value="asc">Ascending · Low → High / A → Z</option></select>
+                <button data-action="up" aria-label="Move rule ${index + 1} up" class="border rounded px-2 disabled:opacity-30">↑</button>
+                <button data-action="down" aria-label="Move rule ${index + 1} down" class="border rounded px-2 disabled:opacity-30">↓</button>
+                <button data-action="remove" aria-label="Remove rule ${index + 1}" class="text-red-600 text-sm px-1">Remove</button>
+            </div>
+            <input aria-label="Formula for rule ${index + 1}" class="w-full border rounded p-2 text-sm font-mono" spellcheck="false">
+            <div class="flex flex-wrap gap-1 max-h-20 overflow-y-auto" aria-label="Available fields"></div>`;
+            const [source, direction] = row.querySelectorAll('select');
+            source.value = rule.source;
+            direction.value = rule.direction;
+            source.onchange = () => { rule.source = source.value; renderSortRules(index); };
+            direction.onchange = () => { rule.direction = direction.value; };
+            const input = row.querySelector('input');
+            input.value = rule.formula;
+            input.placeholder = rule.source === 'price' ? '($.close - $.open) / $.open' : '$.marketCap';
+            input.oninput = () => { rule.formula = input.value; document.getElementById('sortError').classList.add('hidden'); };
+            const tags = row.lastElementChild;
+            const fields = rule.source === 'price' ? [...globalAvailableHeaders] : [...new Set([...Object.keys(metadataLabelMap), ...uploadedFiles.flatMap(file => Object.keys(file.metadata || {}))])];
+            fields.sort().forEach(field => {
+                const tag = document.createElement('button');
+                tag.className = 'text-xs text-blue-700 bg-white border rounded px-1.5 py-0.5';
+                tag.textContent = field;
+                tag.onclick = () => insertAtCursor(input, `$.${field}`);
+                tags.appendChild(tag);
+            });
+            for (const action of ['up', 'down', 'remove']) {
+                const button = row.querySelector(`[data-action="${action}"]`);
+                button.disabled = action === 'up' ? index === 0 : action === 'down' ? index === draftSortRules.length - 1 : false;
+                button.onclick = () => {
+                    const next = action === 'up' ? index - 1 : index + 1;
+                    if (action === 'remove') draftSortRules.splice(index, 1);
+                    else [draftSortRules[index], draftSortRules[next]] = [draftSortRules[next], draftSortRules[index]];
+                    renderSortRules(action === 'remove' ? Math.min(index, draftSortRules.length - 1) : next);
+                };
+            }
+            container.appendChild(row);
+            if (index === focusIndex) input.focus();
+        });
+    }
+
+    document.getElementById('openSortBtn').onclick = () => {
+        draftSortRules = sortRules.map(rule => ({ ...rule }));
+        renderSortRules();
+        sortModal.classList.remove('hidden');
+        sortModal.classList.add('flex');
+        document.getElementById('addPriceSortBtn').focus();
+    };
+    for (const id of ['closeSortBtn', 'cancelSortBtn']) document.getElementById(id).onclick = closeSortModal;
+    sortModal.addEventListener('keydown', event => {
+        if (event.key === 'Escape') closeSortModal();
+        if (event.key === 'Tab') {
+            const focusable = [...sortModal.querySelectorAll('button:not(:disabled), input, select')];
+            const first = focusable[0], last = focusable[focusable.length - 1];
+            if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+            else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+        }
+    });
+    function addSortRule(source, formula = '') {
+        draftSortRules.push({ source, formula, direction: 'desc' });
+        renderSortRules(draftSortRules.length - 1);
+    }
+    document.getElementById('addPriceSortBtn').onclick = () => addSortRule('price');
+    document.getElementById('addMetaSortBtn').onclick = () => addSortRule('meta');
+    document.getElementById('dailyReturnSortBtn').onclick = () => addSortRule('price', '($.close - $.open) / $.open');
+    document.getElementById('clearSortBtn').onclick = () => { draftSortRules = []; renderSortRules(); };
+    document.getElementById('applySortBtn').onclick = () => {
+        for (let i = 0; i < draftSortRules.length; i++) {
+            try { compileSortFormula(draftSortRules[i].formula); }
+            catch (error) {
+                const message = document.getElementById('sortError');
+                message.textContent = `Rule ${i + 1}: ${error.message}`;
+                message.classList.remove('hidden');
+                document.querySelectorAll('#sortRulesContainer input')[i].focus();
+                return;
+            }
+        }
+        sortRules = draftSortRules.map(rule => ({ ...rule }));
+        const badge = document.getElementById('sortCountBadge');
+        badge.textContent = sortRules.length;
+        badge.classList.toggle('hidden', !sortRules.length);
+        applyFilters(false);
+        closeSortModal();
+        showToast(sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
+    };
+
     function getPassingStockFilters(fileObj) {
         const parsedMeta = {};
         for (const [key, value] of Object.entries(fileObj.metadata || {})) {
@@ -967,6 +1165,7 @@
             const passing = getPassingStockFilters(fileObj);
             return passing.price.length === priceFilters.length && passing.meta.length === metaFilters.length ? [index] : [];
         });
+        baseActiveIndices = sortStockIndices(baseActiveIndices);
         applyPickedFilter();
 
         if (showFeedback) {
@@ -1019,6 +1218,7 @@
     function updateFileNavUI() {
         const nav = document.getElementById('fileNavControls');
         const search = document.getElementById('searchContainer');
+        document.getElementById('openSortBtn').classList.toggle('hidden', uploadedFiles.length === 0);
         const filtersBtn = document.getElementById('openFilterBtn');
         const copyFilteredBtn = document.getElementById('copyFilteredBtn');
 
@@ -1491,7 +1691,7 @@
             }
 
             if (uploadedFiles.length > 0) {
-                if (priceFilters.length > 0 || metaFilters.length > 0) {
+                if (priceFilters.length > 0 || metaFilters.length > 0 || sortRules.length > 0) {
                     document.getElementById('applyFiltersBtn').click();
                 } else {
                     baseActiveIndices = uploadedFiles.map((_, i) => i);
