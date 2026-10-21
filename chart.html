@@ -1105,6 +1105,8 @@
         const badge = document.getElementById('sortCountBadge');
         badge.textContent = sortRules.length;
         badge.classList.toggle('hidden', !sortRules.length);
+        // Start at the first visible stock after applying the new sort order.
+        currentActiveIdx = -1;
         applyFilters(false);
         closeSortModal();
         showToast(sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
