@@ -188,16 +188,21 @@
 
 <!-- Ticker Details Modal -->
 <div id="detailsModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
-    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-lg flex flex-col max-h-[90vh]">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-6xl flex flex-col max-h-[90vh]">
         <div class="flex justify-between items-center p-4 border-b">
             <h3 class="text-lg font-bold text-gray-800" id="detailsModalTitle">Ticker Details</h3>
             <button id="closeDetailsModalBtn" class="text-gray-500 hover:text-gray-800">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
             </button>
         </div>
-        <div class="p-4 overflow-y-auto flex-grow text-sm text-gray-700">
-            <div id="detailsContent" class="grid grid-cols-2 gap-4">
-                <!-- Key-value pairs injected here -->
+        <div class="flex min-h-0 flex-grow overflow-hidden">
+            <nav id="detailsMenu" aria-label="Stock data" class="w-40 sm:w-56 shrink-0 p-2 border-r overflow-y-auto space-y-1"></nav>
+            <div class="p-4 overflow-auto flex-grow min-w-0 text-sm text-gray-700">
+                <a id="tickerDetailsLink" href="#" class="hidden text-blue-600 underline block mb-4">Back to ticker details</a>
+                <pre id="datasetContent" class="hidden font-mono text-xs whitespace-pre"></pre>
+                <div id="detailsContent" class="grid grid-cols-2 gap-4">
+                    <!-- Key-value pairs injected here -->
+                </div>
             </div>
         </div>
     </div>
@@ -428,10 +433,25 @@
         "epsRevisionDownLast7Days", "epsRevisionDownLast30Days"
     ]);
 
+    const tickerDataSources = [
+        'balance_sheet', 'dividends', 'income_stmt', 'insider_roster_holders',
+        'institutional_holders', 'mutualfund_holders', 'recommendations',
+        'upgrades_downgrades', 'cashflow', 'earnings_dates', 'insider_transactions',
+        'major_holders', 'news', 'splits'
+    ];
+
     // Split raw CSV text: Extract first two lines as metadata if they do not contain typical chart headers
     function extractMetadataAndCsv(fullText) {
-        const lines = fullText.split(/\r?\n/);
-        if (lines.length < 3) return { metadata: {}, remainingCsv: fullText };
+        const lines = fullText.split(/\r\n|\n|\r/);
+        const datasets = {};
+        let offset = 0;
+        while (offset + 1 < lines.length && tickerDataSources.includes(lines[offset].trim())) {
+            datasets[lines[offset].trim()] = lines[offset + 1].replace(/\\n/g, '\n');
+            offset += 2;
+        }
+        lines.splice(0, offset);
+        fullText = lines.join('\n');
+        if (lines.length < 3) return { metadata: {}, remainingCsv: fullText, datasets };
 
         const firstLine = lines[0].trim();
         const firstCell = firstLine.split(',')[0].trim().toLowerCase().replace(/^["']|["']$/g, '');
@@ -449,10 +469,10 @@
                 }
             }
             const remainingCsv = lines.slice(2).join('\n');
-            return { metadata, remainingCsv };
+            return { metadata, remainingCsv, datasets };
         }
 
-        return { metadata: {}, remainingCsv: fullText };
+        return { metadata: {}, remainingCsv: fullText, datasets };
     }
 
     const chartTheme = {
@@ -569,9 +589,9 @@
             const response = await fetch(`local/${encodeURIComponent(stockName)}.csv?_t=${Date.now()}`, { cache: 'no-store' });
             if (!response.ok) throw new Error(`Could not fetch data for ${stockName} (HTTP ${response.status}).`);
 
-            const { metadata, remainingCsv } = extractMetadataAndCsv(await response.text());
+            const { metadata, remainingCsv, datasets } = extractMetadataAndCsv(await response.text());
             const existingIndex = uploadedFiles.findIndex(file => file.name.toUpperCase() === stockName);
-            const file = { name: existingIndex === -1 ? stockName : uploadedFiles[existingIndex].name, text: remainingCsv, metadata };
+            const file = { name: existingIndex === -1 ? stockName : uploadedFiles[existingIndex].name, text: remainingCsv, metadata, datasets };
             if (existingIndex !== -1) uploadedFiles.splice(existingIndex, 1);
             uploadedFiles.unshift(file);
 
@@ -701,6 +721,41 @@
 
         detailsModalTitle.innerText = `${fileObj.name} Details`;
         detailsContent.innerHTML = '';
+        const menu = document.getElementById('detailsMenu');
+        const datasetContent = document.getElementById('datasetContent');
+        const backLink = document.getElementById('tickerDetailsLink');
+        menu.replaceChildren();
+
+        function selectDetails(source = null) {
+            detailsContent.classList.toggle('hidden', source !== null);
+            datasetContent.classList.toggle('hidden', source === null);
+            backLink.classList.toggle('hidden', source === null);
+            detailsModalTitle.textContent = source ? `${fileObj.name} — ${source}` : `${fileObj.name} Details`;
+            datasetContent.textContent = source === null ? '' :
+                (fileObj.datasets?.[source] ?? 'No data available for this stock.');
+            for (const button of menu.children) {
+                const selected = button.dataset.source === (source || '');
+                button.classList.toggle('bg-blue-50', selected);
+                button.classList.toggle('text-blue-700', selected);
+                button.setAttribute('aria-pressed', String(selected));
+            }
+        }
+
+        for (const source of [null, ...tickerDataSources]) {
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.dataset.source = source || '';
+            button.className = 'block w-full text-left text-xs p-2 rounded hover:bg-gray-100 break-words';
+            button.textContent = source ? source.replace(/_/g, ' ') : 'Ticker details';
+            button.addEventListener('click', () => selectDetails(source));
+            menu.appendChild(button);
+        }
+        backLink.onclick = event => {
+            event.preventDefault();
+            selectDetails();
+        };
+        selectDetails();
+
 
         if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
             const metadataKeys = [
@@ -1292,7 +1347,7 @@
                         marketCapTextEl.classList.add('hidden');
                     }
                 } else {
-                    showDetailsBtn.classList.add('hidden');
+                    showDetailsBtn.classList.toggle('hidden', !Object.keys(fileObj.datasets || {}).length);
                     industryTextEl.classList.add('hidden');
                     sectorTextEl.classList.add('hidden');
                     marketCapTextEl.classList.add('hidden');
@@ -1687,8 +1742,8 @@
                     if (!csvResponse.ok) continue;
 
                     const csvText = await csvResponse.text();
-                    const { metadata, remainingCsv } = extractMetadataAndCsv(csvText);
-                    uploadedFiles.push({ name: stockName, text: remainingCsv, metadata });
+                    const { metadata, remainingCsv, datasets } = extractMetadataAndCsv(csvText);
+                    uploadedFiles.push({ name: stockName, text: remainingCsv, metadata, datasets });
                 } catch (err) { console.warn(`Failed to fetch CSV for ${stockName}:`, err); }
             }
 
