@@ -200,6 +200,8 @@
             <div class="p-4 overflow-auto flex-grow min-w-0 text-sm text-gray-700">
                 <a id="tickerDetailsLink" href="#" class="hidden text-blue-600 underline block mb-4">Back to ticker details</a>
                 <pre id="datasetContent" class="hidden font-mono text-xs whitespace-pre"></pre>
+                <div id="newsContent" class="hidden space-y-3" aria-live="polite"></div>
+                <div id="datasetTableContent" class="hidden overflow-x-auto" aria-live="polite"></div>
                 <div id="detailsContent" class="grid grid-cols-2 gap-4">
                     <!-- Key-value pairs injected here -->
                 </div>
@@ -709,6 +711,168 @@
         return num.toLocaleString('en-US');
     }
 
+    function renderNews(container, rawNews) {
+        container.replaceChildren();
+        let articles;
+        try {
+            articles = typeof rawNews === 'string' && rawNews.trim() ? JSON.parse(rawNews) : rawNews;
+            if (articles != null && !Array.isArray(articles)) throw new Error('Expected a news array');
+        } catch {
+            container.textContent = 'Unable to display news: invalid news data.';
+            return;
+        }
+        articles = (articles || []).filter(article => article && typeof article.title === 'string' && article.title.trim());
+        if (!articles.length) {
+            container.textContent = 'No news available for this stock.';
+            return;
+        }
+
+        function webUrl(value) {
+            try {
+                const url = new URL(value);
+                return ['http:', 'https:'].includes(url.protocol) ? url.href : null;
+            } catch {
+                return null;
+            }
+        }
+
+        articles.sort((a, b) => (Number(b.providerPublishTime) || 0) - (Number(a.providerPublishTime) || 0));
+        for (const article of articles) {
+            const card = document.createElement('article');
+            card.className = 'flex flex-col sm:flex-row gap-3 p-3 rounded-lg border border-gray-200 bg-gray-50';
+            const resolutions = Array.isArray(article.thumbnail?.resolutions) ? article.thumbnail.resolutions : [];
+            const thumbnail = resolutions.find(item => item?.tag === '140x140' && webUrl(item.url)) ||
+                resolutions.find(item => item && webUrl(item.url));
+            if (thumbnail) {
+                const image = document.createElement('img');
+                image.src = webUrl(thumbnail.url);
+                image.alt = '';
+                image.loading = 'lazy';
+                image.className = 'w-20 h-20 sm:w-24 sm:h-24 object-cover rounded shrink-0';
+                image.addEventListener('error', () => image.remove());
+                card.appendChild(image);
+            }
+            const body = document.createElement('div');
+            body.className = 'min-w-0 flex-1';
+            const metadata = document.createElement('div');
+            metadata.className = 'text-xs text-gray-500 mb-1 flex flex-wrap gap-x-2 gap-y-1';
+            const publisher = document.createElement('span');
+            publisher.textContent = article.publisher || 'Unknown publisher';
+            metadata.appendChild(publisher);
+            const published = new Date(Number(article.providerPublishTime) * 1000);
+            if (article.providerPublishTime && Number.isFinite(published.getTime())) {
+                const time = document.createElement('time');
+                time.dateTime = published.toISOString();
+                time.textContent = published.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+                metadata.appendChild(time);
+            }
+            body.appendChild(metadata);
+            const heading = document.createElement('h4');
+            heading.className = 'font-semibold text-gray-900 break-words';
+            const link = webUrl(article.link);
+            if (link) {
+                const anchor = document.createElement('a');
+                anchor.href = link;
+                anchor.target = '_blank';
+                anchor.rel = 'noopener noreferrer';
+                anchor.className = 'hover:text-blue-700 hover:underline focus:underline';
+                anchor.textContent = article.title;
+                heading.appendChild(anchor);
+            } else {
+                heading.textContent = article.title;
+            }
+            body.appendChild(heading);
+            if (Array.isArray(article.relatedTickers)) {
+                const tickers = document.createElement('div');
+                tickers.className = 'flex flex-wrap gap-1 mt-2';
+                for (const ticker of article.relatedTickers.filter(value => typeof value === 'string' && value.trim())) {
+                    const badge = document.createElement('span');
+                    badge.className = 'text-xs text-blue-700 bg-blue-50 rounded px-2 py-1 break-all';
+                    badge.textContent = ticker;
+                    tickers.appendChild(badge);
+                }
+                body.appendChild(tickers);
+            }
+            card.appendChild(body);
+            container.appendChild(card);
+        }
+    }
+
+    const tableDataSources = {
+        insider_transactions: 'Insider transactions',
+        insider_roster_holders: 'Insider roster holders',
+        institutional_holders: 'Institutional holders',
+        mutualfund_holders: 'Mutual fund holders',
+        major_holders: 'Major holders',
+        cashflow: 'Cash flow',
+        upgrades_downgrades: 'Upgrades and downgrades',
+        recommendations: 'Recommendations',
+        income_stmt: 'Income statement',
+        balance_sheet: 'Balance sheet',
+        dividends: 'Dividends',
+        earnings_dates: 'Earnings dates',
+        splits: 'Splits'
+    };
+
+    function renderDatasetTable(container, rawData, label) {
+        container.replaceChildren();
+        if (typeof rawData !== 'string' || !rawData.trim()) {
+            container.textContent = `No ${label.toLowerCase()} available for this stock.`;
+            return;
+        }
+        const parsed = Papa.parse(rawData, { skipEmptyLines: 'greedy' });
+        if (parsed.errors.length) {
+            container.textContent = `Unable to display ${label.toLowerCase()}: invalid data.`;
+            return;
+        }
+        const [headers, ...rows] = parsed.data;
+        if (!headers || !rows.length) {
+            container.textContent = `No ${label.toLowerCase()} available for this stock.`;
+            return;
+        }
+        const table = document.createElement('table');
+        table.className = 'min-w-full text-xs text-left border-collapse';
+        const caption = document.createElement('caption');
+        caption.className = 'text-left text-sm font-semibold text-gray-800 mb-3';
+        caption.textContent = `${label} (${rows.length})`;
+        table.appendChild(caption);
+        const head = document.createElement('thead');
+        const headerRow = document.createElement('tr');
+        const firstColumnLabel = rows.every(row => /^\d+$/.test(row[0])) ? '#' : 'Metric';
+        headers.forEach((header, index) => {
+            const cell = document.createElement('th');
+            cell.scope = 'col';
+            cell.className = 'border border-gray-200 bg-gray-100 px-3 py-2 font-semibold whitespace-nowrap';
+            cell.textContent = header.trim() || (index === 0 ? firstColumnLabel : `Column ${index + 1}`);
+            headerRow.appendChild(cell);
+        });
+        head.appendChild(headerRow);
+        table.appendChild(head);
+        const body = document.createElement('tbody');
+        rows.forEach((row, index) => {
+            const tr = document.createElement('tr');
+            tr.className = index % 2 ? 'bg-gray-50 hover:bg-blue-50' : 'bg-white hover:bg-blue-50';
+            headers.forEach((header, column) => {
+                const cell = document.createElement('td');
+                cell.className = 'border border-gray-200 px-3 py-2 align-top';
+                if (header === 'Text') cell.classList.add('min-w-[16rem]');
+                else cell.classList.add('whitespace-nowrap');
+                const value = row[column] ?? '';
+                cell.textContent = value === '' ? '—' : value;
+                if (['Shares', 'Value', 'Shares Owned Directly', 'Shares Owned Indirectly'].includes(header)) {
+                    cell.classList.add('text-right', 'tabular-nums');
+                    if (value.trim() && Number.isFinite(Number(value))) {
+                        cell.textContent = Number(value).toLocaleString('en-US', { maximumFractionDigits: 20 });
+                    }
+                }
+                tr.appendChild(cell);
+            });
+            body.appendChild(tr);
+        });
+        table.appendChild(body);
+        container.appendChild(table);
+    }
+
     // Details Modal Logic
     const detailsModal = document.getElementById('detailsModal');
     const showDetailsBtn = document.getElementById('showDetailsBtn');
@@ -723,16 +887,24 @@
         detailsContent.innerHTML = '';
         const menu = document.getElementById('detailsMenu');
         const datasetContent = document.getElementById('datasetContent');
+        const newsContent = document.getElementById('newsContent');
+        const datasetTableContent = document.getElementById('datasetTableContent');
         const backLink = document.getElementById('tickerDetailsLink');
         menu.replaceChildren();
 
         function selectDetails(source = null) {
             detailsContent.classList.toggle('hidden', source !== null);
-            datasetContent.classList.toggle('hidden', source === null);
+            const isTableSource = Object.prototype.hasOwnProperty.call(tableDataSources, source);
+            const isRenderedSource = source === 'news' || isTableSource;
+            datasetContent.classList.toggle('hidden', source === null || isRenderedSource);
+            newsContent.classList.toggle('hidden', source !== 'news');
+            datasetTableContent.classList.toggle('hidden', !isTableSource);
             backLink.classList.toggle('hidden', source === null);
             detailsModalTitle.textContent = source ? `${fileObj.name} — ${source}` : `${fileObj.name} Details`;
-            datasetContent.textContent = source === null ? '' :
+            datasetContent.textContent = source === null || isRenderedSource ? '' :
                 (fileObj.datasets?.[source] ?? 'No data available for this stock.');
+            if (source === 'news') renderNews(newsContent, fileObj.datasets?.news);
+            if (isTableSource) renderDatasetTable(datasetTableContent, fileObj.datasets?.[source], tableDataSources[source]);
             for (const button of menu.children) {
                 const selected = button.dataset.source === (source || '');
                 button.classList.toggle('bg-blue-50', selected);
@@ -746,7 +918,7 @@
             button.type = 'button';
             button.dataset.source = source || '';
             button.className = 'block w-full text-left text-xs p-2 rounded hover:bg-gray-100 break-words';
-            button.textContent = source ? source.replace(/_/g, ' ') : 'Ticker details';
+            button.textContent = source === 'news' ? 'News' : source ? source.replace(/_/g, ' ') : 'Ticker details';
             button.addEventListener('click', () => selectDetails(source));
             menu.appendChild(button);
         }
