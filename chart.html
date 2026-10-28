@@ -290,7 +290,7 @@
             <h3 id="sortTitle" class="text-lg font-bold text-gray-800">Sort stocks</h3>
             <button id="closeSortBtn" aria-label="Close sorting" class="text-gray-600 px-2 py-1">✕</button>
         </div>
-        <div class="p-4 overflow-y-auto flex flex-col gap-3">
+        <div id="customSortPane" class="p-4 overflow-y-auto flex flex-col gap-3">
             <p class="text-sm text-gray-600">Rules run from top to bottom. Later rules break ties. Sorting applies after filters, including picked stocks.</p>
             <p class="text-xs text-gray-500">Price formulas use the last data row. Field names are case-insensitive. Missing values and invalid results sort last; complete ties keep the original list order.</p>
             <div class="flex flex-wrap gap-2">
@@ -301,12 +301,18 @@
             <div id="sortRulesContainer" class="flex flex-col gap-3"></div>
             <p id="sortError" role="alert" class="text-sm text-red-600 hidden"></p>
         </div>
-        <div class="p-4 border-t flex flex-wrap justify-between gap-2">
+        <div id="customSortFooter" class="p-4 border-t flex flex-wrap justify-between gap-2">
             <button id="clearSortBtn" class="text-red-600 px-3 py-2 text-sm">Clear rules</button>
-            <div class="flex gap-2">
+            <div class="flex flex-wrap gap-2">
                 <button id="cancelSortBtn" class="border rounded px-3 py-2 text-sm">Cancel</button>
                 <button id="applySortBtn" class="bg-blue-600 hover:bg-blue-700 text-white rounded px-4 py-2 text-sm font-medium">Apply sorting</button>
+                <button id="predefinedSortingsBtn" class="border border-blue-200 text-blue-700 rounded px-4 py-2 text-sm font-medium">Predefined Sortings</button>
             </div>
+        </div>
+        <div id="predefinedSortPane" class="hidden p-4 overflow-y-auto">
+            <button id="companyBuyBackSortBtn" class="w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Company Buy Back</button>
+            <p class="mt-3 text-sm text-gray-600">Largest buyback percentage first: absolute repurchases in the first cashflow period divided by (shares outstanding × current price). Missing or invalid figures sort last.</p>
+            <button id="backToSortingBtn" class="mt-4 border rounded px-3 py-2 text-sm">← Back to sorting</button>
         </div>
     </div>
 </div>
@@ -1196,13 +1202,36 @@
         return values;
     }
 
+    function companyBuyBackRatio(file) {
+        const numeric = value => {
+            if (value == null || (typeof value !== 'string' && typeof value !== 'number') || String(value).trim() === '') return null;
+            const number = Number(value);
+            return Number.isFinite(number) ? number : null;
+        };
+        const shares = numeric(file.metadata?.sharesOutstanding);
+        const price = numeric(file.metadata?.currentPrice);
+        if (!(shares > 0) || !(price > 0)) return null;
+        const cashflow = file.datasets?.cashflow;
+        if (typeof cashflow !== 'string' || !cashflow.trim()) return null;
+        const parsed = Papa.parse(cashflow, { skipEmptyLines: 'greedy' });
+        if (parsed.errors.length) return null;
+        const row = parsed.data.slice(1).find(row => row[0]?.trim() === 'Repurchase Of Capital Stock');
+        // Use the immediate next cell, even when it is missing; never use an older period.
+        const repurchases = numeric(row?.[1]);
+        const marketValue = shares * price;
+        if (repurchases === null || !Number.isFinite(marketValue) || marketValue <= 0) return null;
+        const ratio = Math.abs(repurchases) / marketValue;
+        return Number.isFinite(ratio) ? ratio : null;
+    }
+
     function sortStockIndices(indices) {
         if (!sortRules.length) return [...indices];
-        const compiled = sortRules.map(rule => ({ ...rule, evaluate: compileSortFormula(rule.formula) }));
+        const compiled = sortRules.map(rule => ({ ...rule, evaluate: rule.predefined ? null : compileSortFormula(rule.formula) }));
         const ranked = indices.map(index => {
             const sources = {};
             const keys = compiled.map(rule => {
                 try {
+                    if (rule.predefined === 'companyBuyBack') return companyBuyBackRatio(uploadedFiles[index]);
                     const values = sources[rule.source] ||= sortFieldValues(uploadedFiles[index], rule.source);
                     const result = rule.evaluate(field => {
                         if (values[field] == null) throw new Error('Missing field');
@@ -1230,6 +1259,13 @@
     }
 
     const sortModal = document.getElementById('sortModal');
+    function showSortPane(predefined) {
+        document.getElementById('customSortPane').classList.toggle('hidden', predefined);
+        document.getElementById('customSortFooter').classList.toggle('hidden', predefined);
+        document.getElementById('predefinedSortPane').classList.toggle('hidden', !predefined);
+        document.getElementById('sortTitle').textContent = predefined ? 'Predefined Sortings' : 'Sort stocks';
+    }
+
     function closeSortModal() {
         sortModal.classList.add('hidden');
         sortModal.classList.remove('flex');
@@ -1249,6 +1285,17 @@
         draftSortRules.forEach((rule, index) => {
             const row = document.createElement('div');
             row.className = 'border border-gray-200 bg-gray-50 rounded p-3 flex flex-col gap-2';
+            if (rule.predefined === 'companyBuyBack') {
+                const label = document.createElement('strong');
+                label.textContent = `${index + 1}. Company Buy Back · Largest percentage first`;
+                const remove = document.createElement('button');
+                remove.className = 'text-red-600 text-sm self-start';
+                remove.textContent = 'Remove';
+                remove.onclick = () => { draftSortRules.splice(index, 1); renderSortRules(); };
+                row.append(label, remove);
+                container.appendChild(row);
+                return;
+            }
             row.innerHTML = `<div class="flex flex-wrap items-center gap-2">
                 <strong class="text-sm">${index === 0 ? '1. Sort by' : `${index + 1}. Then by`}</strong>
                 <select aria-label="Data source for rule ${index + 1}" class="border rounded p-1 text-sm"><option value="price">Price data</option><option value="meta">Ticker details</option></select>
@@ -1295,6 +1342,7 @@
     document.getElementById('openSortBtn').onclick = () => {
         draftSortRules = sortRules.map(rule => ({ ...rule }));
         renderSortRules();
+        showSortPane(false);
         sortModal.classList.remove('hidden');
         sortModal.classList.add('flex');
         document.getElementById('addPriceSortBtn').focus();
@@ -1303,7 +1351,7 @@
     sortModal.addEventListener('keydown', event => {
         if (event.key === 'Escape') closeSortModal();
         if (event.key === 'Tab') {
-            const focusable = [...sortModal.querySelectorAll('button:not(:disabled), input, select')];
+            const focusable = [...sortModal.querySelectorAll('button:not(:disabled), input, select')].filter(element => element.getClientRects().length);
             const first = focusable[0], last = focusable[focusable.length - 1];
             if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
             else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
@@ -1317,14 +1365,28 @@
     document.getElementById('addMetaSortBtn').onclick = () => addSortRule('meta');
     document.getElementById('dailyReturnSortBtn').onclick = () => addSortRule('price', '($.close - $.open) / $.open');
     document.getElementById('clearSortBtn').onclick = () => { draftSortRules = []; renderSortRules(); };
-    document.getElementById('applySortBtn').onclick = () => {
+    document.getElementById('predefinedSortingsBtn').onclick = () => {
+        showSortPane(true);
+        document.getElementById('companyBuyBackSortBtn').focus();
+    };
+    document.getElementById('backToSortingBtn').onclick = () => {
+        showSortPane(false);
+        document.getElementById('predefinedSortingsBtn').focus();
+    };
+    document.getElementById('companyBuyBackSortBtn').onclick = () => {
+        draftSortRules = [{ predefined: 'companyBuyBack', direction: 'desc' }];
+        applySorting();
+    };
+    document.getElementById('applySortBtn').onclick = applySorting;
+    function applySorting() {
         for (let i = 0; i < draftSortRules.length; i++) {
+            if (draftSortRules[i].predefined) continue;
             try { compileSortFormula(draftSortRules[i].formula); }
             catch (error) {
                 const message = document.getElementById('sortError');
                 message.textContent = `Rule ${i + 1}: ${error.message}`;
                 message.classList.remove('hidden');
-                document.querySelectorAll('#sortRulesContainer input')[i].focus();
+                document.getElementById('sortRulesContainer').children[i].querySelector('input').focus();
                 return;
             }
         }
@@ -1336,7 +1398,7 @@
         currentActiveIdx = -1;
         applyFilters(false);
         closeSortModal();
-        showToast(sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
+        showToast(sortRules[0]?.predefined === 'companyBuyBack' ? 'Applied Company Buy Back sorting.' : sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
     };
 
     function getPassingStockFilters(fileObj) {
