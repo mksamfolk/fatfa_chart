@@ -1,0 +1,46 @@
+balance_sheet
+,2025-12-31,2024-12-31\nOrdinary Shares Number,8331599.0,8331599.0\nShare Issued,8331599.0,8331599.0\nTangible Book Value,-7782923.0,-1726679.0\nInvested Capital,-7782923.0,-1726679.0\nWorking Capital,20532995.0,8092991.0\nNet Tangible Assets,-7782923.0,-1726679.0\nCommon Stock Equity,-7782923.0,-1726679.0\nTotal Capitalization,-7782923.0,-1726679.0\nTotal Equity Gross Minority Interest,-7782923.0,-1726679.0\nStockholders Equity,-7782923.0,-1726679.0\nRetained Earnings,-8315189.0,-2013907.0\nAdditional Paid In Capital,532185.0,287147.0\nCapital Stock,81.0,81.0\nCommon Stock,81.0,81.0\nTotal Liabilities Net Minority Interest,29228084.0,10096638.0\nTotal Non Current Liabilities Net Minority Interest,28315918.0,9819670.0\nPreferred Securities Outside Stock Equity,28315918.0,9819670.0\nCurrent Liabilities,912166.0,276968.0\nPayables And Accrued Expenses,912166.0,276968.0\nCurrent Accrued Expenses,136307.0,75654.0\nPayables,775859.0,201314.0\nDueto Related Parties Current,0.0,6869.0\nAccounts Payable,775859.0,194445.0\nTotal Assets,21445161.0,8369959.0\nTotal Non Current Assets,0.0,0.0\nCurrent Assets,21445161.0,8369959.0\nOther Current Assets,2544137.0,184662.0\nCash Cash Equivalents And Short Term Investments,18901024.0,8185297.0\nCash And Cash Equivalents,18901024.0,8185297.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2025-12-31,2024-12-31\nTax Effect Of Unusual Items,0.0,0.0\nTax Rate For Calcs,0.0,0.0\nNormalized EBITDA,-6880645.0,-2296371.0\nTotal Unusual Items,,15073.0\nTotal Unusual Items Excluding Goodwill,,15073.0\nNet Income From Continuing Operation Net Minority Interest,-6301282.0,-1909711.0\nEBITDA,-6880645.0,-2281298.0\nEBIT,-6880645.0,-2281298.0\nNet Interest Income,579363.0,356514.0\nInterest Income,579363.0,356514.0\nNormalized Income,-6301282.0,-1924784.0\nNet Income From Continuing And Discontinued Operation,-6301282.0,-1909711.0\nTotal Expenses,6880645.0,2281298.0\nTotal Operating Income As Reported,-6880645.0,-2281298.0\nDiluted Average Shares,4579273.0,4581098.0\nBasic Average Shares,4579273.0,4581098.0\nDiluted EPS,-1.38,-0.416868\nBasic EPS,-1.38,-0.416868\nDiluted NI Availto Com Stockholders,-6301282.0,-1909711.0\nNet Income Common Stockholders,-6301282.0,-1909711.0\nNet Income,-6301282.0,-1909711.0\nNet Income Including Noncontrolling Interests,-6301282.0,-1909711.0\nNet Income Continuous Operations,-6301282.0,-1909711.0\nPretax Income,-6301282.0,-1909711.0\nOther Income Expense,,15073.0\nGain On Sale Of Security,,15073.0\nNet Non Operating Interest Income Expense,579363.0,356514.0\nInterest Income Non Operating,579363.0,356514.0\nOperating Income,-6880645.0,-2281298.0\nOperating Expense,6880645.0,2281298.0\nResearch And Development,5106109.0,1304929.0\nSelling General And Administration,1774536.0,976369.0\nGeneral And Administrative Expense,1774536.0,976369.0\nOther Gand A,1774536.0,976369.0\nTotal Revenue,0.0,0.0\nOperating Revenue,0.0,0.0\n
+insider_roster_holders
+,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,BERGER FRANKLIN MILAN,Director,,Purchase,2026-10-13,22517.0,1791849600.0,,\n1,KELLER ERIC L,Chief Executive Officer,,Purchase,2026-10-13,,,464407.0,2026-10-13\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,10000,120000.0,,Purchase at price 12.00 per share.,BERGER FRANKLIN MILAN,Director,,2026-10-13,I\n1,12517,,,,BERGER FRANKLIN MILAN,Director,,2026-10-13,D\n2,20800,249600.0,,Purchase at price 12.00 per share.,KELLER ERIC L,Chief Executive Officer,,2026-10-13,D\n3,41030,,,,KELLER ERIC L,Chief Executive Officer,,2026-10-13,D\n
+major_holders
+,Value\ninsidersPercentHeld,0.25697002\ninstitutionsPercentHeld,0.23287001\ninstitutionsFloatPercentHeld,0.31340998\ninstitutionsCount,2.0\n
+news
+[\n  {\n    "uuid": "1f671377-1124-3b1d-8102-045aa2b8d804",\n    "title": "Retension Pharmaceuticals Announces Pricing of Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/retension-pharmaceuticals-announces-pricing-initial-013500964.html",\n    "providerPublishTime": 1791509700,\n    "type": "STORY",\n    "relatedTickers": [\n      "RTSN"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,RTSN,Retension Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,109060632,13.09,120480,170192,2227813.28,,,,0.0,0.0,0.0,,,13493037,0,,5.609,4.692,-11891754,,8331599,538677,0.25697002,0.23287001,62034,0.24,,,,,-0.7083334,,,,,,,none,,,,,,,,https://www.retensionpharmaceuticals.com,2026-10-29T13:14:04.438177+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-09,10.00,11.60,9.66,10.53,,,,,,,0,9.6600,1,8310,,,,
+2026-10-12,10.88,11.79,10.16,11.32,,,,,,,0,9.6600,1,1969,,,,
+2026-10-13,11.83,12.50,11.41,11.63,,,,,,,0,9.6600,1,1600,,,,
+2026-10-14,11.63,12.25,11.00,11.64,,,,,,,0,9.7736,1,899,,,,
+2026-10-15,11.56,12.86,11.56,12.21,,,,,,,0,9.8827,1,1600,,,,
+2026-10-16,12.21,14.97,12.17,14.07,,,,,,,0,10.0613,1,2939,,,,
+2026-10-19,14.14,18.64,14.10,16.33,,,,,,,0,10.4540,1,4363,,,,
+2026-10-20,16.53,17.40,15.11,16.18,,,,,,,0,11.2726,1,1590,,,,
+2026-10-21,16.18,18.19,14.29,15.00,,,,,,,0,12.0093,1,1659,,,,
+2026-10-22,14.81,16.00,14.07,15.50,13.44,,,,,21.8720,0,12.6724,1,1877,,,,
+2026-10-23,15.85,16.29,14.59,15.25,13.91,,,,,21.8720,0,13.2692,1,1188,,,,
+2026-10-26,15.13,15.82,14.24,14.24,14.21,,,,,21.5010,0,13.8062,1,672,,,,
+2026-10-27,14.40,14.60,12.70,13.52,14.39,,,,,20.0439,0,18.6400,0,1018,,,,
+2026-10-28,13.44,13.90,12.19,13.09,14.54,,,,,19.3125,0,18.5212,0,881,,,,
+2026-10-29,12.95,12.97,11.30,11.60,14.48,,,,,18.3127,0,18.2680,0,314,,,,

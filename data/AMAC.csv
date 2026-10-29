@@ -1,0 +1,68 @@
+balance_sheet
+,2025-12-31\nOrdinary Shares Number,35270833.0\nShare Issued,35270833.0\nNet Debt,21077.0\nTotal Debt,21077.0\nTangible Book Value,7273.0\nInvested Capital,28350.0\nWorking Capital,-49317.0\nNet Tangible Assets,7273.0\nCommon Stock Equity,7273.0\nTotal Capitalization,7273.0\nTotal Equity Gross Minority Interest,7273.0\nStockholders Equity,7273.0\nRetained Earnings,-17727.0\nAdditional Paid In Capital,24042.0\nCapital Stock,958.0\nCommon Stock,958.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,52667.0\nTotal Non Current Liabilities Net Minority Interest,0.0\nCurrent Liabilities,52667.0\nCurrent Debt And Capital Lease Obligation,21077.0\nCurrent Debt,21077.0\nOther Current Borrowings,21077.0\nPayables And Accrued Expenses,31590.0\nCurrent Accrued Expenses,31590.0\nTotal Assets,59940.0\nTotal Non Current Assets,56590.0\nNon Current Deferred Assets,56590.0\nCurrent Assets,3350.0\nPrepaid Assets,3350.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0028,75000,735000,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0021,55791,546751,1.0\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2026-03-31\nFree Cash Flow,0.0,0.0\nEnd Cash Position,0.0,0.0\nBeginning Cash Position,0.0,0.0\nOperating Cash Flow,0.0,0.0\nCash Flow From Continuing Operating Activities,0.0,0.0\nChange In Working Capital,-24557.0,55928.0\nChange In Payables And Accrued Expense,-25395.0,55091.0\nChange In Accrued Expense,-25395.0,55091.0\nChange In Prepaid Assets,838.0,837.0\nOther Non Cash Items,57738.0,5025.0\nNet Income From Continuing Operations,-33181.0,-60953.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.08446\ninstitutionsFloatPercentHeld,0.08446\ninstitutionsCount,3.0\n
+news
+[\n  {\n    "uuid": "24bb34fc-331a-38bd-adfe-2c051da9e98d",\n    "title": "For AMAC's Two Million Members, There's Now a Smarter Roadside Option: Liberty Lane Powered by Way Advantage Is More Than a Tow. It's a Retention Engine.",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/small-business/articles/amacs-two-million-members-theres-160200837.html",\n    "providerPublishTime": 1786636920,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/business-wire.com/8510e1ec4398b8c004d31748a064958b.jpg",\n          "width": 11520,\n          "height": 3456,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/3F5CB0BBA904B0A8173F5339B8997EEFC30B990A2AC2A3AD4409083B53AA24AD/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F8510e1ec4398b8c004d31748a064958b.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,355650176,9.8,26410,32229,315844.2,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.08446,521,0.01,,,,,-980.00006,,,,,,,none,,,,,,,,https://amrresources.us,2026-10-29T08:25:54.036401+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-08,10.00,10.00,9.87,9.88,,,,,,,0,10.0000,0,1317,,,,
+2026-09-09,9.85,9.86,9.83,9.86,,,,,,,0,10.0000,0,186,,,,
+2026-09-10,9.83,9.85,9.83,9.85,,,,,,,0,10.0000,0,147,,,,
+2026-09-11,9.85,9.88,9.82,9.87,,,,,,,0,9.9966,0,114,,,,
+2026-09-14,9.83,9.85,9.83,9.83,,,,,,,0,9.9895,0,46,,,,
+2026-09-15,9.83,9.84,9.83,9.83,,,,,,,0,9.9828,0,80,,,,
+2026-09-16,9.84,9.84,9.82,9.82,,,,,,,0,9.9762,0,66,,,,
+2026-09-17,9.85,9.85,9.81,9.81,,,,,,,0,9.9700,0,1237,,,,
+2026-09-18,9.82,9.82,9.80,9.80,,,,,,,0,9.9604,0,87,,,,
+2026-09-21,9.82,9.82,9.79,9.81,9.84,,,,,9.9340,0,9.9476,0,569,,,,
+2026-09-22,9.79,9.79,9.79,9.79,9.83,,,,,9.9121,0,9.9318,0,20,,,,
+2026-09-23,9.81,9.81,9.79,9.80,9.82,,,,,9.9121,0,9.9176,0,164,,,,
+2026-09-24,9.81,9.81,9.79,9.79,9.82,,,,,9.9103,0,9.9049,0,4173,,,,
+2026-09-25,9.80,9.80,9.79,9.80,9.81,,,,,9.8973,0,9.8934,0,386,,,,
+2026-09-28,9.79,9.80,9.79,9.80,9.81,,,,,9.8900,0,9.8830,0,12,,,,
+2026-09-29,9.79,9.80,9.79,9.79,9.80,,,,,9.8835,0,9.8737,0,38,,,,
+2026-09-30,9.79,9.79,9.79,9.79,9.80,,,,,9.8697,0,9.8654,0,6,,,,
+2026-10-01,9.79,9.80,9.79,9.80,9.80,,,,,9.8697,0,9.8578,0,419,,,,
+2026-10-02,9.80,9.80,9.80,9.80,9.80,,,,,9.8672,0,9.8510,0,,,,,
+2026-10-05,9.80,9.81,9.80,9.80,9.80,9.82,,,,9.8672,0,9.8449,0,11,,,,
+2026-10-06,9.80,9.80,9.80,9.80,9.80,9.81,,,,9.8572,0,9.8394,0,,,,,
+2026-10-07,9.80,9.80,9.80,9.80,9.80,9.81,,,,9.8515,0,9.8345,0,,,,,
+2026-10-08,9.80,9.80,9.80,9.80,9.80,9.81,,,,9.8463,0,9.8301,0,,,,,
+2026-10-09,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8417,0,9.8260,0,,,,,
+2026-10-12,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8375,0,9.8224,0,27,,,,
+2026-10-13,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8338,0,9.8192,0,2,,,,
+2026-10-14,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8304,0,9.8163,0,2,,,,
+2026-10-15,9.80,9.81,9.80,9.81,9.80,9.80,,,,9.8304,0,9.8136,0,1474,,,,
+2026-10-16,9.80,9.80,9.79,9.79,9.80,9.80,,,,9.8283,0,9.8113,0,58,,,,
+2026-10-19,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8283,0,9.8100,0,10,,,,
+2026-10-20,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8283,0,9.8080,0,,,,,
+2026-10-21,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8267,0,9.8062,0,63,,,,
+2026-10-22,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8240,0,9.8046,0,,,,,
+2026-10-23,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8216,0,9.8031,0,,,-0.0062,-0.0081,0.0019
+2026-10-26,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8195,0,9.8018,0,,,-0.0058,-0.0076,0.0019
+2026-10-27,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8175,0,9.8006,0,980,,-0.0054,-0.0072,0.0018
+2026-10-28,9.79,9.80,9.79,9.80,9.80,9.80,,,,9.8138,0,9.8000,0,5,,-0.0050,-0.0067,0.0017

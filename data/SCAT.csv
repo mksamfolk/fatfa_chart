@@ -1,0 +1,47 @@
+balance_sheet
+,2025-12-31\nOrdinary Shares Number,2895300.0\nShare Issued,2895300.0\nNet Debt,3683.0\nTotal Debt,3683.0\nTangible Book Value,-10457.0\nInvested Capital,-6774.0\nNet Tangible Assets,-10457.0\nCommon Stock Equity,-10457.0\nTotal Capitalization,-10457.0\nTotal Equity Gross Minority Interest,-10457.0\nStockholders Equity,-10457.0\nOther Equity Interest,-25000.0\nRetained Earnings,-10457.0\nAdditional Paid In Capital,24712.0\nCapital Stock,288.0\nCommon Stock,288.0\nTotal Liabilities Net Minority Interest,10457.0\nTotal Non Current Liabilities Net Minority Interest,0.0\nCurrent Liabilities,10457.0\nCurrent Debt And Capital Lease Obligation,3683.0\nCurrent Debt,3683.0\nOther Current Borrowings,3683.0\nPayables And Accrued Expenses,6774.0\nCurrent Accrued Expenses,6774.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2025-12-31\nFree Cash Flow,-38895.0,0.0\nIssuance Of Debt,100000.0,\nIssuance Of Capital Stock,0.0,\nEnd Cash Position,94157.0,0.0\nBeginning Cash Position,184802.0,0.0\nChanges In Cash,-90645.0,\nFinancing Cash Flow,-51750.0,\nCash Flow From Continuing Financing Activities,-51750.0,\nNet Other Financing Charges,-151750.0,\nNet Common Stock Issuance,0.0,\nCommon Stock Issuance,0.0,\nNet Issuance Payments Of Debt,100000.0,\nNet Short Term Debt Issuance,100000.0,\nShort Term Debt Issuance,100000.0,\nOperating Cash Flow,-38895.0,0.0\nCash Flow From Continuing Operating Activities,-38895.0,0.0\nChange In Working Capital,7369.0,6774.0\nChange In Payables And Accrued Expense,-631.0,6774.0\nChange In Accrued Expense,-631.0,6774.0\nOther Non Cash Items,,3683.0\nNet Income From Continuing Operations,-46264.0,-10457.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.33200002\ninstitutionsPercentHeld,0.0\ninstitutionsFloatPercentHeld,0.0\ninstitutionsCount,0.0\n
+news
+[\n  {\n    "uuid": "16368449-e039-3943-b15a-f3b933f82b20",\n    "title": "Southern Cross Acquisition II Corp. Announces the Separate Trading of its Ordinary Shares, Warrants and Rights, Commencing on October 8, 2026",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-acquisition-ii-corp-200500040.html",\n    "providerPublishTime": 1791317100,\n    "type": "STORY",\n    "relatedTickers": [\n      "^IXIC",\n      "SCAT",\n      "SCATW",\n      "SCATR",\n      "SCATU"\n    ]\n  },\n  {\n    "uuid": "7199ff36-d7f8-374e-a09f-b08003dbf608",\n    "title": "Dodge and Hemmings SIXPACK-powered Charger Scat Pack Drift Cars Head West, Ready to Thrill Crowds at Laguna Seca GRIDLIFE Event",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/media-advertising/articles/dodge-hemmings-sixpack-powered-charger-150000560.html",\n    "providerPublishTime": 1789570800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/9f94b745fc6ffa4e63ca341ee4df89ed.jpg",\n          "width": 400,\n          "height": 271,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/48C992EBE3AE2A45AAD2253E84C16B4DCFCC6FDE7C365A83C210D6431E8304D7/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F9f94b745fc6ffa4e63ca341ee4df89ed.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "STLA"\n    ]\n  },\n  {\n    "uuid": "a4310568-ff32-3184-94c0-09cb889acf0b",\n    "title": "Southern Cross Acquisition II Corp. Announces Closing of $76,526,300 Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-acquisition-ii-corp-200500163.html",\n    "providerPublishTime": 1787861100,\n    "type": "STORY",\n    "relatedTickers": [\n      "SCATW",\n      "SCATU",\n      "SCATR",\n      "SCAT"\n    ]\n  },\n  {\n    "uuid": "d2232a9f-8c59-39f3-b869-758db36217d7",\n    "title": "Southern Cross Acquisition II Corp. Announces Pricing of $75 Million Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-acquisition-ii-corp-213000207.html",\n    "providerPublishTime": 1787693400,\n    "type": "STORY",\n    "relatedTickers": [\n      "SCAT"\n    ]\n  },\n  {\n    "uuid": "da85ac83-0766-3380-83a1-356723c73f94",\n    "title": "Dodge, Hemmings Turn SIXPACK-powered Charger Scat Pack Into Pair of 750-horsepower Tire-shredding Drift Machines Debuting at Roadkill Nights",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/technology/articles/dodge-hemmings-turn-sixpack-powered-151500140.html",\n    "providerPublishTime": 1786115700,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/eb4173c4bb4c3589bda95bb7b7814f2b",\n          "width": 400,\n          "height": 267,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/01B35533E483542A84C8DE95CC8453D3511A93194CC29161867CB6B8EA9C6DF5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Feb4173c4bb4c3589bda95bb7b7814f2b",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "STLA"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,SCAT,Southern Cross Acquisition II Corp,Financial Services,Shell Companies,United States,75684512,9.89,15210,62786,620953.54,,,,0.0,0.0,0.0,,,94157,328683,,,,0,,7652630,,0.33200002,0.0,7306,0.05,,,,,-760.7692,,,,,,,none,,,,,,,,,2026-10-29T13:19:59.104681+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-08,9.95,9.95,9.87,9.87,,,,,,,0,9.9500,0,1233,,,,
+2026-10-09,9.87,9.88,9.87,9.87,,,,,,,0,9.9500,0,2113,,,,
+2026-10-12,9.88,9.89,9.88,9.88,,,,,,,0,9.9500,0,609,,,,
+2026-10-13,9.89,9.89,9.88,9.88,,,,,,,0,9.9484,0,2960,,,,
+2026-10-14,9.87,9.89,9.87,9.88,,,,,,,0,9.9468,0,884,,,,
+2026-10-15,9.88,9.90,9.88,9.90,,,,,,,0,9.9453,0,93,,,,
+2026-10-16,9.87,9.89,9.87,9.87,,,,,,,0,9.9438,0,25,,,,
+2026-10-19,9.87,9.90,9.87,9.90,,,,,,,0,9.9423,0,499,,,,
+2026-10-20,9.88,9.92,9.88,9.92,,,,,,,0,9.9409,0,251,,,,
+2026-10-21,9.90,9.92,9.90,9.92,9.89,,,,,9.9940,0,9.9394,0,4,,,,
+2026-10-22,9.92,9.92,9.92,9.92,9.89,,,,,9.9940,0,9.9381,0,,,,,
+2026-10-23,9.92,9.92,9.92,9.92,9.90,,,,,9.9880,0,9.9367,0,,,,,
+2026-10-26,9.85,9.85,9.85,9.85,9.90,,,,,9.9322,0,9.9354,0,4,,,,
+2026-10-27,9.87,9.90,9.87,9.89,9.90,,,,,9.9322,0,9.9320,0,630,,,,
+2026-10-28,9.89,9.89,9.89,9.89,9.90,,,,,9.9322,0,9.9287,0,,,,,
+2026-10-29,9.90,9.90,9.89,9.89,9.90,,,,,9.9322,0,9.9255,0,10,,,,

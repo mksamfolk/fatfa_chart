@@ -1,0 +1,65 @@
+balance_sheet
+,2026-05-31\nOrdinary Shares Number,14933500.0\nShare Issued,14933500.0\nTangible Book Value,-4141.0\nInvested Capital,-4141.0\nWorking Capital,-29141.0\nNet Tangible Assets,-4141.0\nCommon Stock Equity,-4141.0\nTotal Capitalization,-4141.0\nTotal Equity Gross Minority Interest,-4141.0\nStockholders Equity,-4141.0\nOther Equity Interest,-25000.0\nRetained Earnings,-4141.0\nAdditional Paid In Capital,24507.0\nCapital Stock,493.0\nCommon Stock,493.0\nTotal Liabilities Net Minority Interest,29141.0\nTotal Non Current Liabilities Net Minority Interest,0.0\nCurrent Liabilities,29141.0\nPayables And Accrued Expenses,29141.0\nCurrent Accrued Expenses,29141.0\nTotal Assets,25000.0\nTotal Non Current Assets,25000.0\nNon Current Deferred Assets,25000.0\nCurrent Assets,0.0\nCash Cash Equivalents And Short Term Investments,0.0\nCash And Cash Equivalents,0.0\nCash Financial,0.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-08-31\nFree Cash Flow,-381384.0\nIssuance Of Capital Stock,117187500.0\nEnd Cash Position,522130.0\nBeginning Cash Position,0.0\nChanges In Cash,522130.0\nFinancing Cash Flow,115903514.0\nCash Flow From Continuing Financing Activities,115903514.0\nNet Other Financing Charges,-1283986.0\nNet Common Stock Issuance,117187500.0\nCommon Stock Issuance,117187500.0\nInvesting Cash Flow,-115000000.0\nCash Flow From Continuing Investing Activities,-115000000.0\nNet Other Investing Changes,-115000000.0\nOperating Cash Flow,-381384.0\nCash Flow From Continuing Operating Activities,-381384.0\nChange In Working Capital,-318387.0\nChange In Payables And Accrued Expense,4736.0\nChange In Accrued Expense,4736.0\nChange In Prepaid Assets,-323123.0\nOther Non Cash Items,-216257.0\nNet Income From Continuing Operations,153260.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+""\n
+news
+[\n  {\n    "uuid": "fc82b77a-7e43-31fb-bf78-6bdcbfc637a8",\n    "title": "AIRE Inc. Announces Entering into an Agreement and Plan of Merger with OceanLight Acquisition Corporation",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/aire-inc-announces-entering-agreement-220000400.html",\n    "providerPublishTime": 1790632800,\n    "type": "STORY",\n    "relatedTickers": [\n      "OCLT"\n    ]\n  },\n  {\n    "uuid": "8254da8a-a5c1-3860-a31d-9bc447ad111a",\n    "title": "OceanLight Acquisition Corporation Announces Separate Trading of its Ordinary Shares, Rights and Warrants",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/oceanlight-acquisition-corporation-announces-separate-200500450.html",\n    "providerPublishTime": 1789070700,\n    "type": "STORY",\n    "relatedTickers": [\n      "OCLT",\n      "OCLTW",\n      "OCLTU",\n      "OCLTR"\n    ]\n  },\n  {\n    "uuid": "cb730ed4-d0df-3758-89d0-a43dd803a6fe",\n    "title": "OceanLight Acquisition Corporation Announces Exercise of Over-Allotment Option",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/oceanlight-acquisition-corporation-announces-exercise-201500822.html",\n    "providerPublishTime": 1787602500,\n    "type": "STORY",\n    "relatedTickers": [\n      "^IXIC",\n      "OCLTW",\n      "OCLTU",\n      "OCLT",\n      "OCLTR"\n    ]\n  },\n  {\n    "uuid": "2f8584ab-d415-3e73-8bcc-a2d0ac25a889",\n    "title": "OceanLight Acquisition Corporation Announces Closing of Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/oceanlight-acquisition-corporation-announces-closing-201500305.html",\n    "providerPublishTime": 1786392900,\n    "type": "STORY",\n    "relatedTickers": [\n      "OCLT",\n      "OCLTW",\n      "OCLTU",\n      "OCLTR",\n      "^IXIC"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,OCLT,OceanLight Acquisition Corporation,Financial Services,Shell Companies,United States,167303088,9.91,28950,40447,400829.77,,,,0.0,0.0,0.0,,,522130,0,,,,,,16882250,,,,1956,0.06,,,,,210.85107,,,,,,,none,,,,,,,,,2026-10-29T12:24:50.345784+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-11,9.94,9.94,9.86,9.90,,,,,,,0,9.8600,1,855,,,,
+2026-09-14,9.87,9.90,9.87,9.89,,,,,,,0,9.8600,1,2807,,,,
+2026-09-15,9.88,9.90,9.88,9.90,,,,,,,0,9.8600,1,142,,,,
+2026-09-16,9.93,9.93,9.88,9.88,,,,,,,0,9.8616,1,2360,,,,
+2026-09-17,9.91,9.91,9.88,9.88,,,,,,,0,9.8632,1,156,,,,
+2026-09-18,9.88,9.90,9.88,9.89,,,,,,,0,9.8647,1,123,,,,
+2026-09-21,9.88,9.89,9.88,9.89,,,,,,,0,9.8662,1,744,,,,
+2026-09-22,9.88,9.89,9.88,9.89,,,,,,,0,9.8677,1,130,,,,
+2026-09-23,9.88,9.90,9.88,9.90,,,,,,,0,9.8691,1,125,,,,
+2026-09-24,9.89,9.90,9.89,9.90,9.89,,,,,9.9790,0,9.8705,1,10,,,,
+2026-09-25,9.89,9.89,9.89,9.89,9.89,,,,,9.9686,0,9.8719,1,7,,,,
+2026-09-28,9.88,9.90,9.88,9.89,9.89,,,,,9.9667,0,9.8733,1,2615,,,,
+2026-09-29,9.90,9.90,9.88,9.90,9.89,,,,,9.9651,0,9.8746,1,203,,,,
+2026-09-30,9.94,9.94,9.90,9.90,9.89,,,,,9.9651,0,9.8759,1,101,,,,
+2026-10-01,9.90,9.91,9.90,9.91,9.90,,,,,9.9651,0,9.8772,1,8,,,,
+2026-10-02,9.91,9.91,9.91,9.91,9.90,,,,,9.9651,0,9.8785,1,26,,,,
+2026-10-05,9.88,9.91,9.88,9.89,9.90,,,,,9.9644,0,9.8797,1,12,,,,
+2026-10-06,9.89,9.90,9.88,9.89,9.90,,,,,9.9585,0,9.8800,1,16,,,,
+2026-10-07,9.90,9.90,9.90,9.90,9.90,,,,,9.9585,0,9.8800,1,2,,,,
+2026-10-08,9.88,9.90,9.88,9.88,9.90,9.89,,,,9.9542,0,9.8800,1,19,,,,
+2026-10-09,9.90,9.90,9.90,9.90,9.90,9.89,,,,9.9542,0,9.8800,1,15,,,,
+2026-10-12,9.88,9.90,9.88,9.90,9.90,9.89,,,,9.9534,0,9.8800,1,110,,,,
+2026-10-13,9.90,9.90,9.90,9.90,9.90,9.89,,,,9.9534,0,9.8800,1,,,,,
+2026-10-14,9.94,9.94,9.88,9.88,9.90,9.89,,,,9.9534,0,9.8800,1,153,,,,
+2026-10-15,9.94,9.95,9.94,9.95,9.90,9.90,,,,9.9534,0,9.8800,1,26,,,,
+2026-10-16,9.95,9.95,9.95,9.95,9.90,9.90,,,,9.9534,0,9.8800,1,,,,,
+2026-10-19,9.95,9.95,9.95,9.95,9.91,9.90,,,,9.9534,0,9.8828,1,,,,,
+2026-10-20,9.90,9.90,9.90,9.90,9.91,9.90,,,,9.9534,0,9.8855,1,11,,,,
+2026-10-21,9.90,9.90,9.89,9.90,9.91,9.90,,,,9.9534,0,9.8881,1,514,,,,
+2026-10-22,9.90,9.91,9.89,9.90,9.91,9.90,,,,9.9534,0,9.8900,1,1909,,,,
+2026-10-23,9.90,9.90,9.90,9.90,9.91,9.90,,,,9.9534,0,9.8900,1,,,,,
+2026-10-26,9.90,9.90,9.90,9.90,9.91,9.91,,,,9.9534,0,9.8900,1,11,,,,
+2026-10-27,9.90,9.91,9.90,9.91,9.91,9.91,,,,9.9534,0,9.8924,1,396,,,,
+2026-10-28,9.91,9.91,9.91,9.91,9.92,9.91,,,,9.9534,0,9.8947,1,,,0.0051,0.0085,-0.0034

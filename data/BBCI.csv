@@ -1,0 +1,48 @@
+balance_sheet
+,2022-12-31,2021-12-31\nOrdinary Shares Number,28907500.0,28907500.0\nShare Issued,28907500.0,28907500.0\nTangible Book Value,-1908269.0,-2795333.0\nWorking Capital,-1908269.0,-2795333.0\nNet Tangible Assets,-1908269.0,-2795333.0\nCommon Stock Equity,-1908269.0,-2795333.0\nTotal Capitalization,-1908269.0,-2795333.0\nTotal Equity Gross Minority Interest,-1908269.0,-2795333.0\nStockholders Equity,-1908269.0,-2795333.0\nTotal Liabilities Net Minority Interest,1912831.0,2807916.0\nTotal Non Current Liabilities Net Minority Interest,0.0,0.0\nCurrent Liabilities,1912831.0,2807916.0\nPayables And Accrued Expenses,1912831.0,2807916.0\nCurrent Accrued Expenses,2200.0,2200.0\nPayables,1910631.0,2805716.0\nOther Payable,,20.0\nDueto Related Parties Current,1569273.0,1968052.0\nTotal Tax Payable,341358.0,836375.0\nAccounts Payable,0.0,1269.0\nTotal Assets,4562.0,12583.0\nTotal Non Current Assets,0.0,0.0\nCurrent Assets,4562.0,12583.0\nPrepaid Assets,0.0,1370.0\nInventory,667.0,732.0\nFinished Goods,667.0,732.0\nReceivables,210.0,8123.0\nAccounts Receivable,210.0,8123.0\nCash Cash Equivalents And Short Term Investments,3685.0,2358.0\nCash And Cash Equivalents,3685.0,2358.0\nCash Financial,3685.0,2358.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2022-12-31,2021-12-31\nTax Effect Of Unusual Items,0.0,0.0\nTax Rate For Calcs,0.24,0.24\nNormalized EBITDA,1631982.0,3709358.0\nNet Income From Continuing Operation Net Minority Interest,1080966.0,2648519.0\nReconciled Cost Of Revenue,357632591.0,490864344.0\nEBITDA,1631982.0,3709358.0\nEBIT,1631982.0,3709358.0\nNet Interest Income,-209658.0,-224464.0\nInterest Expense,209658.0,224464.0\nNormalized Income,1080966.0,2648519.0\nNet Income From Continuing And Discontinued Operation,1080966.0,2648519.0\nTotal Expenses,376350133.0,514681296.0\nDiluted Average Shares,28907500.0,28907500.0\nBasic Average Shares,28907500.0,28907500.0\nDiluted EPS,0.037394,0.09162\nBasic EPS,0.037394,0.09162\nDiluted NI Availto Com Stockholders,1080966.0,2648519.0\nNet Income Common Stockholders,1080966.0,2648519.0\nNet Income,1080966.0,2648519.0\nNet Income Including Noncontrolling Interests,1080966.0,2648519.0\nNet Income Continuous Operations,1080966.0,2648519.0\nTax Provision,341358.0,836375.0\nPretax Income,1422324.0,3484894.0\nNet Non Operating Interest Income Expense,-209658.0,-224464.0\nInterest Expense Non Operating,209658.0,224464.0\nOperating Income,1631982.0,3709358.0\nOperating Expense,18717542.0,23816952.0\nOther Operating Expenses,478489.0,609314.0\nSelling General And Administration,18239053.0,23207638.0\nGeneral And Administrative Expense,18239053.0,23207638.0\nOther Gand A,18239053.0,23207638.0\nGross Profit,20349524.0,27526310.0\nCost Of Revenue,357632591.0,490864344.0\nTotal Revenue,377982115.0,518390654.0\nOperating Revenue,377982115.0,518390654.0\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.29712\ninstitutionsPercentHeld,0.54667\ninstitutionsFloatPercentHeld,0.77775\ninstitutionsCount,2.0\n
+news
+[\n  {\n    "uuid": "76803483-32db-3f2e-817c-13b17e3fee81",\n    "title": "Bradbury Capital Holdings Inc. Announces Closing of Business Combination with Technology & Telecommunication Acquisition Corporation and Commencement of Trading on Nasdaq Under Ticker Symbol \"BBCI\".",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bradbury-capital-holdings-inc-announces-143100897.html",\n    "providerPublishTime": 1791297060,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/73ff7d53e613e62d4dd19806e6b43e81.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/7C645B375D43E640A974ADBCDA693B26D056A1C947B4F9DE5310F056A738B3BA/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F73ff7d53e613e62d4dd19806e6b43e81.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "TETEF",\n      "BBCI"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,BBCI,Bradbury Capital Inc.,Technology,Software - Infrastructure,Malaysia,84542416,2.1,2225120,1419468,2980882.8000000003,,,,0.0,0.0,0.0,,,,,,,,,,40258296,,0.29712,0.54667,7076,0.0,,,,,,,,,,,,none,,,,,,,,,2026-10-29T08:47:47.963799+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-07,8.66,15.50,7.90,11.00,,,,,,,0,15.5000,0,1551,,,,
+2026-10-08,8.12,8.57,7.31,7.50,,,,,,,0,15.5000,0,1012,,,,
+2026-10-09,7.02,7.90,5.47,6.91,,,,,,,0,15.5000,0,162,,,,
+2026-10-12,5.48,5.97,4.90,5.05,,,,,,,0,15.0988,0,274,,,,
+2026-10-13,4.87,4.87,2.81,3.02,,,,,,,0,14.4869,0,164,,,,
+2026-10-14,2.94,2.94,2.46,2.64,,,,,,,0,13.5527,0,138,,,,
+2026-10-15,3.20,7.57,3.00,3.16,,,,,,,0,12.4435,0,62987,,,,
+2026-10-16,2.65,2.72,2.10,2.25,,,,,,,0,11.4451,0,1069,,,,
+2026-10-19,2.29,2.75,2.19,2.25,,,,,,,0,10.3237,0,476,,,,
+2026-10-20,2.40,2.85,2.22,2.23,4.60,,,,,10.2480,0,9.3368,0,665,,,,
+2026-10-21,2.32,2.33,2.15,2.18,3.72,,,,,9.2357,0,8.4684,0,368,,,,
+2026-10-22,2.19,2.25,2.05,2.05,3.17,,,,,8.5061,0,7.7042,0,245,,,,
+2026-10-23,2.02,2.05,1.70,1.71,2.65,,,,,7.7005,0,6.9126,0,163,,,,
+2026-10-26,1.86,1.86,1.57,1.60,2.31,,,,,7.0450,0,6.0786,0,93,,,,
+2026-10-27,1.67,2.25,1.60,1.87,2.19,,,,,6.9170,0,5.2671,0,1141,,,,
+2026-10-28,1.82,2.29,1.73,2.10,2.14,,,,,6.6708,0,4.6016,0,593,,,,
+2026-10-29,2.16,2.24,1.94,1.94,2.02,,,,,6.3787,0,4.0559,0,169,,,,

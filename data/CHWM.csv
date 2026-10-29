@@ -1,0 +1,52 @@
+balance_sheet
+,2026-06-30,2024-06-30,2023-06-30\nOrdinary Shares Number,98006092.0,67200001.0,8200001.0\nShare Issued,98006092.0,67200001.0,8200001.0\nTotal Debt,65652.0,119202.0,\nTangible Book Value,25983040.0,10064570.0,-469155.0\nInvested Capital,25983040.0,10107470.0,-469155.0\nWorking Capital,-976874.0,3069242.0,-477079.0\nNet Tangible Assets,25983040.0,10064570.0,-469155.0\nCapital Lease Obligations,65652.0,76302.0,\nCommon Stock Equity,25983040.0,10064570.0,-469155.0\nTotal Capitalization,25983040.0,10064570.0,-469155.0\nTotal Equity Gross Minority Interest,25983040.0,10064570.0,-469155.0\nStockholders Equity,25983040.0,10064570.0,-469155.0\nGains Losses Not Affecting Retained Earnings,5959583.0,1232614.0,1.0\nOther Equity Adjustments,6120982.0,1260601.0,1.0\nForeign Currency Translation Adjustments,-161399.0,-27987.0,\nRetained Earnings,-13523793.0,-3031901.0,-1289157.0\nCapital Stock,33547250.0,11863857.0,820001.0\nCommon Stock,33547250.0,11863857.0,820001.0\nTotal Liabilities Net Minority Interest,2591754.0,1132840.0,8716655.0\nTotal Non Current Liabilities Net Minority Interest,14124.0,0.0,0.0\nEmployee Benefits,14124.0,,\nNon Current Pension And Other Postretirement Benefit Plans,14124.0,,\nCurrent Liabilities,2577630.0,1132840.0,8716655.0\nOther Current Liabilities,,,7679238.0\nCurrent Debt And Capital Lease Obligation,65652.0,119202.0,\nCurrent Capital Lease Obligation,65652.0,76302.0,\nCurrent Debt,,42900.0,\nOther Current Borrowings,,42900.0,\nPensionand Other Post Retirement Benefit Plans Current,69654.0,26636.0,\nPayables And Accrued Expenses,2442324.0,987002.0,1037417.0\nPayables,2442324.0,987002.0,1037417.0\nOther Payable,2048042.0,514191.0,60000.0\nAccounts Payable,394282.0,472811.0,977417.0\nTotal Assets,28574794.0,11197410.0,8247500.0\nTotal Non Current Assets,26974038.0,6995328.0,7924.0\nOther Non Current Assets,369965.0,,\nInvestments And Advances,30000.0,,\nOther Investments,30000.0,,\nNet PPE,26574073.0,6995328.0,7924.0\nAccumulated Depreciation,-256414.0,-28818.0,-3456.0\nGross PPE,26830487.0,7024146.0,11380.0\nOther Properties,26104160.0,6928074.0,\nMachinery Furniture Equipment,726327.0,96072.0,11380.0\nCurrent Assets,1600756.0,4202082.0,8239576.0\nPrepaid Assets,506895.0,,\nReceivables,21768.0,51058.0,217159.0\nOther Receivables,21768.0,51058.0,217159.0\nCash Cash Equivalents And Short Term Investments,1072093.0,4151024.0,8022417.0\nCash And Cash Equivalents,1072093.0,4151024.0,8022417.0\nCash Financial,1072093.0,4151024.0,8022417.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2026-06-30,2025-06-30,2024-06-30,2023-06-30\nTax Effect Of Unusual Items,0.0,,0.0,0.0\nTax Rate For Calcs,0.0,,0.0,0.0\nNormalized EBITDA,-6746322.0,,-1917137.0,-1022744.0\nNet Income From Continuing Operation Net Minority Interest,-6881603.0,,-1742745.0,-1022744.0\nReconciled Depreciation,131411.0,,28419.0,\nEBITDA,-6746322.0,,-1917137.0,-1022744.0\nEBIT,-6877733.0,,-1945556.0,-1022744.0\nNet Interest Income,74183.0,,202811.0,\nInterest Income,74183.0,,202811.0,\nNormalized Income,-6881603.0,,-1742745.0,-1022744.0\nNet Income From Continuing And Discontinued Operation,-6881603.0,,-1742745.0,-1022744.0\nDiluted Average Shares,91682591.0,72541199.0,67038799.0,8200001.0\nBasic Average Shares,91682591.0,72541199.0,67038799.0,8200001.0\nDiluted EPS,-0.0751,-0.0439,-0.026,-0.1247\nBasic EPS,-0.0751,-0.0439,-0.026,-0.1247\nNet Income Common Stockholders,-6881603.0,,-1742745.0,-1022744.0\nNet Income,-6881603.0,,-1742745.0,-1022744.0\nNet Income Including Noncontrolling Interests,-6881603.0,,-1742745.0,-1022744.0\nNet Income Continuous Operations,-6881603.0,,-1742745.0,-1022744.0\nTax Provision,0.0,,0.0,0.0\nPretax Income,-6881603.0,,-1742745.0,-1022744.0\nOther Income Expense,-78053.0,,,\nOther Non Operating Income Expenses,-78053.0,,,\nNet Non Operating Interest Income Expense,74183.0,,202811.0,\nInterest Income Non Operating,74183.0,,202811.0,\nOperating Income,-6877733.0,,-1945556.0,-1022744.0\nOperating Expense,6877733.0,,1945556.0,1022744.0\nOther Operating Expenses,2215992.0,,712174.0,702495.0\nDepreciation Amortization Depletion Income Statement,131411.0,,28419.0,\nDepreciation And Amortization In Income Statement,131411.0,,28419.0,\nDepreciation Income Statement,131411.0,,28419.0,\nSelling General And Administration,4530330.0,,1204963.0,320249.0\nGeneral And Administrative Expense,4530330.0,,1204963.0,320249.0\nOther Gand A,381981.0,,131787.0,57994.0\nSalaries And Wages,4148349.0,,1073176.0,262255.0\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+,period,strongBuy,buy,hold,sell,strongSell\n0,0m,1,0,0,0,0\n
+upgrades_downgrades
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget\n2026-10-21 18:07:45,Maxim Group,Buy,,init,Announces,11.0,0.0\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+""\n
+news
+[\n  {\n    "uuid": "5013246e-c8c1-3bd5-b2b6-00e76fd616ea",\n    "title": "Chilwa Announces Closing of US$3.5 Million Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/chilwa-announces-closing-us-3-210700802.html",\n    "providerPublishTime": 1790975220,\n    "type": "STORY",\n    "relatedTickers": [\n      "CHW.AX",\n      "CHWM"\n    ]\n  },\n  {\n    "uuid": "bc944079-6665-3528-a4c4-fcaf477d3e89",\n    "title": "Chilwa Announces Nasdaq Listing and Pricing of US$3.5 Million Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/chilwa-announces-nasdaq-listing-pricing-002200969.html",\n    "providerPublishTime": 1790814120,\n    "type": "STORY",\n    "relatedTickers": [\n      "CHW.AX",\n      "CHWM"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,CHWM,Chilwa Minerals Limited,Basic Materials,Other Industrial Metals & Mining,Australia,539302592,5.14,13010,30395,156230.3,-0.322,,,1.0,-300.6337,0.0,-0.31499,-0.1348,1072093,65652,0.253,0.621,0.424,-3526883,-9052787,104922682,39121930,,,1200,0.03,,,,48233.844,27.491226,44876.188,-96.94,11.0,11.0,11.0,2.0,buy,1,,,,,,-0.108,https://www.chilwaminerals.com,2026-10-29T09:22:10.738840+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-01,6.00,7.08,5.70,6.60,,,,,,,0,7.0800,0,1430,,,,
+2026-10-02,5.67,5.75,5.20,5.43,,,,,,,0,7.0800,0,597,,,,
+2026-10-05,5.31,5.58,5.04,5.49,,,,,,,0,7.0800,0,165,,,,
+2026-10-06,5.38,5.72,5.15,5.25,,,,,,,0,6.9984,0,292,,,,
+2026-10-07,5.27,5.49,5.25,5.25,,,,,,,0,6.9201,0,33,,,,
+2026-10-08,5.15,5.33,5.07,5.14,,,,,,,0,6.8449,0,67,,,,
+2026-10-09,5.22,5.26,5.20,5.20,,,,,,,0,6.7727,0,14,,,,
+2026-10-12,5.13,5.24,5.10,5.19,,,,,,,0,6.7034,0,70,,,,
+2026-10-13,5.18,5.20,5.15,5.15,,,,,,,0,6.6368,0,26,,,,
+2026-10-14,5.20,5.68,5.08,5.20,5.39,,,,,6.9700,0,6.5730,0,131,,,,
+2026-10-15,5.20,5.20,4.36,5.14,5.24,,,,,6.4630,0,6.5116,0,38,,,,
+2026-10-16,4.89,4.90,4.65,4.65,5.17,,,,,6.4367,0,6.3825,0,24,,,,
+2026-10-19,5.05,5.20,4.55,5.01,5.12,,,,,6.4367,0,6.2612,0,42,,,,
+2026-10-20,5.18,5.18,5.18,5.18,5.11,,,,,6.4367,0,6.1471,0,4,,,,
+2026-10-21,4.90,5.56,4.70,5.25,5.11,,,,,6.4367,0,6.0399,0,142,,,,
+2026-10-22,5.25,5.44,4.95,5.17,5.11,,,,,6.4367,0,5.9391,0,68,,,,
+2026-10-23,4.97,5.20,4.97,5.13,5.11,,,,,6.4367,0,5.8443,0,24,,,,
+2026-10-26,5.21,5.29,5.11,5.13,5.10,,,,,6.4367,0,5.7553,0,28,,,,
+2026-10-27,5.28,5.28,4.85,5.20,5.11,,,,,6.4367,0,5.6716,0,64,,,,
+2026-10-28,5.20,5.20,4.86,5.14,5.10,5.24,,,,6.4266,0,5.5929,0,235,,,,
+2026-10-29,5.22,5.64,5.01,5.50,5.14,5.19,,,,6.4266,0,4.3600,1,89,,,,

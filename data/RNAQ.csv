@@ -1,0 +1,63 @@
+balance_sheet
+,2025-12-31,2024-12-31\nOrdinary Shares Number,7694375.0,7694375.0\nShare Issued,7694375.0,7694375.0\nNet Debt,5762.0,\nTotal Debt,25000.0,\nTangible Book Value,-18.0,6203.0\nInvested Capital,24982.0,6203.0\nWorking Capital,-18.0,6203.0\nNet Tangible Assets,-18.0,6203.0\nCommon Stock Equity,-18.0,6203.0\nTotal Capitalization,-18.0,6203.0\nTotal Equity Gross Minority Interest,-18.0,6203.0\nStockholders Equity,-18.0,6203.0\nRetained Earnings,-25018.0,-18797.0\nAdditional Paid In Capital,24784.0,24784.0\nCapital Stock,216.0,216.0\nCommon Stock,216.0,216.0\nPreferred Stock,0.0,0.0\nTotal Liabilities Net Minority Interest,25000.0,0.0\nTotal Non Current Liabilities Net Minority Interest,0.0,0.0\nCurrent Liabilities,25000.0,0.0\nCurrent Debt And Capital Lease Obligation,25000.0,\nCurrent Debt,25000.0,\nOther Current Borrowings,25000.0,\nTotal Assets,24982.0,6203.0\nTotal Non Current Assets,0.0,0.0\nCurrent Assets,24982.0,6203.0\nPrepaid Assets,5744.0,6203.0\nCash Cash Equivalents And Short Term Investments,19238.0,0.0\nCash And Cash Equivalents,19238.0,0.0\nCash Financial,19238.0,0.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2025-12-31,2024-12-31\nTax Effect Of Unusual Items,0.0,0.0\nTax Rate For Calcs,0.0,0.0\nNormalized EBITDA,-6221.0,-3800.0\nNet Income From Continuing Operation Net Minority Interest,-6221.0,-3800.0\nEBITDA,-6221.0,-3800.0\nEBIT,-6221.0,-3800.0\nNormalized Income,-6221.0,-3800.0\nNet Income From Continuing And Discontinued Operation,-6221.0,-3800.0\nTotal Expenses,6221.0,3800.0\nDiluted Average Shares,7694375.0,7694375.0\nBasic Average Shares,7694375.0,7694375.0\nDiluted EPS,-0.000809,-0.000494\nBasic EPS,-0.000809,-0.000494\nDiluted NI Availto Com Stockholders,-6221.0,-3800.0\nNet Income Common Stockholders,-6221.0,-3800.0\nNet Income,-6221.0,-3800.0\nNet Income Including Noncontrolling Interests,-6221.0,-3800.0\nNet Income Continuous Operations,-6221.0,-3800.0\nPretax Income,-6221.0,-3800.0\nOperating Income,-6221.0,-3800.0\nOperating Expense,6221.0,3800.0\nSelling General And Administration,6221.0,3800.0\nGeneral And Administrative Expense,6221.0,3800.0\nOther Gand A,6221.0,3800.0\nTotal Revenue,0.0,0.0\nOperating Revenue,0.0,0.0\n
+insider_roster_holders
+""\n
+institutional_holders
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0046,40000,397999,1.0\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0104\ninstitutionsFloatPercentHeld,0.0104\ninstitutionsCount,2.0\n
+news
+[\n  {\n    "uuid": "1893b214-1e10-3e6c-9615-ac08200449cb",\n    "title": "Rainier Acquisition Corporation Announces Separation of Its Class A Ordinary Shares and Warrants on Nasdaq, Commencing September 14, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rainier-acquisition-corporation-announces-separation-203000643.html",\n    "providerPublishTime": 1789158600,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/9662e05d78f0f7d98967ddb70e176ba6.png",\n          "width": 290,\n          "height": 182,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/CAAF12CBFDF77F4DEED5374F09F0E6CC7E33305AE10C0CE83359D5CC0053B912/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9662e05d78f0f7d98967ddb70e176ba6.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "^IXIC",\n      "RNAQW",\n      "RNAQU",\n      "RNAQ"\n    ]\n  },\n  {\n    "uuid": "d27668ec-a8ef-3e2d-b181-603535611c29",\n    "title": "Rainier Acquisition Corporation Announces Full Exercise of Over-Allotment Option, Bringing Total IPO Gross Proceeds to $86,250,000",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rainier-acquisition-corporation-announces-full-161500721.html",\n    "providerPublishTime": 1788365700,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/9662e05d78f0f7d98967ddb70e176ba6.png",\n          "width": 290,\n          "height": 182,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/CAAF12CBFDF77F4DEED5374F09F0E6CC7E33305AE10C0CE83359D5CC0053B912/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9662e05d78f0f7d98967ddb70e176ba6.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RNAQU",\n      "RNAQW",\n      "RNAQ"\n    ]\n  },\n  {\n    "uuid": "52570b8e-def9-30c2-8ea1-405205569d60",\n    "title": "Rainier Acquisition Corporation Announces Closing of $75,000,000 Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rainier-acquisition-corporation-announces-closing-191500568.html",\n    "providerPublishTime": 1787944500,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/400ad5f402f83627db84f085eadc71e0.jpg",\n          "width": 300,\n          "height": 189,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/4399847F9FEAAED0B42456368CB3C0000E8144DD4ABAFFF777C3500FDDCBBEBF/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F400ad5f402f83627db84f085eadc71e0.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "^IXIC",\n      "RNAQ",\n      "RNAQW",\n      "RNAQU"\n    ]\n  },\n  {\n    "uuid": "45db1b60-8436-3bc8-99cc-0509faf1df8e",\n    "title": "Rainier Acquisition Corporation Announces Pricing of $75,000,000 Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rainier-acquisition-corporation-announces-pricing-223000598.html",\n    "providerPublishTime": 1787783400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/400ad5f402f83627db84f085eadc71e0.jpg",\n          "width": 300,\n          "height": 189,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/4399847F9FEAAED0B42456368CB3C0000E8144DD4ABAFFF777C3500FDDCBBEBF/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F400ad5f402f83627db84f085eadc71e0.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "^IXIC",\n      "RNAQW",\n      "RNAQU",\n      "RNAQ"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,RNAQ,Rainier Acquisition Corporation,Financial Services,Shell Companies,United States,109263432,9.95,530,5475,54476.24999999999,,,,0.0,0.0,0.0,,,11963,25000,,0.18,0.121,-13037,,8825000,1300538,0.0,0.0104,2695,0.36,,,,,-2487.4998,,,,,,,none,,,,,,,,https://www.rainieracquisitioncorp.com,2026-10-29T13:10:24.839775+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-15,10.50,10.50,10.00,10.18,,,,,,,0,10.0000,1,773,,,,
+2026-09-16,10.02,10.18,10.02,10.12,,,,,,,0,10.0000,1,160,,,,
+2026-09-17,10.10,10.17,10.10,10.15,,,,,,,0,10.0000,1,222,,,,
+2026-09-18,10.07,10.15,10.07,10.13,,,,,,,0,10.0100,1,142,,,,
+2026-09-21,10.12,10.12,10.10,10.10,,,,,,,0,10.0198,1,24,,,,
+2026-09-22,10.08,10.09,10.08,10.08,,,,,,,0,10.0294,1,69,,,,
+2026-09-23,10.07,10.07,10.07,10.07,,,,,,,0,10.0388,1,97,,,,
+2026-09-24,10.07,10.09,10.07,10.09,,,,,,,0,10.0480,1,16,,,,
+2026-09-25,10.07,10.10,10.07,10.09,,,,,,,0,10.0571,1,74,,,,
+2026-09-28,10.08,10.10,10.05,10.09,10.11,,,,,10.3660,0,10.5000,0,19,,,,
+2026-09-29,10.05,10.05,10.05,10.05,10.10,,,,,10.3239,0,10.4910,0,5,,,,
+2026-09-30,10.05,10.05,10.03,10.03,10.09,,,,,10.2925,0,10.4822,0,11,,,,
+2026-10-01,10.03,10.03,10.03,10.03,10.08,,,,,10.2573,0,10.4641,0,42,,,,
+2026-10-02,10.03,10.05,10.03,10.05,10.07,,,,,10.2505,0,10.4467,0,11,,,,
+2026-10-05,10.01,10.04,10.01,10.04,10.06,,,,,10.2265,0,10.4301,0,16,,,,
+2026-10-06,10.04,10.04,10.04,10.04,10.06,,,,,10.2213,0,10.4049,0,,,,,
+2026-10-07,10.02,10.02,10.02,10.02,10.05,,,,,10.1892,0,10.3812,0,21,,,,
+2026-10-08,10.02,10.02,10.02,10.02,10.05,,,,,10.1723,0,10.3589,0,,,,,
+2026-10-09,10.02,10.02,10.02,10.02,10.04,,,,,10.1571,0,10.3380,0,,,,,
+2026-10-12,10.00,10.05,10.00,10.05,10.04,10.07,,,,10.1571,0,10.3183,0,10,,,,
+2026-10-13,10.05,10.05,10.05,10.05,10.04,10.07,,,,10.1571,0,10.2928,0,,,,,
+2026-10-14,10.00,10.02,10.00,10.02,10.03,10.06,,,,10.1371,0,10.2694,0,11,,,,
+2026-10-15,10.02,10.02,10.02,10.02,10.03,10.05,,,,10.1344,0,10.2478,0,,,,,
+2026-10-16,10.02,10.02,10.02,10.02,10.03,10.05,,,,10.1229,0,10.2280,0,,,,,
+2026-10-19,10.02,10.02,10.02,10.02,10.03,10.05,,,,10.1126,0,10.2098,0,,,,,
+2026-10-20,10.00,10.00,10.00,10.00,10.02,10.04,,,,10.0894,0,10.1930,0,6,,,,
+2026-10-21,9.90,10.00,9.90,10.00,10.02,10.04,,,,10.0604,0,10.1776,0,11,,,,
+2026-10-22,10.00,10.00,10.00,10.00,10.02,10.03,,,,10.0604,0,10.1498,0,,,,,
+2026-10-23,9.98,10.00,9.98,9.98,10.02,10.03,,,,10.0604,0,10.1248,0,24,,,,
+2026-10-26,9.98,9.98,9.98,9.98,10.01,10.02,,,,10.0604,0,10.1023,0,,,,,
+2026-10-27,9.95,10.00,9.95,10.00,10.00,10.02,,,,10.0604,0,10.0821,0,12,,,,
+2026-10-28,10.00,10.00,10.00,10.00,10.00,10.02,,,,10.0604,0,10.0639,0,,,,,

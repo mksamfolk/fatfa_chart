@@ -1,0 +1,66 @@
+balance_sheet
+,2025-12-31\nOrdinary Shares Number,44020833.0\nShare Issued,44020833.0\nTangible Book Value,-6864.0\nInvested Capital,-6864.0\nWorking Capital,-17194.0\nNet Tangible Assets,-6864.0\nCommon Stock Equity,-6864.0\nTotal Capitalization,-6864.0\nTotal Equity Gross Minority Interest,-6864.0\nStockholders Equity,-6864.0\nOther Equity Interest,-25000.0\nRetained Earnings,-6864.0\nAdditional Paid In Capital,23754.0\nCapital Stock,1246.0\nCommon Stock,1246.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,17194.0\nTotal Non Current Liabilities Net Minority Interest,0.0\nCurrent Liabilities,17194.0\nCurrent Deferred Liabilities,0.0\nCurrent Deferred Revenue,0.0\nPayables And Accrued Expenses,17194.0\nCurrent Accrued Expenses,17194.0\nTotal Assets,10330.0\nTotal Non Current Assets,10330.0\nNon Current Deferred Assets,10330.0\nCurrent Assets,0.0\nPrepaid Assets,0.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0028,100000,978999,1.0\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2026-03-31\nFree Cash Flow,-44908.0,-49734.0\nEnd Cash Position,26813.0,25002.0\nBeginning Cash Position,25002.0,0.0\nChanges In Cash,1811.0,25002.0\nFinancing Cash Flow,46719.0,74736.0\nCash Flow From Continuing Financing Activities,46719.0,74736.0\nNet Other Financing Charges,-253387.0,74736.0\nOperating Cash Flow,-44908.0,-49734.0\nCash Flow From Continuing Operating Activities,-44908.0,-49734.0\nChange In Working Capital,9358.0,-37487.0\nChange In Payables And Accrued Expense,17729.0,-6864.0\nChange In Accrued Expense,16050.0,-6864.0\nChange In Prepaid Assets,-8371.0,-30623.0\nNet Income From Continuing Operations,-70443.0,-12247.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0027200002\ninstitutionsFloatPercentHeld,0.0027200002\ninstitutionsCount,1.0\n
+news
+[\n  {\n    "uuid": "f377828e-f7e0-3bd4-bf63-04539f14eecb",\n    "title": "B&R Technology Merger Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 10, 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/b-r-technology-merger-corp-202400683.html",\n    "providerPublishTime": 1788899040,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/90cddaaed5e0e782764fe46de9c83704.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/11A52A7BDA7B3F5AC229603B3030853CAB44443387BE2E9B66968AEDB69208D3/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F90cddaaed5e0e782764fe46de9c83704.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BRTMW",\n      "BRTMU",\n      "BRTM"\n    ]\n  },\n  {\n    "uuid": "49e43ffd-52d4-3fd0-8570-d0eb90ccf707",\n    "title": "B&R Technology Merger Corp. Announces Closing of Exercise of IPO Over-Allotment Option",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/b-r-technology-merger-corp-201800447.html",\n    "providerPublishTime": 1787689080,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/3157c06354428b7b08b17292f835eee9.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/EEE0AFEA445D719B58C3F11E2A0323B683ABB6FA57F89E2F149E04DAF937CF4E/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F3157c06354428b7b08b17292f835eee9.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BRTMU",\n      "BRTMW",\n      "BRTM"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,BRTM,B&R Technology Merger Corp.,Financial Services,Shell Companies,United States,478690208,9.79,6130,87625,857848.7499999999,,,,0.0,0.0,0.0,,,1798,229047,,,,0,,38062500,34040016,0.0,0.0027200002,26,0.0,,,,,-1631.6666,,,,,,,none,,,,,,,,,2026-10-29T09:03:58.965575+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-09-10,10.00,10.25,9.78,9.86,,,,,,,0,9.7800,1,2387,,,,
+2026-09-11,9.90,9.91,9.81,9.87,,,,,,,0,9.7800,1,318,,,,
+2026-09-14,9.83,9.85,9.83,9.85,,,,,,,0,9.7800,1,142,,,,
+2026-09-15,9.80,9.87,9.80,9.87,,,,,,,0,9.7894,1,2808,,,,
+2026-09-16,9.81,9.86,9.80,9.84,,,,,,,0,9.7986,1,101,,,,
+2026-09-17,9.82,9.84,9.81,9.83,,,,,,,0,9.8000,1,315,,,,
+2026-09-18,9.82,9.83,9.80,9.80,,,,,,,0,9.8000,1,1115,,,,
+2026-09-21,9.81,9.81,9.80,9.81,,,,,,,0,9.8000,1,246,,,,
+2026-09-22,9.80,9.83,9.80,9.82,,,,,,,0,9.8000,1,3521,,,,
+2026-09-23,9.82,9.83,9.81,9.83,9.84,,,,,10.0810,0,9.8000,1,100,,,,
+2026-09-24,9.81,9.84,9.81,9.81,9.83,,,,,10.0689,0,9.8000,1,112,,,,
+2026-09-25,9.82,9.82,9.80,9.80,9.83,,,,,10.0355,0,10.2500,0,209,,,,
+2026-09-28,9.81,9.82,9.80,9.82,9.82,,,,,10.0190,0,10.2410,0,32,,,,
+2026-09-29,9.81,9.82,9.80,9.81,9.82,,,,,10.0041,0,10.2322,0,16,,,,
+2026-09-30,9.81,9.81,9.80,9.81,9.81,,,,,9.9827,0,10.2235,0,6,,,,
+2026-10-01,9.81,9.81,9.80,9.80,9.81,,,,,9.9679,0,10.2151,0,1939,,,,
+2026-10-02,9.80,9.80,9.80,9.80,9.81,,,,,9.9466,0,10.2068,0,,,,,
+2026-10-05,9.80,9.80,9.80,9.80,9.81,,,,,9.9319,0,10.1986,0,7,,,,
+2026-10-06,9.80,9.81,9.79,9.80,9.81,,,,,9.9247,0,10.1907,0,110,,,,
+2026-10-07,9.80,9.80,9.79,9.79,9.80,9.82,,,,9.9103,0,10.1746,0,12,,,,
+2026-10-08,9.80,9.80,9.79,9.79,9.80,9.82,,,,9.9017,0,10.1592,0,760,,,,
+2026-10-09,9.80,9.80,9.79,9.79,9.80,9.81,,,,9.8941,0,10.1445,0,12283,,,,
+2026-10-12,9.78,9.79,9.78,9.79,9.80,9.81,,,,9.8772,0,10.1303,0,8,,,,
+2026-10-13,9.79,9.79,9.79,9.79,9.80,9.81,,,,9.8729,0,10.1093,0,,,,,
+2026-10-14,9.79,9.79,9.79,9.79,9.79,9.80,,,,9.8647,0,10.0895,0,2939,,,,
+2026-10-15,9.79,9.79,9.79,9.79,9.79,9.80,,,,9.8572,0,10.0710,0,,,,,
+2026-10-16,9.81,9.81,9.78,9.78,9.79,9.80,,,,9.8572,0,10.0535,0,22,,,,
+2026-10-19,9.81,9.81,9.78,9.79,9.79,9.80,,,,9.8572,0,10.0371,0,24,,,,
+2026-10-20,9.78,9.79,9.78,9.78,9.79,9.80,,,,9.8524,0,10.0217,0,17,,,,
+2026-10-21,9.81,9.81,9.78,9.79,9.79,9.80,,,,9.8524,0,10.0072,0,16,,,,
+2026-10-22,9.79,9.79,9.79,9.79,9.79,9.80,,,,9.8524,0,9.9935,0,,,,,
+2026-10-23,9.79,9.79,9.79,9.79,9.79,9.79,,,,9.8464,0,9.9807,0,,,,,
+2026-10-26,9.79,9.79,9.79,9.79,9.79,9.79,,,,9.8408,0,9.9687,0,,,,,
+2026-10-27,9.78,9.79,9.78,9.79,9.79,9.79,,,,9.8337,0,9.9574,0,491,,-0.0112,-0.0145,0.0033
+2026-10-28,9.78,9.79,9.78,9.79,9.79,9.79,,,,9.8318,0,9.9467,0,30,,-0.0105,-0.0137,0.0032

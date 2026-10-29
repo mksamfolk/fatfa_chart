@@ -1,0 +1,69 @@
+balance_sheet
+,2025-12-31\nOrdinary Shares Number,18078643.0\nShare Issued,18078643.0\nNet Debt,41061.0\nTotal Debt,41061.0\nTangible Book Value,-77971.0\nInvested Capital,-36910.0\nNet Tangible Assets,-77971.0\nCommon Stock Equity,-77971.0\nTotal Capitalization,-36910.0\nTotal Equity Gross Minority Interest,-77971.0\nStockholders Equity,-77971.0\nRetained Earnings,-102971.0\nAdditional Paid In Capital,24384.0\nCapital Stock,616.0\nCommon Stock,616.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,930837.0\nTotal Non Current Liabilities Net Minority Interest,41061.0\nLong Term Debt And Capital Lease Obligation,41061.0\nLong Term Debt,41061.0\nCurrent Liabilities,889776.0\nPayables And Accrued Expenses,889776.0\nCurrent Accrued Expenses,811890.0\nPayables,77886.0\nAccounts Payable,77886.0\nTotal Assets,852866.0\nTotal Non Current Assets,852866.0\nNon Current Deferred Assets,852866.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0021,30000,297299,1.0\n
+mutualfund_holders
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0069,100000,990999,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,11266,111646,1.0\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2026-03-31\nFree Cash Flow,-6157.0,-25000.0\nEnd Cash Position,0.0,0.0\nBeginning Cash Position,0.0,0.0\nFinancing Cash Flow,6157.0,25000.0\nCash Flow From Continuing Financing Activities,6157.0,25000.0\nNet Other Financing Charges,6157.0,25000.0\nOperating Cash Flow,-6157.0,-25000.0\nCash Flow From Continuing Operating Activities,-6157.0,-25000.0\nChange In Working Capital,14610.0,5603.0\nChange In Payables And Accrued Expense,14610.0,5603.0\nNet Income From Continuing Operations,-20767.0,-30603.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.05705\ninstitutionsPercentHeld,0.0995\ninstitutionsFloatPercentHeld,0.10552\ninstitutionsCount,3.0\n
+news
+[\n  {\n    "uuid": "b1ca35b6-f113-3962-834a-840a1d05b39c",\n    "title": "Theolytics to Showcase its Innovative Oncolytic Immunotherapy Strategy – including THEO-260 in Advanced Ovarian Cancer – at Upcoming Investor and Scientific Events",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/theolytics-showcase-innovative-oncolytic-immunotherapy-080000700.html",\n    "providerPublishTime": 1789545600,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/3d046f3d9545ffedbc17b7861bab2bb1.jpg",\n          "width": 1760,\n          "height": 328,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/F41904D9B6562EFFDBC756884C58073A6F6BF15114C9C1B99E065044F1564DC7/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F3d046f3d9545ffedbc17b7861bab2bb1.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  },\n  {\n    "uuid": "8cec0288-d0b5-3dba-b000-bae9b75523d7",\n    "title": "BOA Acquisition Corp. II Announces the Separate Trading of Its Class A Ordinary Shares and Rights, Commencing on August 14, 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/boa-acquisition-corp-ii-announces-125300863.html",\n    "providerPublishTime": 1786625580,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/64bed01769012aad7f70bd316d556985.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/EA4C71A6F7DFE5F81A4BFB84D30A5FBB4558A8E2EF52DD8D6994DC553BA9B860/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F64bed01769012aad7f70bd316d556985.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "THEOU",\n      "THEO",\n      "THEOR"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,THEO,BOA Acquisition Corp. II,Financial Services,Shell Companies,United States,258793264,9.91,38580,159424,1579891.84,,,,0.0,0.0,0.0,,,,72218,,,,-60204,,14596500,14610257,0.05705,0.0995,280,0.01,,,,,-412.91666,,,,,,,none,,,,,,,,https://www.betonamerica2.com,2026-10-29T14:01:17.058499+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-08-14,9.85,9.85,9.81,9.84,,,,,,,0,9.8100,1,9223,,,,
+2026-08-17,9.84,9.84,9.83,9.84,,,,,,,0,9.8100,1,2494,,,,
+2026-08-18,9.84,9.85,9.84,9.84,,,,,,,0,9.8100,1,2242,,,,
+2026-08-19,9.84,10.00,9.84,9.85,,,,,,,0,9.8108,1,7046,,,,
+2026-08-20,9.86,9.86,9.85,9.85,,,,,,,0,9.8184,1,13819,,,,
+2026-08-21,9.86,9.87,9.85,9.87,,,,,,,0,9.8256,1,11169,,,,
+2026-08-24,9.87,9.87,9.86,9.87,,,,,,,0,9.8326,1,9765,,,,
+2026-08-25,9.87,9.87,9.86,9.86,,,,,,,0,9.8393,1,2830,,,,
+2026-08-26,9.86,9.88,9.86,9.87,,,,,,,0,9.8457,1,430,,,,
+2026-08-27,9.87,9.87,9.86,9.86,9.86,,,,,9.9550,0,9.8519,1,1557,,,,
+2026-08-28,9.87,9.87,9.86,9.86,9.86,,,,,9.9490,0,9.8578,1,365,,,,
+2026-08-31,9.88,9.88,9.86,9.86,9.86,,,,,9.9490,0,9.8600,1,1030,,,,
+2026-09-01,9.86,9.87,9.86,9.87,9.86,,,,,9.9414,0,9.8600,1,478,,,,
+2026-09-02,9.87,10.03,9.87,9.87,9.86,,,,,9.9414,0,9.8600,1,5874,,,,
+2026-09-03,9.87,9.89,9.87,9.87,9.87,,,,,9.9414,0,9.8600,1,2020,,,,
+2026-09-04,9.88,9.88,9.87,9.87,9.87,,,,,9.9414,0,9.8700,1,111,,,,
+2026-09-08,9.88,9.88,9.88,9.88,9.87,,,,,9.9414,0,9.8700,1,6955,,,,
+2026-09-09,9.88,9.88,9.88,9.88,9.87,,,,,9.9414,0,9.8700,1,52,,,,
+2026-09-10,9.89,9.89,9.88,9.88,9.87,,,,,9.9414,0,9.8796,1,90,,,,
+2026-09-11,9.89,9.89,9.88,9.88,9.87,9.86,,,,9.9414,0,9.8800,1,14,,,,
+2026-10-05,9.91,9.92,9.90,9.91,9.88,9.87,,,,9.9414,0,9.8800,1,402,,,,
+2026-10-06,9.90,9.90,9.90,9.90,9.88,9.87,,,,9.9414,0,9.8800,1,254,,,,
+2026-10-07,9.90,9.90,9.90,9.90,9.88,9.87,,,,9.9414,0,9.8890,1,896,,,,
+2026-10-08,9.90,9.90,9.90,9.90,9.89,9.88,,,,9.9414,0,9.8975,1,,,,,
+2026-10-09,9.90,9.90,9.90,9.90,9.89,9.88,,,,9.9414,0,9.9000,1,,,,,
+2026-10-12,9.90,9.91,9.90,9.91,9.89,9.88,,,,9.9414,0,9.9000,1,7,,,,
+2026-10-13,9.91,9.91,9.91,9.91,9.90,9.88,,,,9.9414,0,9.9000,1,89,,,,
+2026-10-14,9.92,9.92,9.92,9.92,9.90,9.88,,,,9.9414,0,9.9000,1,21,,,,
+2026-10-15,9.92,9.92,9.91,9.92,9.90,9.89,,,,9.9414,0,9.9078,1,3625,,,,
+2026-10-16,9.92,9.92,9.92,9.92,9.91,9.89,,,,9.9414,0,9.9100,1,,,,,
+2026-10-19,9.92,9.92,9.92,9.92,9.91,9.89,,,,9.9414,0,9.9100,1,,,,,
+2026-10-20,9.92,9.92,9.92,9.92,9.91,9.90,,,,9.9414,0,9.9172,1,,,,,
+2026-10-21,9.93,9.94,9.93,9.94,9.92,9.90,,,,9.9414,0,9.9200,1,6,,,,
+2026-10-22,9.92,9.92,9.91,9.91,9.92,9.90,,,,9.9414,0,10.0300,0,7,,0.0185,0.0194,-0.0010
+2026-10-23,9.91,9.91,9.91,9.91,9.92,9.90,,,,9.9414,0,10.0276,0,,,0.0169,0.0189,-0.0021
+2026-10-26,9.91,9.91,9.91,9.91,9.92,9.91,,,,9.9414,0,10.0252,0,,,0.0154,0.0182,-0.0028
+2026-10-27,9.91,9.91,9.91,9.91,9.92,9.91,,,,9.9393,0,10.0229,0,,,0.0141,0.0174,-0.0033
+2026-10-28,9.93,9.93,9.91,9.91,9.92,9.91,,,,9.9393,0,10.0207,0,189,,0.0129,0.0165,-0.0036
