@@ -35,8 +35,7 @@
     // Use replace() instead of href so this intermediate page isn't stored in the browser's Back button history.
     // Append the current epoch timestamp to guarantee a unique URL and bust the cache.
     window.onload = function() {
-        const cacheBuster = new Date().getTime();
-        window.location.replace(`chart.html?_t=${cacheBuster}`);
+        window.location.replace(`chart.html`);
     };
 </script>
 </body>
