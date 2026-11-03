@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0238,454675,2196080,1.0\n1,2026-06-30,Bank of Montreal /CAN/,0.0047999998,92000,444359,1.0\n2,2026-06-30,Arbiter Partners Capital Management LLC,0.0016,31193,150662,1.0\n3,2026-06-30,BNP Paribas Financial Markets,0.0013,24776,119668,1.0\n4,2026-06-30,Bank of America Corporation,0.00059999997,11600,56027,1.0\n5,2026-06-30,JPMORGAN CHASE & CO,0.0005,10249,49502,1.0\n6,2026-09-30,Gamma Investing LLC,0.0001,2557,12350,-0.45349997\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0238,454675,2273375,1.0\n1,2026-06-30,Bank of Montreal /CAN/,0.0047999998,92000,460000,1.0\n2,2026-06-30,Arbiter Partners Capital Management LLC,0.0016,31193,155965,1.0\n3,2026-06-30,BNP Paribas Financial Markets,0.0013,24776,123880,1.0\n4,2026-06-30,Bank of America Corporation,0.00059999997,11600,58000,1.0\n5,2026-06-30,JPMORGAN CHASE & CO,0.0005,10249,51245,1.0\n6,2026-09-30,Gamma Investing LLC,0.0001,2557,12785,-0.45349997\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NICM,Nicola Mining Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,92384096,4.83,5800,3415,16494.45,13.998,,,-0.43432,-2.62117,-2.52665,,-0.37706003,11455143,402953,5.943,8.34,7.851,-9168306,-6329081,19127142,14948818,0.0,0.032780003,3251,1.01,,,,22.806602,18.841516,20.078,-8.216,12.0,12.0,12.0,,none,1,0,0,1,1,,0.541,https://nicolamining.com,2026-10-29T12:12:24.175355+00:00
+0.00,NICM,Nicola Mining Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,95635712,5.0,3590,3446,17230.0,13.998,,,-0.43432,-2.62117,-2.52665,,-0.37706003,11455143,402953,5.943,8.34,7.851,-9168306,-6329081,19127142,14948818,0.0,0.032780003,3251,1.01,,,,23.60932,19.504675,20.881,-8.544,12.0,12.0,12.0,,none,1,0,0,1,1,,0.541,https://nicolamining.com,2026-10-31T18:45:01.307036+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,7.02,7.51,6.45,6.96,,,,,,,0,6.4500,1,446,,,,
 2026-04-15,9.24,10.60,6.72,8.23,,,,,,,0,6.4500,1,68385,,,,
@@ -152,3 +152,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.93,4.99,4.93,4.95,5.11,5.48,5.94,,,5.4377,0,5.8412,0,8,20,-0.3542,-0.2994,-0.0548
 2026-10-27,4.95,4.95,4.95,4.95,5.06,5.40,5.92,,,5.4377,0,5.7055,0,,20,-0.3463,-0.3088,-0.0375
 2026-10-28,4.94,4.94,4.83,4.83,5.03,5.31,5.90,,,5.4377,0,5.5860,0,13,20,-0.3457,-0.3162,-0.0295
+2026-10-29,5.43,5.43,5.43,5.43,5.04,5.26,5.90,,,5.4377,0,5.4809,0,17,20,-0.2934,-0.3116,0.0182
+2026-10-30,5.10,5.10,4.99,5.00,5.01,5.20,5.89,,,5.4377,0,5.4300,0,10,20,-0.2834,-0.3060,0.0226
+2026-11-02,4.95,5.19,4.95,5.10,5.00,5.19,5.88,,,5.4377,0,5.4300,0,3,19,-0.2644,-0.2977,0.0333

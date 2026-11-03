@@ -9,7 +9,7 @@ insider_roster_holders
 institutional_holders
 ""\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0128,200000,1997999,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0128,200000,1997999,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,16910,168930,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0128,200000,1995999,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0128,200000,1995999,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,16910,168761,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OCAC,Ocean Capital Acquisition Corporation,Financial Services,Shell Companies,United States,156376800,9.99,8520,97453,973555.47,,,,0.0,0.0,0.0,,-0.00287,171379,0,,2.273,1.702,-167937,-141170,15653333,11819988,0.24489,0.089729995,4353,0.32,0.0004,,,,-40.12048,,,,,,,none,,,,,,,,,2026-10-29T12:24:28.685755+00:00
+0.00,OCAC,Ocean Capital Acquisition Corporation,Financial Services,Shell Companies,United States,156220256,9.98,60,94414,942251.7200000001,,,,0.0,0.0,0.0,,-0.00287,171379,0,,2.273,1.702,-167937,-141170,15653333,11819988,0.24489,0.089729995,4353,0.32,0.0004,,,,-40.08032,,,,,,,none,,,,,,,,,2026-10-31T18:57:21.108133+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-03,9.90,9.90,9.75,9.89,,,,,,,0,9.7500,1,5047,,,,
 2026-08-04,9.90,9.90,9.90,9.90,,,,,,,0,9.7500,1,19814,,,,
@@ -77,3 +77,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,9.99,9.99,9.99,9.99,9.99,9.99,,,,9.9784,1,9.9967,0,,,0.0106,0.0127,-0.0021
 2026-10-28,9.99,9.99,9.99,9.99,9.99,9.99,,,,9.9796,1,9.9963,0,,,0.0101,0.0122,-0.0021
 2026-10-29,9.98,9.98,9.98,9.98,9.99,9.99,,,,9.9796,1,9.9960,0,4,,0.0088,0.0115,-0.0027
+2026-10-30,9.98,9.98,9.98,9.98,9.99,9.99,,,,9.9796,1,9.9957,0,,,0.0076,0.0107,-0.0031
+2026-11-02,9.98,9.98,9.98,9.98,9.99,9.99,9.96,,,9.9796,1,9.9954,0,1,1160,0.0067,0.0099,-0.0033

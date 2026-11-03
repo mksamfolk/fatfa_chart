@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0001,15662,29757,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,1.0\n2,2026-06-30,UBS Group AG,0.0,971,1844,-0.2061\n3,2026-06-30,Osaic Holdings Inc.,0.0,3100,5889,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0001,15662,36805,1.0\n1,2026-06-30,UBS Group AG,0.0,971,2281,-0.2061\n2,2026-06-30,Osaic Holdings Inc.,0.0,3100,7284,0.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,15,35,14.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,5327,10121,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,5327,12518,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-02-08 09:30:00-05:00,20.0\n2026-03-16 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ZJYL,Jin Medical International Ltd.,Healthcare,Medical Instruments & Supplies,China,141860496,1.9,17030,722934,1373574.5999999999,-0.097,,,0.31283,-0.07225,0.05945,0.04018,0.00501,30104324,20904288,69.337,1.952,1.61,-592867,-7487311,73663428,64844057,0.119729996,0.00027000002,49143,1.75,0.00029999999,10.0,,7.1918583,0.49044913,7.08,212.445,,,,,none,,,,,,,7.413,https://www.zhjmedical.com,2026-10-29T14:52:18.075811+00:00
+42.47,ZJYL,Jin Medical International Ltd.,Healthcare,Medical Instruments & Supplies,China,175459040,2.35,381440,779990,1832976.5,-0.097,,,0.31283,-0.07225,0.05945,0.04018,0.00501,30104324,20904288,69.337,1.952,1.61,-592867,-7487311,73663428,64844057,0.119729996,0.00027000002,49143,1.75,0.00029999999,12.368421,,8.895193,0.6066081,8.869,266.137,,,,,none,,,,,,,7.413,https://www.zhjmedical.com,2026-10-31T21:15:41.900524+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-28,8.00,10.29,7.55,7.95,,,,,,,0,10.2900,0,2548,,,,
 2023-03-29,7.80,7.93,7.40,7.93,,,,,,,0,10.2900,0,653,,,,
@@ -915,3 +915,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.93,2.04,1.93,1.94,2.06,2.07,2.34,2.29,2.58,2.5368,0,2.2132,0,5,2290,-0.0922,-0.0969,0.0046
 2026-10-27,1.95,2.06,1.90,1.99,2.05,2.07,2.34,2.28,2.57,2.5210,0,2.1834,0,63,2291,-0.0909,-0.0957,0.0048
 2026-10-28,1.97,2.09,1.86,1.90,2.04,2.05,2.34,2.28,2.56,2.5210,0,2.1559,0,42,2292,-0.0962,-0.0958,-0.0004
+2026-10-29,1.91,1.91,1.86,1.86,2.01,2.04,2.34,2.27,2.55,2.4035,0,2.1306,0,3,2291,-0.1025,-0.0971,-0.0054
+2026-10-30,1.90,2.83,1.83,2.35,2.03,2.06,2.35,2.27,2.54,2.4035,0,1.8400,1,8610,2464,-0.0671,-0.0911,0.0240
+2026-11-02,2.33,2.42,2.07,2.20,2.04,2.07,2.35,2.26,2.53,2.4035,0,1.8300,1,194,2467,-0.0506,-0.0830,0.0324

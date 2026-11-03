@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.00059999997,12966,186840,1.0\n1,2026-06-30,Quadrature Capital Ltd,0.0005,11331,163279,1.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0005,12073,173971,0.0292\n3,2026-06-30,UBS Group AG,0.0001,2133,30736,-0.39630002\n4,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,28,403,1.0\n5,2026-06-30,JPMORGAN CHASE & CO,0.0,264,3804,1.0\n6,2026-06-30,BNP Paribas Financial Markets,0.0,34,489,-0.9423\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.00059999997,12966,192545,1.0\n1,2026-06-30,Quadrature Capital Ltd,0.0005,11331,168265,1.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0005,12073,179284,0.0292\n3,2026-06-30,UBS Group AG,0.0001,2133,31675,-0.39630002\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,264,3920,1.0\n5,2026-06-30,BNP Paribas Financial Markets,0.0,34,504,-0.9423\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,26,386,-0.0714\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,14257,205443,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,14257,211716,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AGCC,Agencia Comercial Spirits Ltd,Consumer Defensive,Beverages - Wineries & Distilleries,Taiwan,616553472,14.41,9580,25070,361258.7,2.741,-0.64,-0.428,0.30431998,0.06262,0.09819,0.10357001,0.0305,15824906,16733650,169.577,1.531,1.087,-7498413,-8163628,42786500,3123573,0.79845,0.00091,40148,2.31,0.0016,360.25,,99.345116,29.05242,53.054,404.699,,,,,none,,,,,,,,https://www.agcctw.com,2026-10-29T08:17:18.017167+00:00
+93.15,AGCC,Agencia Comercial Spirits Ltd,Consumer Defensive,Beverages - Wineries & Distilleries,Taiwan,635379520,14.85,5570,21693,322141.05,2.741,-0.64,-0.428,0.30431998,0.06262,0.09819,0.10357001,0.0305,15824906,16733650,169.577,1.531,1.087,-7498413,-8163628,42786500,3123573,0.79845,0.00091,40148,2.31,0.0016,371.25003,,102.378555,29.939518,54.669,417.023,,,,,none,,,,,,,,https://www.agcctw.com,2026-10-31T13:56:39.949237+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-22,3.82,8.25,3.66,6.05,,,,,,,0,3.6600,1,12860,,,,
 2025-10-23,4.60,4.80,3.90,4.01,,,,,,,0,3.6600,1,1672,,,,
@@ -270,3 +270,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,14.60,14.84,14.60,14.84,15.28,14.94,14.85,15.81,14.58,13.2871,1,13.6213,1,21,479,0.1143,0.1457,-0.0314
 2026-10-27,14.69,15.01,14.69,14.76,15.22,14.99,14.84,15.82,14.60,13.2871,1,13.7788,1,96,450,0.0776,0.1321,-0.0545
 2026-10-28,14.85,14.85,14.41,14.41,15.14,15.01,14.83,15.82,14.62,13.2871,1,13.9301,1,226,382,0.0200,0.1096,-0.0896
+2026-10-29,14.49,15.23,14.49,15.23,15.16,15.08,14.83,15.82,14.65,13.2871,1,14.0753,1,32,349,0.0405,0.0958,-0.0553
+2026-10-30,15.03,15.03,14.81,14.85,15.04,15.14,14.83,15.80,14.67,13.2871,1,14.2147,1,15,327,0.0254,0.0817,-0.0563
+2026-11-02,14.90,14.90,14.53,14.53,14.93,15.12,14.81,15.77,14.69,13.2871,1,14.3485,1,250,314,-0.0119,0.0630,-0.0749

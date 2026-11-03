@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0022,72780,76418,1.0\n1,2026-06-30,Independent Advisor Alliance,0.0008,25582,26861,-0.1542\n2,2026-06-30,"Geode Capital Management, LLC",0.0004,12104,12709,0.0\n3,2026-06-30,UBS Group AG,0.0,251,263,-0.2156\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0022,72780,69330,1.0\n1,2026-06-30,Independent Advisor Alliance,0.0008,25582,24369,-0.1542\n2,2026-09-30,"Vise Technologies, Inc.                          ",0.00059999997,18617,17734,1.0\n3,2026-06-30,"Geode Capital Management, LLC",0.0004,12104,11530,0.0\n4,2026-06-30,UBS Group AG,0.0,251,239,-0.2156\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,12104,12709,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,12104,11530,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.53960997\ninstitutionsPercentHeld,0.00336\ninstitutionsFloatPercentHeld,0.0073100002\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.53960997\ninstitutionsPercentHeld,0.00393\ninstitutionsFloatPercentHeld,0.00853\ninstitutionsCount,5.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-61.22,YIBO,Planet Image International Limited,Technology,Computer Hardware,China,62195928,1.05,2430,4378,4596.900000000001,-0.07,,,0.27534,-0.03078,-0.00835,-0.02165,-0.01298,30034000,56144000,97.489,1.681,1.322,-17718000,-32066624,32918421,18970944,0.53960997,0.00336,22766,8.02,0.0017,,,0.4145953,1.0802468,0.581,-59.306,,,,,none,,,,,,,3.086,https://www.yibomk.com,2026-10-29T14:49:14.404355+00:00
+47.63,YIBO,Planet Image International Limited,Technology,Computer Hardware,China,56426520,0.9526,4550,4321,4116.1846,-0.07,,,0.27534,-0.03078,-0.00835,-0.02165,-0.01298,30034000,56144000,97.489,1.681,1.322,-17718000,-32066624,32918421,18970944,0.53960997,0.00393,22766,8.02,0.0017,,,0.3761367,0.98004115,0.55,-56.186,,,,,none,,,,,,,3.086,https://www.yibomk.com,2026-10-31T21:12:48.774010+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-25,4.00,4.00,2.40,2.79,,,,,,,0,4.0000,0,2443,,,,
 2024-01-26,2.96,2.96,1.86,2.72,,,,,,,0,4.0000,0,1051,,,,
@@ -707,4 +707,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.10,1.10,0.98,1.10,1.10,1.11,1.19,1.07,1.05,1.2096,0,1.2160,0,2,53,-0.0310,-0.0309,-0.0001
 2026-10-27,1.09,1.10,1.02,1.02,1.09,1.10,1.18,1.07,1.05,1.2096,0,1.2113,0,2,53,-0.0346,-0.0317,-0.0029
 2026-10-28,1.10,1.10,1.03,1.03,1.08,1.09,1.18,1.07,1.05,1.2096,0,1.2067,0,2,10,-0.0362,-0.0326,-0.0036
-2026-10-29,1.10,1.17,1.05,1.15,1.08,1.09,1.18,1.07,1.05,1.2096,0,1.2021,0,4,6,-0.0275,-0.0315,0.0041
+2026-10-29,1.09,1.17,0.91,1.04,1.07,1.08,1.18,1.07,1.05,1.2096,0,1.2021,0,15,6,-0.0362,-0.0333,-0.0029
+2026-10-30,1.06,1.06,0.92,0.95,1.05,1.07,1.17,1.07,1.05,1.2096,0,1.1906,0,10,5,-0.0428,-0.0352,-0.0076
+2026-11-02,1.00,1.05,0.98,1.05,1.04,1.07,1.17,1.07,1.05,1.2096,0,1.1795,0,4,6,-0.0397,-0.0361,-0.0036

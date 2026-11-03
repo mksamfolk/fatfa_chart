@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0011,50000,495499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0011,50000,496500,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BCCQ,Bleichroeder Acquisition Corp. III,Financial Services,Shell Companies,United States,455860000,9.91,22580,178201,1765971.91,,,,0.0,0.0,0.0,,,,205447,,,,,,34500000,,0.33333,0.00271,8480,0.09,,,,,-3303.3333,,,,,,,none,,,,,,,,,2026-10-29T08:49:12.828091+00:00
+0.00,BCCQ,Bleichroeder Acquisition Corp. III,Financial Services,Shell Companies,United States,456780000,9.93,28420,174137,1729180.41,,,,0.0,0.0,0.0,,,,205447,,,,,,34500000,,0.33333,0.00271,8480,0.09,,,,,-3310.0,,,,,,,none,,,,,,,,,2026-10-31T14:29:42.610506+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-03,9.93,10.00,9.75,9.93,,,,,,,0,9.7500,1,237,,,,
 2026-08-04,9.93,9.93,9.93,9.93,,,,,,,0,9.7500,1,,,,,
@@ -76,4 +76,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.90,9.91,9.90,9.91,9.93,9.95,,,,9.8709,1,9.8871,1,35,,-0.0062,0.0030,-0.0092
 2026-10-27,9.91,9.92,9.90,9.90,9.93,9.94,,,,9.8709,1,9.8918,1,368,,-0.0083,0.0007,-0.0090
 2026-10-28,9.91,9.92,9.90,9.91,9.92,9.94,,,,9.8709,1,9.8964,1,348,,-0.0091,-0.0012,-0.0078
-2026-10-29,9.91,9.93,9.91,9.93,9.92,9.94,,,,9.8709,1,9.9000,1,620,,-0.0080,-0.0026,-0.0054
+2026-10-29,9.91,9.94,9.91,9.94,9.92,9.94,,,,9.8709,1,9.9000,1,702,,-0.0072,-0.0024,-0.0047
+2026-10-30,9.93,9.93,9.93,9.93,9.92,9.93,,,,9.8709,1,9.9000,1,255,,-0.0064,-0.0032,-0.0032
+2026-11-02,9.93,9.94,9.93,9.94,9.92,9.93,9.94,,,9.8754,1,9.9044,1,56,1894,-0.0049,-0.0035,-0.0013

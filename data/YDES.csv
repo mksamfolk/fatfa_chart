@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CHANG KOCHI,Director,,Conversion of Exercise of derivative security,2026-09-30,10965,2026-09-30\n1,LU SHAO-TA,Director,,Conversion of Exercise of derivative security,2026-09-30,62116,2026-09-30\n2,SHEN ETHAN,Chief Executive Officer,,Purchase,2026-09-14,54379200,2026-09-14\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Garrett Wealth Advisory Group, LLC",0.0011999999,84630,557711,0.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00090000004,62714,413285,0.041100003\n2,2026-06-30,"Cypress Capital Management, LLC (WY)",0.0005,33690,222017,0.097799994\n3,2026-06-30,Cerity Partners LLC,0.0005,32406,213555,0.0\n4,2026-06-30,Citadel Advisors Llc,0.0004,30106,198398,0.5479\n5,2026-06-30,"Jane Street Group, LLC",0.00029999999,21423,141177,1.0\n6,2026-06-30,UBS Group AG,0.0002,12384,81610,0.065\n7,2026-06-30,"Wolverine Asset Management, LLC",0.0001,4886,32198,0.0\n8,2026-06-30,Morgan Stanley,0.0,160,1054,-0.2825\n9,2026-06-30,"SkyView Investment Advisors, LLC",0.0,1777,11710,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Garrett Wealth Advisory Group, LLC",0.0011999999,84630,502702,0.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00090000004,62714,372521,0.041100003\n2,2026-06-30,"Cypress Capital Management, LLC (WY)",0.0005,33690,200118,0.097799994\n3,2026-06-30,Cerity Partners LLC,0.0005,32406,192491,0.0\n4,2026-06-30,Citadel Advisors Llc,0.0004,30106,178829,0.5479\n5,2026-06-30,"Jane Street Group, LLC",0.00029999999,21423,127252,1.0\n6,2026-06-30,UBS Group AG,0.0002,12384,73560,0.065\n7,2026-06-30,"Wolverine Asset Management, LLC",0.0001,4886,29022,0.0\n8,2026-06-30,Morgan Stanley,0.0,160,950,-0.2825\n9,2026-06-30,"SkyView Investment Advisors, LLC",0.0,1777,10555,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,44942,296167,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,44942,266955,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.01,YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan,466778560,6.59,131680,302546,1993778.14,3.149,,,0.29601,-3.8212,0.24672002,,,2662004,5002,0.112,5.231,2.699,-7256446,,70831346,16193257,0.8022,0.00401,192222,0.4,0.0117,,,376.64362,104.60317,356.84,-69.732,,,,,none,,,,,,,-0.157,https://www.ydesgroup.com,2026-10-29T14:48:26.627187+00:00
+89.99,YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan,420738176,5.94,123460,304181,1806835.1400000001,3.149,,,0.29601,-3.8212,0.24672002,,,2662004,5002,0.112,5.231,2.699,-7256446,,70831346,16193257,0.8022,0.00401,192222,0.4,0.0117,,,339.49362,94.28571,337.405,-65.934,,,,,none,,,,,,,-0.157,https://www.ydesgroup.com,2026-10-31T21:12:10.959184+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-26,11.00,13.36,11.00,13.36,,,,,,,0,11.0000,1,29,,,,
 2025-08-27,12.00,12.00,12.00,12.00,,,,,,,0,11.0000,1,13,,,,
@@ -310,4 +310,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.96,5.43,4.85,5.29,5.73,5.57,4.19,4.54,6.18,7.6657,0,7.7997,0,316,788,0.3051,0.5202,-0.2151
 2026-10-27,5.30,6.15,5.10,6.04,5.73,5.66,4.27,4.52,6.14,7.6657,0,7.6531,0,285,793,0.3274,0.4816,-0.1542
 2026-10-28,6.04,6.50,5.92,6.28,5.72,5.78,4.35,4.51,6.12,7.6657,0,7.5124,0,1783,827,0.3603,0.4574,-0.0970
-2026-10-29,6.31,6.60,6.05,6.41,5.69,5.90,4.43,4.50,6.09,7.6657,0,7.3773,0,262,831,0.3928,0.4445,-0.0517
+2026-10-29,6.31,6.60,5.80,5.87,5.63,5.88,4.42,4.49,6.08,7.6657,0,7.3773,0,565,837,0.3493,0.4358,-0.0865
+2026-10-30,5.99,6.10,5.67,5.94,5.63,5.97,4.49,4.48,6.05,7.6657,0,7.2476,0,281,842,0.3423,0.4171,-0.0748
+2026-11-02,5.90,6.34,5.69,5.97,5.62,5.92,4.57,4.47,6.02,7.6657,0,7.1231,0,1076,863,0.3353,0.4007,-0.0654

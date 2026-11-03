@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0753,1980000,19879199,0.0\n1,2026-06-30,Sona Asset Management (US) LLC,0.070300005,1850000,18573999,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0665,1749993,17569929,0.0\n3,2026-06-30,Linden Advisors LP,0.0608,1600000,16063999,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0476,1252000,12570079,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0428,1125000,11294999,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0327,859830,8632693,0.0\n7,2026-06-30,Alberta Investment Management Corp,0.0323,850000,8533999,0.0\n8,2026-06-30,"Aristeia Capital, LLC",0.03,787763,7909140,0.0\n9,2026-06-30,Millennium Management Llc,0.024,630000,6325199,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0753,1980000,19918800,0.0\n1,2026-06-30,Sona Asset Management (US) LLC,0.070300005,1850000,18611000,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0665,1749993,17604930,0.0\n3,2026-06-30,Linden Advisors LP,0.0608,1600000,16096000,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0476,1252000,12595120,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0428,1125000,11317500,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0327,859830,8649890,0.0\n7,2026-06-30,Alberta Investment Management Corp,0.0323,850000,8551000,0.0\n8,2026-06-30,"Aristeia Capital, LLC",0.03,787763,7924896,0.0\n9,2026-06-30,Millennium Management Llc,0.024,630000,6337800,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0038,99999,1003989,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4217,42338,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0038,99999,1005989,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4217,42423,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SORN,Soren Acquisition Corp.,Financial Services,Shell Companies,United States,348722688,10.04,73520,29878,299975.12,,,,0.0,0.0,0.0,,,1798910,0,,0.048,,0,,26300000,20720170,0.0,0.82197,4833,0.1,0.0002,,,,200.8,,,,,,,none,,,,,,,,https://sorenacq.com,2026-10-29T13:40:54.739095+00:00
+0.00,SORN,Soren Acquisition Corp.,Financial Services,Shell Companies,United States,349417376,10.06,73400,29881,300602.86,,,,0.0,0.0,0.0,,,1798910,0,,0.048,,0,,26300000,20720170,0.0,0.82197,4833,0.1,0.0002,,,,201.20001,,,,,,,none,,,,,,,,https://sorenacq.com,2026-10-31T20:08:00.406853+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-27,9.88,9.88,9.88,9.88,,,,,,,0,9.8800,1,40,,,,
 2026-03-02,9.97,9.97,9.86,9.86,,,,,,,0,9.9700,0,43,,,,
@@ -183,3 +183,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.04,10.04,10.04,10.04,10.04,10.03,9.99,9.94,,10.0349,1,9.9745,1,,161,0.0177,0.0187,-0.0010
 2026-10-27,10.04,10.04,10.04,10.04,10.04,10.03,9.99,9.94,,10.0349,1,9.9813,1,,160,0.0168,0.0183,-0.0016
 2026-10-28,10.04,10.04,10.04,10.04,10.04,10.03,9.99,9.94,,10.0349,1,9.9876,1,,160,0.0158,0.0178,-0.0020
+2026-10-29,10.04,10.04,10.04,10.04,10.05,10.04,9.99,9.94,,10.0349,1,9.9934,1,,160,0.0149,0.0172,-0.0023
+2026-10-30,10.06,10.06,10.06,10.06,10.05,10.04,9.99,9.94,,10.0371,1,9.9987,1,2,160,0.0156,0.0169,-0.0013

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,44063,11465,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.001,37375,9724,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0008,29153,7585,1.0\n3,2026-06-30,"Shaw D.E. & Co., Inc.",0.0008,29152,7585,0.0\n4,2026-06-30,"Geode Capital Management, LLC",0.00029999999,10314,2683,1.0\n5,2026-06-30,"Two Sigma Securities, LLC",0.00029999999,12123,3154,1.0\n6,2026-06-30,"Radcliffe Capital Management, L.P.",0.00029999999,10514,2735,0.0\n7,2026-06-30,Citigroup Inc.,0.0001,2107,548,-0.9114\n8,2026-06-30,UBS Group AG,0.0001,2732,710,-0.8686\n9,2026-06-30,Clear Street Group Inc.,0.0,247,64,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,44063,10196,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.001,37375,8648,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0008,29153,6746,1.0\n3,2026-06-30,"Shaw D.E. & Co., Inc.",0.0008,29152,6745,0.0\n4,2026-06-30,"Geode Capital Management, LLC",0.00029999999,10314,2386,1.0\n5,2026-06-30,"Two Sigma Securities, LLC",0.00029999999,12123,2805,1.0\n6,2026-06-30,"Radcliffe Capital Management, L.P.",0.00029999999,10514,2432,0.0\n7,2026-06-30,Citigroup Inc.,0.0001,2107,487,-0.9114\n8,2026-06-30,UBS Group AG,0.0001,2732,632,-0.8686\n9,2026-06-30,Clear Street Group Inc.,0.0,247,57,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,10314,2683,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,10314,2386,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.57,HPAI,Helport AI Limited,Technology,Software - Infrastructure,Singapore,9795726,0.2602,102940,670180,174380.83599999998,0.077,,,0.53262,-0.19055,-0.02437,-0.05212,-0.0429,760077,6047426,33.67,1.047,1.04,10185930,-3984079,37646910,8047284,0.78501,0.00472,24945,0.11,0.0014,,,0.271254,0.55717343,0.43,,,,,,none,,,,,,,-0.05,https://www.helport.ai,2026-10-29T10:54:40.456432+00:00
+4.41,HPAI,Helport AI Limited,Technology,Software - Infrastructure,Singapore,8711495,0.2314,82900,679731,157289.7534,0.077,,,0.53262,-0.19055,-0.02437,-0.05212,-0.0429,760077,6047426,33.67,1.047,1.04,10185930,-3984079,37646910,8047284,0.78501,0.00472,24945,0.11,0.0014,,,0.24123049,0.4955032,0.4,,,,,,none,,,,,,,-0.05,https://www.helport.ai,2026-10-31T16:59:10.708599+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-05,12.00,14.74,6.21,8.43,,,,,,,0,14.7400,0,2011,,,,
 2024-08-06,7.08,7.88,5.69,7.05,,,,,,,0,14.7400,0,1418,,,,
@@ -575,4 +575,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.30,0.32,0.25,0.27,0.30,0.31,0.40,1.03,1.63,0.3869,0,0.4891,0,72,260,-0.0342,-0.0365,0.0023
 2026-10-27,0.27,0.28,0.26,0.28,0.30,0.30,0.39,1.01,1.61,0.3750,0,0.4844,0,52,260,-0.0333,-0.0359,0.0025
 2026-10-28,0.26,0.29,0.25,0.26,0.29,0.30,0.39,1.00,1.59,0.3750,0,0.4797,0,16,260,-0.0338,-0.0355,0.0016
-2026-10-29,0.26,0.26,0.26,0.26,0.29,0.30,0.38,0.98,1.57,0.3556,0,0.4705,0,3,260,-0.0339,-0.0351,0.0013
+2026-10-29,0.28,0.28,0.25,0.25,0.28,0.30,0.38,0.98,1.57,0.3672,0,0.4705,0,8,260,-0.0347,-0.0353,0.0006
+2026-10-30,0.25,0.26,0.23,0.23,0.28,0.29,0.38,0.96,1.55,0.3443,0,0.4617,0,16,260,-0.0364,-0.0355,-0.0009
+2026-11-02,0.25,0.25,0.23,0.23,0.27,0.29,0.37,0.94,1.53,0.3374,0,0.4478,0,3,259,-0.0371,-0.0358,-0.0012

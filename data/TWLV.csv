@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1350000,13607999,0.0\n1,2026-06-30,Linden Advisors LP,0.0507,900000,9071999,0.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.045100003,800000,8063999,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.045100003,800000,8063999,0.0\n4,2026-06-30,AQR Arbitrage LLC,0.0427,757538,7635982,0.018099999\n5,2026-06-30,Alberta Investment Management Corp,0.033800002,600000,6047999,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.033800002,600000,6047999,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.033800002,600000,6047999,0.0\n8,2026-06-30,"RiverNorth Capital Management, LLC",0.028199999,500000,5039999,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.028199999,500000,5039999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1350000,13635000,0.0\n1,2026-06-30,Linden Advisors LP,0.0507,900000,9090000,0.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.045100003,800000,8080000,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.045100003,800000,8080000,0.0\n4,2026-06-30,AQR Arbitrage LLC,0.0427,757538,7651134,0.018099999\n5,2026-06-30,Alberta Investment Management Corp,0.033800002,600000,6060000,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.033800002,600000,6060000,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.033800002,600000,6060000,0.0\n8,2026-06-30,"RiverNorth Capital Management, LLC",0.028199999,500000,5050000,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.028199999,500000,5050000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0105,186000,1874879,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0056,100000,1007999,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0016,28462,286896,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3129,31540,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0105,186000,1878600,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0056,100000,1010000,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0016,28462,287466,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3129,31602,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TWLV,Twelve Seas Investment Company III,Financial Services,Shell Companies,United States,236250000,10.08,98250,41940,422755.2,,,,0.0,0.0,0.0,,,391972,0,,3.036,2.367,-530341,,17745000,16095000,0.0,0.85300004,1247,0.05,0.0001,72.0,,,-36.38989,,,,,,,none,,,,,,,,https://twelveseasspac.com,2026-10-29T14:14:29.124592+00:00
+0.00,TWLV,Twelve Seas Investment Company III,Financial Services,Shell Companies,United States,236718752,10.1,100900,42746,431734.6,,,,0.0,0.0,0.0,,,391972,0,,3.036,2.367,-530341,,17745000,16095000,0.0,0.85300004,1247,0.05,0.0001,72.14286,,,-36.462093,,,,,,,none,,,,,,,,https://twelveseasspac.com,2026-10-31T20:39:59.527066+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-09,9.87,9.99,9.85,9.87,,,,,,,0,9.9900,0,892,,,,
 2026-01-12,9.86,9.86,9.84,9.84,,,,,,,0,9.9900,0,406,,,,
@@ -216,3 +216,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.07,10.08,10.07,10.08,10.07,10.07,10.05,9.98,,10.0627,1,10.1220,0,7309,477,0.0045,0.0053,-0.0009
 2026-10-27,10.08,10.08,10.08,10.08,10.07,10.07,10.05,9.98,,10.0690,1,10.1208,0,,475,0.0051,0.0053,-0.0002
 2026-10-28,10.06,10.08,10.06,10.08,10.07,10.07,10.05,9.99,,10.0690,1,10.1196,0,31,476,0.0055,0.0053,0.0002
+2026-10-29,10.08,10.12,10.08,10.12,10.07,10.07,10.06,9.99,,10.0737,1,10.0600,1,1272,501,0.0089,0.0060,0.0029
+2026-10-30,10.10,10.10,10.10,10.10,10.08,10.07,10.06,9.99,,10.0737,1,10.0600,1,10,487,0.0099,0.0068,0.0031
+2026-11-02,10.10,10.10,10.10,10.10,10.08,10.07,10.06,9.99,,10.0737,1,10.0612,1,18,487,0.0106,0.0076,0.0030

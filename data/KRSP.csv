@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KRSP,Rice Acquisition Corporation 3,Financial Services,Shell Companies,United States,481187200,10.46,37100,55432,579818.7200000001,,,,0.0,0.0,0.0,,,2224033,0,,13.033,12.149,-801437,,34502500,26848497,7e-05,0.68955004,24395,0.21,0.0007,,,,-33.96104,,,,,,,none,,,,,,,,https://ricespac.com/rac-iii,2026-10-29T11:27:43.320207+00:00
+0.00,KRSP,Rice Acquisition Corporation 3,Financial Services,Shell Companies,United States,481187200,10.46,20690,50656,529861.76,,,,0.0,0.0,0.0,,,2224033,0,,13.033,12.149,-801437,,34502500,26848497,7e-05,0.68955004,24395,0.21,0.0007,,,,-33.96104,,,,,,,none,,,,,,,,https://ricespac.com/rac-iii,2026-10-31T17:59:42.895059+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-24,10.70,10.70,10.35,10.40,,,,,,,0,10.7000,0,668,,,,
 2025-11-25,10.35,10.45,10.35,10.41,,,,,,,0,10.7000,0,79,,,,
@@ -247,4 +247,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.40,10.55,10.40,10.48,10.47,10.52,10.53,10.44,10.42,10.6003,0,10.7172,0,155,273,-0.0273,-0.0181,-0.0092
 2026-10-27,10.51,10.51,10.46,10.46,10.46,10.52,10.53,10.44,10.42,10.6003,0,10.7101,0,82,275,-0.0273,-0.0199,-0.0074
 2026-10-28,10.48,10.48,10.46,10.46,10.46,10.51,10.53,10.44,10.42,10.6003,0,10.7031,0,8,275,-0.0269,-0.0213,-0.0056
-2026-10-29,10.48,10.48,10.46,10.46,10.46,10.51,10.53,10.44,10.42,10.6003,0,10.6962,0,8,274,-0.0264,-0.0223,-0.0040
+2026-10-29,10.48,10.48,10.46,10.47,10.46,10.51,10.53,10.44,10.42,10.6003,0,10.6962,0,23,274,-0.0256,-0.0222,-0.0034
+2026-10-30,10.48,10.48,10.46,10.46,10.46,10.50,10.53,10.44,10.42,10.6003,0,10.6895,0,5,200,-0.0250,-0.0227,-0.0023
+2026-11-02,10.48,10.46,10.41,10.41,10.46,10.50,10.52,10.44,10.42,10.6003,0,10.6829,0,270,204,-0.0281,-0.0238,-0.0043

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23889599,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22679999,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0573,2000000,20159999,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15119999,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,15109919,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13103999,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10079999,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9276472,-0.39169997\n8,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8614126,0.2208\n9,2026-06-30,BNP Paribas Financial Markets,0.023599999,822359,8289378,3.3929\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23700000,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22500000,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0573,2000000,20000000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15000000,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,14990000,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13000000,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10000000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9202850,-0.39169997\n8,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8545760,0.2208\n9,2026-06-30,BNP Paribas Financial Markets,0.023599999,822359,8223590,3.3929\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,21183,213524,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,21183,211830,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,438681600,10.08,256290,90375,910980.0,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01132,0.80952,3681,0.04,0.0001,,,,-38.62069,,,,,,,none,,,,,,,,,2026-10-29T11:02:46.182323+00:00
+0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,435200000,10.0,229440,90225,902250.0,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01132,0.80952,3681,0.04,0.0001,,,,-38.314175,,,,,,,none,,,,,,,,,2026-10-31T17:34:32.261361+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-10,10.05,10.05,10.00,10.00,,,,,,,0,10.0000,1,23,,,,
 2026-03-11,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,11,,,,
@@ -176,3 +176,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.02,10.06,10.00,10.06,10.05,10.12,10.18,,,10.0881,0,10.0848,0,30,985,-0.0450,-0.0400,-0.0050
 2026-10-27,10.06,10.06,10.06,10.06,10.05,10.11,10.18,,,10.0881,0,10.0695,0,,911,-0.0429,-0.0406,-0.0023
 2026-10-28,10.08,10.08,10.08,10.08,10.05,10.10,10.18,,,10.0881,0,10.0000,1,2,891,-0.0392,-0.0403,0.0011
+2026-10-29,10.08,10.08,10.08,10.08,10.06,10.10,10.18,,,10.0881,0,10.0016,1,,870,-0.0358,-0.0394,0.0036
+2026-10-30,10.08,10.08,10.08,10.08,10.06,10.09,10.17,,,10.0881,0,10.0032,1,,870,-0.0327,-0.0381,0.0053

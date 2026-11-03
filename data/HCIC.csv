@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HCIC,Hennessy Capital Investment Corp. VIII,Financial Services,Shell Companies,United States,354424864,9.98,20490,23078,230318.44,,,,0.0,0.0,0.0,,,654636,0,,0.003,0.003,-20840,,24821000,22259871,0.02703,0.78525,2453,0.08,0.0001,,,,-75.60606,,,,,,,none,,,,,,,,https://hennessycapital8.com,2026-10-29T10:48:50.091799+00:00
+0.00,HCIC,Hennessy Capital Investment Corp. VIII,Financial Services,Shell Companies,United States,354424864,9.98,7340,23506,234589.88,,,,0.0,0.0,0.0,,,654636,0,,0.003,0.003,-20840,,24821000,22259871,0.02703,0.78525,2453,0.08,0.0001,,,,-75.60606,,,,,,,none,,,,,,,,https://hennessycapital8.com,2026-10-31T16:37:27.463204+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-30,9.91,9.91,9.87,9.87,,,,,,,0,9.9100,0,341,,,,
 2026-03-31,9.80,9.83,9.79,9.83,,,,,,,0,9.9100,0,276,,,,
@@ -162,3 +162,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.98,9.98,9.98,9.98,9.99,10.00,9.99,,,9.9998,0,10.0321,0,2,193,-0.0032,0.0003,-0.0035
 2026-10-27,9.98,9.98,9.98,9.98,9.98,10.00,9.99,,,9.9995,0,10.0310,0,3,193,-0.0038,-0.0005,-0.0033
 2026-10-28,9.98,9.98,9.98,9.98,9.98,10.00,9.99,,,9.9976,0,10.0300,0,,193,-0.0041,-0.0012,-0.0029
+2026-10-29,9.99,9.99,9.98,9.98,9.98,10.00,9.99,,,9.9976,0,10.0290,0,14,193,-0.0044,-0.0019,-0.0026
+2026-10-30,9.98,9.98,9.98,9.98,9.98,9.99,9.99,,,9.9969,0,10.0280,0,49,193,-0.0046,-0.0024,-0.0022
+2026-11-02,9.98,9.98,9.98,9.98,9.98,9.99,9.99,,,9.9952,0,10.0271,0,66,195,-0.0046,-0.0028,-0.0018

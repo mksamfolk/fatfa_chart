@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.00029999999,246,455,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0001,50,92,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.00029999999,246,376,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0001,50,76,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-22 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.33,DKI,Darkiris Inc.,Communication Services,Electronic Gaming & Multimedia,Hong Kong,110870,1.85,1302720,322243,596149.55,0.139,,,0.25976,-0.32338002,-1.0598301,-3.13278,-1.3358,472948,0,,1.191,0.899,-1681022,3083665,51333,14920,0.06397,0.028970001,34310,0.08,0.6846,,,0.010263149,0.009533527,-0.039,0.038,,,,,none,,,,,,,,https://www.darkiris.com,2026-10-29T09:50:25.466412+00:00
+97.21,DKI,Darkiris Inc.,Communication Services,Electronic Gaming & Multimedia,Hong Kong,91692,1.53,1351237,404564,618982.92,0.139,,,0.25976,-0.32338002,-1.0598301,-3.13278,-1.3358,472948,0,,1.191,0.899,-1681022,3083665,51333,14920,0.06397,0.028970001,34310,0.08,0.6846,,,0.008487856,0.007884485,-0.04,0.039,,,,,none,,,,,,,,https://www.darkiris.com,2026-10-31T15:32:30.265899+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-08,8.80,15.00,4.90,5.48,,,,,,,0,15.0000,0,10933,,,,
 2025-08-11,4.26,4.79,3.70,3.92,,,,,,,0,15.0000,0,3514,,,,
@@ -321,5 +321,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,2.07,2.19,1.82,2.16,1.44,1.68,2.99,2.95,2.32,0.7547,1,0.2905,1,3090,5096,-0.2973,-0.5330,0.2357
 2026-10-26,1.93,1.97,1.81,1.94,1.62,1.64,2.94,2.96,2.32,0.7547,1,0.3467,1,462,5105,-0.2658,-0.4795,0.2138
 2026-10-27,1.83,1.89,1.65,1.85,1.79,1.59,2.90,2.97,2.33,0.7547,1,0.4017,1,410,5113,-0.2452,-0.4327,0.1875
-2026-10-28,1.95,2.30,1.82,1.85,1.97,1.54,2.85,2.98,2.34,0.7547,1,0.4557,1,2066,5150,-0.2263,-0.3914,0.1651
-2026-10-29,2.07,2.25,1.94,2.02,2.17,1.52,2.81,2.99,2.35,0.7547,1,0.5086,1,7834,5301,-0.1953,-0.3522,0.1569
+2026-10-28,1.95,2.30,1.82,1.85,1.97,1.54,2.85,2.98,2.34,0.7547,1,0.4557,1,2233,5154,-0.2263,-0.3914,0.1651
+2026-10-29,2.07,2.25,1.91,2.14,2.18,1.52,2.81,2.99,2.35,0.7547,1,0.5086,1,9327,5334,-0.1858,-0.3503,0.1645
+2026-10-30,1.94,1.94,1.33,1.53,2.07,1.47,2.76,2.99,2.35,0.7547,1,0.5604,1,763,5349,-0.2006,-0.3203,0.1198
+2026-11-02,1.52,1.57,1.43,1.48,1.96,1.46,2.70,3.00,2.36,0.7547,1,0.6112,1,161,5352,-0.2138,-0.2990,0.0852

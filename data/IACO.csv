@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0643,2250000,22488749,1.0\n1,2026-06-30,"MMCAP International, Inc. SPC",0.05,1750000,17491249,1.0\n2,2026-06-30,Linden Advisors LP,0.05,1750000,17491249,1.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.048600003,1700000,16991499,1.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0421,1472601,14718646,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0414,1447895,14471710,1.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0359,1256541,12559127,1.0\n7,2026-06-30,Magnetar Financial LLC,0.0357,1249995,12493699,1.0\n8,2026-06-30,Millennium Management Llc,0.0286,1000000,9994999,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0229,800000,7995999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0643,2250000,22500000,1.0\n1,2026-06-30,"MMCAP International, Inc. SPC",0.05,1750000,17500000,1.0\n2,2026-06-30,Linden Advisors LP,0.05,1750000,17500000,1.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.048600003,1700000,17000000,1.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0421,1472601,14726010,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0414,1447895,14478950,1.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0359,1256541,12565410,1.0\n7,2026-06-30,Magnetar Financial LLC,0.0357,1249995,12499950,1.0\n8,2026-06-30,Millennium Management Llc,0.0286,1000000,10000000,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0229,800000,8000000,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0123000005,430560,4303447,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,69438,694032,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0123000005,430560,4305600,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,69438,694380,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IACO,Idea Acquisition Corp.,Financial Services,Shell Companies,United States,437281248,9.995,200100,65169,651364.1549999999,,,,0.0,0.0,0.0,,,1168048,250689,,,,0,,35000000,32749938,0.0,0.72993,987,0.01,,,,,-33.540268,,,,,,,none,,,,,,,,,2026-10-29T10:59:51.885321+00:00
+0.00,IACO,Idea Acquisition Corp.,Financial Services,Shell Companies,United States,437500000,10.0,146450,66951,669510.0,,,,0.0,0.0,0.0,,,1168048,250689,,,,0,,35000000,32749938,0.0,0.72993,987,0.01,,,,,-33.557045,,,,,,,none,,,,,,,,,2026-10-31T17:22:08.162266+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-06,9.83,9.83,9.82,9.82,,,,,,,0,9.8300,0,201,,,,
 2026-04-07,9.80,9.82,9.78,9.82,,,,,,,0,9.8300,0,251,,,,
@@ -158,3 +158,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.01,10.01,10.01,10.01,10.00,9.99,9.98,,,9.9878,1,9.9806,1,,736,0.0069,0.0067,0.0002
 2026-10-27,9.99,9.99,9.99,9.99,10.00,9.99,9.98,,,9.9878,1,9.9812,1,150,738,0.0057,0.0065,-0.0008
 2026-10-28,10.00,10.00,10.00,10.00,10.00,10.00,9.98,,,9.9878,1,9.9818,1,25,735,0.0056,0.0063,-0.0008
+2026-10-29,10.00,10.02,10.00,10.02,10.00,10.00,9.98,,,9.9878,1,9.9823,1,526,745,0.0070,0.0065,0.0005
+2026-10-30,10.00,10.00,10.00,10.00,10.00,10.00,9.98,,,9.9878,1,9.9838,1,9,745,0.0064,0.0065,-0.0001
+2026-11-02,10.00,10.00,10.00,10.00,10.00,10.00,9.98,,,9.9878,1,9.9853,1,351,752,0.0059,0.0063,-0.0005

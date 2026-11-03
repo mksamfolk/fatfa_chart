@@ -9,7 +9,7 @@ insider_roster_holders
 institutional_holders
 ""\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Contrafund,0.014199999,940228,14883809,1.0\n1,2026-08-31,Fidelity Select Portfolios-Select Biotechnology Portfolio,0.0072000003,480316,7603402,1.0\n2,2026-08-31,Fidelity Select Portfolios-Select Health Care Portfolio,0.0032,212500,3363874,1.0\n3,2026-08-31,Fidelity Contrafund-Fidelity Contrafund K6,0.003,199400,3156501,1.0\n4,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Biotechnology Fund,0.0029,191400,3029861,1.0\n5,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Health Care Fund,0.0016,105200,1665315,1.0\n6,2026-08-31,Fidelity Rutland Square TRT II-Strategic Advisers Fidelity U.S. Total ,0.0011999999,78500,1242654,1.0\n7,2026-08-31,Variable Insurance Products Fund II-VIP Contrafund Portfolio,0.0008,53700,850070,1.0\n8,2026-08-31,Fidelity Contrafund-Fidelity Advisor New Insights Fund,0.0007,49200,778835,1.0\n9,2026-08-31,Variable Insurance Products Fund IV-VIP Health Care Portfolio,0.00059999997,38700,612620,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Contrafund,0.014199999,940228,13116180,1.0\n1,2026-08-31,Fidelity Select Portfolios-Select Biotechnology Portfolio,0.0072000003,480316,6700408,1.0\n2,2026-08-31,Fidelity Select Portfolios-Select Health Care Portfolio,0.0032,212500,2964374,1.0\n3,2026-08-31,Fidelity Contrafund-Fidelity Contrafund K6,0.003,199400,2781629,1.0\n4,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Biotechnology Fund,0.0029,191400,2670029,1.0\n5,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Health Care Fund,0.0016,105200,1467539,1.0\n6,2026-08-31,Fidelity Rutland Square TRT II-Strategic Advisers Fidelity U.S. Total ,0.0011999999,78500,1095074,1.0\n7,2026-08-31,Variable Insurance Products Fund II-VIP Contrafund Portfolio,0.0008,53700,749114,1.0\n8,2026-08-31,Fidelity Contrafund-Fidelity Advisor New Insights Fund,0.0007,49200,686339,1.0\n9,2026-08-31,Variable Insurance Products Fund IV-VIP Health Care Portfolio,0.00059999997,38700,539864,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,4,0,0,0\n1,-1m,0,4,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LTGO,Latigo Biotherapeutics Inc.,Healthcare,Biotechnology,United States,1049518656,15.83,183800,343762,5441752.46,,,,0.0,0.0,0.0,,,55003000,31250000,249.96,1.148,1.066,-103191000,,66299347,21742871,0.04977,0.80727,785880,1.91,,,-7.574163,,-0.05666402,,-11.718,52.25,73.0,36.0,1.0,strong_buy,4,0,0,0,0,2026-11-12,,https://latigobio.com,2026-10-29T11:41:29.190005+00:00
+0.00,LTGO,Latigo Biotherapeutics Inc.,Healthcare,Biotechnology,United States,924875904,13.95,174560,338268,4718838.6,,,,0.0,0.0,0.0,,,55003000,31250000,249.96,1.148,1.066,-103191000,,66299347,21742871,0.04977,0.80727,785880,1.91,,,-6.674641,,-0.049934495,,-10.607,52.25,73.0,36.0,,none,4,0,0,0,0,2026-11-12,,https://latigobio.com,2026-10-31T18:13:55.565965+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-07,21.00,22.47,18.19,18.25,,,,,,,0,22.4700,0,60256,,,,
 2026-08-10,18.10,19.00,17.22,18.56,,,,,,,0,22.4700,0,11106,,,,
@@ -87,4 +87,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,15.14,15.49,14.24,15.26,15.12,15.69,19.34,,,18.0424,0,13.8874,1,2522,5694,-1.0715,-1.2893,0.2179
 2026-10-27,15.33,15.86,15.00,15.21,15.07,15.55,19.26,,,18.0424,0,14.0387,1,2496,5678,-1.0206,-1.2356,0.2150
 2026-10-28,15.27,16.06,15.14,15.83,15.25,15.50,19.18,,,18.0424,0,14.1839,1,2968,5635,-0.9196,-1.1724,0.2528
-2026-10-29,16.00,16.74,15.71,16.13,15.39,15.48,19.08,,,18.0424,0,14.3234,1,356,5569,-0.8061,-1.0991,0.2931
+2026-10-29,16.00,16.74,15.44,15.54,15.33,15.45,19.07,,,18.0424,0,14.3234,1,2202,5606,-0.8531,-1.1085,0.2554
+2026-10-30,15.65,15.70,13.66,13.95,15.33,15.35,18.92,,,18.0424,0,17.6700,0,3016,5631,-0.9182,-1.0705,0.1523
+2026-11-02,15.02,15.02,13.28,13.51,15.25,15.19,18.74,,,18.0424,0,17.5898,0,3901,5621,-0.9938,-1.0551,0.0613

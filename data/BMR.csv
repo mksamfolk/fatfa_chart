@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CARMEL SHARON,Chief Executive Officer,,Purchase,2026-07-22,3650840,2026-07-22\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0061000003,94006,125968,2.0675\n1,2026-06-30,"Renaissance Technologies, LLC",0.0029,44800,60032,-0.0044\n2,2026-06-30,Citadel Advisors Llc,0.0025,39163,52478,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0016,24892,33355,-0.3432\n4,2026-06-30,"Jane Street Group, LLC",0.0011999999,17878,23956,1.0\n5,2026-09-30,"SignatureFD, LLC",0.0011999999,18400,24656,0.0\n6,2026-06-30,Regions Financial Corporation,0.001,15000,20100,0.0\n7,2026-06-30,Stonex Group Inc.,0.0008,12630,16924,1.0\n8,2026-06-30,Peak6 LLC,0.00059999997,10000,13400,0.0\n9,2026-06-30,"FMR, LLC",0.00059999997,9499,12728,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0061000003,94006,107636,2.0675\n1,2026-06-30,"Renaissance Technologies, LLC",0.0029,44800,51295,-0.0044\n2,2026-06-30,Citadel Advisors Llc,0.0025,39163,44841,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0016,24892,28501,-0.3432\n4,2026-06-30,"Jane Street Group, LLC",0.0011999999,17878,20470,1.0\n5,2026-09-30,"SignatureFD, LLC",0.0011999999,18400,21067,0.0\n6,2026-06-30,Regions Financial Corporation,0.001,15000,17174,0.0\n7,2026-06-30,Stonex Group Inc.,0.0008,12630,14461,1.0\n8,2026-06-30,Peak6 LLC,0.00059999997,10000,11449,0.0\n9,2026-06-30,"FMR, LLC",0.00059999997,9499,10876,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,7991,10707,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,7991,9149,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.07,BMR,Beamr Imaging Ltd.,Technology,Software - Application,Israel,20810006,1.34,47480,58032,77762.88,-0.172,,,0.89449996,-5.02149,-2.48763,-0.48400003,-0.29135,7736000,0,,8.078,7.774,-5968000,-3434250,15529854,10827570,0.30279,0.01984,323744,5.38,0.0272,,-3.6216216,7.1512046,1.781915,4.493,-1.807,5.0,5.0,5.0,,none,1,,,,,,3.761,https://beamr.com,2026-10-29T08:59:03.153104+00:00
+20.44,BMR,Beamr Imaging Ltd.,Technology,Software - Application,Israel,17781684,1.145,50410,58689,67198.905,-0.172,,,0.89449996,-5.02149,-2.48763,-0.48400003,-0.29135,7736000,0,,8.078,7.774,-5968000,-3434250,15529854,10827570,0.30279,0.01984,323744,5.38,0.0272,,-3.0945945,6.110544,1.5226064,3.452,-1.389,5.0,5.0,5.0,,none,1,,,,,,3.761,https://beamr.com,2026-10-31T14:40:04.318295+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-28,3.94,3.96,3.40,3.65,,,,,,,0,3.9600,0,3000,,,,
 2023-03-01,3.69,3.69,3.03,3.30,,,,,,,0,3.9600,0,261,,,,
@@ -935,4 +935,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.41,1.41,1.29,1.32,1.56,1.53,1.37,1.56,1.63,1.6988,0,1.8096,0,70,97,0.0213,0.0655,-0.0442
 2026-10-27,1.34,1.37,1.32,1.35,1.52,1.53,1.38,1.56,1.63,1.6738,0,1.7577,0,33,97,0.0080,0.0540,-0.0460
 2026-10-28,1.35,1.38,1.31,1.34,1.49,1.53,1.38,1.56,1.63,1.6618,0,1.7109,0,44,97,-0.0033,0.0425,-0.0458
-2026-10-29,1.42,1.42,1.35,1.36,1.45,1.54,1.38,1.55,1.63,1.6618,0,1.6688,0,17,96,-0.0105,0.0319,-0.0424
+2026-10-29,1.42,1.42,1.28,1.30,1.44,1.53,1.38,1.55,1.63,1.6618,0,1.6688,0,50,96,-0.0153,0.0310,-0.0463
+2026-10-30,1.29,1.29,1.12,1.14,1.39,1.52,1.38,1.55,1.62,1.5530,0,1.6222,0,169,99,-0.0369,0.0174,-0.0543
+2026-11-02,1.15,1.15,1.07,1.07,1.34,1.50,1.38,1.54,1.62,1.4472,0,1.5519,0,81,98,-0.0594,0.0021,-0.0614

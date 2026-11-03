@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.056199998,473675,4206234,-0.0533\n1,2026-06-30,"Wolverine Asset Management, LLC",0.047,395741,3514180,0.0683\n2,2026-06-30,Glazer Capital LLC,0.044899996,378222,3358611,0.0\n3,2026-06-30,"Westchester Capital Management, LLC",0.0421,354923,3151716,0.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.042,353786,3141619,0.0\n5,2026-06-30,Mizuho Securities USA LLC,0.040700004,343123,3046932,0.669\n6,2026-06-30,AQR Arbitrage LLC,0.0381,321056,2850977,0.0195\n7,2026-06-30,"Aristeia Capital, LLC",0.0368,310000,2752800,0.0\n8,2026-06-30,"RiverNorth Capital Management, LLC",0.0356,300000,2664000,0.0\n9,2026-06-30,Berkley W R Corp,0.0345,290563,2580199,0.47709998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.056199998,473675,4049921,-0.0533\n1,2026-06-30,"Wolverine Asset Management, LLC",0.047,395741,3383585,0.0683\n2,2026-06-30,Glazer Capital LLC,0.044899996,378222,3233798,0.0\n3,2026-06-30,"Westchester Capital Management, LLC",0.0421,354923,3034591,0.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.042,353786,3024870,0.0\n5,2026-06-30,Mizuho Securities USA LLC,0.040700004,343123,2933701,0.669\n6,2026-06-30,AQR Arbitrage LLC,0.0381,321056,2745028,0.0195\n7,2026-06-30,"Aristeia Capital, LLC",0.0368,310000,2650500,0.0\n8,2026-06-30,"RiverNorth Capital Management, LLC",0.0356,300000,2565000,0.0\n9,2026-06-30,Berkley W R Corp,0.0345,290563,2484313,0.47709998\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0273,230004,2042435,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0119,100000,888000,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0081,68552,608741,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0053,44378,394076,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,6890,61183,0.0\n5,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,2472,21951,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0273,230004,1966534,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0119,100000,855000,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0081,68552,586119,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0053,44378,379431,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,6890,58909,0.0\n5,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,2472,21135,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALIS,Goodvision AI Holding Limited,Financial Services,Shell Companies,United States,74836200,8.88,20280,43144,383118.72000000003,,,,0.0,0.0,0.0,3.8968399,-0.01863,232017,0,,3.046,2.349,-513416,-450586,8427500,6235002,0.33483002,0.66013,158874,2.42,0.0255,126.85715,,,370.0,,,,,,,none,,,,,,,,https://www.calisaspac.com,2026-10-29T08:23:22.574298+00:00
+0.00,ALIS,Goodvision AI Holding Limited,Financial Services,Shell Companies,United States,72055128,8.55,21290,44137,377371.35000000003,,,,0.0,0.0,0.0,3.8968399,-0.01863,232017,0,,3.046,2.349,-513416,-450586,8427500,6235002,0.33483002,0.66013,158874,2.42,0.0255,122.14286,,,356.25,,,,,,,none,,,,,,,,https://www.calisaspac.com,2026-10-31T14:02:49.526815+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-19,9.90,9.92,9.90,9.92,,,,,,,0,9.9200,0,147,,,,
 2025-11-20,9.91,9.92,9.90,9.90,,,,,,,0,9.9200,0,4730,,,,
@@ -250,4 +250,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,8.02,8.90,7.90,8.20,8.60,9.50,9.92,10.02,10.01,11.3752,0,12.5350,0,131,469,-0.4751,-0.3596,-0.1155
 2026-10-27,8.00,9.08,8.00,8.41,8.65,9.40,9.88,10.01,10.00,11.3752,0,12.3414,0,173,471,-0.4799,-0.3837,-0.0962
 2026-10-28,8.17,9.06,8.17,8.88,8.69,9.33,9.86,10.00,10.00,11.3752,0,12.1556,0,194,475,-0.4407,-0.3951,-0.0456
-2026-10-29,8.58,8.58,8.44,8.44,8.64,9.24,9.82,9.99,9.99,11.3752,0,11.9772,0,40,472,-0.4404,-0.4042,-0.0363
+2026-10-29,8.78,9.65,8.34,8.65,8.66,9.25,9.83,9.99,9.99,11.3752,0,11.9772,0,170,475,-0.4233,-0.4007,-0.0225
+2026-10-30,8.65,8.65,6.27,8.55,8.63,9.16,9.79,9.98,9.98,11.0444,0,11.8059,0,180,477,-0.4128,-0.4031,-0.0097
+2026-11-02,7.61,9.00,7.56,8.80,8.60,9.08,9.77,9.98,9.98,11.0444,0,11.4737,0,70,479,-0.3799,-0.3985,0.0186

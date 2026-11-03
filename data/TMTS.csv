@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0857,1970838,19728088,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18018000,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0478,1099995,11010950,1.0\n3,2026-06-30,Linden Advisors LP,0.041300002,950000,9509500,1.0\n4,2026-06-30,"Harraden Circle Investments, LLC",0.031600002,726100,7268261,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0308,708792,7095008,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.026099999,600000,6006000,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,600000,6006000,1.0\n8,2026-06-30,Glazer Capital LLC,0.0239,550100,5506501,1.0\n9,2026-06-30,Sculptor Capital LP,0.0217,500000,5005000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0857,1970838,19760409,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18047519,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0478,1099995,11028989,1.0\n3,2026-06-30,Linden Advisors LP,0.041300002,950000,9525079,1.0\n4,2026-06-30,"Harraden Circle Investments, LLC",0.031600002,726100,7280168,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0308,708792,7106631,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.026099999,600000,6015839,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,600000,6015839,1.0\n8,2026-06-30,Glazer Capital LLC,0.0239,550100,5515522,1.0\n9,2026-06-30,Sculptor Capital LP,0.0217,500000,5013199,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0056,128670,1287986,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1000990,1.0\n2,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,400389,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,20544,205645,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0056,128670,1290096,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1002629,1.0\n2,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,401045,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,20544,205982,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,306973344,10.01,308080,104470,1045744.7,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.78011,901,0.01,,,,,-270.54056,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-10-29T14:05:08.941151+00:00
+0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,307476256,10.0264,202820,96895,971508.028,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.78011,901,0.01,,,,,-270.98376,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-10-31T20:30:38.778122+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-02,9.95,9.95,9.91,9.92,,,,,,,0,9.9500,0,308,,,,
 2026-04-06,9.91,9.94,9.90,9.94,,,,,,,0,9.9500,0,8671,,,,
@@ -159,4 +159,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.02,10.02,10.02,10.02,10.01,10.02,10.05,,,10.0003,1,10.0615,0,,1263,-0.0118,-0.0139,0.0020
 2026-10-27,10.02,10.02,10.02,10.02,10.01,10.02,10.05,,,10.0023,1,10.0586,0,,1233,-0.0106,-0.0132,0.0027
 2026-10-28,10.02,10.02,10.02,10.02,10.01,10.02,10.05,,,10.0041,1,10.0559,0,,1223,-0.0094,-0.0125,0.0030
-2026-10-29,10.03,10.03,10.03,10.03,10.01,10.02,10.05,,,10.0101,1,10.0533,0,1,1223,-0.0079,-0.0116,0.0036
+2026-10-29,10.03,10.03,10.03,10.03,10.01,10.02,10.05,,,10.0127,1,10.0533,0,2,1223,-0.0077,-0.0115,0.0038
+2026-10-30,10.03,10.03,10.03,10.03,10.02,10.01,10.05,,,10.0144,1,10.0507,0,,1223,-0.0062,-0.0104,0.0043

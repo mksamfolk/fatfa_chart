@@ -1,0 +1,33 @@
+balance_sheet
+,2025-12-31,2024-12-31\nTangible Book Value,-49170000.0,-13548000.0\nInvested Capital,-49170000.0,-13548000.0\nWorking Capital,84484000.0,448000.0\nNet Tangible Assets,-49170000.0,-13548000.0\nCommon Stock Equity,-49170000.0,-13548000.0\nTotal Capitalization,-49170000.0,-13548000.0\nTotal Equity Gross Minority Interest,-49170000.0,-13548000.0\nStockholders Equity,-49170000.0,-13548000.0\nGains Losses Not Affecting Retained Earnings,60000.0,0.0\nOther Equity Adjustments,60000.0,\nRetained Earnings,-54828000.0,-13741000.0\nAdditional Paid In Capital,5598000.0,193000.0\nCapital Stock,0.0,0.0\nCommon Stock,0.0,0.0\nTotal Liabilities Net Minority Interest,144883000.0,23312000.0\nTotal Non Current Liabilities Net Minority Interest,135235000.0,13996000.0\nPreferred Securities Outside Stock Equity,135235000.0,13996000.0\nCurrent Liabilities,9648000.0,9316000.0\nPensionand Other Post Retirement Benefit Plans Current,789000.0,209000.0\nPayables And Accrued Expenses,8859000.0,9107000.0\nCurrent Accrued Expenses,6954000.0,9094000.0\nPayables,1905000.0,13000.0\nAccounts Payable,1905000.0,13000.0\nTotal Assets,95713000.0,9764000.0\nTotal Non Current Assets,1581000.0,0.0\nOther Non Current Assets,1581000.0,\nCurrent Assets,94132000.0,9764000.0\nOther Current Assets,583000.0,94000.0\nPrepaid Assets,1040000.0,275000.0\nReceivables,1882000.0,33000.0\nOther Receivables,1097000.0,\nTaxes Receivable,785000.0,33000.0\nCash Cash Equivalents And Short Term Investments,90627000.0,9362000.0\nOther Short Term Investments,39984000.0,0.0\nCash And Cash Equivalents,50643000.0,9362000.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2025-12-31,2024-12-31\nTax Effect Of Unusual Items,-116087.8,0.0\nTax Rate For Calcs,0.2557,0.0\nNormalized EBITDA,-40242000.0,-13880000.0\nTotal Unusual Items,-454000.0,\nTotal Unusual Items Excluding Goodwill,-454000.0,\nNet Income From Continuing Operation Net Minority Interest,-41087000.0,-13741000.0\nEBITDA,-40696000.0,-13880000.0\nEBIT,-40696000.0,-13880000.0\nNet Interest Income,2171000.0,131000.0\nInterest Income,2171000.0,131000.0\nNormalized Income,-40749087.8,-13741000.0\nNet Income From Continuing And Discontinued Operation,-41087000.0,-13741000.0\nTotal Expenses,40696000.0,13880000.0\nTotal Operating Income As Reported,-44006000.0,-13880000.0\nDiluted Average Shares,21439565.0,23380436.0\nBasic Average Shares,21439565.0,23380436.0\nDiluted EPS,-1.92,-0.587714\nBasic EPS,-1.92,-0.587714\nDiluted NI Availto Com Stockholders,-41087000.0,-13741000.0\nNet Income Common Stockholders,-41087000.0,-13741000.0\nNet Income,-41087000.0,-13741000.0\nNet Income Including Noncontrolling Interests,-41087000.0,-13741000.0\nNet Income Continuous Operations,-41087000.0,-13741000.0\nTax Provision,2233000.0,0.0\nPretax Income,-38854000.0,-13741000.0\nOther Income Expense,-329000.0,8000.0\nOther Non Operating Income Expenses,125000.0,8000.0\nGain On Sale Of Security,-454000.0,\nNet Non Operating Interest Income Expense,2171000.0,131000.0\nInterest Income Non Operating,2171000.0,131000.0\nOperating Income,-40696000.0,-13880000.0\nOperating Expense,40696000.0,13880000.0\nOther Operating Expenses,-3310000.0,\nResearch And Development,38096000.0,13025000.0\nSelling General And Administration,5910000.0,855000.0\nGeneral And Administrative Expense,5910000.0,855000.0\nOther Gand A,5910000.0,855000.0\nTotal Revenue,0.0,0.0\nOperating Revenue,0.0,0.0\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+""\n
+news
+[\n  {\n    "uuid": "eaebbfac-c083-311b-b388-c11c30572d7b",\n    "title": "Bambusa Therapeutics Announces Pricing of Upsized Initial Public Offering",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bambusa-therapeutics-announces-pricing-upsized-001500195.html",\n    "providerPublishTime": 1793319300,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/666ec3c007da6585f8afe962c477a0dc.jpg",\n          "width": 400,\n          "height": 110,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/31AFB3FA3457335530232C12F53880C9D5585FC1C042C66747B2FB1630DBCF12/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F666ec3c007da6585f8afe962c477a0dc.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BBTX"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,BBTX,Bambusa Therapeutics Inc. Common stock,Healthcare,Biotechnology,United States,745930496,14.99,2200100,2200100,32979499.0,,,,0.0,0.0,0.0,,,71475000,0,,6.16,5.948,-40901000,,49761875,3525886,,,,,,,,,-1.6920645,,,,,,,none,,,,,,,,https://www.bambusatx.com,2026-10-31T14:28:55.592299+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-30,14.88,15.66,13.60,14.99,,,,,,,,13.6000,1,32979,,,,
+2026-11-02,14.97,16.06,14.82,16.00,,,,,,,,13.6000,1,6907,,,,

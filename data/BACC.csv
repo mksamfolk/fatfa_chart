@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,BLUE HOLDINGS SPONSOR L.L.C.,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2025-06-16,391000,1750032000\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Sona Asset Management (US) LLC,0.16610001,3342359,34961075,0.0\n1,2026-06-30,LMR Partners LLP,0.0952,1915455,20035659,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0868,1747389,18277689,0.1703\n3,2026-06-30,"Harraden Circle Investments, LLC",0.0529,1064723,11137002,1.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.049099997,988054,10335044,0.0\n5,2026-06-30,Magnetar Financial LLC,0.0398,800000,8368000,-0.3326\n6,2026-06-30,Linden Advisors LP,0.0385,775000,8106500,0.0\n7,2026-06-30,Alberta Investment Management Corp,0.0348,700000,7322000,0.0\n8,2026-06-30,Millennium Management Llc,0.023,462093,4833492,0.3061\n9,2026-06-30,Davidson Kempner Capital Management LP,0.0228,459832,4809842,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Sona Asset Management (US) LLC,0.16610001,3342359,34994499,0.0\n1,2026-06-30,LMR Partners LLP,0.0952,1915455,20054814,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0868,1747389,18295163,0.1703\n3,2026-06-30,"Harraden Circle Investments, LLC",0.0529,1064723,11147650,1.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.049099997,988054,10344925,0.0\n5,2026-06-30,Magnetar Financial LLC,0.0398,800000,8376000,-0.3326\n6,2026-06-30,Linden Advisors LP,0.0385,775000,8114250,0.0\n7,2026-06-30,Alberta Investment Management Corp,0.0348,700000,7329000,0.0\n8,2026-06-30,Millennium Management Llc,0.023,462093,4838113,0.3061\n9,2026-06-30,Davidson Kempner Capital Management LP,0.0228,459832,4814441,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,16861,176366,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,12886,134787,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,16861,176534,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,12886,134916,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.49,BACC,Blue Acquisition Corp.,Financial Services,Shell Companies,United States,292484224,10.46,533660,158120,1653935.2000000002,,0.33,2.832,0.0,0.0,0.0,,,201861,0,,0.142,0.092,-1113695,,20892250,13887129,0.01872,0.8464,40,0.0,0.0,,,,-32.484474,,,15.0,15.0,15.0,,none,1,,,,,,,https://www.blueacorp.com,2026-10-29T08:46:10.519664+00:00
+0.00,BACC,Blue Acquisition Corp.,Financial Services,Shell Companies,United States,292763872,10.47,484080,159770,1672791.9000000001,,0.33,2.832,0.0,0.0,0.0,,,201861,0,,0.142,0.092,-1113695,,20892250,13887129,0.01872,0.8464,40,0.0,0.0,,,,-32.51553,,,15.0,15.0,15.0,,none,1,,,,,,,https://www.blueacorp.com,2026-10-31T14:26:34.263002+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-04,10.04,10.04,9.95,9.95,,,,,,,0,9.9500,1,728,,,,
 2025-08-05,9.97,9.97,9.95,9.97,,,,,,,0,9.9500,1,8040,,,,
@@ -326,4 +326,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.47,10.48,10.45,10.46,10.44,10.46,10.48,10.42,10.37,10.4873,0,10.4124,1,97,1716,-0.0136,-0.0174,0.0038
 2026-10-27,10.46,10.47,10.46,10.47,10.44,10.46,10.48,10.42,10.37,10.4873,0,10.4148,1,163,1699,-0.0113,-0.0162,0.0049
 2026-10-28,10.47,10.47,10.46,10.46,10.44,10.45,10.48,10.42,10.37,10.4873,0,10.4171,1,166,1671,-0.0097,-0.0149,0.0052
-2026-10-29,10.46,10.46,10.46,10.46,10.45,10.45,10.48,10.42,10.37,10.4873,0,10.4193,1,5,1648,-0.0084,-0.0136,0.0052
+2026-10-29,10.46,10.49,10.46,10.46,10.45,10.45,10.48,10.42,10.37,10.4873,0,10.4193,1,84,1650,-0.0084,-0.0136,0.0052
+2026-10-30,10.47,10.48,10.43,10.47,10.45,10.45,10.48,10.42,10.37,10.4873,0,10.4215,1,1157,1665,-0.0064,-0.0122,0.0057

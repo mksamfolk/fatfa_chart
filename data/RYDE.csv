@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,ZOU JUNMING TERENCE,Chief Executive Officer,,Sale,2026-05-18,0,2026-05-18\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0026,71976,42462,3.0004\n1,2026-06-30,Xtx Topco Ltd,0.0026,72540,42794,0.46\n2,2026-06-30,HRT Financial LP,0.002,54291,32028,-0.5189\n3,2026-06-30,"Arlington Capital Management, Inc.",0.00059999997,16790,9905,0.0\n4,2026-06-30,"SG Americas Securities, LLC",0.0005,14832,8750,1.0\n5,2026-06-30,"Renaissance Technologies, LLC",0.0005,14653,8644,1.0\n6,2026-06-30,"Jane Street Group, LLC",0.0005,12946,7637,-0.90589994\n7,2026-09-30,"Wealth Analytics Partners, LLC",0.0004,10000,5899,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0026,71976,41026,3.0004\n1,2026-06-30,Xtx Topco Ltd,0.0026,72540,41347,0.46\n2,2026-06-30,HRT Financial LP,0.002,54291,30945,-0.5189\n3,2026-06-30,"Arlington Capital Management, Inc.",0.00059999997,16790,9570,0.0\n4,2026-06-30,"SG Americas Securities, LLC",0.0005,14832,8454,1.0\n5,2026-06-30,"Renaissance Technologies, LLC",0.0005,14653,8352,1.0\n6,2026-06-30,"Jane Street Group, LLC",0.0005,12946,7379,-0.90589994\n7,2026-09-30,"Wealth Analytics Partners, LLC",0.0004,10000,5699,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-75.76,RYDE,,Technology,Software - Application,Singapore,106324512,0.58995,141720,445170,262628.0415,-0.022,,,0.26844,-3.91596,-1.94886,-0.96769,-0.50805,39679000,20000,0.039,9.598,9.566,-24179000,-8276625,150049131,96306101,0.31349,0.00179,803529,0.87,0.0054,,-10.821372,7.879976,2.486806,4.492,-2.368,,,,,none,,,,,,,3.001,https://rydesharing.com,2026-10-29T13:15:46.691259+00:00
+65.48,RYDE,,Technology,Software - Application,Singapore,102728992,0.57,102630,409942,233666.93999999997,-0.022,,,0.26844,-3.91596,-1.94886,-0.96769,-0.50805,39679000,20000,0.039,9.598,9.566,-24179000,-8276625,150049131,96306101,0.31349,0.00179,803529,0.87,0.0054,,-10.455431,7.6135025,2.402711,4.241,-2.236,,,,,none,,,,,,,3.001,https://rydesharing.com,2026-10-31T19:47:46.635040+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-06,3.70,5.00,3.55,4.00,,,,,,,0,3.5500,1,10758,,,,
 2024-03-07,4.12,4.69,4.05,4.50,,,,,,,0,3.5500,1,1736,,,,
@@ -679,4 +679,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.66,0.68,0.61,0.62,0.68,0.67,0.73,0.81,0.68,0.8817,0,0.5307,1,53,167,-0.0183,-0.0173,-0.0010
 2026-10-27,0.61,0.67,0.58,0.60,0.67,0.67,0.73,0.81,0.68,0.8817,0,0.5365,1,62,167,-0.0222,-0.0183,-0.0039
 2026-10-28,0.58,0.61,0.58,0.59,0.66,0.66,0.73,0.81,0.69,0.8505,0,0.5422,1,6,166,-0.0259,-0.0198,-0.0061
-2026-10-29,0.59,0.67,0.58,0.67,0.65,0.66,0.73,0.81,0.69,0.8505,0,0.5478,1,22,166,-0.0222,-0.0203,-0.0019
+2026-10-29,0.58,0.67,0.58,0.61,0.65,0.66,0.73,0.81,0.69,0.8505,0,0.5478,1,23,166,-0.0266,-0.0212,-0.0055
+2026-10-30,0.57,0.61,0.55,0.57,0.64,0.66,0.73,0.81,0.69,0.8327,0,0.8200,0,21,165,-0.0304,-0.0230,-0.0074
+2026-11-02,0.63,0.65,0.63,0.64,0.63,0.65,0.72,0.81,0.69,0.8327,0,0.8146,0,21,132,-0.0274,-0.0239,-0.0035

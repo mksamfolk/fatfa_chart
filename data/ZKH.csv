@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Canada Pension Plan Investment Board,0.08189999,10618516,16352514,0.0\n1,2026-06-30,FIL LTD,0.066,8563528,13187832,0.0563\n2,2026-06-30,Boundless Plain Holdings Ltd,0.0185,2397979,3692887,0.0\n3,2026-06-30,Marshall Wace LLP,0.0025,326472,502766,1.0\n4,2026-06-30,"Renaissance Technologies, LLC",0.001,133400,205435,0.48389998\n5,2026-06-30,"Arrowstreet Capital, Limited Partnership",0.0008,99679,153505,1.0\n6,2026-06-30,Acadian Asset Management. LLC,0.0005,62153,95715,2.1556\n7,2026-06-30,Citadel Advisors Llc,0.0005,65999,101638,-0.005\n8,2026-06-30,Invesco Ltd.,0.0005,68948,106179,-0.1031\n9,2026-06-30,Oasis Management Co Ltd.,0.0004,50000,76999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Canada Pension Plan Investment Board,0.08189999,10618516,17414366,0.0\n1,2026-06-30,FIL LTD,0.066,8563528,14044185,0.0563\n2,2026-06-30,Boundless Plain Holdings Ltd,0.0185,2397979,3932685,0.0\n3,2026-06-30,Marshall Wace LLP,0.0025,326472,535414,1.0\n4,2026-06-30,"Renaissance Technologies, LLC",0.001,133400,218775,0.48389998\n5,2026-06-30,"Arrowstreet Capital, Limited Partnership",0.0008,99679,163473,1.0\n6,2026-06-30,Acadian Asset Management. LLC,0.0005,62153,101930,2.1556\n7,2026-06-30,Citadel Advisors Llc,0.0005,65999,108238,-0.005\n8,2026-06-30,Invesco Ltd.,0.0005,68948,113074,-0.1031\n9,2026-06-30,Oasis Management Co Ltd.,0.0004,50000,81999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.0005,67012,103198,-0.028099999\n1,2026-09-30,SPDR INDEX SHARES FUNDS-State Street SPDR S&P China ETF,0.0001,11221,17280,0.0097\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.0005,67012,109899,-0.028099999\n1,2026-09-30,SPDR INDEX SHARES FUNDS-State Street SPDR S&P China ETF,0.0001,11221,18402,0.0097\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,3,0,0,0\n1,-1m,0,3,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.38,ZKH,ZKH Group Limited,Consumer Cyclical,Internet Retail,China,242966016,1.54,103550,261687,402997.98,0.128,,,0.16627,0.00164,-0.00031,-0.00099,-0.00774,1634621056,400803008,13.839,1.772,1.513,,,128187426,90672395,0.18096,0.26152,10436,0.06,0.0001,30.8,6.2412305,0.02572931,0.5707861,-0.103,28.703,4.3231044,4.85182,3.739155,,none,3,,,,,2026-11-19,0.395,https://www.zkh.com,2026-10-29T14:52:22.322146+00:00
+14.09,ZKH,ZKH Group Limited,Consumer Cyclical,Internet Retail,China,258743040,1.64,147150,265865,436018.6,0.128,,,0.16627,0.00164,-0.00031,-0.00099,-0.00774,1634621056,400803008,13.839,1.772,1.513,,,128187426,90672395,0.18096,0.26152,10436,0.06,0.0001,32.8,6.6465054,0.027400045,0.60785013,-0.103,28.608,4.326878,4.8560553,3.742419,,none,3,,,,,2026-11-19,0.395,https://www.zkh.com,2026-10-31T21:15:45.889909+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-15,15.50,18.00,15.00,15.50,,,,,,,0,15.0000,1,7854,,,,
 2023-12-18,15.90,16.01,15.25,15.50,,,,,,,0,15.0000,1,2038,,,,
@@ -733,4 +733,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.68,1.79,1.67,1.78,1.82,2.16,2.61,2.82,2.99,2.1392,0,1.9169,0,97,774,-0.2799,-0.2620,-0.0179
 2026-10-27,1.72,1.80,1.68,1.69,1.80,2.09,2.59,2.81,2.98,2.1392,0,1.8675,0,110,773,-0.2769,-0.2650,-0.0120
 2026-10-28,1.68,1.68,1.55,1.62,1.76,2.02,2.56,2.80,2.97,2.0199,0,1.8280,0,171,771,-0.2770,-0.2674,-0.0096
-2026-10-29,1.59,1.63,1.54,1.58,1.73,1.96,2.53,2.78,2.96,1.9748,0,1.8040,0,145,765,-0.2771,-0.2693,-0.0077
+2026-10-29,1.59,1.63,1.47,1.52,1.73,1.96,2.53,2.78,2.96,1.9608,0,1.8040,0,865,779,-0.2819,-0.2703,-0.0116
+2026-10-30,1.54,1.69,1.47,1.64,1.71,1.89,2.51,2.77,2.95,1.9608,0,1.7372,0,198,774,-0.2730,-0.2708,-0.0021
+2026-11-02,1.69,2.08,1.52,1.66,1.69,1.85,2.48,2.76,2.95,1.9608,0,1.4700,1,550,769,-0.2613,-0.2689,0.0077

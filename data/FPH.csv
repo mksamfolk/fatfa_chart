@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-27.76,FPH,Five Point Holdings LLC,Real Estate,Real Estate - Development,United States,604921216,4.09,348610,199640,816527.6,0.084,,,0.45869,-0.34258997,0.24869,0.033350002,-0.00064000004,358716000,467391008,19.454,59.42,8.705,6346000,-87871128,71783254,63177608,0.17984,0.52677,753218,3.86,0.0126,10.487181,6.1969695,5.126451,0.3463167,16.574,347.631,,,,,none,,,,,,2026-10-22,1.365,https://www.fivepoint.com,2026-10-29T10:24:45.897181+00:00
+28.47,FPH,Five Point Holdings LLC,Real Estate,Real Estate - Development,United States,604921216,4.09,348610,199640,816527.6,0.084,,,0.45869,-0.34258997,0.24869,0.033350002,-0.00064000004,358716000,467391008,19.454,59.42,8.705,6346000,-87871128,71783254,63177608,0.17984,0.52677,753218,3.86,0.0126,10.487181,6.1969695,5.126451,0.3463167,16.574,347.631,,,,,none,,,,,,2026-10-22,1.365,https://www.fivepoint.com,2026-10-29T10:24:45.897181+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-15,7.79,7.90,7.44,7.50,,,,,,,0,7.4400,1,1842,,,,
 2021-10-18,7.52,7.64,7.50,7.57,,,,,,,0,7.4400,1,603,,,,
@@ -1278,4 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.20,4.28,4.13,4.16,4.33,4.53,4.92,5.01,5.14,4.7194,0,4.5900,0,1160,979,-0.1993,-0.1899,-0.0095
 2026-10-27,4.16,4.19,4.02,4.08,4.30,4.48,4.89,5.00,5.13,4.6536,0,4.5800,0,1628,992,-0.2087,-0.1936,-0.0151
 2026-10-28,4.09,4.13,4.05,4.09,4.28,4.43,4.86,4.99,5.12,4.6077,0,4.5576,0,1005,991,-0.2129,-0.1975,-0.0154
-2026-10-29,4.12,4.24,4.13,4.18,4.25,4.39,4.84,4.98,5.11,4.6077,0,4.5361,0,104,977,-0.2069,-0.1994,-0.0076
+2026-10-29,4.12,4.24,4.13,4.20,4.26,4.39,4.84,4.98,5.11,4.6077,0,4.5361,0,1259,1000,-0.2049,-0.1990,-0.0060

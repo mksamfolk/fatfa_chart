@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.006,92957,452700,2.8914\n1,2026-06-30,UBS Group AG,0.0039,60136,292862,1.0\n2,2026-06-30,Xtx Topco Ltd,0.003,46721,227531,3.5395002\n3,2026-06-30,Marshall Wace LLP,0.0029,44075,214645,1.0\n4,2026-06-30,"Ground Swell Capital, LLC",0.0014,21846,106390,1.0\n5,2026-06-30,Dv Trading LLC,0.0007,10017,48782,1.0\n6,2026-06-30,Quantbot Technologies LP,0.0005,6986,34021,1.0\n7,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,48,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.006,92957,456418,2.8914\n1,2026-06-30,UBS Group AG,0.0039,60136,295267,1.0\n2,2026-06-30,Xtx Topco Ltd,0.003,46721,229400,3.5395002\n3,2026-06-30,Marshall Wace LLP,0.0029,44075,216408,1.0\n4,2026-06-30,"Ground Swell Capital, LLC",0.0014,21846,107263,1.0\n5,2026-06-30,Dv Trading LLC,0.0007,10017,49183,1.0\n6,2026-06-30,Quantbot Technologies LP,0.0005,6986,34301,1.0\n7,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,49,0.0\n8,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,668,3279,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2064,10051,0.0\n1,2026-06-30,FRANK FUNDS-Camelot Event Driven Fund,0.0,63,306,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2064,10134,0.0\n1,2026-06-30,FRANK FUNDS-Camelot Event Driven Fund,0.0,63,309,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.57388\ninstitutionsPercentHeld,0.01853\ninstitutionsFloatPercentHeld,0.04348\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.57388\ninstitutionsPercentHeld,0.01857\ninstitutionsFloatPercentHeld,0.04358\ninstitutionsCount,11.0\n
 news
 [\n  {\n    "uuid": "c86b186f-e3b5-3f6a-8bfe-959ba48c6d15",\n    "title": "PS International Group Ltd. Receives Nasdaq Non-Compliance Notice for Minimum Market Value of Listed Securities Requirement",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/ps-international-group-ltd-receives-202000485.html",\n    "providerPublishTime": 1786738800,\n    "type": "STORY",\n    "relatedTickers": [\n      "PSIG"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-10-13 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.66,PSIG,PS International Group Ltd.,Industrials,Integrated Freight & Logistics,Hong Kong,74904600,4.87,827330,986151,4802555.37,-0.373,,,0.01944,0.01397,-0.28626,-4.2534,-0.0323,13920969,4832967,,0.79,0.648,-1308650,15358211,15380822,7788387,0.57388,0.01853,40800,0.03,0.0031,,,1.409277,-11.144164,1.24,-44.624,,,,,none,,,,,,,-0.139,https://www.profitsail.com,2026-10-29T12:53:29.752445+00:00
+97.79,PSIG,PS International Group Ltd.,Industrials,Integrated Freight & Logistics,Hong Kong,75519832,4.91,1107080,1062903,5218853.73,-0.373,,,0.01944,0.01397,-0.28626,-4.2534,-0.0323,13920969,4832967,,0.79,0.648,-1308650,15358211,15380822,7788387,0.57388,0.01857,40800,0.03,0.0031,,,1.4208522,-11.235698,1.252,-45.04,,,,,none,,,,,,,-0.139,https://www.profitsail.com,2026-10-31T19:26:32.488419+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-19,27.92,33.60,18.00,27.28,,,,,,,0,33.6000,0,2013,,,,
 2024-07-22,26.32,26.32,18.00,21.60,,,,,,,0,33.6000,0,1252,,,,
@@ -586,4 +586,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.59,4.70,4.20,4.40,4.44,4.04,2.54,4.93,4.93,3.6101,1,5.1512,0,4344,2264,0.5680,0.6075,-0.0396
 2026-10-27,4.41,4.74,4.37,4.73,4.49,4.18,2.61,4.92,4.93,3.6101,1,5.1308,0,7228,2407,0.5585,0.5977,-0.0393
 2026-10-28,4.70,4.88,4.65,4.87,4.54,4.34,2.68,4.91,4.93,3.6101,1,5.1108,0,3028,2467,0.5558,0.5893,-0.0335
-2026-10-29,4.87,4.94,4.85,4.88,4.60,4.47,2.76,4.90,4.94,3.6646,1,5.0911,0,3054,2525,0.5482,0.5811,-0.0329
+2026-10-29,4.87,4.95,4.35,4.91,4.61,4.47,2.76,4.90,4.94,3.6101,1,5.0911,0,15347,2771,0.5506,0.5816,-0.0310
+2026-10-30,4.92,4.99,4.75,4.91,4.65,4.58,2.83,4.89,4.94,3.6101,1,5.0719,0,9325,2956,0.5403,0.5733,-0.0331
+2026-11-02,4.92,5.09,4.50,4.91,4.68,4.60,2.91,4.88,4.94,3.6101,1,4.1300,1,6664,3088,0.5260,0.5639,-0.0379

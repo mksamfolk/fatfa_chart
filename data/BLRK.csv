@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0464,799992,8095918,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0435,750338,7593420,0.0136\n2,2026-06-30,Linden Advisors LP,0.0435,750000,7589999,0.0\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0377,650000,6577999,0.0\n4,2026-06-30,Millennium Management Llc,0.0348,600000,6071999,1.0\n5,2026-06-30,"Aristeia Capital, LLC",0.0296,510610,5167373,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.029000001,500000,5059999,0.0\n7,2026-06-30,Picton Mahoney Asset Management,0.029000001,500000,5059999,0.0\n8,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.029000001,499998,5059979,0.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,500000,5059999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0464,799992,8099919,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0435,750338,7597172,0.0136\n2,2026-06-30,Linden Advisors LP,0.0435,750000,7593750,0.0\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0377,650000,6581250,0.0\n4,2026-06-30,Millennium Management Llc,0.0348,600000,6075000,1.0\n5,2026-06-30,"Aristeia Capital, LLC",0.0296,510610,5169926,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.029000001,500000,5062500,0.0\n7,2026-06-30,Picton Mahoney Asset Management,0.029000001,500000,5062500,0.0\n8,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.029000001,499998,5062479,0.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,500000,5062500,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0166,286905,2903478,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1011989,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0026,44193,447233,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0166,286905,2904913,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1012489,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0026,44193,447454,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BLRK,Bluerock Acquisition Corp.,Financial Services,Shell Companies,United States,232760000,10.12,41730,79804,807616.48,,,,0.0,0.0,0.0,,,341068,0,,9.814,8.711,-506140,,17250000,16600020,0.0,0.88816,1135,0.03,0.0001,,,,-33.289474,,,,,,,none,,,,,,,,https://bluerock.com/bluerock-acquisition-corp.,2026-10-29T08:57:48.036466+00:00
+0.00,BLRK,Bluerock Acquisition Corp.,Financial Services,Shell Companies,United States,232875008,10.125,34480,81803,828255.375,,,,0.0,0.0,0.0,,,341068,0,,9.814,8.711,-506140,,17250000,17250000,0.0,0.88816,1135,0.03,0.0001,,,,-33.305923,,,,,,,none,,,,,,,,https://bluerock.com/bluerock-acquisition-corp.,2026-10-31T14:38:43.340424+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-02,9.95,10.00,9.87,9.95,,,,,,,0,10.0000,0,142,,,,
 2026-02-03,9.91,9.91,9.87,9.90,,,,,,,0,10.0000,0,84,,,,
@@ -201,4 +201,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.11,10.11,10.11,10.11,10.10,10.11,10.09,10.00,,10.1524,0,10.3090,0,9,939,0.0041,0.0078,-0.0038
 2026-10-27,10.10,10.10,10.09,10.10,10.10,10.11,10.09,10.00,,10.1492,0,10.3038,0,129,936,0.0034,0.0070,-0.0036
 2026-10-28,10.10,10.12,10.10,10.12,10.10,10.11,10.09,10.00,,10.1492,0,10.2987,0,1870,973,0.0044,0.0064,-0.0020
-2026-10-29,10.11,10.12,10.11,10.12,10.10,10.11,10.09,10.00,,10.1492,0,10.2938,0,817,989,0.0051,0.0062,-0.0010
+2026-10-29,10.11,10.13,10.11,10.13,10.10,10.11,10.09,10.00,,10.1492,0,10.2938,0,906,991,0.0059,0.0063,-0.0004
+2026-10-30,10.13,10.13,10.12,10.13,10.11,10.12,10.09,10.00,,10.1492,0,10.2889,0,183,983,0.0071,0.0065,0.0006
+2026-11-02,10.12,10.12,10.12,10.12,10.11,10.12,10.09,10.00,,10.1492,0,10.2841,0,162,986,0.0071,0.0066,0.0005

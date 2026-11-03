@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0046,40000,397999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0046,40000,399199,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RNAQ,Rainier Acquisition Corporation,Financial Services,Shell Companies,United States,109263432,9.95,530,5475,54476.24999999999,,,,0.0,0.0,0.0,,,11963,25000,,0.18,0.121,-13037,,8825000,1300538,0.0,0.0104,2695,0.36,,,,,-2487.4998,,,,,,,none,,,,,,,,https://www.rainieracquisitioncorp.com,2026-10-29T13:10:24.839775+00:00
+0.00,RNAQ,Rainier Acquisition Corporation,Financial Services,Shell Companies,United States,109592872,9.98,810,5235,52245.3,,,,0.0,0.0,0.0,,,11963,25000,,0.18,0.121,-13037,,8825000,1300538,0.0,0.0104,2695,0.36,,,,,-2494.9998,,,,,,,none,,,,,,,,https://www.rainieracquisitioncorp.com,2026-10-31T19:42:36.602414+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-15,10.50,10.50,10.00,10.18,,,,,,,0,10.0000,1,773,,,,
 2026-09-16,10.02,10.18,10.02,10.12,,,,,,,0,10.0000,1,160,,,,
@@ -61,3 +61,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.98,9.98,9.98,9.98,10.01,10.02,,,,10.0604,0,10.1023,0,,,,,
 2026-10-27,9.95,10.00,9.95,10.00,10.00,10.02,,,,10.0604,0,10.0821,0,12,,,,
 2026-10-28,10.00,10.00,10.00,10.00,10.00,10.02,,,,10.0604,0,10.0639,0,,,,,
+2026-10-29,10.00,10.00,10.00,10.00,10.00,10.02,,,,10.0604,0,10.0475,0,2,,,,
+2026-10-30,10.00,10.00,9.98,9.98,10.00,10.01,,,,10.0604,0,10.0328,0,26,,-0.0273,-0.0300,0.0026

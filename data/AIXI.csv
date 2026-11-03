@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0088,4987,14761,1.0\n1,2026-06-30,HRT Financial LP,0.0063,3549,10505,1.0\n2,2026-06-30,Virtu Financial LLC,0.0038,2151,6366,1.0\n3,2026-09-30,"SignatureFD, LLC",0.0001,35,103,-0.0278\n4,2026-06-30,Morgan Stanley,0.0,23,68,1.0\n5,2026-06-30,"Jones Financial Companies, L.L.L.P.",0.0,1,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0088,4987,13714,1.0\n1,2026-06-30,HRT Financial LP,0.0063,3549,9759,1.0\n2,2026-06-30,Virtu Financial LLC,0.0038,2151,5915,1.0\n3,2026-09-30,"SignatureFD, LLC",0.0001,35,96,-0.0278\n4,2026-06-30,Morgan Stanley,0.0,23,63,1.0\n5,2026-06-30,"Jones Financial Companies, L.L.L.P.",0.0,1,2,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,143,423,-0.95019996\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,143,393,-0.95019996\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-23 09:30:00-04:00,0.1111111111111111\n2026-05-11 09:30:00-04:00,0.05\n2026-09-08 09:30:00-04:00,0.14285714285714285\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.63,AIXI,Xiao-I Corporation,Technology,Software - Application,China,1673024,2.96,5491910,5783102,17117981.919999998,-0.91,,,-0.98450994,-11.60649,0.0,,-1.11968,3452133,53507920,,0.058,0.018,-811057,21847420,565211,557400,0.0,0.081709996,307987,0.03,,,-5.4814816,0.90338755,-0.014745663,25.595,-0.596,,,,,none,,,,,,,14.828,https://www.xiaoi.com,2026-10-29T08:21:26.610400+00:00
+33.85,AIXI,Xiao-I Corporation,Technology,Software - Application,China,1554330,2.75,5233670,5864592,16127628.0,-0.91,,,-0.98450994,-11.60649,0.0,,-1.11968,3452133,53507920,,0.058,0.018,-811057,21847420,565211,557400,0.0,0.081709996,307987,0.03,,,-5.0925922,0.839296,-0.013699518,25.53,-0.595,,,,,none,,,,,,,14.828,https://www.xiaoi.com,2026-10-31T14:00:50.588701+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-09,1224.00,1440.00,1002.60,1045.80,,,,,,,0,1002.6000,1,17112,,,,
 2023-03-10,1152.00,1206.00,1081.80,1168.20,,,,,,,0,1002.6000,1,6614,,,,
@@ -928,4 +928,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.91,3.05,2.83,3.01,2.83,2.57,1.53,6.48,6.46,3.1402,0,1.9773,1,2243,18787,0.3810,0.3535,0.0275
 2026-10-27,2.87,3.04,2.84,2.95,2.82,2.56,1.56,6.47,6.43,3.1402,0,2.0891,1,1163,18802,0.3766,0.3581,0.0185
 2026-10-28,2.95,3.02,2.87,2.96,2.83,2.55,1.60,6.46,6.39,3.1402,0,2.1941,1,895,18816,0.3697,0.3605,0.0093
-2026-10-29,2.90,2.95,2.87,2.90,2.84,2.54,1.64,6.45,6.36,3.1402,0,2.2929,1,351,18675,0.3553,0.3594,-0.0041
+2026-10-29,2.87,2.96,2.87,2.90,2.84,2.54,1.64,6.45,6.36,3.1402,0,2.2929,1,737,18683,0.3553,0.3594,-0.0041
+2026-10-30,2.73,2.81,2.68,2.75,2.82,2.54,1.67,6.43,6.32,3.1402,0,2.3857,1,621,18679,0.3280,0.3532,-0.0251
+2026-11-02,2.71,2.94,2.71,2.81,2.88,2.61,1.71,6.43,6.29,3.1402,0,2.4730,1,323,18678,0.3077,0.3441,-0.0364

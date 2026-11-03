@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HSG Holding Ltd,0.0342,14342,6320,1.0\n1,2026-06-30,Orland Properties Ltd.,0.0247,10371,4570,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0167,7018,3092,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0124,5212,2296,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0050999997,2151,947,1.0\n5,2026-06-30,HRT Financial LP,0.0023999999,1005,442,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HSG Holding Ltd,0.0342,14342,4302,1.0\n1,2026-06-30,Orland Properties Ltd.,0.0247,10371,3111,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0167,7018,2105,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0124,5212,1563,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0050999997,2151,645,1.0\n5,2026-06-30,HRT Financial LP,0.0023999999,1005,301,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-18 09:30:00-04:00,0.06666666666666667\n2026-08-27 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.81,YMT,Yimutian Inc.,Technology,Software - Application,China,11188522,0.4407,136430,1083697,477585.2679,-0.077,,,0.8464,-0.36476,-0.33161998,,-0.23512,111111000,129860000,,0.497,0.386,-49179000,-42766248,25330941,60086,0.0,0.00158,10430,0.0,0.0005,,,0.07954585,-0.00732704,0.343,-1.184,,,,,none,,,,,,,,https://www.ymt.com,2026-10-29T14:49:35.520591+00:00
+4.95,YMT,Yimutian Inc.,Technology,Software - Application,China,7616421,0.3,1896650,1360563,408168.89999999997,-0.077,,,0.8464,-0.36476,-0.33161998,,-0.23512,111111000,129860000,,0.497,0.386,-49179000,-42766248,25330941,60086,0.0,0.00158,10430,0.0,0.0005,,,0.05414966,-0.0049877744,0.342,-1.182,,,,,none,,,,,,,,https://www.ymt.com,2026-10-31T21:13:09.576486+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-19,88.20,90.75,28.50,42.00,,,,,,,0,28.5000,1,8287,,,,
 2025-08-20,33.30,37.03,30.90,33.45,,,,,,,0,28.5000,1,654,,,,
@@ -314,4 +314,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.49,0.50,0.47,0.49,0.64,1.09,0.91,2.00,7.00,1.0777,0,1.1358,0,30,1150,-0.2005,-0.1121,-0.0884
 2026-10-27,0.49,0.51,0.47,0.50,0.60,1.01,0.92,1.94,6.91,1.0354,0,1.0016,0,17,1104,-0.2047,-0.1306,-0.0741
 2026-10-28,0.50,0.55,0.48,0.49,0.57,0.93,0.92,1.89,6.81,1.0255,0,0.8943,0,33,1099,-0.2070,-0.1459,-0.0611
-2026-10-29,0.43,0.47,0.40,0.42,0.54,0.84,0.92,1.84,6.71,0.9202,0,0.8085,0,6564,1229,-0.2118,-0.1591,-0.0527
+2026-10-29,0.43,0.47,0.40,0.44,0.54,0.84,0.92,1.84,6.71,0.9229,0,0.8085,0,7535,1248,-0.2102,-0.1588,-0.0515
+2026-10-30,0.38,0.43,0.30,0.30,0.51,0.74,0.92,1.78,6.61,0.8406,0,0.7270,0,158,1251,-0.2214,-0.1713,-0.0501
+2026-11-02,0.30,0.31,0.28,0.30,0.48,0.69,0.92,1.73,6.52,0.7356,0,0.6414,0,35,1252,-0.2280,-0.1826,-0.0453

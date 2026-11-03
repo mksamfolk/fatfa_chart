@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RZAI,Roze AI Inc.,Technology,Software - Infrastructure,Canada,548643776,9.86,123580,217147,2141069.42,,,,0.27061,-2.46067,-2.62729,-12.7324,-0.34627998,,,,0.981,0.501,-3011272,-3470344,55643389,39658713,0.34627998,0.0,34002,0.12,,,,239.03578,-1643.3333,,,,,,,none,,,,,,,,https://www.rozeai.com,2026-10-29T13:16:19.101184+00:00
+0.00,RZAI,Roze AI Inc.,Technology,Software - Infrastructure,Canada,368359232,6.62,131760,208430,1379806.6,,,,0.27061,-2.46067,-2.62729,-12.7324,-0.34627998,,,,0.981,0.501,-3011272,-3470344,55643389,36689581,0.34627998,0.0,34002,0.12,,,,160.48854,-1103.3333,,,,,,,none,,,,,,,,https://www.rozeai.com,2026-10-31T19:48:16.026914+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-30,27.63,35.11,19.24,21.88,,,,,,,0,19.2430,1,6506,,,,
 2026-10-01,32.84,35.55,22.15,26.31,,,,,,,0,19.2430,1,23684,,,,
@@ -50,4 +50,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,11.11,11.45,10.15,10.54,10.35,,,,,19.8308,0,11.8700,0,1583,,,,
 2026-10-27,10.75,10.75,9.75,10.21,10.35,12.48,,,,18.6778,0,11.7000,0,1417,,,,
 2026-10-28,10.25,10.40,9.54,9.86,10.39,11.88,,,,17.8130,0,11.4500,0,1540,,,,
-2026-10-29,9.66,9.75,9.35,9.35,10.34,11.03,,,,16.7612,0,11.0144,0,403,,,,
+2026-10-29,9.66,9.75,8.29,8.72,10.28,11.00,,,,16.5497,0,11.0144,0,843,,,,
+2026-10-30,8.18,8.49,6.55,6.62,9.96,10.34,,,,14.9477,0,10.4695,0,908,,,,
+2026-11-02,7.49,7.50,5.75,5.76,9.52,9.98,,,,13.8349,0,9.7500,0,1078,,,,

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Arbiter Partners Capital Management LLC,0.0047,64752,72522,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Arbiter Partners Capital Management LLC,0.0047,64752,68637,1.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,4,4,3.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.90116\ninstitutionsPercentHeld,0.00475\ninstitutionsFloatPercentHeld,0.04802\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.90116\ninstitutionsPercentHeld,0.00475\ninstitutionsFloatPercentHeld,0.04803\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "c6ad8d47-6a23-370b-a528-1735927b2f4d",\n    "title": "Lead Real Estate Opens Reservations for JINRYU HOTEL IZUMO in Shimane Prefecture",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/real-estate/articles/lead-real-estate-opens-reservations-123000709.html",\n    "providerPublishTime": 1789648200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/24a259dd98ddb092b4d29bd9344a3877.jpg",\n          "width": 645,\n          "height": 430,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/EAA038D2CECDB41A03DB0B263B9286FDF32F2A4A127EE4BAB90538D04426780A/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F24a259dd98ddb092b4d29bd9344a3877.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LRE"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LRE,Lead Real Estate Co. Ltd,Real Estate,Real Estate - Development,Japan,15278929,1.12,5000,14284,15998.080000000002,0.038,-0.298,-0.298,0.17999001,0.13799,0.03118,0.11225,0.042129997,2701004032,17589022720,341.419,1.757,0.227,,,13641900,1226680,0.90116,0.00475,43136,1.55,0.032,4.148148,,0.0008336036,0.4690463,0.813,9.123,,,,,none,,,,,,,1.437,https://www.lead-real.co.jp,2026-10-29T11:40:28.808913+00:00
+29.11,LRE,Lead Real Estate Co. Ltd,Real Estate,Real Estate - Development,Japan,14460414,1.06,6560,14564,15437.84,0.038,-0.298,-0.298,0.17999001,0.13799,0.03118,0.11225,0.042129997,2701004032,17589022720,341.419,1.757,0.227,,,13641900,1226680,0.90116,0.00475,43136,1.55,0.032,3.9259255,,0.0007889462,0.4439188,0.813,9.123,,,,,none,,,,,,,1.437,https://www.lead-real.co.jp,2026-10-31T18:12:57.786521+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-27,7.00,7.35,6.16,6.20,,,,,,,0,7.3480,0,14439,,,,
 2023-09-28,5.25,5.63,4.52,4.70,,,,,,,0,7.3480,0,2321,,,,
@@ -789,3 +789,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.10,1.14,1.05,1.08,1.10,1.13,1.23,1.29,1.32,1.1899,0,1.0324,1,27,9,-0.0471,-0.0501,0.0031
 2026-10-27,1.11,1.11,1.11,1.11,1.10,1.12,1.23,1.29,1.32,1.1899,0,1.0348,1,1,9,-0.0434,-0.0488,0.0054
 2026-10-28,1.04,1.12,1.04,1.12,1.09,1.11,1.23,1.29,1.32,1.1899,0,1.0371,1,1,9,-0.0392,-0.0469,0.0077
+2026-10-29,1.13,1.13,1.12,1.12,1.09,1.11,1.22,1.29,1.31,1.1899,0,1.0393,1,4,9,-0.0354,-0.0446,0.0091
+2026-10-30,1.08,1.09,1.06,1.06,1.09,1.10,1.22,1.28,1.31,1.1899,0,1.0400,1,24,10,-0.0369,-0.0430,0.0061
+2026-11-02,1.08,1.08,1.08,1.08,1.09,1.10,1.22,1.28,1.31,1.1899,0,1.0422,1,7,9,-0.0360,-0.0416,0.0056

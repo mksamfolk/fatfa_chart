@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.001,37503,26255,1.0\n1,2026-06-30,HRT Financial LP,0.0007,25408,17788,1.0\n2,2026-06-30,Virtu Financial LLC,0.0005,18245,12773,1.0\n3,2026-06-30,Morgan Stanley,0.0004,15000,10501,1.0\n4,2026-06-30,"Two Sigma Securities, LLC",0.0004,15365,10757,0.4706\n5,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n6,2026-06-30,Blackrock Inc.,0.0,1278,894,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.001,37503,26214,1.0\n1,2026-06-30,HRT Financial LP,0.0007,25408,17760,1.0\n2,2026-06-30,Virtu Financial LLC,0.0005,18245,12753,1.0\n3,2026-06-30,Morgan Stanley,0.0004,15000,10485,1.0\n4,2026-06-30,"Two Sigma Securities, LLC",0.0004,15365,10740,0.4706\n5,2026-06-30,Blackrock Inc.,0.0,1278,893,0.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,20088,14063,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,20088,14041,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.99,RYET,Ruanyun Edai Technology Inc.,Consumer Defensive,Education & Training Services,China,26099730,0.7001,11590,227646,159374.96459999998,1.762,,,0.2518,-0.50732,-1.04962,-3.31389,-0.4511,4082622,4276602,81.017,1.36,0.583,-9151533,-5859845,37280004,16495656,0.55752,0.00303,46124,0.77,0.0023999999,,,3.4886107,4.375625,3.462,-3.567,,,,,none,,,,,,,,https://www.ruanyuntech.com,2026-10-29T13:15:51.265678+00:00
+18.32,RYET,Ruanyun Edai Technology Inc.,Consumer Defensive,Education & Training Services,China,26058722,0.699,16440,228531,159743.169,1.762,,,0.2518,-0.50732,-1.04962,-3.31389,-0.4511,4082622,4276602,81.017,1.36,0.583,-9151533,-5859845,37280004,16495656,0.55752,0.00303,46124,0.77,0.0023999999,,,3.4831293,4.36875,3.456,-3.561,,,,,none,,,,,,,,https://www.ruanyuntech.com,2026-10-31T19:47:50.725665+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-08,7.30,8.03,4.00,4.51,,,,,,,0,4.0000,1,17312,,,,
 2025-04-09,4.07,4.35,4.05,4.24,,,,,,,0,4.0000,1,1709,,,,
@@ -406,4 +406,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.65,0.73,0.65,0.67,0.76,0.82,0.93,1.00,1.03,0.8817,0,0.8946,0,3,259,-0.0632,-0.0492,-0.0140
 2026-10-27,0.64,0.78,0.64,0.69,0.74,0.81,0.92,0.99,1.02,0.8817,0,0.8653,0,5,259,-0.0649,-0.0523,-0.0126
 2026-10-28,0.67,0.74,0.67,0.70,0.73,0.80,0.91,0.99,1.02,0.8817,0,0.8337,0,4,258,-0.0642,-0.0547,-0.0095
-2026-10-29,0.75,0.75,0.71,0.75,0.72,0.80,0.91,0.99,1.02,0.8817,0,0.8066,0,3,258,-0.0590,-0.0556,-0.0035
+2026-10-29,0.75,0.76,0.70,0.70,0.72,0.80,0.91,0.99,1.02,0.8817,0,0.8066,0,3,258,-0.0630,-0.0564,-0.0067
+2026-10-30,0.68,0.75,0.66,0.70,0.71,0.80,0.90,0.99,1.02,0.8817,0,0.7833,0,46,259,-0.0614,-0.0574,-0.0041
+2026-11-02,0.67,0.68,0.67,0.68,0.70,0.79,0.89,0.99,1.01,0.8784,0,0.7632,0,2,259,-0.0609,-0.0581,-0.0029

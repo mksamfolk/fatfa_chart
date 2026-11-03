@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.078099996,1350000,13513500,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0671,1159828,11609878,1.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.057800002,1000000,10010000,0.0\n3,2026-06-30,Sona Asset Management (US) LLC,0.049200002,850000,8508500,0.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0463,800000,8008000,0.0\n5,2026-06-30,Linden Advisors LP,0.0463,800000,8008000,0.0\n6,2026-06-30,Magnetar Financial LLC,0.0347,600000,6006000,1.0\n7,2026-06-30,"MMCAP International, Inc. SPC",0.0347,600000,6006000,1.0\n8,2026-06-30,AQR Arbitrage LLC,0.033800002,584964,5855489,0.0112\n9,2026-06-30,BNP Paribas Financial Markets,0.031600002,546532,5470785,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.078099996,1350000,13553999,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0671,1159828,11644673,1.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.057800002,1000000,10039999,0.0\n3,2026-06-30,Sona Asset Management (US) LLC,0.049200002,850000,8533999,0.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0463,800000,8031999,0.0\n5,2026-06-30,Linden Advisors LP,0.0463,800000,8031999,0.0\n6,2026-06-30,Magnetar Financial LLC,0.0347,600000,6023999,1.0\n7,2026-06-30,"MMCAP International, Inc. SPC",0.0347,600000,6023999,1.0\n8,2026-06-30,AQR Arbitrage LLC,0.033800002,584964,5873038,0.0112\n9,2026-06-30,BNP Paribas Financial Markets,0.031600002,546532,5487181,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0202,350000,3503500,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0199,344836,3451808,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0032,55162,552171,0.0\n3,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4514,45185,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0202,350000,3513999,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0199,344836,3462153,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0032,55162,553826,0.0\n3,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4514,45320,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IRAB,Iris Acquisition Corp II,Financial Services,Shell Companies,United Arab Emirates,229275728,10.01,45340,34663,346976.63,,,,0.0,0.0,0.0,,,699573,63207,,,,0,,17288000,14688076,0.014520001,0.88223,258,0.01,0.0,,,,-34.517242,,,,,,,none,,,,,,,,https://irisspac.com,2026-10-29T11:12:38.538103+00:00
+0.00,IRAB,Iris Acquisition Corp II,Financial Services,Shell Companies,United Arab Emirates,229962864,10.04,45360,35207,353478.27999999997,,,,0.0,0.0,0.0,,,699573,63207,,,,0,,17288000,14688076,0.014520001,0.88223,258,0.01,0.0,,,,-34.62069,,,,,,,none,,,,,,,,https://irisspac.com,2026-10-31T17:44:59.382984+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-24,9.87,9.91,9.86,9.88,,,,,,,0,9.9100,0,89,,,,
 2026-02-25,9.85,9.85,9.81,9.85,,,,,,,0,9.9100,0,103,,,,
@@ -187,3 +187,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,10.01,10.01,10.01,10.01,10.01,10.01,9.98,9.93,,9.9956,1,10.1371,0,,332,0.0064,0.0084,-0.0020
 2026-10-28,10.01,10.01,10.01,10.01,10.01,10.01,9.98,9.93,,9.9956,1,10.1341,0,,331,0.0060,0.0080,-0.0020
 2026-10-29,10.04,10.04,10.04,10.04,10.01,10.01,9.98,9.93,,10.0107,1,10.1312,0,2,331,0.0080,0.0080,0.0000
+2026-10-30,10.04,10.04,10.04,10.04,10.02,10.01,9.99,9.94,,10.0136,1,10.1284,0,,331,0.0095,0.0083,0.0012
+2026-11-02,10.03,10.03,10.03,10.03,10.02,10.01,9.99,9.94,,10.0136,1,10.1257,0,24,331,0.0097,0.0085,0.0012

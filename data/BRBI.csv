@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date,Shares Owned Indirectly,Position Indirect Date\n0,ABEL STEVEN R,Chairman of the Board,,Conversion of Exercise of derivative security,2003-11-03,5198.0,2003-11-03,,\n1,BERNARD WENDELL L,Director,,Conversion of Exercise of derivative security,2003-10-27,,,11500.0,1067212800.0\n2,BREEDEN RUSSELLIII,Chief Executive Officer,,Sale,2004-04-01,508171.0,2004-04-01,,\n3,DEPREZ PETER G,Director,,Conversion of Exercise of derivative security,2003-11-04,23890.0,2003-11-04,,\n4,RAMSEY WAYNE C,Director and Beneficial Owner of more than 10% of a Class of Security,,Stock Gift,2005-02-15,185778.0,2005-02-15,,\n5,ROBISON D WARREN,Officer and Director,,Conversion of Exercise of derivative security,2003-10-31,2101.0,2003-10-31,,\n6,TOOMBS LAWRENCE T,President,,Conversion of Exercise of derivative security,2003-10-30,40149.0,2003-10-30,,\n7,VANNATTA RALPH WALLACE,Director,,Conversion of Exercise of derivative security,2003-10-30,,2003-10-30,,\n8,VAUGHT MICHAEL J,Director,,Conversion of Exercise of derivative security,2003-11-04,9754.0,2003-11-04,,\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.015700001,185674,1531810,0.1665\n1,2026-06-30,Goldman Sachs Group Inc,0.0019,22894,188875,0.0002\n2,2026-06-30,Rhumbline Advisers,0.0002,2845,23471,1.2227\n3,2026-06-30,Mirae Asset Global ETFs Holdings Ltd.,0.0002,2460,20295,-0.236\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.015700001,185674,1309001,0.1665\n1,2026-06-30,Goldman Sachs Group Inc,0.0019,22894,161402,0.0002\n2,2026-06-30,Rhumbline Advisers,0.0002,2845,20057,1.2227\n3,2026-06-30,Mirae Asset Global ETFs Holdings Ltd.,0.0002,2460,17343,-0.236\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,GLOBAL X FUNDS-Global X Brazil Active ETF,0.00029999999,3363,27744,0.0444\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,GLOBAL X FUNDS-Global X Brazil Active ETF,0.00029999999,3363,23709,0.0444\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.40,BRBI,BRBI BR Partners S.A.,Financial Services,Capital Markets,Brazil,216553632,8.25,5550,1587,13092.75,-0.066,-0.224,-0.224,0.0,0.32103002,0.0,0.19736,0.0094,14837888000,17337980928,2141.084,1.053,1.052,-121681000,,26248926,26248926,0.0,0.00427,1001,1.08,,21.153847,,-0.018703192,1.3442861,-0.235,,,,,,none,,,,,,,0.086,https://brpartners.com.br,2026-10-29T09:02:11.772137+00:00
+16.09,BRBI,BRBI BR Partners S.A.,Financial Services,Capital Markets,Brazil,185054928,7.05,6810,1873,13204.65,-0.066,-0.224,-0.224,0.0,0.32103002,0.0,0.19736,0.0094,14837888000,17337980928,2141.084,1.053,1.052,-121681000,,26248926,26248926,0.0,0.00427,1001,1.08,,18.076923,,-0.015982728,1.1487536,-0.232,,,,,,none,,,,,,,0.086,https://brpartners.com.br,2026-10-31T14:43:12.502939+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-19,22.24,22.24,22.24,22.24,,,,,,,0,22.2416,0,5,,,,
 2025-09-22,22.24,22.24,22.24,22.24,,,,,,,0,22.2416,0,,,,,
@@ -293,4 +293,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,11.50,11.85,9.14,9.85,14.28,13.71,11.66,12.68,13.01,13.3862,0,15.3400,0,206,18,0.5568,0.9471,-0.3903
 2026-10-27,9.72,9.91,9.08,9.18,13.66,13.63,11.62,12.65,12.99,12.3484,0,15.2160,0,104,20,0.1561,0.7889,-0.6328
 2026-10-28,9.05,9.05,8.20,8.25,12.96,13.49,11.56,12.61,12.96,11.4870,0,14.9706,0,101,22,-0.2338,0.5844,-0.8182
-2026-10-29,7.97,7.97,7.97,7.97,12.22,13.32,11.49,12.57,12.94,10.6298,0,14.5643,0,16,22,-0.5590,0.3557,-0.9147
+2026-10-29,7.97,7.98,7.97,7.98,12.22,13.32,11.49,12.57,12.94,10.6348,0,14.5643,0,18,23,-0.5582,0.3559,-0.9141
+2026-10-30,7.79,8.89,7.02,7.05,11.51,13.11,11.41,12.53,12.91,10.6348,0,14.0368,0,105,25,-0.8802,0.1086,-0.9888
+2026-11-02,6.90,7.99,6.87,7.30,10.81,12.79,11.33,12.48,12.88,10.4254,0,13.3351,0,125,27,-1.1025,-0.1336,-0.9689

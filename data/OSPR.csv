@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0033000002,99900,982016,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0023,70000,688099,1.0\n2,2026-09-30,ABC Arbitrage SA,0.001,30000,294899,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0033000002,99900,981017,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0023,70000,687399,1.0\n2,2026-09-30,ABC Arbitrage SA,0.001,30000,294599,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OSPR,Osprey Acquisition Corp. III,Financial Services,Shell Companies,United States,403187264,9.83,1620,103587,1018260.21,,,,0.0,0.0,0.0,,,22607,176934,,,,,,30762000,,0.0,0.07735,523,0.01,0.0,,,,-1092.2223,,,,,,,none,,,,,,,,https://www.ospreyiii.com,2026-10-29T12:32:59.142139+00:00
+0.00,OSPR,Osprey Acquisition Corp. III,Financial Services,Shell Companies,United States,402777120,9.82,270,99444,976540.0800000001,,,,0.0,0.0,0.0,,,22607,176934,,,,,,30762000,,0.0,0.07735,523,0.01,0.0,,,,-1091.1111,,,,,,,none,,,,,,,,https://www.ospreyiii.com,2026-10-31T19:05:53.583933+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-21,9.99,10.00,9.82,9.95,,,,,,,0,9.8200,1,209,,,,
 2026-08-24,9.99,10.05,9.85,9.91,,,,,,,0,9.8200,1,21537,,,,
@@ -77,3 +77,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.83,9.83,9.83,9.83,9.82,9.82,,,,9.8488,0,9.8000,1,2,,-0.0038,-0.0064,0.0027
 2026-10-27,9.83,9.83,9.83,9.83,9.82,9.82,,,,9.8488,0,9.8006,1,,,-0.0030,-0.0058,0.0028
 2026-10-28,9.82,9.83,9.82,9.83,9.83,9.82,,,,9.8488,0,9.8012,1,9,,-0.0023,-0.0051,0.0027
+2026-10-29,9.83,9.83,9.83,9.83,9.83,9.82,,,,9.8488,0,9.8018,1,,,-0.0018,-0.0044,0.0026
+2026-10-30,9.83,9.83,9.83,9.83,9.83,9.82,9.84,,,9.8488,0,9.8023,1,,981,-0.0014,-0.0038,0.0024

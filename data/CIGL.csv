@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Softbank Group Corporation,0.0013,259082,53422,0.0\n1,2026-06-30,Blackrock Inc.,0.0004,83210,17157,0.0\n2,2026-06-30,State of Wyoming,0.0001,11741,2420,1.0\n3,2026-06-30,HSBC Holdings PLC,0.0001,16276,3356,0.0\n4,2026-06-30,Goldman Sachs Group Inc,0.0001,12068,2488,-0.2401\n5,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,1.0\n6,2026-06-30,Morgan Stanley,0.0,4979,1026,0.0\n7,2026-06-30,UBS Group AG,0.0,1265,260,-0.1912\n8,2026-06-30,Barclays Plc,0.0,1926,397,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Softbank Group Corporation,0.0013,259082,49484,0.0\n1,2026-06-30,Blackrock Inc.,0.0004,83210,15893,0.0\n2,2026-06-30,HSBC Holdings PLC,0.0001,16276,3108,0.0\n3,2026-06-30,Goldman Sachs Group Inc,0.0001,12068,2304,-0.2401\n4,2026-06-30,Morgan Stanley,0.0,4979,950,0.0\n5,2026-06-30,UBS Group AG,0.0,1265,241,-0.1912\n6,2026-06-30,Barclays Plc,0.0,1926,367,0.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,123367,25438,16.1964\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,123367,23563,16.1964\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CIGL,Concorde International Group Ltd.,Industrials,Security & Protection Services,Singapore,50945952,0.2062,1830740,2236222,461108.9764,0.275,,,0.30835,-1.92961,-1.22183,-5.1016903,-0.89435995,1629018,5319975,143.8,1.28,1.245,-3516401,1196839,226759450,34910365,0.75698,0.00053,243839,0.31,0.0044,,,4.0836987,1.5503759,4.057,-3.386,,,,,none,,,,,,,,https://www.concordesecurity.com,2026-10-29T09:22:49.945112+00:00
+0.00,CIGL,Concorde International Group Ltd.,Industrials,Security & Protection Services,Singapore,47190476,0.191,129340,2170565,414577.915,0.275,,,0.30835,-1.92961,-1.22183,-5.1016903,-0.89435995,1629018,5319975,143.8,1.28,1.245,-3516401,1196839,226759450,34910365,0.75698,0.00053,243839,0.31,0.0044,,,3.7826693,1.4360902,3.78,-3.156,,,,,none,,,,,,,,https://www.concordesecurity.com,2026-10-31T15:04:02.013204+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-04,0.59,0.66,0.55,0.63,,,,,,,0,0.5500,1,253,,,,
 2026-08-05,0.62,0.66,0.57,0.59,,,,,,,0,0.5500,1,127,,,,
@@ -75,4 +75,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.21,0.22,0.21,0.21,0.23,0.30,,,,0.3443,0,0.4024,0,15,,-0.0656,-0.0625,-0.0031
 2026-10-27,0.22,0.22,0.20,0.21,0.22,0.29,,,,0.3324,0,0.3862,0,12,,-0.0639,-0.0627,-0.0012
 2026-10-28,0.20,0.21,0.20,0.21,0.22,0.28,,,,0.3182,0,0.3713,0,11,,-0.0619,-0.0626,0.0007
-2026-10-29,0.20,0.21,0.20,0.20,0.22,0.27,,,,0.3079,0,0.3576,0,3,,-0.0604,-0.0621,0.0018
+2026-10-29,0.20,0.23,0.20,0.22,0.22,0.27,,,,0.3182,0,0.3576,0,54,,-0.0588,-0.0618,0.0030
+2026-10-30,0.22,0.22,0.19,0.19,0.21,0.26,,,,0.3138,0,0.3450,0,17,,-0.0581,-0.0611,0.0030
+2026-11-02,0.19,0.21,0.19,0.19,0.21,0.25,,,,0.3037,0,0.3295,0,7,,-0.0566,-0.0602,0.0035

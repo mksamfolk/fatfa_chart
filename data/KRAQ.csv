@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KRAQ,KRAKacquisition Corp.,Financial Services,Shell Companies,United States,432112512,10.02,178060,66570,667031.4,,,,0.0,0.0,0.0,,,746553,0,,0.079,0.079,,,34500000,29216325,0.0,0.79293,216,0.0,0.0,,,,-21.688313,,,,,,,none,,,,,,,,https://www.kraq.it,2026-10-29T11:26:44.878233+00:00
+0.00,KRAQ,KRAKacquisition Corp.,Financial Services,Shell Companies,United States,432112512,10.02,171640,67551,676861.02,,,,0.0,0.0,0.0,,,746553,0,,0.079,0.079,,,34500000,29216325,0.0,0.79293,216,0.0,0.0,,,,-21.688313,,,,,,,none,,,,,,,,https://www.kraq.it,2026-10-31T17:58:47.956820+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,9.90,10.01,9.87,9.92,,,,,,,0,9.8700,1,173,,,,
 2026-03-23,9.88,9.99,9.88,9.90,,,,,,,0,9.8700,1,647,,,,
@@ -168,3 +168,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.00,10.03,10.00,10.01,10.01,10.02,10.01,,,9.9817,1,9.9470,1,5570,725,-0.0019,0.0024,-0.0043
 2026-10-27,10.03,10.03,10.03,10.03,10.01,10.02,10.01,,,9.9817,1,9.9492,1,2,725,-0.0003,0.0019,-0.0021
 2026-10-28,10.02,10.02,10.01,10.02,10.01,10.02,10.01,,,9.9817,1,9.9514,1,48,726,0.0002,0.0015,-0.0013
+2026-10-29,10.02,10.02,10.02,10.02,10.01,10.02,10.01,,,9.9817,1,9.9536,1,,726,0.0006,0.0014,-0.0008
+2026-10-30,10.02,10.02,10.02,10.02,10.01,10.02,10.01,,,9.9817,1,9.9557,1,,725,0.0009,0.0013,-0.0004
+2026-11-02,10.03,10.03,10.03,10.03,10.01,10.02,10.01,,,9.9835,1,9.9578,1,18,726,0.0019,0.0014,0.0005

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.00029999999,16996,3671,1.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0002,12609,2723,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0002,12349,2667,-0.4107\n3,2026-06-30,"Two Sigma Investments, LP",0.0002,10571,2283,0.0\n4,2026-06-30,UBS Group AG,0.0001,3287,709,0.5578\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.00029999999,16996,2763,1.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0002,12609,2050,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0002,12349,2007,-0.4107\n3,2026-06-30,"Two Sigma Investments, LP",0.0002,10571,1718,0.0\n4,2026-06-30,UBS Group AG,0.0001,3287,534,0.5578\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1372,296,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1372,223,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.36,MEGL,Magic Empire Global Limited,Financial Services,Capital Markets,Hong Kong,15210978,0.216,4107580,652089,140851.224,0.267,,,0.72389,-0.8695,-0.72067,-0.06627,-0.06343,120729816,3063509,2.527,38.865,38.551,-6781871,,69421194,4828470,0.01402,0.00084,48930,3.27,0.0007,,,1.3193667,0.07080087,-10.111,,,,,,none,,,,,,,2.391,https://meglmagic.com,2026-10-29T11:50:18.166067+00:00
+1.50,MEGL,Magic Empire Global Limited,Financial Services,Capital Markets,Hong Kong,11450486,0.1626,4453860,706345,114851.697,0.267,,,0.72389,-0.8695,-0.72067,-0.06627,-0.06343,120729816,3063509,2.527,38.865,38.551,-6781871,,69421194,4828470,0.01402,0.00084,48930,3.27,0.0007,,,0.9931899,0.05329732,-10.135,,,,,,none,,,,,,,2.391,https://meglmagic.com,2026-10-31T18:23:08.203214+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-05,49.50,233.59,48.76,96.03,,,,,,,0,48.7575,1,64447,,,,
 2022-08-08,231.89,247.44,85.44,115.83,,,,,,,0,48.7575,1,110998,,,,
@@ -1075,5 +1075,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.76,0.80,0.76,0.76,0.72,0.85,1.06,1.12,1.12,0.9379,0,0.8521,0,1,14,-0.1077,-0.1156,0.0079
 2026-10-26,0.81,0.83,0.71,0.72,0.72,0.83,1.05,1.12,1.12,0.9379,0,0.8320,0,8,13,-0.1041,-0.1133,0.0092
 2026-10-27,0.69,0.69,0.23,0.33,0.69,0.78,1.03,1.11,1.11,0.8359,0,0.8280,0,12353,260,-0.1307,-0.1168,-0.0139
-2026-10-28,0.28,0.28,0.21,0.22,0.64,0.73,1.01,1.11,1.11,0.6187,0,0.8280,0,836,276,-0.1594,-0.1253,-0.0341
-2026-10-29,0.19,0.19,0.16,0.17,0.59,0.68,0.99,1.10,1.10,0.5324,0,0.7535,0,222,280,-0.1835,-0.1369,-0.0466
+2026-10-28,0.28,0.28,0.21,0.22,0.64,0.73,1.01,1.11,1.11,0.6187,0,0.8280,0,921,278,-0.1594,-0.1253,-0.0341
+2026-10-29,0.19,0.19,0.16,0.18,0.59,0.68,0.99,1.10,1.10,0.5324,0,0.7535,0,377,285,-0.1831,-0.1369,-0.0462
+2026-10-30,0.18,0.18,0.16,0.16,0.53,0.63,0.97,1.10,1.10,0.4939,0,0.6707,0,165,288,-0.2008,-0.1496,-0.0511
+2026-11-02,0.16,0.17,0.16,0.17,0.47,0.59,0.95,1.09,1.09,0.4651,0,0.5885,0,84,289,-0.2121,-0.1621,-0.0500

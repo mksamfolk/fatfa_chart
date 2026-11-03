@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,CHENGHE INVESTMENT I LTD,Beneficial Owner of more than 10% of a Class of Security,,Conversion of Exercise of derivative security,2025-01-15,1491870,1736899200\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.009,2876258,15675605,0.0\n1,2026-06-30,"Geode Capital Management, LLC",0.001,308323,1680360,0.0073\n2,2026-06-30,"Jane Street Group, LLC",0.0001,47001,256155,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.009,2876258,15445505,0.0\n1,2026-06-30,"Geode Capital Management, LLC",0.001,308323,1655694,0.0073\n2,2026-06-30,"Jane Street Group, LLC",0.0001,47001,252395,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,35,187,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,204256,1113195,-0.0591\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,91108,496538,-0.0005\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,204256,1096854,-0.0591\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,91108,489249,-0.0005\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,1491873,,,CHENGHE INVESTMENT I LTD,Beneficial Owner of more than 10% of a Class of Security,,2025-01-15,I\n
 major_holders
-,Value\ninsidersPercentHeld,0.97998\ninstitutionsPercentHeld,0.01084\ninstitutionsFloatPercentHeld,0.54165\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.97998\ninstitutionsPercentHeld,0.01084\ninstitutionsFloatPercentHeld,0.54165\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "4df22702-5fdf-3a98-8008-7f17ab3c81dc",\n    "title": "Polibeli Teams Up with Tencent WorkBuddy to Pursue a Global AI Agent Market Projected to Reach $182.9 Billion by 2033",\n    "publisher": "TMX Newsfile",\n    "link": "https://finance.yahoo.com/technology/ai/articles/polibeli-teams-tencent-workbuddy-pursue-034100204.html",\n    "providerPublishTime": 1792554060,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/newsfile_64/ae7164b1903b05e7ad1696ce4809ea72.jpg",\n          "width": 400,\n          "height": 400,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/F38DE807F9CFC79CFC8DEC7A8A80E12304DBA264593CCD88098CF79D7527E74F/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsfile_64%2Fae7164b1903b05e7ad1696ce4809ea72.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "PLBL"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.00,PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Singapore,1996811520,5.45,179410,212996,1160828.2,-0.346,,,0.08586001,-0.32883,-0.09405,,,1657144,3949184,,0.928,0.618,,,319108190,6386134,0.97998,0.01084,292001,1.64,0.045700002,,,96.46228,-45.416668,96.573,-291.307,,,,,none,,,,,,,-1.288,https://www.polibeli.id,2026-10-29T12:45:12.916892+00:00
+24.37,PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Singapore,1967500544,5.37,161440,212454,1140877.98,-0.346,,,0.08586001,-0.32883,-0.09405,,,1657144,3949184,,0.928,0.618,,,319108190,6386134,0.97998,0.01084,292001,1.64,0.045700002,,,95.046326,-44.75,95.157,-287.036,,,,,none,,,,,,,-1.288,https://www.polibeli.id,2026-10-31T19:18:33.138570+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-08,10.00,11.20,9.03,10.73,,,,,,,0,9.0310,1,2362,,,,
 2025-08-11,10.44,12.29,10.18,11.49,,,,,,,0,9.0310,1,1181,,,,
@@ -322,4 +322,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,5.45,5.57,5.36,5.50,5.43,5.53,5.81,7.08,7.77,6.3440,0,5.9018,0,1249,1293,-0.1453,-0.1731,0.0278
 2026-10-27,5.52,5.54,5.41,5.50,5.43,5.53,5.78,7.06,7.74,6.3135,0,5.8742,0,998,1300,-0.1320,-0.1649,0.0329
 2026-10-28,5.35,5.54,5.35,5.45,5.43,5.52,5.75,7.05,7.71,6.2567,0,5.8476,0,881,1316,-0.1241,-0.1568,0.0326
-2026-10-29,5.43,5.48,5.28,5.34,5.42,5.51,5.75,7.03,7.67,6.1715,0,5.8221,0,266,1277,-0.1257,-0.1505,0.0248
+2026-10-29,5.43,5.48,5.28,5.38,5.42,5.51,5.75,7.03,7.67,6.1715,0,5.8221,0,535,1283,-0.1221,-0.1498,0.0277
+2026-10-30,5.40,5.42,5.31,5.37,5.41,5.50,5.76,7.01,7.65,6.1081,0,5.7976,0,562,1279,-0.1200,-0.1439,0.0239
+2026-11-02,5.44,5.55,5.38,5.52,5.43,5.49,5.76,6.99,7.62,6.1081,0,5.7741,0,739,1284,-0.1049,-0.1361,0.0311

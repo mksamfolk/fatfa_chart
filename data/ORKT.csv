@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0047,23708,23945,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0037,18488,18672,1.0\n2,2026-06-30,Virtu Financial LLC,0.0034,17213,17385,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0026,13138,13269,-0.37919998\n4,2026-09-30,NFSG Corp,0.0017,8739,8826,0.0\n5,2026-06-30,UBS Group AG,0.0008,3882,3920,-0.0038\n6,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,5,5,4.0\n7,2026-06-30,Morgan Stanley,0.0,23,23,-0.0417\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0047,23708,23708,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0037,18488,18488,1.0\n2,2026-06-30,Virtu Financial LLC,0.0034,17213,17213,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0026,13138,13138,-0.37919998\n4,2026-09-30,NFSG Corp,0.0017,8739,8739,0.0\n5,2026-06-30,UBS Group AG,0.0008,3882,3882,-0.0038\n6,2026-06-30,Morgan Stanley,0.0,23,23,-0.0417\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,3,-0.4\n
 mutualfund_holders
 ""\n
 recommendations
@@ -23,11 +23,11 @@ insider_transactions
 major_holders
 ,Value\ninsidersPercentHeld,0.61232\ninstitutionsPercentHeld,0.01696\ninstitutionsFloatPercentHeld,0.043759998\ninstitutionsCount,8.0\n
 news
-[]\n
+[\n  {\n    "uuid": "000319d0-e537-342d-a6c8-e257c132e947",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113747903.html",\n    "providerPublishTime": 1792150667,\n    "type": "STORY",\n    "relatedTickers": [\n      "JAGX",\n      "MDXH",\n      "ORKT",\n      "SDST"\n    ]\n  },\n  {\n    "uuid": "6d5b4840-55a4-35f7-aee9-a72b8b3dedfc",\n    "title": "Orangekloud Technology to Acquire Orbis Technology, Become VeVe Inc.",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/orangekloud-technology-acquire-orbis-technology-210228516.html",\n    "providerPublishTime": 1787605348,\n    "type": "STORY",\n    "relatedTickers": [\n      "ORKT"\n    ]\n  },\n  {\n    "uuid": "0c0e7dd1-9577-38c1-bb5d-78a38a418f0f",\n    "title": "Orangekloud Technology Inc. Enters into Definitive Agreement to Acquire Orbis Technology Limited, Operator of VeVe",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/orangekloud-technology-inc-enters-definitive-203000311.html",\n    "providerPublishTime": 1787603400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/6d163c09b24e4db7fe958ea80118bc1f.png",\n          "width": 2100,\n          "height": 733,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/3E9C4A2C3F853079A6F3E586255ACB7F448D049FCAF03C1F2E5C05A69E533476/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F6d163c09b24e4db7fe958ea80118bc1f.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ORKT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-09-29 09:30:00-04:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-49.43,ORKT,Orangekloud Technology Inc.,Technology,Software - Application,Singapore,5898167,1.01,106950,132893,134221.93,-0.025,,,0.44457,-1.21609,-0.69679,-0.5291,-0.41556,847703,1420191,25.773,1.004,0.772,,,5022202,1947033,0.61232,0.01696,31015,0.28,0.0159,,-1.0520834,1.0496106,1.3665284,1.151,-1.055,,,,,none,,,,,,,2.827,https://orangekloud.com,2026-10-29T12:32:09.582705+00:00
+42.63,ORKT,Orangekloud Technology Inc.,Technology,Software - Application,Singapore,5839770,1.0,106780,131778,131778.0,-0.025,,,0.44457,-1.21609,-0.69679,-0.5291,-0.41556,847703,1420191,25.773,1.004,0.772,,,5022202,1947033,0.61232,0.01696,31015,0.28,0.0159,,-1.0416667,1.0392185,1.3529985,1.141,-1.046,,,,,none,,,,,,,2.827,https://orangekloud.com,2026-10-31T19:05:06.525010+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-25,20.80,30.00,20.00,22.80,,,,,,,0,20.0000,1,22045,,,,
 2024-07-26,22.08,25.56,22.08,22.12,,,,,,,0,20.0000,1,1720,,,,
@@ -581,4 +581,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.98,1.02,0.97,1.00,1.00,1.00,1.01,1.06,1.03,1.1730,0,1.0380,0,104,132,-0.0004,-0.0027,0.0022
 2026-10-27,1.01,1.01,0.98,1.00,1.01,1.00,1.01,1.06,1.03,1.1730,0,1.0351,0,102,134,-0.0009,-0.0023,0.0014
 2026-10-28,1.02,1.05,1.00,1.01,1.01,1.00,1.00,1.05,1.03,1.1730,0,0.8950,1,109,136,-0.0004,-0.0019,0.0015
-2026-10-29,0.99,1.00,0.98,0.99,1.01,1.00,1.00,1.05,1.03,1.1730,0,0.8981,1,93,137,-0.0017,-0.0019,0.0002
+2026-10-29,1.00,1.01,0.98,1.00,1.01,1.00,1.00,1.05,1.03,1.1730,0,0.8981,1,110,138,-0.0009,-0.0017,0.0008
+2026-10-30,0.99,1.01,0.93,1.00,1.01,1.00,1.01,1.05,1.03,1.1730,0,0.9011,1,109,139,-0.0012,-0.0016,0.0004
+2026-11-02,1.01,1.03,0.94,0.94,1.00,1.00,1.01,1.05,1.03,1.1730,0,0.9041,1,109,141,-0.0061,-0.0025,-0.0035

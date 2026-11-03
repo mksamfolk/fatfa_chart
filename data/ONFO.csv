@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,WELLS DOMINIC BENJAMIN JAMES,Chief Executive Officer,,Purchase,2025-12-31,1240000,2025-12-31\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vanguard Capital Management LLC,0.0004,1000,473,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00029999999,656,310,-0.6164\n2,2026-06-30,Bank of Montreal /CAN/,0.0002,400,189,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0002,447,211,1.0\n4,2026-06-30,HRT Financial LP,0.0002,385,182,1.0\n5,2026-06-30,Stonex Group Inc.,0.0001,374,177,1.0\n6,2026-06-30,Northern Trust Corporation,0.0001,229,108,1.0\n7,2026-06-30,Citadel Advisors Llc,0.0001,221,104,-0.35759997\n8,2026-06-30,Citigroup Inc.,0.0,16,7,1.0\n9,2026-06-30,Tower Research Capital LLC (TRC),0.0,100,47,0.5385\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vanguard Capital Management LLC,0.0004,1000,465,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00029999999,656,305,-0.6164\n2,2026-06-30,Bank of Montreal /CAN/,0.0002,400,186,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0002,447,208,1.0\n4,2026-06-30,HRT Financial LP,0.0002,385,179,1.0\n5,2026-06-30,Stonex Group Inc.,0.0001,374,174,1.0\n6,2026-06-30,Northern Trust Corporation,0.0001,229,106,1.0\n7,2026-06-30,Citadel Advisors Llc,0.0001,221,102,-0.35759997\n8,2026-06-30,Citigroup Inc.,0.0,16,7,1.0\n9,2026-06-30,Tower Research Capital LLC (TRC),0.0,100,46,0.5385\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0004,1000,473,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0002,556,263,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0,83,39,0.012200001\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0004,1000,465,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0002,556,259,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0,83,38,0.012200001\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-10 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.68,ONFO,Onfolio Holdings Inc.,Communication Services,Internet Content & Information,United States,1184143,0.4738,49370,2130541,1009450.3258,-0.524,,,0.5452,-0.64472,-1.01856,-6.2611103,-0.21221,250733,2350095,,0.09,0.068,-1817620,4355242,2499248,2144382,0.0128999995,0.00658,215457,0.43,0.0871,,,0.14557073,-0.02290881,0.56,-2.451,,,,,none,,,,,,2026-11-12,2.386,https://www.onfolio.com,2026-10-29T12:29:20.203152+00:00
+94.81,ONFO,Onfolio Holdings Inc.,Communication Services,Internet Content & Information,United States,1164649,0.466,46460,2037749,949591.0340000001,-0.524,,,0.5452,-0.64472,-1.01856,-6.2611103,-0.21221,250733,2350095,,0.09,0.068,-1817620,4355242,2499248,2144382,0.0128999995,0.00658,215457,0.43,0.0871,,,0.14317426,-0.02253167,0.558,-2.441,,,,,none,,,,,,2026-11-12,2.386,https://www.onfolio.com,2026-10-31T19:02:14.286671+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-26,3.35,3.66,2.16,2.40,,,,,,,0,3.6600,0,13014,,,,
 2022-08-29,2.22,2.54,2.09,2.20,,,,,,,0,3.6600,0,3474,,,,
@@ -1061,4 +1061,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.51,0.51,0.42,0.48,0.55,0.70,1.13,0.93,0.86,0.8162,0,0.6419,0,63,7162,-0.2028,-0.2064,0.0036
 2026-10-27,0.49,0.50,0.47,0.50,0.54,0.67,1.14,0.93,0.85,0.8060,0,0.5975,0,14,7159,-0.1964,-0.2044,0.0080
 2026-10-28,0.46,0.48,0.45,0.47,0.53,0.64,1.15,0.93,0.85,0.7697,0,0.5620,0,9,6625,-0.1908,-0.2016,0.0108
-2026-10-29,0.49,0.49,0.47,0.48,0.52,0.62,1.16,0.93,0.85,0.7634,0,0.5336,0,3,6601,-0.1838,-0.1981,0.0143
+2026-10-29,0.49,0.49,0.47,0.49,0.52,0.62,1.16,0.93,0.85,0.7634,0,0.5336,0,12,6601,-0.1827,-0.1978,0.0152
+2026-10-30,0.49,0.49,0.43,0.47,0.51,0.60,1.16,0.93,0.85,0.7351,0,0.5109,0,38,6596,-0.1764,-0.1936,0.0171
+2026-11-02,0.46,0.48,0.46,0.47,0.50,0.58,1.10,0.93,0.85,0.7220,0,0.4940,0,15,6125,-0.1688,-0.1886,0.0198

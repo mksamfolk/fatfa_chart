@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0,200000,1960000,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0,25000,245000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0,200000,1965999,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0,25000,245749,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAMO,Samos Energy Acquisition Corporation,Financial Services,Shell Companies,United States,281750016,9.8,11920,22223,217785.40000000002,,,,0.0,0.0,0.0,,,,93088,,,,,,28750000,,0.08696,0.00978,67,0.0,,,,,-1400.0,,,,,,,none,,,,,,,,,2026-10-29T13:18:03.109244+00:00
+0.00,SAMO,Samos Energy Acquisition Corporation,Financial Services,Shell Companies,United States,282612512,9.83,6650,21238,208769.54,,,,0.0,0.0,0.0,,,,93088,,,,,,28750000,,0.08696,0.00978,67,0.0,,,,,-1404.2856,,,,,,,none,,,,,,,,,2026-10-31T19:49:58.370354+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-31,9.90,9.90,9.80,9.82,,,,,,,0,9.9000,0,370,,,,
 2026-09-01,9.80,9.81,9.79,9.80,,,,,,,0,9.9000,0,268,,,,
@@ -71,4 +71,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.80,9.80,9.80,9.80,9.80,9.81,,,,9.8123,0,9.8421,0,108,,-0.0037,-0.0037,0.0000
 2026-10-27,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8111,0,9.8410,0,,,-0.0035,-0.0037,0.0002
 2026-10-28,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8100,0,9.8400,0,,,-0.0034,-0.0036,0.0003
-2026-10-29,9.80,9.80,9.79,9.79,9.80,9.80,,,,9.8070,0,9.8390,0,10,,-0.0040,-0.0037,-0.0003
+2026-10-29,9.80,9.83,9.79,9.83,9.80,9.80,,,,9.7952,1,9.8390,0,11,,-0.0008,-0.0031,0.0023
+2026-10-30,9.83,9.83,9.83,9.83,9.81,9.80,,,,9.8111,1,9.8380,0,,,0.0012,-0.0022,0.0034
+2026-11-02,9.79,9.80,9.79,9.80,9.81,9.80,,,,9.8240,0,9.8371,0,5048,,0.0004,-0.0017,0.0021

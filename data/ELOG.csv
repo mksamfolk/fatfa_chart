@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CHEUNG CHUNG LEUNG,Chief Financial Officer,,Stock Award(Grant),2026-03-31,100000,2026-03-31\n1,CHIU CHUN PONG,Director,,Stock Award(Grant),2026-03-31,5000,2026-03-31\n2,CHOW JOSEPH SHIU WING,Director,,Stock Award(Grant),2026-03-31,5000,2026-03-31\n3,KUO YUYUN TRISTAN,Director,,Stock Award(Grant),2026-03-31,5000,2026-03-31\n4,LI CHING HEI,Director,,Stock Award(Grant),2026-03-31,80000,2026-03-31\n5,WONG ALBERT,Chief Executive Officer,,Stock Award(Grant),2026-03-31,180000,2026-03-31\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.003,38229,32991,1.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0015,19713,17012,0.6931\n2,2026-06-30,Virtu Financial LLC,0.0014,17436,15047,1.0\n3,2026-06-30,Citadel Advisors Llc,0.0014,17481,15086,-0.6515\n4,2026-06-30,UBS Group AG,0.00059999997,7592,6551,8.8342\n5,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.003,38229,27528,1.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0015,19713,14195,0.6931\n2,2026-06-30,Virtu Financial LLC,0.0014,17436,12555,1.0\n3,2026-06-30,Citadel Advisors Llc,0.0014,17481,12588,-0.6515\n4,2026-06-30,UBS Group AG,0.00059999997,7592,5466,8.8342\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.73,ELOG,Eastern International Ltd.,Industrials,Integrated Freight & Logistics,China,11074016,0.863,111050,542061,467798.643,-0.018,,,0.092980005,-0.113450006,-0.02525,-0.08643,-0.02323,3054870,6894319,45.375,1.71,1.32,-2577426,-3483950,12832000,3378409,0.45786998,0.00783,272917,0.28,0.073699996,,,0.24268214,0.7288851,0.327,-16.048,,,,,none,,,,,,,,https://www.elogint.com,2026-10-29T10:02:45.194847+00:00
+25.67,ELOG,Eastern International Ltd.,Industrials,Integrated Freight & Logistics,China,9240323,0.7201,103000,553862,398836.02619999996,-0.018,,,0.092980005,-0.113450006,-0.02525,-0.08643,-0.02323,3054870,6894319,45.375,1.71,1.32,-2577426,-3483950,12832000,3378409,0.45786998,0.00783,272917,0.28,0.073699996,,,0.20249757,0.60819256,0.287,-14.075,,,,,none,,,,,,,,https://www.elogint.com,2026-10-31T15:46:00.174995+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-28,3.40,3.60,2.80,2.96,,,,,,,0,3.6000,0,2314,,,,
 2025-08-29,3.03,3.16,2.61,2.96,,,,,,,0,3.6000,0,1727,,,,
@@ -308,4 +308,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.98,0.98,0.96,0.96,1.18,0.93,0.85,0.92,1.01,0.8095,1,1.6223,0,11,465,0.0813,0.0901,-0.0088
 2026-10-27,0.93,0.96,0.80,0.85,1.11,0.94,0.85,0.91,1.00,0.8095,1,1.6088,0,20,465,0.0606,0.0842,-0.0236
 2026-10-28,0.85,0.86,0.80,0.86,1.06,0.95,0.84,0.91,1.00,0.8095,1,1.5765,0,25,465,0.0448,0.0763,-0.0316
-2026-10-29,0.80,1.16,0.80,0.89,1.02,0.96,0.84,0.91,1.00,0.8095,1,1.5454,0,144,468,0.0339,0.0678,-0.0339
+2026-10-29,0.80,1.16,0.80,0.81,1.01,0.96,0.84,0.91,1.00,1.2584,0,1.5454,0,137,468,0.0273,0.0665,-0.0392
+2026-10-30,0.80,0.82,0.72,0.72,0.95,0.97,0.84,0.90,0.99,1.2418,0,1.5156,0,40,469,0.0064,0.0545,-0.0481
+2026-11-02,0.85,0.95,0.73,0.78,0.92,0.98,0.84,0.90,0.99,1.2418,0,1.4679,0,145,471,-0.0052,0.0425,-0.0478

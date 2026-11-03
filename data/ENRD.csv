@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Alyeska Investment Group, L.p.",0.0648,9499352,20993568,1.0\n1,2026-06-30,Capital World Investors,0.028399998,4168509,9212405,1.0\n2,2026-06-30,Soros Fund Management LLC,0.020299999,2977687,6580688,1.0\n3,2026-06-30,Capital International Investors,0.0011,164658,363894,1.0\n4,2026-06-30,"Boothbay Fund Management, LLC",0.0004,55266,122137,1.0\n5,2026-06-30,UBS Group AG,0.0002,27891,61639,1.0\n6,2026-06-30,Athos Capital Ltd,0.0002,25000,55250,1.0\n7,2026-06-30,National Bank of Canada/FI/,0.0001,11615,25669,1.0\n8,2026-06-30,Citadel Advisors Llc,0.0001,17141,37881,1.0\n9,2026-09-30,"Diversify Wealth Management, LLC",0.0001,10500,23205,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Alyeska Investment Group, L.p.",0.0648,9499352,20518601,1.0\n1,2026-06-30,Capital World Investors,0.028399998,4168509,9003979,1.0\n2,2026-06-30,Soros Fund Management LLC,0.020299999,2977687,6431804,1.0\n3,2026-06-30,Capital International Investors,0.0011,164658,355661,1.0\n4,2026-06-30,"Boothbay Fund Management, LLC",0.0004,55266,119374,1.0\n5,2026-06-30,UBS Group AG,0.0002,27891,60244,1.0\n6,2026-06-30,Athos Capital Ltd,0.0002,25000,54000,1.0\n7,2026-06-30,National Bank of Canada/FI/,0.0001,11615,25088,1.0\n8,2026-06-30,Citadel Advisors Llc,0.0001,17141,37024,1.0\n9,2026-09-30,"Diversify Wealth Management, LLC",0.0001,10500,22680,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Growth Fund of America,0.059499998,8731538,19296699,0.0\n1,2026-09-30,SmallCap World Fund Inc,0.0513,7518959,16616899,36.168503\n2,2026-09-30,AMERICAN FUNDS INSURANCE SERIES-Growth Fund,0.0126,1845325,4078168,1.6122999\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,10181,22500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Growth Fund of America,0.059499998,8731538,18860122,0.0\n1,2026-09-30,SmallCap World Fund Inc,0.0513,7518959,16240952,36.168503\n2,2026-09-30,AMERICAN FUNDS INSURANCE SERIES-Growth Fund,0.0126,1845325,3985902,1.6122999\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,10181,21990,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ENRD,Einride AB,Technology,Software - Application,Sweden,315064000,2.21,100500,214312,473629.52,0.217,,,-0.51284003,0.0,0.0,,-0.25016,,,,0.433,0.417,,879163520,142562891,122926665,0.040549997,0.14071,298924,1.22,,,-0.43164065,,,,,7.8973093,7.8973093,7.8973093,,none,1,0,0,0,0,2026-08-18,,https://www.einride.tech,2026-10-29T10:05:22.496655+00:00
+0.00,ENRD,Einride AB,Technology,Software - Application,Sweden,307935872,2.16,86620,216887,468475.92000000004,0.217,,,-0.51284003,0.0,0.0,,-0.25016,,,,0.433,0.417,,879163520,142562891,122926665,0.040549997,0.14071,298924,1.22,,,-0.42187503,,,,,7.96144,7.96144,7.96144,,none,1,0,0,0,0,2026-08-18,,https://www.einride.tech,2026-10-31T15:48:26.440787+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-10,16.18,34.00,14.50,14.99,,,,,,,0,34.0000,0,4870,,,,
 2026-06-11,15.00,15.00,10.05,10.53,,,,,,,0,34.0000,0,2140,,,,
@@ -112,4 +112,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.42,2.42,2.06,2.15,2.44,3.02,4.42,,,3.2901,0,2.6600,0,346,927,-0.6849,-0.6993,0.0145
 2026-10-27,2.11,2.30,2.11,2.19,2.39,2.92,4.36,,,3.2071,0,2.5400,0,235,931,-0.6707,-0.6936,0.0229
 2026-10-28,2.21,2.29,1.84,2.21,2.38,2.81,4.30,,,3.1019,0,2.4440,0,398,937,-0.6504,-0.6850,0.0346
-2026-10-29,2.23,2.28,2.06,2.15,2.33,2.72,4.25,,,3.1019,0,2.3232,0,29,935,-0.6318,-0.6743,0.0425
+2026-10-29,2.23,2.28,2.05,2.22,2.34,2.72,4.25,,,3.1019,0,2.3232,0,88,936,-0.6262,-0.6732,0.0470
+2026-10-30,2.17,2.24,2.12,2.16,2.31,2.65,4.20,,,3.1019,0,2.2900,0,56,936,-0.6049,-0.6596,0.0546
+2026-11-02,2.16,2.16,2.08,2.08,2.28,2.59,4.13,,,2.9882,0,2.2800,0,47,928,-0.5878,-0.6452,0.0574

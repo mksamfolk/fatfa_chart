@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0017,3345,26258,1.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0013,2577,20229,-0.1456\n2,2026-06-30,UBS Group AG,0.00059999997,1164,9137,-0.72190005\n3,2026-06-30,HRT Financial LP,0.0005,1079,8470,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0004,813,6382,0.514\n5,2026-06-30,"Geode Capital Management, LLC",0.00029999999,656,5149,-0.2923\n6,2026-06-30,GSA Capital Partners LLP,0.0002,436,3422,1.0\n7,2026-06-30,"Renaissance Technologies, LLC",0.0002,385,3022,-0.90639997\n8,2026-06-30,"Susquehanna International Group, LLP",0.0002,390,3061,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0017,3345,23883,1.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0013,2577,18399,-0.1456\n2,2026-06-30,UBS Group AG,0.00059999997,1164,8310,-0.72190005\n3,2026-06-30,HRT Financial LP,0.0005,1079,7704,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0004,813,5804,0.514\n5,2026-06-30,"Geode Capital Management, LLC",0.00029999999,656,4683,-0.2923\n6,2026-06-30,GSA Capital Partners LLP,0.0002,436,3113,1.0\n7,2026-06-30,"Renaissance Technologies, LLC",0.0002,385,2748,-0.90639997\n8,2026-06-30,"Susquehanna International Group, LLP",0.0002,390,2784,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,656,5149,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,656,4683,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,1,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.81,CCG,Cheche Group Inc.,Communication Services,Internet Content & Information,China,19667594,7.85,45370,32233,253029.05,-0.344,,,0.06345,-0.05708,-0.014249999,-0.11229,-0.02414,131956000,155252992,50.952,1.303,1.153,-34229000,-61320376,1974098,905046,0.48150003,0.0054900004,28962,0.91,0.0184,,-13.942514,0.0077241682,0.408117,0.016,-1.0,57.319214,57.319214,57.319214,,none,1,,,,,2026-09-04,0.274,https://www.chechegroup.com,2026-10-29T09:14:53.867392+00:00
+99.81,CCG,Cheche Group Inc.,Communication Services,Internet Content & Information,China,17888742,7.14,45240,32414,231435.96,-0.344,,,0.06345,-0.05708,-0.014249999,-0.11229,-0.02414,131956000,155252992,50.952,1.303,1.153,-34229000,-61320376,1974098,905046,0.48150003,0.0054900004,28962,0.91,0.0184,,-12.681472,0.007025549,0.3712045,0.016,-0.96,57.37607,57.37607,57.37607,,none,1,,,,,2026-09-04,0.274,https://www.chechegroup.com,2026-10-31T14:56:03.979215+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-18,11.47,200.00,11.47,75.00,,,,,,,0,11.4700,1,38858,,,,
 2023-09-19,56.00,84.70,28.11,32.37,,,,,,,0,11.4700,1,15253,,,,
@@ -796,4 +796,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,8.65,8.65,7.30,8.14,5.89,7.26,11.93,4.80,3.81,9.1996,0,4.5913,1,225,349,-1.4499,-1.8883,0.4384
 2026-10-27,8.10,8.61,7.50,8.00,6.25,6.96,11.85,4.85,3.84,9.1996,0,4.8486,1,300,351,-1.2563,-1.7619,0.5056
 2026-10-28,7.58,8.28,7.50,7.85,6.56,6.71,11.76,4.90,3.88,9.1996,0,5.0904,1,300,353,-1.1023,-1.6300,0.5277
-2026-10-29,7.61,7.67,7.45,7.67,6.82,6.43,11.66,4.94,3.91,9.1996,0,5.3177,1,26,350,-0.9835,-1.5007,0.5172
+2026-10-29,7.96,7.96,7.33,7.51,6.81,6.42,11.65,4.94,3.91,9.1996,0,5.3177,1,82,351,-0.9962,-1.5032,0.5070
+2026-10-30,7.50,7.85,7.14,7.14,7.04,5.98,11.53,4.98,3.94,9.1996,0,5.5314,1,96,350,-0.9313,-1.3888,0.4576
+2026-11-02,7.39,7.39,6.86,7.20,7.30,6.09,11.37,5.03,3.97,9.1996,0,5.7323,1,101,346,-0.8650,-1.2841,0.4191

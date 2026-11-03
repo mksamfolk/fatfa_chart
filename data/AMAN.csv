@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date,Shares Owned Indirectly,Position Indirect Date\n0,AMANAT SPONSOR HOLDINGS LLC,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-05-20,300000.0,2026-05-20,,\n1,KULKARNI SANDEEP CHIDAMBAR,Chairman of the Board,,Purchase,2026-05-20,,,300000.0,1779235200.0\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Nantahala Capital Management, LLC",0.1538,1200000,12216000,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0962,750000,7635000,1.0\n2,2026-06-30,Sculptor Capital LP,0.094,732867,7460586,1.0\n3,2026-06-30,Braidwell LP                          ,0.089700006,700000,7126000,1.0\n4,2026-06-30,Great Point Partners LLC,0.0641,500000,5090000,1.0\n5,2026-06-30,"Affinity Asset Advisors, Llc",0.0481,375000,3817500,1.0\n6,2026-06-30,"RA Capital Management, L.P.",0.0481,375000,3817500,1.0\n7,2026-06-30,Toronto Dominion Bank,0.0417,325000,3308500,1.0\n8,2026-06-30,Citadel Advisors Llc,0.0365,284637,2897604,1.0\n9,2026-06-30,Millennium Management Llc,0.0354,276160,2811308,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Nantahala Capital Management, LLC",0.1538,1200000,12120000,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0962,750000,7575000,1.0\n2,2026-06-30,Sculptor Capital LP,0.094,732867,7401956,1.0\n3,2026-06-30,Braidwell LP                          ,0.089700006,700000,7070000,1.0\n4,2026-06-30,Great Point Partners LLC,0.0641,500000,5050000,1.0\n5,2026-06-30,"Affinity Asset Advisors, Llc",0.0481,375000,3787500,1.0\n6,2026-06-30,"RA Capital Management, L.P.",0.0481,375000,3787500,1.0\n7,2026-06-30,Toronto Dominion Bank,0.0417,325000,3282500,1.0\n8,2026-06-30,Citadel Advisors Llc,0.0365,284637,2874833,1.0\n9,2026-06-30,Millennium Management Llc,0.0354,276160,2789216,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AMAN,Amanat Acquisition Corp,Financial Services,Shell Companies,United States,98491504,10.18,62910,25410,258673.8,,,,0.0,0.0,0.0,,,1634424,0,,,,,,7800000,,0.03846,0.92361,2289,0.48,,,,,-124.14634,,,,,,,none,,,,,,,,https://amanatacquisition.com,2026-10-29T08:26:02.808740+00:00
+0.00,AMAN,Amanat Acquisition Corp,Financial Services,Shell Companies,United States,97717504,10.1,169280,39046,394364.6,,,,0.0,0.0,0.0,,,1634424,0,,,,,,7800000,,0.03846,0.92361,2289,0.48,,,,,-123.17073,,,,,,,none,,,,,,,,https://amanatacquisition.com,2026-10-31T14:05:33.028267+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-19,10.15,10.19,10.01,10.01,,,,,,,0,10.0100,1,16379,,,,
 2026-05-20,10.15,10.34,10.10,10.10,,,,,,,0,10.0100,1,913,,,,
@@ -127,4 +127,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.19,10.26,10.08,10.20,10.27,10.44,10.48,,,10.4388,0,10.3888,0,3018,340,-0.0958,-0.0655,-0.0304
 2026-10-27,10.19,10.22,10.15,10.19,10.25,10.41,10.48,,,10.4388,0,10.3456,0,1149,351,-0.0980,-0.0720,-0.0260
 2026-10-28,10.17,10.21,10.15,10.18,10.23,10.38,10.48,,,10.4347,0,10.3084,0,1326,330,-0.0994,-0.0775,-0.0219
-2026-10-29,10.19,10.19,10.14,10.16,10.22,10.35,10.48,,,10.4092,0,10.2764,0,6202,449,-0.1009,-0.0822,-0.0188
+2026-10-29,10.19,10.19,10.13,10.15,10.22,10.35,10.48,,,10.4072,0,10.2764,0,7124,467,-0.1017,-0.0823,-0.0194
+2026-10-30,10.15,10.15,10.10,10.10,10.20,10.32,10.48,,,10.3625,0,10.2489,0,3873,506,-0.1064,-0.0871,-0.0192
+2026-11-02,10.10,10.14,10.09,10.11,10.18,10.29,10.48,,,10.3408,0,10.2253,0,1784,537,-0.1080,-0.0913,-0.0167

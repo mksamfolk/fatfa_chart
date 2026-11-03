@@ -1,0 +1,45 @@
+balance_sheet
+""\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,CHA ALBERT,Chief Executive Officer,,Purchase,2026-10-15,300000,1792022400\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+""\n
+earnings_dates
+""\n
+insider_transactions
+,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,300000,3000000,,Purchase at price 10.00 per share.,CHA ALBERT,Chief Executive Officer,,2026-10-15,I\n
+major_holders
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.4359\ninstitutionsFloatPercentHeld,0.4359\ninstitutionsCount,6.0\n
+news
+[\n  {\n    "uuid": "8f536a2f-716a-365d-9b3a-606bcf60a9cf",\n    "title": "Frazier Life Sciences Acquisition Corp. II Announces Completion of $75,000,000 Initial Public Offering",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/frazier-life-sciences-acquisition-corp-200500615.html",\n    "providerPublishTime": 1792094700,\n    "type": "STORY",\n    "relatedTickers": [\n      "^IXIC",\n      "FLSC"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,FLSC,Frazier Life Sciences Acquisition Corp II,Financial Services,Shell Companies,United States,98394752,10.17,34630,130776,1329991.92,,,,0.0,0.0,0.0,,,,,,,,,,7800000,,0.0,0.4359,17259,0.03,,,,,,,,,,,,none,,,,,,,,,2026-10-31T16:06:10.264367+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-14,10.18,10.41,10.18,10.29,,,,,,,0,10.1800,1,12532,,,,
+2026-10-15,10.23,10.50,10.23,10.49,,,,,,,0,10.1800,1,883,,,,
+2026-10-16,10.59,10.59,10.28,10.35,,,,,,,0,10.1800,1,535,,,,
+2026-10-19,10.40,10.63,10.29,10.29,,,,,,,0,10.1964,1,1462,,,,
+2026-10-20,10.29,10.35,10.26,10.28,,,,,,,0,10.2224,1,737,,,,
+2026-10-21,10.30,10.37,10.28,10.30,,,,,,,0,10.2469,1,466,,,,
+2026-10-22,10.35,10.37,10.25,10.27,,,,,,,0,10.6300,0,291,,,,
+2026-10-23,10.30,10.32,10.27,10.30,,,,,,,0,10.6224,0,206,,,,
+2026-10-26,10.25,10.30,10.10,10.28,,,,,,,0,10.6150,0,296,,,,
+2026-10-27,10.21,10.28,10.21,10.23,10.31,,,,,10.7760,0,10.5944,0,41,,,,
+2026-10-28,10.23,10.23,10.23,10.23,10.30,,,,,10.7079,0,10.5746,0,,,,,
+2026-10-29,10.19,10.28,10.18,10.21,10.27,,,,,10.6901,0,10.5556,0,25,,,,
+2026-10-30,10.28,10.28,10.16,10.17,10.26,,,,,10.6701,0,10.5374,0,39,,,,
+2026-11-02,10.20,10.25,10.16,10.16,10.24,,,,,10.6371,0,10.5199,0,483,,,,

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.005,124158,305428,-0.2005\n1,2026-06-30,Forest Avenue Capital Management LP                          ,0.0047999998,118977,292683,-0.008\n2,2026-06-30,Marshall Wace LLP,0.0008,19750,48585,-0.047399998\n3,2026-06-30,"Jane Street Group, LLC",0.0005,12569,30919,-0.3854\n4,2026-06-30,Citadel Advisors Llc,0.0005,12051,29645,-0.5476\n5,2026-06-30,Bank of America Corporation,0.0004,10830,26641,0.41369998\n6,2026-06-30,Xtx Topco Ltd,0.0004,10774,26504,-0.7071\n7,2026-06-30,Morgan Stanley,0.00029999999,6319,15544,-0.1228\n8,2026-06-30,Virtu Financial LLC,0.0002,4980,12250,1.0\n9,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0002,4233,10413,-0.612\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.005,124158,279355,-0.2005\n1,2026-06-30,Forest Avenue Capital Management LP                          ,0.0047999998,118977,267698,-0.008\n2,2026-06-30,Marshall Wace LLP,0.0008,19750,44437,-0.047399998\n3,2026-06-30,"Jane Street Group, LLC",0.0005,12569,28280,-0.3854\n4,2026-06-30,Citadel Advisors Llc,0.0005,12051,27114,-0.5476\n5,2026-06-30,Bank of America Corporation,0.0004,10830,24367,0.41369998\n6,2026-06-30,Xtx Topco Ltd,0.0004,10774,24241,-0.7071\n7,2026-06-30,Morgan Stanley,0.00029999999,6319,14217,-0.1228\n8,2026-06-30,Virtu Financial LLC,0.0002,4980,11205,1.0\n9,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0002,4233,9524,-0.612\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.0069,172339,423953,11.0164\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2640,6494,-0.0004\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.0069,172339,387762,11.0164\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2640,5940,-0.0004\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,0,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-27 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.56,NVX,NOVONIX Limited,Industrials,Electrical Equipment & Parts,Australia,61372532,2.46,18750,27100,66666.0,,,,0.55486,-9.25816,0.0,-0.65643,-0.12897,59534916,91317024,58.039,0.967,0.88,-42997140,-65809208,24948185,21219425,0.0,0.01356,402422,16.39,0.0174,,-10.695652,10.925981,0.38679245,16.514,-1.955,5.0,5.0,5.0,,none,1,,,,,,1.033,https://www.novonixgroup.com,2026-10-29T12:21:11.433589+00:00
+98.52,NVX,NOVONIX Limited,Industrials,Electrical Equipment & Parts,Australia,56133416,2.25,21160,27759,62457.75,,,,0.55486,-9.25816,0.0,-0.65643,-0.12897,59534916,91317024,58.039,0.967,0.88,-42997140,-65809208,24948185,21219425,0.0,0.01356,402422,16.39,0.0174,,-9.782609,9.993276,0.35377356,15.588,-1.845,5.0,5.0,5.0,,none,1,,,,,,1.033,https://www.novonixgroup.com,2026-10-31T18:54:00.830691+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-02,23.54,24.00,22.25,22.25,,,,,,,0,24.0000,0,169,,,,
 2022-02-03,22.15,22.15,18.21,19.34,,,,,,,0,24.0000,0,1348,,,,
@@ -1201,4 +1201,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.08,2.19,2.07,2.10,2.15,2.39,1.52,0.95,0.98,2.4687,0,3.4006,0,66,78,0.0943,0.2036,-0.1093
 2026-10-27,2.15,2.26,2.12,2.24,2.14,2.37,1.56,0.96,0.98,2.4687,0,3.3442,0,42,78,0.0917,0.1812,-0.0895
 2026-10-28,2.34,2.48,2.34,2.46,2.16,2.35,1.60,0.97,0.99,2.4687,0,3.2900,0,35,78,0.1061,0.1662,-0.0601
-2026-10-29,2.38,2.40,2.35,2.35,2.18,2.32,1.64,0.98,1.00,2.4687,0,3.2380,0,2,75,0.1074,0.1544,-0.0470
+2026-10-29,2.38,2.43,2.31,2.40,2.18,2.33,1.64,0.98,1.00,2.4687,0,3.2380,0,28,76,0.1114,0.1552,-0.0438
+2026-10-30,2.24,2.27,2.19,2.25,2.19,2.29,1.68,0.98,1.01,2.4687,0,3.1881,0,111,77,0.1023,0.1446,-0.0423
+2026-11-02,2.20,2.23,2.14,2.15,2.19,2.27,1.71,0.99,1.01,2.4687,0,3.1402,0,52,77,0.0860,0.1329,-0.0469

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00059999997,42806,154101,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.00059999997,42883,154378,1.0\n2,2026-06-30,HRT Financial LP,0.0005,37081,133491,1.0\n3,2026-06-30,"Susquehanna International Group, LLP",0.0002,16953,61030,1.0\n4,2026-06-30,UBS Group AG,0.0,2114,7610,-0.1125\n5,2026-06-30,Morgan Stanley,0.0,6,21,-0.9975\n6,2026-06-30,Royal Bank of Canada,0.0,75,269,-0.8485\n7,2026-09-30,"Wilmington Savings Fund Society, FSB",0.0,10,35,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00059999997,42806,104874,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.00059999997,42883,105063,1.0\n2,2026-06-30,HRT Financial LP,0.0005,37081,90848,1.0\n3,2026-06-30,"Susquehanna International Group, LLP",0.0002,16953,41534,1.0\n4,2026-06-30,UBS Group AG,0.0,2114,5179,-0.1125\n5,2026-06-30,Morgan Stanley,0.0,6,14,-0.9975\n6,2026-06-30,Royal Bank of Canada,0.0,75,183,-0.8485\n7,2026-09-30,"Wilmington Savings Fund Society, FSB",0.0,10,24,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,61196,220305,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.0001,3584,12902,-0.00059999997\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,61196,149930,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.0001,3584,8780,-0.00059999997\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-29 09:30:00-04:00,3.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BRAI,Braiin Limited,Technology,Computer Hardware,Australia,741917568,3.6,11552290,1827347,6578449.2,,,,0.0,0.0,0.0,,-1.79047,110779,3689062,,0.034,0.026,-1177659,-639620,206088228,39980659,0.64974,0.00068999996,86509,2.77,0.0046,,,,-100.0,,-311.201,10.0,10.0,10.0,,none,1,,,,,,,https://braiin.com,2026-10-29T09:02:07.312694+00:00
+0.00,BRAI,Braiin Limited,Technology,Computer Hardware,Australia,504916160,2.45,12108210,1923384,4712290.800000001,,,,0.0,0.0,0.0,,-1.79047,110779,3689062,,0.034,0.026,-1177659,-639620,206088228,39980659,0.64974,0.00068999996,86509,2.77,0.0046,,,,-68.05556,,-212.528,10.0,10.0,10.0,,none,1,,,,,,,https://braiin.com,2026-10-31T14:43:08.452051+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,11.74,33.00,11.74,14.84,,,,,,,0,32.9967,0,4168,,,,
 2026-02-13,12.23,12.23,7.23,7.59,,,,,,,0,32.9967,0,1965,,,,
@@ -192,5 +192,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,3.88,4.40,3.48,3.55,4.34,4.70,5.25,6.67,,5.4301,0,5.1111,0,802,396,-0.4062,-0.3184,-0.0878
 2026-10-26,4.28,5.05,2.10,2.12,4.08,4.52,5.17,6.65,,5.4301,0,3.4800,1,13754,647,-0.5517,-0.3650,-0.1867
 2026-10-27,3.23,4.16,3.00,3.31,3.94,4.42,5.11,6.61,,5.4301,0,2.1000,1,171410,4071,-0.5645,-0.4049,-0.1596
-2026-10-28,4.94,5.40,3.15,3.60,3.84,4.32,5.07,6.57,,5.4301,0,2.1000,1,204167,8143,-0.5450,-0.4329,-0.1121
-2026-10-29,3.38,3.60,3.20,3.36,3.70,4.21,5.02,6.54,,5.4301,0,2.2320,1,7586,8172,-0.5425,-0.4548,-0.0876
+2026-10-28,4.94,5.40,3.15,3.60,3.84,4.32,5.07,6.57,,5.4301,0,2.1000,1,206113,8181,-0.5450,-0.4329,-0.1121
+2026-10-29,3.39,3.60,3.06,3.06,3.67,4.19,5.02,6.54,,5.4301,0,2.2320,1,10664,8272,-0.5666,-0.4597,-0.1069
+2026-10-30,3.08,3.08,2.45,2.45,3.48,4.03,4.95,6.49,,5.4301,0,2.3587,1,3970,8334,-0.6257,-0.4929,-0.1328
+2026-11-02,2.56,2.69,2.40,2.50,3.29,3.93,4.89,6.46,,5.1439,0,5.4000,0,4977,8425,-0.6608,-0.5265,-0.1344

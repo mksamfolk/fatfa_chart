@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-66.08,QTUM,Defiance Quantum ETF,,,,,143.87,297930,312612,44975488.440000005,,,,,,,,,,,,,,,,,,,,,,,24.604645,,,,,,,,,,,,,,,,,,,2026-10-29T12:59:05.449504+00:00
+65.74,QTUM,Defiance Quantum ETF,,,,,143.87,297930,312612,44975488.440000005,,,,,,,,,,,,,,,,,,,,,,,24.604645,,,,,,,,,,,,,,,,,,,2026-10-29T12:59:05.449504+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-05,53.64,53.99,53.26,53.57,,,,,,,0,53.2635,1,3017,,,,
 2021-11-08,53.87,54.26,53.77,54.14,,,,,,,0,53.2635,1,3704,,,,
@@ -1278,4 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,136.96,139.40,135.94,138.50,139.82,146.53,147.70,144.25,136.82,146.7069,0,142.6698,0,33642,44285,-3.4691,-2.2589,-1.2102
 2026-10-27,139.63,142.52,139.54,142.07,139.26,146.04,147.38,144.47,136.95,146.7069,0,134.1300,1,38373,44088,-3.1546,-2.4380,-0.7165
 2026-10-28,142.62,143.95,141.98,143.87,139.47,145.66,147.23,144.69,137.08,146.7069,0,134.2978,1,25638,43337,-2.7286,-2.4962,-0.2324
-2026-10-29,140.75,142.27,139.99,141.86,139.46,145.09,147.07,144.92,137.21,146.7069,0,134.6839,1,12806,42519,-2.5241,-2.5017,-0.0224
+2026-10-29,140.75,142.27,139.99,141.14,139.39,145.05,147.05,144.91,137.21,146.7069,0,134.6839,1,23690,42737,-2.5815,-2.5132,-0.0683

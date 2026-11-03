@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BPAC,Blueport Acquisition Ltd,,,,75545992,10.23,1050,9818,100438.14,,,,,,,,,,,,,,,,5947250,,,,,,,255.75,,,71.53845,,,,,,,none,,,,,,,,,2026-10-29T09:01:41.696844+00:00
+0.00,BPAC,Blueport Acquisition Ltd,,,,75545992,10.23,1050,7373,75425.79000000001,,,,,,,,,,,,,,,,5947250,,,,,,,255.75,,,71.53845,,,,,,,none,,,,,,,,,2026-10-31T14:42:42.081640+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-06,9.91,9.92,9.87,9.91,,,,,,,0,9.8700,1,534,,,,
 2026-01-07,9.91,9.93,9.90,9.92,,,,,,,0,9.8700,1,3623,,,,
@@ -219,3 +219,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.24,10.24,10.24,10.24,10.23,10.22,10.19,10.11,,10.2291,1,10.2254,1,,122,0.0141,0.0145,-0.0005
 2026-10-27,10.24,10.24,10.24,10.24,10.23,10.22,10.19,10.11,,10.2302,1,10.2275,1,,121,0.0139,0.0144,-0.0005
 2026-10-28,10.24,10.24,10.24,10.24,10.23,10.23,10.19,10.11,,10.2312,1,10.2292,1,,120,0.0136,0.0142,-0.0007
+2026-10-29,10.24,10.24,10.24,10.24,10.23,10.23,10.20,10.11,,10.2320,1,10.2307,1,,119,0.0132,0.0140,-0.0009
+2026-10-30,10.24,10.24,10.24,10.24,10.24,10.23,10.20,10.11,,10.2328,1,10.2320,1,,106,0.0127,0.0138,-0.0011

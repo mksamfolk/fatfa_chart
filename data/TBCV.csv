@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,293264576,9.7706,1430,8233,80441.3498,,,,0.0,0.0,0.0,,,226,154886,,0.083,0.001,-4774,,30015000,30314892,0.0,0.06339,1804,0.12,,,,,-888.2364,,,,,,,none,,,,,,,,,2026-10-29T13:56:05.740526+00:00
+0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,374621696,9.79,5020,9305,91095.95,,,,0.0,0.0,0.0,,,226,154886,,0.083,0.001,-4774,,30762000,30314892,0.0,0.06339,1804,0.12,,,,,-890.0,,,,,,,none,,,,,,,,,2026-10-31T20:22:00.104178+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-05,10.06,11.10,9.82,9.83,,,,,,,0,11.1000,0,971,,,,
 2026-10-06,9.78,9.80,9.78,9.80,,,,,,,0,11.1000,0,121,,,,
@@ -47,4 +47,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.78,9.78,9.77,9.77,9.79,,,,,10.0727,0,10.6380,0,20,,,,
 2026-10-27,9.79,9.79,9.79,9.79,9.80,,,,,10.0640,0,10.6032,0,4,,,,
 2026-10-28,9.83,9.83,9.77,9.80,9.80,,,,,10.0640,0,10.5699,0,52,,,,
-2026-10-29,9.77,9.78,9.77,9.77,9.80,,,,,10.0222,0,10.5379,0,10,,,,
+2026-10-29,9.78,9.78,9.77,9.78,9.80,,,,,10.0221,0,10.5379,0,21,,,,
+2026-10-30,9.77,9.80,9.77,9.79,9.79,9.80,,,,10.0164,0,10.5072,0,350,,,,
+2026-11-02,9.77,9.77,9.77,9.77,9.79,9.80,,,,9.9843,0,10.4777,0,10,,,,

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.002,22113,50859,-0.005\n1,2026-06-30,Sankala Group LLC,0.00029999999,3333,7665,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.002,22113,58597,-0.005\n1,2026-06-30,Sankala Group LLC,0.00029999999,3333,8832,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.99,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,24989044,2.3,1470,4432,10193.599999999999,0.884,,,0.14397,-2.27463,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2279,0.34,0.0004,15.333332,,23.430824,4.339188,16.788,-5.927,,,,,none,,,,,,,,https://belive.technology,2026-10-29T08:57:14.720859+00:00
+34.12,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,28790638,2.6499,5540,5265,13951.7235,0.884,,,0.14397,-2.27463,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2279,0.34,0.0004,17.665998,,26.995365,4.9993105,20.352,-7.185,,,,,none,,,,,,,,https://belive.technology,2026-10-31T14:38:08.757232+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-04,4.00,4.00,3.30,3.54,,,,,,,0,4.0000,0,5296,,,,
 2025-04-07,3.29,3.53,3.03,3.15,,,,,,,0,4.0000,0,2462,,,,
@@ -408,4 +408,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.30,2.30,2.30,2.30,2.32,2.31,2.28,2.39,2.62,2.1602,1,2.3000,1,,11,0.0160,0.0197,-0.0037
 2026-10-27,2.30,2.30,2.30,2.30,2.32,2.31,2.27,2.38,2.62,2.1602,1,2.3000,1,,11,0.0138,0.0185,-0.0047
 2026-10-28,2.30,2.30,2.30,2.30,2.31,2.32,2.27,2.38,2.61,2.1602,1,2.3000,1,,11,0.0119,0.0172,-0.0053
-2026-10-29,2.30,2.34,2.29,2.30,2.31,2.32,2.27,2.37,2.60,2.1602,1,2.5900,0,35,12,0.0103,0.0158,-0.0055
+2026-10-29,2.30,2.49,2.27,2.32,2.31,2.32,2.28,2.37,2.60,2.1602,1,2.5900,0,60,12,0.0119,0.0161,-0.0043
+2026-10-30,2.30,2.65,2.30,2.65,2.35,2.34,2.28,2.37,2.60,2.1602,1,2.2650,1,61,13,0.0380,0.0205,0.0175
+2026-11-02,2.51,2.51,2.23,2.27,2.34,2.34,2.29,2.37,2.59,2.1602,1,2.6500,0,4,13,0.0278,0.0220,0.0058

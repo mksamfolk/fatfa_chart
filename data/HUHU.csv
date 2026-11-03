@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marshall Wace LLP,0.0015,38953,22183,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00059999997,14882,8475,0.2275\n2,2026-06-30,"Jane Street Group, LLC",0.0005,13499,7687,1.0\n3,2026-06-30,Goldman Sachs Group Inc,0.0005,13493,7684,1.0\n4,2026-06-30,Morgan Stanley,0.00029999999,6914,3937,-0.001\n5,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,10,5,9.0\n6,2026-06-30,JPMORGAN CHASE & CO,0.0,327,186,1.0\n7,2026-06-30,UBS Group AG,0.0,140,79,-0.8\n8,2026-06-30,Royal Bank of Canada,0.0,427,243,0.0\n9,2026-09-30,"Farther Finance Advisors, Llc",0.0,794,452,0.8128\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marshall Wace LLP,0.0015,38953,16555,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.00059999997,14882,6324,0.2275\n2,2026-06-30,"Jane Street Group, LLC",0.0005,13499,5737,1.0\n3,2026-06-30,Goldman Sachs Group Inc,0.0005,13493,5734,1.0\n4,2026-06-30,Morgan Stanley,0.00029999999,6914,2938,-0.001\n5,2026-06-30,JPMORGAN CHASE & CO,0.0,327,138,1.0\n6,2026-06-30,UBS Group AG,0.0,140,59,-0.8\n7,2026-06-30,Royal Bank of Canada,0.0,427,181,0.0\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0,794,337,0.8128\n9,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,11,4,0.1\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,17508,9970,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,17508,7440,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.54,HUHU,HUHUTECH International Group Inc.,Industrials,Specialty Industrial Machinery,China,15254541,0.5695,475070,173000,98523.5,0.086,,,0.32821998,-1.5778,-1.13399,-3.50421,-0.70429003,3728666,5566524,74.438,1.312,1.156,65323,8803247,26785848,8245755,0.69216,0.0033399998,31398,0.14,0.0038,,,0.684682,2.0412188,0.767,-0.683,,,,,none,,,,,,,-0.966,https://ir.huhutech.com.cn,2026-10-29T10:57:48.826711+00:00
+0.43,HUHU,HUHUTECH International Group Inc.,Industrials,Specialty Industrial Machinery,China,11383986,0.425,693040,214718,91255.15,0.086,,,0.32821998,-1.5778,-1.13399,-3.50421,-0.70429003,3728666,5566524,74.438,1.312,1.156,65323,8803247,26785848,8245755,0.69216,0.0033399998,31398,0.14,0.0038,,,0.5109567,1.5232974,0.593,-0.529,,,,,none,,,,,,,-0.966,https://ir.huhutech.com.cn,2026-10-31T17:11:36.930896+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-22,4.00,4.96,3.52,4.11,,,,,,,0,3.5200,1,6732,,,,
 2024-10-23,4.20,4.45,3.90,4.03,,,,,,,0,3.5200,1,1332,,,,
@@ -519,5 +519,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,1.68,1.72,1.16,1.19,2.12,2.96,4.18,7.06,7.34,2.9283,0,2.9782,0,260,455,-0.7870,-0.6850,-0.1021
 2026-10-26,1.22,1.27,1.00,1.11,1.96,2.81,4.09,7.02,7.29,2.5555,0,2.6873,0,222,458,-0.8216,-0.7123,-0.1093
 2026-10-27,1.13,1.47,0.98,1.00,1.81,2.65,4.01,6.99,7.24,2.5555,0,2.3836,0,828,471,-0.8481,-0.7395,-0.1086
-2026-10-28,0.86,0.86,0.55,0.57,1.64,2.47,3.91,6.94,7.18,2.1233,0,2.1029,0,982,489,-0.8935,-0.7703,-0.1232
-2026-10-29,0.50,0.52,0.36,0.45,1.46,2.29,3.79,6.90,7.13,1.7781,0,1.7927,0,670,497,-0.9285,-0.8019,-0.1266
+2026-10-28,0.86,0.86,0.55,0.57,1.64,2.47,3.91,6.94,7.18,2.1233,0,2.1029,0,1043,490,-0.8935,-0.7703,-0.1232
+2026-10-29,0.52,0.54,0.36,0.51,1.46,2.29,3.79,6.90,7.13,1.7866,0,1.7927,0,1093,507,-0.9238,-0.8010,-0.1228
+2026-10-30,0.50,0.50,0.40,0.43,1.26,2.11,3.67,6.86,7.07,1.6899,0,1.5062,0,155,506,-0.9436,-0.8295,-0.1141
+2026-11-02,0.43,0.45,0.32,0.38,1.08,1.91,3.57,6.81,7.02,1.5350,0,1.2769,0,334,508,-0.9523,-0.8541,-0.0982

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0505,1119068,11375326,0.0121\n1,2026-06-30,Millennium Management Llc,0.048600003,1076950,10947196,1.0\n2,2026-06-30,Magnetar Financial LLC,0.045100003,1000000,10164999,-0.090900004\n3,2026-06-30,Governors Lane LP,0.045100003,999979,10164786,0.0\n4,2026-06-30,Mint Tower Capital Management B.V.,0.038399998,850000,8640249,0.0\n5,2026-06-30,BlueCrest Capital Management Ltd,0.0361,799969,8131684,1.6666\n6,2026-06-30,Linden Advisors LP,0.0339,750000,7623749,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.033800002,748400,7607485,-0.1684\n8,2026-06-30,Glazer Capital LLC,0.031600002,700208,7117614,0.3141\n9,2026-06-30,LMR Partners LLP,0.0271,600000,6098999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0505,1119068,11358539,0.0121\n1,2026-06-30,Millennium Management Llc,0.048600003,1076950,10931042,1.0\n2,2026-06-30,Magnetar Financial LLC,0.045100003,1000000,10149999,-0.090900004\n3,2026-06-30,Governors Lane LP,0.045100003,999979,10149786,0.0\n4,2026-06-30,Mint Tower Capital Management B.V.,0.038399998,850000,8627499,0.0\n5,2026-06-30,BlueCrest Capital Management Ltd,0.0361,799969,8119685,1.6666\n6,2026-06-30,Linden Advisors LP,0.0339,750000,7612499,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.033800002,748400,7596259,-0.1684\n8,2026-06-30,Glazer Capital LLC,0.031600002,700208,7107110,0.3141\n9,2026-06-30,LMR Partners LLP,0.0271,600000,6089999,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0137,303378,3083837,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0045,100000,1016499,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0021,46622,473912,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13853,140815,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0001,2423,24629,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0137,303378,3079286,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0045,100000,1014999,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0021,46622,473213,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13853,140607,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0001,2423,24593,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SVAQ,Silicon Valley Acquisition Corp.,Financial Services,Shell Companies,United States,298047488,10.165,2910,77726,790084.7899999999,,,,0.0,0.0,0.0,,,1180511,0,,5.327,5.051,-514318,,22155000,21730049,0.01918,0.84178,1462,0.01,0.0001,,,,-36.69675,,,,,,,none,,,,,,,,https://svacquisitioncorp.com,2026-10-29T13:51:32.452866+00:00
+0.00,SVAQ,Silicon Valley Acquisition Corp.,Financial Services,Shell Companies,United States,297607648,10.15,4380,76371,775165.65,,,,0.0,0.0,0.0,,,1180511,0,,5.327,5.051,-514318,,22155000,21730049,0.01918,0.84178,1462,0.01,0.0001,,,,-36.642597,,,,,,,none,,,,,,,,https://svacquisitioncorp.com,2026-10-31T20:17:19.693598+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,9.95,9.96,9.89,9.90,,,,,,,0,9.9600,0,4343,,,,
 2026-02-13,9.91,9.91,9.89,9.90,,,,,,,0,9.9600,0,469,,,,
@@ -193,4 +193,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.16,10.16,10.16,10.16,10.16,10.14,10.08,10.00,,10.1227,1,10.1942,0,55,825,0.0254,0.0279,-0.0025
 2026-10-27,10.17,10.17,10.17,10.17,10.16,10.15,10.08,10.01,,10.1260,1,10.1932,0,5,591,0.0248,0.0273,-0.0025
 2026-10-28,10.17,10.17,10.17,10.17,10.16,10.15,10.08,10.01,,10.1304,1,10.1921,0,,591,0.0240,0.0266,-0.0026
-2026-10-29,10.16,10.16,10.16,10.16,10.16,10.16,10.09,10.01,,10.1304,1,10.1910,0,43,587,0.0224,0.0258,-0.0034
+2026-10-29,10.16,10.16,10.16,10.16,10.16,10.16,10.09,10.01,,10.1304,1,10.1910,0,44,587,0.0224,0.0258,-0.0034
+2026-10-30,10.16,10.16,10.15,10.15,10.16,10.16,10.09,10.01,,10.1304,1,10.1900,0,120,579,0.0200,0.0246,-0.0046

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,BURNETT GAVIN GEOFFERY,Chief Executive Officer,,Stock Award(Grant),2026-09-24,16906.0,1790208000.0,,\n1,CHEGWIDDEN JOHN JOSEPH,Director,,Stock Award(Grant),2026-09-24,31124.0,1790208000.0,,\n2,JACKSON JASON DALE,Chief Operating Officer,,Purchase,2026-04-02,,,11050.0,2026-04-02\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,526,615,-0.4745\n1,2026-06-30,BNP Paribas Financial Markets,0.0,100,116,1.0\n2,2026-06-30,Osaic Holdings Inc.,0.0,30,35,0.0\n3,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,11,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,526,589,-0.4745\n1,2026-06-30,BNP Paribas Financial Markets,0.0,100,112,1.0\n2,2026-06-30,Osaic Holdings Inc.,0.0,30,33,0.0\n3,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,11,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2022-12-08 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.11,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,2626435,1.17,26940,68456,80093.51999999999,0.47,,,0.23781,-0.67239,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00037,2807,0.02,0.0015,,,0.666705,0.8092155,0.37,-0.525,,,,,none,,,,,,,1.691,https://www.locafy.com,2026-10-29T11:31:47.455472+00:00
+5.58,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,2514195,1.12,21230,68893,77160.16,0.47,,,0.23781,-0.67239,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00037,2807,0.02,0.0015,,,0.6382135,0.77463365,0.343,-0.485,,,,,none,,,,,,,1.691,https://www.locafy.com,2026-10-31T18:03:59.174558+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-25,66.80,66.80,44.60,66.80,,,,,,,0,44.6000,1,8439,,,,
 2022-03-28,66.00,90.00,52.60,66.00,,,,,,,0,44.6000,1,37342,,,,
@@ -1168,3 +1168,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,1.15,1.21,1.13,1.14,1.27,1.61,2.14,3.37,3.39,1.6345,0,1.3492,0,12,173,-0.3200,-0.3054,-0.0146
 2026-10-28,1.13,1.21,1.13,1.17,1.25,1.55,2.11,3.34,3.37,1.6125,0,1.3093,0,49,173,-0.3121,-0.3068,-0.0054
 2026-10-29,1.15,1.15,1.15,1.15,1.22,1.49,2.09,3.32,3.36,1.5542,0,1.2758,0,0,171,-0.3040,-0.3062,0.0022
+2026-10-30,1.15,1.15,1.08,1.12,1.20,1.44,2.06,3.30,3.35,1.4998,0,1.2477,0,9,171,-0.2965,-0.3043,0.0077
+2026-11-02,1.15,1.16,1.11,1.11,1.19,1.38,2.04,3.27,3.34,1.4955,0,1.2175,0,6,171,-0.2881,-0.3010,0.0129

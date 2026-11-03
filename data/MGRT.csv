@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00090000004,11960,1429220,1.0\n1,2026-06-30,Quadrature Capital Ltd,0.00029999999,4176,499032,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4000,478000,6.3259997\n3,2026-06-30,Xtx Topco Ltd,0.00029999999,4350,519825,1.0\n4,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,119,1.0\n5,2026-06-30,JPMORGAN CHASE & CO,0.0,75,8962,1.0\n6,2026-06-30,Morgan Stanley,0.0,134,16013,-0.48259997\n7,2026-09-30,"William Mack & Associates, Inc.",0.0,1,119,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00090000004,11960,1418455,1.0\n1,2026-06-30,Quadrature Capital Ltd,0.00029999999,4176,495273,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4000,474399,6.3259997\n3,2026-06-30,Xtx Topco Ltd,0.00029999999,4350,515909,1.0\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,75,8894,1.0\n5,2026-06-30,Morgan Stanley,0.0,134,15892,-0.48259997\n6,2026-09-30,"William Mack & Associates, Inc.",0.0,1,118,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,118,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,8330,995435,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,4105,490547,-0.0005\n2,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR PORT. Developed World ex-US E,0.0001,800,95600,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,8330,987937,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,4105,486852,-0.0005\n2,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR PORT. Developed World ex-US E,0.0001,800,94879,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.66,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1643124992,119.5,4080,12621,1508209.5,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00185,30940,5.73,0.0083,,,263.48575,136.25998,263.589,-738.19,,,,,none,,,,,,,,https://qbssystem.com,2026-10-29T11:52:35.646453+00:00
+99.73,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1630749952,118.6,4340,11857,1406240.2,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00185,30940,5.73,0.0083,,,261.5013,135.23375,261.605,-732.633,,,,,none,,,,,,,,https://qbssystem.com,2026-10-31T18:25:23.466843+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-16,3.99,4.00,3.39,3.81,,,,,,,0,3.3900,1,6199,,,,
 2025-07-17,3.50,3.64,3.39,3.44,,,,,,,0,3.3900,1,842,,,,
@@ -339,4 +339,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,115.50,122.39,114.75,120.20,109.24,109.18,102.72,83.94,64.69,102.2422,1,100.9198,1,1070,1562,3.3216,2.3236,0.9980
 2026-10-27,120.00,120.21,119.45,119.45,110.85,109.55,103.15,84.69,65.23,104.9070,1,101.7786,1,406,1558,3.7821,2.6153,1.1668
 2026-10-28,121.50,121.50,119.50,119.50,112.37,109.62,103.50,85.44,65.78,106.4545,1,102.6031,1,227,1550,4.1038,2.9130,1.1908
-2026-10-29,120.00,120.00,120.00,120.00,113.97,109.59,103.96,86.18,66.34,107.2086,1,103.3945,1,38,1432,4.3490,3.2002,1.1488
+2026-10-29,120.00,123.45,117.38,119.91,113.96,109.58,103.96,86.18,66.34,106.4545,1,103.3945,1,612,1444,4.3418,3.1988,1.1431
+2026-10-30,118.61,120.21,117.89,118.60,115.06,109.49,104.42,86.92,66.87,106.4545,1,104.5979,1,463,1429,4.3743,3.4339,0.9404
+2026-11-02,123.99,125.67,119.00,120.50,116.51,110.32,104.93,87.66,67.43,107.8730,1,105.7290,1,406,1351,4.5015,3.6474,0.8541

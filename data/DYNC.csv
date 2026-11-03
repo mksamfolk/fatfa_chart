@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.07,DYNC,Dynamix Corporation,Financial Services,Shell Companies,United States,241253312,10.9,21470,39000,425100.0,,,,0.0,0.0,0.0,,,46136412,0,,296.113,295.65,44443620,,16600000,12908381,0.00843,0.95752,3205,0.08,0.0002,4.866071,,,6.333527,,,,,,,none,,,,,,,,https://dynamix-corp.com,2026-10-29T09:57:19.461337+00:00
+60.47,DYNC,Dynamix Corporation,Financial Services,Shell Companies,United States,241253312,10.9,21470,39000,425100.0,,,,0.0,0.0,0.0,,,46136412,0,,296.113,295.65,44443620,,16600000,12908381,0.00843,0.95752,3205,0.08,0.0002,4.866071,,,6.333527,,,,,,,none,,,,,,,,https://dynamix-corp.com,2026-10-29T09:57:19.461337+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-09,9.80,9.90,9.79,9.80,,,,,,,0,9.7900,1,1962,,,,
 2024-12-10,9.80,9.80,9.80,9.80,,,,,,,0,9.7900,1,113,,,,
@@ -487,4 +487,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.89,10.90,10.86,10.88,10.88,10.90,10.87,10.75,10.65,10.8221,1,10.8500,1,65,454,0.0017,0.0046,-0.0029
 2026-10-27,10.86,10.91,10.85,10.91,10.88,10.89,10.88,10.75,10.65,10.8221,1,10.8500,1,189,454,0.0035,0.0044,-0.0009
 2026-10-28,10.90,10.90,10.89,10.90,10.88,10.89,10.88,10.76,10.65,10.8221,1,10.8500,1,28,448,0.0041,0.0043,-0.0003
-2026-10-29,10.90,10.96,10.77,10.90,10.89,10.89,10.88,10.76,10.66,10.8221,1,10.9600,0,5469,532,0.0045,0.0043,0.0001
+2026-10-29,10.90,11.02,10.77,10.98,10.89,10.90,10.88,10.76,10.66,10.8221,1,10.9600,0,42633,1275,0.0109,0.0056,0.0052

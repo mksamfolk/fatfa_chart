@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.0004,48562,150032,-0.113400005\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,8,24,1.0\n2,2026-06-30,UBS Group AG,0.0,884,2731,1.1719999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.0,486,1458,-0.11310001\n1,2026-06-30,UBS Group AG,0.0,9,27,1.25\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-21 09:30:00-04:00,0.011111111111111112\n2026-10-26 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.74,TWG,Top Wealth Group Holding Limited,Consumer Defensive,Food Distribution,Hong Kong,1938553,3.0895,338080,110019,339903.70050000004,0.48,-0.968,0.169,0.72519,0.45661998,0.32329,0.06309,0.03838,295256,194934,0.21,17.44,7.79,-8633235,-21647554,595798,160989,0.25463,0.00198,16233,0.14,0.031400003,0.007818747,,0.17427929,0.00755865,0.057,0.173,,,,,none,,,,,,,0.606,https://www.imperialcristalcaviar.com,2026-10-29T14:14:10.562093+00:00
+44.18,TWG,Top Wealth Group Holding Limited,Consumer Defensive,Food Distribution,Hong Kong,1882395,3.0,381726,121044,363132.0,0.48,-0.968,0.169,0.72519,0.45661998,0.32329,0.06309,0.03838,295256,194934,0.21,17.44,7.79,-8633235,-21647554,595798,160989,0.25463,0.00198,16233,0.14,0.031400003,0.0075922455,,0.1692306,0.007339683,0.052,0.159,,,,,none,,,,,,,0.606,https://www.imperialcristalcaviar.com,2026-10-31T20:39:41.863462+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-17,166.50,197.46,139.50,155.70,,,,,,,0,139.5000,1,5434,,,,
 2024-04-18,175.50,193.50,157.50,166.50,,,,,,,0,139.5000,1,3504,,,,
@@ -650,4 +650,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.88,5.47,3.60,3.94,1.99,1.11,1.16,2.44,2.79,6.8367,0,0.3447,1,2194,1731,0.8042,0.2625,0.5417
 2026-10-27,3.85,3.85,3.20,3.41,2.33,1.26,1.17,2.44,2.79,6.4697,0,0.4818,1,453,1739,0.8291,0.3758,0.4533
 2026-10-28,3.55,3.59,3.08,3.23,2.64,1.40,1.19,2.43,2.78,6.1359,0,0.6161,1,611,1750,0.8248,0.4656,0.3592
-2026-10-29,3.17,3.37,2.90,3.32,2.96,1.54,1.21,2.43,2.78,5.7929,0,0.7478,1,1924,1788,0.8192,0.5364,0.2829
+2026-10-29,3.17,3.40,2.90,3.40,2.97,1.55,1.21,2.43,2.78,5.8209,0,0.7478,1,2157,1793,0.8256,0.5376,0.2880
+2026-10-30,3.30,3.34,2.91,3.00,3.26,1.68,1.22,2.42,2.78,5.6758,0,0.8769,1,215,1796,0.7849,0.5871,0.1978
+2026-11-02,2.95,3.09,2.86,3.06,3.56,1.83,1.24,2.42,2.77,5.3397,0,1.0033,1,165,1798,0.7489,0.6194,0.1294

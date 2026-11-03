@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-09-30,Quadrature Capital Ltd,0.0014,104369,1016554,1.0\n1,2025-12-31,"SG Americas Securities, LLC",0.0011999999,90000,876599,0.0\n2,2025-09-30,Xtx Topco Ltd,0.001,74905,729574,1.0\n3,2025-09-30,"Two Sigma Securities, LLC",0.00059999997,43135,420134,1.0\n4,2025-09-30,Citadel Advisors Llc,0.00059999997,41271,401979,0.1429\n5,2025-09-30,"Centiva Capital, LP",0.0005,33983,330994,1.0\n6,2025-09-30,Bank Hapoalim B.M.,0.0004,33000,321419,1.0\n7,2025-09-30,"Susquehanna International Group, LLP",0.0002,13888,135269,1.0\n8,2025-12-31,UBS Group AG,0.0,32,311,-0.9995\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,27,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,1056,10285,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,1056,9630,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.02503\ninstitutionsFloatPercentHeld,0.02503\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.025039999\ninstitutionsFloatPercentHeld,0.025039999\ninstitutionsCount,3.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-03-06 09:30:00-05:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.68,GSIW,Garden Stage Limited,Financial Services,Capital Markets,Hong Kong,14243766,9.74,1980,24030,234052.2,-0.179,,,-0.35438,-1.90414,-1.9108299,-0.89497,-0.47862998,6830477,80705,0.333,1.721,0.88,-4234334,,1462399,1462350,0.0,0.02503,9613,0.54,0.0076,,,1.9668301,4.3078284,13.475,,,,,,none,,,,,,,4.117,https://www.gardenstage-ky.com,2026-10-29T10:44:01.497951+00:00
+6.40,GSIW,Garden Stage Limited,Financial Services,Capital Markets,Hong Kong,13337079,9.12,790,24200,220703.99999999997,-0.179,,,-0.35438,-1.90414,-1.9108299,-0.89497,-0.47862998,6830477,80705,0.333,1.721,0.88,-4234334,,1462399,1462350,0.0,0.025039999,9613,0.54,0.0076,,,1.8416315,4.0336137,12.558,,,,,,none,,,,,,,4.117,https://www.gardenstage-ky.com,2026-10-31T16:31:49.325004+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-01,890.00,2340.00,840.00,2040.00,,,,,,,0,840.0000,1,51628,,,,
 2023-12-04,1300.00,1796.00,1266.00,1456.00,,,,,,,0,840.0000,1,3975,,,,
@@ -743,4 +743,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.18,9.18,9.18,9.18,10.22,11.10,15.17,22.33,23.66,11.8884,0,11.6304,0,4,362,-1.7308,-1.8971,0.1663
 2026-10-27,9.18,9.18,9.18,9.18,10.10,10.84,14.85,22.27,23.57,11.6171,0,11.3848,0,,360,-1.7065,-1.8589,0.1525
 2026-10-28,9.74,9.74,9.74,9.74,10.04,10.61,14.56,22.25,23.49,11.6171,0,11.1639,0,3,357,-1.6229,-1.8117,0.1888
-2026-10-29,9.32,9.32,9.31,9.32,9.89,10.34,14.28,22.25,23.41,11.5746,0,10.9650,0,5,355,-1.5724,-1.7639,0.1914
+2026-10-29,9.32,9.32,9.12,9.12,9.87,10.33,14.28,22.25,23.40,11.5366,0,10.9650,0,10,355,-1.5884,-1.7671,0.1787
+2026-10-30,9.12,9.12,9.12,9.12,9.73,10.07,14.00,22.24,23.32,11.2050,0,10.7436,0,,353,-1.5433,-1.7223,0.1790
+2026-11-02,9.30,12.48,8.70,10.04,9.71,10.08,13.78,22.09,23.24,11.2050,0,9.1200,1,457,360,-1.4169,-1.6612,0.2443

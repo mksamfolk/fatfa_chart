@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"SkyView Investment Advisors, LLC",0.0005,120429,1159731,1.0\n1,2026-09-30,Slt Holdings LLC                          ,0.00029999999,74750,719842,1.0\n2,2026-06-30,RLH Capital LLC,0.0001,35660,343405,1.0\n3,2026-09-30,Gamma Investing LLC,0.0,2943,28341,1.0\n4,2026-09-30,Future Financial Wealth Managment LLC,0.0,11000,105930,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"SkyView Investment Advisors, LLC",0.0005,120429,1033280,1.0\n1,2026-09-30,Slt Holdings LLC                          ,0.00029999999,74750,641354,1.0\n2,2026-06-30,RLH Capital LLC,0.0001,35660,305962,1.0\n3,2026-09-30,Gamma Investing LLC,0.0,2943,25250,1.0\n4,2026-09-30,Future Financial Wealth Managment LLC,0.0,11000,94379,1.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,14,120,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,WisdomTree Trust-WisdomTree Quantum Computing Fund,0.0029,760623,7324799,0.027\n1,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.00029999999,78100,752103,1.0\n2,2026-09-30,SPDR INDEX SHARES FUNDS-State Street SPDR Portfolio Europe ETF,0.0,6565,63220,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,WisdomTree Trust-WisdomTree Quantum Computing Fund,0.0029,760623,6526145,0.027\n1,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.00029999999,78100,670097,1.0\n2,2026-09-30,SPDR INDEX SHARES FUNDS-State Street SPDR Portfolio Europe ETF,0.0,6565,56327,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,0,1,0,0\n1,-1m,0,0,1,0,0\n2,-2m,0,0,1,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-41.73,IQMX,IQM Quantum Computers Oyj,Technology,Computer Hardware,Finland,4566660608,9.63,209700,326833,3147401.79,0.277,,,0.47355998,-4.6227703,-2.7718399,,,118881000,28617000,15.687,3.115,2.411,-79739000,,263223216,101683949,0.0,0.0328,1028099,2.95,,,-12.096445,133.64923,7.506164,42.385,-18.91,10.373632,10.373632,10.373632,3.0,hold,1,,,,,2026-11-03,,https://iqm.tech,2026-10-29T11:12:20.475887+00:00
+34.88,IQMX,IQM Quantum Computers Oyj,Technology,Computer Hardware,Finland,4068738048,8.58,160190,325915,2796350.7,0.277,,,0.47355998,-4.6227703,-2.7718399,,,118881000,28617000,15.687,3.115,2.411,-79739000,,263223216,101683949,0.0,0.0328,1028099,2.95,,,-10.777517,119.07688,6.6877346,37.475,-16.72,10.399732,10.399732,10.399732,3.0,hold,1,,,,,2026-11-03,,https://iqm.tech,2026-10-31T17:44:42.008791+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-02,10.18,10.18,10.03,10.05,,,,,,,0,10.0300,1,1553,,,,
 2025-06-03,10.07,10.07,10.05,10.06,,,,,,,0,10.0300,1,2468,,,,
@@ -384,4 +384,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.01,9.09,8.73,8.95,9.30,9.84,10.10,10.64,10.59,10.2591,0,10.2902,0,1487,3640,-0.3332,-0.2254,-0.1078
 2026-10-27,9.03,9.57,8.97,9.48,9.26,9.79,10.09,10.63,10.58,10.2591,0,10.1030,0,1398,3634,-0.3020,-0.2407,-0.0613
 2026-10-28,9.60,9.81,9.49,9.63,9.26,9.75,10.09,10.62,10.58,10.2591,0,9.9382,0,1418,3627,-0.2622,-0.2450,-0.0172
-2026-10-29,9.48,9.55,9.19,9.20,9.23,9.71,10.07,10.62,10.57,10.2591,0,9.8100,0,337,3589,-0.2623,-0.2485,-0.0139
+2026-10-29,9.48,9.55,9.10,9.17,9.23,9.71,10.07,10.62,10.57,10.2591,0,9.8100,0,887,3600,-0.2647,-0.2490,-0.0158
+2026-10-30,8.82,9.05,8.41,8.58,9.17,9.62,10.05,10.60,10.57,10.2020,0,9.8100,0,2149,3624,-0.3107,-0.2613,-0.0494
+2026-11-02,8.74,8.78,8.33,8.33,9.07,9.51,10.00,10.59,10.56,10.0163,0,9.6140,0,921,3051,-0.3632,-0.2817,-0.0815

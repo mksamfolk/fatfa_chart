@@ -9,7 +9,7 @@ insider_roster_holders
 institutional_holders
 ""\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Select Portfolios-Select Biotechnology Portfolio,0.0109,347400,5718203,1.0\n1,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Biotechnology Fund,0.0042,133400,2195763,1.0\n2,2026-08-31,VALIC Co I-Small Cap Value Fund,0.00059999997,19632,323142,1.0\n3,2026-08-31,Voya Investors Trust-VY(R) JPMorgan Small Cap Core Equity Portfolio,0.0004,11505,189372,1.0\n4,2026-08-31,"BlackRock Large Cap Series Fd.s, Inc.-BlackRock Event Driven Eqy. Fd.",0.0001,3910,64358,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Select Portfolios-Select Biotechnology Portfolio,0.0109,347400,4776750,1.0\n1,2026-08-31,Fidelity Advisor Series VII-Fidelity Advisor Biotechnology Fund,0.0042,133400,1834250,1.0\n2,2026-08-31,Columbia Fd.s Series TRT I-Multi-Manager Small Cap Eqy. Strategies Fd.,0.0023,73691,1013251,1.0\n3,2026-08-31,VALIC Co I-Small Cap Value Fund,0.00059999997,19632,269940,1.0\n4,2026-08-31,Voya Investors Trust-VY(R) JPMorgan Small Cap Core Equity Portfolio,0.0004,11505,158193,1.0\n5,2026-08-31,"BlackRock Large Cap Series Fd.s, Inc.-BlackRock Event Driven Eqy. Fd.",0.0001,3910,53762,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,1,4,0,0,0\n1,-1m,1,4,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BLSM,BlossomHill Therapeutics Inc.,Healthcare,Biotechnology,United States,523179552,16.46,134450,230175,3788680.5,,,,0.0,0.0,0.0,,,95376000,23371000,28.486,5.422,5.122,-70978000,,31784909,17744879,0.12707,0.31877002,484963,2.12,,,-4.1621256,,-0.26066163,,-8.355,35.4,40.0,30.0,1.2,strong_buy,5,0,0,1,0,2026-11-16,,https://bhtherapeutics.com,2026-10-29T08:58:00.253524+00:00
+0.00,BLSM,BlossomHill Therapeutics Inc.,Healthcare,Biotechnology,United States,437042496,13.75,113020,226758,3117922.5,,,,0.0,0.0,0.0,,,95376000,23371000,28.486,5.422,5.122,-70978000,,31784909,17744879,0.12707,0.31877002,484963,2.12,,,-3.4768667,,-0.2177459,,-7.338,35.4,40.0,30.0,1.2,strong_buy,5,0,0,1,0,2026-11-16,,https://bhtherapeutics.com,2026-10-31T14:38:56.522808+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-07,15.75,16.05,15.25,16.00,,,,,,,0,15.2500,1,28122,,,,
 2026-08-10,16.50,17.25,15.97,15.99,,,,,,,0,15.2500,1,6689,,,,
@@ -87,4 +87,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,14.53,16.82,14.53,16.39,15.06,16.72,19.04,,,18.5400,0,13.2770,1,3350,3776,-1.2634,-1.2387,-0.0247
 2026-10-27,16.34,16.94,15.61,15.76,15.09,16.44,19.03,,,18.5400,0,13.4896,1,1169,3737,-1.1790,-1.2268,0.0477
 2026-10-28,15.83,16.63,15.67,16.46,15.21,16.33,19.04,,,18.5400,0,13.7656,1,1210,3662,-1.0437,-1.1901,0.1465
-2026-10-29,17.00,17.53,16.03,16.05,15.32,16.20,19.04,,,18.5400,0,14.0196,1,292,3605,-0.9588,-1.1439,0.1851
+2026-10-29,16.44,17.53,14.90,15.21,15.24,16.16,19.02,,,18.5400,0,14.0196,1,1506,3630,-1.0254,-1.1572,0.1318
+2026-10-30,15.07,16.40,13.51,13.75,15.22,15.86,18.98,,,18.5400,0,17.5300,0,2149,3606,-1.1159,-1.1489,0.0330
+2026-11-02,14.23,14.23,12.28,12.42,15.04,15.49,18.90,,,18.5400,0,17.5300,0,1747,3604,-1.2802,-1.1752,-0.1050

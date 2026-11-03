@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QRED,Quasaredge Acquisition Corporation,Financial Services,Shell Companies,United States,161683200,10.08,20300,18762,189120.96,,,,0.0,0.0,0.0,,,242332,5309,1.867,0.532,0.003,-592022,,16040000,5445740,0.25094,0.60929,504,0.16,,,,,560.0,,,,,,,none,,,,,,,,https://quasaredge.co,2026-10-29T12:58:20.757129+00:00
+0.00,QRED,Quasaredge Acquisition Corporation,Financial Services,Shell Companies,United States,161683200,10.08,7710,17235,173728.8,,,,0.0,0.0,0.0,,,242332,5309,1.867,0.532,0.003,-592022,,16040000,5445740,0.25094,0.60929,504,0.16,,,,,560.0,,,,,,,none,,,,,,,,https://quasaredge.co,2026-10-31T19:31:18.744557+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-07,9.90,9.91,9.87,9.89,,,,,,,0,9.9100,0,4022,,,,
 2026-05-08,9.87,9.91,9.87,9.90,,,,,,,0,9.9100,0,7762,,,,
@@ -135,4 +135,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.08,10.08,10.08,10.08,10.08,10.06,10.03,,,10.0640,1,10.0616,1,101,220,0.0132,0.0139,-0.0007
 2026-10-27,10.09,10.09,10.02,10.02,10.07,10.06,10.04,,,10.0860,0,10.0800,0,387,226,0.0081,0.0128,-0.0047
 2026-10-28,10.09,10.09,10.08,10.08,10.07,10.06,10.04,,,10.0860,0,10.0900,0,254,231,0.0088,0.0120,-0.0032
-2026-10-29,10.08,10.08,10.08,10.08,10.07,10.07,10.04,,,10.0860,0,10.0900,0,2,229,0.0092,0.0114,-0.0022
+2026-10-29,10.08,10.08,10.08,10.08,10.07,10.07,10.04,,,10.0860,0,10.0900,0,3,229,0.0092,0.0114,-0.0022
+2026-10-30,10.08,10.08,10.08,10.08,10.07,10.07,10.04,,,10.0860,0,10.0900,0,4,212,0.0094,0.0110,-0.0016
+2026-11-02,10.08,10.09,10.08,10.09,10.07,10.07,10.04,,,10.0860,0,10.0886,0,10,209,0.0099,0.0108,-0.0009

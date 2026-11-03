@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Bank of America Corporation,0.00029999999,637,891,1.0\n1,2026-06-30,L1 Global Manager Pty Ltd,0.0002,424,593,1.0\n2,2026-06-30,"Sassicaia Capital Advisers, LLC",0.0001,332,464,1.0\n3,2026-06-30,Virtu Financial LLC,0.0001,258,361,1.0\n4,2026-06-30,UBS Group AG,0.0,6,8,2.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Bank of America Corporation,0.00029999999,637,821,1.0\n1,2026-06-30,L1 Global Manager Pty Ltd,0.0002,424,546,1.0\n2,2026-06-30,"Sassicaia Capital Advisers, LLC",0.0001,332,428,1.0\n3,2026-06-30,Virtu Financial LLC,0.0001,258,332,1.0\n4,2026-06-30,UBS Group AG,0.0,6,7,2.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.1252,288200,403479,2572.2144\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.001,2306,2974,19.5893\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-10-13 09:30:00-04:00,0.025\n2026-09-01 09:30:00-04:00,0.008\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.07,LGCL,Lucas GC Limited,Technology,Software - Application,China,1823211,1.4,36600,1012747,1417845.7999999998,-0.366,-0.945,-0.076,0.34241,0.105450004,0.00906,0.01754,0.02893,15197000,105418000,17.268,1.365,0.503,39457000,-28011178,1302294,326412,0.25304002,0.00127,21292,0.01,0.0165,,,0.0020242853,0.0052680946,0.104,1.969,,,,,none,,,,,,2026-10-07,1.051,https://hunter.lucasgchr.com,2026-10-29T11:34:17.270774+00:00
+0.03,LGCL,Lucas GC Limited,Technology,Software - Application,China,1679959,1.29,34150,1029160,1327616.4000000001,-0.366,-0.945,-0.076,0.34241,0.105450004,0.00906,0.01754,0.02893,15197000,105418000,17.268,1.365,0.503,39457000,-28011178,1302294,326412,0.25304002,0.00127,21292,0.01,0.0165,,,0.0018652347,0.004854173,0.104,1.968,,,,,none,,,,,,2026-10-07,1.051,https://hunter.lucasgchr.com,2026-10-31T18:06:46.397266+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-05,25000.00,25000.00,18050.00,18050.00,,,,,,,0,25000.0000,0,5162,,,,
 2024-03-06,17550.00,19350.00,16850.00,19150.00,,,,,,,0,25000.0000,0,1494,,,,
@@ -680,4 +680,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.53,1.62,1.30,1.42,1.68,2.22,57.40,158.84,181.99,6.8309,0,2.2660,0,230,5768,-12.5859,-17.0561,4.4702
 2026-10-27,1.41,1.48,1.37,1.37,1.62,2.10,54.05,157.37,180.57,6.2918,0,2.0728,0,31,5709,-11.7419,-15.9932,4.2513
 2026-10-28,1.37,1.45,1.37,1.40,1.58,2.00,50.56,155.95,179.22,5.8133,0,1.9182,0,21,5698,-10.9445,-14.9835,4.0390
-2026-10-29,1.40,1.44,1.40,1.43,1.54,1.92,47.08,154.48,177.88,5.3967,0,1.7946,0,11,5695,-10.1926,-14.0253,3.8327
+2026-10-29,1.40,1.47,1.30,1.30,1.53,1.91,47.08,154.48,177.88,5.4008,0,1.7946,0,24,5695,-10.2029,-14.0274,3.8244
+2026-10-30,1.34,1.42,1.24,1.29,1.49,1.82,44.11,153.06,176.64,4.9982,0,1.6957,0,30,5693,-9.5065,-13.1232,3.6167
+2026-11-02,1.30,1.37,1.28,1.28,1.45,1.76,41.01,151.69,175.38,4.6494,0,1.6045,0,12,5688,-8.8533,-12.2692,3.4159

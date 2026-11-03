@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Primavera Capital Management Ltd,0.1125,3770332,13309271,1.0\n1,2026-06-30,Deutsche Bank AG,0.0070999996,237719,839148,1.0\n2,2026-06-30,Millennium Management Llc,0.0011999999,38655,136452,1.0\n3,2026-06-30,"Verition Fund Management, LLC",0.0007,22000,77659,1.0\n4,2026-09-30,"FNY Investment Advisers, LLC",0.0001,2659,9386,-0.6926\n5,2026-06-30,Tower Research Capital LLC (TRC),0.0,620,2188,1.0\n6,2026-06-30,UBS Group AG,0.0,1290,4553,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Primavera Capital Management Ltd,0.1125,3770332,12178172,1.0\n1,2026-06-30,Deutsche Bank AG,0.0070999996,237719,767832,1.0\n2,2026-06-30,Millennium Management Llc,0.0011999999,38655,124855,1.0\n3,2026-06-30,"Verition Fund Management, LLC",0.0007,22000,71060,1.0\n4,2026-09-30,"FNY Investment Advisers, LLC",0.0001,2659,8588,-0.6926\n5,2026-06-30,Tower Research Capital LLC (TRC),0.0,620,2002,1.0\n6,2026-06-30,UBS Group AG,0.0,1290,4166,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DSC,DSC Holdings Ltd.,Consumer Cyclical,Auto & Truck Dealerships,China,176755888,3.53,22220,49761,175656.33,0.037,,,0.36161998,-1.4578799,-0.43697,,,530691008,488624992,50.763,1.875,1.615,,,33507862,8678064,0.052670002,0.12156,13908,0.3,,,60.80014,0.25734726,1.2264092,0.196,-0.486,12.121034,12.121034,12.121034,,none,1,0,0,0,0,,,https://www.dasouche.com/en,2026-10-29T09:54:26.739337+00:00
+0.00,DSC,DSC Holdings Ltd.,Consumer Cyclical,Auto & Truck Dealerships,China,161734144,3.23,19820,50089,161787.47,0.037,,,0.36161998,-1.4578799,-0.43697,,,530691008,488624992,50.763,1.875,1.615,,,33507862,8678064,0.052670002,0.12156,13908,0.3,,,53.76113,0.2354764,1.1221819,0.174,-0.431,12.133604,12.133604,12.133604,,none,1,0,0,0,0,,,https://www.dasouche.com/en,2026-10-31T15:36:50.181088+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-25,16.00,16.35,8.63,9.06,,,,,,,0,16.3500,0,7948,,,,
 2026-06-26,8.50,8.79,7.22,7.25,,,,,,,0,16.3500,0,962,,,,
@@ -102,4 +102,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.62,3.62,3.31,3.32,4.01,5.28,6.33,,,5.3030,0,4.1290,0,21,342,-1.0033,-0.8217,-0.1816
 2026-10-27,3.45,3.76,3.22,3.57,3.86,5.05,6.28,,,5.3030,0,3.9652,0,70,339,-0.9847,-0.8543,-0.1304
 2026-10-28,3.67,3.70,3.46,3.53,3.75,4.83,6.25,,,5.2866,0,3.8162,0,107,336,-0.9620,-0.8758,-0.0862
-2026-10-29,3.46,3.77,3.46,3.56,3.64,4.60,6.21,,,5.2439,0,3.2200,1,11,334,-0.9310,-0.8868,-0.0441
+2026-10-29,3.46,3.77,3.45,3.69,3.65,4.61,6.21,,,5.2419,0,3.2200,1,84,335,-0.9206,-0.8848,-0.0358
+2026-10-30,3.41,3.41,3.00,3.23,3.54,4.37,6.17,,,4.8808,0,3.7700,0,24,333,-0.9143,-0.8907,-0.0236
+2026-11-02,3.28,3.38,3.28,3.35,3.52,4.25,6.14,,,4.8792,0,3.7700,0,49,333,-0.8894,-0.8904,0.0010

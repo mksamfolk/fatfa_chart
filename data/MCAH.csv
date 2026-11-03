@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MCAH,Mountain Crest Acquisition 6 Corp.,Financial Services,Shell Companies,United States,87220584,10.07,17110,17581,177040.67,,,,0.0,0.0,0.0,,,14184,423670,0.707,,,,,8661429,,0.36617002,0.41478002,10020,1.26,,,,,1.4554125,,,,,,,none,,,,,,,,,2026-10-29T11:47:36.115360+00:00
+0.00,MCAH,Mountain Crest Acquisition 6 Corp.,Financial Services,Shell Companies,United States,87220584,10.07,18450,18103,182297.21,,,,0.0,0.0,0.0,,,14184,423670,0.707,,,,,8661429,,0.36617002,0.41478002,10020,1.26,,,,,1.4554125,,,,,,,none,,,,,,,,,2026-10-31T18:20:28.753894+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.94,9.94,9.92,9.94,,,,,,,0,9.9400,0,3854,,,,
 2026-06-23,9.92,9.94,9.92,9.93,,,,,,,0,9.9400,0,7015,,,,
@@ -105,4 +105,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.07,10.07,10.07,10.07,10.06,10.05,10.01,,,10.0941,0,10.3855,0,,223,0.0169,0.0169,-0.0001
 2026-10-27,10.07,10.07,10.07,10.07,10.06,10.05,10.01,,,10.0941,0,10.3697,0,,222,0.0165,0.0169,-0.0003
 2026-10-28,10.08,10.08,10.07,10.07,10.07,10.05,10.02,,,10.0941,0,10.3545,0,34,222,0.0161,0.0167,-0.0006
-2026-10-29,10.06,10.06,10.05,10.05,10.06,10.06,10.02,,,10.0836,0,10.3399,0,297,204,0.0139,0.0161,-0.0022
+2026-10-29,10.06,10.07,10.05,10.07,10.07,10.06,10.02,,,10.0886,0,10.3399,0,336,205,0.0155,0.0165,-0.0009
+2026-10-30,10.07,10.07,10.07,10.07,10.07,10.06,10.02,,,10.0886,0,10.3259,0,,205,0.0149,0.0162,-0.0012
+2026-11-02,10.06,10.07,10.06,10.07,10.07,10.06,10.02,,,10.0886,0,10.3125,0,294,211,0.0143,0.0158,-0.0015

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0014,30000,293249,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0014,30000,294599,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CATL,Catalyst Acquisition Corp.,Financial Services,Shell Companies,United States,265586736,9.775,13030,28016,273856.4,,,,0.0,0.0,0.0,,,,153534,,,,0,,21420000,19775956,0.0,0.13884,1473,0.04,,,,,-610.93744,,,,,,,none,,,,,,,,,2026-10-29T09:12:24.299791+00:00
+0.00,CATL,Catalyst Acquisition Corp.,Financial Services,Shell Companies,United States,266809392,9.82,1800,26309,258354.38,,,,0.0,0.0,0.0,,,,153534,,,,0,,21420000,19775956,0.0,0.13884,1473,0.04,,,,,-613.74994,,,,,,,none,,,,,,,,,2026-10-31T14:53:23.578059+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-17,10.09,10.12,9.83,9.88,,,,,,,0,10.1200,0,706,,,,
 2026-09-18,9.83,9.86,9.79,9.84,,,,,,,0,10.1200,0,124,,,,
@@ -59,3 +59,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.89,9.89,9.89,9.89,9.80,9.81,,,,9.9302,0,9.8948,0,17,,,,
 2026-10-27,9.85,9.85,9.78,9.81,9.80,9.81,,,,9.9302,0,9.8900,0,17,,,,
 2026-10-28,9.87,9.88,9.78,9.78,9.80,9.80,,,,9.9302,0,9.8900,0,29,,,,
+2026-10-29,9.79,9.82,9.79,9.82,9.80,9.81,,,,9.9302,0,9.8816,0,14,,,,
+2026-10-30,9.82,9.82,9.82,9.82,9.81,9.81,,,,9.9302,0,9.8800,0,,,,,
+2026-11-02,9.82,9.82,9.82,9.82,9.81,9.81,,,,9.9302,0,9.8722,0,12,,,,

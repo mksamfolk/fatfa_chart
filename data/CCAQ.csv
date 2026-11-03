@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CCAQ,Collective Acquisition Corp.,Financial Services,Shell Companies,United States,78116712,10.6,3310,6724,71274.4,,-0.666,-0.527,0.0,0.0,0.0,,,43642,0,,0.364,0.202,-546113,,5119501,13382792,0.0,2.91151,2325,2.09,0.0005,58.88889,,,-30.635841,,,,,,,none,,,,,,,,https://duneacq.com,2026-10-29T09:14:15.645472+00:00
+0.00,CCAQ,Collective Acquisition Corp.,Financial Services,Shell Companies,United States,78116712,10.6,2280,1290,13674.0,,-0.666,-0.527,0.0,0.0,0.0,,,43642,0,,0.364,0.202,-546113,,5119501,13382792,0.0,2.91151,2325,2.09,0.0005,58.88889,,,-30.635841,,,,,,,none,,,,,,,,https://duneacq.com,2026-10-31T14:55:19.325445+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-12,10.09,10.09,10.00,10.03,,,,,,,0,10.0000,1,495,,,,
 2025-06-13,10.02,10.02,10.02,10.02,,,,,,,0,10.0000,1,2046,,,,
@@ -361,3 +361,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.52,10.60,10.52,10.60,10.56,10.59,10.55,10.44,10.40,10.6950,0,10.7701,0,4,92,0.0050,0.0089,-0.0039
 2026-10-27,10.60,10.60,10.60,10.60,10.56,10.59,10.55,10.44,10.40,10.6950,0,10.7581,0,,88,0.0066,0.0084,-0.0018
 2026-10-28,10.67,10.67,10.47,10.60,10.56,10.59,10.55,10.44,10.40,10.6950,0,10.7465,0,93,90,0.0077,0.0083,-0.0005
+2026-10-29,10.60,10.60,10.60,10.60,10.57,10.60,10.55,10.45,10.40,10.6950,0,10.7355,0,,16,0.0086,0.0083,0.0002
+2026-10-30,10.60,10.60,10.60,10.60,10.58,10.59,10.56,10.45,10.41,10.6950,0,10.7249,0,,16,0.0091,0.0085,0.0006

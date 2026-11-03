@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0765,3150000,31563001,1.0\n1,2026-06-30,Magnetar Financial LLC,0.060700003,2500000,25050001,1.0\n2,2026-06-30,Sculptor Capital LP,0.0559,2300000,23046001,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.0425,1750000,17535000,1.0\n4,2026-06-30,"Meteora Capital, LLC",0.037100002,1527252,15303065,1.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.024300002,1000000,10020000,1.0\n6,2026-06-30,Fort Baker Capital Management LP,0.024300002,1000000,10020000,1.0\n7,2026-06-30,Linden Advisors LP,0.0234,962603,9645282,1.0\n8,2026-06-30,HBK Investments L P,0.017,700004,7014040,1.0\n9,2026-06-30,Glazer Capital LLC,0.016900001,693760,6951475,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0765,3150000,31815001,1.0\n1,2026-06-30,Magnetar Financial LLC,0.060700003,2500000,25250000,1.0\n2,2026-06-30,Sculptor Capital LP,0.0559,2300000,23230000,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.0425,1750000,17675000,1.0\n4,2026-06-30,"Meteora Capital, LLC",0.037100002,1527252,15425245,1.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.024300002,1000000,10100000,1.0\n6,2026-06-30,Fort Baker Capital Management LP,0.024300002,1000000,10100000,1.0\n7,2026-06-30,Linden Advisors LP,0.0234,962603,9722290,1.0\n8,2026-06-30,HBK Investments L P,0.017,700004,7070040,1.0\n9,2026-06-30,Glazer Capital LLC,0.016900001,693760,7006976,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2984,29899,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2984,30138,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GCGR,General Catalyst Global Resilience Merger Corp.,Financial Services,Shell Companies,United States,462786240,10.02,99820,46987,470809.74,,,,0.0,0.0,0.0,,,1238941,0,,,,,,41155000,,0.0,0.54506,842,0.03,0.0,,,,-34.197952,,,,,,,none,,,,,,,,https://globalresiliencemergercorp.com,2026-10-29T10:31:42.006452+00:00
+0.00,GCGR,General Catalyst Global Resilience Merger Corp.,Financial Services,Shell Companies,United States,466481120,10.1,97720,47329,478022.89999999997,,,,0.0,0.0,0.0,,,1238941,0,,,,,,41155000,,0.0,0.54506,842,0.03,0.0,,,,-34.47099,,,,,,,none,,,,,,,,https://globalresiliencemergercorp.com,2026-10-31T16:17:08.754491+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,10.07,10.22,10.07,10.22,,,,,,,0,10.2200,0,100,,,,
 2026-06-23,10.00,10.11,9.96,10.08,,,,,,,0,10.2200,0,306,,,,
@@ -105,4 +105,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.00,10.00,10.00,10.00,10.03,10.09,10.13,,,10.0265,0,10.1015,0,,564,-0.0457,-0.0337,-0.0120
 2026-10-27,10.00,10.00,10.00,10.00,10.01,10.08,10.13,,,10.0265,0,10.0833,0,6,564,-0.0451,-0.0360,-0.0091
 2026-10-28,10.02,10.03,10.02,10.02,10.01,10.07,10.13,,,10.0265,0,10.0673,0,13,553,-0.0425,-0.0373,-0.0052
-2026-10-29,10.00,10.00,10.00,10.00,10.00,10.06,10.12,,,10.0265,0,10.0532,0,1,548,-0.0415,-0.0381,-0.0034
+2026-10-29,10.00,10.00,10.00,10.00,10.00,10.06,10.12,,,10.0265,0,10.0532,0,3,548,-0.0415,-0.0381,-0.0034
+2026-10-30,10.10,10.10,10.10,10.10,10.01,10.06,10.12,,,10.0114,1,9.9500,1,1,548,-0.0324,-0.0370,0.0046

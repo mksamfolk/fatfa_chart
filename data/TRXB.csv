@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,"SVLSF VI, L.L.C",Beneficial Owner of more than 10% of a Class of Security,,Conversion of Exercise of derivative security,2026-10-13,3011820,1791849600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Transce3nd, LLC                          ",0.0,100,1400,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Transce3nd, LLC                          ",0.0,100,1373,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRXB,TRex Bio Inc.,Healthcare,Biotechnology,United States,384239552,14.0,76310,194985,2729790.0,,,,0.0,0.0,0.0,,,90854000,197000,0.225,12.181,11.867,-46251000,,27445682,2379683,0.41647,0.31699,195608,0.47,,,,,-0.55115944,,-3.785,,,,,none,,,,,,,,https://trex.bio,2026-10-29T14:11:00.579802+00:00
+0.00,TRXB,TRex Bio Inc.,Healthcare,Biotechnology,United States,377103680,13.74,66530,175162,2406725.88,,,,0.0,0.0,0.0,,,90854000,197000,0.225,12.181,11.867,-46251000,,27445682,2379683,0.41647,0.31699,195608,0.47,,,,,-0.5409236,,-3.719,,,,,none,,,,,,,,https://trex.bio,2026-10-31T20:36:21.082169+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-09,13.50,15.50,13.50,14.00,,,,,,,0,13.5000,1,17598,,,,
 2026-10-12,14.19,14.36,13.75,14.03,,,,,,,0,13.5000,1,2652,,,,
@@ -43,4 +43,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,13.80,14.64,13.56,13.87,14.29,,,,,17.7995,0,16.4990,0,763,,,,
 2026-10-27,14.00,14.14,13.69,13.79,14.31,,,,,17.3796,0,16.4392,0,592,,,,
 2026-10-28,13.94,14.49,13.36,14.43,14.41,,,,,17.3796,0,16.3806,0,1149,,,,
-2026-10-29,14.16,14.23,13.61,14.00,14.39,,,,,17.2799,0,16.2598,0,192,,,,
+2026-10-29,14.15,14.31,13.42,13.52,14.34,,,,,17.2794,0,16.2598,0,454,,,,
+2026-10-30,13.66,13.86,13.10,13.74,14.31,,,,,16.7810,0,16.1438,0,539,,,,
+2026-11-02,13.61,13.92,13.10,13.64,14.20,,,,,16.7237,0,15.9612,0,748,,,,

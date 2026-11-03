@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CHEUNG KONG YIU,Director and Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-07-27,3722220,2026-07-27\n1,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-06-04,18134,2026-06-04\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"SBI Securities Co., Ltd.",0.0,38,45,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"SBI Securities Co., Ltd.",0.0,38,37,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-01-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,48,57,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-01-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,48,47,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-05 09:30:00-04:00,0.1\n2025-08-04 09:30:00-04:00,0.2\n2025-12-01 09:30:00-05:00,0.2\n2026-01-26 09:30:00-05:00,0.3333333333333333\n2026-03-16 09:30:00-04:00,0.25\n2026-07-06 09:30:00-04:00,0.3333333333333333\n2026-09-01 09:30:00-04:00,0.3333333333333333\n2026-10-12 09:30:00-04:00,0.25\n2026-10-23 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.03,NIVF,NewGenIvf Group Limited,Healthcare,Medical Care Facilities,Thailand,11873117,1.2,1102502,1346603,1615923.5999999999,-0.047,,,0.23889999,-1.8429201,0.24162,0.05514,-0.26908,5506414,1647643,6.408,1.059,0.572,,,9821197,72158,0.03158,0.00074,308798,0.09,0.2769,,0.00044610983,2.5634546,0.0034233388,-0.968,0.417,4066.5605,4066.5605,4066.5605,,none,1,,,,,,0.057,https://www.nivf.global,2026-10-29T12:12:53.840230+00:00
+0.84,NIVF,NewGenIvf Group Limited,Healthcare,Medical Care Facilities,Thailand,9694400,0.9798,802113,1353808,1326461.0784,-0.047,,,0.23889999,-1.8429201,0.24162,0.05514,-0.26908,5506414,1647643,6.408,1.059,0.572,,,9821197,72158,0.03158,0.00074,308798,0.09,0.2769,,0.00036424867,2.0930607,0.0027951559,-0.972,0.418,4066.5605,4066.5605,4066.5605,,none,1,,,,,,0.057,https://www.nivf.global,2026-10-31T18:45:31.173380+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-18,265410.00,265410.00,265410.00,265410.00,,,,,,,0,265410.0000,1,265,,,,
 2022-03-21,265410.00,267030.00,265410.00,266490.00,,,,,,,0,265410.0000,1,3198,,,,
@@ -1169,5 +1169,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,1.19,1.68,1.18,1.46,0.77,0.83,1.54,8.85,21.28,1.1432,1,0.2927,1,1582,2147,-0.1282,-0.3176,0.1894
 2026-10-26,1.33,1.33,1.15,1.16,0.86,0.83,1.49,8.66,20.72,1.1432,1,0.3313,1,340,2151,-0.1047,-0.2750,0.1704
 2026-10-27,1.13,1.25,1.13,1.15,0.96,0.83,1.44,8.47,20.22,1.1432,1,0.3692,1,768,2154,-0.0858,-0.2372,0.1514
-2026-10-28,1.19,1.20,1.07,1.20,1.05,0.83,1.39,8.29,19.73,1.1432,1,0.4063,1,3134,2213,-0.0661,-0.2030,0.1369
-2026-10-29,1.13,1.16,1.08,1.13,1.14,0.83,1.35,8.14,19.25,2.0109,0,0.4426,1,171,2209,-0.0554,-0.1735,0.1180
+2026-10-28,1.19,1.20,1.07,1.20,1.05,0.83,1.39,8.29,19.73,1.1432,1,0.4063,1,3159,2213,-0.0661,-0.2030,0.1369
+2026-10-29,1.13,1.16,1.05,1.14,1.14,0.83,1.35,8.14,19.25,2.0047,0,0.4426,1,324,2213,-0.0547,-0.1733,0.1187
+2026-10-30,1.04,1.10,0.96,0.98,1.21,0.83,1.32,7.98,18.79,1.8937,0,0.4782,1,165,2214,-0.0578,-0.1502,0.0924
+2026-11-02,0.95,0.99,0.90,0.93,1.27,0.82,1.29,7.85,18.31,1.7501,0,0.5131,1,118,2215,-0.0640,-0.1330,0.0689

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00059999997,56678,101453,0.0\n1,2026-06-30,Citadel Advisors Llc,0.0002,15105,27037,1.0\n2,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,3,5,1.0\n3,2026-06-30,UBS Group AG,0.0,2340,4188,5.376\n4,2026-06-30,Quarry LP                          ,0.0,1572,2813,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00059999997,56678,99753,0.0\n1,2026-06-30,Citadel Advisors Llc,0.0002,15105,26584,1.0\n2,2026-06-30,UBS Group AG,0.0,2340,4118,5.376\n3,2026-06-30,Quarry LP                          ,0.0,1572,2766,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.6667\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,56678,101453,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,56678,99753,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.14,BGIN,Bgin Blockchain Limited,Technology,Computer Hardware,Singapore,202513328,1.79,16060,240307,430149.53,-0.845,,,-2.9201002,-2.99897,0.0,-1.61931,-0.53916,31420292,1992425,6.831,1.241,0.849,-81485704,37236616,90581566,43350299,0.52142,0.00084,57581,0.1,0.0106,,,7.470595,6.9649806,6.389,-1.724,,,,,none,,,,,,,,https://www.bgin.com,2026-10-29T08:52:59.040193+00:00
+21.25,BGIN,Bgin Blockchain Limited,Technology,Computer Hardware,Singapore,199119264,1.76,15640,244270,429915.2,-0.845,,,-2.9201002,-2.99897,0.0,-1.61931,-0.53916,31420292,1992425,6.831,1.241,0.849,-81485704,37236616,90581566,43350299,0.52142,0.00084,57581,0.1,0.0106,,,7.34539,6.848249,6.264,-1.69,,,,,none,,,,,,,,https://www.bgin.com,2026-10-31T14:33:33.947942+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-21,6.00,6.50,4.72,4.96,,,,,,,0,6.5000,0,15185,,,,
 2025-10-22,4.30,4.45,3.81,4.16,,,,,,,0,6.5000,0,3093,,,,
@@ -271,4 +271,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.77,1.90,1.70,1.74,1.90,2.00,1.96,2.51,2.62,1.6839,1,2.1612,0,57,101,-0.0546,-0.0174,-0.0372
 2026-10-27,1.77,1.88,1.72,1.74,1.87,1.99,1.95,2.50,2.61,1.6839,1,2.1151,0,24,101,-0.0640,-0.0267,-0.0373
 2026-10-28,1.73,1.82,1.71,1.79,1.84,1.98,1.95,2.49,2.61,1.6839,1,2.0736,0,14,98,-0.0666,-0.0347,-0.0319
-2026-10-29,1.80,1.80,1.73,1.75,1.82,1.97,1.95,2.49,2.60,1.6839,1,2.0362,0,5,97,-0.0711,-0.0420,-0.0291
+2026-10-29,1.80,1.83,1.65,1.82,1.83,1.98,1.95,2.49,2.60,1.6839,1,2.0362,0,26,98,-0.0655,-0.0409,-0.0247
+2026-10-30,1.79,1.80,1.72,1.76,1.81,1.97,1.95,2.48,2.60,1.6839,1,1.9899,0,19,98,-0.0687,-0.0465,-0.0223
+2026-11-02,1.71,1.83,1.71,1.78,1.81,1.94,1.95,2.47,2.59,1.6839,1,1.9491,0,12,98,-0.0689,-0.0509,-0.0179

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259109408,9.96,10510,14145,140884.2,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0,0.86911005,4,0.0,0.0,,,,-23.16279,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-10-29T14:08:42.512717+00:00
+0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259109408,9.96,330,11929,118812.84000000001,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0,0.86911005,4,0.0,0.0,,,,-23.16279,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-10-31T20:34:10.051739+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-20,10.10,10.10,9.90,9.90,,,,,,,0,10.1000,0,76,,,,
 2026-04-21,9.90,9.90,9.82,9.83,,,,,,,0,10.1000,0,141,,,,
@@ -148,3 +148,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.96,9.96,9.96,9.96,9.97,9.97,9.95,,,9.9659,0,9.9437,1,,140,0.0045,0.0073,-0.0028
 2026-10-27,9.96,9.96,9.96,9.96,9.97,9.97,9.95,,,9.9653,0,9.9448,1,,140,0.0038,0.0066,-0.0028
 2026-10-28,9.96,9.96,9.96,9.96,9.97,9.97,9.95,,,9.9648,0,9.9458,1,,140,0.0032,0.0059,-0.0027
+2026-10-29,9.96,9.96,9.96,9.96,9.96,9.97,9.95,,,9.9643,0,9.9467,1,,140,0.0026,0.0052,-0.0026
+2026-10-30,9.96,9.96,9.96,9.96,9.96,9.97,9.95,,,9.9639,0,9.9477,1,,140,0.0022,0.0046,-0.0024

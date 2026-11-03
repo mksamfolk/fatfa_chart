@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0017,30000,295799,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0017,30000,296400,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,226780000,9.86,29710,26878,265017.07999999996,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.0,0.00056,1538,0.05,,,,,-704.28564,,,,,,,none,,,,,,,,,2026-10-29T11:59:29.202243+00:00
+0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,227240000,9.88,27190,26811,264892.68,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.0,0.00056,1538,0.05,,,,,-705.7143,,,,,,,none,,,,,,,,,2026-10-31T18:32:22.665777+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-17,9.83,9.93,9.83,9.89,,,,,,,0,9.8300,1,458,,,,
 2026-08-18,9.88,9.88,9.86,9.86,,,,,,,0,9.8300,1,6,,,,
@@ -81,3 +81,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.86,9.86,9.86,9.86,9.86,9.86,9.87,,,9.8838,0,9.9829,0,,276,-0.0021,-0.0023,0.0001
 2026-10-27,9.86,9.86,9.86,9.86,9.86,9.86,9.87,,,9.8814,0,9.9803,0,,267,-0.0022,-0.0023,0.0000
 2026-10-28,9.86,9.86,9.86,9.86,9.86,9.86,9.87,,,9.8793,0,9.9777,0,,267,-0.0023,-0.0023,-0.0000
+2026-10-29,9.86,9.86,9.86,9.86,9.86,9.86,9.87,,,9.8774,0,9.9751,0,,267,-0.0023,-0.0023,-0.0000
+2026-10-30,9.88,9.88,9.88,9.88,9.86,9.86,9.87,,,9.8584,1,9.9726,0,495,276,-0.0007,-0.0020,0.0013

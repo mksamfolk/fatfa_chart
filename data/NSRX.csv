@@ -7,13 +7,13 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,TELEMAN DAN BENJAMIN,Chief Executive Officer,,Purchase,2026-06-17,163541,2026-06-17\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Balyasny Asset Management LP,0.0767,898473,3000899,0.0\n1,2026-06-30,"Cable Car Capital, LP",0.052600004,616081,2057710,0.0234\n2,2026-06-30,Velan Capital Investment Management LP,0.0307,359390,1200362,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0115,134771,450135,0.0\n4,2026-06-30,Bleichroeder LP,0.0077,89848,300092,0.0\n5,2026-06-30,Citadel Advisors Llc,0.0019,22004,73493,1.0\n6,2026-06-30,Xtx Topco Ltd,0.0014,16640,55577,1.0\n7,2026-06-30,"Renaissance Technologies, LLC",0.001,12200,40747,1.0\n8,2026-06-30,Morgan Stanley,0.0001,1000,3339,-0.5\n9,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,4,13,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Balyasny Asset Management LP,0.0767,898473,2758312,0.0\n1,2026-06-30,"Cable Car Capital, LP",0.052600004,616081,1891368,0.0234\n2,2026-06-30,Velan Capital Investment Management LP,0.0307,359390,1103327,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0115,134771,413746,0.0\n4,2026-06-30,Bleichroeder LP,0.0077,89848,275833,0.0\n5,2026-06-30,Citadel Advisors Llc,0.0019,22004,67552,1.0\n6,2026-06-30,Xtx Topco Ltd,0.0014,16640,51084,1.0\n7,2026-06-30,"Renaissance Technologies, LLC",0.001,12200,37453,1.0\n8,2026-06-30,Morgan Stanley,0.0001,1000,3069,-0.5\n9,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,4,12,0.0\n
 mutualfund_holders
 ""\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,2,0,0,0,0\n1,-1m,2,0,0,0,0\n2,-2m,2,0,0,0,0\n3,-3m,2,0,0,0,0\n
 upgrades_downgrades
-GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget\n2026-03-26 13:04:42,Citizens,Market Outperform,Market Outperform,main,Lowers,18.0,19.0\n2025-12-18 13:11:24,Citizens,Market Outperform,,init,Announces,19.0,0.0\n2025-09-29 12:20:26,Laidlaw & Co.,Buy,,init,Announces,22.0,0.0\n
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget\n2026-10-30 13:31:06,Maxim Group,Buy,,init,Announces,7.0,0.0\n2026-03-26 13:04:42,Citizens,Market Outperform,Market Outperform,main,Lowers,18.0,19.0\n2025-12-18 13:11:24,Citizens,Market Outperform,,init,Announces,19.0,0.0\n2025-09-29 12:20:26,Laidlaw & Co.,Buy,,init,Announces,22.0,0.0\n
 cashflow
 ""\n
 earnings_dates
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.99,NSRX,Nasus Pharma Ltd.,Healthcare,Drug Manufacturers - General,Israel,39124116,3.34,20440,17643,58927.619999999995,,,,0.0,0.0,0.0,-3.16043,-0.96730006,11818000,103000,0.937,8.769,8.417,-10521000,-6983000,11713808,5459696,0.49153,0.18358,80432,3.65,0.0123000005,,,,3.5569754,,,19.66667,22.0,18.0,,none,3,2,2,0,0,,,https://www.nasuspharma.com,2026-10-29T12:17:42.241657+00:00
+33.55,NSRX,Nasus Pharma Ltd.,Healthcare,Drug Manufacturers - General,Israel,35961388,3.07,19840,17759,54520.13,,,,0.0,0.0,0.0,-3.16043,-0.96730006,11818000,103000,0.937,8.769,8.417,-10521000,-6983000,11713808,5459696,0.49153,0.18358,80432,3.65,0.0123000005,,,,3.2694354,,,19.66667,22.0,18.0,,none,3,2,2,0,0,,,https://www.nasuspharma.com,2026-10-31T18:50:28.346989+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-13,8.00,9.51,8.00,8.25,,,,,,,0,8.0000,1,2364,,,,
 2025-08-14,8.80,8.97,8.01,8.05,,,,,,,0,8.0000,1,506,,,,
@@ -319,4 +319,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.41,3.61,3.41,3.49,3.24,3.43,3.52,3.23,4.01,3.9820,0,3.6100,0,53,53,-0.0864,-0.0921,0.0057
 2026-10-27,3.29,3.50,3.29,3.32,3.26,3.40,3.53,3.22,3.99,3.9820,0,3.6070,0,37,53,-0.0825,-0.0902,0.0076
 2026-10-28,3.39,3.40,3.19,3.34,3.27,3.39,3.54,3.20,3.97,3.9820,0,3.6070,0,18,53,-0.0770,-0.0875,0.0106
-2026-10-29,3.34,3.39,3.38,3.38,3.29,3.39,3.54,3.19,3.95,3.9820,0,3.5493,0,5,52,-0.0686,-0.0837,0.0152
+2026-10-29,3.34,3.40,3.19,3.19,3.27,3.38,3.54,3.19,3.95,3.9820,0,3.5493,0,34,53,-0.0837,-0.0868,0.0030
+2026-10-30,3.23,3.27,3.07,3.07,3.26,3.36,3.53,3.18,3.93,3.9820,0,3.4974,0,15,53,-0.0976,-0.0889,-0.0087
+2026-11-02,3.10,3.32,3.13,3.20,3.26,3.33,3.54,3.17,3.91,3.9820,0,3.4506,0,15,53,-0.0971,-0.0906,-0.0065

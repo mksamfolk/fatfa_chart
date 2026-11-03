@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0057,308678,1345836,0.3098\n1,2026-06-30,Marshall Wace LLP,0.0026,138207,602582,1.0\n2,2026-06-30,"Jane Street Group, LLC",0.0022,120730,526382,1.0\n3,2026-06-30,"Renaissance Technologies, LLC",0.002,106500,464340,5.4545\n4,2026-06-30,Xtx Topco Ltd,0.0017,91775,400139,0.48810002\n5,2026-06-30,HRT Financial LP,0.0016,84193,367081,4.1776\n6,2026-06-30,Quadrature Capital Ltd,0.0011999999,67403,293877,1.0\n7,2026-06-30,Blackrock Inc.,0.0004,19219,83794,0.0\n8,2026-06-30,Goldman Sachs Group Inc,0.00029999999,16771,73121,0.3657\n9,2026-06-30,Scientech Research LLC                          ,0.00029999999,15817,68962,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0057,308678,1398311,0.3098\n1,2026-06-30,Marshall Wace LLP,0.0026,138207,626077,1.0\n2,2026-06-30,"Jane Street Group, LLC",0.0022,120730,546906,1.0\n3,2026-06-30,"Renaissance Technologies, LLC",0.002,106500,482445,5.4545\n4,2026-06-30,Xtx Topco Ltd,0.0017,91775,415740,0.48810002\n5,2026-06-30,HRT Financial LP,0.0016,84193,381394,4.1776\n6,2026-06-30,Quadrature Capital Ltd,0.0011999999,67403,305335,1.0\n7,2026-06-30,Blackrock Inc.,0.0004,19219,87062,0.0\n8,2026-06-30,Goldman Sachs Group Inc,0.00029999999,16771,75972,0.3657\n9,2026-06-30,Scientech Research LLC                          ,0.00029999999,15817,71651,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,18706,81558,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,18706,84738,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.21672001\ninstitutionsPercentHeld,0.022079999\ninstitutionsFloatPercentHeld,0.02819\ninstitutionsCount,15.0\n
+,Value\ninsidersPercentHeld,0.21672001\ninstitutionsPercentHeld,0.022090001\ninstitutionsFloatPercentHeld,0.028199999\ninstitutionsCount,15.0\n
 news
 [\n  {\n    "uuid": "a638983f-a145-3ccd-bad6-2d761a617a71",\n    "title": "Energys Group Limited Announces Acquisitions",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/energy/articles/energys-group-limited-announces-acquisitions-170200073.html",\n    "providerPublishTime": 1787590920,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/e5c83da1aebf79ed4acba8995d1ae9d9.jpg",\n          "width": 173,\n          "height": 55,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/0AF780D0FC838470E5E9EEB21715F70DCAC13031C60BDFD9B4A972E2D6B34B4B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fe5c83da1aebf79ed4acba8995d1ae9d9.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ENGS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.70,ENGS,Energys Group Limited,Industrials,Waste Management,United Kingdom,136264896,4.36,6458060,2568570,11198965.200000001,-0.278,,,0.16194999,-0.42264998,-0.58431,,-0.21191,30392,6336527,5947.613,0.705,0.093,,,31253416,11215399,0.21672001,0.022079999,346415,0.13,0.0099,,,23.922422,465.02005,12.044,-23.545,,,,,none,,,,,,,,https://www.energysgroup.com,2026-10-29T10:04:46.346078+00:00
+98.09,ENGS,Energys Group Limited,Industrials,Waste Management,United Kingdom,141577984,4.53,5809250,2662423,12060776.190000001,-0.278,,,0.16194999,-0.42264998,-0.58431,,-0.21191,30392,6336527,5947.613,0.705,0.093,,,31253416,11215399,0.21672001,0.022090001,346415,0.13,0.0099,,,24.855179,483.15158,12.47,-24.379,,,,,none,,,,,,,,https://www.energysgroup.com,2026-10-31T15:47:51.335143+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-01,4.96,5.58,4.60,4.95,,,,,,,0,5.5800,0,12415,,,,
 2025-04-02,4.94,5.00,4.21,4.89,,,,,,,0,5.5800,0,1177,,,,
@@ -411,4 +411,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.28,4.45,4.24,4.36,3.90,3.49,3.05,2.09,1.80,3.8900,1,3.8670,1,34600,8057,0.3666,0.2763,0.0902
 2026-10-27,4.38,4.41,4.26,4.36,3.98,3.57,3.08,2.12,1.82,3.8900,1,3.9846,1,27787,8542,0.3797,0.2970,0.0826
 2026-10-28,4.36,4.42,4.18,4.36,4.06,3.64,3.12,2.14,1.84,3.8900,1,4.0786,1,41918,9257,0.3856,0.3147,0.0708
-2026-10-29,4.34,4.42,4.30,4.39,4.14,3.71,3.15,2.16,1.85,3.8900,1,4.1539,1,6154,9329,0.3886,0.3295,0.0591
+2026-10-29,4.34,4.55,4.30,4.47,4.15,3.72,3.15,2.16,1.86,3.9148,1,4.1539,1,9288,9392,0.3946,0.3307,0.0639
+2026-10-30,4.45,4.57,4.45,4.53,4.23,3.80,3.19,2.19,1.87,4.0171,1,4.1800,1,17668,9694,0.4019,0.3449,0.0570
+2026-11-02,4.48,4.61,4.47,4.59,4.31,3.87,3.23,2.21,1.89,4.0543,1,4.2580,1,25320,10172,0.4079,0.3575,0.0504

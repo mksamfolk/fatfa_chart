@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0021,7500,10950,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0021,7500,8925,1.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-10-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,72,105,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-10-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,72,85,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-18 09:30:00-04:00,0.0125\n2026-05-07 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.04,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,3390691,1.46,7517440,1258607,1837566.22,-0.045,,,0.46486,-0.09425,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.00366,71938,0.6,0.031,0.0050233966,,0.18967372,0.048129227,-0.233,4.188,,,,,none,,,,,,,-4.364,https://www.ir.chanson-international.net,2026-10-29T09:21:57.622670+00:00
+7.29,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,2763645,1.19,7679180,1302773,1550299.8699999999,-0.045,,,0.46486,-0.09425,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.00366,71938,0.6,0.031,0.0040944126,,0.15459706,0.03922862,-0.268,4.819,,,,,none,,,,,,,-4.364,https://www.ir.chanson-international.net,2026-10-31T15:03:10.934592+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-30,32000.00,32000.00,18320.00,19600.00,,,,,,,0,32000.0000,0,2411,,,,
 2023-03-31,24000.00,27120.00,14880.00,16880.00,,,,,,,0,32000.0000,0,5537,,,,
@@ -912,5 +912,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.89,1.00,0.87,1.00,0.93,1.00,1.04,63.43,100.55,1.1382,0,0.7056,1,39,101,-0.0879,-0.1019,0.0140
 2026-10-26,1.00,1.01,0.98,1.01,0.93,1.00,1.04,62.11,99.46,1.1382,0,0.7173,1,12,99,-0.0764,-0.0968,0.0204
 2026-10-27,0.97,1.09,0.91,1.08,0.93,1.00,1.04,60.81,98.44,1.1382,0,0.7349,1,974,118,-0.0610,-0.0896,0.0287
-2026-10-28,1.51,1.70,0.88,1.46,0.98,1.02,1.04,59.49,97.36,0.7561,1,0.7633,1,107696,2271,-0.0179,-0.0753,0.0574
-2026-10-29,1.38,1.38,1.14,1.20,1.01,1.02,1.05,58.16,96.25,0.7561,1,0.8569,1,1061,2291,-0.0046,-0.0611,0.0565
+2026-10-28,1.51,1.70,0.88,1.46,0.98,1.02,1.04,59.49,97.36,0.7561,1,0.7633,1,108090,2278,-0.0179,-0.0753,0.0574
+2026-10-29,1.38,1.38,1.14,1.17,1.01,1.02,1.04,58.16,96.25,0.7561,1,0.8569,1,1387,2306,-0.0070,-0.0616,0.0546
+2026-10-30,1.17,1.35,1.17,1.19,1.04,1.03,1.05,56.80,95.11,0.7561,1,0.8770,1,413,2314,0.0032,-0.0487,0.0518
+2026-11-02,1.15,1.15,0.99,0.99,1.05,1.03,1.04,55.38,94.02,0.7561,1,0.9593,1,305,2315,-0.0048,-0.0399,0.0351

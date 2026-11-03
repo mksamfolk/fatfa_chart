@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Cetera Investment Advisers,0.0034,19862,49843,-0.1612\n1,2026-06-30,Citigroup Inc.,0.0027,15851,39778,-0.0326\n2,2026-06-30,UBS Group AG,0.00059999997,3541,8886,-0.3609\n3,2026-06-30,Acadian Asset Management. LLC,0.0005,2961,7430,-0.4425\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Cetera Investment Advisers,0.0034,19862,47072,-0.1612\n1,2026-06-30,Citigroup Inc.,0.0027,15851,37566,-0.0326\n2,2026-06-30,UBS Group AG,0.00059999997,3541,8392,-0.3609\n3,2026-06-30,Acadian Asset Management. LLC,0.0005,2961,7017,-0.4425\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-07 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.92,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,14742668,2.5095,6030,153389,384929.69550000003,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4846545,0.48771,0.00719,14522,0.53,0.003,2.7277174,,0.103363685,0.4141735,-0.342,-2.668,,,,,none,,,,,,,-2.499,https://www.raytech.com.hk,2026-10-29T08:40:53.771266+00:00
+36.94,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,13923140,2.37,5350,155756,369141.72000000003,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00719,14522,0.53,0.003,2.5760868,,0.09761781,0.3911501,-0.347,-2.713,,,,,none,,,,,,,-2.499,https://www.raytech.com.hk,2026-10-31T14:20:57.174321+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-15,80.80,96.64,64.32,67.68,,,,,,,0,64.3200,1,10064,,,,
 2024-05-16,70.40,92.32,67.68,70.08,,,,,,,0,64.3200,1,4778,,,,
@@ -636,3 +636,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,2.37,2.50,2.30,2.50,2.49,2.57,2.71,3.07,3.24,2.7559,0,3.1328,0,39,620,-0.0838,-0.0758,-0.0080
 2026-10-28,2.37,2.54,2.37,2.51,2.48,2.56,2.70,3.06,3.24,2.7559,0,3.0495,0,16,620,-0.0769,-0.0760,-0.0009
 2026-10-29,2.46,2.46,2.45,2.45,2.47,2.55,2.69,3.05,3.24,2.7559,0,2.9746,0,6,618,-0.0755,-0.0759,0.0005
+2026-10-30,2.42,2.45,2.34,2.37,2.45,2.52,2.68,3.04,3.25,2.7559,0,2.9071,0,11,618,-0.0798,-0.0767,-0.0031
+2026-11-02,2.27,2.33,2.18,2.32,2.44,2.50,2.67,3.02,3.25,2.6487,0,2.8464,0,16,618,-0.0863,-0.0786,-0.0077

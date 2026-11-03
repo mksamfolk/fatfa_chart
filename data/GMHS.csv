@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackrock Inc.,0.00090000004,45378,30357,1.0\n1,2026-06-30,Citadel Advisors Llc,0.00090000004,46862,31350,0.28260002\n2,2026-06-30,Morgan Stanley,0.0004,20000,13380,1.0\n3,2026-06-30,"Gabelli & Co. Investment Advisers, Inc.",0.0002,11440,7653,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackrock Inc.,0.00090000004,45378,29541,1.0\n1,2026-06-30,Citadel Advisors Llc,0.00090000004,46862,30507,0.28260002\n2,2026-06-30,Morgan Stanley,0.0004,20000,13020,1.0\n3,2026-06-30,"Gabelli & Co. Investment Advisers, Inc.",0.0002,11440,7447,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,iShares Trust-iShares Micro-Cap ETF,0.00090000004,45079,30157,0.0067000003\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,iShares Trust-iShares Micro-Cap ETF,0.00090000004,43285,28178,-0.0398\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.59,GMHS,Gamehaus Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,China,37999972,0.669,6810,151427,101304.663,-0.204,-0.467,-0.459,0.52719,-0.04285,0.04092,0.10735,0.01681,22669280,2576287,6.665,2.837,2.054,5992291,6315177,49002093,28070560,0.79119,0.00252,171744,2.93,0.0057,8.3625,,0.36310935,0.9695653,0.166,5.527,,,,,none,,,,,,,0.654,https://www.gamehaus.com,2026-10-29T10:38:35.232072+00:00
+24.19,GMHS,Gamehaus Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,China,36977552,0.651,10280,153650,100026.15000000001,-0.204,-0.467,-0.459,0.52719,-0.04285,0.04092,0.10735,0.01681,22669280,2576287,6.665,2.837,2.054,5992291,6315177,49002093,28070560,0.79119,0.00252,171744,2.93,0.0064999997,8.137501,,0.3533396,0.9434783,0.156,5.202,,,,,none,,,,,,,0.654,https://www.gamehaus.com,2026-10-31T16:24:12.174466+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-28,10.16,10.16,10.14,10.16,,,,,,,0,10.1400,1,814,,,,
 2023-06-29,10.16,10.18,10.16,10.17,,,,,,,0,10.1400,1,2314,,,,
@@ -852,4 +852,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.63,0.67,0.61,0.67,0.62,0.64,0.72,0.89,0.91,0.5790,1,0.8061,0,8,158,-0.0322,-0.0408,0.0086
 2026-10-27,0.66,0.67,0.65,0.67,0.62,0.64,0.72,0.88,0.91,0.5790,1,0.7958,0,1,157,-0.0269,-0.0380,0.0111
 2026-10-28,0.63,0.68,0.58,0.67,0.63,0.63,0.72,0.88,0.91,0.5790,1,0.7859,0,3,157,-0.0223,-0.0349,0.0126
-2026-10-29,0.69,0.69,0.67,0.68,0.64,0.63,0.71,0.88,0.91,0.5790,1,0.7764,0,4,156,-0.0176,-0.0314,0.0138
+2026-10-29,0.67,0.69,0.67,0.69,0.64,0.63,0.71,0.88,0.91,0.5790,1,0.7764,0,6,156,-0.0172,-0.0313,0.0142
+2026-10-30,0.66,0.73,0.65,0.65,0.64,0.62,0.71,0.88,0.91,0.5790,1,0.7673,0,22,157,-0.0157,-0.0282,0.0125
+2026-11-02,0.61,0.69,0.60,0.69,0.65,0.63,0.71,0.87,0.91,0.5790,1,0.7586,0,207,161,-0.0110,-0.0248,0.0137

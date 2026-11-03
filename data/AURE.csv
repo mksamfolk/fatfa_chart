@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Yorkville Advisors Global, LP",0.076799996,1485000,1499849,-0.404\n1,2026-06-30,"Susquehanna International Group, LLP",0.0026,49511,50006,1.0\n2,2026-06-30,Citadel Advisors Llc,0.00059999997,10678,10784,1.0\n3,2026-06-30,Virtu Financial LLC,0.0005,10581,10686,1.0\n4,2026-06-30,Blackrock Inc.,0.0001,1120,1131,0.0\n5,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,15,15,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Yorkville Advisors Global, LP",0.076799996,1485000,1574099,-0.404\n1,2026-06-30,"Susquehanna International Group, LLP",0.0026,49511,52481,1.0\n2,2026-06-30,Citadel Advisors Llc,0.00059999997,10678,11318,1.0\n3,2026-06-30,Virtu Financial LLC,0.0005,10581,11215,1.0\n4,2026-06-30,Blackrock Inc.,0.0001,1120,1187,0.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,40,42,1.6667\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7221,7293,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,2,2,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7221,7654,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,2,2,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.22065\ninstitutionsPercentHeld,0.08078\ninstitutionsFloatPercentHeld,0.10366\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.22065\ninstitutionsPercentHeld,0.080790006\ninstitutionsFloatPercentHeld,0.10366\ninstitutionsCount,8.0\n
 news
 [\n  {\n    "uuid": "551d5724-9b81-3fa5-9c71-ecc276ad2e00",\n    "title": "Antalpha Platform Holding Company Q2 2026 Earnings Call Summary",\n    "publisher": "Moby",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/antalpha-platform-holding-company-q2-123000800.html",\n    "providerPublishTime": 1787229000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/moby_896/94e995745e70f5d27d028aee4114e42d.png",\n          "width": 1200,\n          "height": 675,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/3B6033CBCE4FE80701219A600A45C79CE0B57817F7E89B7BE8D66526332D09B1/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F94e995745e70f5d27d028aee4114e42d.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NVDA",\n      "ANTA",\n      "GC=F",\n      "AURE"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-02-19 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.90,AURE,Aurelion Inc.,Financial Services,Capital Markets,Hong Kong,37976000,1.01,88860,113663,114799.63,,,,0.0,7.4854198,0.0,,,1592390,42792744,47.076,41.623,0.968,,,22348486,10466284,0.22065,0.08078,75074,0.31,0.0050999997,,,-31.912605,0.3846154,-64.002,,,,,,none,,,,,,,2.434,https://www.aurelion.com,2026-10-29T08:41:52.121597+00:00
+9.81,AURE,Aurelion Inc.,Financial Services,Capital Markets,Hong Kong,39855996,1.06,112920,119495,126664.70000000001,,,,0.0,7.4854198,0.0,,,1592390,42792744,47.076,41.623,0.968,,,22348486,10466284,0.22065,0.080790006,75074,0.31,0.0050999997,,,-33.492435,0.40365574,-65.457,,,,,,none,,,,,,,2.434,https://www.aurelion.com,2026-10-31T14:21:58.969398+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-07,104.50,224.50,75.20,190.90,,,,,,,0,75.2000,1,576738,,,,
 2023-07-10,162.50,309.20,131.40,252.00,,,,,,,0,75.2000,1,515204,,,,
@@ -846,4 +846,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.05,1.07,1.03,1.05,0.98,1.10,1.44,1.96,2.15,1.2235,0,0.8610,1,52,47,-0.1404,-0.1610,0.0206
 2026-10-27,1.03,1.12,0.92,1.02,0.98,1.07,1.42,1.95,2.13,1.2235,0,0.8654,1,75,49,-0.1309,-0.1550,0.0241
 2026-10-28,1.00,1.12,0.90,1.01,0.98,1.05,1.41,1.94,2.11,1.2235,0,0.8756,1,115,51,-0.1228,-0.1486,0.0258
-2026-10-29,0.98,1.02,0.97,1.00,0.98,1.03,1.40,1.93,2.10,1.2235,0,0.8903,1,14,51,-0.1158,-0.1420,0.0262
+2026-10-29,0.98,1.10,0.93,1.07,0.99,1.04,1.40,1.93,2.10,1.2235,0,0.8903,1,125,53,-0.1106,-0.1410,0.0304
+2026-10-30,1.09,1.11,0.95,1.06,1.00,1.02,1.38,1.92,2.09,1.2235,0,0.9000,1,167,56,-0.1002,-0.1328,0.0326
+2026-11-02,1.04,1.05,0.98,1.05,1.02,1.02,1.37,1.91,2.08,1.2235,0,0.9133,1,88,58,-0.0918,-0.1246,0.0329

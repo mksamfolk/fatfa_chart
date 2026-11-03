@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MDBH,MDB Capital Holdings LLC,Financial Services,Capital Markets,United States,17222698,1.6499,4240,3100,5114.69,,,,0.65942,11.105069,0.0,-0.40377998,-0.39321,9921000,553000,1.117,15.262,11.781,-7818000,,5438632,4845300,0.11304,0.03371,67,0.02,0.0,,,3.1451237,0.34705508,1.414,,,,,,none,,,,,,,1.236,https://www.mdb.com,2026-10-29T11:49:08.273433+00:00
+11.31,MDBH,MDB Capital Holdings LLC,Financial Services,Capital Markets,United States,17222698,1.6499,4240,3100,5114.69,,,,0.65942,11.105069,0.0,-0.40377998,-0.39321,9921000,553000,1.117,15.262,11.781,-7818000,,5438632,4845300,0.11304,0.03371,67,0.02,0.0,,,3.1451237,0.34705508,1.414,,,,,,none,,,,,,,1.236,https://www.mdb.com,2026-10-29T11:49:08.273433+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-21,16.00,21.67,12.50,12.50,,,,,,,0,21.6700,0,6333,,,,
 2023-09-22,11.75,11.92,10.15,10.51,,,,,,,0,21.6700,0,1000,,,,
@@ -793,3 +793,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.55,1.55,1.55,1.55,1.82,2.08,2.64,3.08,3.13,1.9059,0,1.9115,0,3,8,-0.2989,-0.2824,-0.0165
 2026-10-27,1.56,1.90,1.56,1.75,1.79,2.03,2.62,3.07,3.13,1.9059,0,1.5500,1,6,8,-0.2870,-0.2834,-0.0037
 2026-10-28,1.71,1.79,1.60,1.65,1.76,1.97,2.59,3.06,3.12,1.9059,0,1.5500,1,23,9,-0.2824,-0.2832,0.0007
+2026-10-29,1.81,1.81,1.81,1.81,1.77,1.92,2.56,3.05,3.11,1.9059,0,1.5570,1,5,9,-0.2628,-0.2791,0.0163

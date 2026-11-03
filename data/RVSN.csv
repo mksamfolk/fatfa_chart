@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,NAVEH OFER,Chief Financial Officer,,Sale,2026-09-10,9500,2026-09-10\n1,REVACH HILA KIRON,Director,,Sale,2026-06-01,2056,2026-06-01\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.008,17646,54526,-0.3197\n1,2026-06-30,"Your Advocates Ltd., LLP",0.0015,3333,10298,0.0\n2,2026-06-30,Morgan Stanley,0.0002,500,1544,0.0\n3,2026-06-30,"Russell Investments Group, Ltd.",0.0,3,9,1.0\n4,2026-06-30,"NewEdge Advisors, LLC",0.0,100,308,0.0\n5,2026-06-30,BNP Paribas Financial Markets,0.0,33,101,-0.96489996\n6,2026-09-30,"SBI Securities Co., Ltd.",0.0,13,40,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.008,17646,48526,-0.3197\n1,2026-06-30,"Your Advocates Ltd., LLP",0.0015,3333,9165,0.0\n2,2026-06-30,Morgan Stanley,0.0002,500,1375,0.0\n3,2026-06-30,"Russell Investments Group, Ltd.",0.0,3,8,1.0\n4,2026-06-30,"NewEdge Advisors, LLC",0.0,100,275,0.0\n5,2026-06-30,BNP Paribas Financial Markets,0.0,33,90,-0.96489996\n6,2026-09-30,"SBI Securities Co., Ltd.",0.0,13,35,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,1164,3596,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,1164,3201,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-11-15 09:30:00-05:00,0.125\n2026-02-03 09:30:00-05:00,0.03333333333333333\n2026-02-04 09:30:00-05:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.40,RVSN,Rail Vision Ltd.,Industrials,Railroads,Israel,7049306,3.09,22130,23900,73851.0,3.283,,,0.36247003,-7.91034,0.0,-0.66161,-0.40914002,15314000,68000,0.431,9.599,8.815,-10674000,-7467125,2281329,2204927,0.06256,0.00987,58490,3.44,0.026500002,,-1.4714286,3.1122763,0.44640276,-3.619,0.589,10.0,10.0,10.0,,none,1,,,,,,-0.308,https://railvision.io,2026-10-29T13:14:52.914181+00:00
+6.10,RVSN,Rail Vision Ltd.,Industrials,Railroads,Israel,6273655,2.75,22560,24176,66484.0,3.283,,,0.36247003,-7.91034,0.0,-0.66161,-0.40914002,15314000,68000,0.431,9.599,8.815,-10674000,-7467125,2281329,2204927,0.06256,0.00987,58490,3.44,0.026500002,,-1.3095238,2.7698257,0.39728403,-3.961,0.645,10.0,10.0,10.0,,none,1,,,,,,-0.308,https://railvision.io,2026-10-31T19:46:55.020597+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-31,22608.00,22608.00,17640.00,22248.00,,,,,,,0,22608.0000,0,15240,,,,
 2022-04-01,18792.00,20088.00,17640.00,19584.00,,,,,,,0,22608.0000,0,5914,,,,
@@ -1163,4 +1163,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.26,3.26,3.03,3.12,3.07,3.38,4.13,5.68,52.43,3.7084,0,2.7952,1,63,112,-0.3337,-0.3686,0.0349
 2026-10-27,3.12,3.21,3.04,3.17,3.07,3.33,4.11,5.65,50.99,3.7084,0,2.8097,1,40,112,-0.3135,-0.3576,0.0441
 2026-10-28,3.41,3.41,3.03,3.09,3.09,3.28,4.09,5.61,49.47,3.7084,0,2.8239,1,49,112,-0.3009,-0.3462,0.0454
-2026-10-29,3.14,3.14,3.03,3.03,3.10,3.24,4.07,5.57,47.91,3.7084,0,2.8378,1,8,112,-0.2923,-0.3355,0.0431
+2026-10-29,3.14,3.14,2.95,2.95,3.09,3.24,4.07,5.57,47.91,3.7084,0,2.8378,1,52,113,-0.2987,-0.3367,0.0380
+2026-10-30,2.85,3.02,2.60,2.75,3.07,3.18,4.05,5.54,46.44,3.7084,0,3.5190,0,69,112,-0.3096,-0.3313,0.0217
+2026-11-02,2.72,2.98,2.66,2.66,3.04,3.13,4.02,5.50,44.89,3.7084,0,3.5006,0,16,112,-0.3217,-0.3294,0.0077

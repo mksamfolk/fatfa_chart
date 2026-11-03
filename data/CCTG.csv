@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0031,104132,31968,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0011,37507,11514,0.6091\n2,2026-06-30,HRT Financial LP,0.0007,24722,7589,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0004,13592,4172,-0.62810004\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0001,5000,1535,1.0\n5,2026-06-30,Acadian Asset Management. LLC,0.0001,4231,1298,0.0\n6,2026-06-30,UBS Group AG,0.0,81,24,-0.9876\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0031,104132,29604,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0011,37507,10663,0.6091\n2,2026-06-30,HRT Financial LP,0.0007,24722,7028,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0004,13592,3864,-0.62810004\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0001,5000,1421,1.0\n5,2026-06-30,Acadian Asset Management. LLC,0.0001,4231,1202,0.0\n6,2026-06-30,UBS Group AG,0.0,81,23,-0.9876\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,623,191,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,623,177,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-01-23 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.19,CCTG,CCSC Technology International Holdings Limited,Industrials,Electrical Equipment & Parts,Hong Kong,4169117,0.307,946540,595438,182799.466,0.05,,,0.29268998,-0.28278,-0.27773002,-0.41042,-0.12861,4093878,997625,7.861,2.092,1.331,-4507975,-3004009,13080186,3394861,0.02562,0.013940001,219446,0.25,0.0168,,,0.24095121,0.09466544,-0.11,0.582,,,,,none,,,,,,,0.927,https://www.ccsc-interconnect.com,2026-10-29T09:15:50.968280+00:00
+5.60,CCTG,CCSC Technology International Holdings Limited,Industrials,Electrical Equipment & Parts,Hong Kong,3860846,0.2843,121020,600962,170853.49659999998,0.05,,,0.29268998,-0.28278,-0.27773002,-0.41042,-0.12861,4093878,997625,7.861,2.092,1.331,-4507975,-3004009,13080186,3394861,0.02562,0.013940001,219446,0.25,0.0168,,,0.22313489,0.087665744,-0.115,0.609,,,,,none,,,,,,,0.927,https://www.ccsc-interconnect.com,2026-10-31T14:57:05.177723+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-18,57.50,98.33,50.30,77.00,,,,,,,0,50.3000,1,39894,,,,
 2024-01-19,74.90,103.30,68.10,90.00,,,,,,,0,50.3000,1,41478,,,,
@@ -712,4 +712,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.36,0.38,0.34,0.35,0.37,0.45,0.59,0.62,0.73,0.5323,0,0.3925,0,27,394,-0.0764,-0.0752,-0.0012
 2026-10-27,0.35,0.38,0.34,0.35,0.37,0.44,0.59,0.62,0.72,0.5248,0,0.3811,0,19,393,-0.0743,-0.0750,0.0008
 2026-10-28,0.34,0.34,0.17,0.31,0.36,0.42,0.58,0.62,0.71,0.4626,0,0.3750,0,60,391,-0.0756,-0.0751,-0.0004
-2026-10-29,0.30,0.32,0.29,0.31,0.36,0.41,0.57,0.62,0.71,0.4626,0,0.3750,0,11,388,-0.0759,-0.0753,-0.0006
+2026-10-29,0.31,0.32,0.28,0.30,0.36,0.41,0.57,0.62,0.71,0.4626,0,0.3750,0,40,389,-0.0762,-0.0754,-0.0009
+2026-10-30,0.28,0.32,0.28,0.28,0.34,0.39,0.56,0.62,0.70,0.4626,0,0.3430,0,15,388,-0.0772,-0.0757,-0.0015
+2026-11-02,0.23,0.30,0.22,0.29,0.34,0.38,0.55,0.62,0.69,0.4535,0,0.3250,0,9306,572,-0.0767,-0.0759,-0.0008

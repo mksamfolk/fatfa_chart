@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.015700001,52416,306109,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,13,75,1.0\n2,2026-06-30,UBS Group AG,0.0,16,93,-0.9096\n3,2026-09-30,"SBI Securities Co., Ltd.",0.0,6,35,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.015700001,52416,437673,1.0\n1,2026-06-30,UBS Group AG,0.0,16,133,-0.9096\n2,2026-09-30,"SBI Securities Co., Ltd.",0.0,6,50,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,6,50,-0.5385\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-22 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.04,MF,MindForge Inc.,Communication Services,Advertising Agencies,China,37189508,5.84,123140,192475,1124054.0,-0.741,,,-0.00543,-1.3669901,-2.2288,-1.67187,-0.30512,12333758,2771,0.013,1.14,0.697,-2158972,14986652,6061683,2406216,0.00046999997,0.00865,2071,0.03,0.0004,,,2.503193,1.0318022,0.6,-0.62,,,,,none,,,,,,,,https://www.u-bx.com,2026-10-29T11:51:14.359066+00:00
+68.06,MF,MindForge Inc.,Communication Services,Advertising Agencies,China,53173352,8.35,114700,182445,1523415.75,-0.741,,,-0.00543,-1.3669901,-2.2288,-1.67187,-0.30512,12333758,2771,0.013,1.14,0.697,-2158972,14986652,6061683,2406216,0.00046999997,0.00865,2071,0.03,0.0004,,,3.5790513,1.4752651,1.215,-1.255,,,,,none,,,,,,,,https://www.u-bx.com,2026-10-31T18:24:06.220343+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-28,125.00,135.00,100.00,102.50,,,,,,,0,100.0000,1,7005,,,,
 2024-04-01,101.50,123.50,101.50,114.00,,,,,,,0,100.0000,1,4146,,,,
@@ -663,4 +663,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.35,11.39,10.07,10.47,10.20,10.93,11.95,16.78,24.62,15.1464,0,12.1675,0,652,2809,-0.5967,-0.6175,0.0208
 2026-10-27,10.70,11.68,8.23,8.37,10.26,10.68,12.00,16.52,24.41,15.1464,0,11.7300,0,629,2786,-0.7345,-0.6409,-0.0936
 2026-10-28,8.14,8.90,5.46,5.84,9.96,10.36,11.98,16.26,24.19,14.8208,0,11.6800,0,510,2764,-1.0360,-0.7199,-0.3161
-2026-10-29,5.37,6.68,5.37,5.75,9.45,10.03,11.96,16.00,23.98,13.2948,0,11.6800,0,36,2739,-1.2676,-0.8294,-0.4381
+2026-10-29,5.78,7.84,5.37,6.54,9.53,10.07,11.97,16.01,23.98,14.2228,0,11.6800,0,1210,2763,-1.2046,-0.8168,-0.3877
+2026-10-30,7.00,9.41,7.00,8.35,9.26,9.80,11.96,15.77,23.77,14.2228,0,10.6704,0,1720,2638,-1.1785,-0.8892,-0.2893
+2026-11-02,8.52,11.49,7.92,11.49,9.36,9.66,12.01,15.54,23.58,14.2228,0,5.3700,1,893,2629,-0.8942,-0.8902,-0.0040

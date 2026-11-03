@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Invesco Ltd.,0.024300002,1873219,5245013,-0.1625\n1,2026-06-30,Goldman Sachs Group Inc,0.0022,166395,465905,3.3527\n2,2026-06-30,Integrated Wealth Concepts LLC,0.0018000001,142517,399047,-0.2442\n3,2026-06-30,Cambridge Investment Research Advisors Inc.,0.0015,115294,322823,0.1942\n4,2026-06-30,"Susquehanna International Group, LLP",0.0004,28821,80698,0.17790002\n5,2026-06-30,King Luther Capital Management,0.00029999999,25000,69999,0.0\n6,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.00029999999,25378,71058,1.0\n7,2026-06-30,HRT Financial LP,0.00029999999,23162,64853,1.0\n8,2026-06-30,Xtx Topco Ltd,0.00029999999,20737,58063,1.0\n9,2026-09-30,Gk Wealth Management LLC,0.00029999999,24784,69395,-0.22629999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Invesco Ltd.,0.024300002,1873219,5263745,-0.1625\n1,2026-06-30,Goldman Sachs Group Inc,0.0022,166395,467569,3.3527\n2,2026-06-30,Integrated Wealth Concepts LLC,0.0018000001,142517,400472,-0.2442\n3,2026-06-30,Cambridge Investment Research Advisors Inc.,0.0015,115294,323976,0.1942\n4,2026-06-30,"Susquehanna International Group, LLP",0.0004,28821,80987,0.17790002\n5,2026-06-30,King Luther Capital Management,0.00029999999,25000,70249,0.0\n6,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.00029999999,25378,71312,1.0\n7,2026-06-30,HRT Financial LP,0.00029999999,23162,65085,1.0\n8,2026-06-30,Xtx Topco Ltd,0.00029999999,20737,58270,1.0\n9,2026-09-30,Gk Wealth Management LLC,0.00029999999,24784,69643,-0.22629999\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco WilderHill Clean Energy ETF,0.024300002,1872366,5242624,-0.0398\n1,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,5026,14072,0.9227\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,5790,16211,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco WilderHill Clean Energy ETF,0.024300002,1872366,5261348,-0.0398\n1,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,5026,14123,0.9227\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,5790,16269,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.87,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,224553904,2.8,75360,81309,227665.19999999998,,,,1.0,-6.0841,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,76865849,61617970,0.00518,0.03343,146128,1.54,0.0023999999,,,342.30777,0.7777778,238.844,-19.939,,,,,none,,,,,,,0.88,https://www.ioneer.com,2026-10-29T11:10:38.540270+00:00
+17.70,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,217072496,2.81,60230,79550,223535.5,,,,1.0,-6.0841,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,77250000,61617970,0.00518,0.03343,146128,1.54,0.0023999999,,,330.9032,0.78055555,240.015,-20.037,,,,,none,,,,,,,0.88,https://www.ioneer.com,2026-10-31T17:42:55.873219+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-30,16.80,17.63,15.40,17.63,,,,,,,0,15.4000,1,9,,,,
 2022-07-01,18.60,19.00,11.05,12.58,,,,,,,0,19.0000,0,409,,,,
@@ -1101,4 +1101,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.66,2.72,2.63,2.70,2.75,2.85,3.09,3.63,3.95,3.0190,0,2.9814,0,121,226,-0.1263,-0.1208,-0.0054
 2026-10-27,2.65,2.83,2.64,2.73,2.73,2.84,3.08,3.62,3.95,3.0190,0,2.9450,0,254,226,-0.1204,-0.1207,0.0004
 2026-10-28,2.81,2.83,2.73,2.80,2.73,2.83,3.07,3.62,3.94,3.0190,0,2.9116,0,125,226,-0.1088,-0.1184,0.0096
-2026-10-29,2.76,2.88,2.76,2.85,2.75,2.83,3.07,3.61,3.93,3.0190,0,2.8808,0,92,222,-0.0945,-0.1136,0.0191
+2026-10-29,2.76,2.88,2.76,2.82,2.75,2.82,3.06,3.61,3.93,3.0190,0,2.8808,0,174,224,-0.0969,-0.1141,0.0172
+2026-10-30,2.85,2.86,2.72,2.81,2.75,2.83,3.05,3.60,3.92,3.0190,0,2.8800,0,67,221,-0.0872,-0.1087,0.0215
+2026-11-02,2.79,2.79,2.66,2.70,2.75,2.81,3.04,3.60,3.91,3.0190,0,2.8800,0,281,218,-0.0874,-0.1044,0.0170

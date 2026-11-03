@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-02-11,550387,2025-02-11\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,First Trust Capital Management L.P.,0.2148,680000,8166800,0.0\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1606265,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1000877,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,926271,0.0\n4,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,2918,1.1696\n5,2026-06-30,UBS Group AG,0.0,59,708,3.2143\n6,2026-06-30,Morgan Stanley,0.0,43,516,-0.14\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,First Trust Capital Management L.P.,0.2148,680000,8295999,0.0\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1631676,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1016711,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,940924,0.0\n4,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,2964,1.1696\n5,2026-06-30,UBS Group AG,0.0,59,719,3.2143\n6,2026-06-30,Morgan Stanley,0.0,43,524,-0.14\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,69730,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,70833,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.37,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38027648,12.01,710,17492,210078.91999999998,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.32027,2243,0.96,0.002,171.57143,,,-8.481639,,,,,,,none,,,,,,,0.908,,2026-10-29T08:16:48.106007+00:00
+25.48,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38629248,12.2,1080,16339,199335.8,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.32027,2243,0.96,0.002,174.2857,,,-8.615819,,,,,,,none,,,,,,,0.908,,2026-10-31T13:56:09.989158+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-22,10.15,10.16,10.15,10.15,,,,,,,0,10.1500,1,3929,,,,
 2024-01-23,10.16,10.17,10.15,10.16,,,,,,,0,10.1500,1,7379,,,,
@@ -710,4 +710,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,12.06,12.06,12.06,12.06,12.25,12.27,12.16,26.21,32.32,12.5766,0,12.5158,0,,273,-0.1907,-0.2277,0.0370
 2026-10-27,12.04,12.07,12.04,12.05,12.20,12.26,12.17,26.06,32.25,12.5272,0,12.4902,0,10,266,-0.1877,-0.2197,0.0320
 2026-10-28,12.01,12.01,12.01,12.01,12.15,12.25,12.17,25.94,32.05,12.4469,0,12.4656,0,5,260,-0.1864,-0.2131,0.0266
-2026-10-29,12.57,12.57,12.57,12.57,12.16,12.25,12.18,25.82,31.93,12.0054,1,11.8750,1,5,250,-0.1390,-0.1982,0.0593
+2026-10-29,12.56,12.56,12.56,12.56,12.16,12.25,12.18,25.82,31.93,12.0052,1,11.8750,1,8,250,-0.1390,-0.1982,0.0592
+2026-10-30,12.20,12.20,12.15,12.20,12.15,12.24,12.19,25.70,31.83,12.0052,1,11.8888,1,55,248,-0.1294,-0.1845,0.0551
+2026-11-02,12.79,12.79,12.20,12.20,12.14,12.23,12.19,25.61,31.67,12.0052,1,11.9023,1,41,239,-0.1204,-0.1716,0.0513

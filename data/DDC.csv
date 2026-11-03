@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CHU NORMA KA YIN,Chief Executive Officer,,Conversion of Exercise of derivative security,2026-04-28,7226580,2026-04-28\n1,HO KOK KYU,Officer,,Conversion of Exercise of derivative security,2026-04-28,669589,2026-04-28\n2,LAI KWOK HO,Director,,Conversion of Exercise of derivative security,2026-04-28,62949,2026-04-28\n3,MOUW MATTHEW GENE,Director,,Conversion of Exercise of derivative security,2026-09-17,86666,2026-09-17\n4,SHIH SAMUEL CHUN KONG,Director,,Conversion of Exercise of derivative security,2026-04-28,62949,2026-04-28\n5,YU YONGKANG,Officer,,Conversion of Exercise of derivative security,2026-04-28,375863,2026-04-28\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Anson Funds Management LP,0.0161,764395,110455,-0.201\n1,2026-06-30,UBS Group AG,0.0008,40177,5805,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0005,23919,3456,0.45319998\n3,2026-06-30,Morgan Stanley,0.00029999999,13625,1968,0.3625\n4,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,6,0,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Anson Funds Management LP,0.0161,764395,104569,-0.201\n1,2026-06-30,UBS Group AG,0.0008,40177,5496,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0005,23919,3272,0.45319998\n3,2026-06-30,Morgan Stanley,0.00029999999,13625,1863,0.3625\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,-0.8333\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-21 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.91,DDC,DDC Enterprise Limited,Consumer Defensive,Packaged Foods,United States,8213562,0.1445,3939960,4868860,703550.2699999999,0.222,,,0.30232,-0.10147,-2.12722,-0.82691,-0.131,134352976,216057248,16.76,1.834,0.547,,,56841260,28397190,0.44665,0.01482,251764,0.03,0.0066000004,,-4.816667,0.02748128,0.037267305,0.505,-0.596,2.375,3.0,1.75,,none,2,,,,,,3.887,https://ir.ddc.xyz,2026-10-29T09:47:06.700284+00:00
+1.22,DDC,DDC Enterprise Limited,Consumer Defensive,Packaged Foods,United States,7775884,0.1368,3816970,5003957,684541.3176000001,0.222,,,0.30232,-0.10147,-2.12722,-0.82691,-0.131,134352976,216057248,16.76,1.834,0.547,,,56841260,28397190,0.44665,0.01482,251764,0.03,0.0066000004,,-4.5600004,0.02601688,0.035281435,0.503,-0.595,2.375,3.0,1.75,,none,2,,,,,,3.887,https://ir.ddc.xyz,2026-10-31T15:28:59.176381+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-17,212.50,212.50,141.75,155.25,,,,,,,0,212.5000,0,8356,,,,
 2023-11-20,164.25,164.25,125.63,130.25,,,,,,,0,212.5000,0,1756,,,,
@@ -751,5 +751,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.14,0.14,0.13,0.13,0.16,0.20,0.38,1.12,1.50,0.2309,0,0.1550,0,456,695,-0.0793,-0.0853,0.0060
 2026-10-26,0.13,0.14,0.12,0.14,0.15,0.19,0.37,1.11,1.49,0.2204,0,0.1490,0,449,703,-0.0762,-0.0835,0.0072
 2026-10-27,0.13,0.15,0.13,0.15,0.15,0.18,0.37,1.09,1.48,0.2204,0,0.1180,1,398,710,-0.0719,-0.0812,0.0092
-2026-10-28,0.14,0.15,0.14,0.14,0.15,0.18,0.36,1.07,1.47,0.2204,0,0.1180,1,317,715,-0.0681,-0.0785,0.0104
-2026-10-29,0.14,0.14,0.13,0.14,0.14,0.17,0.35,1.06,1.46,0.2158,0,0.1186,1,182,718,-0.0648,-0.0758,0.0110
+2026-10-28,0.14,0.15,0.14,0.14,0.15,0.18,0.36,1.07,1.47,0.2204,0,0.1180,1,319,715,-0.0681,-0.0785,0.0104
+2026-10-29,0.14,0.14,0.13,0.14,0.14,0.17,0.35,1.06,1.46,0.2158,0,0.1186,1,276,719,-0.0648,-0.0758,0.0110
+2026-10-30,0.13,0.14,0.13,0.14,0.14,0.17,0.35,1.04,1.45,0.2084,0,0.1193,1,295,725,-0.0616,-0.0730,0.0113
+2026-11-02,0.13,0.14,0.13,0.13,0.14,0.16,0.34,1.02,1.44,0.2024,0,0.1199,1,318,730,-0.0589,-0.0701,0.0113

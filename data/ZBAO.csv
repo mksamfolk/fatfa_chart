@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,BAEZ ARMANDO LUIS,Former,,Stock Award(Grant),2026-06-30,20000,2026-06-30\n1,BERNARDEZ STEPHEN,Former,,Stock Award(Grant),2026-06-30,12500,2026-06-30\n2,CAI JEFFERY RONG,Former,,Stock Award(Grant),2026-06-30,12500,2026-06-30\n3,DAI YIYUN,Director,,Stock Award(Grant),2026-07-30,96903,2026-07-30\n4,LE XIAOWEI,Chief Operating Officer,,Stock Award(Grant),2026-07-30,300000,2026-07-30\n5,LUO XIAO,Officer,,Stock Award(Grant),2026-07-30,406108,2026-07-30\n6,MA JUN WILLIAM,Director,,Stock Award(Grant),2026-07-30,30000,2026-07-30\n7,REN GUANGTONG,Chief Financial Officer,,Stock Award(Grant),2026-07-30,230000,2026-07-30\n8,TANG HAN,Director,,Stock Award(Grant),2026-07-30,30000,2026-07-30\n9,WANG YUGANG,Chief Technology Officer,,Stock Award(Grant),2026-07-30,204601,2026-07-30\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0,1086,360,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0,463,153,1.0\n2,2026-06-30,HRT Financial LP,0.0,436,144,-0.58669996\n3,2026-06-30,Virtu Financial LLC,0.0,426,141,1.0\n4,2026-06-30,Barclays Plc,0.0,38,12,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0,1086,277,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0,463,118,1.0\n2,2026-06-30,HRT Financial LP,0.0,436,111,-0.58669996\n3,2026-06-30,Virtu Financial LLC,0.0,426,108,1.0\n4,2026-06-30,Barclays Plc,0.0,38,9,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,23625,7848,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,23625,6026,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-12 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.98,ZBAO,Zhibao Technology Inc.,Financial Services,Insurance Brokers,China,2984914,0.3322,926970,595823,197932.4006,0.407,,,0.42401,0.02247,-0.19524,-0.99672997,-0.11017,27518220,54959108,111.549,0.864,0.646,-107109984,52501064,8985293,4235944,0.01972,0.0029199999,115867,0.14,0.013099999,,,0.008869421,1.9124976,0.185,-1.202,,,,,none,,,,,,,1.921,https://www.zhibao-tech.com,2026-10-29T14:50:53.323373+00:00
+12.58,ZBAO,Zhibao Technology Inc.,Financial Services,Insurance Brokers,China,2292148,0.2551,345830,482278,123029.11779999999,0.407,,,0.42401,0.02247,-0.19524,-0.99672997,-0.11017,27518220,54959108,111.549,0.864,0.646,-107109984,52501064,8985293,4235944,0.01972,0.0029199999,115867,0.14,0.013099999,,,0.006810925,1.4686279,0.182,-1.181,,,,,none,,,,,,,1.921,https://www.zhibao-tech.com,2026-10-31T21:14:22.294188+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-02,4.00,4.00,3.00,3.70,,,,,,,0,4.0000,0,2794,,,,
 2024-04-03,3.49,3.60,3.00,3.30,,,,,,,0,4.0000,0,354,,,,
@@ -658,5 +658,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.44,0.45,0.39,0.42,0.93,1.02,0.53,0.65,0.71,1.6530,0,3.5303,0,116,6506,0.0098,0.1786,-0.1688
 2026-10-26,0.44,0.46,0.31,0.33,0.72,1.02,0.53,0.64,0.71,1.5427,0,3.1533,0,177,3910,-0.0310,0.1367,-0.1677
 2026-10-27,0.32,0.35,0.30,0.33,0.57,1.03,0.53,0.64,0.70,1.3789,0,2.7554,0,59,3777,-0.0620,0.0969,-0.1589
-2026-10-28,0.32,0.32,0.31,0.32,0.50,1.04,0.53,0.64,0.70,1.2726,0,2.3625,0,41,3754,-0.0867,0.0602,-0.1469
-2026-10-29,0.31,0.34,0.31,0.31,0.43,1.05,0.53,0.63,0.70,1.1921,0,2.0325,0,26,3744,-0.1063,0.0269,-0.1332
+2026-10-28,0.32,0.32,0.31,0.32,0.50,1.04,0.53,0.64,0.70,1.2726,0,2.3625,0,49,3754,-0.0867,0.0602,-0.1469
+2026-10-29,0.31,0.34,0.29,0.29,0.43,1.05,0.53,0.63,0.70,1.1899,0,2.0325,0,52,3745,-0.1072,0.0267,-0.1339
+2026-10-30,0.28,0.30,0.25,0.25,0.39,1.05,0.54,0.63,0.69,1.0736,0,1.7192,0,65,3739,-0.1251,-0.0036,-0.1214
+2026-11-02,0.26,0.26,0.25,0.26,0.37,1.06,0.54,0.62,0.69,0.9837,0,1.4244,0,28,3734,-0.1373,-0.0304,-0.1069

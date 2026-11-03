@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0255,281880,135471,8.3245\n1,2026-06-30,Vanguard Capital Management LLC,0.0058,64603,31048,0.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0056,61765,29684,-0.4916\n3,2026-06-30,Virtu Financial LLC,0.0055,61308,29464,3.0063\n4,2026-06-30,"Susquehanna International Group, LLP",0.0050999997,56353,27083,1.0\n5,2026-06-30,Citadel Advisors Llc,0.0047,52170,25072,1.0\n6,2026-06-30,Vanguard Fiduciary Trust Co,0.0033000002,35982,17292,0.0\n7,2026-06-30,State Street Corporation,0.0028,31200,14994,1.0\n8,2026-06-30,Xtx Topco Ltd,0.0026,28623,13756,1.4582001\n9,2026-06-30,Stonex Group Inc.,0.0011999999,13079,6285,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0255,281880,124309,8.3245\n1,2026-06-30,Vanguard Capital Management LLC,0.0058,64603,28489,0.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0056,61765,27238,-0.4916\n3,2026-06-30,Virtu Financial LLC,0.0055,61308,27036,3.0063\n4,2026-06-30,"Susquehanna International Group, LLP",0.0050999997,56353,24851,1.0\n5,2026-06-30,Citadel Advisors Llc,0.0047,52170,23006,1.0\n6,2026-06-30,Vanguard Fiduciary Trust Co,0.0033000002,35982,15868,0.0\n7,2026-06-30,State Street Corporation,0.0028,31200,13759,1.0\n8,2026-06-30,Xtx Topco Ltd,0.0026,28623,12622,1.4582001\n9,2026-06-30,Stonex Group Inc.,0.0011999999,13079,5767,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0058,64603,31048,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0047,51998,24990,0.45139998\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0008,9193,4418,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0058,64603,28489,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0047,51998,22931,0.45139998\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0008,9193,4054,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,0,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-03-08 09:30:00-05:00,0.08333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.36,GXAI,Gaxos.ai Inc.,Communication Services,Electronic Gaming & Multimedia,United States,5311729,0.4806,101080,2271350,1091610.81,13.373,,,1.0,-0.75885004,-0.64792997,-0.30238,-0.26450002,11502489,0,,10.568,10.324,-5420744,-3495788,11052288,10544569,0.01862,0.064,274040,1.17,0.0253,,-1.5503225,0.88454354,0.29869485,-1.214,1.076,3.2,3.2,3.2,,none,1,0,0,0,0,,1.067,https://gaxos.ai,2026-10-29T10:46:16.091211+00:00
+6.28,GXAI,Gaxos.ai Inc.,Communication Services,Electronic Gaming & Multimedia,United States,4874059,0.441,97230,2296475,1012745.475,13.373,,,1.0,-0.75885004,-0.64792997,-0.30238,-0.26450002,11502489,0,,10.568,10.324,-5420744,-3495788,11052288,10544569,0.01862,0.064,274040,1.17,0.0253,,-1.4225807,0.8116599,0.2740833,-1.285,1.139,3.2,3.2,3.2,,none,1,0,0,0,0,,1.067,https://gaxos.ai,2026-10-31T16:34:17.132502+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-15,54.60,60.12,48.00,48.60,,,,,,,0,48.0000,1,4870,,,,
 2023-02-16,48.00,61.80,47.40,54.00,,,,,,,0,61.8000,0,4485,,,,
@@ -943,4 +943,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.45,0.46,0.43,0.44,0.44,0.50,0.71,1.07,1.10,0.5738,0,0.4128,1,25,3129,-0.0895,-0.1013,0.0118
 2026-10-27,0.44,0.45,0.43,0.45,0.44,0.49,0.70,1.06,1.10,0.5696,0,0.4142,1,27,3125,-0.0840,-0.0978,0.0138
 2026-10-28,0.44,0.54,0.44,0.48,0.44,0.47,0.69,1.05,1.10,0.5696,0,0.4155,1,97,3106,-0.0763,-0.0935,0.0172
-2026-10-29,0.47,0.49,0.46,0.48,0.45,0.46,0.68,1.05,1.09,0.5696,0,0.4205,1,12,3101,-0.0695,-0.0887,0.0192
+2026-10-29,0.47,0.49,0.46,0.46,0.44,0.46,0.68,1.05,1.09,0.5696,0,0.4205,1,20,3101,-0.0709,-0.0890,0.0181
+2026-10-30,0.46,0.47,0.44,0.44,0.45,0.45,0.68,1.04,1.09,0.5696,0,0.4253,1,46,3097,-0.0676,-0.0847,0.0171
+2026-11-02,0.44,0.46,0.41,0.41,0.45,0.44,0.67,1.03,1.09,0.5696,0,0.5400,0,71,3096,-0.0665,-0.0811,0.0145

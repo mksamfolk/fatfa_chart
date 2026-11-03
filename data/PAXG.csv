@@ -1,0 +1,38 @@
+balance_sheet
+,2025-12-31,2024-12-31\nOrdinary Shares Number,13513514.0,13513514.0\nShare Issued,13513514.0,13513514.0\nNet Debt,94286.0,\nTotal Debt,108000.0,\nTangible Book Value,6794.0,25000.0\nInvested Capital,114794.0,25000.0\nWorking Capital,-115798.0,-3373.0\nNet Tangible Assets,6794.0,25000.0\nCommon Stock Equity,6794.0,25000.0\nTotal Capitalization,6794.0,25000.0\nTotal Equity Gross Minority Interest,6794.0,25000.0\nStockholders Equity,6794.0,25000.0\nOther Equity Interest,,24507.0\nRetained Earnings,-18206.0,0.0\nAdditional Paid In Capital,24507.0,0.0\nCapital Stock,493.0,493.0\nCommon Stock,493.0,493.0\nPreferred Stock,0.0,0.0\nTotal Liabilities Net Minority Interest,129512.0,3373.0\nTotal Non Current Liabilities Net Minority Interest,0.0,0.0\nCurrent Liabilities,129512.0,3373.0\nCurrent Debt And Capital Lease Obligation,108000.0,\nCurrent Debt,108000.0,\nOther Current Borrowings,108000.0,\nPayables And Accrued Expenses,21512.0,3373.0\nCurrent Accrued Expenses,,2873.0\nPayables,21512.0,3373.0\nDueto Related Parties Current,14000.0,500.0\nAccounts Payable,7512.0,2873.0\nTotal Assets,136306.0,28373.0\nTotal Non Current Assets,122592.0,28373.0\nNon Current Deferred Assets,122592.0,28373.0\nCurrent Assets,13714.0,0.0\nCash Cash Equivalents And Short Term Investments,13714.0,0.0\nCash And Cash Equivalents,13714.0,0.0\n
+dividends
+Date,Dividends\n
+income_stmt
+,2025-12-31\nTax Effect Of Unusual Items,0.0\nTax Rate For Calcs,0.0\nNormalized EBITDA,-18206.0\nNet Income From Continuing Operation Net Minority Interest,-18206.0\nEBITDA,-18206.0\nEBIT,-18206.0\nNormalized Income,-18206.0\nNet Income From Continuing And Discontinued Operation,-18206.0\nTotal Expenses,18206.0\nDiluted Average Shares,13513514.0\nBasic Average Shares,13513514.0\nDiluted EPS,-0.001347\nBasic EPS,-0.001347\nDiluted NI Availto Com Stockholders,-18206.0\nNet Income Common Stockholders,-18206.0\nNet Income,-18206.0\nNet Income Including Noncontrolling Interests,-18206.0\nNet Income Continuous Operations,-18206.0\nPretax Income,-18206.0\nOperating Income,-18206.0\nOperating Expense,18206.0\nOther Operating Expenses,18206.0\nTotal Revenue,0.0\nOperating Revenue,0.0\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30\nFree Cash Flow,604.0,-3234.0,30893.0,-48735.0,0.0\nIssuance Of Debt,0.0,10000.0,50000.0,58000.0,\nIssuance Of Capital Stock,,,0.0,0.0,\nEnd Cash Position,1881.0,6877.0,13714.0,21885.0,0.0\nBeginning Cash Position,6877.0,13714.0,21885.0,0.0,0.0\nChanges In Cash,-4996.0,-6837.0,-8171.0,,\nFinancing Cash Flow,-5600.0,-3603.0,-39064.0,70620.0,0.0\nCash Flow From Continuing Financing Activities,-5600.0,-3603.0,-39064.0,70620.0,0.0\nNet Other Financing Charges,-5600.0,-13603.0,-89064.0,,\nNet Common Stock Issuance,,,0.0,0.0,\nCommon Stock Issuance,,,0.0,0.0,\nNet Issuance Payments Of Debt,0.0,10000.0,50000.0,58000.0,\nNet Short Term Debt Issuance,0.0,10000.0,50000.0,58000.0,\nShort Term Debt Issuance,0.0,10000.0,50000.0,58000.0,\nOperating Cash Flow,604.0,-3234.0,30893.0,-48735.0,0.0\nCash Flow From Continuing Operating Activities,604.0,-3234.0,30893.0,-48735.0,0.0\nChange In Working Capital,601.0,-3238.0,-5011.0,5375.0,0.0\nChange In Payables And Accrued Expense,601.0,-3238.0,-5011.0,5375.0,0.0\nOther Non Cash Items,,,-52550.0,-27275.0,\nNet Income From Continuing Operations,3.0,4.0,-5765.0,-12441.0,0.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+,Value\ninsidersPercentHeld,0.56238997\ninstitutionsPercentHeld,0.0759\ninstitutionsFloatPercentHeld,0.17344\ninstitutionsCount,1.0\n
+news
+[\n  {\n    "uuid": "6e20b4a2-4f37-38f5-8dba-00b3fda6e8d4",\n    "title": "Pine Tree Acquisition Corp. Announces Separate Trading of Class A Ordinary Shares and Rights",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pine-tree-acquisition-corp-announces-110000948.html",\n    "providerPublishTime": 1792580400,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAXG",\n      "PAXGU",\n      "PAXGR"\n    ]\n  },\n  {\n    "uuid": "74779d94-47b9-3e1d-b6ea-8b9026fd3bbb",\n    "title": "Pine Tree Acquisition Corp. Announces Closing of Partial Exercise of Over-Allotment Option from Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pine-tree-acquisition-corp-announces-201500483.html",\n    "providerPublishTime": 1792095300,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAXG",\n      "PAXGU",\n      "PAXGR"\n    ]\n  },\n  {\n    "uuid": "c107deb1-0f80-3444-8bd8-f0c102ffc8be",\n    "title": "Pine Tree Acquisition Corp. Announces Closing of $100,000,000 Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pine-tree-acquisition-corp-announces-200000982.html",\n    "providerPublishTime": 1791403200,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAXGU",\n      "PAXGR",\n      "PAXG"\n    ]\n  },\n  {\n    "uuid": "11a5d0ba-468c-355e-9c9e-7ca1d18330a9",\n    "title": "Pine Tree Acquisition Corp. Announces Pricing of $100,000,000 Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pine-tree-acquisition-corp-announces-123000169.html",\n    "providerPublishTime": 1791289800,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAXGR",\n      "PAXGU",\n      "PAXG"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,PAXG,Pine Tree Acquisition Corp.,Financial Services,Shell Companies,United States,145440256,9.81,66083,66083,648274.23,,,,0.0,0.0,0.0,,,1881,118000,1735.039,0.013,0.013,,,10540000,2932028,0.56238997,0.0759,0,,,,,,4905.0,,,,,,,none,,,,,,,,,2026-10-31T19:10:15.046104+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-10-23,9.90,9.90,9.80,9.83,,,,,,,,9.8000,1,754,,,,
+2026-10-26,9.81,9.82,9.81,9.81,,,,,,,,9.8000,1,351,,,,
+2026-10-27,9.81,9.82,9.80,9.81,,,,,,,,9.8000,1,1865,,,,
+2026-10-28,9.81,9.81,9.80,9.81,,,,,,,,9.8000,1,738,,,,
+2026-10-29,9.81,9.82,9.81,9.81,,,,,,,,9.8000,1,151,,,,
+2026-10-30,9.81,9.81,9.81,9.81,,,,,,,,9.8000,1,32,,,,
+2026-11-02,9.82,9.82,9.82,9.82,,,,,,,,9.8020,1,682,,,,

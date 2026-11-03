@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CHEC,Chenghe Acquisition III Co.,Financial Services,Shell Companies,Singapore,177929088,10.3,60900,15983,164624.90000000002,,,,0.0,0.0,0.0,,,441542,0,,1.464,1.288,-445180,,13058000,12776516,0.021559998,0.87277,361,0.04,0.0,60.588234,,,-36.267605,,,,,,,none,,,,,,,,,2026-10-29T09:20:44.719492+00:00
+0.00,CHEC,Chenghe Acquisition III Co.,Financial Services,Shell Companies,Singapore,177929088,10.3,2220,16181,166664.30000000002,,,,0.0,0.0,0.0,,,441542,0,,1.464,1.288,-445180,,13058000,12776516,0.021559998,0.87277,361,0.04,0.0,60.588234,,,-36.267605,,,,,,,none,,,,,,,,,2026-10-31T15:01:57.724855+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-11,9.94,9.98,9.94,9.98,,,,,,,0,9.9400,1,7374,,,,
 2025-11-12,9.96,9.97,9.96,9.96,,,,,,,0,9.9400,1,1928,,,,
@@ -256,3 +256,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.33,10.33,10.33,10.33,10.31,10.29,10.25,10.16,10.13,10.3109,1,10.3035,1,,186,0.0247,0.0207,0.0039
 2026-10-27,10.29,10.29,10.28,10.29,10.31,10.29,10.25,10.16,10.13,10.3171,0,10.3300,0,113,189,0.0213,0.0209,0.0005
 2026-10-28,10.29,10.30,10.29,10.30,10.32,10.29,10.26,10.16,10.13,10.3171,0,10.3300,0,16,189,0.0192,0.0205,-0.0013
+2026-10-29,10.31,10.31,10.31,10.31,10.32,10.30,10.26,10.17,10.13,10.3171,0,10.3290,0,2,188,0.0182,0.0201,-0.0019
+2026-10-30,10.30,10.30,10.30,10.30,10.32,10.30,10.26,10.17,10.13,10.3171,0,10.3280,0,66,189,0.0164,0.0193,-0.0030
+2026-11-02,10.32,10.33,10.29,10.33,10.32,10.30,10.26,10.17,10.13,10.2783,1,10.2800,1,304,194,0.0171,0.0189,-0.0017

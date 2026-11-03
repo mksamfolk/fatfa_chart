@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,HAMMOND MATTHEW,Chief Executive Officer,,Stock Award(Grant),2026-05-21,275000.0,1779321600.0,,\n1,RESEARCH ALLIANCE HOLDINGS III L.L.C,Beneficial Owner of more than 10% of a Class of Security,,Stock Award(Grant),2026-05-21,,,275000.0,2026-05-21\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Perceptive Advisors Llc,0.096499994,750000,7575000,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0836,650000,6565000,1.0\n2,2026-06-30,Spruce Street Capital LP,0.0643,500000,5050000,1.0\n3,2026-06-30,"Trails Edge Capital Partners, LP",0.0643,500000,5050000,1.0\n4,2026-06-30,Commodore Capital Lp,0.0643,500000,5050000,1.0\n5,2026-06-30,Balyasny Asset Management LP,0.0643,500000,5050000,1.0\n6,2026-06-30,BVF Inc.,0.0643,500000,5050000,1.0\n7,2026-06-30,"TCG Crossover Management, LLC",0.0643,500000,5050000,1.0\n8,2026-06-30,Jupiter Topco LLC,0.0514,400000,4040000,1.0\n9,2026-06-30,Braidwell LP                          ,0.0514,400000,4040000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Perceptive Advisors Llc,0.096499994,750000,7612499,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0836,650000,6597499,1.0\n2,2026-06-30,Spruce Street Capital LP,0.0643,500000,5074999,1.0\n3,2026-06-30,"Trails Edge Capital Partners, LP",0.0643,500000,5074999,1.0\n4,2026-06-30,Commodore Capital Lp,0.0643,500000,5074999,1.0\n5,2026-06-30,Balyasny Asset Management LP,0.0643,500000,5074999,1.0\n6,2026-06-30,BVF Inc.,0.0643,500000,5074999,1.0\n7,2026-06-30,"TCG Crossover Management, LLC",0.0643,500000,5074999,1.0\n8,2026-06-30,Jupiter Topco LLC,0.0514,400000,4059999,1.0\n9,2026-06-30,Braidwell LP                          ,0.0514,400000,4059999,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,275000,2750000,,Stock Award(Grant) at price 10.00 per share.,HAMMOND MATTHEW,Chief Executive Officer,,2026-05-21,I\n1,275000,2750000,,Stock Award(Grant) at price 10.00 per share.,RESEARCH ALLIANCE HOLDINGS III L.L.C,Beneficial Owner of more than 10% of a Class of Security,,2026-05-21,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.110249996\ninstitutionsPercentHeld,1.16225\ninstitutionsFloatPercentHeld,1.3062601\ninstitutionsCount,25.0\n
+,Value\ninsidersPercentHeld,0.04559\ninstitutionsPercentHeld,1.16225\ninstitutionsFloatPercentHeld,1.21776\ninstitutionsCount,25.0\n
 news
 [\n  {\n    "uuid": "caf72dc1-0e95-3626-9734-a50e4fd41927",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113703399.html",\n    "providerPublishTime": 1788435423,\n    "type": "STORY",\n    "relatedTickers": [\n      "RARE",\n      "USDC-USD",\n      "RACC",\n      "VSXY",\n      "MEI"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RACC,Research Alliance Corporation III,Financial Services,Shell Companies,United States,91895144,10.1,16950,73751,744885.1,,,,0.0,0.0,0.0,,-12.90453,832812,0,,0.952,,-15835000,-10032375,7775000,1495070,0.110249996,1.16225,8654,0.21,0.0014,,,,-74.2647,,,,,,,none,,,,,,,,,2026-10-29T13:00:03.308024+00:00
+0.00,RACC,Research Alliance Corporation III,Financial Services,Shell Companies,United States,92350064,10.15,17780,73029,741244.35,,,,0.0,0.0,0.0,,-12.90453,832812,0,,0.952,,-15835000,-10032375,7775000,1495070,0.04559,1.16225,8654,0.21,0.0014,,,,-74.63235,,,,,,,none,,,,,,,,,2026-10-31T19:32:50.463666+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,10.21,10.50,10.21,10.30,,,,,,,0,10.2100,1,7350,,,,
 2026-05-21,10.30,10.32,10.25,10.28,,,,,,,0,10.2100,1,595,,,,
@@ -126,3 +126,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.15,10.23,10.08,10.08,10.15,10.44,17.31,,,11.4533,0,10.3024,0,231,1495,-1.8379,-2.1527,0.3148
 2026-10-27,10.13,10.13,10.10,10.12,10.15,10.37,17.25,,,11.2985,0,10.2579,0,94,1423,-1.7324,-2.0687,0.3362
 2026-10-28,10.10,10.16,10.10,10.10,10.14,10.30,17.17,,,11.2131,0,10.2300,0,101,1392,-1.6316,-1.9813,0.3496
+2026-10-29,10.10,10.10,10.10,10.10,10.14,10.23,17.04,,,11.0748,0,10.2000,0,27,1205,-1.5341,-1.8918,0.3578
+2026-10-30,10.15,10.15,10.10,10.15,10.13,10.17,16.81,,,11.0173,0,10.1760,0,118,1194,-1.4361,-1.8007,0.3645
+2026-11-02,10.13,10.13,10.10,10.10,10.12,10.16,16.57,,,10.9331,0,10.1568,0,14,1181,-1.3471,-1.7100,0.3629

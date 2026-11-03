@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LFAC,Leapfrog Acquisition Corporation,Financial Services,Shell Companies,United States,198355600,10.1,13920,26150,264115.0,,,,0.0,0.0,0.0,,,924963,0,,6.641,6.21,-130762,,14847500,13393716,0.0,0.77445,1047,0.04,,,,,-49.753696,,,,,,,none,,,,,,,,https://www.leapfrogspac.com,2026-10-29T11:33:33.692642+00:00
+0.00,LFAC,Leapfrog Acquisition Corporation,Financial Services,Shell Companies,United States,198355600,10.1,13920,26559,268245.89999999997,,,,0.0,0.0,0.0,,,924963,0,,6.641,6.21,-130762,,14847500,13393716,0.0,0.77445,1047,0.04,,,,,-49.753696,,,,,,,none,,,,,,,,https://www.leapfrogspac.com,2026-10-31T18:06:01.713460+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-26,9.95,10.00,9.88,9.90,,,,,,,0,10.0000,0,578,,,,
 2026-01-27,9.91,9.91,9.88,9.88,,,,,,,0,10.0000,0,347,,,,
@@ -206,3 +206,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.10,10.10,10.10,10.10,10.09,10.08,10.06,10.00,,10.0897,1,10.0812,1,,236,0.0116,0.0114,0.0002
 2026-10-27,10.10,10.10,10.10,10.10,10.10,10.09,10.06,10.00,,10.0907,1,10.0816,1,,236,0.0114,0.0114,-0.0001
 2026-10-28,10.10,10.10,10.10,10.10,10.10,10.09,10.06,10.00,,10.0917,1,10.0819,1,,235,0.0111,0.0114,-0.0003
+2026-10-29,10.10,10.10,10.10,10.10,10.10,10.09,10.07,10.00,,10.0925,1,10.0823,1,,235,0.0107,0.0112,-0.0005
+2026-10-30,10.10,10.10,10.10,10.10,10.10,10.09,10.07,10.00,,10.0932,1,10.0826,1,,235,0.0103,0.0110,-0.0008

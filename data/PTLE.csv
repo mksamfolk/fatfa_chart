@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,99,937,-0.9629\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,99,935,-0.9629\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,3503,33173,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,3503,33103,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-27 09:30:00-05:00,0.0125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.21,PTLE,PTL Limited,Consumer Cyclical,Specialty Retail,Singapore,59482228,9.47,151190,46225,437750.75000000006,-0.413,,,0.012669999,-0.040689997,-0.01647,-0.24826999,0.03181,1086434,733,0.008,2.604,2.028,-12225980,-7493812,6140497,1191310,0.0,0.00059,6932,0.14,0.0011,,,0.83020794,1.297438,0.146,,,,,,none,,,,,,,-0.148,https://www.petrolinkhk.com,2026-10-29T12:54:47.247613+00:00
+61.35,PTLE,PTL Limited,Consumer Cyclical,Specialty Retail,Singapore,59356600,9.45,109720,54051,510781.94999999995,-0.413,,,0.012669999,-0.040689997,-0.01647,-0.24826999,0.03181,1086434,733,0.008,2.604,2.028,-12225980,-7493812,6140497,1191310,0.0,0.00059,6932,0.14,0.0011,,,0.82845455,1.2946979,0.146,,,,,,none,,,,,,,-0.148,https://www.petrolinkhk.com,2026-10-31T19:27:52.377110+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-16,340.00,373.60,320.00,325.60,,,,,,,0,320.0000,1,10966,,,,
 2024-10-17,328.00,359.20,323.20,331.20,,,,,,,0,320.0000,1,1253,,,,
@@ -524,4 +524,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.14,9.35,8.86,8.99,8.77,7.91,8.32,7.34,7.75,9.3824,0,7.4028,1,984,406,0.3806,0.1764,0.2041
 2026-10-27,8.95,9.25,8.81,9.19,8.94,8.02,8.30,7.34,7.75,9.3824,0,7.5587,1,378,413,0.3976,0.2206,0.1769
 2026-10-28,9.20,9.50,8.85,9.47,9.15,8.15,8.29,7.34,7.76,7.1516,1,7.7051,1,841,423,0.4287,0.2623,0.1665
-2026-10-29,9.34,10.01,9.10,9.60,9.21,8.28,8.28,7.34,7.76,7.3800,1,7.8428,1,3068,484,0.4586,0.3015,0.1571
+2026-10-29,9.34,10.10,9.10,9.61,9.21,8.28,8.28,7.34,7.76,7.3980,1,7.8428,1,3952,501,0.4594,0.3017,0.1577
+2026-10-30,9.61,9.80,9.30,9.45,9.24,8.40,8.27,7.34,7.77,7.4182,1,8.0234,1,974,519,0.4654,0.3344,0.1310
+2026-11-02,9.45,9.64,9.12,9.43,9.28,8.52,8.26,7.35,7.77,7.4182,1,8.1895,1,1880,556,0.4633,0.3602,0.1031

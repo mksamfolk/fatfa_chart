@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0434,234317,347960,0.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0002,898,1333,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0001,772,1146,1.0\n3,2026-06-30,UBS Group AG,0.0,16,23,-0.84910005\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0434,234317,339759,0.0\n1,2026-06-30,"Two Sigma Securities, LLC",0.0002,898,1302,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0001,772,1119,1.0\n3,2026-06-30,UBS Group AG,0.0,16,23,-0.84910005\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0034999999,18953,28145,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0034999999,18953,27481,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,0,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-14 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.54,YXT,YXT.COM Group Holding Limited,Technology,Software - Application,China,9816245,1.485,111470,1211359,1798868.1150000002,0.06,,,0.70574,-0.04907,-0.28465998,-0.89385,-0.10309,31425000,126278000,202.671,0.328,0.186,-85899000,52505248,6045872,2002053,0.4937,0.06559,48686,1.64,0.0093,,-14.167319,0.028090075,0.948644,0.296,-1.401,,,,,none,,,,,,2026-08-13,5.904,https://www.yxt.com,2026-10-29T14:50:38.925897+00:00
+4.83,YXT,YXT.COM Group Holding Limited,Technology,Software - Application,China,9584886,1.45,33720,1211639,1756876.55,0.06,,,0.70574,-0.04907,-0.28465998,-0.89385,-0.10309,31425000,126278000,202.671,0.328,0.186,-85899000,52505248,6045872,2002053,0.4937,0.06559,48686,1.64,0.0093,,-13.833409,0.02742802,0.9262854,0.296,-1.4,,,,,none,,,,,,2026-08-13,5.904,https://www.yxt.com,2026-10-31T21:14:09.096474+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-16,110.00,110.00,100.00,100.20,,,,,,,0,110.0000,0,3287,,,,
 2024-08-19,100.00,100.50,93.00,93.50,,,,,,,0,110.0000,0,1722,,,,
@@ -566,4 +566,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.20,1.28,1.20,1.27,1.40,1.84,3.25,4.18,4.94,2.1350,0,1.0819,1,37,30486,-0.5252,-0.5330,0.0078
 2026-10-27,1.23,1.41,1.23,1.37,1.34,1.78,3.21,4.15,4.91,2.1350,0,1.1014,1,89,30487,-0.4978,-0.5260,0.0282
 2026-10-28,1.34,1.49,1.34,1.46,1.32,1.73,3.18,4.11,4.88,2.1350,0,1.1204,1,51,30488,-0.4635,-0.5135,0.0500
-2026-10-29,1.46,1.49,1.40,1.42,1.30,1.68,3.15,4.08,4.85,2.1350,0,1.1391,1,11,30488,-0.4345,-0.4977,0.0632
+2026-10-29,1.46,1.49,1.40,1.40,1.30,1.68,3.15,4.08,4.85,2.1350,0,1.1391,1,31,30488,-0.4361,-0.4980,0.0619
+2026-10-30,1.40,1.50,1.40,1.45,1.32,1.63,3.12,4.05,4.82,2.1350,0,1.1574,1,19,30487,-0.4056,-0.4795,0.0739
+2026-11-02,1.49,1.49,1.43,1.45,1.33,1.59,3.09,4.02,4.79,2.1249,0,1.1754,1,13,30488,-0.3772,-0.4591,0.0819

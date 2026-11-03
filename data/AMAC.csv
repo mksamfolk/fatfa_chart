@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0028,75000,735000,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0021,55791,546751,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0028,75000,735750,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0021,55791,547309,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,355650176,9.8,26410,32229,315844.2,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.08446,521,0.01,,,,,-980.00006,,,,,,,none,,,,,,,,https://amrresources.us,2026-10-29T08:25:54.036401+00:00
+0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,356013088,9.81,10840,30589,300078.09,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.08446,521,0.01,,,,,-981.00006,,,,,,,none,,,,,,,,https://amrresources.us,2026-10-31T14:05:24.636489+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-08,10.00,10.00,9.87,9.88,,,,,,,0,10.0000,0,1317,,,,
 2026-09-09,9.85,9.86,9.83,9.86,,,,,,,0,10.0000,0,186,,,,
@@ -66,3 +66,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8195,0,9.8018,0,,,-0.0058,-0.0076,0.0019
 2026-10-27,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8175,0,9.8006,0,980,,-0.0054,-0.0072,0.0018
 2026-10-28,9.79,9.80,9.79,9.80,9.80,9.80,,,,9.8138,0,9.8000,0,5,,-0.0050,-0.0067,0.0017
+2026-10-29,9.80,9.80,9.80,9.80,9.80,9.80,,,,9.8138,0,9.8000,0,4,,-0.0046,-0.0063,0.0017
+2026-10-30,9.81,9.81,9.81,9.81,9.80,9.80,,,,9.8138,0,9.7900,1,1,,-0.0035,-0.0058,0.0022
+2026-11-02,9.81,9.81,9.81,9.81,9.80,9.80,,,,9.8138,0,9.7904,1,2,,-0.0026,-0.0051,0.0025

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Renaissance Technologies, LLC",0.0166,49200,83640,2.2056\n1,2026-06-30,Blackrock Inc.,0.0117,34708,59003,0.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0089,26233,44596,-0.1847\n3,2026-06-30,Vanguard Capital Management LLC,0.0068,20155,34263,0.0\n4,2026-06-30,Citadel Advisors Llc,0.0064,19071,32420,1.0\n5,2026-06-30,Xtx Topco Ltd,0.0054,16093,27358,1.0\n6,2026-06-30,"Jane Street Group, LLC",0.004,11933,20286,-0.8532\n7,2026-06-30,State Street Corporation,0.0034,10099,17168,1.0\n8,2026-06-30,Vanguard Fiduciary Trust Co,0.001,2824,4800,-0.2885\n9,2026-06-30,Tower Research Capital LLC (TRC),0.00059999997,1809,3075,-0.17469999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Renaissance Technologies, LLC",0.0166,49200,82163,2.2056\n1,2026-06-30,Blackrock Inc.,0.0117,34708,57962,0.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0089,26233,43809,-0.1847\n3,2026-06-30,Vanguard Capital Management LLC,0.0068,20155,33658,0.0\n4,2026-06-30,Citadel Advisors Llc,0.0064,19071,31848,1.0\n5,2026-06-30,Xtx Topco Ltd,0.0054,16093,26875,1.0\n6,2026-06-30,"Jane Street Group, LLC",0.004,11933,19928,-0.8532\n7,2026-06-30,State Street Corporation,0.0034,10099,16865,1.0\n8,2026-06-30,Vanguard Fiduciary Trust Co,0.001,2824,4716,-0.2885\n9,2026-06-30,Tower Research Capital LLC (TRC),0.00059999997,1809,3021,-0.17469999\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0068,20155,34263,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0053,15659,26620,-0.0053\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.001,2826,4804,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0008,2251,3826,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0068,20155,33658,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0053,15659,26150,-0.0053\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.001,2826,4719,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0008,2251,3759,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-13 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.06,CDIO,Cardio Diagnostics Holdings Inc.,Healthcare,Biotechnology,United States,5031097,1.7,20830,36420,61914.0,-0.283,,,1.0,-279.50504,0.0,-0.75442004,-0.44055998,5586697,369698,4.978,17.149,15.564,-5659843,-3773845,2959469,2836562,0.08307,0.06522,2971,0.09,0.001,,-6.8,348.1728,0.6775608,-12.865,0.031,,,,,none,,,,,,2026-11-06,2.237,https://cdio.ai,2026-10-29T09:16:12.734042+00:00
+33.33,CDIO,Cardio Diagnostics Holdings Inc.,Healthcare,Biotechnology,United States,4942313,1.67,19190,36414,60811.38,-0.283,,,1.0,-279.50504,0.0,-0.75442004,-0.44055998,5586697,369698,4.978,17.149,15.564,-5659843,-3773845,2959469,2836562,0.08307,0.06522,2971,0.09,0.001,,-6.68,342.0286,0.6656038,-19.009,0.045,,,,,none,,,,,,2026-11-06,2.237,https://cdio.ai,2026-10-31T14:57:26.751835+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-14,294.00,294.90,292.50,294.60,,,,,,,0,292.5000,1,4496,,,,
 2022-01-18,294.90,296.10,294.90,296.10,,,,,,,0,292.5000,1,397,,,,
@@ -1215,4 +1215,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.77,1.77,1.69,1.72,1.71,1.83,1.84,2.05,2.15,2.0818,0,2.0594,0,10,76,-0.0536,-0.0412,-0.0124
 2026-10-27,1.72,1.73,1.68,1.70,1.71,1.82,1.84,2.03,2.15,2.0772,0,2.0390,0,15,73,-0.0535,-0.0437,-0.0099
 2026-10-28,1.69,1.75,1.69,1.70,1.71,1.80,1.84,2.01,2.14,2.0730,0,2.0195,0,16,73,-0.0529,-0.0455,-0.0074
-2026-10-29,1.73,1.78,1.73,1.78,1.71,1.79,1.84,1.98,2.13,2.0730,0,2.0007,0,4,73,-0.0454,-0.0455,0.0001
+2026-10-29,1.73,1.78,1.70,1.75,1.71,1.79,1.84,1.98,2.13,2.0730,0,2.0007,0,10,73,-0.0478,-0.0460,-0.0018
+2026-10-30,1.72,1.75,1.67,1.67,1.71,1.77,1.85,1.96,2.13,2.0415,0,1.9827,0,20,72,-0.0497,-0.0467,-0.0030
+2026-11-02,1.74,1.74,1.66,1.67,1.71,1.75,1.85,1.94,2.12,2.0223,0,1.9654,0,6,72,-0.0506,-0.0475,-0.0031

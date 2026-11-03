@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XCBE,X3 Acquisition Corp. Ltd.,Financial Services,Shell Companies,United States,282093728,10.03,850,22439,225063.16999999998,,,,0.0,0.0,0.0,,,644214,0,,0.039,,0,,22500000,18700875,0.25,0.85347,315,0.02,0.0,,,,-61.158535,,,,,,,none,,,,,,,,,2026-10-29T14:44:05.965250+00:00
+0.00,XCBE,X3 Acquisition Corp. Ltd.,Financial Services,Shell Companies,United States,282093728,10.03,850,21904,219697.12,,,,0.0,0.0,0.0,,,644214,0,,0.039,,0,,22500000,18700875,0.25,0.85347,315,0.02,0.0,,,,-61.158535,,,,,,,none,,,,,,,,,2026-10-31T21:08:09.515611+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-13,9.90,9.90,9.90,9.90,,,,,,,0,9.9000,0,81,,,,
 2026-03-16,9.80,9.85,9.80,9.83,,,,,,,0,9.9000,0,84,,,,
@@ -173,3 +173,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.03,10.03,10.03,10.03,10.03,10.03,10.00,,,10.0385,0,10.0264,1,,247,0.0099,0.0120,-0.0021
 2026-10-27,10.03,10.03,10.03,10.03,10.03,10.03,10.00,,,10.0377,0,10.0280,1,6,238,0.0092,0.0114,-0.0023
 2026-10-28,10.03,10.03,10.03,10.03,10.03,10.03,10.00,,,10.0369,0,10.0294,1,,230,0.0085,0.0108,-0.0023
+2026-10-29,10.03,10.03,10.03,10.03,10.03,10.03,10.00,,,10.0362,0,10.0300,1,,226,0.0079,0.0103,-0.0024
+2026-10-30,10.03,10.03,10.03,10.03,10.03,10.03,10.00,,,10.0356,0,10.0300,1,,225,0.0073,0.0097,-0.0023

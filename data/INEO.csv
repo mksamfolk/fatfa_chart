@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0023999999,39251,21156,1.1497\n1,2026-06-30,"Susquehanna International Group, LLP",0.0008,12578,6779,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0007,12346,6654,-0.3825\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0023999999,39251,20806,1.1497\n1,2026-06-30,"Susquehanna International Group, LLP",0.0008,12578,6667,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0007,12346,6544,-0.3825\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.96,INEO,INNEOVA Holdings Limited,Consumer Cyclical,Auto Parts,Singapore,8715966,0.539,13880,88329,47609.331000000006,-0.162,0.128,0.128,0.20071,0.0276,-0.00685,-0.04479,-0.00551,9924000,21185000,409.135,1.038,0.604,6163000,6598625,12170624,8619428,0.83846,0.00527,514,0.01,0.0001,,,0.16307071,1.6843749,0.374,-832.374,,,,,none,,,,,,,1.116,https://www.inneova.co,2026-10-29T11:07:27.792493+00:00
+33.35,INEO,INNEOVA Holdings Limited,Consumer Cyclical,Auto Parts,Singapore,8572048,0.5301,17390,88714,47027.2914,-0.162,0.128,0.128,0.20071,0.0276,-0.00685,-0.04479,-0.00551,9924000,21185000,409.135,1.038,0.604,6163000,6598625,12170624,8619428,0.83846,0.00527,514,0.01,0.0001,,,0.16037808,1.6565624,0.371,-826.377,,,,,none,,,,,,,1.116,https://www.inneova.co,2026-10-31T17:39:35.365479+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,6.01,6.61,5.40,6.36,,,,,,,0,5.4000,1,7037,,,,
 2024-10-24,7.30,8.27,4.05,5.46,,,,,,,0,8.2700,0,15158,,,,
@@ -519,4 +519,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.54,0.57,0.54,0.57,0.56,0.56,0.58,0.59,0.58,0.6808,0,0.6034,0,1,51,-0.0053,-0.0087,0.0034
 2026-10-27,0.56,0.57,0.53,0.53,0.56,0.55,0.58,0.59,0.58,0.6808,0,0.6017,0,9,49,-0.0070,-0.0084,0.0014
 2026-10-28,0.57,0.57,0.53,0.54,0.55,0.55,0.58,0.59,0.58,0.6808,0,0.6001,0,4,48,-0.0077,-0.0083,0.0005
-2026-10-29,0.53,0.53,0.53,0.53,0.55,0.55,0.57,0.59,0.58,0.6527,0,0.5985,0,0,48,-0.0089,-0.0084,-0.0006
+2026-10-29,0.56,0.57,0.53,0.57,0.55,0.56,0.57,0.59,0.58,0.6808,0,0.5985,0,1,48,-0.0058,-0.0078,0.0020
+2026-10-30,0.57,0.57,0.53,0.53,0.55,0.55,0.57,0.59,0.58,0.6807,0,0.5969,0,42,48,-0.0073,-0.0077,0.0003
+2026-11-02,0.53,0.55,0.52,0.54,0.55,0.55,0.57,0.59,0.58,0.6633,0,0.5954,0,29,48,-0.0077,-0.0077,-0.0000

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.17,RAC,Rithm Acquisition Corp.,Financial Services,Shell Companies,United States,311157792,10.58,40590,49846,527370.68,,-0.129,-0.129,0.0,0.0,0.0,,,8764,0,,7.72,0.366,-824396,,23660000,22886862,0.0279,0.96793,162,0.0,0.0,,,,-39.47761,,,,,,,none,,,,,,,,https://www.rithmacquisitioncorp1.com/,2026-10-29T12:59:58.990526+00:00
+56.93,RAC,Rithm Acquisition Corp.,Financial Services,Shell Companies,United States,311157792,10.58,17600,49435,523022.3,,-0.129,-0.129,0.0,0.0,0.0,,,8764,0,,7.72,0.366,-824396,,23660000,22886862,0.0279,0.96793,162,0.0,0.0,,,,-39.47761,,,,,,,none,,,,,,,,https://www.rithmacquisitioncorp1.com/,2026-10-31T19:32:46.414829+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-21,9.95,9.95,9.87,9.89,,,,,,,0,9.8700,1,10301,,,,
 2025-04-22,9.95,9.95,9.88,9.92,,,,,,,0,9.8700,1,12,,,,
@@ -398,4 +398,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.57,10.57,10.56,10.56,10.56,10.57,10.53,10.46,10.44,10.5898,0,10.5861,0,69,632,0.0068,0.0099,-0.0031
 2026-10-27,10.56,10.56,10.56,10.56,10.56,10.57,10.53,10.46,10.44,10.5898,0,10.5852,0,3,632,0.0062,0.0092,-0.0030
 2026-10-28,10.57,10.58,10.57,10.58,10.56,10.57,10.54,10.46,10.45,10.5898,0,10.5843,0,7,632,0.0073,0.0088,-0.0015
-2026-10-29,10.57,10.58,10.58,10.58,10.56,10.57,10.54,10.47,10.45,10.5898,0,10.5834,0,27,632,0.0080,0.0086,-0.0006
+2026-10-29,10.57,10.58,10.57,10.57,10.56,10.57,10.54,10.47,10.45,10.5898,0,10.5834,0,29,632,0.0072,0.0085,-0.0013
+2026-10-30,10.57,10.58,10.57,10.58,10.56,10.57,10.54,10.47,10.45,10.5898,0,10.5825,0,4,632,0.0079,0.0084,-0.0005
+2026-11-02,10.58,10.59,10.59,10.59,10.57,10.57,10.54,10.47,10.45,10.5454,1,10.5400,1,24,627,0.0091,0.0085,0.0006

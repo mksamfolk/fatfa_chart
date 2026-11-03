@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0434,604420,6038155,-0.357\n1,2026-06-30,"Wolverine Asset Management, LLC",0.0397,552619,5520663,42.0121\n2,2026-06-30,Polar Asset Management Partners Inc.,0.0377,525000,5244749,0.105299994\n3,2026-06-30,Glazer Capital LLC,0.0348,484599,4841143,0.0004\n4,2026-06-30,"Aristeia Capital, LLC",0.0341,475000,4745249,0.0\n5,2026-06-30,"Mangrove Partners IM, LLC",0.0334,465000,4645349,0.0\n6,2026-06-30,"Cable Car Capital, LP",0.0287,400000,3995999,1.0\n7,2026-06-30,"Whitebox Advisors, LLC",0.0278,387000,3866129,1.0\n8,2026-06-30,BNP Paribas Financial Markets,0.0241,335580,3352444,1.0\n9,2026-06-30,Berkley W R Corp,0.0239,333057,3327239,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0434,604420,6044200,-0.357\n1,2026-06-30,"Wolverine Asset Management, LLC",0.0397,552619,5526190,42.0121\n2,2026-06-30,Polar Asset Management Partners Inc.,0.0377,525000,5250000,0.105299994\n3,2026-06-30,Glazer Capital LLC,0.0348,484599,4845990,0.0004\n4,2026-06-30,"Aristeia Capital, LLC",0.0341,475000,4750000,0.0\n5,2026-06-30,"Mangrove Partners IM, LLC",0.0334,465000,4650000,0.0\n6,2026-06-30,"Cable Car Capital, LP",0.0287,400000,4000000,1.0\n7,2026-06-30,"Whitebox Advisors, LLC",0.0278,387000,3870000,1.0\n8,2026-06-30,BNP Paribas Financial Markets,0.0241,335580,3355800,1.0\n9,2026-06-30,Berkley W R Corp,0.0239,333057,3330570,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0072000003,100000,998999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0072000003,100000,1000000,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RFAM,RF Acquisition Corp III,Financial Services,Shell Companies,Singapore,139194000,9.99,16850,16996,169790.04,,,,0.0,0.0,0.0,,,891600,0,,0.295,,-495840,,13933333,5326713,0.25718,0.57523996,1140,0.03,0.0001,,,,232.32556,,,,,,,none,,,,,,,,,2026-10-29T13:06:16.571537+00:00
+0.00,RFAM,RF Acquisition Corp III,Financial Services,Shell Companies,Singapore,139333328,10.0,10290,17525,175250.0,,,,0.0,0.0,0.0,,,891600,0,,0.295,,-495840,,13933333,5326713,0.25718,0.57523996,1140,0.03,0.0001,,,,232.55814,,,,,,,none,,,,,,,,,2026-10-31T19:38:34.879511+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-26,9.83,9.98,9.82,9.85,,,,,,,0,9.9800,0,588,,,,
 2026-02-27,9.93,9.93,9.82,9.84,,,,,,,0,9.9800,0,79,,,,
@@ -184,3 +184,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.99,9.99,9.99,9.99,9.99,9.98,9.96,9.90,,9.9690,1,9.9468,1,89,86,0.0068,0.0091,-0.0023
 2026-10-27,9.99,10.00,9.98,9.98,9.99,9.98,9.96,9.90,,9.9690,1,9.9479,1,84,84,0.0060,0.0085,-0.0025
 2026-10-28,9.99,9.99,9.99,9.99,9.99,9.99,9.96,9.90,,9.9690,1,9.9490,1,40,85,0.0060,0.0080,-0.0020
+2026-10-29,9.99,9.99,9.99,9.99,9.99,9.99,9.96,9.90,,9.9690,1,9.9500,1,37,86,0.0059,0.0076,-0.0016
+2026-10-30,9.99,10.01,9.99,10.00,9.99,9.99,9.96,9.90,,9.9690,1,9.9510,1,301,92,0.0066,0.0074,-0.0008
+2026-11-02,10.00,10.01,10.00,10.01,9.99,9.99,9.97,9.90,,9.9723,1,9.9533,1,44,93,0.0075,0.0074,0.0001

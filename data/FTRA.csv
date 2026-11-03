@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FTRA,FutureCorp Space Acquisition 1,Financial Services,Shell Companies,United States,,9.87,37070,62183,613746.21,,,,0.0,0.0,0.0,,,1003716,0,,,,,,,,0.0,0.19493,2085,0.05,0.0001,,,,1.2791601,,,,,,,none,,,,,,,,,2026-10-29T10:28:14.187037+00:00
+0.00,FTRA,FutureCorp Space Acquisition 1,Financial Services,Shell Companies,United States,,9.87,36440,54951,542366.37,,,,0.0,0.0,0.0,,,1003716,0,,,,,,,,0.0,0.19493,2085,0.05,0.0001,,,,1.2791601,,,,,,,none,,,,,,,,,2026-10-31T16:13:22.509935+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.85,9.98,9.85,9.91,,,,,,,0,9.9800,0,59,,,,
 2026-07-28,9.90,9.90,9.85,9.85,,,,,,,0,9.9800,0,22,,,,
@@ -81,4 +81,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.87,9.87,9.87,9.87,9.87,9.88,9.88,,,9.8997,0,9.9254,0,,645,-0.0030,-0.0021,-0.0009
 2026-10-27,9.87,9.87,9.87,9.87,9.87,9.88,9.87,,,9.8968,0,9.9239,0,,643,-0.0029,-0.0023,-0.0006
 2026-10-28,9.87,9.87,9.87,9.87,9.87,9.87,9.88,,,9.8941,0,9.9224,0,2,643,-0.0027,-0.0024,-0.0004
-2026-10-29,9.87,9.87,9.87,9.87,9.87,9.87,9.88,,,9.8917,0,9.9209,0,0,573,-0.0026,-0.0024,-0.0002
+2026-10-29,9.88,9.88,9.88,9.88,9.87,9.87,9.88,,,9.8941,0,9.9209,0,2,574,-0.0018,-0.0022,0.0005
+2026-10-30,9.88,9.88,9.87,9.87,9.87,9.87,9.88,,,9.8941,0,9.9195,0,160,540,-0.0018,-0.0022,0.0003
+2026-11-02,9.88,9.88,9.88,9.88,9.87,9.87,9.88,,,9.8941,0,9.9181,0,2,540,-0.0010,-0.0019,0.0009

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0007,4743,14229,0.5705\n1,2026-06-30,"Renaissance Technologies, LLC",0.0004,2755,8265,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0004,2711,8133,0.4678\n3,2026-06-30,Virtu Financial LLC,0.0004,2413,7239,1.0\n4,2026-06-30,UBS Group AG,0.00029999999,2081,6243,1.0\n5,2026-06-30,"Jane Street Group, LLC",0.0002,1115,3345,1.0\n6,2026-06-30,Stonex Group Inc.,0.0001,690,2070,1.0\n7,2026-06-30,"Point72 Asset Management, L.P.",0.0001,678,2034,0.0\n8,2026-06-30,National Bank of Canada/FI/,0.0,113,339,0.0\n9,2026-06-30,Blackrock Inc.,0.0,39,117,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0007,4743,12331,0.5705\n1,2026-06-30,"Renaissance Technologies, LLC",0.0004,2755,7162,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0004,2711,7048,0.4678\n3,2026-06-30,Virtu Financial LLC,0.0004,2413,6273,1.0\n4,2026-06-30,UBS Group AG,0.00029999999,2081,5410,1.0\n5,2026-06-30,"Jane Street Group, LLC",0.0002,1115,2898,1.0\n6,2026-06-30,Stonex Group Inc.,0.0001,690,1793,1.0\n7,2026-06-30,"Point72 Asset Management, L.P.",0.0001,678,1762,0.0\n8,2026-06-30,National Bank of Canada/FI/,0.0,113,293,0.0\n9,2026-06-30,Blackrock Inc.,0.0,39,101,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,6251,18753,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,6251,16252,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-06 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.52,ITOC,iTonic Holdings Ltd.,Healthcare,Medical Devices,China,21946876,3.0,18020,53594,160782.0,0.495,,,0.60873,-50.36107,0.0,-0.66997004,-0.32297,2215268,244457,0.992,17.393,1.957,-1129604,-18776904,6836375,6712013,0.01819,0.00264,10047,0.15,0.0015,,,39.442295,0.93109876,37.839,-2.621,,,,,none,,,,,,,2.785,https://www.ftzy.com.cn,2026-10-29T11:14:24.549595+00:00
+99.32,ITOC,iTonic Holdings Ltd.,Healthcare,Medical Devices,China,19020624,2.6,19870,54832,142563.2,0.495,,,0.60873,-50.36107,0.0,-0.66997004,-0.32297,2215268,244457,0.992,17.393,1.957,-1129604,-18776904,6836375,6712013,0.01819,0.00264,10047,0.15,0.0015,,,34.18332,0.8069522,32.58,-2.257,,,,,none,,,,,,,2.785,https://www.ftzy.com.cn,2026-10-31T17:46:53.207101+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-05,3.76,4.48,3.57,3.78,,,,,,,0,4.4800,0,8478,,,,
 2024-09-06,4.20,4.20,3.52,3.90,,,,,,,0,4.4800,0,2326,,,,
@@ -553,4 +553,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.75,3.29,2.39,2.53,3.48,3.00,1.37,0.67,0.62,4.5500,0,4.4468,0,108,211,0.5584,0.7532,-0.1948
 2026-10-27,2.56,2.84,2.51,2.65,3.35,3.12,1.42,0.69,0.63,4.3130,0,4.4045,0,30,211,0.4779,0.6981,-0.2202
 2026-10-28,2.66,3.07,2.62,3.00,3.27,3.25,1.47,0.71,0.64,4.3130,0,4.3630,0,48,211,0.4374,0.6460,-0.2086
-2026-10-29,3.08,3.09,2.89,3.05,3.17,3.39,1.53,0.72,0.65,4.3130,0,4.3223,0,7,211,0.4042,0.5976,-0.1934
+2026-10-29,3.08,3.09,2.84,2.85,3.15,3.38,1.53,0.72,0.65,4.3130,0,4.3223,0,13,212,0.3886,0.5945,-0.2059
+2026-10-30,2.45,2.63,2.12,2.60,3.03,3.49,1.57,0.74,0.66,3.9650,0,4.2825,0,102,213,0.3261,0.5408,-0.2147
+2026-11-02,2.49,2.90,2.08,2.35,2.89,3.41,1.62,0.75,0.67,3.9650,0,4.1960,0,72,214,0.2534,0.4833,-0.2299

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0022,50000,491499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0022,50000,490999,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WLCO,Wilco 63 Corporation Class A Ordinary Shares,Financial Services,Shell Companies,Cayman Islands,282612512,9.83,8880,25419,249868.77,,,,0.0,0.0,0.0,,,289670,0,,0.242,0.193,-212880,,23000000,19000013,0.0,0.11998,236,0.01,0.0,,,,-29.431139,,,,,,,none,,,,,,,,,2026-10-29T14:38:22.947678+00:00
+0.00,WLCO,Wilco 63 Corporation Class A Ordinary Shares,Financial Services,Shell Companies,Cayman Islands,282324992,9.82,13330,25433,249752.06,,,,0.0,0.0,0.0,,,289670,0,,0.242,0.193,-212880,,23000000,19000013,0.0,0.11998,236,0.01,0.0,,,,-29.401197,,,,,,,none,,,,,,,,,2026-10-31T21:02:43.130911+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-10,9.90,11.50,9.83,9.90,,,,,,,0,11.5000,0,190,,,,
 2026-08-11,9.80,9.82,9.78,9.79,,,,,,,0,11.5000,0,150,,,,
@@ -71,4 +71,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.82,9.82,9.82,9.82,9.83,9.82,,,,9.8796,0,10.2117,0,,,-0.0029,-0.0027,-0.0002
 2026-10-27,9.81,9.83,9.81,9.81,9.82,9.82,,,,9.8796,0,10.1941,0,65,,-0.0038,-0.0029,-0.0009
 2026-10-28,9.81,9.81,9.81,9.81,9.82,9.82,,,,9.8637,0,10.1771,0,,,-0.0044,-0.0032,-0.0012
-2026-10-29,9.83,9.83,9.83,9.83,9.82,9.82,,,,9.8637,0,10.1608,0,16,,-0.0033,-0.0032,-0.0001
+2026-10-29,9.83,9.83,9.82,9.82,9.82,9.82,,,,9.8637,0,10.1608,0,508,,-0.0041,-0.0034,-0.0007
+2026-10-30,9.82,9.82,9.82,9.82,9.82,9.82,,,,9.8637,0,10.1452,0,,,-0.0038,-0.0035,-0.0003

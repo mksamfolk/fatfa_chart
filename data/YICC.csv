@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378733312,9.88,35150,56459,557814.92,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0,0.07151,217,0.01,,,,,1.7052122,,,,,,,none,,,,,,,,,2026-10-29T14:49:18.478339+00:00
+0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378733312,9.88,28940,56504,558259.52,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0,0.07151,217,0.01,,,,,1.7052122,,,,,,,none,,,,,,,,,2026-10-31T21:12:52.801762+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,9.88,9.93,9.84,9.93,,,,,,,0,9.8400,1,206,,,,
 2026-07-14,9.85,9.85,9.85,9.85,,,,,,,0,9.8400,1,153,,,,
@@ -91,4 +91,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.89,9.89,9.89,9.89,9.88,9.90,9.92,,,9.8989,0,9.9257,0,7,586,-0.0115,-0.0100,-0.0015
 2026-10-27,9.88,9.89,9.87,9.89,9.88,9.90,9.92,,,9.8989,0,9.9204,0,226,580,-0.0107,-0.0102,-0.0005
 2026-10-28,9.89,9.89,9.88,9.88,9.88,9.90,9.92,,,9.8989,0,9.9156,0,114,582,-0.0107,-0.0103,-0.0004
-2026-10-29,9.88,9.88,9.88,9.88,9.88,9.90,9.92,,,9.8989,0,9.9112,0,21,583,-0.0106,-0.0103,-0.0002
+2026-10-29,9.88,9.88,9.87,9.87,9.88,9.90,9.92,,,9.8989,0,9.9112,0,23,583,-0.0113,-0.0105,-0.0009
+2026-10-30,9.88,9.88,9.88,9.88,9.88,9.89,9.91,,,9.8989,0,9.9071,0,13,583,-0.0110,-0.0106,-0.0004
+2026-11-02,9.87,9.87,9.87,9.87,9.88,9.89,9.91,,,9.8989,0,9.9033,0,105,585,-0.0113,-0.0107,-0.0006

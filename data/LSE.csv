@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,864,3818,0.4305\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,864,3732,0.4305\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,8390,37083,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,29,128,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,8390,36244,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,29,125,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-47.13,LSE,Leishen Energy Holding Co. Ltd.,Energy,Oil & Gas Equipment & Services,China,75250504,4.42,1550,4810,21260.2,-0.256,,,0.21429001,-0.03281,0.00102,0.00934,-0.00115,27757378,3576797,8.024,2.394,1.835,-810465,-695502,4315000,1524929,0.64658,0.00215,8998,1.49,0.0021,442.00003,,1.83008,1.6883117,1.242,140.073,,,,,none,,,,,,,,https://www.r-egroup.com,2026-10-29T11:40:58.688328+00:00
+45.98,LSE,Leishen Energy Holding Co. Ltd.,Energy,Oil & Gas Equipment & Services,China,73548000,4.32,2240,4662,20139.84,-0.256,,,0.21429001,-0.03281,0.00102,0.00934,-0.00115,27757378,3576797,8.024,2.394,1.835,-810465,-695502,4315000,1524929,0.64658,0.00215,8998,1.49,0.0021,432.00003,,1.7886754,1.6501147,1.201,135.403,,,,,none,,,,,,,,https://www.r-egroup.com,2026-10-31T18:13:25.133883+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-19,4.25,4.58,3.76,4.35,,,,,,,0,3.7600,1,8955,,,,
 2024-12-20,4.30,5.25,4.30,4.98,,,,,,,0,3.7600,1,1352,,,,
@@ -479,4 +479,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.59,4.59,4.59,4.59,4.56,4.74,4.95,4.75,4.71,5.2786,0,4.9890,0,3,27,-0.1371,-0.1209,-0.0161
 2026-10-27,4.59,4.60,4.46,4.46,4.55,4.71,4.94,4.74,4.71,5.2181,0,4.9477,0,12,24,-0.1415,-0.1250,-0.0164
 2026-10-28,4.14,4.43,4.14,4.42,4.54,4.68,4.93,4.74,4.71,5.0003,0,4.9088,0,4,20,-0.1465,-0.1293,-0.0172
-2026-10-29,4.14,4.55,4.14,4.55,4.54,4.65,4.92,4.73,4.71,5.0003,0,4.8473,0,4,20,-0.1384,-0.1312,-0.0073
+2026-10-29,4.14,4.55,4.14,4.55,4.54,4.65,4.92,4.73,4.71,5.0003,0,4.8473,0,6,20,-0.1384,-0.1311,-0.0073
+2026-10-30,4.41,4.54,4.30,4.32,4.51,4.59,4.91,4.72,4.71,5.0003,0,4.7907,0,29,19,-0.1488,-0.1347,-0.0141
+2026-11-02,4.50,4.52,4.50,4.52,4.51,4.59,4.92,4.72,4.71,5.0003,0,4.7387,0,19,19,-0.1392,-0.1356,-0.0036

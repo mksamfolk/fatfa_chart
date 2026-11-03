@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,JATT VENTURES III L.P.,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-08-27,1959000,2026-08-27\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0027,21000,216510,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0019,15000,154650,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0027,21000,215879,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0019,15000,154199,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JTTT,JATT III Acquisition Corp,Financial Services,Shell Companies,United States,91336296,10.31,4770,29400,303114.0,,,,0.0,0.0,0.0,,,,0,,,,,,8859000,,0.20528,0.22687,2,0.0,,,,,3436.6667,,,,,,,none,,,,,,,,,2026-10-29T11:19:52.353071+00:00
+0.00,JTTT,JATT III Acquisition Corp,Financial Services,Shell Companies,United States,91070520,10.28,8880,29365,301872.19999999995,,,,0.0,0.0,0.0,,,,0,,,,,,8859000,,0.20528,0.22687,2,0.0,,,,,3426.6665,,,,,,,none,,,,,,,,,2026-10-31T17:52:15.517502+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-26,11.00,11.95,11.00,11.45,,,,,,,0,11.9500,0,6306,,,,
 2026-08-27,11.11,11.34,10.89,11.10,,,,,,,0,11.9500,0,1490,,,,
@@ -74,4 +74,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.37,10.37,10.30,10.30,10.40,10.58,,,,10.7173,0,10.6331,0,72,,-0.1656,-0.1517,-0.0138
 2026-10-27,10.30,10.30,10.30,10.30,10.37,10.55,,,,10.6441,0,10.5858,0,,,-0.1646,-0.1543,-0.0103
 2026-10-28,10.30,10.31,10.30,10.31,10.35,10.51,,,,10.6177,0,10.5432,0,42,,-0.1612,-0.1557,-0.0055
-2026-10-29,10.30,10.30,10.29,10.30,10.33,10.49,,,,10.5824,0,10.5049,0,123,,-0.1575,-0.1561,-0.0015
+2026-10-29,10.30,10.30,10.26,10.29,10.33,10.49,,,,10.5764,0,10.5049,0,142,,-0.1583,-0.1562,-0.0021
+2026-10-30,10.31,10.31,10.26,10.28,10.31,10.47,,,,10.5668,0,10.4704,0,446,,-0.1551,-0.1560,0.0009
+2026-11-02,10.28,10.31,10.28,10.30,10.32,10.44,,,,10.5565,0,10.4394,0,54,,-0.1491,-0.1546,0.0055

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,27497,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12450,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4569,5665,3.5553\n3,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,27497,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12450,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4569,5665,3.5553\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.06,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,19198610,1.24,10120,20198,25045.52,0.235,-0.146,-0.146,0.31414,0.05697,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,15482750,2347985,0.78823,0.00238,9378,2.89,0.0021,6.5263157,,0.3745053,0.8189069,0.411,4.264,,,,,none,,,,,,,1.039,https://www.rectitude.com.sg,2026-10-29T13:04:16.528313+00:00
+29.82,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,19198610,1.24,10020,20014,24817.36,0.235,-0.146,-0.146,0.31414,0.05697,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,15482750,2347985,0.78823,0.00238,9378,2.89,0.0021,6.5263157,,0.3745053,0.8189069,0.411,4.264,,,,,none,,,,,,,1.039,https://www.rectitude.com.sg,2026-10-31T19:36:44.050659+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-21,4.05,4.25,3.03,3.90,,,,,,,0,3.0300,1,3773,,,,
 2024-06-24,3.53,3.74,3.12,3.70,,,,,,,0,3.0300,1,1018,,,,
@@ -605,4 +605,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.30,1.39,1.28,1.28,1.27,1.28,1.26,1.30,1.38,1.4390,0,1.1945,1,6,33,0.0074,0.0017,0.0056
 2026-10-27,1.20,1.29,1.17,1.26,1.27,1.27,1.26,1.29,1.38,1.4390,0,1.4400,0,9,33,0.0047,0.0023,0.0024
 2026-10-28,1.13,1.26,1.13,1.24,1.27,1.27,1.26,1.29,1.37,1.4390,0,1.4346,0,7,32,0.0009,0.0021,-0.0011
-2026-10-29,1.30,1.30,1.30,1.30,1.28,1.27,1.27,1.29,1.37,1.4390,0,1.4225,0,0,32,0.0028,0.0022,0.0006
+2026-10-29,1.30,1.30,1.24,1.24,1.27,1.27,1.27,1.29,1.37,1.4390,0,1.4225,0,1,32,-0.0020,0.0012,-0.0033
+2026-10-30,1.26,1.26,1.20,1.24,1.27,1.27,1.27,1.29,1.37,1.4390,0,1.4108,0,2,32,-0.0043,0.0001,-0.0044
+2026-11-02,1.26,1.42,1.20,1.24,1.27,1.27,1.27,1.29,1.37,1.4390,0,1.1310,1,31,32,-0.0060,-0.0011,-0.0049

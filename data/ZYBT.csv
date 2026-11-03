@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.001,48865,71831,0.1069\n1,2026-06-30,"Geode Capital Management, LLC",0.00059999997,29068,42729,0.0\n2,2026-06-30,Winton Group Ltd,0.00029999999,12730,18713,-0.61869997\n3,2026-06-30,UBS Group AG,0.0002,7992,11748,-0.0055\n4,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n5,2026-06-30,JPMORGAN CHASE & CO,0.0,134,196,1.0\n6,2026-06-30,Morgan Stanley,0.0,248,364,-0.0498\n7,2026-06-30,Royal Bank of Canada,0.0,1230,1808,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.001,48865,63524,0.1069\n1,2026-06-30,"Geode Capital Management, LLC",0.00059999997,29068,37788,0.0\n2,2026-06-30,Winton Group Ltd,0.00029999999,12730,16548,-0.61869997\n3,2026-06-30,UBS Group AG,0.0002,7992,10389,-0.0055\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,134,174,1.0\n5,2026-06-30,Morgan Stanley,0.0,248,322,-0.0498\n6,2026-06-30,Royal Bank of Canada,0.0,1230,1598,0.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,7,9,6.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29068,42729,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29068,37788,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.80,ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,China,69665328,1.47,70000,2007853,2951543.91,-0.409,,,0.20513001,-0.77039003,-0.59971,-0.2517,-0.094790004,51892000,75083000,24.48,1.141,0.584,13333000,39576752,47391376,6261823,0.16163999,0.00914,67594,0.04,0.0015,,,0.59869486,1.8620924,1.266,-3.302,,,,,none,,,,,,,,https://www.jlzybio.com,2026-10-29T14:53:48.941224+00:00
+89.16,ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,China,61608788,1.3,69840,2001893,2602460.9,-0.409,,,0.20513001,-0.77039003,-0.59971,-0.2517,-0.094790004,51892000,75083000,24.48,1.141,0.584,13333000,39576752,47391376,6261823,0.16163999,0.00914,67594,0.04,0.0015,,,0.529458,1.6467482,1.217,-3.175,,,,,none,,,,,,,,https://www.jlzybio.com,2026-10-31T21:17:07.940299+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-07,3.77,6.10,3.70,4.86,,,,,,,0,3.7000,1,9063,,,,
 2025-01-08,4.81,5.85,4.14,4.50,,,,,,,0,3.7000,1,2557,,,,
@@ -468,4 +468,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.47,1.50,1.40,1.42,1.47,1.45,1.58,1.18,1.16,1.0147,1,2.8900,0,223,5428,-0.0353,-0.0409,0.0057
 2026-10-27,1.41,1.48,1.40,1.44,1.47,1.44,1.58,1.18,1.16,1.0147,1,2.8602,0,128,5406,-0.0349,-0.0397,0.0048
 2026-10-28,1.45,1.48,1.42,1.42,1.45,1.44,1.58,1.18,1.16,1.0147,1,2.8310,0,20,5398,-0.0358,-0.0389,0.0031
-2026-10-29,1.44,1.50,1.42,1.44,1.45,1.43,1.58,1.19,1.15,1.0147,1,2.8024,0,13,5391,-0.0343,-0.0380,0.0038
+2026-10-29,1.41,1.50,1.41,1.43,1.45,1.43,1.58,1.19,1.15,1.0147,1,2.8024,0,35,5391,-0.0353,-0.0382,0.0029
+2026-10-30,1.17,1.40,1.17,1.30,1.44,1.42,1.58,1.19,1.15,1.0147,1,2.7743,0,160,5385,-0.0449,-0.0396,-0.0053
+2026-11-02,1.31,1.38,1.27,1.33,1.43,1.42,1.58,1.20,1.15,1.0147,1,2.7102,0,16,5381,-0.0495,-0.0415,-0.0080

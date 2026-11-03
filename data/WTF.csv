@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0015,70261,148250,1.0\n1,2026-06-30,Marex Group Ltd.,0.001,47325,99855,1.0\n2,2026-06-30,UBS Group AG,0.0008,37553,79236,0.895\n3,2026-06-30,"Geode Capital Management, LLC",0.00059999997,29578,62409,0.0\n4,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,3,6,1.0\n5,2026-06-30,Osaic Holdings Inc.,0.0,725,1529,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0015,70261,145440,1.0\n1,2026-06-30,Marex Group Ltd.,0.001,47325,97962,1.0\n2,2026-06-30,UBS Group AG,0.0008,37553,77734,0.895\n3,2026-06-30,"Geode Capital Management, LLC",0.00059999997,29578,61226,0.0\n4,2026-06-30,Osaic Holdings Inc.,0.0,725,1500,0.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,6,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29578,62409,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29578,61226,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.10,WTF,Waton Financial Limited,Financial Services,Capital Markets,Hong Kong,101781064,2.11,14030,5975,12607.25,0.029,,,0.61282,-1.5453501,-1.49132,-0.87857,-0.35494,26719868,2577450,11.864,1.544,1.507,-7060432,,48237472,6348041,0.8684,0.0038400001,172440,35.26,0.0272,,,10.017458,4.6888885,7.404,,,,,,none,,,,,,,,https://www.waton.com,2026-10-29T14:42:06.944887+00:00
+17.11,WTF,Waton Financial Limited,Financial Services,Capital Markets,Hong Kong,99851560,2.07,20670,7054,14601.779999999999,0.029,,,0.61282,-1.5453501,-1.49132,-0.87857,-0.35494,26719868,2577450,11.864,1.544,1.507,-7060432,,48237472,6348041,0.8684,0.0038400001,172440,35.26,0.0272,,,9.827554,4.6,7.451,,,,,,none,,,,,,,,https://www.waton.com,2026-10-31T21:06:12.760423+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-01,4.30,19.85,4.05,19.85,,,,,,,0,4.0500,1,386335,,,,
 2025-04-02,15.01,18.05,6.30,7.03,,,,,,,0,4.0500,1,70163,,,,
@@ -411,4 +411,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.36,2.44,2.20,2.30,2.47,2.49,2.71,3.12,3.26,2.0830,1,2.8733,0,75,17,-0.0933,-0.0873,-0.0060
 2026-10-27,2.20,2.30,1.76,2.15,2.42,2.46,2.69,3.10,3.25,2.0830,1,2.8404,0,59,17,-0.1104,-0.0920,-0.0184
 2026-10-28,2.15,2.20,1.85,2.06,2.37,2.44,2.68,3.08,3.25,2.8653,0,2.7755,0,27,17,-0.1297,-0.0995,-0.0302
-2026-10-29,1.97,2.15,1.90,2.13,2.30,2.41,2.66,3.07,3.24,2.8653,0,2.7146,0,14,18,-0.1381,-0.1072,-0.0309
+2026-10-29,1.97,2.18,1.90,2.04,2.29,2.41,2.66,3.07,3.24,2.8653,0,2.7146,0,41,18,-0.1449,-0.1086,-0.0363
+2026-10-30,1.88,2.17,1.78,2.07,2.26,2.38,2.65,3.05,3.24,2.8616,0,2.6573,0,136,20,-0.1528,-0.1174,-0.0354
+2026-11-02,2.14,2.24,1.90,2.17,2.24,2.37,2.63,3.04,3.23,2.8616,0,2.6035,0,71,21,-0.1492,-0.1238,-0.0255

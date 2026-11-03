@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,9,21,8.0\n1,2026-06-30,JPMORGAN CHASE & CO,0.0,63,152,0.0328\n2,2026-06-30,UBS Group AG,0.0,25,60,-0.9942\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,JPMORGAN CHASE & CO,0.0,63,159,0.0328\n1,2026-06-30,UBS Group AG,0.0,25,63,-0.9942\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,2,-0.8889\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,7347,17779,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,7347,18587,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.77974\ninstitutionsPercentHeld,0.00064000004\ninstitutionsFloatPercentHeld,0.0029300002\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.77974\ninstitutionsPercentHeld,0.00064000004\ninstitutionsFloatPercentHeld,0.0029199999\ninstitutionsCount,4.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.88,RYOJ,rYojbaba Co. Ltd.,Industrials,Consulting Services,Japan,27951000,2.42,247590,87892,212698.63999999998,-0.343,,,0.26629,-0.33569,0.01279,0.027709998,-0.02864,6158462,9094711,149.224,2.703,2.523,863925,1455965,11550000,2544003,0.77974,0.00064000004,28050,0.28,,242.00002,,2.9940257,4.5833335,3.309,-515.466,,,,,none,,,,,,,,https://ryojbaba.com,2026-10-29T13:16:05.276105+00:00
+26.94,RYOJ,rYojbaba Co. Ltd.,Industrials,Consulting Services,Japan,29221500,2.53,38120,85878,217271.34,-0.343,,,0.26629,-0.33569,0.01279,0.027709998,-0.02864,6158462,9094711,149.224,2.703,2.523,863925,1455965,11550000,2544003,0.77974,0.00064000004,28050,0.28,,253.0,,3.130118,4.7916665,3.445,-536.669,,,,,none,,,,,,,,https://ryojbaba.com,2026-10-31T19:48:03.658484+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-14,3.72,3.75,2.62,2.90,,,,,,,0,3.7500,0,2432,,,,
 2025-08-15,2.56,3.09,2.51,2.89,,,,,,,0,3.7500,0,439,,,,
@@ -318,4 +318,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.15,2.41,2.14,2.17,2.55,3.07,4.27,3.20,3.14,3.7428,0,5.0528,0,11,472,-0.6010,-0.5574,-0.0436
 2026-10-27,2.20,2.51,2.17,2.32,2.51,2.95,4.24,3.20,3.14,3.7428,0,4.9363,0,191,474,-0.5851,-0.5630,-0.0222
 2026-10-28,2.40,2.62,2.40,2.42,2.48,2.84,4.19,3.20,3.13,3.7428,0,4.8244,0,77,439,-0.5581,-0.5620,0.0039
-2026-10-29,2.40,2.70,2.36,2.60,2.45,2.73,4.15,3.20,3.13,3.7428,0,4.7171,0,59,438,-0.5162,-0.5528,0.0367
+2026-10-29,2.40,2.76,2.36,2.67,2.46,2.74,4.15,3.20,3.13,3.7428,0,4.7171,0,175,440,-0.5102,-0.5516,0.0414
+2026-10-30,2.76,2.76,2.50,2.53,2.44,2.63,4.11,3.20,3.12,3.7428,0,4.6140,0,43,437,-0.4784,-0.5370,0.0586
+2026-11-02,2.51,2.67,2.49,2.57,2.43,2.62,4.05,3.20,3.12,3.7428,0,4.5150,0,31,419,-0.4449,-0.5186,0.0737

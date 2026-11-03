@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,BAREL SHMUEL,Officer,,Sale,2026-05-12,24151,2026-05-12\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0307,99216,128980,1.0\n1,2026-06-30,UBS Group AG,0.0093,30089,39115,5.9909\n2,2026-06-30,Citadel Advisors Llc,0.0076,24471,31812,1.0\n3,2026-06-30,Virtu Financial LLC,0.0054,17421,22647,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0047999998,15496,20144,2.7934\n5,2026-06-30,"Wolverine Asset Management, LLC",0.0,25,32,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0307,99216,131550,1.0\n1,2026-06-30,UBS Group AG,0.0093,30089,39895,5.9909\n2,2026-06-30,Citadel Advisors Llc,0.0076,24471,32446,1.0\n3,2026-06-30,Virtu Financial LLC,0.0054,17421,23098,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0047999998,15496,20546,2.7934\n5,2026-06-30,"Wolverine Asset Management, LLC",0.0,25,33,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0294,95058,123575,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0294,95058,126037,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-10 09:30:00-04:00,0.05\n2025-03-17 09:30:00-04:00,0.25\n2026-03-11 09:30:00-04:00,0.3333333333333333\n2026-06-22 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.84,WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,Israel,3197663,1.3,29690,537450,698685.0,0.19,,,-0.028450001,-16.76286,0.0,-0.88646007,-0.52592,18841000,248000,1.337,13.677,13.267,-7803000,-4257625,2459741,2126293,0.00263,0.18493,26665,0.11,0.0115,,,4.548596,0.1545595,-22.37,1.515,,,,,none,,,,,,,3.047,https://www.wearabledevices.co.il,2026-10-29T14:38:31.432269+00:00
+13.32,WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,Israel,3261370,1.3259,22730,509893,676067.1287,0.19,,,-0.028450001,-16.76286,0.0,-0.88646007,-0.52592,18841000,248000,1.337,13.677,13.267,-7803000,-4257625,2459741,2126293,0.00263,0.18493,26665,0.11,0.0115,,,4.639218,0.1576388,-22.289,1.51,,,,,none,,,,,,,3.047,https://www.wearabledevices.co.il,2026-10-31T21:02:51.265576+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-13,3384.00,4212.00,1771.20,2052.00,,,,,,,0,4212.0000,0,25262,,,,
 2022-09-14,1908.00,2181.60,1634.40,2124.00,,,,,,,0,4212.0000,0,7721,,,,
@@ -1050,4 +1050,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.37,1.41,1.32,1.32,1.33,1.42,2.24,2.88,4.56,1.8267,0,1.1619,1,19,3102,-0.2181,-0.2571,0.0390
 2026-10-27,1.33,1.37,1.32,1.33,1.32,1.40,2.20,2.84,4.50,1.7755,0,1.1676,1,13,2452,-0.2064,-0.2470,0.0406
 2026-10-28,1.31,1.38,1.30,1.30,1.33,1.38,2.15,2.81,4.44,1.7515,0,1.1733,1,17,1852,-0.1972,-0.2370,0.0398
-2026-10-29,1.32,1.37,1.30,1.33,1.34,1.36,2.11,2.77,4.39,1.7263,0,1.1788,1,8,1787,-0.1854,-0.2267,0.0413
+2026-10-29,1.32,1.37,1.22,1.26,1.33,1.35,2.11,2.77,4.39,1.7103,0,1.1788,1,28,1787,-0.1910,-0.2278,0.0369
+2026-10-30,1.33,1.34,1.28,1.33,1.34,1.34,2.08,2.73,4.32,1.7078,0,1.1842,1,17,1710,-0.1786,-0.2180,0.0393
+2026-11-02,1.33,1.49,1.32,1.39,1.34,1.34,2.05,2.70,4.27,1.7078,0,1.1896,1,141,1684,-0.1618,-0.2067,0.0449

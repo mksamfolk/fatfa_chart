@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0685,1575000,15860249,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.037,850000,8559499,0.0625\n2,2026-06-30,Glazer Capital LLC,0.036,827893,8336882,0.0\n3,2026-06-30,Linden Advisors LP,0.0348,800000,8055999,0.0\n4,2026-06-30,Magnetar Financial LLC,0.0342,787593,7931061,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0326,750000,7552499,0.0\n6,2026-06-30,"Aristeia Capital, LLC",0.0304,700000,7048999,0.0\n7,2026-06-30,"Verition Fund Management, LLC",0.03,689566,6943929,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0295,678084,6828305,0.0116\n9,2026-06-30,Hudson Bay Capital Management Lp,0.028299998,649998,6545479,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0685,1575000,15907500,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.037,850000,8585000,0.0625\n2,2026-06-30,Glazer Capital LLC,0.036,827893,8361719,0.0\n3,2026-06-30,Linden Advisors LP,0.0348,800000,8080000,0.0\n4,2026-06-30,Magnetar Financial LLC,0.0342,787593,7954689,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0326,750000,7575000,0.0\n6,2026-06-30,"Aristeia Capital, LLC",0.0304,700000,7070000,0.0\n7,2026-06-30,"Verition Fund Management, LLC",0.03,689566,6964616,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0295,678084,6848648,0.0116\n9,2026-06-30,Hudson Bay Capital Management Lp,0.028299998,649998,6564980,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.013200001,303308,3054311,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0087,200000,2013999,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1006989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,46692,470188,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.013200001,303308,3063410,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0087,200000,2020000,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1009989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,46692,471589,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VHCP,Vine Hill Capital Investment Corp. II,Financial Services,Shell Companies,United States,308813344,10.07,35030,23639,238044.73,,,,0.0,0.0,0.0,,,2038000,0,,8.389,7.689,-330000,,23000000,21424960,0.28986,0.83505,309,0.01,0.0,,,,-49.851482,,,,,,,none,,,,,,,,https://www.vinehillcapital.com,2026-10-29T14:26:16.821951+00:00
+0.00,VHCP,Vine Hill Capital Investment Corp. II,Financial Services,Shell Companies,United States,309733344,10.1,51670,26239,265013.89999999997,,,,0.0,0.0,0.0,,,2038000,0,,8.389,7.689,-330000,,23000000,21424960,0.28986,0.83505,309,0.01,0.0,,,,-50.0,,,,,,,none,,,,,,,,https://www.vinehillcapital.com,2026-10-31T20:51:26.619446+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-09,9.97,10.02,9.91,9.97,,,,,,,0,10.0200,0,110,,,,
 2026-02-10,9.90,9.95,9.89,9.95,,,,,,,0,10.0200,0,2959,,,,
@@ -196,3 +196,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.07,10.07,10.07,10.07,10.08,10.08,10.05,9.98,,10.0847,0,10.0976,0,,209,0.0060,0.0099,-0.0039
 2026-10-27,10.07,10.07,10.07,10.07,10.08,10.08,10.05,9.98,,10.0847,0,10.0969,0,,209,0.0050,0.0090,-0.0039
 2026-10-28,10.07,10.07,10.07,10.07,10.08,10.08,10.05,9.99,,10.0836,0,10.0962,0,,202,0.0042,0.0080,-0.0038
+2026-10-29,10.08,10.10,10.08,10.10,10.08,10.08,10.05,9.99,,10.0687,1,10.0600,1,1681,233,0.0059,0.0076,-0.0017
+2026-10-30,10.10,10.10,10.10,10.10,10.08,10.08,10.06,9.99,,10.0809,1,10.0608,1,,233,0.0071,0.0075,-0.0004

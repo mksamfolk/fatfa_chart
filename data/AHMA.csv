@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0047999998,52110,58363,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0042,45658,51136,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0023,25401,28449,0.6107\n3,2026-06-30,Wells Fargo & Company,0.0002,1750,1960,1.5\n4,2026-06-30,UBS Group AG,0.0001,1580,1769,-0.84419996\n5,2026-06-30,"Eversource Wealth Advisors, Llc",0.0,435,487,1.0\n6,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,1.0\n7,2026-06-30,"Bell Investment Advisors, Inc",0.0,420,470,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0047999998,52110,59405,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0042,45658,52050,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0023,25401,28957,0.6107\n3,2026-06-30,Wells Fargo & Company,0.0002,1750,1994,1.5\n4,2026-06-30,UBS Group AG,0.0001,1580,1801,-0.84419996\n5,2026-06-30,"Eversource Wealth Advisors, Llc",0.0,435,495,1.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,5129,5744,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,5129,5847,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2026-12-08 07:00:00-05:00,,
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61797\ninstitutionsPercentHeld,0.01208\ninstitutionsFloatPercentHeld,0.031630002\ninstitutionsCount,9.0\n
+,Value\ninsidersPercentHeld,0.61797\ninstitutionsPercentHeld,0.01204\ninstitutionsFloatPercentHeld,0.03153\ninstitutionsCount,8.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.59,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,33292000,1.12,28410,468961,525236.3200000001,0.046,0.042,0.067,0.24858,0.09134,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61797,0.01208,25920,0.63,0.0062,28.0,,1.6457415,2.6666667,1.506,21.942,,,,,none,,,,,,,,,2026-10-29T08:18:51.644721+00:00
+10.52,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,33886500,1.14,30190,475921,542549.94,0.046,0.042,0.067,0.24858,0.09134,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61797,0.01204,25920,0.63,0.0062,28.5,,1.6751297,2.7142859,1.536,22.37,,,,,none,,,,,,,,,2026-10-31T13:58:09.905961+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-21,4.00,5.40,4.00,4.65,,,,,,,0,4.0000,1,13633,,,,
 2025-10-22,4.25,4.49,4.13,4.39,,,,,,,0,4.0000,1,4655,,,,
@@ -271,4 +271,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.11,1.20,1.07,1.08,1.15,1.25,1.41,1.80,4.56,1.5212,0,1.4927,0,24,1037,-0.0921,-0.0864,-0.0057
 2026-10-27,1.05,1.12,1.05,1.10,1.14,1.24,1.40,1.77,4.53,1.4606,0,1.4474,0,13,1036,-0.0912,-0.0874,-0.0038
 2026-10-28,1.10,1.13,1.10,1.12,1.14,1.24,1.39,1.74,4.49,1.4585,0,1.4067,0,6,1035,-0.0878,-0.0874,-0.0003
-2026-10-29,1.13,1.13,1.05,1.07,1.12,1.20,1.38,1.71,4.46,1.4254,0,1.3700,0,24,1034,-0.0881,-0.0876,-0.0005
+2026-10-29,1.12,1.13,1.05,1.08,1.12,1.20,1.38,1.71,4.46,1.4254,0,1.3700,0,41,1035,-0.0873,-0.0874,0.0001
+2026-10-30,1.06,1.25,1.03,1.14,1.12,1.18,1.38,1.67,4.43,1.4254,0,1.3370,0,156,1036,-0.0812,-0.0862,0.0050
+2026-11-02,1.14,1.14,1.05,1.07,1.11,1.17,1.37,1.64,4.41,1.4254,0,1.3002,0,28,1034,-0.0810,-0.0851,0.0041

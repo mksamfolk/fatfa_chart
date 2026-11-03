@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0086,85624,14693,1.0249\n1,2026-06-30,UBS Group AG,0.0001,787,135,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0086,85624,14547,1.0249\n1,2026-06-30,UBS Group AG,0.0001,787,133,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.86,HXHX,Haoxin Holdings Limited,Industrials,Integrated Freight & Logistics,China,2525952,0.1716,202200,1945544,333855.3504,-0.065,-0.021,0.123,0.25106,0.23278,0.12009,0.17252001,0.11781,1404626,11668722,42.239,2.374,0.549,-9546215,-12345349,9920000,2470050,0.4379,0.00871,181505,0.06,0.026800001,0.57199997,,0.0764513,0.085415624,0.382,1.525,,,,,none,,,,,,,,https://www.haoxinholdings.com,2026-10-29T10:59:01.416598+00:00
+7.63,HXHX,Haoxin Holdings Limited,Industrials,Integrated Freight & Logistics,China,2500928,0.1699,212650,1981435,336645.8065,-0.065,-0.021,0.123,0.25106,0.23278,0.12009,0.17252001,0.11781,1404626,11668722,42.239,2.374,0.549,-9546215,-12345349,9920000,2470050,0.4379,0.00871,181505,0.06,0.026800001,0.5663333,,0.07569392,0.08456943,0.381,1.522,,,,,none,,,,,,,,https://www.haoxinholdings.com,2026-10-31T17:18:04.727611+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-15,4.75,6.29,2.51,3.11,,,,,,,0,6.2900,0,26507,,,,
 2025-04-16,2.31,3.17,2.31,2.68,,,,,,,0,6.2900,0,6930,,,,
@@ -401,4 +401,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.20,0.21,0.18,0.19,0.23,0.31,0.42,0.48,0.49,0.3117,0,0.3087,0,24,800,-0.0742,-0.0659,-0.0083
 2026-10-27,0.19,0.19,0.18,0.18,0.22,0.29,0.42,0.48,0.49,0.2923,0,0.2908,0,10,800,-0.0736,-0.0674,-0.0062
 2026-10-28,0.18,0.18,0.17,0.17,0.21,0.28,0.41,0.47,0.49,0.2784,0,0.2754,0,9,800,-0.0732,-0.0686,-0.0046
-2026-10-29,0.17,0.17,0.16,0.16,0.20,0.26,0.40,0.47,0.49,0.2603,0,0.2586,0,18,800,-0.0728,-0.0694,-0.0034
+2026-10-29,0.17,0.17,0.15,0.16,0.20,0.26,0.40,0.47,0.49,0.2591,0,0.2586,0,64,801,-0.0730,-0.0695,-0.0036
+2026-10-30,0.16,0.17,0.16,0.17,0.19,0.24,0.40,0.47,0.49,0.2557,0,0.2398,0,18,801,-0.0712,-0.0698,-0.0014
+2026-11-02,0.17,0.24,0.15,0.24,0.19,0.24,0.39,0.47,0.48,0.2557,0,0.1540,1,11857,1038,-0.0637,-0.0686,0.0049

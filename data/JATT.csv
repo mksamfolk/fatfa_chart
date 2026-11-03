@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date,Shares Owned Indirectly,Position Indirect Date\n0,JATT VENTURES II LP,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-04-20,2025000.0,2026-04-20,,\n1,SIDHU SOMEIT,Chief Executive Officer,,Purchase,2026-04-20,,,2025000.0,1776643200.0\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Jupiter Topco LLC,0.0641,500000,5184999,1.0\n1,2026-06-30,"RA Capital Management, L.P.",0.0641,500000,5184999,1.0\n2,2026-06-30,Balyasny Asset Management LP,0.0641,500000,5184999,1.0\n3,2026-06-30,Great Point Partners LLC,0.0641,500000,5184999,1.0\n4,2026-06-30,"Adar1 Capital Management, LLC                          ",0.053600002,417724,4331797,1.0\n5,2026-06-30,"Atika Capital Management, LLC",0.0513,400000,4147999,1.0\n6,2026-06-30,"Franklin Resources, Inc.",0.0513,400000,4147999,1.0\n7,2026-06-30,Citadel Advisors Llc,0.040999997,319986,3318254,1.0\n8,2026-06-30,Farallon Capital Management LLC,0.0385,300000,3110999,1.0\n9,2026-06-30,Braidwell LP                          ,0.0321,250000,2592499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Jupiter Topco LLC,0.0641,500000,5126500,1.0\n1,2026-06-30,"RA Capital Management, L.P.",0.0641,500000,5126500,1.0\n2,2026-06-30,Balyasny Asset Management LP,0.0641,500000,5126500,1.0\n3,2026-06-30,Great Point Partners LLC,0.0641,500000,5126500,1.0\n4,2026-06-30,"Adar1 Capital Management, LLC                          ",0.053600002,417724,4282924,1.0\n5,2026-06-30,"Atika Capital Management, LLC",0.0513,400000,4101200,1.0\n6,2026-06-30,"Franklin Resources, Inc.",0.0513,400000,4101200,1.0\n7,2026-06-30,Citadel Advisors Llc,0.040999997,319986,3280816,1.0\n8,2026-06-30,Farallon Capital Management LLC,0.0385,300000,3075900,1.0\n9,2026-06-30,Braidwell LP                          ,0.0321,250000,2563250,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Franklin Strategic Series-Franklin Biotechnology Discovery Fund,0.0188,146753,1521828,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,4383,45451,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Franklin Strategic Series-Franklin Biotechnology Discovery Fund,0.0188,146753,1504658,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,4383,44938,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JATT,JATT II Acquisition Corp.,Financial Services,Shell Companies,United States,80886000,10.37,5070,21375,221658.74999999997,,,,0.0,0.0,0.0,,,1641241,0,,,,,,7800000,,0.26923,0.69964,1061,0.03,,,,,-134.67532,,,,,,,none,,,,,,,,https://jattacquisition.com/jatt-ii,2026-10-29T11:16:13.834218+00:00
+0.00,JATT,JATT II Acquisition Corp.,Financial Services,Shell Companies,United States,79973400,10.253,4670,20629,211509.137,,,,0.0,0.0,0.0,,,1641241,0,,,,,,7800000,,0.26923,0.69964,1061,0.03,,,,,-133.15585,,,,,,,none,,,,,,,,https://jattacquisition.com/jatt-ii,2026-10-31T17:48:43.669285+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-17,10.00,10.73,9.99,10.50,,,,,,,0,9.9900,1,2933,,,,
 2026-04-20,10.50,10.50,10.10,10.25,,,,,,,0,9.9900,1,254,,,,
@@ -149,3 +149,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.29,10.29,10.29,10.29,10.33,10.80,11.77,,,11.0405,0,12.6293,0,8,176,-0.4523,-0.4614,0.0091
 2026-10-27,10.29,10.29,10.25,10.25,10.32,10.70,11.75,,,10.9575,0,12.2920,0,5,174,-0.4382,-0.4568,0.0186
 2026-10-28,10.34,10.37,10.34,10.37,10.32,10.60,11.74,,,10.9575,0,12.0019,0,58,176,-0.4126,-0.4479,0.0353
+2026-10-29,10.37,10.37,10.37,10.37,10.32,10.50,11.72,,,10.9575,0,11.7525,0,,164,-0.3879,-0.4359,0.0481
+2026-10-30,10.32,10.35,10.25,10.25,10.32,10.40,11.68,,,10.8663,0,11.5379,0,60,159,-0.3736,-0.4235,0.0498

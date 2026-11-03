@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0763,2700000,27310499,0.0\n1,2026-06-30,"Empyrean Capital Partners, LP",0.0744,2632752,26630285,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.056500003,2000000,20229999,0.0\n3,2026-06-30,Fort Baker Capital Management LP,0.0424,1499756,15170031,0.0\n4,2026-06-30,Linden Advisors LP,0.0422,1492822,15099894,0.35709998\n5,2026-06-30,"Yaupon Capital Management, LP",0.041500002,1470000,14869049,0.0\n6,2026-06-30,Millennium Management Llc,0.0383,1355000,13705824,0.0\n7,2026-06-30,Governors Lane LP,0.0311,1100000,11126499,0.0\n8,2026-06-30,Magnetar Financial LLC,0.028299998,1000000,10114999,0.0\n9,2026-06-30,"Ghisallo Capital Management, LLC",0.028299998,1000000,10114999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0763,2700000,27351000,0.0\n1,2026-06-30,"Empyrean Capital Partners, LP",0.0744,2632752,26669778,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.056500003,2000000,20260000,0.0\n3,2026-06-30,Fort Baker Capital Management LP,0.0424,1499756,15192528,0.0\n4,2026-06-30,Linden Advisors LP,0.0422,1492822,15122287,0.35709998\n5,2026-06-30,"Yaupon Capital Management, LP",0.041500002,1470000,14891100,0.0\n6,2026-06-30,Millennium Management Llc,0.0383,1355000,13726150,0.0\n7,2026-06-30,Governors Lane LP,0.0311,1100000,11143000,0.0\n8,2026-06-30,Magnetar Financial LLC,0.028299998,1000000,10130000,0.0\n9,2026-06-30,"Ghisallo Capital Management, LLC",0.028299998,1000000,10130000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,4151,41987,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,4151,42049,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KBON,Karbon Capital Partners Corp.,Financial Services,Shell Companies,United States,445211712,10.115,309290,81366,823017.09,,,,0.0,0.0,0.0,,,418044,0,,4.964,4.058,-754335,,35390000,29167420,0.025150001,0.76734,14,0.0,0.0,,,,-36.648552,,,,,,,none,,,,,,,,,2026-10-29T11:21:14.806295+00:00
+0.00,KBON,Karbon Capital Partners Corp.,Financial Services,Shell Companies,United States,445871968,10.13,112200,83143,842238.5900000001,,,,0.0,0.0,0.0,,,418044,0,,4.964,4.058,-754335,,35390000,29167420,0.025150001,0.76734,14,0.0,0.0,,,,-36.7029,,,,,,,none,,,,,,,,,2026-10-31T17:53:35.947052+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-27,10.04,10.07,10.03,10.03,,,,,,,0,10.0700,0,679,,,,
 2026-01-28,10.04,10.04,10.02,10.02,,,,,,,0,10.0700,0,373,,,,
@@ -205,4 +205,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.09,10.10,10.08,10.10,10.09,10.10,10.10,10.09,,10.1213,0,10.1288,0,352,894,-0.0059,-0.0034,-0.0025
 2026-10-27,10.10,10.11,10.09,10.11,10.09,10.10,10.10,10.09,,10.1213,0,10.1273,0,946,910,-0.0041,-0.0035,-0.0005
 2026-10-28,10.11,10.11,10.11,10.11,10.09,10.10,10.10,10.09,,10.1213,0,10.1259,0,45,909,-0.0022,-0.0033,0.0010
-2026-10-29,10.12,10.12,10.12,10.12,10.09,10.10,10.10,10.09,,10.1213,0,10.1245,0,145,912,-0.0004,-0.0027,0.0023
+2026-10-29,10.12,10.12,10.12,10.12,10.09,10.10,10.10,10.09,,10.1213,0,10.1245,0,148,912,-0.0004,-0.0027,0.0023
+2026-10-30,10.11,10.13,10.11,10.13,10.10,10.10,10.10,10.09,,10.0770,1,10.0550,1,271,916,0.0019,-0.0018,0.0037
+2026-11-02,10.13,10.13,10.12,10.12,10.10,10.11,10.10,10.09,,10.0818,1,10.0565,1,145,919,0.0029,-0.0009,0.0037

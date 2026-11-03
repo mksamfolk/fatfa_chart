@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,271,211,0.5225\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,271,205,0.5225\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,64,48,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00696\ninstitutionsPercentHeld,4.0000003e-05\ninstitutionsFloatPercentHeld,4.0000003e-05\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.00696\ninstitutionsPercentHeld,5e-05\ninstitutionsFloatPercentHeld,5e-05\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "7b27c7b5-f54c-33ab-b440-cc2e660e1a2e",\n    "title": "Youxin Technology Revenue Jumps 444% as Celnet Acquisition Drives First-Half Growth",\n    "publisher": "InvestorsHub",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/youxin-technology-revenue-jumps-444-142229142.html",\n    "providerPublishTime": 1787840549,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/investorshub_458/7b9add914d24dcb88154171c829c9773.png",\n          "width": 1200,\n          "height": 659,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/1A2061B0E826E11837CFB29688129B063F137C27844195976223462D5C8F4545/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F7b9add914d24dcb88154171c829c9773.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "YAAS"\n    ]\n  },\n  {\n    "uuid": "d85dbcec-22ef-3836-93f3-a5e4b5971106",\n    "title": "Youxin Technology Ltd Reports First Half of Fiscal Year 2026 Financial Results",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/youxin-technology-ltd-reports-first-113000774.html",\n    "providerPublishTime": 1787830200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/605c0c20794e0c92cb55c95c58df142c.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/F8A4C6793776D7FEC7912B6CB05713ABD3FDD3311640C70BDF62AF8502AEDE9B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F605c0c20794e0c92cb55c95c58df142c.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "YAAS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-09-30 09:30:00-04:00,0.0125\n2026-07-30 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.80,YAAS,Youxin Technology Ltd,Technology,Software - Application,China,12258988,0.7801,11030,530428,413786.8828,4.443,,,0.39620999,-0.99542,0.0,-1.7767999,-0.25266,4611851,808332,10.591,1.771,1.552,-2870491,-4266304,6769330,4059508,0.00696,4.0000003e-05,25336,1.34,,0.011176217,,5.903067,1.076,2.447,-1.491,,,,,none,,,,,,,,https://www.youxin.cloud,2026-10-29T14:47:53.221537+00:00
+28.47,YAAS,Youxin Technology Ltd,Technology,Software - Application,China,11943124,0.76,10370,497364,377996.64,4.443,,,0.39620999,-0.99542,0.0,-1.7767999,-0.25266,4611851,808332,10.591,1.771,1.552,-2870491,-4266304,6769330,4059508,0.00696,5e-05,25336,1.34,,0.0108882515,,5.7509694,1.0482758,2.004,-1.221,,,,,none,,,,,,,,https://www.youxin.cloud,2026-10-31T21:11:41.854638+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-20,326.40,340.00,278.40,316.00,,,,,,,0,340.0000,0,2628,,,,
 2024-12-23,312.80,316.00,264.00,276.00,,,,,,,0,340.0000,0,641,,,,
@@ -476,4 +476,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.92,0.92,0.85,0.85,0.98,1.12,1.83,1.24,1.30,1.2071,0,1.0300,0,6,1665,-0.2507,-0.2579,0.0072
 2026-10-27,0.84,0.90,0.73,0.78,0.95,1.08,1.83,1.24,1.30,1.1598,0,0.9940,0,15,1665,-0.2522,-0.2567,0.0046
 2026-10-28,0.80,0.87,0.77,0.86,0.94,1.05,1.83,1.24,1.30,1.1573,0,0.9412,0,14,1665,-0.2443,-0.2543,0.0100
-2026-10-29,0.74,0.85,0.70,0.85,0.92,1.02,1.84,1.24,1.29,1.1264,0,0.9050,0,5,1664,-0.2359,-0.2506,0.0147
+2026-10-29,0.74,0.85,0.70,0.81,0.91,1.01,1.83,1.24,1.29,1.1266,0,0.9050,0,5,1664,-0.2395,-0.2513,0.0118
+2026-10-30,0.75,0.78,0.72,0.76,0.89,0.98,1.80,1.23,1.29,1.0900,0,0.8690,0,5,1565,-0.2366,-0.2484,0.0118
+2026-11-02,0.82,0.82,0.77,0.79,0.87,0.96,1.77,1.23,1.28,1.0900,0,0.8510,0,6,1560,-0.2295,-0.2446,0.0151

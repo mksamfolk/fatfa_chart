@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.02,115564,237946,1.0\n1,2026-06-30,HRT Financial LP,0.0199,115232,237262,1.0\n2,2026-06-30,"Susquehanna International Group, LLP",0.0050999997,29444,60625,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.0034,19940,41056,1.0\n4,2026-06-30,UBS Group AG,0.003,17156,35324,48.4409\n5,2026-06-30,"Two Sigma Investments, LP",0.003,17362,35748,1.0\n6,2026-06-30,Xtx Topco Ltd,0.003,17245,35507,1.0\n7,2026-06-30,Squarepoint Ops LLC,0.0023,13309,27403,1.0\n8,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,108,222,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.02,115564,268108,1.0\n1,2026-06-30,HRT Financial LP,0.0199,115232,267338,1.0\n2,2026-06-30,"Susquehanna International Group, LLP",0.0050999997,29444,68310,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.0034,19940,46260,1.0\n4,2026-06-30,UBS Group AG,0.003,17156,39801,48.4409\n5,2026-06-30,"Two Sigma Investments, LP",0.003,17362,40279,1.0\n6,2026-06-30,Xtx Topco Ltd,0.003,17245,40008,1.0\n7,2026-06-30,Squarepoint Ops LLC,0.0023,13309,30876,1.0\n8,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,98,227,-0.0926\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,99,203,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,99,229,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-07 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-19.59,SPPL,Simpple Ltd.,Industrials,Specialty Industrial Machinery,Singapore,20149756,2.059,26780,68757,141570.663,0.026,,,0.49597,-0.8878,-0.70839995,-1.42379,-0.26247,3158714,3932888,114.568,0.909,0.559,-1807519,-3741815,9786184,9493675,0.03059,0.03529,2518,0.12,0.00029999999,,,3.4105992,4.4347687,3.542,-5.705,,,,,none,,,,,,,4.217,https://www.simpple.ai,2026-10-29T13:43:00.795627+00:00
+25.18,SPPL,Simpple Ltd.,Industrials,Specialty Industrial Machinery,Singapore,22703948,2.32,27050,68387,158657.84,0.026,,,0.49597,-0.8878,-0.70839995,-1.42379,-0.26247,3158714,3932888,114.568,0.909,0.559,-1807519,-3741815,9786184,9493675,0.03059,0.03529,2518,0.12,0.00029999999,,,3.8429284,4.996922,3.974,-6.401,,,,,none,,,,,,,4.217,https://www.simpple.ai,2026-10-31T20:09:40.358220+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-13,39.20,45.60,38.64,39.20,,,,,,,0,45.6000,0,11428,,,,
 2023-09-14,36.00,38.40,33.60,37.52,,,,,,,0,45.6000,0,1932,,,,
@@ -799,4 +799,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.88,2.05,1.88,1.96,1.89,1.90,2.24,2.63,2.82,2.2131,0,2.4933,0,41,171,-0.0727,-0.1185,0.0458
 2026-10-27,1.87,2.04,1.85,1.91,1.89,1.90,2.22,2.63,2.81,2.2131,0,2.4764,0,54,172,-0.0688,-0.1086,0.0398
 2026-10-28,1.90,2.10,1.90,2.06,1.92,1.91,2.20,2.62,2.80,2.2131,0,2.4599,0,61,173,-0.0531,-0.0975,0.0444
-2026-10-29,1.98,2.08,1.97,2.08,1.96,1.93,2.17,2.62,2.78,2.2131,0,2.4437,0,20,171,-0.0385,-0.0857,0.0472
+2026-10-29,1.98,2.15,1.97,2.15,1.97,1.93,2.17,2.62,2.78,2.2131,0,2.4437,0,55,171,-0.0329,-0.0846,0.0517
+2026-10-30,2.08,2.32,2.01,2.32,2.01,1.95,2.15,2.62,2.77,1.5539,1,2.4278,0,25,172,-0.0031,-0.0683,0.0651
+2026-11-02,2.30,2.50,2.24,2.30,2.06,1.97,2.13,2.62,2.76,1.7420,1,1.6500,1,73,169,0.0187,-0.0509,0.0696

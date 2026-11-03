@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RTSN,Retension Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,109060632,13.09,120480,170192,2227813.28,,,,0.0,0.0,0.0,,,13493037,0,,5.609,4.692,-11891754,,8331599,538677,0.25697002,0.23287001,62034,0.24,,,,,-0.7083334,,,,,,,none,,,,,,,,https://www.retensionpharmaceuticals.com,2026-10-29T13:14:04.438177+00:00
+0.00,RTSN,Retension Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,94646960,11.36,96870,155406,1765412.16,,,,0.0,0.0,0.0,,,13493037,0,,5.609,4.692,-11891754,,8331599,535948,0.25697002,0.23287001,62034,0.24,,,,,-0.6147186,,,,,,,none,,,,,,,,https://www.retensionpharmaceuticals.com,2026-10-31T19:46:08.336343+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-09,10.00,11.60,9.66,10.53,,,,,,,0,9.6600,1,8310,,,,
 2026-10-12,10.88,11.79,10.16,11.32,,,,,,,0,9.6600,1,1969,,,,
@@ -43,4 +43,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,15.13,15.82,14.24,14.24,14.21,,,,,21.5010,0,13.8062,1,672,,,,
 2026-10-27,14.40,14.60,12.70,13.52,14.39,,,,,20.0439,0,18.6400,0,1018,,,,
 2026-10-28,13.44,13.90,12.19,13.09,14.54,,,,,19.3125,0,18.5212,0,881,,,,
-2026-10-29,12.95,12.97,11.30,11.60,14.48,,,,,18.3127,0,18.2680,0,314,,,,
+2026-10-29,12.95,12.97,11.30,11.83,14.50,,,,,18.3127,0,18.2680,0,534,,,,
+2026-10-30,11.76,11.76,10.85,11.36,14.23,,,,,17.1590,0,17.8499,0,667,,,,
+2026-11-02,11.44,13.03,11.20,11.30,13.73,,,,,17.1590,0,17.2899,0,805,,,,

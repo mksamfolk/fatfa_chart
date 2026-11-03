@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Lepercq De Neuflize Asset Management LLC,0.021,203954,185598,0.244\n1,2026-06-30,"Renaissance Technologies, LLC",0.0166,161558,147017,1.8594\n2,2026-06-30,"Bridgeway Capital Management, LLC",0.0112,108900,99099,0.15359999\n3,2026-06-30,"Susquehanna International Group, LLP",0.0075,73169,66583,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0047,45649,41540,0.799\n5,2026-06-30,HRT Financial LP,0.0047,45423,41334,2.1568\n6,2026-06-30,Virtu Financial LLC,0.0034999999,34230,31149,1.0\n7,2026-06-30,Citadel Advisors Llc,0.0027,26476,24093,1.0\n8,2026-06-30,"HighTower Advisors, LLC",0.0022,21500,19565,0.0\n9,2026-09-30,"Primoris Wealth Advisors, LLC",0.0021,20000,18200,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Lepercq De Neuflize Asset Management LLC,0.021,203954,174503,0.244\n1,2026-06-30,"Renaissance Technologies, LLC",0.0166,161558,138229,1.8594\n2,2026-06-30,"Bridgeway Capital Management, LLC",0.0112,108900,93174,0.15359999\n3,2026-06-30,"Susquehanna International Group, LLP",0.0075,73169,62603,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0047,45649,39057,0.799\n5,2026-06-30,HRT Financial LP,0.0047,45423,38863,2.1568\n6,2026-06-30,Virtu Financial LLC,0.0034999999,34230,29287,1.0\n7,2026-06-30,Citadel Advisors Llc,0.0027,26476,22652,1.0\n8,2026-06-30,"HighTower Advisors, LLC",0.0022,21500,18395,0.0\n9,2026-09-30,"Primoris Wealth Advisors, LLC",0.0021,20000,17111,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Bridgeway Funds, Inc.-Ultra-Small Company Fund",0.0112,108900,99099,0.15359999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Bridgeway Funds, Inc.-Ultra-Small Company Fund",0.0112,108900,93174,0.15359999\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.57,WETH,Wetouch Technology Inc.,Technology,Electronic Components,China,12177196,0.91,90710,84971,77323.61,0.127,-0.061,-0.035,0.32099,0.22604999,0.17567,0.05978,0.04818,127516512,215718,0.145,35.991,35.724,8183548,9825276,13381534,13138659,0.01815,0.01819,6996,0.09,0.0005,1.3000001,,0.25506657,0.0766574,-2.428,-10.345,,,,,none,,,,,,,0.727,https://www.wetouchinc.com,2026-10-29T14:36:16.167891+00:00
+16.04,WETH,Wetouch Technology Inc.,Technology,Electronic Components,China,11449240,0.8556,95960,75967,64997.3652,0.127,-0.061,-0.035,0.32099,0.22604999,0.17567,0.05978,0.04818,127516512,215718,0.145,35.991,35.724,8183548,9825276,13381534,13138659,0.01815,0.01819,6996,0.09,0.0005,1.2222857,,0.23981863,0.0720748,-2.427,-10.338,,,,,none,,,,,,,0.727,https://www.wetouchinc.com,2026-10-31T21:00:43.596904+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-21,3.87,4.35,2.53,2.95,,,,,,,0,2.5271,1,1745,,,,
 2024-02-22,3.47,4.60,3.30,3.87,,,,,,,0,2.5271,1,2580,,,,
@@ -689,4 +689,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.97,0.98,0.86,0.94,0.96,1.00,1.10,1.31,1.38,1.1736,0,1.0564,0,52,85,-0.0555,-0.0544,-0.0010
 2026-10-27,0.99,0.99,0.89,0.93,0.96,0.99,1.09,1.30,1.38,1.1736,0,1.0448,0,36,84,-0.0549,-0.0545,-0.0004
 2026-10-28,0.90,0.98,0.82,0.85,0.94,0.98,1.08,1.30,1.38,1.1736,0,1.0340,0,296,89,-0.0599,-0.0556,-0.0043
-2026-10-29,0.92,0.94,0.88,0.92,0.94,0.96,1.08,1.30,1.38,1.1736,0,1.0169,0,20,87,-0.0576,-0.0560,-0.0016
+2026-10-29,0.92,0.94,0.88,0.89,0.93,0.96,1.08,1.30,1.38,1.1736,0,1.0169,0,31,87,-0.0600,-0.0565,-0.0035
+2026-10-30,0.90,0.90,0.81,0.86,0.92,0.95,1.07,1.29,1.37,1.1350,0,1.0013,0,138,87,-0.0620,-0.0576,-0.0044
+2026-11-02,0.89,0.89,0.81,0.87,0.91,0.94,1.06,1.29,1.37,1.1238,0,0.9821,0,76,73,-0.0618,-0.0584,-0.0034

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,3364,16853,1.0\n1,2026-06-30,Citadel Advisors Llc,0.001,2854,14298,1.0\n2,2026-06-30,Virtu Financial LLC,0.00029999999,926,4639,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.0001,327,1638,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,3364,17223,1.0\n1,2026-06-30,Citadel Advisors Llc,0.001,2854,14612,1.0\n2,2026-06-30,Virtu Financial LLC,0.00029999999,926,4741,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.0001,327,1674,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,5758,28847,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,5758,29480,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-23 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.97,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,15670905,5.01,63923,164943,826364.4299999999,-0.474,,,0.092709996,0.05603,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,3127925,1866402,0.12060001,0.00265,9257,0.4,0.0033000002,,,0.6142749,1.3385786,0.749,-1.812,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-10-29T12:36:52.593345+00:00
+99.97,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,16014976,5.12,75275,165627,848010.24,-0.474,,,0.092709996,0.05603,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,3127925,1866402,0.12060001,0.00265,9257,0.4,0.0033000002,,,0.62776196,1.3679684,0.762,-1.845,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-10-31T19:09:44.868892+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-18,5.39,5.40,2.55,3.30,,,,,,,0,2.5450,1,15918,,,,
 2025-07-21,2.96,3.17,2.61,2.90,,,,,,,0,2.5450,1,3052,,,,
@@ -337,4 +337,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.57,4.57,3.92,4.48,2.39,1.26,0.58,0.30,0.30,3.3334,1,0.7745,1,116,1200,1.1162,0.5875,0.5288
 2026-10-27,4.70,4.88,4.24,4.88,2.87,1.50,0.68,0.33,0.32,3.3334,1,1.1015,1,246,1204,1.2081,0.7116,0.4965
 2026-10-28,4.77,5.26,4.55,5.01,3.36,1.74,0.78,0.36,0.34,3.3334,1,1.4088,1,144,1207,1.2767,0.8246,0.4521
-2026-10-29,5.12,6.25,5.12,5.50,3.89,2.01,0.88,0.40,0.37,3.3334,1,1.6977,1,314,1213,1.3550,0.9307,0.4243
+2026-10-29,5.12,6.25,4.96,5.00,3.84,1.98,0.87,0.39,0.37,3.3334,1,1.6977,1,317,1213,1.3152,0.9227,0.3924
+2026-10-30,5.33,5.53,4.30,5.12,4.34,2.23,0.97,0.43,0.39,3.3334,1,2.0619,1,319,1219,1.3398,1.0062,0.3337
+2026-11-02,5.40,5.47,4.17,4.68,4.80,2.46,1.06,0.46,0.41,3.3334,1,2.3970,1,335,1218,1.3088,1.0667,0.2421

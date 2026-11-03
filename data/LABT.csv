@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.020299999,48167,13727,1.0\n1,2026-06-30,HRT Financial LP,0.0189,44782,12762,1.0\n2,2026-06-30,UBS Group AG,0.0017,4098,1167,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,624,177,1.0\n4,2026-06-30,Osaic Holdings Inc.,0.0001,138,39,1.0\n5,2026-09-30,"Blue Trust, Inc.",0.0,11,3,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.020299999,48167,9633,1.0\n1,2026-06-30,HRT Financial LP,0.0189,44782,8956,1.0\n2,2026-06-30,UBS Group AG,0.0017,4098,819,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,624,124,1.0\n4,2026-06-30,Osaic Holdings Inc.,0.0001,138,27,1.0\n5,2026-09-30,"Blue Trust, Inc.",0.0,11,2,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0183,43307,12342,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.00059999997,1493,425,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0183,43307,8661,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.00059999997,1493,298,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n1,-1m,0,0,0,0,0\n2,-2m,0,0,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-22 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LABT,Lakewood-Amedex Biotherapeutics Inc.,Healthcare,Biotechnology,United States,675361,0.285,6169310,2116327,603153.195,,,,0.0,0.0,0.0,-4.02835,-1.39396,4584774,101619,2.346,7.704,7.29,-3485776,-911355,2369688,847661,0.39473,0.06019,90040,0.04,0.0739,,,,0.14271407,,0.524,12.0,12.0,12.0,,none,1,0,0,1,1,,,https://lakewoodamedex.com,2026-10-29T11:29:47.567844+00:00
+0.00,LABT,Lakewood-Amedex Biotherapeutics Inc.,Healthcare,Biotechnology,United States,473937,0.2,7615990,2370762,474152.4,,,,0.0,0.0,0.0,-4.02835,-1.39396,4584774,101619,2.346,7.704,7.29,-3485776,-911355,2369688,847661,0.39473,0.06019,90040,0.04,0.0739,,,,0.10015023,,0.552,7.5,12.0,3.0,1.0,strong_buy,2,0,0,1,1,,,https://lakewoodamedex.com,2026-10-31T18:01:49.009322+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-23,80.00,98.20,57.50,86.50,,,,,,,0,57.5000,1,1190,,,,
 2026-04-24,86.50,94.00,70.10,73.50,,,,,,,0,57.5000,1,38302,,,,
@@ -144,5 +144,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.35,0.36,0.28,0.31,0.57,1.02,1.77,,,0.8314,0,0.9033,0,12422,1805,-0.4788,-0.4760,-0.0027
 2026-10-26,0.27,0.28,0.24,0.28,0.52,0.94,1.72,,,0.7413,0,0.7787,0,781,1805,-0.4757,-0.4759,0.0002
 2026-10-27,0.25,0.29,0.24,0.29,0.48,0.85,1.68,,,0.7131,0,0.6709,0,413,1798,-0.4671,-0.4742,0.0071
-2026-10-28,0.28,0.29,0.25,0.29,0.45,0.75,1.64,,,0.6853,0,0.5848,0,4645,1879,-0.4551,-0.4704,0.0153
-2026-10-29,0.24,0.24,0.22,0.23,0.41,0.66,1.61,,,0.6277,0,0.5158,0,740,1888,-0.4451,-0.4653,0.0202
+2026-10-28,0.28,0.29,0.25,0.29,0.45,0.75,1.64,,,0.6853,0,0.5848,0,7217,1930,-0.4551,-0.4704,0.0153
+2026-10-29,0.24,0.24,0.22,0.24,0.41,0.66,1.61,,,0.6248,0,0.5158,0,991,1944,-0.4444,-0.4652,0.0207
+2026-10-30,0.20,0.22,0.20,0.20,0.37,0.56,1.57,,,0.5773,0,0.4566,0,336,1947,-0.4342,-0.4590,0.0248
+2026-11-02,0.19,0.19,0.17,0.19,0.33,0.52,1.54,,,0.5218,0,0.4053,0,204,1940,-0.4225,-0.4517,0.0292

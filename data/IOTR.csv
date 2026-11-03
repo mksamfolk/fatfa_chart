@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.028399998,86013,184927,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0038,11451,24619,1.0\n2,2026-06-30,UBS Group AG,0.0008,2363,5080,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.028399998,86013,181057,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0038,11451,24104,1.0\n2,2026-06-30,UBS Group AG,0.0008,2363,4974,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-10 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.89,IOTR,iOThree Limited,Communication Services,Telecom Services,Singapore,10457330,2.15,6180,29578,63592.7,0.41,,,0.21424,-0.124680005,-0.07895,-0.37392,-0.0935,3133451,1578608,35.35,1.802,1.408,-2237782,-559722,3032199,644074,0.78759,0.03292,22661,2.26,0.0077,,,0.7109362,1.987061,0.605,-13.898,,,,,none,,,,,,,,https://io3.sg,2026-10-29T11:10:59.896384+00:00
+17.05,IOTR,iOThree Limited,Communication Services,Telecom Services,Singapore,10238455,2.105,2500,29687,62491.135,0.41,,,0.21424,-0.124680005,-0.07895,-0.37392,-0.0935,3133451,1578608,35.35,1.802,1.408,-2237782,-559722,3032199,644074,0.78759,0.03292,22661,2.26,0.0077,,,0.69605607,1.9454713,0.625,-14.354,,,,,none,,,,,,,,https://io3.sg,2026-10-31T17:43:18.602396+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-10,36.00,40.00,30.20,35.50,,,,,,,0,30.2000,1,10877,,,,
 2025-04-11,38.78,38.78,33.50,33.90,,,,,,,0,30.2000,1,3374,,,,
@@ -404,4 +404,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.13,2.27,2.07,2.26,2.15,2.13,2.49,2.59,2.67,1.8245,1,1.9608,1,10,98,-0.0987,-0.1338,0.0351
 2026-10-27,2.08,2.10,2.08,2.10,2.16,2.11,2.47,2.59,2.67,1.8245,1,1.9754,1,2,97,-0.0946,-0.1260,0.0314
 2026-10-28,2.06,2.15,2.06,2.15,2.16,2.10,2.45,2.59,2.67,1.8245,1,1.9897,1,2,88,-0.0863,-0.1180,0.0318
-2026-10-29,2.11,2.11,2.11,2.11,2.11,2.09,2.43,2.59,2.66,1.8245,1,2.0037,1,7,88,-0.0824,-0.1109,0.0285
+2026-10-29,2.05,2.21,2.05,2.21,2.12,2.09,2.43,2.59,2.66,1.8245,1,2.0037,1,9,88,-0.0740,-0.1092,0.0352
+2026-10-30,2.21,2.21,2.21,2.21,2.12,2.09,2.42,2.59,2.66,1.8245,1,2.0174,1,,87,-0.0635,-0.1001,0.0365
+2026-11-02,2.14,2.14,2.07,2.07,2.12,2.10,2.40,2.59,2.66,1.8245,1,2.0308,1,2,87,-0.0656,-0.0932,0.0276

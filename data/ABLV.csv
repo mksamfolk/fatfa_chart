@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0025,60955,144463,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.0004,10224,24230,0.0\n2,2026-06-30,UBS Group AG,0.0001,2222,5266,0.2889\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0025,60955,171283,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.0004,10224,28729,0.0\n2,2026-06-30,UBS Group AG,0.0001,2222,6243,0.2889\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10224,24230,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10224,28729,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.54,ABLV,Able View Global Inc.,Consumer Cyclical,Specialty Retail,China,130873344,2.37,178520,139032,329505.84,0.28,-0.718,-0.718,0.113079995,0.027509999,-0.013830001,-0.18179001,-0.00583,4071690,12781993,153.174,1.607,1.162,-7550817,-4034198,30349393,17769506,0.21766001,0.00242,75584,0.26,0.0138,,,1.1065884,14.023668,1.063,-456.46,,,,,none,,,,,,,1.487,https://en.ableview.com,2026-10-29T08:09:18.629110+00:00
+98.46,ABLV,Able View Global Inc.,Consumer Cyclical,Specialty Retail,China,155170512,2.81,168520,144310,405511.10000000003,0.28,-0.718,-0.718,0.113079995,0.027509999,-0.013830001,-0.18179001,-0.00583,4071690,12781993,153.174,1.607,1.162,-7550817,-4034198,30349393,17769506,0.21766001,0.00242,75584,0.26,0.0138,,,1.312031,16.627218,1.247,-535.335,,,,,none,,,,,,,1.487,https://en.ableview.com,2026-10-31T13:48:35.831763+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-12,9.94,9.95,9.94,9.94,,,,,,,0,9.9500,0,3578,,,,
 2022-09-13,9.94,9.94,9.94,9.94,,,,,,,0,9.9500,0,299,,,,
@@ -1051,4 +1051,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.14,2.22,1.94,2.02,1.98,1.87,1.27,1.01,0.94,2.7509,0,2.5312,0,325,154,0.2322,0.2469,-0.0146
 2026-10-27,2.09,2.55,1.98,2.48,2.05,1.95,1.30,1.02,0.95,2.7509,0,1.0400,1,602,166,0.2560,0.2487,0.0073
 2026-10-28,2.35,2.50,2.19,2.37,2.09,2.02,1.33,1.03,0.96,2.7509,0,1.0702,1,365,172,0.2629,0.2515,0.0114
-2026-10-29,2.35,2.59,2.35,2.57,2.14,2.10,1.37,1.04,0.97,2.7509,0,1.0998,1,85,173,0.2812,0.2575,0.0237
+2026-10-29,2.35,2.62,2.35,2.55,2.14,2.10,1.37,1.04,0.97,2.7509,0,1.0998,1,225,176,0.2797,0.2572,0.0225
+2026-10-30,2.55,2.96,2.49,2.81,2.23,2.19,1.41,1.06,0.98,1.6218,1,1.1606,1,572,187,0.3104,0.2678,0.0426
+2026-11-02,2.64,2.87,2.24,2.58,2.32,2.19,1.44,1.07,0.98,1.6218,1,1.2687,1,290,192,0.3125,0.2767,0.0358

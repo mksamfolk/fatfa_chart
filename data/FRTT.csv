@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,Adler (Oz),Director of Issuer,,Exercise of rights,2026-09-15,5357,2026-09-15\n1,David (Ohad),Director of Issuer,,Exercise of rights,2026-09-15,5357,2026-09-15\n2,Itzhaik (Asaf),Director of Issuer,,Exercise of rights,2026-09-15,56075,2026-09-15\n3,Kabazo (Gabi),Senior Officer of Issuer,,Exercise of rights,2026-09-15,35314,2026-09-15\n4,Nexera Technologies Ltd,10% Security Holder of Issuer,,Conversion or exchange,2026-06-05,8987404,2026-06-05\n5,Sidi (Liat),Director of Issuer,,Exercise of rights,2026-09-15,5357,2026-09-15\n6,Zalayet (Ronen),Senior Officer of Issuer,,Exercise of rights,2026-09-15,21428,2026-09-15\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0171,259390,144609,1.0\n1,2026-06-30,Virtu Financial LLC,0.0049,73975,41241,1.0\n2,2026-06-30,UBS Group AG,0.0017,25037,13958,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.00090000004,13396,7468,1.0\n4,2026-06-30,Royal Bank of Canada,0.0,177,98,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0171,259390,129720,1.0\n1,2026-06-30,Virtu Financial LLC,0.0049,73975,36994,1.0\n2,2026-06-30,UBS Group AG,0.0017,25037,12521,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.00090000004,13396,6699,1.0\n4,2026-06-30,Royal Bank of Canada,0.0,177,88,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FRTT,Fort Technology Inc.,Consumer Cyclical,Internet Retail,Canada,8386239,0.5575,21620400,4995020,2784723.65,0.602,,,0.14286,-0.24410999,-0.53287,-2.49574,-0.36856997,781000,910000,18.052,2.407,0.632,-1491000,-3324878,15042582,4243231,0.69932,0.024519999,5787,0.09,,,,0.63154143,1.6494083,0.636,-3.402,,,,,none,,,,,,2026-11-11,1.338,,2026-10-29T10:26:18.352006+00:00
+0.00,FRTT,Fort Technology Inc.,Consumer Cyclical,Internet Retail,Canada,7522795,0.5001,21573090,5072840,2536927.284,0.602,,,0.14286,-0.24410999,-0.53287,-2.49574,-0.36856997,781000,910000,18.052,2.407,0.632,-1491000,-3324878,15042582,4243231,0.69932,0.024519999,5787,0.09,,,,0.5665182,1.4795859,0.571,-3.057,,,,,none,,,,,,2026-11-11,1.338,,2026-10-31T16:11:17.908758+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-08,3.88,4.09,2.66,3.40,,,,,,,0,4.0900,0,393,,,,
 2026-06-09,3.18,3.18,2.04,2.64,,,,,,,0,4.0900,0,256,,,,
@@ -114,4 +114,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.65,0.70,0.62,0.68,0.66,0.75,0.90,,,0.4512,1,0.5318,1,114,5741,-0.0800,-0.0902,0.0102
 2026-10-27,0.68,0.68,0.63,0.65,0.65,0.74,0.90,,,0.4512,1,0.5394,1,96,5737,-0.0783,-0.0878,0.0095
 2026-10-28,0.63,0.64,0.55,0.56,0.64,0.72,0.89,,,0.4512,1,0.5468,1,52,5736,-0.0833,-0.0869,0.0036
-2026-10-29,0.53,0.58,0.52,0.55,0.64,0.70,0.88,,,0.4512,1,0.9100,0,22,5735,-0.0873,-0.0870,-0.0003
+2026-10-29,0.53,0.58,0.52,0.54,0.64,0.70,0.88,,,0.4512,1,0.9100,0,55,5736,-0.0878,-0.0871,-0.0007
+2026-10-30,0.55,0.55,0.50,0.50,0.63,0.67,0.87,,,0.4512,1,0.9022,0,31,5735,-0.0936,-0.0884,-0.0052
+2026-11-02,0.52,0.52,0.47,0.50,0.63,0.66,0.87,,,0.4512,1,0.8861,0,67,5735,-0.0969,-0.0901,-0.0068

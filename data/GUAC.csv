@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0008,30000,296099,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0008,30000,296999,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0014,53561,528647,1.0\n1,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,23457,231520,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0014,53561,530253,1.0\n1,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,23457,232224,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GUAC,Berto Acquisition Corp. II,Financial Services,Shell Companies,United States,388754624,9.87,261960,81918,808530.6599999999,,,,0.0,0.0,0.0,,,1051497,48519,0.016,2.353,0.088,-17566,,39387500,31829827,0.19188,0.097959995,91,0.0,0.0,,,,1.2707609,,,,,,,none,,,,,,,,,2026-10-29T10:45:33.989833+00:00
+0.00,GUAC,Berto Acquisition Corp. II,Financial Services,Shell Companies,United States,389936224,9.9,237370,80209,794069.1,,,,0.0,0.0,0.0,,,1051497,48519,0.016,2.353,0.088,-17566,,39387500,31829827,0.19188,0.097959995,91,0.0,0.0,,,,1.2746233,,,,,,,none,,,,,,,,,2026-10-31T16:33:33.622797+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-06,10.05,10.05,10.04,10.05,,,,,,,0,10.0500,0,64,,,,
 2026-07-07,9.97,10.00,9.95,9.98,,,,,,,0,10.0500,0,245,,,,
@@ -97,3 +97,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,9.89,9.90,9.88,9.90,9.89,9.90,9.93,,,9.9136,0,9.9484,0,20,968,-0.0123,-0.0129,0.0007
 2026-10-28,9.90,9.90,9.87,9.87,9.89,9.90,9.93,,,9.9136,0,9.9468,0,30,919,-0.0135,-0.0130,-0.0004
 2026-10-29,9.90,9.90,9.90,9.90,9.89,9.90,9.93,,,9.9136,0,9.9453,0,73,907,-0.0118,-0.0128,0.0010
+2026-10-30,9.90,9.90,9.90,9.90,9.89,9.90,9.93,,,9.9136,0,9.9438,0,,881,-0.0105,-0.0123,0.0019
+2026-11-02,9.87,9.87,9.87,9.87,9.89,9.90,9.92,,,9.9136,0,9.9423,0,15,881,-0.0116,-0.0122,0.0006

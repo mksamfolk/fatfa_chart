@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CAQ,Cambridge Acquisition Corp.,Financial Services,Shell Companies,United States,313179808,10.05,55250,30058,302082.9,,,,0.0,0.0,0.0,,,866504,0,,0.054,,0,,23495500,19500038,0.0,0.76139,285,0.04,0.0,,,,-42.765957,,,,,,,none,,,,,,,,https://cambridgeacquisitioncorp.com,2026-10-29T09:11:29.404502+00:00
+0.00,CAQ,Cambridge Acquisition Corp.,Financial Services,Shell Companies,United States,313179808,10.05,270,30140,302907.0,,,,0.0,0.0,0.0,,,866504,0,,0.054,,0,,23495500,19500038,0.0,0.76139,285,0.04,0.0,,,,-42.765957,,,,,,,none,,,,,,,,https://cambridgeacquisitioncorp.com,2026-10-31T14:52:28.027461+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-30,10.10,10.10,9.94,9.95,,,,,,,0,10.1000,0,318,,,,
 2026-03-31,9.88,9.89,9.80,9.87,,,,,,,0,10.1000,0,217,,,,
@@ -162,3 +162,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.05,10.05,10.05,10.05,10.04,10.03,9.99,,,10.0231,1,10.0039,1,5,375,0.0149,0.0133,0.0016
 2026-10-27,10.05,10.05,10.05,10.05,10.04,10.03,10.00,,,10.0258,1,10.0048,1,5,369,0.0150,0.0137,0.0013
 2026-10-28,10.05,10.05,10.05,10.05,10.04,10.03,10.00,,,10.0282,1,10.0057,1,,363,0.0149,0.0139,0.0010
+2026-10-29,10.03,10.03,10.03,10.03,10.04,10.03,10.00,,,10.0282,1,10.0066,1,2,363,0.0131,0.0138,-0.0007
+2026-10-30,10.03,10.03,10.03,10.03,10.04,10.03,10.00,,,10.0282,1,10.0075,1,,363,0.0115,0.0133,-0.0018

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MEVO,M Evo Global Acquisition Corp II,Financial Services,Shell Companies,United States,400400000,10.01,132920,98352,984503.52,,,,0.0,0.0,0.0,,,947796,0,,0.113,,0,,30000000,27370000,0.01675,0.8891,2947,0.07,0.0001,,,,-36.4,,,,,,,none,,,,,,,,,2026-10-29T11:51:10.264984+00:00
+0.00,MEVO,M Evo Global Acquisition Corp II,Financial Services,Shell Companies,United States,400400000,10.01,132360,99889,999888.89,,,,0.0,0.0,0.0,,,947796,0,,0.113,,0,,30000000,27370000,0.01675,0.8891,2947,0.07,0.0001,,,,-36.4,,,,,,,none,,,,,,,,,2026-10-31T18:24:02.264939+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-19,9.88,9.95,9.86,9.86,,,,,,,0,9.9500,0,1313,,,,
 2026-02-20,9.87,9.87,9.86,9.86,,,,,,,0,9.9500,0,84,,,,
@@ -189,3 +189,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.02,10.02,10.02,10.02,10.02,10.02,10.00,9.93,,10.0903,0,10.8101,0,2,1069,0.0050,0.0085,-0.0035
 2026-10-27,10.02,10.02,10.02,10.02,10.02,10.02,10.00,9.93,,10.0877,0,10.7777,0,,1065,0.0047,0.0077,-0.0030
 2026-10-28,10.01,10.01,10.01,10.01,10.02,10.02,10.00,9.93,,10.0740,0,10.7466,0,452,1074,0.0037,0.0069,-0.0033
+2026-10-29,10.01,10.01,10.01,10.01,10.01,10.02,10.00,9.93,,10.0676,0,10.7167,0,,1074,0.0028,0.0061,-0.0033
+2026-10-30,10.01,10.01,10.01,10.01,10.01,10.02,10.00,9.94,,10.0618,0,10.6880,0,,1074,0.0021,0.0053,-0.0032
+2026-11-02,10.01,10.03,10.01,10.03,10.02,10.02,10.00,9.94,,10.0618,0,10.6605,0,323,1080,0.0031,0.0049,-0.0017

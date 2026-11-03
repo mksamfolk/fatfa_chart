@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.87,SGU,Star Group L.P.,Energy,Oil & Gas Refining & Marketing,United States,428842592,13.07,31160,22310,291591.7,0.172,,,0.31789,-0.1004,0.04527,0.24067,0.08316,27003000,269878016,69.405,0.868,0.557,71610000,39194376,32811216,24579210,0.15198,0.42211,49294,2.42,0.0019,5.757709,14.852272,0.22432126,1.0842874,0.348,4.005,,,,,none,,,,,,2026-08-05,0.296,https://www.stargrouplp.com,2026-10-29T13:25:42.592752+00:00
+64.83,SGU,Star Group L.P.,Energy,Oil & Gas Refining & Marketing,United States,428842592,13.07,31160,22310,291591.7,0.172,,,0.31789,-0.1004,0.04527,0.24067,0.08316,27003000,269878016,69.405,0.868,0.557,71610000,39194376,32811216,24579210,0.15198,0.42211,49294,2.42,0.0019,5.757709,14.852272,0.22432126,1.0842874,0.348,4.005,,,,,none,,,,,,2026-08-05,0.296,https://www.stargrouplp.com,2026-10-29T13:25:42.592752+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-15,7.92,8.06,7.91,8.05,,,,,,,0,7.9067,1,613,,,,
 2021-10-18,8.06,8.09,7.93,7.94,,,,,,,0,7.9067,1,460,,,,
@@ -1278,4 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,12.96,13.05,12.86,13.00,12.97,12.95,12.78,12.57,12.43,12.5563,1,13.1709,0,360,298,0.0459,0.0647,-0.0188
 2026-10-27,12.93,12.95,12.80,12.89,12.95,12.96,12.78,12.57,12.44,12.5563,1,13.1616,0,621,301,0.0380,0.0594,-0.0214
 2026-10-28,12.90,13.12,12.90,13.07,12.97,12.96,12.79,12.57,12.45,12.5563,1,13.1525,0,251,300,0.0456,0.0566,-0.0110
-2026-10-29,13.08,13.08,13.01,13.06,12.97,12.98,12.80,12.57,12.46,12.5563,1,13.1436,0,59,294,0.0499,0.0553,-0.0053
+2026-10-29,13.08,13.08,12.82,12.92,12.96,12.97,12.80,12.57,12.46,12.5563,1,13.1436,0,185,296,0.0392,0.0531,-0.0140

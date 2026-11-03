@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.0074,544,788,1.0\n1,2026-06-30,HRT Financial LP,0.0034,253,366,1.0\n2,2026-06-30,Virtu Financial LLC,0.0023,171,247,1.0\n3,2026-06-30,Stonex Group Inc.,0.0015,108,156,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Marex Group Ltd.,0.0074,544,734,1.0\n1,2026-06-30,HRT Financial LP,0.0034,253,341,1.0\n2,2026-06-30,Virtu Financial LLC,0.0023,171,230,1.0\n3,2026-06-30,Stonex Group Inc.,0.0015,108,145,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,43,62,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,43,58,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-10 09:30:00-05:00,0.01\n2026-09-01 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.05,FGL,Founder Group Limited,Industrials,Engineering & Construction,Malaysia,109559,1.45,1063700,327823,475343.35,0.089,,,0.11581001,-0.025209999,-0.06432,-0.32771,-0.00874,80243160,128219904,423.778,1.155,1.015,-41034816,-45684188,73693,32046,0.01396,0.02023,10661,0.11,0.1452,,,0.00090771477,0.0083963955,0.398,293.725,,,,,none,,,,,,,1.06,https://www.founderenergy.com.my,2026-10-29T10:18:35.487706+00:00
+0.07,FGL,Founder Group Limited,Industrials,Engineering & Construction,Malaysia,102003,1.35,1066320,334700,451845.00000000006,0.089,,,0.11581001,-0.025209999,-0.06432,-0.32771,-0.00874,80243160,128219904,423.778,1.155,1.015,-41034816,-45684188,73693,32046,0.01396,0.02023,10661,0.11,0.1452,,,0.000845112,0.007817334,0.398,293.698,,,,,none,,,,,,,1.06,https://www.founderenergy.com.my,2026-10-31T16:02:55.956632+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,50000.00,50400.00,30300.00,31600.00,,,,,,,0,50400.0000,0,1706,,,,
 2024-10-24,29600.00,35000.00,26300.00,33300.00,,,,,,,0,50400.0000,0,666,,,,
@@ -519,4 +519,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.79,1.79,1.60,1.79,3.04,4.10,33.44,175.25,503.34,6.5733,0,3.0972,0,3565,2507,-8.4594,-10.8247,2.3653
 2026-10-27,1.55,1.81,1.44,1.55,2.79,3.80,31.39,169.33,489.85,6.1287,0,2.7968,0,243,2510,-8.0038,-10.2606,2.2567
 2026-10-28,1.45,1.57,1.40,1.45,2.49,3.53,29.40,163.87,476.75,5.5893,0,2.5254,0,120,2507,-7.5636,-9.7212,2.1576
-2026-10-29,1.40,1.47,1.40,1.40,2.19,3.35,27.55,158.51,467.91,5.1499,0,2.3003,0,51,2506,-7.1365,-9.2042,2.0677
+2026-10-29,1.41,1.55,1.40,1.48,2.19,3.35,27.55,158.51,467.91,5.2139,0,2.3003,0,100,2507,-7.1301,-9.2030,2.0728
+2026-10-30,1.45,1.46,1.28,1.35,2.02,3.15,25.68,153.58,458.62,4.7950,0,2.1203,0,76,2508,-6.7196,-8.7063,1.9867
+2026-11-02,1.35,1.46,1.30,1.36,1.92,3.01,23.73,148.88,449.72,4.5105,0,1.9522,0,69,2488,-6.3206,-8.2292,1.9085

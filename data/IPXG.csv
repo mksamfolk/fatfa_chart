@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0789,1866976,18893796,2.3945\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18215999,0.0\n2,2026-06-30,Linden Advisors LP,0.0655,1550000,15685999,0.55\n3,2026-06-30,"Aristeia Capital, LLC",0.0542,1283186,12985842,0.0845\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.052699998,1246332,12612879,0.7882\n5,2026-06-30,Magnetar Financial LLC,0.0368,871785,8822464,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.0307,725510,7342161,0.023599999\n7,2026-06-30,"Cantor Fitzgerald, L.P.",0.0216,511346,5174821,1.0\n8,2026-06-30,Alberta Investment Management Corp,0.0211,500000,5059999,1.0\n9,2026-06-30,"Verition Fund Management, LLC",0.0211,500000,5059999,-0.2857\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0789,1866976,19061825,2.3945\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18378000,0.0\n2,2026-06-30,Linden Advisors LP,0.0655,1550000,15825500,0.55\n3,2026-06-30,"Aristeia Capital, LLC",0.0542,1283186,13101329,0.0845\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.052699998,1246332,12725049,0.7882\n5,2026-06-30,Magnetar Financial LLC,0.0368,871785,8900924,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.0307,725510,7407457,0.023599999\n7,2026-06-30,"Cantor Fitzgerald, L.P.",0.0216,511346,5220842,1.0\n8,2026-06-30,Alberta Investment Management Corp,0.0211,500000,5105000,1.0\n9,2026-06-30,"Verition Fund Management, LLC",0.0211,500000,5105000,-0.2857\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0179,424174,4292640,-0.1758\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0029,67728,685407,-0.1758\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0028,66643,674427,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,16481,166787,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0179,424174,4330816,-0.1758\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0029,67728,691502,-0.1758\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0028,66643,680425,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,16481,168271,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IPXG,Inflection Point Acquisition Corp. VII,Financial Services,Shell Companies,United States,317076480,10.12,125310,92401,935098.1199999999,,,,0.0,0.0,0.0,,,1087184,0,,0.786,0.677,,,23665000,19732997,0.0112,0.89343,50294,0.41,0.0021,,,,-1264.9999,,,,,,,none,,,,,,,,,2026-10-29T11:12:12.248519+00:00
+0.00,IPXG,Inflection Point Acquisition Corp. VII,Financial Services,Shell Companies,United States,319896320,10.21,115660,104571,1067669.9100000001,,,,0.0,0.0,0.0,,,1087184,0,,0.786,0.677,,,23665000,19732997,0.0112,0.89343,50294,0.41,0.0021,,,,-1276.25,,,,,,,none,,,,,,,,,2026-10-31T17:44:33.440505+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-27,9.84,9.84,9.81,9.81,,,,,,,0,9.8100,1,52,,,,
 2026-03-02,9.84,9.85,9.83,9.83,,,,,,,0,9.8100,1,81,,,,
@@ -198,4 +198,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.09,10.12,10.08,10.12,10.10,10.08,10.06,9.99,,10.1393,0,10.0514,1,299,1050,0.0143,0.0112,0.0031
 2026-10-27,10.10,10.12,10.08,10.12,10.10,10.08,10.06,9.99,,10.1393,0,10.0528,1,539,1015,0.0155,0.0120,0.0034
 2026-10-28,10.08,10.13,10.08,10.12,10.10,10.09,10.06,10.00,,10.1393,0,10.0541,1,418,1019,0.0162,0.0129,0.0033
-2026-10-29,10.15,10.22,10.15,10.20,10.11,10.09,10.07,10.00,,10.0764,1,10.0572,1,4558,1031,0.0229,0.0149,0.0081
+2026-10-29,10.15,10.22,10.15,10.21,10.11,10.09,10.07,10.00,,10.0764,1,10.0572,1,8744,1114,0.0237,0.0150,0.0087
+2026-10-30,10.21,10.21,10.20,10.21,10.12,10.10,10.07,10.00,,10.1043,1,10.0669,1,1014,1133,0.0294,0.0179,0.0115
+2026-11-02,10.20,10.21,10.20,10.20,10.14,10.11,10.07,10.00,,10.1114,1,10.0761,1,1440,1041,0.0327,0.0209,0.0118

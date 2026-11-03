@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0016,30000,300300,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0016,30000,300450,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2851448,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1649798,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1386034,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,268868,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165034,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2852872,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1650622,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1386727,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,269002,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165117,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,284906080,10.01,18550,140661,1408016.6099999999,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.04881,0.0013400001,5035,0.13,0.00029999999,,,,1001.00006,,,,,,,none,,,,,,,,,2026-10-29T08:39:49.292385+00:00
+0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,285048384,10.015,20550,136446,1366506.6900000002,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.04881,0.0013400001,5035,0.13,0.00029999999,,,,1001.50006,,,,,,,none,,,,,,,,,2026-10-31T14:19:50.290787+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-05,9.89,9.91,9.89,9.91,,,,,,,0,9.8900,1,16961,,,,
 2026-08-06,9.90,9.91,9.90,9.90,,,,,,,0,9.8900,1,3182,,,,
@@ -86,3 +86,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.01,10.01,10.01,10.01,10.00,9.99,9.97,,,9.9920,1,9.9828,1,,999,0.0129,0.0121,0.0009
 2026-10-27,10.01,10.01,10.01,10.01,10.01,9.99,9.97,,,9.9938,1,9.9844,1,,975,0.0128,0.0122,0.0005
 2026-10-28,10.01,10.01,10.01,10.01,10.01,9.99,9.97,,,9.9955,1,9.9860,1,,974,0.0125,0.0123,0.0002
+2026-10-29,10.01,10.01,10.01,10.01,10.01,9.99,9.98,,,9.9969,1,9.9874,1,,957,0.0121,0.0122,-0.0001
+2026-10-30,10.00,10.02,10.00,10.02,10.01,10.00,9.98,,,9.9969,1,9.9888,1,200,781,0.0125,0.0123,0.0002

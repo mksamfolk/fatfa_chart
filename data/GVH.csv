@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date,positionSummary,positionSummaryDate,Shares Owned Indirectly,Position Indirect Date\n0,FUNG KAI MAN,Director and Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-07-29,61858.0,2026-07-29,,,,\n1,YAU WAI YIU,Chief Executive Officer,,Sale,2026-04-29,,,0.0,1777420800.0,,\n2,YU TSZ NGO,Chief Financial Officer,,Purchase,2026-04-29,,,,,57324.0,1777420800.0\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0046,19770,17990,-0.2726\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n2,2026-06-30,UBS Group AG,0.0,152,138,-0.96\n3,2026-06-30,Osaic Holdings Inc.,0.0,40,36,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0046,19770,18192,-0.2726\n1,2026-06-30,UBS Group AG,0.0,152,139,-0.96\n2,2026-06-30,Osaic Holdings Inc.,0.0,40,36,0.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,5,4,4.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-21 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.52,GVH,Globavend Holdings Limited,Industrials,Integrated Freight & Logistics,Australia,3916800,0.91,27000,441404,401677.64,0.08,,,0.08009,-0.020639999,0.00819,0.025190001,-0.00966,7146898,45298,0.437,9.948,9.47,487907,2172590,4304176,2348636,0.02565,0.00829,24022,0.07,0.0057,,,0.15883896,0.21197298,-0.199,60.453,,,,,none,,,,,,,3.408,https://globavend.com,2026-10-29T10:45:54.063346+00:00
+5.31,GVH,Globavend Holdings Limited,Industrials,Integrated Freight & Logistics,Australia,3960702,0.9202,32260,259735,239008.147,0.08,,,0.08009,-0.020639999,0.00819,0.025190001,-0.00966,7146898,45298,0.437,9.948,9.47,487907,2172590,4304176,2348636,0.02565,0.00829,24022,0.07,0.0057,,,0.16061933,0.21434893,-0.198,60.149,,,,,none,,,,,,,3.408,https://globavend.com,2026-10-31T16:33:55.113123+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-08,858.00,1100.00,502.00,516.00,,,,,,,0,1100.0000,0,7014,,,,
 2023-11-09,524.00,820.00,360.00,368.00,,,,,,,0,1100.0000,0,4427,,,,
@@ -759,4 +759,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.83,0.83,0.77,0.78,0.94,0.99,1.00,2.51,2.27,0.9796,0,1.0651,0,20,425,-0.0924,-0.0884,-0.0040
 2026-10-27,0.80,0.91,0.80,0.82,0.91,0.98,1.00,2.51,2.26,0.9796,0,1.0356,0,31,420,-0.0944,-0.0896,-0.0048
 2026-10-28,0.82,0.93,0.82,0.91,0.90,0.98,0.99,2.51,2.25,0.9796,0,1.0090,0,8,416,-0.0877,-0.0892,0.0015
-2026-10-29,0.93,0.93,0.92,0.92,0.90,0.98,0.99,2.50,2.24,0.9796,0,0.9851,0,12,401,-0.0809,-0.0875,0.0066
+2026-10-29,0.93,1.09,0.92,0.99,0.90,0.98,1.00,2.51,2.24,0.7583,1,0.7700,1,55,402,-0.0752,-0.0864,0.0112
+2026-10-30,0.93,1.01,0.91,0.92,0.90,0.98,0.99,2.50,2.23,0.7583,1,0.7764,1,43,194,-0.0699,-0.0831,0.0131
+2026-11-02,0.90,0.94,0.86,0.86,0.89,0.96,0.99,2.50,2.21,0.7583,1,0.7827,1,22,172,-0.0698,-0.0804,0.0106

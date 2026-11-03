@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.086899996,1499000,15226092,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13712625,0.0\n2,2026-06-30,Fort Baker Capital Management LP,0.0446,769129,7812428,0.0\n3,2026-06-30,Glazer Capital LLC,0.0402,693518,7044409,0.126\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0377,650000,6602375,0.0\n5,2026-06-30,Linden Advisors LP,0.0377,650000,6602375,0.0\n6,2026-06-30,"Verition Fund Management, LLC",0.0376,648992,6592136,-0.059699997\n7,2026-06-30,Millennium Management Llc,0.032899998,567750,5766920,0.0\n8,2026-06-30,First Trust Capital Management L.P.,0.0315,543326,5518833,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.031400003,540906,5494252,0.0007\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.086899996,1499000,15244680,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13729364,0.0\n2,2026-06-30,Fort Baker Capital Management LP,0.0446,769129,7821964,0.0\n3,2026-06-30,Glazer Capital LLC,0.0402,693518,7053008,0.126\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0377,650000,6610434,0.0\n5,2026-06-30,Linden Advisors LP,0.0377,650000,6610434,0.0\n6,2026-06-30,"Verition Fund Management, LLC",0.0376,648992,6600183,-0.059699997\n7,2026-06-30,Millennium Management Llc,0.032899998,567750,5773960,0.0\n8,2026-06-30,First Trust Capital Management L.P.,0.0315,543326,5525571,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.031400003,540906,5500959,0.0007\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0272,469164,4765533,0.0\n1,2026-05-31,High Income Securities Fund,0.0058,100000,1015750,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0058,100000,1015750,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0042,72164,733005,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,11085,112595,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0272,469164,4771350,0.0\n1,2026-05-31,High Income Securities Fund,0.0058,100000,1016989,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0058,100000,1016989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0042,72164,733900,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,11085,112733,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DYOR,Insight Digital Partners II,Financial Services,Shell Companies,United States,233622512,10.1575,1010,36543,371185.5225,,,,0.0,0.0,0.0,,,787476,0,,11.251,10.654,-678318,,17250000,14400990,0.0,0.90072,53,0.0,0.0,,,,-38.47538,,,,,,,none,,,,,,,,https://www.insightacqcorp.com,2026-10-29T09:57:23.592282+00:00
+0.00,DYOR,Insight Digital Partners II,Financial Services,Shell Companies,United States,233907696,10.1699,170,26229,266746.3071,,,,0.0,0.0,0.0,,,787476,0,,11.251,10.654,-678318,,17250000,14400990,0.0,0.90072,53,0.0,0.0,,,,-38.52235,,,,,,,none,,,,,,,,https://www.insightacqcorp.com,2026-10-31T15:39:56.590876+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-18,9.95,9.96,9.94,9.96,,,,,,,0,9.9600,0,266,,,,
 2025-11-19,9.90,9.93,9.90,9.93,,,,,,,0,9.9600,0,279,,,,
@@ -251,4 +251,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.16,10.16,10.16,10.16,10.15,10.15,10.12,10.04,10.02,10.1475,1,10.1400,1,,375,0.0099,0.0115,-0.0015
 2026-10-27,10.16,10.16,10.16,10.16,10.15,10.15,10.12,10.05,10.02,10.1487,1,10.1404,1,,375,0.0100,0.0112,-0.0011
 2026-10-28,10.16,10.16,10.16,10.16,10.15,10.15,10.12,10.05,10.02,10.1487,1,10.1408,1,11,345,0.0099,0.0109,-0.0011
-2026-10-29,10.17,10.17,10.17,10.17,10.15,10.15,10.12,10.05,10.02,10.1567,1,10.1412,1,2,275,0.0105,0.0108,-0.0003
+2026-10-29,10.17,10.17,10.17,10.17,10.15,10.15,10.12,10.05,10.02,10.1567,1,10.1412,1,2,275,0.0106,0.0108,-0.0003
+2026-10-30,10.17,10.17,10.17,10.17,10.15,10.15,10.13,10.05,10.02,10.1581,1,10.1423,1,,214,0.0110,0.0109,0.0001

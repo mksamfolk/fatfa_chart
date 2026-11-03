@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,McNaughton (Kenneth C.),Director of Issuer,,Acquisition or disposition in the public market,2025-03-28,500001,2025-03-28\n1,Ovsenek (Joseph J.),Director of Issuer,,Acquisition or disposition in the public market,2025-03-28,500001,2025-03-28\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0047999998,65065,49124,0.8725\n1,2026-06-30,Citadel Advisors Llc,0.0026,36242,27362,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0011999999,17076,12892,-0.31620002\n3,2026-06-30,Royal Bank of Canada,0.00059999997,8000,6039,0.0\n4,2026-06-30,Allworth Financial LP,0.0004,5602,4229,0.0\n5,2026-06-30,UBS Group AG,0.0001,1805,1362,1.0\n6,2026-06-30,BNP Paribas Financial Markets,0.0001,800,603,-0.5789\n7,2026-06-30,Osaic Holdings Inc.,0.0001,750,566,0.0\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0001,800,603,0.0\n9,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,4,3,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0047999998,65065,48668,0.8725\n1,2026-06-30,Citadel Advisors Llc,0.0026,36242,27109,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0011999999,17076,12772,-0.31620002\n3,2026-06-30,Royal Bank of Canada,0.00059999997,8000,5984,0.0\n4,2026-06-30,Allworth Financial LP,0.0004,5602,4190,0.0\n5,2026-06-30,UBS Group AG,0.0001,1805,1350,1.0\n6,2026-06-30,BNP Paribas Financial Markets,0.0001,800,598,-0.5789\n7,2026-06-30,Osaic Holdings Inc.,0.0001,750,561,0.0\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0001,800,598,0.0\n9,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,4,2,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.69,AUST,Austin Gold Corp.,Basic Materials,Gold,Canada,10338216,0.755,85680,84595,63869.225,,,,0.0,0.0,0.0,-0.32979,-0.17429,1892733,0,,19.447,17.589,-1744685,-1565786,13693001,7772284,0.4689,0.010039999,95203,1.78,0.0115,,-5.8076925,,1.5696466,,-6.178,,,,,none,,,,,,,0.994,https://www.austin.gold,2026-10-29T08:41:56.216905+00:00
+13.77,AUST,Austin Gold Corp.,Basic Materials,Gold,Canada,10242365,0.748,21830,75998,56846.504,,,,0.0,0.0,0.0,-0.32979,-0.17429,1892733,0,,19.447,17.589,-1744685,-1565786,13693001,7772284,0.4689,0.010039999,95203,1.78,0.0115,,-5.7538466,,1.5550936,,-6.108,,,,,none,,,,,,,0.994,https://www.austin.gold,2026-10-31T14:22:03.378706+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-04,6.50,29.00,4.15,4.37,,,,,,,0,29.0000,0,35328,,,,
 2022-05-05,5.19,5.81,3.49,3.72,,,,,,,0,29.0000,0,52919,,,,
@@ -1140,4 +1140,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.78,0.78,0.73,0.75,0.80,0.93,1.09,1.24,1.40,0.9735,0,0.9367,0,15,114,-0.1043,-0.0929,-0.0113
 2026-10-27,0.75,0.78,0.75,0.77,0.79,0.91,1.08,1.23,1.40,0.9735,0,0.9139,0,11,113,-0.1022,-0.0948,-0.0074
 2026-10-28,0.78,0.80,0.72,0.75,0.79,0.89,1.08,1.23,1.39,0.9735,0,0.8933,0,21,113,-0.1007,-0.0960,-0.0047
-2026-10-29,0.72,0.81,0.77,0.78,0.78,0.87,1.08,1.22,1.39,0.9735,0,0.8747,0,4,109,-0.0966,-0.0961,-0.0005
+2026-10-29,0.72,0.81,0.72,0.75,0.78,0.87,1.08,1.22,1.39,0.9735,0,0.8747,0,10,109,-0.0989,-0.0966,-0.0023
+2026-10-30,0.75,0.79,0.70,0.75,0.77,0.85,1.07,1.22,1.38,0.9636,0,0.8581,0,27,106,-0.0963,-0.0965,0.0002
+2026-11-02,0.70,0.80,0.70,0.70,0.76,0.83,1.06,1.21,1.37,0.9636,0,0.8391,0,18,101,-0.0971,-0.0966,-0.0005

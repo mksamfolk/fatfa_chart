@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KCHV,Kochav Defense Acquisition Corp.,Financial Services,Shell Companies,United States,360730240,10.53,44460,34589,364222.17,,0.365,1.67,0.0,0.0,0.0,,,213329,0,,11.468,8.578,-638685,,25824050,21249855,0.02029,0.97836,177,0.01,0.0,40.5,,,-54.278347,,,,,,,none,,,,,,,,,2026-10-29T11:21:31.786749+00:00
+59.13,KCHV,Kochav Defense Acquisition Corp.,Financial Services,Shell Companies,United States,360730240,10.53,35450,33929,357272.37,,0.365,1.67,0.0,0.0,0.0,,,213329,0,,11.468,8.578,-638685,,25824050,21249855,0.02029,0.97836,177,0.01,0.0,40.5,,,-54.278347,,,,,,,none,,,,,,,,,2026-10-31T17:53:53.286653+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-21,10.00,10.07,9.93,10.02,,,,,,,0,9.9300,1,3160,,,,
 2025-07-22,9.99,10.01,9.99,10.01,,,,,,,0,9.9300,1,6141,,,,
@@ -336,3 +336,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.51,10.51,10.51,10.51,10.51,10.49,10.45,10.36,10.31,10.4953,1,10.4896,1,43,404,0.0195,0.0197,-0.0002
 2026-10-27,10.50,10.50,10.50,10.50,10.51,10.49,10.45,10.36,10.32,10.4953,1,10.4933,1,841,421,0.0179,0.0194,-0.0015
 2026-10-28,10.51,10.53,10.51,10.53,10.51,10.50,10.45,10.36,10.32,10.4953,1,10.4965,1,13,419,0.0188,0.0193,-0.0004
+2026-10-29,10.52,10.52,10.52,10.52,10.51,10.50,10.46,10.37,10.32,10.4953,1,10.5000,1,2,419,0.0186,0.0191,-0.0006
+2026-10-30,10.52,10.52,10.52,10.52,10.51,10.50,10.46,10.37,10.32,10.4953,1,10.5042,1,,419,0.0181,0.0189,-0.0008
+2026-11-02,10.52,10.52,10.52,10.52,10.52,10.50,10.46,10.37,10.32,10.4958,1,10.5078,1,13,403,0.0176,0.0187,-0.0011

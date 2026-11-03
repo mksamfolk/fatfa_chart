@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,CHEN BIHUA X.,Chief Executive Officer,,Purchase,2026-01-26,1297500,1769385600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Cormorant Asset Management, LP",0.0731,1297500,13357762,0.0\n1,2026-06-30,"Affinity Asset Advisors, Llc",0.0704,1250000,12868750,0.0\n2,2026-06-30,"RA Capital Management, L.P.",0.0704,1250000,12868750,0.0\n3,2026-06-30,"Nantahala Capital Management, LLC",0.0704,1250000,12868750,0.0\n4,2026-06-30,"SilverArc Capital Management, LLC",0.0664,1177821,12125667,-0.025799999\n5,2026-06-30,Decagon Asset Management LLP,0.0589,1044766,10755866,0.3078\n6,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0563,1000000,10295000,0.0\n7,2026-06-30,Balyasny Asset Management LP,0.0558,990000,10192050,0.0\n8,2026-06-30,Braidwell LP                          ,0.0507,900000,9265500,0.0\n9,2026-06-30,Sculptor Capital LP,0.049200002,872563,8983036,0.098000005\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Cormorant Asset Management, LP",0.0731,1297500,13325454,0.0\n1,2026-06-30,"Affinity Asset Advisors, Llc",0.0704,1250000,12837624,0.0\n2,2026-06-30,"RA Capital Management, L.P.",0.0704,1250000,12837624,0.0\n3,2026-06-30,"Nantahala Capital Management, LLC",0.0704,1250000,12837624,0.0\n4,2026-06-30,"SilverArc Capital Management, LLC",0.0664,1177821,12096339,-0.025799999\n5,2026-06-30,Decagon Asset Management LLP,0.0589,1044766,10729850,0.3078\n6,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0563,1000000,10270099,0.0\n7,2026-06-30,Balyasny Asset Management LP,0.0558,990000,10167398,0.0\n8,2026-06-30,Braidwell LP                          ,0.0507,900000,9243089,0.0\n9,2026-06-30,Sculptor Capital LP,0.049200002,872563,8961308,0.098000005\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0057,101878,1048834,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,16122,165975,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,9079,93468,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0057,101878,1046297,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,16122,165574,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,9079,93242,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,227107696,10.295,66680,37950,390695.25,,,,0.0,0.0,0.0,,,2183741,0,,0.163,0.075,0,,17747500,10524605,0.0,0.99039,100,0.0,0.0,,,,-77.40601,,,,,,,none,,,,,,,,,2026-10-29T10:52:42.547434+00:00
+0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,226558400,10.2701,66590,38226,392584.8426,,,,0.0,0.0,0.0,,,2183741,0,,0.163,0.075,0,,17747500,10524605,0.0,0.99039,100,0.0,0.0,,,,-77.218796,,,,,,,none,,,,,,,,,2026-10-31T16:54:22.146934+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,10.24,10.35,10.17,10.25,,,,,,,0,10.1700,1,55790,,,,
 2026-01-26,10.22,10.28,10.22,10.22,,,,,,,0,10.1700,1,4274,,,,
@@ -207,3 +207,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.31,10.31,10.29,10.29,10.32,10.47,10.62,10.41,,10.5390,0,10.3203,0,709,335,-0.1166,-0.0988,-0.0179
 2026-10-27,10.30,10.31,10.29,10.31,10.30,10.45,10.62,10.41,,10.5390,0,10.3100,0,232,340,-0.1117,-0.1013,-0.0103
 2026-10-28,10.30,10.30,10.30,10.30,10.29,10.43,10.61,10.41,,10.5208,0,10.3100,0,2,340,-0.1077,-0.1026,-0.0051
+2026-10-29,10.28,10.29,10.27,10.27,10.28,10.40,10.61,10.41,,10.4908,0,10.3100,0,26,340,-0.1054,-0.1032,-0.0022
+2026-10-30,10.27,10.27,10.27,10.27,10.28,10.37,10.60,10.41,,10.4597,0,10.2950,0,,336,-0.1023,-0.1030,0.0007
+2026-11-02,10.30,10.31,10.30,10.31,10.27,10.36,10.60,10.41,,10.4597,0,10.1500,1,65,337,-0.0956,-0.1015,0.0059

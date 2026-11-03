@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,"JANE STREET GROUP, L.L.C",Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-06-04,67718,1780531200\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,35,83,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,172431,57659,,Sale at price 0.33 - 0.62 per share.,"JANE STREET GROUP, L.L.C",Beneficial Owner of more than 10% of a Class of Security,,2026-06-04,I\n1,1093,678,,Purchase at price 0.62 per share.,"JANE STREET GROUP, L.L.C",Beneficial Owner of more than 10% of a Class of Security,,2026-06-02,I\n
 major_holders
-,Value\ninsidersPercentHeld,0.00565\ninstitutionsPercentHeld,0.00086000003\ninstitutionsFloatPercentHeld,0.00086000003\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.00565\ninstitutionsPercentHeld,0.00090000004\ninstitutionsFloatPercentHeld,0.00091\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "3f8a7eb0-4b26-33c9-8dbf-f358d4a40cf6",\n    "title": "Biddance AI Systems, Inc. Announces First Half of Fiscal Year 2026 Financial Results",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/biddance-ai-systems-inc-announces-210000790.html",\n    "providerPublishTime": 1793048400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/c2b5bf5ac02c1038f9ee19c8de0c83be.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/381DCEEDFCA6A79118C321AD5CD303C1DCDC56A2AABBDEE8A288D70FDAE1A673/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fc2b5bf5ac02c1038f9ee19c8de0c83be.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BDAI"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.02\n2026-05-29 09:30:00-04:00,0.3333333333333333\n2026-07-06 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.01,BDAI,Biddance AI Systems Inc.,Technology,Information Technology Services,China,22569568,2.51,195690,408741,1025939.9099999999,0.653,,,0.102239996,-1.46998,-0.039,-0.00685,-0.031059999,37058256,0,,21.15,20.857,-3769665,-8628345,799860,795330,0.00565,0.00086000003,50067,0.06,0.0626,0.02204849,,3.2147226,0.49712816,-2.064,7.454,,,,,none,,,,,,,1.361,https://www.xmhitek.com,2026-10-29T08:50:13.149075+00:00
+4.02,BDAI,Biddance AI Systems Inc.,Technology,Information Technology Services,China,30855668,2.375,202890,416657,989560.375,0.653,,,0.102239996,-1.46998,-0.039,-0.00685,-0.031059999,37058256,0,,21.15,20.857,-3769665,-8628345,4799860,795330,0.00565,0.00090000004,50067,0.06,0.0626,0.020862615,,4.394963,0.4703902,-2.237,8.079,,,,,none,,,,,,,1.361,https://www.xmhitek.com,2026-10-31T14:30:43.576941+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-31,18750.00,24375.00,18750.00,20850.00,,,,,,,0,18750.0000,1,9674,,,,
 2023-04-03,23137.50,25687.50,22691.25,23662.50,,,,,,,0,18750.0000,1,6507,,,,
@@ -927,4 +927,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.09,2.16,2.01,2.09,2.24,2.41,2.63,32.01,1614.19,2.9299,0,3.0677,0,2838,1276,-0.2488,-0.2415,-0.0073
 2026-10-27,2.13,2.14,1.77,2.13,2.17,2.39,2.61,30.22,1575.20,2.8530,0,2.9977,0,545,1286,-0.2392,-0.2411,0.0018
 2026-10-28,2.08,2.52,2.02,2.51,2.18,2.39,2.60,28.54,1536.78,2.8530,0,2.8994,0,258,1198,-0.1986,-0.2326,0.0339
-2026-10-29,2.47,2.77,2.38,2.71,2.20,2.39,2.60,27.11,1496.29,2.8530,0,2.8091,0,131,1194,-0.1486,-0.2158,0.0672
+2026-10-29,2.47,2.77,2.38,2.52,2.19,2.38,2.59,27.11,1496.29,2.8530,0,2.8091,0,177,1195,-0.1638,-0.2188,0.0550
+2026-10-30,2.55,2.59,1.86,2.38,2.20,2.38,2.58,25.75,1455.05,2.8530,0,2.7700,0,218,1196,-0.1462,-0.2043,0.0581
+2026-11-02,2.42,2.42,2.09,2.13,2.19,2.36,2.56,24.76,1413.06,2.8530,0,2.7700,0,73,1196,-0.1507,-0.1936,0.0429

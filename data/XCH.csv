@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.1108,340821,988380,100.374504\n1,2026-06-30,"Notable Capital Management, L.L.C.",0.0105,32379,93899,0.0\n2,2026-06-30,Morgan Stanley,0.0008,2453,7113,0.11350001\n3,2026-06-30,"Geode Capital Management, LLC",0.0005,1512,4384,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0004,1093,3169,1.0\n5,2026-06-30,UBS Group AG,0.0001,384,1113,1.9538001\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.1108,340821,1363284,100.374504\n1,2026-06-30,"Notable Capital Management, L.L.C.",0.0105,32379,129516,0.0\n2,2026-06-30,Morgan Stanley,0.0008,2453,9812,0.11350001\n3,2026-06-30,"Geode Capital Management, LLC",0.0005,1512,6048,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0004,1093,4372,1.0\n5,2026-06-30,UBS Group AG,0.0001,384,1536,1.9538001\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,1511,4381,-0.0007\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,1511,6044,-0.0007\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-21 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.87,XCH,XCHG Limited,Industrials,Electrical Equipment & Parts,Germany,11604159,2.9,258820,103586,300399.39999999997,-0.175,,,0.40125,-1.08887,-1.5833501,-2.04683,-0.51329,8855514,9650142,92.452,1.229,0.564,-8181314,2223019,3074866,1286410,0.05212,0.12021,29959,0.27,0.0004,,-96.66667,0.506284,1.2298558,0.506,-0.322,,,,,none,,,,,,,-1.214,https://www.xcharge.com,2026-10-29T14:44:10.804634+00:00
+4.67,XCH,XCHG Limited,Industrials,Electrical Equipment & Parts,Germany,16005736,4.0,316980,114389,457556.0,-0.175,,,0.40125,-1.08887,-1.5833501,-2.04683,-0.51329,8855514,9650142,92.452,1.229,0.564,-8181314,2223019,3074866,1286410,0.05212,0.12021,29959,0.27,0.0004,,-133.33334,0.6983227,1.6963528,0.807,-0.514,,,,,none,,,,,,,-1.214,https://www.xcharge.com,2026-10-31T21:08:13.811283+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-10,145.00,219.20,128.00,147.20,,,,,,,0,219.2000,0,7551,,,,
 2024-09-11,136.20,186.00,128.00,176.00,,,,,,,0,219.2000,0,3661,,,,
@@ -550,4 +550,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.03,2.10,1.92,1.94,2.07,2.54,4.50,13.75,15.74,3.6751,0,3.1232,0,257,371,-0.7910,-0.9090,0.1180
 2026-10-27,1.91,2.00,1.78,1.95,2.07,2.48,4.34,13.60,15.64,3.5415,0,3.0859,0,337,378,-0.7546,-0.8781,0.1235
 2026-10-28,1.95,2.75,1.95,2.44,2.09,2.45,4.18,13.45,15.54,3.5415,0,3.0494,0,1128,400,-0.6784,-0.8382,0.1597
-2026-10-29,2.42,3.30,2.42,3.16,2.16,2.45,4.06,13.30,15.43,3.5415,0,1.2600,1,340,406,-0.5538,-0.7813,0.2275
+2026-10-29,2.42,3.98,2.42,3.46,2.19,2.46,4.07,13.30,15.43,3.5415,0,1.2600,1,1921,438,-0.5296,-0.7765,0.2468
+2026-10-30,3.43,4.29,3.00,4.00,2.33,2.51,3.97,13.14,15.33,1.4381,1,1.3144,1,575,449,-0.3640,-0.6940,0.3300
+2026-11-02,4.15,5.26,4.03,5.06,2.66,2.60,3.89,12.97,15.23,2.2825,1,1.4333,1,1035,469,-0.1454,-0.5843,0.4388

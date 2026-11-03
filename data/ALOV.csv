@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0583,1750000,17500000,0.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1200000,12000000,0.0\n2,2026-06-30,Linden Advisors LP,0.04,1200000,12000000,0.0\n3,2026-06-30,"MMCAP International, Inc. SPC",0.04,1200000,12000000,1.0\n4,2026-06-30,Magnetar Financial LLC,0.04,1200000,12000000,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0356,1068535,10685350,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.033299997,1000000,10000000,0.0\n7,2026-06-30,Polar Asset Management Partners Inc.,0.033299997,1000000,10000000,1.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,1000000,10000000,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.033299997,999999,9999990,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0583,1750000,17517500,0.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1200000,12012000,0.0\n2,2026-06-30,Linden Advisors LP,0.04,1200000,12012000,0.0\n3,2026-06-30,"MMCAP International, Inc. SPC",0.04,1200000,12012000,1.0\n4,2026-06-30,Magnetar Financial LLC,0.04,1200000,12012000,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0356,1068535,10696035,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.033299997,1000000,10010000,0.0\n7,2026-06-30,Polar Asset Management Partners Inc.,0.033299997,1000000,10010000,1.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,1000000,10010000,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.033299997,999999,10009990,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0033000002,99999,999990,1.0\n1,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0013,39999,399990,1.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,1693,16930,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0033000002,99999,1000990,1.0\n1,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0013,39999,400389,1.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,1693,16946,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,375187520,10.0,97400,50432,504320.0,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.0,0.7635,2672,0.07,0.0001,,,,-31.545742,,,,,,,none,,,,,,,,https://aldabra4.com,2026-10-29T08:24:34.260425+00:00
+0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,375562720,10.01,67930,51228,512792.27999999997,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.0,0.7635,2672,0.07,0.0001,,,,-31.577288,,,,,,,none,,,,,,,,https://aldabra4.com,2026-10-31T14:04:03.214265+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-16,9.90,9.90,9.82,9.82,,,,,,,0,9.9000,0,24,,,,
 2026-03-17,9.82,9.82,9.82,9.82,,,,,,,0,9.9000,0,,,,,
@@ -172,3 +172,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.00,10.00,10.00,10.00,10.01,10.00,9.99,,,9.9965,1,10.0262,0,3750,466,0.0036,0.0063,-0.0027
 2026-10-27,10.00,10.00,10.00,10.00,10.00,10.01,9.99,,,9.9965,1,10.0254,0,1250,491,0.0030,0.0056,-0.0026
 2026-10-28,10.00,10.01,10.00,10.00,10.00,10.01,9.99,,,9.9965,1,10.0247,0,474,500,0.0025,0.0050,-0.0025
+2026-10-29,10.01,10.01,10.01,10.01,10.00,10.01,9.99,,,9.9965,1,10.0240,0,8,500,0.0029,0.0046,-0.0016
+2026-10-30,10.01,10.01,10.01,10.01,10.00,10.01,9.99,,,9.9965,1,10.0233,0,,500,0.0032,0.0043,-0.0011
+2026-11-02,10.00,10.00,10.00,10.00,10.00,10.01,10.00,,,9.9965,1,10.0227,0,12,501,0.0026,0.0040,-0.0014

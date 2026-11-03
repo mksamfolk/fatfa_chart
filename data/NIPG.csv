@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,SUN LIWEI,President,,Sale,2026-06-30,18095400,1782777600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0037,22330,92669,0.087299995\n1,2026-06-30,Citadel Advisors Llc,0.0011,6979,28962,1.6216999\n2,2026-06-30,Goldman Sachs Group Inc,0.0002,1229,5100,-0.1381\n3,2026-06-30,Xtx Topco Ltd,0.0001,379,1572,-0.3351\n4,2026-06-30,Rhumbline Advisers,0.0,23,95,0.0\n5,2026-06-30,UBS Group AG,0.0,11,45,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0037,22330,98921,0.087299995\n1,2026-06-30,Citadel Advisors Llc,0.0011,6979,30916,1.6216999\n2,2026-06-30,Goldman Sachs Group Inc,0.0002,1229,5444,-0.1381\n3,2026-06-30,Xtx Topco Ltd,0.0001,379,1678,-0.3351\n4,2026-06-30,Rhumbline Advisers,0.0,23,101,0.0\n5,2026-06-30,UBS Group AG,0.0,11,48,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,151,626,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,151,668,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-06 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.81,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,31036158,4.15,7160,27601,114544.15000000001,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,1467001,0.02826,0.0043,9352,1.1,,,,0.24529365,0.21965808,0.585,-1.544,,,,,none,,,,,,,1.843,https://nipg.com,2026-10-29T12:12:41.903918+00:00
+8.40,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,33130162,4.43,18860,29251,129581.93,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,1467001,0.02826,0.0043,9352,1.1,,,,0.26184356,0.23447837,0.602,-1.588,,,,,none,,,,,,,1.843,https://nipg.com,2026-10-31T18:45:18.293110+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-26,393.30,393.60,241.20,270.60,,,,,,,0,241.2000,1,9676,,,,
 2024-07-29,302.70,502.50,300.00,495.00,,,,,,,0,241.2000,1,116135,,,,
@@ -581,4 +581,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.91,4.57,3.75,4.00,6.44,9.26,11.11,14.51,18.47,7.6482,0,8.7218,0,50,489,-1.9985,-1.4285,-0.5700
 2026-10-27,3.99,4.04,3.59,3.80,5.99,8.76,10.79,14.37,18.33,7.0894,0,7.7274,0,48,400,-2.1082,-1.5644,-0.5438
 2026-10-28,4.00,4.94,4.00,4.15,5.61,8.31,10.57,14.23,18.19,7.0894,0,6.8999,0,94,387,-2.1422,-1.6800,-0.4622
-2026-10-29,4.15,4.15,3.80,4.00,5.27,7.83,10.47,14.09,18.04,7.0401,0,6.2379,0,38,385,-2.1564,-1.7753,-0.3811
+2026-10-29,4.15,4.79,3.71,3.77,5.25,7.82,10.47,14.09,18.04,7.0894,0,6.2379,0,206,388,-2.1747,-1.7789,-0.3958
+2026-10-30,3.63,4.79,3.63,4.43,5.04,7.32,10.37,13.95,17.90,7.0894,0,5.7084,0,311,394,-2.1228,-1.8477,-0.2751
+2026-11-02,4.14,4.55,3.60,4.35,4.81,6.98,10.25,13.80,17.76,7.0894,0,5.2847,0,55,392,-2.0643,-1.8910,-0.1733

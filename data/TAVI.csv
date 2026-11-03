@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TAVI,Tavia Acquisition Corp.,Financial Services,Shell Companies,United States,94976648,10.85,3190,4900,53165.0,,,,0.0,0.0,0.0,,-0.014520001,213484,860000,,0.103,0.073,-483342,162999,8753608,4671188,0.43791,0.55709,43,0.01,0.0,72.333336,,,-36.046513,,,,,,,none,,,,,,,,https://tavia.co,2026-10-29T13:55:42.518321+00:00
+0.00,TAVI,Tavia Acquisition Corp.,Financial Services,Shell Companies,United States,94976648,10.85,3190,4840,52514.0,,,,0.0,0.0,0.0,,-0.014520001,213484,860000,,0.103,0.073,-483342,162999,8753608,4671188,0.43791,0.55709,43,0.01,0.0,72.333336,,,-36.046513,,,,,,,none,,,,,,,,https://tavia.co,2026-10-31T20:21:38.040909+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-20,9.90,9.91,9.90,9.91,,,,,,,0,9.9100,0,6729,,,,
 2024-12-23,9.91,9.91,9.89,9.89,,,,,,,0,9.9100,0,748,,,,
@@ -478,3 +478,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.83,10.83,10.83,10.83,10.81,10.79,10.74,10.65,10.60,10.7975,1,10.8475,0,23,60,0.0269,0.0253,0.0016
 2026-10-27,10.83,10.83,10.83,10.83,10.82,10.79,10.74,10.65,10.61,10.8008,1,10.8400,0,,59,0.0268,0.0256,0.0012
 2026-10-28,10.85,10.85,10.85,10.85,10.82,10.80,10.74,10.65,10.61,10.8177,1,10.6600,1,296,65,0.0280,0.0261,0.0019
+2026-10-29,10.85,10.85,10.85,10.85,10.83,10.80,10.75,10.66,10.61,10.8209,1,10.6638,1,,65,0.0286,0.0266,0.0020
+2026-10-30,10.85,10.85,10.85,10.85,10.83,10.81,10.75,10.66,10.61,10.8238,1,10.6675,1,,65,0.0287,0.0270,0.0017

@@ -9,7 +9,7 @@ insider_roster_holders
 institutional_holders
 ""\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Franklin Strategic Series-Franklin Biotechnology Discovery Fund,0.0046,130759,1321973,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Franklin Strategic Series-Franklin Biotechnology Discovery Fund,0.0046,130759,1281438,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,2,0,0,0\n1,-1m,0,1,0,0,0\n2,-2m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VCRE,Vicore Pharma Holding AB (publ),Healthcare,Biotechnology,Sweden,284742592,10.11,24910,20754,209822.94,0.267,,,1.0,0.0,0.0,-0.56988996,-0.34351003,,,,12.679,12.501,,-282982496,28164451,20080376,0.0,0.01279,1028,0.03,,,,,,,,30.174768,35.203888,25.145649,1.0,strong_buy,2,,,,,,0.091,https://www.vicorepharma.com,2026-10-29T14:24:18.366655+00:00
+0.00,VCRE,Vicore Pharma Holding AB (publ),Healthcare,Biotechnology,Sweden,276011648,9.8,25620,21478,210484.40000000002,0.267,,,1.0,0.0,0.0,-0.56988996,-0.34351003,,,,12.679,12.501,,-282982496,28164451,20080376,0.0,0.01279,1028,0.03,,,,,,,,30.327158,35.381676,25.27264,1.0,strong_buy,2,,,,,,0.091,https://www.vicorepharma.com,2026-10-31T20:49:40.318382+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-06,14.90,16.53,13.55,16.25,,,,,,,0,13.5500,1,2207,,,,
 2026-07-07,17.63,17.80,14.25,15.03,,,,,,,0,13.5500,1,9280,,,,
@@ -96,4 +96,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.33,9.40,9.33,9.40,9.23,9.60,10.86,,,10.5681,0,8.1887,1,38,143,-0.4871,-0.6189,0.1319
 2026-10-27,9.31,9.91,9.31,9.35,9.27,9.47,10.83,,,10.5681,0,8.3200,1,226,147,-0.4584,-0.5868,0.1284
 2026-10-28,9.54,9.77,9.54,9.76,9.34,9.36,10.80,,,10.5681,0,8.4460,1,148,150,-0.3980,-0.5491,0.1511
-2026-10-29,9.97,10.21,9.96,10.16,9.45,9.29,10.78,,,10.5681,0,8.5669,1,128,152,-0.3142,-0.5021,0.1879
+2026-10-29,9.97,10.22,9.96,10.20,9.45,9.29,10.78,,,10.5681,0,8.5669,1,377,157,-0.3110,-0.5014,0.1905
+2026-10-30,10.03,10.15,9.70,9.80,9.53,9.24,10.75,,,10.5681,0,8.6831,1,117,159,-0.2712,-0.4554,0.1842
+2026-11-02,9.79,9.79,9.57,9.59,9.61,9.27,10.72,,,10.5681,0,8.7945,1,69,160,-0.2537,-0.4151,0.1613

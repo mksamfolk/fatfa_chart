@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,OAKTREE ACQUISITION HOLDINGS III LS LLC,Beneficial Owner of more than 10% of a Class of Security,,Conversion of Exercise of derivative security,2026-10-23,5382740,1792713600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0949,1324175,14142189,0.0\n1,2026-06-30,Fort Baker Capital Management LP,0.0792,1105394,11805608,0.105399996\n2,2026-06-30,Decagon Asset Management LLP,0.078200005,1091327,11655372,0.0887\n3,2026-06-30,"Empyrean Capital Partners, LP",0.0645,900000,9612000,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0617,861625,9202155,0.0\n5,2026-03-31,Boussard & Gavaudan Investment Management LLP,0.051599998,720000,7689600,0.0\n6,2026-06-30,Boussard & Gavaudan Gestion Sas,0.051599998,720000,7689600,1.0\n7,2026-06-30,Linden Advisors LP,0.043,600000,6408000,0.0\n8,2026-06-30,Toronto Dominion Bank,0.0397,554294,5919860,0.1161\n9,2026-06-30,Sculptor Capital LP,0.038,530807,5669018,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.0949,1324175,14195156,0.0\n1,2026-06-30,Fort Baker Capital Management LP,0.0792,1105394,11849823,0.105399996\n2,2026-06-30,Decagon Asset Management LLP,0.078200005,1091327,11699025,0.0887\n3,2026-06-30,"Empyrean Capital Partners, LP",0.0645,900000,9648000,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0617,861625,9236620,0.0\n5,2026-03-31,Boussard & Gavaudan Investment Management LLP,0.051599998,720000,7718400,0.0\n6,2026-06-30,Boussard & Gavaudan Gestion Sas,0.051599998,720000,7718400,1.0\n7,2026-06-30,Linden Advisors LP,0.043,600000,6432000,0.0\n8,2026-06-30,Toronto Dominion Bank,0.0397,554294,5942031,0.1161\n9,2026-06-30,Sculptor Capital LP,0.038,530807,5690251,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0036000002,50006,534064,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0011,15243,162795,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.00090000004,12500,133500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0036000002,50006,536064,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0011,15243,163404,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.00090000004,12500,134000,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.65,OACC,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,United States,141527792,10.68,9420,32482,346907.76,,-0.144,-0.144,0.0,0.0,0.0,,,1179670,11824,,0.728,0.682,-455689,,13250666,13076066,0.0,0.96228,193,0.0,0.0,38.142857,,,-35.01639,,,,,,,none,,,,,,,,https://www.oaktreeacquisitioncorp.com/oac-iii,2026-10-29T12:23:54.434295+00:00
+55.38,OACC,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,United States,142057856,10.72,7120,28368,304104.96,,-0.144,-0.144,0.0,0.0,0.0,,,1179670,11824,,0.728,0.682,-455689,,13250666,13076066,0.0,0.96228,193,0.0,0.0,38.285713,,,-35.14754,,,,,,,none,,,,,,,,https://www.oaktreeacquisitioncorp.com/oac-iii,2026-10-31T18:56:47.143453+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-16,10.00,10.00,10.00,10.00,,,,,,,0,10.0000,0,4,,,,
 2024-12-17,10.00,10.00,10.00,10.00,,,,,,,0,10.0000,0,,,,,
@@ -482,4 +482,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.69,10.72,10.68,10.68,10.71,10.74,10.75,10.69,10.68,10.8135,0,10.8980,0,20,435,-0.0203,-0.0127,-0.0076
 2026-10-27,10.68,10.68,10.68,10.68,10.70,10.73,10.75,10.69,10.68,10.7908,0,10.8931,0,,433,-0.0212,-0.0144,-0.0068
 2026-10-28,10.68,10.68,10.68,10.68,10.68,10.73,10.75,10.69,10.68,10.7798,0,10.8882,0,,394,-0.0216,-0.0158,-0.0058
-2026-10-29,10.73,10.73,10.70,10.70,10.68,10.72,10.75,10.69,10.68,10.7798,0,10.8834,0,55,379,-0.0201,-0.0167,-0.0035
+2026-10-29,10.73,10.73,10.70,10.72,10.69,10.72,10.75,10.69,10.68,10.7798,0,10.8834,0,65,379,-0.0186,-0.0164,-0.0022
+2026-10-30,10.72,10.72,10.72,10.72,10.69,10.72,10.75,10.69,10.68,10.7798,0,10.8788,0,2,355,-0.0159,-0.0163,0.0003
+2026-11-02,10.75,10.75,10.72,10.72,10.70,10.72,10.75,10.69,10.68,10.7798,0,10.8742,0,13,322,-0.0137,-0.0158,0.0021

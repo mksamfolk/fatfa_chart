@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,BRUHLMANN CHRISTIAN,Officer,,Stock Award(Grant),2024-12-20,611372,2024-12-20\n1,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-04-21,33649,2026-04-21\n2,MEIER THOMAS PH.D.,Director,,Stock Award(Grant),2025-08-15,657,2025-08-15\n3,OAKLEY ANDREW J.,Director,,Stock Award(Grant),2025-08-15,638,2025-08-15\n4,RAMDEEN TIMOTHY R.,Director,,Stock Award(Grant),2025-08-15,658,2025-08-15\n5,SCHIESS RALPH,Chief Executive Officer,,Stock Award(Grant),2024-12-20,673365,2024-12-20\n6,TARSH SIMON,Director,,Stock Award(Grant),2025-08-15,658,2025-08-15\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0087,51398,30730,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0023,13548,8100,1.0\n2,2026-09-30,"SBI Securities Co., Ltd.",0.0001,313,187,0.24209999\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0,145,86,0.0\n4,2026-06-30,Hollencrest Capital Management,0.0,100,59,1.0\n5,2026-06-30,Morgan Stanley,0.0,21,12,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0087,51398,28834,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0023,13548,7600,1.0\n2,2026-09-30,"SBI Securities Co., Ltd.",0.0001,313,175,0.24209999\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0,145,81,0.0\n4,2026-06-30,Hollencrest Capital Management,0.0,100,56,1.0\n5,2026-06-30,Morgan Stanley,0.0,21,11,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0038,22642,13537,2.1976\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0038,22642,12702,2.1976\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-09-24 09:30:00-04:00,0.025\n2025-06-13 09:30:00-04:00,0.011764705882352941\n2026-03-25 09:30:00-04:00,0.2\n2026-05-21 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.72,ONCO,Onconetix Inc.,Healthcare,Biotechnology,United States,3519702,0.5979,5168860,3663162,2190204.5598,-0.839,,,0.80397004,-131.12091,0.0,-1.05233,-0.27033,5942249,187128,1.389,2.214,2.035,-10307962,-5920061,5886774,3949068,0.00112,0.04918,389871,0.05,0.0744,0.0019262861,-0.7034117,5.4499397,0.16842254,-5.255,0.442,,,,,none,,,,,,,2.608,https://www.onconetix.com,2026-10-29T12:28:55.118967+00:00
+5.15,ONCO,Onconetix Inc.,Healthcare,Biotechnology,United States,3302480,0.561,5915820,3781276,2121295.836,-0.839,,,0.80397004,-131.12091,0.0,-1.05233,-0.27033,5942249,187128,1.389,2.214,2.035,-10307962,-5920061,5886774,3949068,0.00112,0.04918,389871,0.05,0.0744,0.0018074035,-0.65999997,5.113591,0.15802817,-5.481,0.461,,,,,none,,,,,,,2.608,https://www.onconetix.com,2026-10-31T19:01:48.618722+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-18,8500000.00,9775000.00,6460000.00,9758000.00,,,,,,,0,6460000.0000,1,9758,,,,
 2022-02-22,11475000.00,15453000.00,8517000.00,9684900.00,,,,,,,0,6460000.0000,1,9685,,,,
@@ -1190,5 +1190,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.43,0.43,0.40,0.42,0.48,0.61,0.71,6.24,22.06,0.6190,0,0.6041,0,237,970,-0.0946,-0.0796,-0.0150
 2026-10-26,0.41,0.43,0.39,0.40,0.46,0.58,0.70,6.02,21.58,0.6070,0,0.5682,0,331,975,-0.0956,-0.0828,-0.0128
 2026-10-27,0.35,0.48,0.34,0.47,0.45,0.56,0.69,5.79,21.11,0.6070,0,0.5381,0,1195,997,-0.0892,-0.0841,-0.0051
-2026-10-28,0.51,0.68,0.48,0.60,0.46,0.55,0.69,5.57,20.65,0.6070,0,0.3420,1,26936,1533,-0.0734,-0.0819,0.0086
-2026-10-29,0.61,0.64,0.57,0.58,0.46,0.54,0.68,5.38,20.21,0.6070,0,0.3420,1,3391,1583,-0.0616,-0.0779,0.0163
+2026-10-28,0.51,0.68,0.48,0.60,0.46,0.55,0.69,5.57,20.65,0.6070,0,0.3420,1,27044,1535,-0.0734,-0.0819,0.0086
+2026-10-29,0.62,0.65,0.55,0.59,0.46,0.54,0.68,5.38,20.21,0.6070,0,0.3420,1,4050,1598,-0.0611,-0.0778,0.0167
+2026-10-30,0.54,0.58,0.52,0.56,0.47,0.53,0.68,5.22,19.81,0.6070,0,0.3487,1,659,1602,-0.0527,-0.0728,0.0200
+2026-11-02,0.54,0.56,0.50,0.54,0.48,0.53,0.67,5.05,19.42,0.6070,0,0.3553,1,346,1607,-0.0471,-0.0676,0.0206

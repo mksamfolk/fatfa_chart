@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0001,49797,97104,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,2,3,1.0\n2,2026-06-30,"Geode Capital Management, LLC",0.0,13606,26531,0.23110001\n3,2026-06-30,Xtx Topco Ltd,0.0,17080,33306,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0001,49797,94614,1.0\n1,2026-06-30,"Geode Capital Management, LLC",0.0,13606,25851,0.23110001\n2,2026-06-30,Xtx Topco Ltd,0.0,17080,32451,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.5\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,13606,26531,0.2309\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,13606,25851,0.2309\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-24 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.84,OIO,OIO Group,Industrials,Waste Management,Singapore,678643136,1.95,104550,123042,239931.9,,,,0.0,0.0,0.0,,,,,,,,,,348022108,,0.90831,0.00023,27297,0.24,0.0008,,,,6.1128526,,,4.44,4.44,4.44,,none,1,,,,,,,https://oiogroup.co,2026-10-29T12:26:53.371316+00:00
+12.25,OIO,OIO Group,Industrials,Waste Management,Singapore,661241984,1.9,104350,123726,235079.4,,,,0.0,0.0,0.0,,,,,,,,,,348022108,,0.90831,0.00023,27297,0.24,0.0008,,,,5.956113,,,4.44,4.44,4.44,,none,1,,,,,,,https://oiogroup.co,2026-10-31T18:59:47.718281+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-07,29.85,29.85,29.64,29.70,,,,,,,0,29.6400,1,848,,,,
 2022-04-08,29.73,29.76,29.73,29.76,,,,,,,0,29.6400,1,52,,,,
@@ -1158,4 +1158,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.87,1.91,1.83,1.85,1.78,1.77,1.84,3.78,5.57,2.2093,0,1.6560,1,195,197,0.0003,-0.0245,0.0248
 2026-10-27,1.86,1.92,1.75,1.78,1.79,1.77,1.84,3.73,5.52,2.2093,0,1.6803,1,186,197,-0.0020,-0.0200,0.0180
 2026-10-28,2.00,2.00,1.79,1.95,1.82,1.78,1.84,3.68,5.47,2.2093,0,1.7031,1,207,196,0.0099,-0.0140,0.0239
-2026-10-29,1.94,1.94,1.82,1.90,1.85,1.80,1.83,3.62,5.42,2.2093,0,1.7245,1,190,197,0.0150,-0.0082,0.0232
+2026-10-29,1.94,1.94,1.82,1.89,1.84,1.80,1.83,3.62,5.42,2.2093,0,1.7245,1,198,197,0.0142,-0.0084,0.0226
+2026-10-30,1.90,1.98,1.84,1.90,1.86,1.79,1.83,3.57,5.37,2.2093,0,1.7446,1,197,199,0.0183,-0.0030,0.0213
+2026-11-02,1.89,1.92,1.83,1.88,1.86,1.80,1.83,3.52,5.32,2.2093,0,1.7635,1,196,199,0.0197,0.0015,0.0181

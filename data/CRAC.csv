@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CRAC,Crown Reserve Acquisition Corp. I,Financial Services,Shell Companies,Cayman Islands,229727072,10.27,27200,18176,186667.52,,5230.917,25541.736,0.0,0.0,0.0,,,,0,,0.246,0.246,-37178,,18056250,14040641,0.03509,0.9568,2448,0.1,0.0001,,,,-68.46667,,,,,,,none,,,,,,,,,2026-10-29T09:34:25.136818+00:00
+0.00,CRAC,Crown Reserve Acquisition Corp. I,Financial Services,Shell Companies,Cayman Islands,229727072,10.27,24830,19250,197697.5,,5230.917,25541.736,0.0,0.0,0.0,,,,0,,0.246,0.246,-37178,,18056250,14040641,0.03509,0.9568,2448,0.1,0.0001,,,,-68.46667,,,,,,,none,,,,,,,,,2026-10-31T15:15:57.627908+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-09,9.90,9.92,9.89,9.90,,,,,,,0,9.8900,1,12760,,,,
 2025-12-10,9.91,9.92,9.90,9.91,,,,,,,0,9.8900,1,3869,,,,
@@ -237,3 +237,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.27,10.27,10.27,10.27,10.27,10.25,10.21,10.12,10.08,10.2481,1,10.2329,1,48,201,0.0209,0.0217,-0.0009
 2026-10-27,10.27,10.27,10.27,10.27,10.27,10.25,10.21,10.12,10.08,10.2481,1,10.2367,1,118,201,0.0199,0.0214,-0.0014
 2026-10-28,10.27,10.27,10.27,10.27,10.27,10.26,10.21,10.12,10.08,10.2481,1,10.2402,1,,195,0.0189,0.0209,-0.0019
+2026-10-29,10.26,10.26,10.26,10.26,10.27,10.26,10.21,10.12,10.09,10.2481,1,10.2433,1,433,203,0.0172,0.0201,-0.0030
+2026-10-30,10.26,10.28,10.26,10.27,10.27,10.26,10.22,10.12,10.09,10.2481,1,10.2463,1,137,205,0.0164,0.0194,-0.0030
+2026-11-02,10.30,10.30,10.30,10.30,10.27,10.27,10.22,10.13,10.09,10.2651,1,10.2490,1,263,211,0.0180,0.0191,-0.0011

@@ -23,11 +23,11 @@ insider_transactions
 major_holders
 ,Value\ninsidersPercentHeld,0.68193\ninstitutionsPercentHeld,0.00269\ninstitutionsFloatPercentHeld,0.00846\ninstitutionsCount,3.0\n
 news
-[]\n
+[\n  {\n    "uuid": "b1f9b1a4-58ef-3e6b-8b69-ca806b344a46",\n    "title": "Charming Medical Limited Notified of Anticipated Delisting from The Nasdaq Stock Market",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/charming-medical-limited-notified-anticipated-200500470.html",\n    "providerPublishTime": 1793304300,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/c870662b5d8053bb2dfb7f7795f63c9c.jpg",\n          "width": 150,\n          "height": 43,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/67909EDA2E5A79E75997472E4C2DF2B783B691A6BFB989F50B3093365105A783/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc870662b5d8053bb2dfb7f7795f63c9c.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "MCTA",\n      "NDAQ"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MCTA,Charming Medical Limited,Healthcare,Medical Care Facilities,Hong Kong,445550176,29.355,0,0,0.0,-0.189,-0.938,-0.931,0.96359,0.04863,-0.00471,-0.00866,0.008909999,7675014,908016,17.526,1.887,1.819,-1215931,-507041,15178000,5463806,0.68193,0.00269,574490,2.02,0.118999995,419.35715,,92.674034,97.20199,103.478,1532.715,,,,,none,,,,,,,,https://charmingmed.com,2026-10-29T11:48:42.529548+00:00
+0.00,MCTA,Charming Medical Limited,Healthcare,Medical Care Facilities,Hong Kong,445550176,29.355,0,0,0.0,-0.189,-0.938,-0.931,0.96359,0.04863,-0.00471,-0.00866,0.008909999,7675014,908016,17.526,1.887,1.819,-1215931,-507041,15178000,5463806,0.68193,0.00269,574490,2.02,0.118999995,419.35715,,92.674034,97.20199,103.478,1532.715,,,,,none,,,,,,,,https://charmingmed.com,2026-10-31T18:21:34.759120+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-21,4.59,8.21,4.30,7.00,,,,,,,0,4.3000,1,29531,,,,
 2025-10-22,5.34,6.96,5.34,6.20,,,,,,,0,4.3000,1,4913,,,,
@@ -286,3 +286,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.3550,0,29.3550,1,,0,0.0000,0.0000,-0.0000
 2026-10-27,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.3550,0,29.3550,1,,0,0.0000,0.0000,-0.0000
 2026-10-28,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.3550,0,29.3550,1,,0,0.0000,0.0000,-0.0000
+2026-10-29,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.3550,0,29.3550,1,,0,0.0000,0.0000,-0.0000
+2026-10-30,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.35,29.3550,0,29.3550,1,,0,0.0000,0.0000,-0.0000

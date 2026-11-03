@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0099,10000,12799,1.0\n1,2026-06-30,UBS Group AG,0.0,5,6,-0.9781\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0099,10000,10499,1.0\n1,2026-06-30,UBS Group AG,0.0,5,5,-0.9781\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,37,38,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,6,7,0.5\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,6,6,0.5\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00035\ninstitutionsPercentHeld,0.00976\ninstitutionsFloatPercentHeld,0.00976\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.00035\ninstitutionsPercentHeld,0.00979\ninstitutionsFloatPercentHeld,0.0098\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "97698b19-21c2-3a18-8cf0-d4230d080ea8",\n    "title": "ERAYAK Expands U.S. Branded Distribution and Unveils Roadmap From Portable Power to 30 kW-Class Hybrid Home Energy Systems",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/energy/articles/erayak-expands-u-branded-distribution-120000024.html",\n    "providerPublishTime": 1789560000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/261143abde1042ad3066dca2f9edea14.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/CD588219EEBA63450BFD96608EF5E9B3B2982F67D7A25D9ADA15798498D983AD/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F261143abde1042ad3066dca2f9edea14.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RAYA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-09-30 09:30:00-04:00,0.004545454545454545\n2026-04-20 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.37,RAYA,Erayak Power Solution Group Inc.,Industrials,Electrical Equipment & Parts,China,1376245,1.28,16090,79579,101861.12,0.392,,,0.20569,-0.08036,-0.06219,-0.04731,-0.01633,6423618,18324416,42.915,2.016,1.207,-6122256,-15662768,1026101,1022465,0.00035,0.00976,3415,0.06,0.0033000002,,,0.0523674,0.032231256,0.505,-13.728,,,,,none,,,,,,,1.236,https://erayakpower.com,2026-10-29T13:01:02.541377+00:00
+2.89,RAYA,Erayak Power Solution Group Inc.,Industrials,Electrical Equipment & Parts,China,1128951,1.05,19130,79892,83886.6,0.392,,,0.20569,-0.08036,-0.06219,-0.04731,-0.01633,6423618,18324416,42.915,2.016,1.207,-6122256,-15662768,1026101,1022465,0.00035,0.00979,3415,0.06,0.0033000002,,,0.042957634,0.026439702,0.496,-13.472,,,,,none,,,,,,,1.236,https://erayakpower.com,2026-10-31T19:33:43.466247+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-12-14,8140.00,8250.00,7062.00,7414.00,,,,,,,0,8250.0000,0,7785,,,,
 2022-12-15,6864.00,7370.00,5522.00,5676.00,,,,,,,0,8250.0000,0,1379,,,,
@@ -985,4 +985,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.23,1.25,1.20,1.23,1.35,1.65,2.07,3.55,8.48,1.6811,0,1.1284,1,12,49,-0.2671,-0.2473,-0.0197
 2026-10-27,1.25,1.25,1.19,1.20,1.32,1.60,2.04,3.51,8.28,1.6481,0,1.1366,1,5,49,-0.2657,-0.2510,-0.0147
 2026-10-28,1.24,1.28,1.23,1.28,1.30,1.55,2.02,3.46,8.08,1.6481,0,1.1447,1,14,49,-0.2552,-0.2518,-0.0034
-2026-10-29,1.26,1.26,1.22,1.25,1.29,1.50,2.00,3.41,7.87,1.6263,0,1.1526,1,12,48,-0.2465,-0.2508,0.0043
+2026-10-29,1.25,1.26,1.22,1.24,1.29,1.50,2.00,3.41,7.87,1.6263,0,1.1526,1,14,49,-0.2477,-0.2510,0.0033
+2026-10-30,1.29,1.29,1.00,1.05,1.25,1.45,1.98,3.37,7.66,1.5797,0,1.5400,0,34,49,-0.2537,-0.2515,-0.0021
+2026-11-02,1.05,1.09,0.97,1.04,1.23,1.40,1.95,3.31,7.45,1.4572,0,1.5292,0,22,49,-0.2563,-0.2525,-0.0038

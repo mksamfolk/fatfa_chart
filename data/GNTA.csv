@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Eurizon Capital Sgr S.p.a.,0.0153,360000,217800,0.0\n1,2026-06-30,Allianz SE,0.0099,234050,141600,0.0\n2,2026-06-30,Virtu Financial LLC,0.0016,36913,22332,1.0\n3,2026-09-30,"Simplicity Wealth, LLC",0.0008,20038,12122,0.0779\n4,2026-06-30,"Ground Swell Capital, LLC",0.00059999997,14374,8696,1.0\n5,2026-09-30,Financial Planning Navigators Corp,0.0005,11371,6879,1.0\n6,2026-09-30,Gamma Investing LLC,0.0002,5389,3260,-0.45360002\n7,2026-06-30,UBS Group AG,0.0001,3027,1831,-0.0257\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0,3,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Eurizon Capital Sgr S.p.a.,0.0153,360000,222588,0.0\n1,2026-06-30,Allianz SE,0.0099,234050,144713,0.0\n2,2026-06-30,Virtu Financial LLC,0.0016,36913,22823,1.0\n3,2026-09-30,"Simplicity Wealth, LLC",0.0008,20038,12389,0.0779\n4,2026-06-30,"Ground Swell Capital, LLC",0.00059999997,14374,8887,1.0\n5,2026-09-30,Financial Planning Navigators Corp,0.0005,11371,7030,1.0\n6,2026-09-30,Gamma Investing LLC,0.0002,5389,3332,-0.45360002\n7,2026-06-30,UBS Group AG,0.0001,3027,1871,-0.0257\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0,3,1,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6540,3956,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6540,4043,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.15,GNTA,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,29171198,0.605,38460,52361,31678.405,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43370998,0.04731,108069,1.79,0.0023999999,,-0.93076926,,0.5778263,,0.954,,,,,none,,,,,,,0.755,https://www.genenta.com,2026-10-29T10:39:30.584429+00:00
+18.34,GNTA,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,29812484,0.6183,54870,53012,32777.319599999995,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43370998,0.04731,108069,1.79,0.0023999999,,-0.9512308,,0.59052896,,0.906,,,,,none,,,,,,,0.755,https://www.genenta.com,2026-10-31T16:25:12.067644+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-15,10.05,11.25,10.00,11.00,,,,,,,0,10.0000,1,5502,,,,
 2021-12-16,11.45,11.45,11.00,11.25,,,,,,,0,10.0000,1,982,,,,
@@ -1236,4 +1236,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.62,0.63,0.60,0.62,0.65,0.73,1.03,1.08,1.11,0.7913,0,0.6676,0,18,50,-0.1193,-0.1285,0.0092
 2026-10-27,0.63,0.64,0.59,0.62,0.64,0.71,1.01,1.08,1.10,0.7865,0,0.6533,0,12,49,-0.1153,-0.1259,0.0106
 2026-10-28,0.58,0.63,0.58,0.61,0.64,0.70,0.99,1.07,1.10,0.7757,0,0.6408,0,25,46,-0.1118,-0.1231,0.0112
-2026-10-29,0.60,0.62,0.60,0.60,0.63,0.69,0.98,1.07,1.10,0.7686,0,0.6370,0,55,45,-0.1083,-0.1201,0.0118
+2026-10-29,0.60,0.62,0.58,0.62,0.63,0.69,0.98,1.07,1.10,0.7647,0,0.6370,0,95,45,-0.1066,-0.1198,0.0131
+2026-10-30,0.62,0.64,0.60,0.62,0.63,0.68,0.96,1.07,1.09,0.7647,0,0.5800,1,42,44,-0.1015,-0.1161,0.0146
+2026-11-02,0.66,0.87,0.66,0.83,0.64,0.68,0.95,1.07,1.09,0.5466,1,0.5800,1,1290,68,-0.0795,-0.1088,0.0293

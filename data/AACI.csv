@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0793,2025000,20391749,0.0\n1,2026-06-30,Linden Advisors LP,0.054899998,1400000,14097999,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0431,1100000,11076999,1.0\n3,2026-06-30,"Wolverine Asset Management, LLC",0.04,1019872,10270110,97.0552\n4,2026-06-30,Magnetar Financial LLC,0.0392,1000000,10069999,1.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.0353,900000,9062999,1.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0353,900000,9062999,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.029000001,739995,7451749,1.0\n8,2026-06-30,Alberta Investment Management Corp,0.0274,700000,7048999,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0274,700000,7048999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0793,2025000,20432250,0.0\n1,2026-06-30,Linden Advisors LP,0.054899998,1400000,14126000,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0431,1100000,11099000,1.0\n3,2026-06-30,"Wolverine Asset Management, LLC",0.04,1019872,10290508,97.0552\n4,2026-06-30,Magnetar Financial LLC,0.0392,1000000,10090000,1.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.0353,900000,9081000,1.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0353,900000,9081000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.029000001,739995,7466549,1.0\n8,2026-06-30,Alberta Investment Management Corp,0.0274,700000,7063000,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0274,700000,7063000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0145000005,370000,3725899,0.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.002,50000,503499,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0011999999,30000,302099,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,1125,11328,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0145000005,370000,3733300,0.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.002,50000,504500,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0011999999,30000,302700,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,1125,11351,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AACI,Armada Acquisition Corp. III,Financial Services,Shell Companies,United States,342680384,10.07,49450,29346,295514.22000000003,,,,0.0,0.0,0.0,,,708174,0,,0.012,0.012,-83676,,25522000,23097069,0.0,0.77675,2627,0.08,0.0001,,,,-36.485508,,,,,,,none,,,,,,,,https://armadaacq.com,2026-10-29T08:07:46.796081+00:00
+0.00,AACI,Armada Acquisition Corp. III,Financial Services,Shell Companies,United States,343361024,10.09,88000,34462,347721.58,,,,0.0,0.0,0.0,,,708174,0,,0.012,0.012,-83676,,25522000,23097069,0.0,0.77675,2627,0.08,0.0001,,,,-36.557972,,,,,,,none,,,,,,,,https://armadaacq.com,2026-10-31T13:47:02.478958+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-27,9.95,9.95,9.74,9.87,,,,,,,0,9.7400,1,488,,,,
 2026-03-30,9.83,9.85,9.83,9.85,,,,,,,0,9.7400,1,390,,,,
@@ -163,3 +163,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.08,10.08,10.08,10.08,10.07,10.06,10.04,,,10.0972,0,10.0943,0,,254,0.0103,0.0108,-0.0005
 2026-10-27,10.06,10.06,10.06,10.06,10.07,10.07,10.04,,,10.0972,0,10.0934,0,253,241,0.0089,0.0104,-0.0015
 2026-10-28,10.07,10.07,10.06,10.07,10.07,10.07,10.04,,,10.0972,0,10.0925,0,1055,262,0.0085,0.0100,-0.0016
+2026-10-29,10.09,10.09,10.09,10.09,10.07,10.07,10.04,,,10.0972,0,10.0917,0,7189,326,0.0096,0.0100,-0.0003
+2026-10-30,10.09,10.09,10.09,10.09,10.07,10.07,10.04,,,10.0972,0,10.0909,0,359,333,0.0104,0.0100,0.0004
+2026-11-02,10.09,10.09,10.07,10.09,10.08,10.07,10.05,,,10.0972,0,10.0900,0,531,334,0.0109,0.0102,0.0007

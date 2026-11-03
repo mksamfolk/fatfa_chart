@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0001,1518,8576,1.0\n1,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,13,73,12.0\n2,2026-06-30,JPMORGAN CHASE & CO,0.0,99,559,1.0\n3,2026-06-30,Royal Bank of Canada,0.0,54,305,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0001,1518,8667,1.0\n1,2026-06-30,JPMORGAN CHASE & CO,0.0,99,565,1.0\n2,2026-06-30,Royal Bank of Canada,0.0,54,308,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.00059999997,6997,39533,-0.0275\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,6690,37798,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.00059999997,6997,39952,-0.0275\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,6690,38199,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.81975996\ninstitutionsPercentHeld,0.00068999996\ninstitutionsFloatPercentHeld,0.0038100001\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.81975996\ninstitutionsPercentHeld,0.00068999996\ninstitutionsFloatPercentHeld,0.0038\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "9b59437e-e002-3408-9e86-f2872ef645dd",\n    "title": "Julong Holding Limited Announces Private Placement",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/julong-holding-limited-announces-private-003000469.html",\n    "providerPublishTime": 1790641800,\n    "type": "STORY",\n    "relatedTickers": [\n      "JLHL"\n    ]\n  },\n  {\n    "uuid": "867efb20-f00c-32f7-9cb1-b26a5af6facb",\n    "title": "Julong Holding Limited Reports Unaudited Financial Results for the First Half of Fiscal Year 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/julong-holding-limited-reports-unaudited-123000683.html",\n    "providerPublishTime": 1787056200,\n    "type": "STORY",\n    "relatedTickers": [\n      "JLHL"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.22,JLHL,Julong Holding Limited,Industrials,Building Products & Equipment,China,125422272,5.65,60940,868744,4908403.600000001,0.216,-0.06,0.008,0.15781,0.108559996,0.095740005,0.48021,0.06424,43216644,10214794,12.711,1.213,1.2,-9337535,-3061416,12198632,1448641,0.81975996,0.00068999996,82741,0.41,0.0376,31.388887,,0.4575363,10.069875,0.322,2.866,,,,,none,,,,,,,,https://www.julongzx.com,2026-10-29T11:18:36.002221+00:00
+51.34,JLHL,Julong Holding Limited,Industrials,Building Products & Equipment,China,126754192,5.71,60440,875978,5001834.38,0.216,-0.06,0.008,0.15781,0.108559996,0.095740005,0.48021,0.06424,43216644,10214794,12.711,1.213,1.2,-9337535,-3061416,12198632,1448641,0.81975996,0.00068999996,82741,0.41,0.0376,31.722221,,0.46239513,10.176811,0.326,2.908,,,,,none,,,,,,,,https://www.julongzx.com,2026-10-31T17:51:00.701052+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-26,6.21,6.30,4.21,4.23,,,,,,,0,6.3000,0,3251,,,,
 2025-06-27,4.25,4.69,4.10,4.51,,,,,,,0,6.3000,0,1960,,,,
@@ -352,4 +352,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,4.85,5.26,4.83,5.10,4.84,4.92,6.10,11.16,9.49,6.2528,0,4.2190,1,255,8917,-0.4450,-0.6066,0.1616
 2026-10-27,5.09,5.86,5.09,5.54,4.88,4.89,6.09,11.16,9.50,6.2528,0,4.2580,1,465,8885,-0.3611,-0.5575,0.1965
 2026-10-28,5.60,5.90,5.56,5.65,4.98,4.86,6.08,11.16,9.51,6.2528,0,4.2963,1,182,8876,-0.2824,-0.5025,0.2201
-2026-10-29,5.61,5.74,5.56,5.63,5.07,4.84,6.08,11.16,9.52,6.2528,0,4.3338,1,66,8866,-0.2195,-0.4459,0.2264
+2026-10-29,5.61,5.74,5.31,5.41,5.05,4.83,6.08,11.16,9.52,6.2528,0,4.3338,1,163,8868,-0.2367,-0.4493,0.2127
+2026-10-30,5.37,6.00,5.24,5.71,5.15,4.81,6.05,11.16,9.53,6.2528,0,4.3705,1,401,8836,-0.1742,-0.3943,0.2201
+2026-11-02,5.76,6.00,5.66,5.84,5.27,4.91,6.04,11.16,9.54,6.2528,0,4.4065,1,370,8828,-0.1129,-0.3380,0.2251

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IAM,Iambic Therapeutics Inc.,Healthcare,Biotechnology,United States,700583744,14.78,1143600,1143600,16902408.0,2.247,,,0.0,-4.19595,0.0,,,207878000,5226000,3.236,4.593,4.513,-65726000,,47400796,2456877,0.0763,0.17316,0,0.0,,,,38.386047,-1.5002029,29.602,-5.468,,,,,none,,,,,,,,https://www.iambic.ai,2026-10-29T11:00:04.739692+00:00
+0.00,IAM,Iambic Therapeutics Inc.,Healthcare,Biotechnology,United States,636592704,13.43,720850,1015233,13634579.19,2.247,,,0.0,-4.19595,0.0,,,207878000,5226000,3.236,4.593,4.513,-65726000,,47400796,2456877,0.0763,0.17316,0,0.0,,,,34.87988,-1.363175,27.856,-5.146,,,,,none,,,,,,,,https://www.iambic.ai,2026-10-31T17:23:11.748184+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-15,16.15,19.70,16.15,18.91,,,,,,,0,16.1500,1,37998,,,,
 2026-10-16,19.31,25.00,19.31,23.81,,,,,,,0,16.1500,1,70594,,,,
@@ -39,4 +39,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,14.40,15.25,14.00,14.41,,,,,,,0,23.9054,0,2147,,,,
 2026-10-27,14.41,14.90,13.51,14.00,,,,,,,0,23.4700,0,6156,,,,
 2026-10-28,13.84,16.50,13.60,14.78,16.30,,,,,24.7700,0,23.0520,0,13676,,,,
-2026-10-29,14.79,14.96,14.11,14.13,15.82,,,,,23.5380,0,22.6507,0,1666,,,,
+2026-10-29,14.79,14.96,13.76,14.28,15.84,,,,,23.4680,0,22.6507,0,3857,,,,
+2026-10-30,13.10,13.57,12.39,13.43,14.80,,,,,21.7442,0,22.2655,0,6402,,,,
+2026-11-02,13.43,13.55,12.06,12.95,14.46,,,,,21.1388,0,21.6730,0,5212,,,,

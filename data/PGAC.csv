@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PGAC,Pantages Capital Acquisition Corporation,Financial Services,Shell Companies,United States,55575912,10.82,1600,910,9846.2,,-0.223,-0.256,0.0,0.0,0.0,,,352,1208500,,0.055,0.0,-1267792,,2980156,2306760,0.27597,0.91876,640,2.04,0.0008,60.111107,,,-26.584766,,,,,,,none,,,,,,,,https://www.pantagescapital.com,2026-10-29T12:42:27.796038+00:00
+0.00,PGAC,Pantages Capital Acquisition Corporation,Financial Services,Shell Companies,United States,55575912,10.82,1600,850,9197.0,,-0.223,-0.256,0.0,0.0,0.0,,,352,1208500,,0.055,0.0,-1267792,,2980156,2306760,0.27597,0.91876,640,2.04,0.0008,60.111107,,,-26.584766,,,,,,,none,,,,,,,,https://www.pantagescapital.com,2026-10-31T19:15:45.574108+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-28,9.89,9.91,9.89,9.91,,,,,,,0,9.8900,1,2154,,,,
 2025-01-29,9.91,9.92,9.90,9.91,,,,,,,0,9.8900,1,5631,,,,
@@ -455,3 +455,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.81,10.81,10.81,10.81,10.79,10.77,10.72,10.61,10.56,10.7827,1,10.8241,0,,14,0.0253,0.0226,0.0027
 2026-10-27,10.81,10.81,10.81,10.81,10.79,10.77,10.73,10.61,10.56,10.7854,1,10.8198,0,,14,0.0254,0.0232,0.0022
 2026-10-28,10.82,10.82,10.82,10.82,10.80,10.78,10.73,10.61,10.56,10.7949,1,10.6100,1,2,14,0.0260,0.0238,0.0022
+2026-10-29,10.82,10.82,10.82,10.82,10.80,10.78,10.73,10.62,10.56,10.7974,1,10.6142,1,,12,0.0261,0.0242,0.0019
+2026-10-30,10.82,10.82,10.82,10.82,10.81,10.79,10.73,10.62,10.57,10.7997,1,10.6183,1,,12,0.0260,0.0246,0.0014

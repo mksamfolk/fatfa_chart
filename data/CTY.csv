@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CTY,City Therapeutics Inc.,Healthcare,Biotechnology,United States,1089693824,21.65,420222,420222,9097806.299999999,0.14,,,0.0,-8.041989,0.0,,,169604992,57037000,45.872,2.713,2.698,-77671000,,50332279,2957412,0.07369,0.37640998,0,,,,,75.97921,-0.86916375,17.987,-3.108,,,,,none,,,,,,,,https://www.citytx.com,2026-10-29T09:40:29.625799+00:00
+0.00,CTY,City Therapeutics Inc.,Healthcare,Biotechnology,United States,1042381504,20.71,262360,366336,7586818.5600000005,0.14,,,0.0,-8.041989,0.0,,,169604992,57037000,45.872,2.713,2.698,-77671000,,50332279,2561289,0.07369,0.37640998,0,,,,,72.68034,-0.8314263,17.641,-3.048,,,,,none,,,,,,,,https://www.citytx.com,2026-10-31T15:21:57.921833+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-16,23.00,23.88,20.50,22.40,,,,,,,0,20.5000,1,31497,,,,
 2026-10-19,21.94,22.00,21.03,21.46,,,,,,,0,20.5000,1,6490,,,,
@@ -38,4 +38,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,20.62,21.31,20.30,20.79,,,,,,,0,23.1952,0,2830,,,,
 2026-10-27,20.79,21.59,20.70,20.86,,,,,,,0,22.9885,0,4481,,,,
 2026-10-28,20.89,22.05,20.50,21.65,,,,,,,0,22.7942,0,7259,,,,
-2026-10-29,21.63,22.25,21.54,22.01,21.20,,,,,26.2055,0,22.6116,0,404,,,,
+2026-10-29,21.63,22.35,21.54,22.14,21.21,,,,,26.2860,0,22.6116,0,2898,,,,
+2026-10-30,22.08,22.26,20.37,20.71,21.04,,,,,25.7889,0,22.4399,0,2419,,,,
+2026-11-02,21.08,22.65,20.39,20.88,20.98,,,,,25.7889,0,19.7500,1,4467,,,,

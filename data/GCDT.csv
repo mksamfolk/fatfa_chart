@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Citadel Advisors Llc,0.0,66740,8863,1.0\n1,2026-03-31,Xtx Topco Ltd,0.0,17031,2261,1.0\n2,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,-0.5\n3,2026-06-30,UBS Group AG,0.0,3629,481,3.8581\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Citadel Advisors Llc,0.0,66740,8475,1.0\n1,2026-03-31,Xtx Topco Ltd,0.0,17031,2162,1.0\n2,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,-0.5\n3,2026-06-30,UBS Group AG,0.0,3629,460,3.8581\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-07 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GCDT,,Industrials,Specialty Industrial Machinery,Hong Kong,513387,0.1328,16599740,4725595,627559.0160000001,0.133,,,0.17345,-0.43948,-0.52346003,-0.78195,-0.09538,36308320,8124237,14.895,4.223,4.109,-15523724,-21786938,2805867,1325104,0.88441,0.01863,11065,0.0,0.0063,,,0.020493379,0.035513967,-1.115,8.447,,,,,none,,,,,,,,https://pcm-tes.com,2026-10-29T10:31:37.163502+00:00
+0.00,GCDT,,Industrials,Specialty Industrial Machinery,Hong Kong,490965,0.127,15155380,4847320,615609.64,0.133,,,0.17345,-0.43948,-0.52346003,-0.78195,-0.09538,36308320,8124237,14.895,4.223,4.109,-15523724,-21786938,2805867,1183715,0.88441,0.01863,11065,0.0,0.0063,,,0.019598337,0.033962905,-1.116,8.45,,,,,none,,,,,,,,https://pcm-tes.com,2026-10-31T16:17:04.435209+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-13,4.30,5.60,4.15,4.21,,,,,,,0,4.1500,1,10247,,,,
 2026-01-14,4.75,5.85,4.40,5.56,,,,,,,0,4.1500,1,2755,,,,
@@ -213,5 +213,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.17,0.18,0.17,0.18,0.29,0.58,0.48,0.81,,0.7263,0,0.9430,0,198,8487,-0.1070,-0.0451,-0.0619
 2026-10-26,0.16,0.17,0.13,0.16,0.26,0.57,0.48,0.80,,0.6573,0,0.8179,0,10318,8693,-0.1143,-0.0589,-0.0554
 2026-10-27,0.14,0.14,0.13,0.14,0.23,0.53,0.47,0.79,,0.5994,0,0.6939,0,619,8705,-0.1204,-0.0712,-0.0492
-2026-10-28,0.13,0.13,0.12,0.13,0.20,0.50,0.47,0.77,,0.5519,0,0.5801,0,190,8708,-0.1239,-0.0818,-0.0422
-2026-10-29,0.12,0.13,0.12,0.13,0.18,0.48,0.46,0.75,,0.5124,0,0.4883,0,142,8709,-0.1258,-0.0906,-0.0353
+2026-10-28,0.13,0.13,0.12,0.13,0.20,0.50,0.47,0.77,,0.5519,0,0.5801,0,195,8708,-0.1239,-0.0818,-0.0422
+2026-10-29,0.12,0.13,0.12,0.13,0.18,0.48,0.46,0.75,,0.5125,0,0.4883,0,217,8711,-0.1255,-0.0905,-0.0350
+2026-10-30,0.13,0.13,0.12,0.13,0.17,0.47,0.46,0.74,,0.4778,0,0.4148,0,182,8713,-0.1256,-0.0975,-0.0280
+2026-11-02,0.11,0.11,0.07,0.09,0.15,0.34,0.45,0.72,,0.4230,0,0.3559,0,1589,8744,-0.1275,-0.1035,-0.0239

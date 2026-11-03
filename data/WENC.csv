@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,160977312,10.03,20170,7885,79086.54999999999,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.49173,47353,7.85,0.0038,,,,278.6111,,,,,,,none,,,,,,,,,2026-10-29T14:35:58.275706+00:00
+0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,160977312,10.03,20170,7834,78575.01999999999,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.49173,47353,7.85,0.0038,,,,278.6111,,,,,,,none,,,,,,,,,2026-10-31T21:00:27.214410+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-13,9.86,9.89,9.86,9.88,,,,,,,0,9.8600,1,4224,,,,
 2026-05-14,9.89,9.89,9.87,9.88,,,,,,,0,9.8600,1,153,,,,
@@ -131,4 +131,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.99,10.03,9.99,10.03,10.02,10.02,10.00,,,10.0125,1,10.0500,0,2007,90,0.0082,0.0088,-0.0005
 2026-10-27,9.99,9.99,9.99,9.99,10.02,10.02,10.00,,,10.0189,0,10.0488,0,1,74,0.0052,0.0081,-0.0028
 2026-10-28,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,9.9920,1,10.0476,0,15,74,0.0060,0.0076,-0.0016
-2026-10-29,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,9.9958,1,10.0465,0,0,74,0.0066,0.0074,-0.0009
+2026-10-29,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,9.9958,1,10.0465,0,,74,0.0066,0.0074,-0.0009
+2026-10-30,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,9.9992,1,10.0453,0,,73,0.0069,0.0073,-0.0004
+2026-11-02,10.03,10.04,10.03,10.03,10.02,10.02,10.00,,,10.0043,1,10.0442,0,355,80,0.0071,0.0073,-0.0002

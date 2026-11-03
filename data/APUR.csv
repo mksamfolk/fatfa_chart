@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,APUR,Aperture AC,Financial Services,Shell Companies,United States,148072720,10.05,5180,75750,761287.5,,,,0.0,0.0,0.0,,,450949,0,,0.202,0.172,-87633,,10961000,8127055,0.05562,0.90225,1293,0.03,0.0001,,,,314.0625,,,,,,,none,,,,,,,,,2026-10-29T08:32:43.673555+00:00
+0.00,APUR,Aperture AC,Financial Services,Shell Companies,United States,148072720,10.05,5180,76196,765769.8,,,,0.0,0.0,0.0,,,450949,0,,0.202,0.172,-87633,,10961000,8127055,0.05562,0.90225,1293,0.03,0.0001,,,,314.0625,,,,,,,none,,,,,,,,,2026-10-31T14:12:30.309511+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-21,10.01,10.02,9.99,10.00,,,,,,,0,10.0200,0,32378,,,,
 2026-05-22,9.99,10.00,9.99,10.00,,,,,,,0,10.0200,0,6252,,,,
@@ -125,3 +125,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.05,10.05,10.05,10.05,10.05,10.04,10.00,,,10.0544,0,10.1247,0,,857,0.0136,0.0156,-0.0020
 2026-10-27,10.05,10.05,10.05,10.05,10.05,10.04,10.00,,,10.0544,0,10.1230,0,,857,0.0130,0.0150,-0.0021
 2026-10-28,10.05,10.05,10.05,10.05,10.05,10.04,10.01,,,10.0544,0,10.1214,0,,827,0.0124,0.0145,-0.0021
+2026-10-29,10.05,10.05,10.05,10.05,10.05,10.05,10.01,,,10.0544,0,10.1197,0,,827,0.0117,0.0140,-0.0022
+2026-10-30,10.05,10.05,10.05,10.05,10.05,10.05,10.01,,,10.0544,0,10.1181,0,,818,0.0111,0.0134,-0.0023

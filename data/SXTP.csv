@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,DOW GEOFFREY S,Chief Executive Officer,,Purchase,2026-06-12,24131,2026-06-12\n1,LANDON KRISTEN,Chief Operating Officer,,Stock Award(Grant),2025-01-17,4540,2025-01-17\n2,MILLER TYRONE,Chief Financial Officer,,Stock Award(Grant),2025-01-17,26370,2025-01-17\n3,XU CHERYL,Director,,Purchase,2025-06-03,15816,2025-06-03\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Kathmere Capital Management, Llc",0.1112,390953,335867,0.4747\n1,2026-06-30,Citadel Advisors Llc,0.0064,22362,19211,1.0\n2,2026-06-30,Xtx Topco Ltd,0.005,17639,15153,1.0\n3,2026-06-30,"Kovack Advisors, Inc.",0.0043,15000,12886,1.0\n4,2026-06-30,"Geode Capital Management, LLC",0.0041,14551,12500,-0.107\n5,2026-06-30,UBS Group AG,0.0039,13592,11676,-0.5673\n6,2026-06-30,Barclays Plc,0.00029999999,1052,903,-0.4332\n7,2026-06-30,Osaic Holdings Inc.,0.0,25,21,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Kathmere Capital Management, Llc",0.1112,390953,367495,0.4747\n1,2026-06-30,Citadel Advisors Llc,0.0064,22362,21020,1.0\n2,2026-06-30,Xtx Topco Ltd,0.005,17639,16580,1.0\n3,2026-06-30,"Kovack Advisors, Inc.",0.0043,15000,14099,1.0\n4,2026-06-30,"Geode Capital Management, LLC",0.0041,14551,13677,-0.107\n5,2026-06-30,UBS Group AG,0.0039,13592,12776,-0.5673\n6,2026-06-30,Barclays Plc,0.00029999999,1052,988,-0.4332\n7,2026-06-30,Osaic Holdings Inc.,0.0,25,23,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0041,14380,12353,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0041,14380,13517,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,1,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-12 09:30:00-04:00,0.08333333333333333\n2025-02-24 09:30:00-05:00,0.2\n2026-01-20 09:30:00-05:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.78,SXTP,60 Degrees Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,3021444,0.8591,1860870,407853,350386.5123,-0.325,,,-1.6987,-10.92412,0.0,-3.32853,-1.27108,1022606,151179,5.979,2.325,0.99,-8774808,-6081180,3516988,2445502,0.19391,0.20688999,135408,0.64,0.0388,,-0.23997207,2.4869263,-0.32852772,9.539,-1.363,3.7,3.7,3.7,,none,1,0,0,1,1,,2.396,https://www.60degreespharma.com,2026-10-29T13:53:28.636958+00:00
+8.48,SXTP,60 Degrees Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,3305968,0.94,1901170,403550,379337.0,-0.325,,,-1.6987,-10.92412,0.0,-3.32853,-1.27108,1022606,151179,5.979,2.325,0.99,-8774808,-6081180,3516988,2445502,0.19391,0.20688999,135408,0.64,0.0388,,-0.26256984,2.7211158,-0.35946462,9.808,-1.401,3.7,3.7,3.7,,none,1,0,0,1,1,,2.396,https://www.60degreespharma.com,2026-10-31T20:19:22.760611+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-12,900.00,1190.40,888.00,1123.20,,,,,,,0,888.0000,1,23551,,,,
 2023-07-13,1656.00,2076.00,1056.00,1087.20,,,,,,,0,888.0000,1,99703,,,,
@@ -842,5 +842,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-23,0.82,0.93,0.82,0.87,0.88,0.95,1.08,1.50,1.92,1.2364,0,1.1735,0,11,163,-0.0649,-0.0652,0.0003
 2026-10-26,0.86,0.89,0.82,0.87,0.88,0.95,1.07,1.48,1.90,1.2000,0,1.1301,0,17,162,-0.0635,-0.0649,0.0014
 2026-10-27,0.87,0.87,0.59,0.74,0.86,0.94,1.05,1.47,1.89,1.1248,0,1.0919,0,12152,402,-0.0718,-0.0663,-0.0056
-2026-10-28,0.79,0.99,0.75,0.85,0.86,0.94,1.04,1.46,1.88,1.1248,0,1.0214,0,1686,435,-0.0690,-0.0668,-0.0022
-2026-10-29,0.80,1.00,0.80,0.95,0.86,0.94,1.03,1.46,1.87,1.1248,0,0.5880,1,284,424,-0.0577,-0.0650,0.0073
+2026-10-28,0.79,0.99,0.75,0.85,0.86,0.94,1.04,1.46,1.88,1.1248,0,1.0214,0,1705,436,-0.0690,-0.0668,-0.0022
+2026-10-29,0.80,1.00,0.80,0.95,0.86,0.94,1.03,1.46,1.87,1.1248,0,0.5880,1,337,426,-0.0580,-0.0651,0.0071
+2026-10-30,0.94,0.97,0.90,0.94,0.87,0.94,1.02,1.45,1.86,1.1248,0,0.5962,1,69,413,-0.0493,-0.0619,0.0126
+2026-11-02,0.95,0.95,0.83,0.91,0.88,0.91,1.02,1.44,1.85,1.1248,0,0.6043,1,42,410,-0.0447,-0.0585,0.0138

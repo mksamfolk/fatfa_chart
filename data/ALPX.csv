@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0025,30000,299100,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0025,30000,298499,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0041,48651,485050,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,13057,130178,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0041,48651,484077,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,13057,129917,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALPX,Alpex Acquisition Corporation,Financial Services,Shell Companies,United States,147481232,9.97,52470,55038,548728.86,,,,0.0,0.0,0.0,,,754952,219028,0.191,,,,,11917500,,0.04235,0.18642001,80484,1.78,,,,,1.2839665,,,,,,,none,,,,,,,,,2026-10-29T08:24:51.109938+00:00
+0.00,ALPX,Alpex Acquisition Corporation,Financial Services,Shell Companies,United States,147185376,9.95,52560,51948,516882.6,,,,0.0,0.0,0.0,,,754952,219028,0.191,,,,,11917500,,0.04235,0.18642001,80484,1.78,,,,,1.2813909,,,,,,,none,,,,,,,,,2026-10-31T14:04:19.846920+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-07,10.00,10.00,9.81,9.84,,,,,,,0,9.8100,1,3433,,,,
 2026-07-08,9.84,9.85,9.84,9.84,,,,,,,0,9.8100,1,1270,,,,
@@ -95,3 +95,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.97,9.97,9.97,9.97,9.97,9.96,9.93,,,9.9608,1,9.9005,1,,502,0.0123,0.0135,-0.0012
 2026-10-27,9.97,9.97,9.97,9.97,9.97,9.96,9.93,,,9.9618,1,9.9018,1,,490,0.0118,0.0132,-0.0014
 2026-10-28,9.97,9.97,9.97,9.97,9.97,9.96,9.93,,,9.9626,1,9.9032,1,,489,0.0112,0.0128,-0.0016
+2026-10-29,9.97,9.97,9.97,9.97,9.97,9.96,9.93,,,9.9633,1,9.9045,1,,477,0.0106,0.0123,-0.0017
+2026-10-30,9.95,9.95,9.95,9.95,9.97,9.96,9.94,,,9.9620,0,9.9059,1,9,439,0.0085,0.0116,-0.0031
+2026-11-02,9.98,9.98,9.96,9.98,9.97,9.96,9.94,,,9.9512,1,9.9071,1,33,440,0.0091,0.0111,-0.0020

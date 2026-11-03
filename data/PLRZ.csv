@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,ADLER OZ,Director,,Sale,2026-03-31,19850,2026-03-31\n1,CARMEL LIRON,Director,,Sale,2026-03-31,3127,2026-03-31\n2,IZRAELI TOMER,Chief Executive Officer,,Sale,2026-03-31,31512,2026-03-31\n3,TURGEMAN TIDHAR,Chief Technology Officer,,Sale,2026-03-30,17518,2026-03-30\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"MMCAP International, Inc. SPC",0.082100004,199470,1717436,1.0\n1,2026-06-30,HRT Financial LP,0.0088,21363,183935,1.0\n2,2026-06-30,"Caitong International Asset Management Co., Ltd",0.0,11,94,1.0\n3,2026-06-30,Morgan Stanley,0.0,3,25,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"MMCAP International, Inc. SPC",0.082100004,199470,2144302,1.0\n1,2026-06-30,HRT Financial LP,0.0088,21363,229652,1.0\n2,2026-06-30,Morgan Stanley,0.0,3,32,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,10,107,-0.090900004\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,823,7086,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,823,8847,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-27 09:30:00-04:00,0.004\n2025-11-28 09:30:00-05:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.17,PLRZ,Polyrizon Ltd.,Healthcare,Biotechnology,Israel,20910280,8.61,18600,53879,463898.18999999994,,,,0.0,0.0,0.0,-0.21417,-0.23296,16072000,0,,36.371,35.875,-4662000,-2086750,2428604,1866222,0.00756,0.09345,68324,2.37,0.028499998,,,,0.7496735,,-0.285,,,,,none,,,,,,,,https://www.polyrizon-biotech.com,2026-10-29T12:46:08.466203+00:00
+60.70,PLRZ,Polyrizon Ltd.,Healthcare,Biotechnology,Israel,26107492,10.75,14750,52785,567438.75,,,,0.0,0.0,0.0,-0.21417,-0.23296,16072000,0,,36.371,35.875,-4662000,-2086750,2428604,1866222,0.00756,0.09345,68324,2.37,0.028499998,,,,0.9360035,,-0.867,,,,,none,,,,,,,,https://www.polyrizon-biotech.com,2026-10-31T19:19:28.472499+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-29,2460.00,2955.00,1665.00,2325.00,,,,,,,0,1665.0000,1,2504,,,,
 2024-10-30,2400.00,2625.00,2100.00,2520.00,,,,,,,0,1665.0000,1,7608,,,,
@@ -515,4 +515,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.01,9.23,8.38,8.96,9.46,9.69,10.79,12.63,12.67,11.6460,0,11.5800,0,142,743,-0.6358,-0.5942,-0.0416
 2026-10-27,8.74,8.97,8.54,8.58,9.34,9.56,10.68,12.60,12.66,11.4384,0,11.5160,0,45,710,-0.6531,-0.6060,-0.0471
 2026-10-28,8.90,8.90,8.47,8.61,9.16,9.45,10.63,12.57,12.65,11.2302,0,11.4533,0,28,691,-0.6568,-0.6162,-0.0407
-2026-10-29,8.65,8.65,8.64,8.64,9.03,9.32,10.56,12.53,12.65,10.9472,0,11.3918,0,19,679,-0.6499,-0.6229,-0.0270
+2026-10-29,8.65,9.10,8.60,9.00,9.06,9.34,10.57,12.54,12.65,11.2302,0,11.3918,0,75,680,-0.6209,-0.6171,-0.0038
+2026-10-30,9.46,10.86,9.32,10.75,9.14,9.33,10.55,12.52,12.67,11.2302,0,11.3316,0,493,683,-0.4463,-0.5829,0.1366
+2026-11-02,10.67,12.30,10.67,11.26,9.30,9.43,10.55,12.51,12.69,8.5180,1,8.3800,1,789,677,-0.2638,-0.5191,0.2553

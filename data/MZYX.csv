@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0583,1750000,17473749,1.0\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0583,1750000,17473749,1.0\n2,2026-06-30,Linden Advisors LP,0.033299997,1000000,9984999,1.0\n3,2026-06-30,Magnetar Financial LLC,0.033299997,1000000,9984999,1.0\n4,2026-06-30,"ExodusPoint Capital Management, LP",0.033299997,1000000,9984999,1.0\n5,2026-06-30,Jain Global LLC,0.033299997,1000000,9984999,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.026300002,789195,7880111,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.025,750000,7488749,1.0\n8,2026-06-30,Millennium Management Llc,0.025,750000,7488749,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.023699999,711898,7108301,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0583,1750000,17500000,1.0\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0583,1750000,17500000,1.0\n2,2026-06-30,Linden Advisors LP,0.033299997,1000000,10000000,1.0\n3,2026-06-30,Magnetar Financial LLC,0.033299997,1000000,10000000,1.0\n4,2026-06-30,"ExodusPoint Capital Management, LP",0.033299997,1000000,10000000,1.0\n5,2026-06-30,Jain Global LLC,0.033299997,1000000,10000000,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.026300002,789195,7891950,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.025,750000,7500000,1.0\n8,2026-06-30,Millennium Management Llc,0.025,750000,7500000,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.023699999,711898,7118980,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0002,6379,63694,1.0\n1,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0001,2880,28756,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0002,6379,63790,1.0\n1,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0001,2880,28800,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MZYX,,Financial Services,Shell Companies,United States,374437472,9.985,49180,29031,289874.535,,,,0.0,0.0,0.0,,,1223202,0,,0.017,,0,,30000000,29996250,0.00333,0.63679004,1,0.0,,,,,1.2821006,,,,,,,none,,,,,,,,,2026-10-29T12:06:08.085576+00:00
+0.00,MZYX,,Financial Services,Shell Companies,United States,375000000,10.0,44780,28679,286790.0,,,,0.0,0.0,0.0,,,1223202,0,,0.017,,0,,30000000,29996250,0.00333,0.63679004,1,0.0,,,,,1.2840267,,,,,,,none,,,,,,,,,2026-10-31T18:38:49.086462+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-21,9.94,9.94,9.86,9.89,,,,,,,0,9.8600,1,71,,,,
 2026-04-22,9.89,9.89,9.89,9.89,,,,,,,0,9.8600,1,2817,,,,
@@ -147,4 +147,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.99,9.99,9.99,9.99,9.99,9.99,9.97,,,9.9617,1,9.9598,1,,280,0.0028,0.0037,-0.0009
 2026-10-27,9.99,9.99,9.99,9.99,9.99,9.99,9.97,,,9.9645,1,9.9618,1,8,280,0.0027,0.0035,-0.0007
 2026-10-28,9.99,9.99,9.98,9.99,9.99,9.99,9.97,,,9.9645,1,9.9637,1,247,284,0.0027,0.0033,-0.0006
-2026-10-29,9.99,9.99,9.98,9.98,9.99,9.99,9.97,,,9.9645,1,9.9656,1,246,288,0.0022,0.0031,-0.0009
+2026-10-29,10.00,10.00,10.00,10.00,9.99,9.99,9.97,,,9.9737,1,9.9656,1,52,284,0.0034,0.0033,0.0001
+2026-10-30,9.99,10.00,9.99,10.00,9.99,9.99,9.97,,,9.9737,1,9.9674,1,27,280,0.0039,0.0035,0.0005
+2026-11-02,10.00,10.00,10.00,10.00,9.99,9.99,9.97,,,9.9760,1,9.9691,1,27,279,0.0043,0.0036,0.0007

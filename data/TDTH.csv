@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,"Renaissance Technologies, LLC",0.0031,14133,8775,5.4740996\n1,2026-03-31,J. Derek Lewis & Associates Inc.,0.0011999999,5473,3398,-0.1612\n2,2026-03-31,UBS Group AG,0.0002,1041,646,2.7854998\n3,2026-03-31,"Two Sigma Securities, LLC",0.0002,996,618,1.0\n4,2026-03-31,LPL Financial LLC,0.0001,367,227,-0.119899996\n5,2026-03-31,Stonex Group Inc.,0.0001,380,235,0.0765\n6,2026-03-31,Xtx Topco Ltd,0.0001,346,214,-0.8921\n7,2026-03-31,Rhumbline Advisers,0.0,199,123,0.0\n8,2026-03-31,Citigroup Inc.,0.0,134,83,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,7,4,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,291,180,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,291,202,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-24 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.20,TDTH,Trident Digital Tech Holdings Ltd,Technology,Information Technology Services,Singapore,67764712,0.6209,279170,128250,79630.425,9.501,,,0.82866997,-31.23977,0.0,,-2.99659,217458,14099686,,0.183,0.03,-10949652,-3538821,58931161,,0.024149999,0.0004,34010,0.34,0.0001,,,133.18954,-0.2541547,33.468,-0.856,,,,,none,,,,,,,,https://tridentity.me,2026-10-29T13:57:54.539651+00:00
+2.17,TDTH,Trident Digital Tech Holdings Ltd,Technology,Information Technology Services,Singapore,75851952,0.695,276970,128868,89563.26,9.501,,,0.82866997,-31.23977,0.0,,-2.99659,217458,14099686,,0.183,0.03,-10949652,-3538821,58931161,,0.024149999,0.0004,34010,0.34,0.0001,,,149.08478,-0.28448626,33.906,-0.867,,,,,none,,,,,,,,https://tridentity.me,2026-10-31T20:23:52.158642+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-10,135.00,142.20,114.60,114.90,,,,,,,0,142.2000,0,2601,,,,
 2024-09-11,126.60,134.10,75.00,119.40,,,,,,,0,142.2000,0,5742,,,,
@@ -550,4 +550,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.67,0.67,0.64,0.64,0.78,1.02,1.71,2.75,4.54,1.0469,0,0.8462,0,14,147,-0.3014,-0.3060,0.0047
 2026-10-27,0.67,0.67,0.56,0.60,0.75,0.96,1.66,2.71,4.48,1.0005,0,0.8046,0,18,144,-0.2988,-0.3046,0.0058
 2026-10-28,0.60,0.65,0.57,0.65,0.73,0.91,1.62,2.67,4.43,0.9842,0,0.7554,0,1138,166,-0.2892,-0.3015,0.0123
-2026-10-29,0.65,0.75,0.62,0.72,0.72,0.86,1.58,2.63,4.37,0.9842,0,0.5590,1,100,166,-0.2728,-0.2958,0.0230
+2026-10-29,0.64,0.75,0.62,0.69,0.71,0.86,1.57,2.63,4.37,0.9842,0,0.5590,1,107,166,-0.2750,-0.2962,0.0212
+2026-10-30,0.69,0.70,0.66,0.69,0.70,0.81,1.54,2.60,4.32,0.9842,0,0.5629,1,10,164,-0.2605,-0.2891,0.0286
+2026-11-02,0.71,0.74,0.69,0.71,0.70,0.80,1.51,2.56,4.26,0.9842,0,0.5666,1,9,161,-0.2452,-0.2803,0.0351

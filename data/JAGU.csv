@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,GOLD STEVEN BRIAN,Chief Executive Officer,,Purchase,2026-08-28,62000.0,1787875200.0,,\n1,ISOENERGY LTD.,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-02-11,,,3250000.0,2026-02-11\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vident Advisory, LLC                          ",0.0422,852807,878391,0.5661\n1,2026-06-30,Covalis Capital LLP,0.025799999,520201,535807,-0.2569\n2,2026-06-30,"Empery Asset Management, LP",0.0241,487500,502124,0.0\n3,2026-06-30,Alps Advisors Inc.,0.022,443403,456705,1.0\n4,2026-06-30,"HOHIMER WEALTH MANAGEMENT, LLC",0.0062,126000,129779,0.0\n5,2026-06-30,Luminarx Capital Management LP,0.0055,110636,113955,2.6879\n6,2026-06-30,"Cable Car Capital, LP",0.005,100000,102999,0.0\n7,2026-06-30,"Alpine Global Management, LLC",0.0038,77178,79493,1.0\n8,2026-06-30,Weiss Asset Management Lp,0.0026,51693,53243,-0.36560002\n9,2026-06-30,Citadel Advisors Llc,0.0025,50000,51499,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vident Advisory, LLC                          ",0.0422,852807,835665,0.5661\n1,2026-06-30,Covalis Capital LLP,0.025799999,520201,509744,-0.2569\n2,2026-06-30,"Empery Asset Management, LP",0.0241,487500,477701,0.0\n3,2026-06-30,Alps Advisors Inc.,0.022,443403,434490,1.0\n4,2026-06-30,"HOHIMER WEALTH MANAGEMENT, LLC",0.0062,126000,123467,0.0\n5,2026-06-30,Luminarx Capital Management LP,0.0055,110636,108412,2.6879\n6,2026-06-30,"Cable Car Capital, LP",0.005,100000,97990,0.0\n7,2026-06-30,"Alpine Global Management, LLC",0.0038,77178,75626,1.0\n8,2026-06-30,Weiss Asset Management Lp,0.0026,51693,50653,-0.36560002\n9,2026-06-30,Citadel Advisors Llc,0.0025,50000,48995,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,SPROTT FUNDS TRUST-Sprott Junior Uranium Miners ETF,0.022,443403,456705,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,SPROTT FUNDS TRUST-Sprott Junior Uranium Miners ETF,0.022,443403,434490,1.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n1,-1m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JAGU,Jaguar Uranium Corp.,Energy,Uranium,Canada,20799588,1.03,75600,127221,131037.63,,,,0.0,0.0,0.0,-1.3499899,-0.73836,19076142,0,,37.619,36.931,-4319583,4457151,20193777,9252587,0.54103,0.23983,47480,0.22,0.0042,,-3.4333332,,0.8097484,,-0.08,3.2,3.2,3.2,1.0,strong_buy,1,0,0,0,0,,,https://www.jaguaruranium.com,2026-10-29T11:15:52.810267+00:00
+0.00,JAGU,Jaguar Uranium Corp.,Energy,Uranium,Canada,19787882,0.9799,63190,127690,125123.431,,,,0.0,0.0,0.0,-1.3499899,-0.73836,19076142,0,,37.619,36.931,-4319583,4457151,20193777,9252587,0.54103,0.23983,47480,0.22,0.0042,,-3.266333,,0.77036166,,-0.033,3.2,3.2,3.2,,none,1,0,0,0,0,,,https://www.jaguaruranium.com,2026-10-31T17:48:22.846082+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-09,4.00,4.00,4.00,4.00,,,,,,,0,4.0000,1,,,,,
 2026-02-10,5.00,5.50,3.07,3.07,,,,,,,0,5.5000,0,7772,,,,
@@ -196,4 +196,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,1.03,1.03,0.98,0.99,1.03,1.18,1.45,1.86,,1.2772,0,1.0984,0,45,129,-0.1467,-0.1473,0.0006
 2026-10-27,0.99,1.05,0.99,1.02,1.03,1.14,1.44,1.85,,1.2772,0,1.0753,0,55,129,-0.1402,-0.1458,0.0057
 2026-10-28,1.02,1.06,1.00,1.03,1.03,1.11,1.43,1.84,,1.2772,0,0.9700,1,78,127,-0.1327,-0.1432,0.0105
-2026-10-29,1.01,1.02,0.96,0.97,1.02,1.08,1.42,1.83,,1.2395,0,1.0600,0,40,123,-0.1301,-0.1406,0.0105
+2026-10-29,1.01,1.02,0.91,0.96,1.02,1.08,1.42,1.83,,1.2302,0,1.0600,0,120,124,-0.1309,-0.1407,0.0098
+2026-10-30,0.97,1.00,0.95,0.98,1.01,1.05,1.40,1.82,,1.2287,0,1.0600,0,19,123,-0.1264,-0.1379,0.0115
+2026-11-02,0.99,0.99,0.91,0.93,1.00,1.04,1.39,1.82,,1.2030,0,1.0570,0,53,123,-0.1254,-0.1354,0.0100

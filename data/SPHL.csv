@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Basecamp Wealth Advisors LLC,0.0001,273,686,0.0\n1,2026-06-30,UBS Group AG,0.0,18,45,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Basecamp Wealth Advisors LLC,0.0001,273,630,0.0\n1,2026-06-30,UBS Group AG,0.0,18,41,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-02 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-27.51,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5692049,2.5164,5274420,1046915,2634456.906,0.384,,,0.16402,-0.05535,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.00013,11325,0.02,0.0092,,,0.6158535,5.962937,3.445,-14.275,,,,,none,,,,,,,1.513,https://www.springviewggl.com,2026-10-29T13:42:24.835575+00:00
+22.28,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5225176,2.31,5277900,1047340,2419355.4,0.384,,,0.16402,-0.05535,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.00013,11325,0.02,0.0092,,,0.56534,5.473845,2.968,-12.296,,,,,none,,,,,,,1.513,https://www.springviewggl.com,2026-10-31T20:09:12.380012+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-18,32.96,35.11,31.28,33.28,,,,,,,0,31.2800,1,874,,,,
 2024-10-21,32.89,35.12,32.40,35.04,,,,,,,0,31.2800,1,1359,,,,
@@ -522,4 +522,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.40,2.58,2.36,2.40,2.55,2.46,2.54,2.70,3.00,4.0553,0,2.2505,1,168,3657,0.0411,0.0031,0.0379
 2026-10-27,2.40,2.58,2.40,2.45,2.56,2.45,2.54,2.70,2.99,3.9708,0,2.3243,1,107,3658,0.0290,0.0083,0.0207
 2026-10-28,2.42,3.16,2.30,2.67,2.60,2.46,2.54,2.70,2.99,3.9708,0,5.9400,0,592,3669,0.0368,0.0140,0.0228
-2026-10-29,2.55,2.55,2.51,2.51,2.61,2.47,2.54,2.70,2.99,3.9708,0,5.8672,0,27,3669,0.0297,0.0171,0.0125
+2026-10-29,2.56,2.57,2.43,2.43,2.61,2.47,2.54,2.70,2.99,3.9708,0,5.8672,0,40,3669,0.0233,0.0159,0.0074
+2026-10-30,2.41,2.50,2.31,2.31,2.60,2.47,2.53,2.69,2.99,3.8153,0,5.7959,0,88,3671,0.0029,0.0133,-0.0104
+2026-11-02,2.39,2.41,2.27,2.27,2.60,2.46,2.53,2.69,2.99,3.6512,0,5.7259,0,54,3671,-0.0163,0.0074,-0.0237

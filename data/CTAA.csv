@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.0861,1104600,11057046,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0779,1000000,10010000,1.0\n2,2026-06-30,"Highbridge Capital Management, LLC.",0.0699,897253,8981502,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.060500003,776743,7775197,1.0\n4,2026-06-30,"Radcliffe Capital Management, L.P.",0.0475,610000,6106100,1.0\n5,2026-06-30,Magnetar Financial LLC,0.047199998,605000,6056050,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.039,500000,5005000,1.0\n7,2026-06-30,"RiverNorth Capital Management, LLC",0.039,500000,5005000,1.0\n8,2026-06-30,Berkley W R Corp,0.0387,497000,4974970,1.0\n9,2026-06-30,"Mangrove Partners IM, LLC",0.035099998,450000,4504500,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.0861,1104600,11068092,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0779,1000000,10020000,1.0\n2,2026-06-30,"Highbridge Capital Management, LLC.",0.0699,897253,8990475,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.060500003,776743,7782965,1.0\n4,2026-06-30,"Radcliffe Capital Management, L.P.",0.0475,610000,6112200,1.0\n5,2026-06-30,Magnetar Financial LLC,0.047199998,605000,6062100,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.039,500000,5010000,1.0\n7,2026-06-30,"RiverNorth Capital Management, LLC",0.039,500000,5010000,1.0\n8,2026-06-30,Berkley W R Corp,0.0387,497000,4979940,1.0\n9,2026-06-30,"Mangrove Partners IM, LLC",0.035099998,450000,4509000,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0078,100000,1001000,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,5488,54934,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0078,100000,1002000,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,5488,54989,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CTAA,ClearThink 1 Acquisition Corp.,Financial Services,Shell Companies,United States,170186704,10.01,10360,18607,186256.07,,,,0.0,0.0,0.0,,,1406691,0,,0.18,,0,,12830000,8893232,0.024549998,0.83544,70,0.0,0.0,,,,108.80435,,,,,,,none,,,,,,,,,2026-10-29T09:38:50.742166+00:00
+0.00,CTAA,ClearThink 1 Acquisition Corp.,Financial Services,Shell Companies,United States,170356720,10.02,10570,15037,150670.74,,,,0.0,0.0,0.0,,,1406691,0,,0.18,,0,,12830000,8893232,0.024549998,0.83544,70,0.0,0.0,,,,108.91305,,,,,,,none,,,,,,,,,2026-10-31T15:20:20.596712+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-16,9.82,9.90,9.82,9.89,,,,,,,0,9.8200,1,135,,,,
 2026-04-17,9.83,9.85,9.83,9.83,,,,,,,0,9.8200,1,575,,,,
@@ -150,3 +150,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.01,10.01,10.01,10.01,10.04,10.00,9.96,,,10.0651,0,9.9954,1,,181,0.0247,0.0254,-0.0007
 2026-10-27,10.01,10.01,10.01,10.01,10.04,10.00,9.96,,,10.0596,0,10.0038,1,,181,0.0216,0.0247,-0.0031
 2026-10-28,10.01,10.01,10.01,10.01,10.05,10.01,9.97,,,10.0547,0,10.0100,1,,181,0.0189,0.0235,-0.0046
+2026-10-29,10.02,10.02,10.02,10.02,10.05,10.01,9.97,,,10.0547,0,10.0100,1,32,142,0.0173,0.0223,-0.0049
+2026-10-30,10.02,10.02,10.02,10.02,10.04,10.01,9.97,,,10.0547,0,10.0100,1,,132,0.0159,0.0210,-0.0051

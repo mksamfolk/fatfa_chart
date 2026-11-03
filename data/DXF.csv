@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.4071,76449,20098,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0679,12749,3351,0.0473\n2,2026-06-30,Morgan Stanley,0.016900001,3170,833,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.4071,76449,19907,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0679,12749,3319,0.0473\n2,2026-06-30,Morgan Stanley,0.016900001,3170,825,1.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,1,0,1.0\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.36,DXF,Eason Technology Limited,Financial Services,Credit Services,Hong Kong,850732,0.2629,1986770,1245366,327406.72140000004,-0.532,,,0.49885,-0.76403,-1.0852101,-0.21515,-0.10362001,3339000,6050000,12.968,0.77,0.532,-3398000,,3227419,,0.11089,0.45202,38965,0.06,0.0128,,,0.11488616,0.059076622,0.481,,,,,,none,,,,,,,3.164,https://hbctxed.com,2026-10-29T09:56:45.599162+00:00
+5.66,DXF,Eason Technology Limited,Financial Services,Credit Services,Hong Kong,842642,0.2604,1963940,1240581,323047.29240000003,-0.532,,,0.49885,-0.76403,-1.0852101,-0.21515,-0.10362001,3339000,6050000,12.968,0.77,0.532,-3398000,,3227419,,0.11089,0.45202,38965,0.06,0.0128,,,0.113793656,0.058514845,0.48,,,,,,none,,,,,,,3.164,https://hbctxed.com,2026-10-31T15:39:19.433799+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-24,29.00,29.00,29.00,29.00,,,,,,,0,29.0000,0,,,,,
 2025-01-27,7.75,7.75,7.75,7.75,,,,,,,0,29.0000,0,,,,,
@@ -457,4 +457,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.28,0.29,0.27,0.28,0.37,0.42,0.46,0.63,0.85,0.4193,0,0.4277,0,46,735,-0.0504,-0.0321,-0.0183
 2026-10-27,0.28,0.29,0.26,0.26,0.35,0.41,0.46,0.63,0.84,0.4093,0,0.4064,0,49,734,-0.0553,-0.0368,-0.0185
 2026-10-28,0.27,0.29,0.25,0.26,0.33,0.40,0.46,0.62,0.83,0.4029,0,0.3876,0,33,621,-0.0584,-0.0411,-0.0173
-2026-10-29,0.26,0.27,0.23,0.26,0.31,0.39,0.45,0.62,0.82,0.3842,0,0.3711,0,33,606,-0.0602,-0.0449,-0.0153
+2026-10-29,0.26,0.27,0.23,0.26,0.31,0.39,0.45,0.62,0.82,0.3816,0,0.3711,0,57,606,-0.0603,-0.0449,-0.0153
+2026-10-30,0.24,0.26,0.12,0.26,0.30,0.38,0.45,0.61,0.81,0.3504,0,0.3514,0,161,607,-0.0610,-0.0482,-0.0128
+2026-11-02,0.26,0.27,0.25,0.26,0.29,0.37,0.44,0.61,0.80,0.3504,0,0.3143,0,27,605,-0.0611,-0.0508,-0.0104

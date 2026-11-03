@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KPET,KPET Ultra Paceline Corporation,Financial Services,Shell Companies,United States,289849984,10.0,13990,13184,131840.0,,,,0.0,0.0,0.0,,,1371945,0,,0.062,,0,,23235000,21199919,0.64536005,0.81925005,67,0.0,0.0,,,,1.3150973,,,,,,,none,,,,,,,,https://www.kpetultra.com,2026-10-29T11:26:21.431321+00:00
+0.00,KPET,KPET Ultra Paceline Corporation,Financial Services,Shell Companies,United States,289849984,10.0,10860,13675,136750.0,,,,0.0,0.0,0.0,,,1371945,0,,0.062,,0,,23235000,21199919,0.64536005,0.81925005,67,0.0,0.0,,,,1.3150973,,,,,,,none,,,,,,,,https://www.kpetultra.com,2026-10-31T17:58:26.485261+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-26,10.01,10.01,10.00,10.00,,,,,,,0,10.0100,0,15,,,,
 2026-05-27,10.00,10.00,10.00,10.00,,,,,,,0,10.0100,0,,,,,
@@ -123,3 +123,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.04,10.04,10.00,10.00,9.99,10.00,10.00,,,10.0088,0,9.9935,1,649,161,0.0001,-0.0005,0.0006
 2026-10-27,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,10.0088,0,9.9947,1,,160,0.0003,-0.0003,0.0006
 2026-10-28,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,10.0088,0,9.9958,1,,160,0.0004,-0.0002,0.0006
+2026-10-29,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,10.0088,0,9.9968,1,,160,0.0005,-0.0000,0.0006
+2026-10-30,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,10.0088,0,9.9979,1,187,164,0.0006,0.0001,0.0005
+2026-11-02,9.99,9.99,9.99,9.99,10.00,10.00,10.00,,,10.0078,0,10.0500,0,169,167,-0.0002,0.0000,-0.0002

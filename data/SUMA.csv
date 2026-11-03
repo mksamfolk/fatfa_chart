@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SUMA,SUMA Acquisition Corporation,Financial Services,Shell Companies,United States,233524656,9.96,1270,9376,93384.96,,,,0.0,0.0,0.0,,,973871,45078,,0.26,,0,,17696250,13244318,0.0,0.8622,898,0.06,,,,,-38.604652,,,,,,,none,,,,,,,,https://www.sumaspac.com,2026-10-29T13:50:46.998627+00:00
+0.00,SUMA,SUMA Acquisition Corporation,Financial Services,Shell Companies,United States,233524656,9.96,1260,9320,92827.20000000001,,,,0.0,0.0,0.0,,,973871,45078,,0.26,,0,,17696250,13244318,0.0,0.8622,898,0.06,,,,,-38.604652,,,,,,,none,,,,,,,,https://www.sumaspac.com,2026-10-31T20:16:33.834062+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-20,9.90,9.95,9.84,9.95,,,,,,,0,9.8400,1,104,,,,
 2026-04-21,9.94,9.94,9.85,9.88,,,,,,,0,9.8400,1,30,,,,
@@ -148,3 +148,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,9.98,9.98,9.98,9.98,9.98,9.97,9.93,,,9.9648,1,9.9464,1,,104,0.0141,0.0139,0.0003
 2026-10-27,9.98,9.98,9.98,9.98,9.98,9.97,9.93,,,9.9663,1,9.9484,1,,104,0.0137,0.0138,-0.0002
 2026-10-28,9.98,10.02,9.96,9.99,9.98,9.97,9.93,,,9.9663,1,9.9503,1,126,106,0.0140,0.0139,0.0001
+2026-10-29,9.99,9.99,9.99,9.99,9.98,9.97,9.94,,,9.9663,1,9.9559,1,,106,0.0140,0.0139,0.0001
+2026-10-30,9.99,9.99,9.99,9.99,9.98,9.97,9.94,,,9.9663,1,9.9600,1,,105,0.0139,0.0139,0.0000

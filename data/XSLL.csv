@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XSLL,Xsolla SPAC 1,Financial Services,Shell Companies,United States,277077216,10.01,29360,37584,376215.83999999997,,,,0.0,0.0,0.0,,,1750553,114124,7.931,0.017,,0,,20873579,16634044,0.0,0.70199996,4460,0.08,0.00029999999,,,,192.5,,,,,,,none,,,,,,,,,2026-10-29T14:46:56.456877+00:00
+0.00,XSLL,Xsolla SPAC 1,Financial Services,Shell Companies,United States,277077216,10.01,31910,38056,380940.56,,,,0.0,0.0,0.0,,,1750553,114124,7.931,0.017,,0,,20873579,16634044,0.0,0.70199996,4460,0.08,0.00029999999,,,,192.5,,,,,,,none,,,,,,,,,2026-10-31T21:10:49.176446+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-18,9.83,9.85,9.81,9.81,,,,,,,0,9.8500,0,129,,,,
 2026-03-19,9.79,9.81,9.76,9.81,,,,,,,0,9.8500,0,165,,,,
@@ -170,3 +170,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.02,10.02,10.02,10.02,10.01,10.01,9.97,,,10.0063,1,9.9898,1,,343,0.0113,0.0113,0.0000
 2026-10-27,10.00,10.00,10.00,10.00,10.01,10.01,9.98,,,10.0183,0,9.9928,1,120,345,0.0096,0.0110,-0.0013
 2026-10-28,10.01,10.01,9.99,10.01,10.01,10.01,9.98,,,10.0183,0,10.0200,0,360,352,0.0090,0.0106,-0.0015
+2026-10-29,10.01,10.01,10.00,10.01,10.01,10.01,9.98,,,10.0183,0,10.0194,0,302,358,0.0084,0.0101,-0.0017
+2026-10-30,10.01,10.01,10.01,10.01,10.01,10.01,9.98,,,10.0183,0,10.0188,0,,358,0.0079,0.0097,-0.0018
+2026-11-02,10.01,10.01,10.00,10.01,10.01,10.01,9.98,,,10.0183,0,10.0182,0,676,371,0.0074,0.0092,-0.0019

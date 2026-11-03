@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,EMERSON ERIK C,Chief Executive Officer,,Stock Award(Grant),2025-05-16,750000,2025-05-16\n1,"INSCOBEE, INC.",Beneficial Owner of more than 10% of a Class of Security,,Purchase,2025-05-12,6487460,2025-05-12\n2,KIM CHRISTOPHER,Chief Executive Officer,,Stock Award(Grant),2025-05-16,277500,2025-05-16\n3,KOO JAKAP,Director,,Purchase,2025-05-12,643885,2025-05-12\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Hemenway Trust Company LLC,0.1816,274000,841179,0.0\n1,2026-06-30,Vanguard Capital Management LLC,0.0422,63654,195417,-0.3364\n2,2026-06-30,"Geode Capital Management, LLC",0.0233,35114,107799,-0.1233\n3,2026-06-30,Vanguard Fiduciary Trust Co,0.0159,24039,73799,0.0\n4,2026-06-30,"Jane Street Group, LLC",0.0106,15993,49098,1.0\n5,2026-06-30,UBS Group AG,0.0078,11818,36281,1.8225\n6,2026-06-30,Tower Research Capital LLC (TRC),0.0011,1664,5108,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Hemenway Trust Company LLC,0.1816,274000,824739,0.0\n1,2026-06-30,Vanguard Capital Management LLC,0.0422,63654,191598,-0.3364\n2,2026-06-30,"Geode Capital Management, LLC",0.0233,35114,105693,-0.1233\n3,2026-06-30,Vanguard Fiduciary Trust Co,0.0159,24039,72357,0.0\n4,2026-06-30,"Jane Street Group, LLC",0.0106,15993,48138,1.0\n5,2026-06-30,UBS Group AG,0.0078,11818,35572,1.8225\n6,2026-06-30,Tower Research Capital LLC (TRC),0.0011,1664,5008,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0342,51620,158473,0.4768\n1,2026-06-30,VANGUARD Inst. INDEX Fd.S-Vanguard Inst. Total Stock Market Index Fd.,0.008,12034,36944,-0.8026\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0032,4860,14920,1.0183\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.00059999997,832,2554,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0342,51620,155376,0.4768\n1,2026-06-30,VANGUARD Inst. INDEX Fd.S-Vanguard Inst. Total Stock Market Index Fd.,0.008,12034,36222,-0.8026\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0032,4860,14628,1.0183\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.00059999997,832,2504,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-24 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.43,APUS,Apimeds Pharmaceuticals US Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4632992,3.07,76680,3703906,11370991.42,,,,0.0,0.0,0.0,,,,,,,,,,1509118,,0.58705,0.028250001,73009,0.01,0.09060001,,,,4.7303543,,,,,,,none,,,,,,,,https://www.mindwavedao.com,2026-10-29T08:32:47.673341+00:00
+4.14,APUS,Apimeds Pharmaceuticals US Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4542445,3.01,68500,3756114,11305903.139999999,,,,0.0,0.0,0.0,,,,,,,,,,1509118,,0.58705,0.028250001,73009,0.01,0.09060001,,,,4.6379046,,,,,,,none,,,,,,,,https://www.mindwavedao.com,2026-10-31T14:12:34.333080+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-09,40.00,40.00,20.40,22.00,,,,,,,0,40.0000,0,3701,,,,
 2025-05-12,22.40,22.80,17.20,18.10,,,,,,,0,40.0000,0,705,,,,
@@ -384,4 +384,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,2.92,3.06,2.71,2.89,3.67,4.01,4.31,10.86,12.22,5.1654,0,6.4061,0,86,13587,-0.3659,-0.2112,-0.1547
 2026-10-27,2.90,3.05,2.65,3.05,3.52,4.04,4.25,10.79,12.14,5.0224,0,5.8147,0,437,13594,-0.3851,-0.2460,-0.1391
 2026-10-28,2.39,3.10,2.39,3.07,3.37,4.08,4.15,10.72,12.07,4.9091,0,5.2451,0,210,13568,-0.3942,-0.2756,-0.1186
-2026-10-29,2.89,3.19,2.83,3.19,3.25,4.13,4.10,10.66,12.01,4.9091,0,4.6741,0,110,13541,-0.3873,-0.2980,-0.0893
+2026-10-29,2.89,3.23,2.83,3.21,3.25,4.13,4.10,10.66,12.01,4.9091,0,4.6741,0,157,13542,-0.3857,-0.2977,-0.0880
+2026-10-30,3.11,3.11,2.84,3.01,3.14,4.18,4.06,10.59,11.94,4.9091,0,4.2172,0,65,13531,-0.3906,-0.3162,-0.0743
+2026-11-02,3.01,3.02,2.78,2.84,3.08,4.09,4.01,10.52,11.87,4.7485,0,3.8518,0,101,13527,-0.4035,-0.3337,-0.0698

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,FISCHER VIKTOR,Director,,Conversion of Exercise of derivative security,2026-04-02,8378990.0,1775088000.0,,\n1,MAIMON KEREN KALIMA,Director and Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-05-21,,,1336870.0,2026-05-21\n2,SADE RON,Chief Executive Officer,,Purchase,2026-05-21,,,1340650.0,2026-05-21\n3,SIMHA EREZ,Director,,Stock Award(Grant),2026-07-24,,,68193.0,2026-07-24\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Electric Capital Partners, LLC",0.0775,649999,2378996,0.0\n1,2026-06-30,Anatole Investment Management Ltd,0.0587,492025,1800811,0.0\n2,2026-06-30,Qube Research & Technologies Ltd,0.0372,312169,1142538,0.0654\n3,2026-06-30,Citadel Advisors Llc,0.0306,256571,939049,1.3103\n4,2026-06-30,"Alyeska Investment Group, L.p.",0.0238,199335,729566,0.0\n5,2026-06-30,"Arrington Capital Management, LLC",0.013099999,109904,402248,0.0\n6,2026-06-30,"Cantor Fitzgerald, L.P.",0.0062,52387,191736,0.3376\n7,2026-06-30,UBS Group AG,0.0058,48344,176939,-0.0583\n8,2026-06-30,Weiss Asset Management Lp,0.0038,32230,117961,0.1094\n9,2026-06-30,"K2 Principal Fund, L.P.",0.0029,24525,89761,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Electric Capital Partners, LLC",0.0775,649999,2060496,0.0\n1,2026-06-30,Anatole Investment Management Ltd,0.0587,492025,1559719,0.0\n2,2026-06-30,Qube Research & Technologies Ltd,0.0372,312169,989575,0.0654\n3,2026-06-30,Citadel Advisors Llc,0.0306,256571,813330,1.3103\n4,2026-06-30,"Alyeska Investment Group, L.p.",0.0238,199335,631891,0.0\n5,2026-06-30,"Arrington Capital Management, LLC",0.013099999,109904,348395,0.0\n6,2026-06-30,"Cantor Fitzgerald, L.P.",0.0062,52387,166066,0.3376\n7,2026-06-30,UBS Group AG,0.0058,48344,153250,-0.0583\n8,2026-06-30,Weiss Asset Management Lp,0.0038,32230,102169,0.1094\n9,2026-06-30,"K2 Principal Fund, L.P.",0.0029,24525,77744,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,7327,26816,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,7327,23226,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-26 09:30:00-04:00,0.1\n2026-05-14 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.79,SLMT,Brera Holdings PLC,Technology,Software - Infrastructure,Ireland,40294016,3.66,55570,82154,300683.64,9.298,,,1.0,-4.1241198,0.0,-7.95788,-2.7495599,13924000,0,,1.772,1.68,-22643000,74270056,11009294,5041156,0.48645002,0.2067,296245,2.2,0.0322,,,5.525784,0.34114233,3.805,-0.089,,,,,none,,,,,,,2.226,https://www.breraholdings.com,2026-10-29T13:32:56.582588+00:00
+5.74,SLMT,Solmate Infrastructure Public Limited Company,Technology,Software - Infrastructure,Ireland,34899464,3.17,63680,83371,264286.07,9.298,,,1.0,-4.1241198,0.0,-7.95788,-2.7495599,13924000,0,,1.772,1.68,-22643000,74270056,11009294,5041156,0.48645002,0.2067,296245,2.2,0.0322,,,4.7859936,0.29547027,2.854,-0.067,,,,,none,,,,,,,2.226,https://solmate.com,2026-10-31T20:02:22.539225+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-27,500.00,540.00,370.00,482.00,,,,,,,0,540.0000,0,4081,,,,
 2023-01-30,340.00,379.20,281.00,324.00,,,,,,,0,540.0000,0,1609,,,,
@@ -956,4 +956,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.16,3.24,3.13,3.20,3.07,3.30,3.76,5.86,8.46,3.7969,0,3.3418,0,33,216,-0.2290,-0.2673,0.0384
 2026-10-27,3.20,3.48,3.06,3.34,3.09,3.28,3.74,5.81,8.35,3.7969,0,2.7950,1,222,217,-0.1999,-0.2539,0.0539
 2026-10-28,3.33,3.80,3.31,3.80,3.17,3.28,3.74,5.74,8.25,2.6181,1,2.8087,1,391,222,-0.1382,-0.2307,0.0925
-2026-10-29,3.66,3.76,3.66,3.76,3.24,3.29,3.74,5.68,8.16,2.8239,1,2.8484,1,14,220,-0.0915,-0.2029,0.1114
+2026-10-29,3.66,3.76,3.37,3.40,3.20,3.28,3.74,5.68,8.16,2.6181,1,2.8484,1,214,224,-0.1202,-0.2086,0.0884
+2026-10-30,3.26,3.40,2.99,3.17,3.24,3.26,3.72,5.63,8.06,2.6181,1,2.8864,1,429,226,-0.1231,-0.1915,0.0684
+2026-11-02,3.10,3.32,2.84,2.88,3.23,3.20,3.70,5.57,7.97,2.6181,1,3.8000,0,79,225,-0.1471,-0.1826,0.0356

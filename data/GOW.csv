@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.62,GOW,GOWell Energy Technology,Energy,Oil & Gas Equipment & Services,Singapore,140687936,3.01,793130,747372,2249589.7199999997,0.433,0.38,0.38,0.58975,0.27056,0.04097,,,2910012,24265716,52.948,2.792,1.539,,,46740180,8400000,0.99926,0.22518,184091,0.07,,50.166668,,2.4512172,1.9698952,1.945,7.313,14.0,14.0,14.0,1.0,strong_buy,1,0,0,0,0,,,https://www.gowell.energy,2026-10-29T10:40:43.016521+00:00
+4.06,GOW,GOWell Energy Technology,Energy,Oil & Gas Equipment & Services,Singapore,140220544,3.0,786800,755540,2266620.0,0.433,0.38,0.38,0.58975,0.27056,0.04097,,,2910012,24348896,53.129,2.792,1.539,,,46740180,8400000,0.99926,0.22518,184091,0.07,,50.0,,2.4430737,1.9633508,1.942,7.299,14.0,14.0,14.0,1.0,strong_buy,1,0,0,0,0,,,https://www.gowell.energy,2026-10-31T16:26:47.440062+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-07,9.86,9.87,9.86,9.87,,,,,,,0,9.8600,1,5225,,,,
 2025-03-10,9.86,9.88,9.86,9.88,,,,,,,0,9.8600,1,20,,,,
@@ -443,4 +443,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,3.31,3.35,3.05,3.05,3.32,3.44,7.01,9.32,9.58,5.3122,0,4.7590,0,152,3515,-1.0237,-1.2213,0.1975
 2026-10-27,3.15,3.25,3.06,3.10,3.29,3.50,6.86,9.27,9.54,5.1172,0,4.5695,0,280,3520,-0.9817,-1.1734,0.1917
 2026-10-28,3.16,3.21,3.01,3.01,3.28,3.49,6.71,9.22,9.50,4.9351,0,4.3913,0,305,3526,-0.9447,-1.1276,0.1829
-2026-10-29,3.12,3.12,3.00,3.00,3.26,3.49,6.56,9.18,9.47,4.7388,0,4.2238,0,23,3527,-0.9057,-1.0833,0.1775
+2026-10-29,3.12,3.12,3.00,3.10,3.26,3.50,6.56,9.18,9.47,4.7386,0,4.2238,0,68,3528,-0.8978,-1.0817,0.1838
+2026-10-30,3.01,3.10,3.00,3.00,3.26,3.46,6.41,9.13,9.43,4.5907,0,4.0664,0,87,3529,-0.8588,-1.0371,0.1783
+2026-11-02,2.88,2.99,2.68,2.68,3.22,3.37,6.25,9.08,9.39,4.3177,0,3.9184,0,115,3532,-0.8440,-0.9985,0.1545

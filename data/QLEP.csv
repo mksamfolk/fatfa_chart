@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QLEP,Quantum Leap Acquisition Corp,Financial Services,Shell Companies,United States,301593792,10.06,41750,34085,342895.10000000003,,,,0.0,0.0,0.0,,,1257143,0,,0.303,0.293,-591600,,23654500,16765136,0.02809,0.97822,266,0.02,0.0,,,,335.33334,,,,,,,none,,,,,,,,https://www.quantumleapacquisition.com,2026-10-29T12:57:31.131157+00:00
+0.00,QLEP,Quantum Leap Acquisition Corp,Financial Services,Shell Companies,United States,301593792,10.06,43440,30418,306005.08,,,,0.0,0.0,0.0,,,1257143,0,,0.303,0.293,-591600,,23654500,16765136,0.02809,0.97822,266,0.02,0.0,,,,335.33334,,,,,,,none,,,,,,,,https://www.quantumleapacquisition.com,2026-10-31T19:30:31.816364+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-23,9.95,9.97,9.93,9.95,,,,,,,0,9.9300,1,1913,,,,
 2026-06-24,9.98,9.98,9.94,9.94,,,,,,,0,9.9300,1,1828,,,,
@@ -104,4 +104,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,10.07,10.07,10.07,10.07,10.06,10.05,10.02,,,10.0279,1,10.0167,1,,409,0.0148,0.0153,-0.0005
 2026-10-27,10.07,10.07,10.07,10.07,10.06,10.06,10.02,,,10.0321,1,10.0201,1,,408,0.0145,0.0151,-0.0006
 2026-10-28,10.07,10.07,10.06,10.06,10.06,10.06,10.02,,,10.0321,1,10.0233,1,36,385,0.0133,0.0148,-0.0015
-2026-10-29,10.05,10.05,10.05,10.05,10.06,10.06,10.03,,,10.0321,1,10.0263,1,4,383,0.0114,0.0141,-0.0027
+2026-10-29,10.05,10.06,10.05,10.06,10.06,10.06,10.03,,,10.0321,1,10.0263,1,28,384,0.0122,0.0143,-0.0020
+2026-10-30,10.06,10.06,10.06,10.06,10.06,10.06,10.03,,,10.0321,1,10.0293,1,183,387,0.0112,0.0137,-0.0024
+2026-11-02,10.09,10.08,10.06,10.08,10.07,10.06,10.03,,,10.0345,1,10.0321,1,407,345,0.0119,0.0133,-0.0014

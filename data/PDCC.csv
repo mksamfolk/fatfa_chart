@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,UNIVERSITY OF WISCONSIN FOUNDATION,Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-04-15,5725760,2025-04-15\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,University Of Wisconsin Foundation,0.21440001,1459021,10577902,0.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0367,249368,1807918,0.0\n2,2026-06-30,Jefferies Financial Group Inc.,0.0367,249796,1811021,0.0\n3,2026-06-30,"Prudential Financial, Inc.",0.023699999,161386,1170048,0.0\n4,2026-09-30,"Kingswood Wealth Advisors, LLC",0.0119,81215,588808,-0.0356\n5,2026-06-30,Osaic Holdings Inc.,0.00059999997,4108,29783,0.264\n6,2026-06-30,N.E.W. Advisory Services LLC,0.0001,710,5147,0.39220002\n7,2026-06-30,Morgan Stanley,0.0001,1000,7250,0.0\n8,2026-06-30,UBS Group AG,0.0001,474,3436,1.017\n9,2026-06-30,Wells Fargo & Company,0.0,2,14,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,University Of Wisconsin Foundation,0.21440001,1459021,10782164,0.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0367,249368,1842829,0.0\n2,2026-06-30,Jefferies Financial Group Inc.,0.0367,249796,1845992,0.0\n3,2026-06-30,"Prudential Financial, Inc.",0.023699999,161386,1192642,0.0\n4,2026-09-30,"Kingswood Wealth Advisors, LLC",0.0119,81215,600178,-0.0356\n5,2026-06-30,Osaic Holdings Inc.,0.00059999997,4108,30358,0.264\n6,2026-06-30,N.E.W. Advisory Services LLC,0.0001,710,5246,0.39220002\n7,2026-06-30,Morgan Stanley,0.0001,1000,7389,0.0\n8,2026-06-30,UBS Group AG,0.0001,474,3502,1.017\n9,2026-06-30,Wells Fargo & Company,0.0,2,14,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.27,PDCC,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,United Kingdom,50282868,7.25,2800,3387,24555.75,,,,0.0,0.0,0.0,,,,,,,,,,6935568,,0.61516,0.31823,5286,2.12,0.0044,,5.7312255,,,,,10.75,11.0,10.5,,none,2,0,0,0,2,,,,2026-10-29T12:39:43.251818+00:00
+22.80,PDCC,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,United Kingdom,51253848,7.39,3060,2993,22118.27,,,,0.0,0.0,0.0,,,,,,,,,,6935568,,0.61516,0.31823,5286,2.12,0.0044,,5.841897,,,,,10.75,11.0,10.5,,none,2,0,0,0,2,,,,2026-10-31T19:12:56.068328+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-18,14.26,14.26,13.77,13.87,,,,,,,0,13.7745,1,1766,,,,
 2024-07-19,14.26,14.37,14.15,14.26,,,,,,,0,13.7745,1,670,,,,
@@ -587,4 +587,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,7.13,7.16,7.13,7.16,7.51,8.00,8.51,9.34,10.02,7.8564,0,7.5570,0,21,33,-0.4418,-0.3545,-0.0873
 2026-10-27,7.25,7.35,7.24,7.34,7.44,7.92,8.48,9.32,9.99,7.8564,0,7.4256,0,51,34,-0.4255,-0.3687,-0.0568
 2026-10-28,7.25,7.25,7.25,7.25,7.37,7.83,8.44,9.29,9.96,7.8564,0,7.3500,0,2,33,-0.4151,-0.3779,-0.0371
-2026-10-29,7.39,7.50,7.49,7.39,7.31,7.75,8.41,9.27,9.93,7.8564,0,6.9000,1,5,32,-0.3910,-0.3806,-0.0105
+2026-10-29,7.39,7.50,7.30,7.50,7.32,7.75,8.41,9.27,9.93,7.8564,0,6.9000,1,17,32,-0.3823,-0.3788,-0.0034
+2026-10-30,7.60,7.75,7.39,7.39,7.28,7.68,8.38,9.24,9.90,7.8564,0,6.9120,1,18,32,-0.3609,-0.3752,0.0143
+2026-11-02,7.45,7.45,7.32,7.32,7.25,7.62,8.35,9.22,9.88,7.8564,0,6.9455,1,8,27,-0.3457,-0.3693,0.0236

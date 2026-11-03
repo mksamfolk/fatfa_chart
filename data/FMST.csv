@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,Cates (David Daniel CPA),Director of Issuer,,Acquisition or disposition in the public market,2026-09-08,112000,2026-09-08\n1,Denison Mines Corp,10% Security Holder of Issuer,,Acquisition or disposition under a prospectus exemption,2026-07-08,3448610,2026-07-08\n2,Willett (Amanda),Director of Issuer,,Acquisition or disposition under a prospectus exemption,2026-03-31,5500,2026-03-31\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0047999998,82675,50266,1.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0014,24377,14821,0.111499995\n2,2026-06-30,"Susquehanna International Group, LLP",0.00090000004,14868,9039,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0008,14682,8926,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0008,14137,8595,-0.5805\n5,2026-06-30,HRT Financial LP,0.0007,12092,7351,-0.43330002\n6,2026-06-30,Osaic Holdings Inc.,0.0005,8808,5355,4.5361\n7,2026-06-30,Morgan Stanley,0.0004,7100,4316,-0.66019994\n8,2026-06-30,UBS Group AG,0.0001,2588,1573,-0.48029998\n9,2026-09-30,"Financial Consulate, Inc.",0.0001,1500,911,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0047999998,82675,48025,1.0\n1,2026-06-30,Goldman Sachs Group Inc,0.0014,24377,14160,0.111499995\n2,2026-06-30,"Susquehanna International Group, LLP",0.00090000004,14868,8636,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0008,14682,8528,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0008,14137,8212,-0.5805\n5,2026-06-30,HRT Financial LP,0.0007,12092,7024,-0.43330002\n6,2026-06-30,Osaic Holdings Inc.,0.0005,8808,5116,4.5361\n7,2026-06-30,Morgan Stanley,0.0004,7100,4124,-0.66019994\n8,2026-06-30,UBS Group AG,0.0001,2588,1503,-0.48029998\n9,2026-09-30,"Financial Consulate, Inc.",0.0001,1500,871,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4132,2512,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4132,2400,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n1,-1m,0,1,0,0,0\n2,-2m,0,1,0,0,0\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FMST,Foremost Clean Energy Ltd.,Basic Materials,Other Industrial Metals & Mining,Canada,10550103,0.608,633020,272609,165746.272,,,,0.0,0.0,0.0,-0.2567,-0.08984,3546459,0,,1.844,1.723,-7658659,-10742992,17352143,13748450,0.27624,0.01114,159081,0.42,0.0115,,-1.3818182,,0.40105057,,,,,,1.0,strong_buy,,,,,,,2.977,https://foremostcleanenergy.com,2026-10-29T10:22:47.713118+00:00
+0.00,FMST,Foremost Clean Energy Ltd.,Basic Materials,Other Industrial Metals & Mining,Canada,10079861,0.5809,622100,276703,160736.7727,,,,0.0,0.0,0.0,-0.2567,-0.08984,3546459,0,,1.844,1.723,-7658659,-10742992,17352143,13748450,0.27624,0.01114,159081,0.42,0.0115,,-1.3202273,,0.3831748,,,,,,1.0,strong_buy,,,,,,,2.977,https://foremostcleanenergy.com,2026-10-31T16:07:28.661217+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,1.05,1.05,0.98,1.00,,,,,,,0,1.0500,0,73,,,,
 2026-09-04,0.99,1.00,0.96,0.96,,,,,,,0,1.0500,0,53,,,,
@@ -53,4 +53,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.51,0.59,0.50,0.54,0.50,0.60,,,,0.7321,0,0.4240,1,217,,,,
 2026-10-27,0.54,0.65,0.54,0.61,0.51,0.58,,,,0.7321,0,0.4306,1,246,,,,
 2026-10-28,0.63,0.65,0.57,0.61,0.52,0.57,,,,0.7321,0,0.4437,1,119,,,,
-2026-10-29,0.59,0.61,0.57,0.59,0.52,0.55,,,,0.7321,0,0.4560,1,42,,,,
+2026-10-29,0.59,0.61,0.57,0.61,0.52,0.55,,,,0.7321,0,0.4560,1,83,,,,
+2026-10-30,0.61,0.61,0.57,0.58,0.53,0.54,,,,0.7321,0,0.4676,1,43,,,,
+2026-11-02,0.59,0.64,0.57,0.63,0.55,0.55,,,,0.7321,0,0.4785,1,72,,,,

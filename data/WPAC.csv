@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WPAC,White Pearl Acquisition Corp.,Financial Services,Shell Companies,United States,158074576,10.09,3370,16923,170753.07,,,,0.0,0.0,0.0,,,1593986,170551,10.438,,,-115828,,11833125,11543203,0.0,0.94755995,370,0.02,0.0,,,,97.01923,,,,,,,none,,,,,,,,,2026-10-29T14:40:05.569744+00:00
+0.00,WPAC,White Pearl Acquisition Corp.,Financial Services,Shell Companies,United States,158074576,10.09,3440,15715,158564.35,,,,0.0,0.0,0.0,,,1593986,170551,10.438,,,-115828,,11833125,11543203,0.0,0.94755995,370,0.02,0.0,,,,97.01923,,,,,,,none,,,,,,,,,2026-10-31T21:04:21.581618+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-24,9.90,9.90,9.86,9.88,,,,,,,0,9.8600,1,9319,,,,
 2026-02-25,9.87,9.90,9.87,9.88,,,,,,,0,9.8600,1,21090,,,,
@@ -187,3 +187,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,10.10,10.10,10.10,10.10,10.10,10.09,10.05,9.99,,10.0942,1,10.1717,0,,195,0.0144,0.0152,-0.0009
 2026-10-28,10.07,10.09,10.07,10.09,10.10,10.09,10.05,9.99,,10.0942,0,10.1640,0,6,196,0.0130,0.0148,-0.0018
 2026-10-29,10.07,10.09,10.07,10.09,10.10,10.09,10.05,10.00,,10.0942,0,10.1567,0,7,196,0.0118,0.0142,-0.0024
+2026-10-30,10.09,10.09,10.09,10.09,10.10,10.09,10.06,10.00,,10.0942,0,10.1496,0,,196,0.0107,0.0135,-0.0028
+2026-11-02,10.07,10.08,10.07,10.08,10.10,10.09,10.06,10.00,,10.0942,0,10.1428,0,556,191,0.0089,0.0126,-0.0036
