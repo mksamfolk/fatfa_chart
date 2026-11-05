@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.73,BMNR,Bitmine Immersion Technologies Inc.,Financial Services,Capital Markets,United States,12173108224,20.18,29844280,36949878,745648538.04,21.678,,,0.84438,0.08424,0.0,-1.50905,-0.03167,340288992,1320000,0.011,36.683,28.035,-293107008,-518096224,603226394,594437385,0.0066500003,0.41634998,39913785,1.1,0.066300005,,21.468086,198.92325,1.0084454,193.393,-40.246,45.86667,63.6,34.0,,none,3,0,0,2,1,2026-11-20,1.906,https://bitminetech.io,2026-10-31T14:39:55.797530+00:00
+58.41,BMNR,Bitmine Immersion Technologies Inc.,Financial Services,Capital Markets,United States,12173108224,20.18,29844280,36949878,745648538.04,21.678,,,0.84438,0.08424,0.0,-1.50905,-0.03167,340288992,1320000,0.011,36.683,28.035,-293107008,-518096224,603226394,594437385,0.0066500003,0.41634998,39913785,1.1,0.066300005,,21.468086,198.92325,1.0084454,193.393,-40.246,45.86667,63.6,34.0,,none,3,0,0,2,1,2026-11-20,1.906,https://bitminetech.io,2026-10-31T14:39:55.797530+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-05,7.25,7.89,6.80,7.75,,,,,,,0,7.8877,0,6782,,,,
 2025-06-06,7.35,7.69,6.31,7.54,,,,,,,0,7.8877,0,1821,,,,
@@ -382,5 +382,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,21.00,21.70,20.84,21.62,22.31,23.78,24.38,20.45,21.10,25.6612,0,24.1562,0,668901,973336,-0.8128,-0.5094,-0.3033
 2026-10-28,21.52,22.10,21.16,22.05,22.29,23.56,24.45,20.46,21.05,25.6612,0,23.8677,0,474209,975237,-0.8043,-0.5684,-0.2359
 2026-10-29,21.48,22.39,21.18,21.66,22.12,23.31,24.48,20.47,21.00,25.6612,0,23.6023,0,525199,955111,-0.8196,-0.6187,-0.2010
-2026-10-30,20.39,20.77,19.60,20.18,21.97,23.00,24.45,20.48,20.94,24.5587,0,23.3581,0,773423,942574,-0.9403,-0.6830,-0.2573
-2026-11-02,20.35,20.93,19.44,19.55,21.77,22.64,24.39,20.49,20.88,24.5587,0,22.9823,0,408013,923569,-1.0748,-0.7614,-0.3135
+2026-10-30,20.39,20.77,19.60,20.18,21.97,23.00,24.45,20.48,20.94,24.5587,0,23.3581,0,775338,942612,-0.9403,-0.6830,-0.2573
+2026-11-02,20.35,20.93,19.44,19.54,21.77,22.64,24.39,20.49,20.88,24.5587,0,22.9823,0,467803,924803,-1.0752,-0.7614,-0.3138
+2026-11-03,19.90,20.76,19.85,20.53,21.54,22.36,24.31,20.50,20.83,24.5587,0,22.5572,0,437681,901393,-1.0897,-0.8271,-0.2626
+2026-11-04,20.56,22.38,20.50,21.73,21.32,22.21,24.25,20.51,20.80,24.5587,0,19.4400,1,787156,886628,-0.9929,-0.8603,-0.1326

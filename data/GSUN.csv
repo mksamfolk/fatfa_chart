@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-04-19 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.38,GSUN,Golden Sun Technology Group Limited,Consumer Defensive,Education & Training Services,China,1722959,0.1718,425160,4362200,749425.9600000001,0.301,,,0.018339999,-0.15007,-0.09847,-2.47156,-0.12345,455030,4831587,66.144,1.024,0.212,-885307,-2735688,9625870,9368669,0.026719999,0.02339,1223239,0.22,0.1306,0.36553192,,0.042574942,0.23598902,0.151,-1.531,,,,,none,,,,,,,1.831,https://www.jtyjyjt.com,2026-10-31T16:32:16.570958+00:00
+7.54,GSUN,Golden Sun Technology Group Limited,Consumer Defensive,Education & Training Services,China,1722959,0.1718,425160,4362200,749425.9600000001,0.301,,,0.018339999,-0.15007,-0.09847,-2.47156,-0.12345,455030,4831587,66.144,1.024,0.212,-885307,-2735688,9625870,9368669,0.026719999,0.02339,1223239,0.22,0.1306,0.36553192,,0.042574942,0.23598902,0.151,-1.531,,,,,none,,,,,,,1.831,https://www.jtyjyjt.com,2026-10-31T16:32:16.570958+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-22,190.00,197.99,134.10,163.00,,,,,,,0,134.1000,1,8258,,,,
 2022-06-23,192.20,296.40,170.80,205.00,,,,,,,0,134.1000,1,15176,,,,
@@ -1109,4 +1109,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.18,0.18,0.17,0.17,0.18,0.20,0.29,0.40,0.60,0.2473,0,0.2150,0,29,2222,-0.0276,-0.0309,0.0033
 2026-10-29,0.17,0.18,0.17,0.17,0.18,0.19,0.29,0.40,0.59,0.2448,0,0.2141,0,19,1091,-0.0267,-0.0301,0.0034
 2026-10-30,0.17,0.18,0.17,0.17,0.18,0.19,0.28,0.39,0.59,0.2379,0,0.2132,0,18,1036,-0.0259,-0.0292,0.0034
-2026-11-02,0.17,0.18,0.17,0.17,0.18,0.19,0.28,0.39,0.58,0.2338,0,0.2124,0,19,1014,-0.0248,-0.0284,0.0036
+2026-11-02,0.17,0.18,0.17,0.17,0.18,0.19,0.28,0.39,0.58,0.2339,0,0.2124,0,19,1014,-0.0248,-0.0284,0.0036
+2026-11-03,0.17,0.18,0.17,0.17,0.18,0.19,0.27,0.38,0.58,0.2289,0,0.2115,0,64,925,-0.0237,-0.0274,0.0037
+2026-11-04,0.17,0.19,0.17,0.18,0.18,0.19,0.27,0.38,0.57,0.2289,0,0.2097,0,31,912,-0.0220,-0.0263,0.0043

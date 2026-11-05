@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-81.88,FBLA,FB Bancorp Inc.,Financial Services,Banks - Regional,United States,242481968,16.7,88800,98396,1643213.2,0.467,9.348,7.257,0.0,0.40068,0.08912,0.02705,0.00369,173606000,171163008,,,,,,14519878,13472559,0.16471,0.42709,380238,3.22,0.0275,98.2353,,4.138129,0.98992294,4.096,,,,,,none,,,,,,2026-11-04,-0.104,https://www.bankwithfidelity.com,2026-10-31T15:58:22.805548+00:00
+82.00,FBLA,FB Bancorp Inc.,Financial Services,Banks - Regional,United States,242481968,16.7,88800,98396,1643213.2,0.467,9.348,7.257,0.0,0.40068,0.08912,0.02705,0.00369,173606000,171163008,,,,,,14519878,13472559,0.16471,0.42709,380238,3.22,0.0275,98.2353,,4.138129,0.98992294,4.096,,,,,,none,,,,,,2026-11-04,-0.104,https://www.bankwithfidelity.com,2026-10-31T15:58:22.805548+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,12.25,12.30,11.85,11.86,,,,,,,0,12.3000,0,42436,,,,
 2024-10-24,11.99,11.99,11.70,11.70,,,,,,,0,12.3000,0,6988,,,,
@@ -521,4 +521,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,17.27,17.47,17.04,17.26,16.76,16.80,16.14,14.86,14.42,16.1894,1,16.2359,1,1869,1480,0.2685,0.2480,0.0204
 2026-10-29,17.38,17.65,16.88,16.99,16.80,16.85,16.17,14.88,14.44,16.1894,1,16.2853,1,1259,1484,0.2582,0.2501,0.0081
 2026-10-30,17.05,17.05,16.65,16.70,16.83,16.89,16.20,14.91,14.46,16.1894,1,16.3672,1,1002,1486,0.2241,0.2449,-0.0208
-2026-11-02,16.76,16.96,16.56,16.76,16.87,16.87,16.22,14.93,14.48,16.1894,1,16.4442,1,1079,1482,0.1996,0.2358,-0.0362
+2026-11-02,16.76,16.96,16.56,16.76,16.87,16.87,16.22,14.93,14.48,16.1894,1,16.4442,1,1086,1482,0.1996,0.2358,-0.0362
+2026-11-03,16.76,16.92,16.57,16.80,16.90,16.85,16.25,14.95,14.50,16.1894,1,16.5165,1,1677,1499,0.1813,0.2249,-0.0436
+2026-11-04,17.00,17.26,16.89,17.02,16.95,16.84,16.27,14.98,14.52,16.1894,1,16.5600,1,975,1483,0.1824,0.2164,-0.0340

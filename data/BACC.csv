@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BACC,Blue Acquisition Corp.,Financial Services,Shell Companies,United States,292763872,10.47,484080,159770,1672791.9000000001,,0.33,2.832,0.0,0.0,0.0,,,201861,0,,0.142,0.092,-1113695,,20892250,13887129,0.01872,0.8464,40,0.0,0.0,,,,-32.51553,,,15.0,15.0,15.0,,none,1,,,,,,,https://www.blueacorp.com,2026-10-31T14:26:34.263002+00:00
+54.14,BACC,Blue Acquisition Corp.,Financial Services,Shell Companies,United States,292763872,10.47,484080,159770,1672791.9000000001,,0.33,2.832,0.0,0.0,0.0,,,201861,0,,0.142,0.092,-1113695,,20892250,13887129,0.01872,0.8464,40,0.0,0.0,,,,-32.51553,,,15.0,15.0,15.0,,none,1,,,,,,,https://www.blueacorp.com,2026-10-31T14:26:34.263002+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-04,10.04,10.04,9.95,9.95,,,,,,,0,9.9500,1,728,,,,
 2025-08-05,9.97,9.97,9.95,9.97,,,,,,,0,9.9500,1,8040,,,,
@@ -328,3 +328,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.47,10.47,10.46,10.46,10.44,10.45,10.48,10.42,10.37,10.4873,0,10.4171,1,166,1671,-0.0097,-0.0149,0.0052
 2026-10-29,10.46,10.49,10.46,10.46,10.45,10.45,10.48,10.42,10.37,10.4873,0,10.4193,1,84,1650,-0.0084,-0.0136,0.0052
 2026-10-30,10.47,10.48,10.43,10.47,10.45,10.45,10.48,10.42,10.37,10.4873,0,10.4215,1,1157,1665,-0.0064,-0.0122,0.0057
+2026-11-02,10.47,10.47,10.47,10.47,10.46,10.45,10.48,10.42,10.37,10.4873,0,10.4237,1,66,1661,-0.0048,-0.0107,0.0058
+2026-11-03,10.49,10.50,10.47,10.48,10.46,10.45,10.48,10.43,10.37,10.4873,0,10.4258,1,2268,1703,-0.0027,-0.0091,0.0064
+2026-11-04,10.47,10.49,10.47,10.47,10.46,10.45,10.48,10.43,10.38,10.4873,0,10.4279,1,1903,1741,-0.0019,-0.0077,0.0058

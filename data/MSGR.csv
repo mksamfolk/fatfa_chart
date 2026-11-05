@@ -29,12 +29,14 @@ Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
 0.00,MSGR,MSG Rangers Corp.,Communication Services,Entertainment,United States,2150106624,218.49,98887,98887,21605820.630000003,,,,0.0,0.0,0.0,,,,,,,,,,9840755,,1.0000001e-05,0.0,,,,,-206.12267,,,,,267.5,278.0,257.0,1.0,strong_buy,2,0,0,0,0,,,https://www.nhl.com,2026-10-31T18:34:21.230549+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
-2026-10-21,210.00,219.30,210.00,219.30,,,,,,,,219.3000,0,197,,,,
-2026-10-22,203.48,203.48,203.48,203.48,,,,,,,,219.3000,0,203,,,,
-2026-10-23,190.00,190.00,190.00,190.00,,,,,,,,219.3000,0,38,,,,
-2026-10-26,190.00,190.00,190.00,190.00,,,,,,,,218.1280,0,,,,,
-2026-10-27,176.00,194.15,176.00,177.61,,,,,,,,217.0029,0,69588,,,,
-2026-10-28,182.35,192.93,181.62,186.65,,,,,,,,214.5427,0,66167,,,,
-2026-10-29,193.73,218.50,193.00,217.00,,,,,,,,176.0000,1,56507,,,,
-2026-10-30,218.00,226.24,211.24,218.49,,,,,,,,176.8500,1,75008,,,,
-2026-11-02,214.12,222.13,209.84,217.53,,,,,,,,178.8256,1,47556,,,,
+2026-10-21,210.00,219.30,210.00,219.30,,,,,,,0,219.3000,0,197,,,,
+2026-10-22,203.48,203.48,203.48,203.48,,,,,,,0,219.3000,0,203,,,,
+2026-10-23,190.00,190.00,190.00,190.00,,,,,,,0,219.3000,0,38,,,,
+2026-10-26,190.00,190.00,190.00,190.00,,,,,,,0,218.1280,0,,,,,
+2026-10-27,176.00,194.15,176.00,177.61,,,,,,,0,217.0029,0,69588,,,,
+2026-10-28,182.35,192.93,181.62,186.65,,,,,,,0,214.5427,0,66167,,,,
+2026-10-29,193.73,218.50,193.00,217.00,,,,,,,0,176.0000,1,56507,,,,
+2026-10-30,218.00,226.24,211.24,218.49,,,,,,,0,176.8500,1,75008,,,,
+2026-11-02,214.12,222.14,209.84,217.53,,,,,,,0,178.8256,1,48379,,,,
+2026-11-03,213.85,233.81,213.85,232.63,205.27,,,,,269.1840,0,180.7222,1,77652,,,,
+2026-11-04,233.00,244.00,220.21,229.12,206.25,,,,,269.1840,0,183.9074,1,68919,,,,

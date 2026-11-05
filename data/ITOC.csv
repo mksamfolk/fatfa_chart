@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-06 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.32,ITOC,iTonic Holdings Ltd.,Healthcare,Medical Devices,China,19020624,2.6,19870,54832,142563.2,0.495,,,0.60873,-50.36107,0.0,-0.66997004,-0.32297,2215268,244457,0.992,17.393,1.957,-1129604,-18776904,6836375,6712013,0.01819,0.00264,10047,0.15,0.0015,,,34.18332,0.8069522,32.58,-2.257,,,,,none,,,,,,,2.785,https://www.ftzy.com.cn,2026-10-31T17:46:53.207101+00:00
+99.29,ITOC,iTonic Holdings Ltd.,Healthcare,Medical Devices,China,19020624,2.6,19870,54832,142563.2,0.495,,,0.60873,-50.36107,0.0,-0.66997004,-0.32297,2215268,244457,0.992,17.393,1.957,-1129604,-18776904,6836375,6712013,0.01819,0.00264,10047,0.15,0.0015,,,34.18332,0.8069522,32.58,-2.257,,,,,none,,,,,,,2.785,https://www.ftzy.com.cn,2026-10-31T17:46:53.207101+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-05,3.76,4.48,3.57,3.78,,,,,,,0,4.4800,0,8478,,,,
 2024-09-06,4.20,4.20,3.52,3.90,,,,,,,0,4.4800,0,2326,,,,
@@ -555,4 +555,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.66,3.07,2.62,3.00,3.27,3.25,1.47,0.71,0.64,4.3130,0,4.3630,0,48,211,0.4374,0.6460,-0.2086
 2026-10-29,3.08,3.09,2.84,2.85,3.15,3.38,1.53,0.72,0.65,4.3130,0,4.3223,0,13,212,0.3886,0.5945,-0.2059
 2026-10-30,2.45,2.63,2.12,2.60,3.03,3.49,1.57,0.74,0.66,3.9650,0,4.2825,0,102,213,0.3261,0.5408,-0.2147
-2026-11-02,2.49,2.90,2.08,2.35,2.89,3.41,1.62,0.75,0.67,3.9650,0,4.1960,0,72,214,0.2534,0.4833,-0.2299
+2026-11-02,2.49,2.90,2.07,2.35,2.89,3.41,1.62,0.75,0.67,3.9650,0,4.1960,0,72,214,0.2534,0.4833,-0.2299
+2026-11-03,2.28,2.37,2.16,2.26,2.78,3.31,1.66,0.76,0.68,3.8360,0,4.0684,0,9,213,0.1864,0.4239,-0.2375
+2026-11-04,2.17,2.18,1.66,1.93,2.62,3.20,1.69,0.77,0.69,3.5161,0,3.9485,0,68,214,0.1054,0.3602,-0.2548

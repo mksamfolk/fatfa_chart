@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.61,NRXS,NeurAxis Inc.,Healthcare,Biotechnology,United States,89536864,7.13,91910,129156,920882.28,1.157,,,0.85558,-1.10163,-1.44441,-1.3975999,-0.5621,8322258,279392,4.148,3.04,2.828,-5621003,-3154924,12557765,8332579,0.25363,0.28478,412837,2.05,0.042,,-26.407406,16.842524,13.203703,15.33,-10.711,11.0,13.0,9.0,,none,2,0,0,0,0,,1.365,https://neuraxis.com,2026-10-31T18:50:02.325690+00:00
+87.86,NRXS,NeurAxis Inc.,Healthcare,Biotechnology,United States,89536864,7.13,91910,129156,920882.28,1.157,,,0.85558,-1.10163,-1.44441,-1.3975999,-0.5621,8322258,279392,4.148,3.04,2.828,-5621003,-3154924,12557765,8332579,0.25363,0.28478,412837,2.05,0.042,,-26.407406,16.842524,13.203703,15.33,-10.711,11.0,13.0,9.0,,none,2,0,0,0,0,,1.365,https://neuraxis.com,2026-10-31T18:50:02.325690+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-09,6.30,6.93,5.61,6.00,,,,,,,0,6.9300,0,2266,,,,
 2023-08-10,5.35,6.16,4.70,6.07,,,,,,,0,6.9300,0,654,,,,
@@ -826,3 +826,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,7.65,7.74,7.42,7.55,7.60,7.19,6.63,7.00,6.45,6.4784,1,7.0771,1,683,731,0.3059,0.3018,0.0042
 2026-10-30,7.49,7.49,7.02,7.13,7.55,7.26,6.64,7.01,6.46,6.4784,1,8.0500,0,1072,731,0.2629,0.2940,-0.0311
 2026-11-02,7.15,7.20,6.59,6.60,7.42,7.23,6.65,7.02,6.48,6.4784,1,8.0294,0,830,743,0.1839,0.2720,-0.0881
+2026-11-03,6.63,6.98,6.50,6.58,7.30,7.22,6.65,7.02,6.49,6.4784,1,7.9718,0,813,748,0.1183,0.2412,-0.1229
+2026-11-04,6.71,6.87,6.51,6.86,7.19,7.22,6.65,7.02,6.51,6.4784,1,7.8835,0,674,740,0.0880,0.2106,-0.1226

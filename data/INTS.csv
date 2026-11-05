@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-19 09:30:00-05:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.21,INTS,Intensity Therapeutics Inc.,Healthcare,Biotechnology,United States,11100589,3.4,8350,24220,82348.0,,,,0.0,0.0,0.0,-1.95876,-0.89913005,9529000,95000,1.031,5.002,4.245,-8954000,-6281875,3264879,3038949,0.03917,0.41993,87767,3.86,0.0279,,-1.7056885,,1.0869565,,,19.33333,32.0,7.0,1.0,strong_buy,6,0,0,3,3,,3.079,https://intensitytherapeutics.com,2026-10-31T17:41:58.384382+00:00
+17.36,INTS,Intensity Therapeutics Inc.,Healthcare,Biotechnology,United States,11100589,3.4,8350,24220,82348.0,,,,0.0,0.0,0.0,-1.95876,-0.89913005,9529000,95000,1.031,5.002,4.245,-8954000,-6281875,3264879,3038949,0.03917,0.41993,87767,3.86,0.0279,,-1.7056885,,1.0869565,,,19.33333,32.0,7.0,1.0,strong_buy,6,0,0,3,3,,3.079,https://intensitytherapeutics.com,2026-10-31T17:41:58.384382+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-30,148.75,168.75,140.00,149.00,,,,,,,0,168.7500,0,7722,,,,
 2023-07-03,140.00,159.00,140.00,155.00,,,,,,,0,168.7500,0,737,,,,
@@ -852,4 +852,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.21,3.38,3.21,3.38,3.26,3.45,3.94,4.69,5.77,3.9925,0,3.8383,0,5,115,-0.2237,-0.2369,0.0132
 2026-10-29,3.43,3.43,3.14,3.34,3.26,3.42,3.92,4.66,5.74,3.9925,0,3.7880,0,26,114,-0.2069,-0.2309,0.0240
 2026-10-30,3.41,3.45,3.21,3.40,3.27,3.39,3.90,4.63,5.70,3.9925,0,3.7407,0,55,111,-0.1867,-0.2220,0.0354
-2026-11-02,3.41,3.47,3.23,3.47,3.28,3.39,3.89,4.60,5.67,3.9925,0,3.6963,0,19,105,-0.1631,-0.2102,0.0472
+2026-11-02,3.41,3.50,3.23,3.43,3.28,3.39,3.89,4.60,5.67,3.9925,0,3.6963,0,19,105,-0.1663,-0.2109,0.0446
+2026-11-03,3.23,3.40,3.19,3.38,3.29,3.38,3.87,4.57,5.63,3.9925,0,3.6545,0,20,105,-0.1524,-0.1992,0.0468
+2026-11-04,3.30,3.58,3.30,3.50,3.33,3.36,3.86,4.54,5.60,3.9925,0,3.6152,0,24,102,-0.1302,-0.1854,0.0552

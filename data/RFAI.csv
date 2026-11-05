@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,250312944,30.0,18010,85967,2579010.0,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.56125,3945,0.31,0.0016,250.0,,,-47.16981,,,,,,,none,,,,,,,1.294,,2026-10-31T19:38:30.915368+00:00
+98.30,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,250312944,30.0,18010,85967,2579010.0,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.56125,3945,0.31,0.0016,250.0,,,-47.16981,,,,,,,none,,,,,,,1.294,,2026-10-31T19:38:30.915368+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-05,10.00,10.08,10.00,10.04,,,,,,,0,10.0000,1,11805,,,,
 2024-07-08,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,5622,,,,
@@ -598,3 +598,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,31.15,33.00,31.15,31.73,32.32,34.03,29.31,17.08,15.51,50.9531,0,26.5582,1,63,4909,-0.0647,0.7039,-0.7686
 2026-10-29,30.50,30.50,30.50,30.50,31.97,33.96,29.70,17.21,15.61,50.9531,0,27.0954,1,40,4905,-0.2648,0.5102,-0.7750
 2026-10-30,30.32,37.99,30.00,30.00,31.91,33.95,30.08,17.34,15.71,50.9531,0,27.6219,1,423,4913,-0.4584,0.3165,-0.7749
+2026-11-02,30.00,30.00,30.00,30.00,31.86,33.57,30.46,17.47,15.80,49.5854,0,28.1379,1,,4913,-0.6049,0.1322,-0.7371
+2026-11-03,29.84,30.00,29.84,29.95,31.67,33.14,30.84,17.59,15.90,47.5948,0,28.6435,1,96,4782,-0.7168,-0.0376,-0.6792
+2026-11-04,29.95,29.95,28.95,28.95,30.98,32.73,31.19,17.71,15.99,45.6569,0,53.4200,0,93,4784,-0.8762,-0.2053,-0.6708

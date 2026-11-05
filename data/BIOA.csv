@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.18,BIOA,BioAge Labs Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,269414848,5.87,869330,821023,4819405.01,0.016,,,0.0,-11.96777,0.0,-0.28211,-0.18474,318744992,2835000,0.756,17.189,16.749,-87601000,-58067000,45896909,39189535,0.023610001,0.91336995,3431572,3.88,0.0841,,-2.345064,26.01785,0.71672773,-4.49,0.439,32.55556,73.0,8.0,1.8,buy,9,3,2,1,1,2026-11-05,1.081,https://bioagelabs.com,2026-10-31T14:35:53.808888+00:00
+10.69,BIOA,BioAge Labs Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,269414848,5.87,869330,821023,4819405.01,0.016,,,0.0,-11.96777,0.0,-0.28211,-0.18474,318744992,2835000,0.756,17.189,16.749,-87601000,-58067000,45896909,39189535,0.023610001,0.91336995,3431572,3.88,0.0841,,-2.345064,26.01785,0.71672773,-4.49,0.439,32.55556,73.0,8.0,1.8,buy,9,3,2,1,1,2026-11-05,1.081,https://bioagelabs.com,2026-10-31T14:35:53.808888+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-26,22.50,24.00,18.30,18.31,,,,,,,0,18.3000,1,84609,,,,
 2024-09-27,19.29,22.73,19.10,21.00,,,,,,,0,18.3000,1,24492,,,,
@@ -555,4 +555,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.41,5.97,5.22,5.94,5.33,5.75,7.57,14.58,15.98,6.1702,0,4.9200,1,8523,5512,-0.7133,-0.8873,0.1740
 2026-10-29,5.95,6.26,5.82,5.94,5.39,5.71,7.47,14.52,15.90,6.1702,0,4.9200,1,5021,5524,-0.6313,-0.8361,0.2048
 2026-10-30,5.87,5.93,5.63,5.87,5.49,5.67,7.39,14.45,15.82,6.1702,0,4.9734,1,4704,5467,-0.5655,-0.7819,0.2165
-2026-11-02,6.00,6.02,5.54,5.80,5.57,5.65,7.32,14.38,15.74,6.1702,0,5.0247,1,3796,5457,-0.5130,-0.7282,0.2151
+2026-11-02,6.00,6.02,5.54,5.80,5.57,5.65,7.32,14.38,15.74,6.1702,0,5.0247,1,3996,5461,-0.5130,-0.7282,0.2151
+2026-11-03,5.83,6.01,5.58,5.96,5.61,5.63,7.25,14.30,15.67,6.1702,0,5.0739,1,5126,5440,-0.4534,-0.6732,0.2198
+2026-11-04,6.03,6.30,5.74,5.95,5.65,5.61,7.17,14.23,15.59,6.1702,0,5.1211,1,3648,5412,-0.4022,-0.6190,0.2168

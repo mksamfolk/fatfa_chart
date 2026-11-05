@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.69,KMTS,Kestra Medical Technologies Ltd.,Healthcare,Medical Instruments & Supplies,United States,1768389760,29.69,516650,370523,11000827.870000001,0.599,,,0.53886,-1.2158799,-1.40428,-0.73735,-0.29235,198911008,76446000,34.38,4.688,4.44,-87724000,-72031872,59561795,33717337,0.05223,1.01773,3428934,8.74,0.122200005,,-14.447688,16.569437,7.915223,15.422,-12.267,30.75,34.0,28.0,1.44444,strong_buy,8,2,2,0,0,2026-12-14,,https://kestramedical.com,2026-10-31T17:57:07.846175+00:00
+77.85,KMTS,Kestra Medical Technologies Ltd.,Healthcare,Medical Instruments & Supplies,United States,1768389760,29.69,516650,370523,11000827.870000001,0.599,,,0.53886,-1.2158799,-1.40428,-0.73735,-0.29235,198911008,76446000,34.38,4.688,4.44,-87724000,-72031872,59561795,33717337,0.05223,1.01773,3428934,8.74,0.122200005,,-14.447688,16.569437,7.915223,15.422,-12.267,30.75,34.0,28.0,1.44444,strong_buy,8,2,2,0,0,2026-12-14,,https://kestramedical.com,2026-10-31T17:57:07.846175+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-06,22.95,22.95,21.00,21.84,,,,,,,0,22.9500,0,86205,,,,
 2025-03-07,21.99,22.00,20.75,20.99,,,,,,,0,22.9500,0,10995,,,,
@@ -446,4 +446,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,29.59,31.01,29.49,29.87,28.72,27.79,26.59,23.75,23.73,25.5185,1,26.9820,1,16082,10143,0.8584,0.6467,0.2116
 2026-10-29,30.00,31.04,30.00,30.61,28.92,27.97,26.64,23.82,23.78,25.9084,1,27.3853,1,14405,10298,0.9577,0.7089,0.2488
 2026-10-30,30.73,31.06,28.77,29.69,29.16,28.08,26.69,23.89,23.81,25.9084,1,27.8239,1,9646,10357,0.9512,0.7574,0.1938
-2026-11-02,30.00,30.33,29.13,29.81,29.21,28.15,26.75,23.97,23.85,25.9084,1,28.2767,1,12203,10325,0.9448,0.7949,0.1500
+2026-11-02,30.00,30.33,29.13,29.81,29.21,28.15,26.75,23.97,23.85,25.9084,1,28.2767,1,12282,10326,0.9448,0.7949,0.1500
+2026-11-03,29.82,30.38,28.96,29.01,29.28,28.25,26.79,24.03,23.88,25.9084,1,28.6661,1,15590,10546,0.8653,0.8089,0.0563
+2026-11-04,30.29,31.91,29.55,30.50,29.60,28.45,26.86,24.10,23.92,25.9084,1,28.9600,1,57752,11615,0.9119,0.8295,0.0824

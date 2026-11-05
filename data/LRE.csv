@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.11,LRE,Lead Real Estate Co. Ltd,Real Estate,Real Estate - Development,Japan,14460414,1.06,6560,14564,15437.84,0.038,-0.298,-0.298,0.17999001,0.13799,0.03118,0.11225,0.042129997,2701004032,17589022720,341.419,1.757,0.227,,,13641900,1226680,0.90116,0.00475,43136,1.55,0.032,3.9259255,,0.0007889462,0.4439188,0.813,9.123,,,,,none,,,,,,,1.437,https://www.lead-real.co.jp,2026-10-31T18:12:57.786521+00:00
+27.03,LRE,Lead Real Estate Co. Ltd,Real Estate,Real Estate - Development,Japan,14460414,1.06,6560,14564,15437.84,0.038,-0.298,-0.298,0.17999001,0.13799,0.03118,0.11225,0.042129997,2701004032,17589022720,341.419,1.757,0.227,,,13641900,1226680,0.90116,0.00475,43136,1.55,0.032,3.9259255,,0.0007889462,0.4439188,0.813,9.123,,,,,none,,,,,,,1.437,https://www.lead-real.co.jp,2026-10-31T18:12:57.786521+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-27,7.00,7.35,6.16,6.20,,,,,,,0,7.3480,0,14439,,,,
 2023-09-28,5.25,5.63,4.52,4.70,,,,,,,0,7.3480,0,2321,,,,
@@ -792,3 +792,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.13,1.13,1.12,1.12,1.09,1.11,1.22,1.29,1.31,1.1899,0,1.0393,1,4,9,-0.0354,-0.0446,0.0091
 2026-10-30,1.08,1.09,1.06,1.06,1.09,1.10,1.22,1.28,1.31,1.1899,0,1.0400,1,24,10,-0.0369,-0.0430,0.0061
 2026-11-02,1.08,1.08,1.08,1.08,1.09,1.10,1.22,1.28,1.31,1.1899,0,1.0422,1,7,9,-0.0360,-0.0416,0.0056
+2026-11-03,1.08,1.15,1.08,1.14,1.10,1.10,1.21,1.28,1.31,1.1899,0,1.0444,1,16,10,-0.0297,-0.0392,0.0095
+2026-11-04,1.12,1.12,1.12,1.12,1.10,1.10,1.21,1.28,1.31,1.1899,0,1.0465,1,1,10,-0.0269,-0.0368,0.0099

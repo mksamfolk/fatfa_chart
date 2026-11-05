@@ -30,4 +30,6 @@ rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageV
 0.00,ASPE,Aspen Neuroscience Inc. Common Stock,Healthcare,Biotechnology,United States,432980352,14.89,1322500,1322500,19692025.0,,,,0.0,0.0,0.0,,,72377000,9771000,11.137,4.562,4.426,-56733000,,29078600,20283196,,,,,,,,,-0.6502751,,-10.923,,,,,none,,,,,,,,https://www.aspenneuroscience.com,2026-10-31T14:17:38.047717+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-30,14.70,14.90,11.60,14.89,,,,,,,,11.6000,1,19692,,,,
-2026-11-02,14.65,14.65,12.64,13.04,,,,,,,,11.6000,1,7764,,,,
+2026-11-02,14.65,14.65,12.63,13.04,,,,,,,,11.6000,1,7778,,,,
+2026-11-03,13.00,14.49,12.00,12.29,,,,,,,,11.6000,1,7862,,,,
+2026-11-04,11.92,12.95,11.20,12.76,,,,,,,,14.9000,0,3990,,,,

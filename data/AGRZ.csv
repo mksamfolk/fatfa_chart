@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-29 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.00,AGRZ,Agroz Inc.,Consumer Defensive,Farm Products,Malaysia,4422418,2.4,23820,281218,674923.2,0.307,-0.338,-0.287,0.29926002,0.19551,0.09002,0.26674998,0.11873,1478091,9520905,26.727,1.436,1.436,-6284550,-12351426,1842674,1295805,0.27616,0.0053399997,20704,0.25,0.014199999,1.6107383,,0.060472827,0.30344218,0.208,1.142,,,,,none,,,,,,,,https://agrozgroup.com,2026-10-31T13:57:48.317454+00:00
+99.05,AGRZ,Agroz Inc.,Consumer Defensive,Farm Products,Malaysia,4422418,2.4,23820,281218,674923.2,0.307,-0.338,-0.287,0.29926002,0.19551,0.09002,0.26674998,0.11873,1478091,9520905,26.727,1.436,1.436,-6284550,-12351426,1842674,1295805,0.27616,0.0053399997,20704,0.25,0.014199999,1.6107383,,0.060472827,0.30344218,0.208,1.142,,,,,none,,,,,,,,https://agrozgroup.com,2026-10-31T13:57:48.317454+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-01,4.05,4.50,2.81,3.12,,,,,,,0,4.5000,0,4109,,,,
 2025-10-02,2.92,3.16,2.52,2.85,,,,,,,0,4.5000,0,615,,,,
@@ -287,4 +287,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.80,2.84,2.62,2.84,2.88,2.92,1.33,0.70,0.67,4.0197,0,4.6156,0,19,2632,0.4620,0.5914,-0.1295
 2026-10-29,2.83,2.83,2.63,2.78,2.86,3.05,1.38,0.72,0.68,3.9963,0,4.4787,0,24,1803,0.4220,0.5575,-0.1355
 2026-10-30,2.65,2.77,2.40,2.40,2.82,3.16,1.42,0.73,0.68,3.8378,0,4.3501,0,72,1776,0.3559,0.5172,-0.1613
-2026-11-02,2.42,2.45,1.88,2.09,2.75,3.09,1.46,0.74,0.69,3.4645,0,4.2292,0,22,1772,0.2752,0.4688,-0.1936
+2026-11-02,2.42,2.45,1.88,2.11,2.76,3.09,1.46,0.74,0.69,3.4645,0,4.2292,0,23,1772,0.2768,0.4691,-0.1923
+2026-11-03,2.02,2.02,1.73,1.94,2.65,3.03,1.49,0.75,0.69,3.1563,0,4.0417,0,75,1771,0.1982,0.4150,-0.2167
+2026-11-04,1.84,1.92,1.77,1.92,2.55,2.95,1.52,0.76,0.70,3.0492,0,3.8105,0,19,1769,0.1327,0.3585,-0.2258

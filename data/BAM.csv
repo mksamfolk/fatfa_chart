@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.29,BAM,Brookfield Asset Management Ltd.,Financial Services,Asset Management,United States,77083361280,48.26,2224150,2800562,135155122.12,0.608,0.474,0.458,0.74377,0.68738997,0.48893002,0.26771,0.13036999,1503000064,4088999936,34.454,1.272,1.156,2340999936,2674374912,1597230353,319530189,0.03568,0.90039,23524624,7.17,0.0625,27.735632,22.440458,13.436179,10.259354,14.646,21.938,55.81263,70.0,44.0,2.21053,buy,19,1,1,1,1,2026-11-06,1.325,https://www.bam.brookfield.com,2026-10-31T14:27:04.367723+00:00
+65.24,BAM,Brookfield Asset Management Ltd.,Financial Services,Asset Management,United States,77083361280,48.26,2224150,2800562,135155122.12,0.608,0.474,0.458,0.74377,0.68738997,0.48893002,0.26771,0.13036999,1503000064,4088999936,34.454,1.272,1.156,2340999936,2674374912,1597230353,319530189,0.03568,0.90039,23524624,7.17,0.0625,27.735632,22.440458,13.436179,10.259354,14.646,21.938,55.81263,70.0,44.0,2.21053,buy,19,1,1,1,1,2026-11-06,1.325,https://www.bam.brookfield.com,2026-10-31T14:27:04.367723+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-12-01,28.43,31.88,27.95,27.95,,,,,,,0,31.8847,0,128,,,,
 2022-12-02,28.79,29.70,27.08,28.84,,,,,,,0,31.8847,0,1393,,,,
@@ -1011,4 +1011,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,46.38,47.48,46.38,47.37,46.43,45.74,47.22,47.13,47.16,43.7230,1,44.6708,1,124327,127595,0.1449,-0.1946,0.3394
 2026-10-29,48.00,48.87,47.70,48.60,46.69,45.95,47.15,47.17,47.15,44.7540,1,44.7942,1,107829,127035,0.3071,-0.0942,0.4013
 2026-10-30,48.24,48.33,47.55,48.26,46.99,46.12,47.09,47.21,47.14,44.7540,1,45.0387,1,107123,127737,0.4035,0.0053,0.3982
-2026-11-02,48.61,52.28,48.63,51.47,47.61,46.45,47.09,47.27,47.14,46.1019,1,45.2686,1,197868,129896,0.7302,0.1503,0.5799
+2026-11-02,48.61,52.28,48.61,51.47,47.61,46.45,47.09,47.27,47.14,46.0944,1,45.2686,1,229355,130526,0.7306,0.1504,0.5802
+2026-11-03,51.56,51.88,50.71,50.95,48.12,46.74,47.07,47.32,47.14,47.0307,1,45.8291,1,118489,131531,0.9370,0.3077,0.6293
+2026-11-04,52.20,54.67,51.92,54.11,48.92,47.22,47.11,47.39,47.17,48.3386,1,46.3448,1,183974,133565,1.3401,0.5142,0.8259

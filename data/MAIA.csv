@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.87,MAIA,MAIA Biotechnology Inc.,Healthcare,Biotechnology,United States,67916136,1.1,262630,461190,507309.00000000006,,,,0.0,0.0,0.0,-2.18683,-0.92098,27595832,0,,4.512,4.41,-22568370,-13788294,61741946,55296775,0.14406,0.21903999,2524188,3.97,0.044499997,,0.990991,,3.235294,,,12.0,14.0,10.0,,none,2,0,0,1,1,,0.281,https://maiabiotech.com,2026-10-31T18:17:42.577004+00:00
+27.86,MAIA,MAIA Biotechnology Inc.,Healthcare,Biotechnology,United States,67916136,1.1,262630,461190,507309.00000000006,,,,0.0,0.0,0.0,-2.18683,-0.92098,27595832,0,,4.512,4.41,-22568370,-13788294,61741946,55296775,0.14406,0.21903999,2524188,3.97,0.044499997,,0.990991,,3.235294,,,12.0,14.0,10.0,,none,2,0,0,1,1,,0.281,https://maiabiotech.com,2026-10-31T18:17:42.577004+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-28,4.10,4.68,3.78,4.46,,,,,,,0,3.7800,1,6905,,,,
 2022-07-29,4.45,7.44,4.26,5.80,,,,,,,0,3.7800,1,36025,,,,
@@ -1084,4 +1084,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.16,1.18,1.11,1.16,1.13,1.16,1.28,1.34,1.48,1.2601,0,1.0625,1,274,468,-0.0424,-0.0507,0.0083
 2026-10-29,1.17,1.22,1.16,1.18,1.13,1.16,1.28,1.33,1.48,1.2601,0,1.0649,1,203,460,-0.0369,-0.0479,0.0111
 2026-10-30,1.16,1.17,1.10,1.10,1.13,1.15,1.27,1.33,1.48,1.2601,0,1.0712,1,344,460,-0.0385,-0.0461,0.0075
-2026-11-02,1.11,1.14,1.09,1.10,1.14,1.14,1.27,1.33,1.48,1.2601,0,1.0771,1,165,457,-0.0398,-0.0448,0.0050
+2026-11-02,1.11,1.14,1.09,1.10,1.14,1.14,1.27,1.33,1.48,1.2601,0,1.0771,1,167,457,-0.0394,-0.0447,0.0054
+2026-11-03,1.08,1.15,1.08,1.08,1.13,1.14,1.27,1.32,1.48,1.2601,0,1.2200,0,187,444,-0.0412,-0.0440,0.0028
+2026-11-04,1.12,1.15,1.09,1.14,1.13,1.13,1.26,1.32,1.47,1.2601,0,1.2172,0,305,440,-0.0373,-0.0427,0.0053

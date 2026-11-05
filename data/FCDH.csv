@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-06-18 09:30:00-04:00,0.14285714285714285\n2026-01-12 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.96,FCDH,Forcendra Holding Limited,Communication Services,Advertising Agencies,Singapore,3072485,0.6713,173560,708568,475661.6984,0.03,,,0.24819,-0.042969998,-0.5802,-0.76399004,-0.13216,689770,2770418,71.049,1.478,0.334,-2126586,-6542997,4562632,2559045,0.00453,0.00679,154951,0.08,0.035099998,2.165484,,0.4031956,0.4760993,0.517,-1.68,,,,,none,,,,,,,0.262,https://www.vs-media.com,2026-10-31T15:59:12.256015+00:00
+12.36,FCDH,Forcendra Holding Limited,Communication Services,Advertising Agencies,Singapore,3072485,0.6713,173560,708568,475661.6984,0.03,,,0.24819,-0.042969998,-0.5802,-0.76399004,-0.13216,689770,2770418,71.049,1.478,0.334,-2126586,-6542997,4562632,2559045,0.00453,0.00679,154951,0.08,0.035099998,2.165484,,0.4031956,0.4760993,0.517,-1.68,,,,,none,,,,,,,0.262,https://www.vs-media.com,2026-10-31T15:59:12.256015+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-27,700.00,700.00,700.00,700.00,,,,,,,0,700.0000,1,,,,,
 2023-09-28,840.00,1087.80,498.40,533.40,,,,,,,0,1087.8000,0,23870,,,,
@@ -806,4 +806,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.70,0.74,0.70,0.71,0.75,0.80,0.93,1.14,1.20,0.5486,1,0.6396,1,11,990,-0.0555,-0.0599,0.0044
 2026-10-29,0.70,0.73,0.69,0.69,0.74,0.79,0.92,1.13,1.20,0.5486,1,0.6564,1,12,988,-0.0579,-0.0595,0.0016
 2026-10-30,0.68,0.73,0.65,0.67,0.73,0.78,0.91,1.13,1.19,0.5486,1,1.0600,0,7,988,-0.0606,-0.0597,-0.0009
-2026-11-02,0.66,0.73,0.65,0.65,0.73,0.76,0.90,1.13,1.19,0.5486,1,1.0519,0,3,988,-0.0638,-0.0605,-0.0033
+2026-11-02,0.66,0.73,0.64,0.64,0.73,0.76,0.90,1.13,1.19,0.5486,1,1.0519,0,4,988,-0.0644,-0.0606,-0.0038
+2026-11-03,0.61,0.64,0.60,0.60,0.73,0.75,0.89,1.13,1.18,0.5486,1,1.0355,0,8,987,-0.0698,-0.0625,-0.0073
+2026-11-04,0.61,0.65,0.61,0.65,0.73,0.74,0.88,1.12,1.18,0.5486,1,1.0094,0,7,987,-0.0690,-0.0638,-0.0053

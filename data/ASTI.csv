@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-09-12 09:30:00-04:00,0.005\n2024-08-15 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.28,ASTI,Ascent Solar Technologies Inc.,Technology,Solar,United States,15411797,1.57,169160,284785,447112.45,4.613,,,0.0,-20.4353,0.0,-0.86578006,-0.41412997,14538226,1136669,7.444,6.309,6.008,-7351544,-3858631,9816431,9314026,0.0028,0.25871,745701,2.67,0.0762,,,80.54876,1.0089974,10.506,-0.246,20.0,20.0,20.0,,none,1,0,0,1,1,,2.366,https://ascentsolar.com,2026-10-31T14:18:22.298995+00:00
+12.78,ASTI,Ascent Solar Technologies Inc.,Technology,Solar,United States,15411797,1.57,169160,284785,447112.45,4.613,,,0.0,-20.4353,0.0,-0.86578006,-0.41412997,14538226,1136669,7.444,6.309,6.008,-7351544,-3858631,9816431,9314026,0.0028,0.25871,745701,2.67,0.0762,,,80.54876,1.0089974,10.506,-0.246,20.0,20.0,20.0,,none,1,0,0,1,1,,2.366,https://ascentsolar.com,2026-10-31T14:18:22.298995+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-24,200000.00,230000.00,163200.00,181900.00,,,,,,,0,230000.0000,0,546,,,,
 2022-08-25,174580.00,190540.00,160000.00,160000.00,,,,,,,0,230000.0000,0,160,,,,
@@ -1065,4 +1065,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.75,1.76,1.68,1.74,1.78,2.06,2.70,4.22,4.56,2.1972,0,1.8278,0,173,843,-0.3252,-0.3329,0.0077
 2026-10-29,1.71,1.75,1.69,1.70,1.76,2.01,2.68,4.19,4.54,2.1972,0,1.7743,0,112,830,-0.3144,-0.3292,0.0148
 2026-10-30,1.69,1.69,1.51,1.57,1.73,1.94,2.65,4.16,4.53,2.0869,0,1.7600,0,274,814,-0.3127,-0.3259,0.0132
-2026-11-02,1.59,1.60,1.40,1.40,1.69,1.89,2.62,4.13,4.51,1.9982,0,1.7550,0,348,803,-0.3214,-0.3250,0.0036
+2026-11-02,1.60,1.60,1.40,1.40,1.69,1.89,2.62,4.13,4.51,1.9982,0,1.7550,0,352,803,-0.3214,-0.3250,0.0036
+2026-11-03,1.45,1.56,1.45,1.49,1.66,1.84,2.59,4.10,4.50,1.9982,0,1.6900,0,203,777,-0.3173,-0.3235,0.0062
+2026-11-04,1.69,1.84,1.51,1.73,1.65,1.81,2.55,4.07,4.49,1.9982,0,1.4000,1,1258,745,-0.2914,-0.3171,0.0257

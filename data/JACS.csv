@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.49,JACS,Jackson Acquisition Company II,Financial Services,Shell Companies,United States,321347392,10.86,134190,40264,437267.04,,-0.146,-0.146,0.0,0.0,0.0,,,358338,198024,,0.771,0.622,-363323,,23840000,22319441,0.0,1.02701,2076,0.12,0.0001,37.448277,,,-2714.9998,,,,,,,none,,,,,,,,https://jacksonacquisitions.com,2026-10-31T17:48:17.520740+00:00
+56.77,JACS,Jackson Acquisition Company II,Financial Services,Shell Companies,United States,321347392,10.86,134190,40264,437267.04,,-0.146,-0.146,0.0,0.0,0.0,,,358338,198024,,0.771,0.622,-363323,,23840000,22319441,0.0,1.02701,2076,0.12,0.0001,37.448277,,,-2714.9998,,,,,,,none,,,,,,,,https://jacksonacquisitions.com,2026-10-31T17:48:17.520740+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-30,9.95,10.00,9.94,9.96,,,,,,,0,9.9400,1,6700,,,,
 2025-01-31,9.96,9.97,9.95,9.95,,,,,,,0,9.9400,1,4572,,,,
@@ -455,4 +455,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.84,10.86,10.84,10.86,10.83,10.82,10.76,10.66,10.61,10.7975,1,10.8039,1,9942,427,0.0242,0.0239,0.0003
 2026-10-29,10.85,10.85,10.85,10.85,10.83,10.82,10.76,10.66,10.61,10.7997,1,10.8106,1,906,445,0.0243,0.0240,0.0003
 2026-10-30,10.86,10.86,10.86,10.86,10.84,10.83,10.77,10.66,10.61,10.8117,1,10.8165,1,816,461,0.0249,0.0242,0.0007
-2026-11-02,10.87,10.85,10.84,10.85,10.84,10.83,10.77,10.66,10.62,10.8117,1,10.8217,1,168,465,0.0243,0.0242,0.0001
+2026-11-02,10.87,10.87,10.81,10.85,10.84,10.83,10.77,10.66,10.62,10.8117,1,10.8600,0,174,465,0.0243,0.0242,0.0001
+2026-11-03,10.84,10.86,10.84,10.85,10.84,10.83,10.77,10.67,10.62,10.8117,1,10.8700,0,1711,499,0.0235,0.0240,-0.0006
+2026-11-04,10.92,10.92,10.85,10.85,10.84,10.83,10.78,10.67,10.62,10.8117,1,10.8100,1,11,499,0.0230,0.0238,-0.0008

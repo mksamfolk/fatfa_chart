@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-31 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.08,OMH,Ohmyhome Limited,Real Estate,Real Estate Services,Singapore,6088150,2.86,96570,466903,1335342.5799999998,,,,0.28014,-0.23504,-0.5861,-1.71407,-0.38493,4006924,0,,4.839,4.839,-3826045,-3463548,2111893,457595,0.00035,0.00014999999,55556,1.02,0.026300002,,-30.752686,0.4135892,0.5150704,-0.182,0.641,,,,,none,,,,,,,-0.3,https://ohmyhome.com,2026-10-31T19:01:22.795461+00:00
+99.97,OMH,Ohmyhome Limited,Real Estate,Real Estate Services,Singapore,6088150,2.86,96570,466903,1335342.5799999998,,,,0.28014,-0.23504,-0.5861,-1.71407,-0.38493,4006924,0,,4.839,4.839,-3826045,-3463548,2111893,457595,0.00035,0.00014999999,55556,1.02,0.026300002,,-30.752686,0.4135892,0.5150704,-0.182,0.641,,,,,none,,,,,,,-0.3,https://ohmyhome.com,2026-10-31T19:01:22.795461+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-22,4.15,4.15,4.07,4.14,,,,,,,0,4.0700,1,106,,,,
 2023-03-23,4.10,4.20,4.06,4.18,,,,,,,0,4.1950,0,385,,,,
@@ -920,4 +920,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.97,3.07,2.85,2.96,3.04,2.77,1.51,1.08,1.12,2.2863,1,1.6489,1,36,3277,0.4333,0.4875,-0.0542
 2026-10-29,2.98,3.19,2.91,3.05,3.07,2.81,1.56,1.09,1.13,2.2863,1,1.7288,1,71,2992,0.4088,0.4718,-0.0629
 2026-10-30,2.98,2.98,2.83,2.86,3.09,2.85,1.62,1.10,1.14,2.2863,1,1.8056,1,62,2952,0.3698,0.4514,-0.0815
-2026-11-02,2.80,3.06,2.80,2.92,3.09,2.86,1.67,1.11,1.15,2.2863,1,1.8793,1,58,2931,0.3399,0.4291,-0.0892
+2026-11-02,2.80,3.06,2.80,2.92,3.09,2.86,1.67,1.11,1.15,2.2863,1,1.8793,1,59,2931,0.3399,0.4291,-0.0892
+2026-11-03,2.89,3.00,2.89,2.92,3.07,2.88,1.73,1.12,1.16,2.2863,1,1.9501,1,40,2889,0.3125,0.4058,-0.0932
+2026-11-04,2.99,18.23,2.92,15.55,4.29,3.53,2.04,1.22,1.23,5.2172,1,2.0180,1,1439577,31606,1.2951,0.5836,0.7114

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-05 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.08,MKZR,MacKenzie Realty Capital Inc.,Real Estate,REIT - Diversified,United States,2857928,1.03,15090,52003,53563.090000000004,0.236,,,0.4374,-0.07241,-0.85828,-0.16354,-0.00949,3517313,147404000,186.053,0.405,0.146,-3309228,4364339,2774688,2618945,0.08944,0.11093,7931,0.65,0.0031,,,0.13983797,0.059110474,8.915,33.73,,,,,none,,,,,,,-0.503,https://www.mackenzierealty.com,2026-10-31T18:27:41.320480+00:00
+8.40,MKZR,MacKenzie Realty Capital Inc.,Real Estate,REIT - Diversified,United States,2857928,1.03,15090,52003,53563.090000000004,0.236,,,0.4374,-0.07241,-0.85828,-0.16354,-0.00949,3517313,147404000,186.053,0.405,0.146,-3309228,4364339,2774688,2618945,0.08944,0.11093,7931,0.65,0.0031,,,0.13983797,0.059110474,8.915,33.73,,,,,none,,,,,,,-0.503,https://www.mackenzierealty.com,2026-10-31T18:27:41.320480+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-09,19.90,20.78,9.70,12.01,,,,,,,0,9.6980,1,199,,,,
 2024-07-10,13.39,22.35,12.47,20.32,,,,,,,0,9.6980,1,265,,,,
@@ -597,3 +597,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.05,1.09,1.03,1.03,1.12,1.23,1.38,2.20,2.69,1.3046,0,1.1318,0,15,87,-0.1051,-0.0895,-0.0156
 2026-10-30,1.03,1.10,1.03,1.03,1.10,1.21,1.37,2.18,2.68,1.3046,0,1.1123,0,29,88,-0.1064,-0.0929,-0.0136
 2026-11-02,1.01,1.15,1.01,1.04,1.08,1.20,1.37,2.16,2.66,1.3046,0,1.0100,1,6,81,-0.1055,-0.0954,-0.0101
+2026-11-03,1.02,1.17,1.02,1.03,1.07,1.18,1.37,2.15,2.65,1.3046,0,1.0100,1,5,29,-0.1043,-0.0972,-0.0071
+2026-11-04,1.02,1.06,0.95,1.04,1.06,1.16,1.36,2.13,2.63,1.2908,0,1.1700,0,7,24,-0.1014,-0.0980,-0.0034

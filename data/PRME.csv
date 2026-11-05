@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.38,PRME,Prime Medicine Inc.,Healthcare,Biotechnology,United States,856098752,4.72,6305090,4047382,19103643.04,0.035,,,0.0,-37.50867,0.0,-3.7328699,-0.4652,95071000,112478000,282.544,3.055,3.0,-156051008,-75780000,181376856,112248724,0.20297001,0.71317,32871532,6.8,0.2317,,-5.3155546,210.18874,20.977777,210.438,-4.532,7.29545,11.0,4.25,1.5,strong_buy,11,0,1,1,1,2026-11-06,2.377,https://primemedicine.com,2026-10-31T19:25:07.484605+00:00
+92.96,PRME,Prime Medicine Inc.,Healthcare,Biotechnology,United States,856098752,4.72,6305090,4047382,19103643.04,0.035,,,0.0,-37.50867,0.0,-3.7328699,-0.4652,95071000,112478000,282.544,3.055,3.0,-156051008,-75780000,181376856,112248724,0.20297001,0.71317,32871532,6.8,0.2317,,-5.3155546,210.18874,20.977777,210.438,-4.532,7.29545,11.0,4.25,1.5,strong_buy,11,0,1,1,1,2026-11-06,2.377,https://primemedicine.com,2026-10-31T19:25:07.484605+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-10-20,18.97,19.00,15.10,15.37,,,,,,,0,19.0000,0,42722,,,,
 2022-10-21,15.48,16.24,14.94,15.76,,,,,,,0,19.0000,0,10930,,,,
@@ -1040,4 +1040,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.24,5.43,4.11,5.36,3.94,3.68,3.47,3.37,3.49,3.3736,1,3.0723,1,81476,15482,0.2831,0.1480,0.1350
 2026-10-29,5.29,5.91,5.19,5.24,4.10,3.79,3.51,3.38,3.49,4.0773,1,3.1666,1,54258,16086,0.3623,0.1909,0.1714
 2026-10-30,5.02,5.20,4.68,4.72,4.22,3.88,3.54,3.39,3.49,4.0773,1,3.3312,1,30976,16460,0.3787,0.2284,0.1503
-2026-11-02,4.86,4.84,4.36,4.44,4.28,3.94,3.56,3.40,3.50,4.0773,1,3.4859,1,18295,16582,0.3649,0.2557,0.1092
+2026-11-02,4.86,4.86,4.36,4.44,4.28,3.94,3.56,3.40,3.50,4.0773,1,3.4859,1,18306,16582,0.3649,0.2557,0.1092
+2026-11-03,4.50,4.89,4.43,4.55,4.35,3.99,3.58,3.41,3.50,4.0773,1,3.6314,1,18726,16809,0.3588,0.2763,0.0824
+2026-11-04,4.75,5.12,4.59,4.97,4.46,4.05,3.61,3.42,3.50,4.0773,1,3.7681,1,21844,17000,0.3834,0.2977,0.0856

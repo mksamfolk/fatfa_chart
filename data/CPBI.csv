@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-74.27,CPBI,Central Plains Bancshares Inc.,Financial Services,Banks - Regional,United States,80171448,20.62,1450,3185,65674.7,0.131,0.5,0.51,0.0,0.32766998,0.20746,0.05149,0.00847,34442000,0,,,,6584000,,3888043,2795853,0.19181,0.32976002,5447,0.96,0.0015,17.474577,,3.692835,0.88998234,2.106,,,,,,none,,,,,,,0.221,https://www.homefederalne.bank,2026-10-31T15:14:49.720443+00:00
+71.78,CPBI,Central Plains Bancshares Inc.,Financial Services,Banks - Regional,United States,80171448,20.62,1450,3185,65674.7,0.131,0.5,0.51,0.0,0.32766998,0.20746,0.05149,0.00847,34442000,0,,,,6584000,,3888043,2795853,0.19181,0.32976002,5447,0.96,0.0015,17.474577,,3.692835,0.88998234,2.106,,,,,,none,,,,,,,0.221,https://www.homefederalne.bank,2026-10-31T15:14:49.720443+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-20,8.25,9.20,8.20,9.10,,,,,,,0,8.2010,1,4858,,,,
 2023-10-23,9.29,9.29,9.00,9.05,,,,,,,0,8.2010,1,472,,,,
@@ -774,4 +774,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,20.62,20.62,20.62,20.62,20.46,20.34,20.64,19.01,18.60,19.6854,1,19.1272,1,,48,0.0065,-0.0542,0.0607
 2026-10-29,20.75,20.75,20.62,20.62,20.54,20.32,20.65,19.03,18.62,19.8048,1,19.1647,1,74,50,0.0158,-0.0402,0.0560
 2026-10-30,20.73,20.73,20.62,20.62,20.60,20.28,20.67,19.05,18.64,19.8499,1,19.2014,1,27,50,0.0229,-0.0276,0.0505
-2026-11-02,20.75,20.75,20.68,20.68,20.63,20.33,20.68,19.07,18.66,19.9359,1,19.2374,1,14,50,0.0334,-0.0154,0.0488
+2026-11-02,20.75,20.75,20.68,20.75,20.63,20.33,20.68,19.07,18.66,19.9359,1,19.2374,1,15,50,0.0386,-0.0143,0.0529
+2026-11-03,20.75,20.78,20.62,20.62,20.67,20.36,20.69,19.09,18.68,19.9487,1,19.2726,1,68,50,0.0401,-0.0034,0.0435
+2026-11-04,20.62,20.62,20.62,20.62,20.65,20.39,20.69,19.11,18.70,19.9487,1,19.3072,1,,48,0.0408,0.0054,0.0354

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.99,ANL,Adlai Nortye Group Ltd.,Healthcare,Biotechnology,Singapore,615000320,9.55,201730,215410,2057165.5000000002,,,,1.0,-0.44187,-1.24773,-0.20228,-0.086969994,232816992,26701000,12.429,9.55,9.241,-33685000,-11449125,58734603,49566448,0.009430001,0.41306,5092277,18.84,0.0874,,-32.450985,34.06072,2.86271,22.645,-18.886,29.5,49.0,20.0,1.0,strong_buy,6,0,0,0,0,,1.109,https://www.adlainortye.com,2026-10-31T14:09:46.310713+00:00
+97.82,ANL,Adlai Nortye Group Ltd.,Healthcare,Biotechnology,Singapore,615000320,9.55,201730,215410,2057165.5000000002,,,,1.0,-0.44187,-1.24773,-0.20228,-0.086969994,232816992,26701000,12.429,9.55,9.241,-33685000,-11449125,58734603,49566448,0.009430001,0.41306,5092277,18.84,0.0874,,-32.450985,34.06072,2.86271,22.645,-18.886,29.5,49.0,20.0,1.0,strong_buy,6,0,0,0,0,,1.109,https://www.adlainortye.com,2026-10-31T14:09:46.310713+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-29,18.00,19.30,15.00,15.00,,,,,,,0,19.3000,0,6120,,,,
 2023-10-02,13.75,14.80,12.45,13.10,,,,,,,0,19.3000,0,1626,,,,
@@ -789,4 +789,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.72,11.15,10.04,10.20,10.81,12.49,13.23,11.84,10.25,13.8363,0,13.7458,0,1278,3184,-0.9543,-0.7224,-0.2319
 2026-10-29,10.20,10.68,10.20,10.28,10.62,12.25,13.20,11.85,10.29,13.5012,0,13.3752,0,458,3172,-0.9608,-0.7700,-0.1907
 2026-10-30,10.11,10.13,9.36,9.55,10.48,11.97,13.13,11.85,10.33,12.7760,0,13.0417,0,2503,3181,-1.0131,-0.8187,-0.1945
-2026-11-02,9.75,9.89,9.21,9.37,10.38,11.69,13.06,11.86,10.37,12.4819,0,12.5999,0,2515,3200,-1.0569,-0.8663,-0.1906
+2026-11-02,9.75,9.95,9.21,9.37,10.38,11.69,13.06,11.86,10.37,12.5299,0,12.5999,0,2554,3201,-1.0569,-0.8663,-0.1906
+2026-11-03,9.39,9.93,9.35,9.58,10.27,11.44,12.99,11.86,10.41,12.4649,0,12.1253,0,2262,3190,-1.0625,-0.9055,-0.1569
+2026-11-04,9.70,10.06,9.02,9.61,10.10,11.22,12.92,11.87,10.45,12.3967,0,11.7171,0,2293,3189,-1.0523,-0.9349,-0.1174

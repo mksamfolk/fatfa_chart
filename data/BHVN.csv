@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-90.69,BHVN,Biohaven Ltd.,Healthcare,Biotechnology,United States,2329326336,15.42,5373110,3163637,48783282.54,,,,0.0,0.0,0.0,,-0.90568,161124992,295700000,,3.051,2.567,-472529984,-290671808,151058781,116584146,0.112040006,0.95739996,17899310,7.2,0.1516,,-8.863037,,190.37038,,-5.154,23.33333,48.0,9.0,1.82353,buy,15,0,1,1,2,2026-10-29,,https://www.biohaven.com,2026-10-31T14:35:10.522245+00:00
+88.37,BHVN,Biohaven Ltd.,Healthcare,Biotechnology,United States,2329326336,15.42,5373110,3163637,48783282.54,,,,0.0,0.0,0.0,,-0.90568,161124992,295700000,,3.051,2.567,-472529984,-290671808,151058781,116584146,0.112040006,0.95739996,17899310,7.2,0.1516,,-8.863037,,190.37038,,-5.154,23.33333,48.0,9.0,1.82353,buy,15,0,1,1,2,2026-10-29,,https://www.biohaven.com,2026-10-31T14:35:10.522245+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-23,5.87,7.47,5.87,7.14,,,,,,,0,5.8651,1,24415,,,,
 2022-09-26,7.53,8.31,7.23,8.26,,,,,,,0,5.8651,1,11962,,,,
@@ -1059,4 +1059,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,15.11,15.87,14.95,15.52,13.10,12.60,13.54,12.53,12.18,12.0859,1,12.0433,1,48841,49629,0.3615,-0.1534,0.5150
 2026-10-29,15.46,16.49,15.46,16.49,13.60,12.77,13.59,12.58,12.21,12.5993,1,12.3131,1,40384,49881,0.5711,-0.0085,0.5797
 2026-10-30,15.46,16.33,15.12,15.42,14.07,12.90,13.62,12.62,12.23,12.5993,1,12.5668,1,48798,49772,0.6435,0.1219,0.5216
-2026-11-02,15.98,16.10,15.08,15.14,14.44,13.01,13.65,12.67,12.24,12.5993,1,12.8051,1,24411,49683,0.6705,0.2316,0.4389
+2026-11-02,15.98,16.10,15.08,15.16,14.45,13.01,13.65,12.67,12.24,12.5993,1,12.8051,1,39298,49981,0.6721,0.2319,0.4402
+2026-11-03,15.46,16.09,15.25,15.61,14.83,13.18,13.69,12.72,12.25,12.5993,1,13.0292,1,31482,50239,0.7228,0.3301,0.3927
+2026-11-04,15.97,16.15,15.12,15.24,15.17,13.35,13.71,12.76,12.27,12.5993,1,13.2399,1,25500,49760,0.7247,0.4090,0.3157

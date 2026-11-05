@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-03-31 09:30:00-04:00,6.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.29,SEZL,Sezzle Inc.,Financial Services,Credit Services,United States,4555691520,134.85,447550,587165,79179200.25,0.517,0.5,0.477,0.74967,0.57167,0.3035,0.88851,0.48792,79757000,122115000,52.416,4.017,3.835,275596992,100542000,33783402,18938828,0.46616,0.44932997,4430122,8.49,0.2321,29.57237,20.283289,8.565149,19.486996,8.617,14.523,167.16667,196.0,150.0,2.0,buy,6,1,1,0,0,2026-11-04,6.729,https://www.sezzle.com,2026-10-31T19:55:18.754605+00:00
+95.55,SEZL,Sezzle Inc.,Financial Services,Credit Services,United States,4555691520,134.85,447550,587165,79179200.25,0.517,0.5,0.477,0.74967,0.57167,0.3035,0.88851,0.48792,79757000,122115000,52.416,4.017,3.835,275596992,100542000,33783402,18938828,0.46616,0.44932997,4430122,8.49,0.2321,29.57237,20.283289,8.565149,19.486996,8.617,14.523,167.16667,196.0,150.0,2.0,buy,6,1,1,0,0,2026-11-04,6.729,https://www.sezzle.com,2026-10-31T19:55:18.754605+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-13,13.51,13.51,13.51,13.51,,,,,,,0,13.5133,0,,,,,
 2023-09-14,3.64,6.09,2.57,2.63,,,,,,,0,13.5133,0,2507,,,,
@@ -816,4 +816,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,126.90,130.74,124.77,130.02,131.07,124.74,120.10,121.42,108.03,115.4549,1,140.6201,0,39994,54534,3.4060,3.0171,0.3889
 2026-10-29,129.63,136.79,125.77,133.86,131.22,125.95,120.40,121.87,108.32,115.4549,1,140.2478,0,70062,54980,3.5639,3.1265,0.4374
 2026-10-30,131.85,135.05,126.94,134.85,131.94,127.32,120.75,122.36,108.62,115.4549,1,139.8829,0,85441,55257,3.7259,3.2463,0.4796
-2026-11-02,135.64,141.72,127.25,128.32,131.97,128.20,120.94,122.81,108.91,115.4549,1,122.0050,1,97125,56396,3.2895,3.2550,0.0345
+2026-11-02,135.64,141.72,127.25,128.32,131.97,128.20,120.94,122.81,108.91,115.4549,1,122.0050,1,97305,56399,3.2895,3.2550,0.0345
+2026-11-03,128.60,130.01,121.41,122.43,131.19,128.68,121.03,123.20,109.18,115.4549,1,141.7200,0,100429,57675,2.4402,3.0920,-0.6518
+2026-11-04,124.50,139.74,124.50,136.69,131.24,129.82,121.28,123.69,109.54,115.4549,1,141.7200,0,155963,59842,2.8846,3.0505,-0.1659

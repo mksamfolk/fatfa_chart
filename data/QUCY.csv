@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.20,QUCY,Quantum Cyber N.V.,Healthcare,Diagnostics & Research,Germany,73264152,0.84,344620,652825,548373.0,,,,0.72576,-32.056202,0.0,-2.12528,-0.64878,13376044,168670,0.828,5.556,4.513,-14252458,-7630069,87219235,24344467,0.67971003,0.00296,1247296,2.49,0.014400001,,,136.41199,1.0319409,107.003,-3.471,9.0,9.0,9.0,,none,1,1,0,0,0,,2.381,https://quantum-cyber.ai,2026-10-31T19:32:13.073513+00:00
+26.29,QUCY,Quantum Cyber N.V.,Healthcare,Diagnostics & Research,Germany,73264152,0.84,344620,652825,548373.0,,,,0.72576,-32.056202,0.0,-2.12528,-0.64878,13376044,168670,0.828,5.556,4.513,-14252458,-7630069,87219235,24344467,0.67971003,0.00296,1247296,2.49,0.014400001,,,136.41199,1.0319409,107.003,-3.471,9.0,9.0,9.0,,none,1,1,0,0,0,,2.381,https://quantum-cyber.ai,2026-10-31T19:32:13.073513+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-05,24.77,26.86,24.00,26.46,,,,,,,0,26.8600,0,35832,,,,
 2021-11-08,11.18,11.86,10.20,11.70,,,,,,,0,26.8600,0,21285,,,,
@@ -1265,4 +1265,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.92,1.01,0.92,0.96,1.01,1.14,1.29,1.26,1.20,1.2097,0,1.0531,0,375,1017,-0.1176,-0.0986,-0.0190
 2026-10-29,0.96,0.99,0.89,0.91,0.99,1.11,1.29,1.26,1.20,1.2097,0,1.0246,0,226,1006,-0.1186,-0.1026,-0.0160
 2026-10-30,0.90,0.91,0.82,0.84,0.97,1.09,1.28,1.26,1.20,1.1779,0,1.0100,0,303,1004,-0.1235,-0.1068,-0.0168
-2026-11-02,0.84,0.84,0.75,0.76,0.93,1.06,1.28,1.26,1.20,1.1032,0,0.9880,0,240,997,-0.1325,-0.1119,-0.0206
+2026-11-02,0.84,0.84,0.75,0.76,0.93,1.06,1.28,1.26,1.20,1.1031,0,0.9880,0,242,998,-0.1325,-0.1119,-0.0206
+2026-11-03,0.77,0.79,0.70,0.72,0.90,1.03,1.26,1.26,1.20,1.0497,0,0.9452,0,227,983,-0.1408,-0.1177,-0.0231
+2026-11-04,0.76,0.80,0.74,0.74,0.87,1.00,1.25,1.26,1.19,1.0497,0,0.8957,0,291,929,-0.1442,-0.1230,-0.0212

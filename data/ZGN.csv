@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-75.61,ZGN,Ermenegildo Zegna N.V.,Consumer Cyclical,Apparel Manufacturing,Italy,3627317504,13.49,1116270,1054720,14228172.8,0.064,-0.492,-0.462,0.67584,0.07169,0.0398,0.08725,0.035669997,294812992,1171432960,105.448,1.468,0.639,387672000,285307136,268889388,53167499,0.70252,0.29007,7238015,6.94,0.0936,38.54286,22.310947,1.835179,3.1116807,2.316,28.626,15.048727,16.02836,12.401742,1.85714,buy,14,,,,,2026-09-03,0.907,https://www.zegnagroup.com,2026-10-31T21:15:16.672976+00:00
+78.81,ZGN,Ermenegildo Zegna N.V.,Consumer Cyclical,Apparel Manufacturing,Italy,3627317504,13.49,1116270,1054720,14228172.8,0.064,-0.492,-0.462,0.67584,0.07169,0.0398,0.08725,0.035669997,294812992,1171432960,105.448,1.468,0.639,387672000,285307136,268889388,53167499,0.70252,0.29007,7238015,6.94,0.0936,38.54286,22.310947,1.835179,3.1116807,2.316,28.626,15.048727,16.02836,12.401742,1.85714,buy,14,,,,,2026-09-03,0.907,https://www.zegnagroup.com,2026-10-31T21:15:16.672976+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-20,9.75,10.72,9.57,10.17,,,,,,,0,9.5737,1,12611,,,,
 2021-12-21,11.26,11.83,10.42,11.24,,,,,,,0,9.5737,1,20795,,,,
@@ -1250,4 +1250,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,13.10,13.48,13.10,13.28,13.21,12.90,12.79,12.99,12.30,12.1514,1,12.9742,1,9406,14223,0.1929,0.1217,0.0712
 2026-10-29,13.39,13.60,13.33,13.41,13.21,12.94,12.78,13.02,12.31,12.1514,1,13.0668,1,8770,13986,0.1991,0.1372,0.0619
 2026-10-30,13.45,13.54,13.29,13.49,13.27,12.99,12.78,13.04,12.33,12.1514,1,13.1000,1,9863,13975,0.2081,0.1513,0.0567
-2026-11-02,13.66,14.06,13.53,14.03,13.40,13.06,12.78,13.07,12.34,12.4678,1,13.1800,1,15716,14057,0.2558,0.1722,0.0836
+2026-11-02,13.66,14.07,13.53,14.03,13.40,13.06,12.78,13.07,12.34,12.4688,1,13.1800,1,15716,14057,0.2558,0.1722,0.0836
+2026-11-03,14.05,14.07,13.78,13.91,13.51,13.13,12.78,13.09,12.36,12.6399,1,13.2868,1,10371,14096,0.2807,0.1939,0.0868
+2026-11-04,14.22,14.89,14.20,14.88,13.71,13.27,12.80,13.12,12.39,13.0944,1,13.3808,1,22432,14414,0.3744,0.2300,0.1444

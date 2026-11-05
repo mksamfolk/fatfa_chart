@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-12 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.86,MDCX,Medicus Pharma Ltd.,Healthcare,Drug Manufacturers - General,United States,2696296,1.88,65140,108200,203416.0,,,,0.0,0.0,0.0,-74.4611,-1.10674,15174128,21636986,,1.566,1.4,-29320072,-16164224,1434200,1052197,0.15352,0.03415,43628,0.45,0.0317,,-0.07833333,,-1.2824011,,,203.75,450.0,15.0,,none,4,0,0,0,0,,-0.298,https://medicuspharma.com,2026-10-31T18:22:00.950248+00:00
+98.75,MDCX,Medicus Pharma Ltd.,Healthcare,Drug Manufacturers - General,United States,2696296,1.88,65140,108200,203416.0,,,,0.0,0.0,0.0,-74.4611,-1.10674,15174128,21636986,,1.566,1.4,-29320072,-16164224,1434200,1052197,0.15352,0.03415,43628,0.45,0.0317,,-0.07833333,,-1.2824011,,,203.75,450.0,15.0,,none,4,0,0,0,0,,-0.298,https://medicuspharma.com,2026-10-31T18:22:00.950248+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-14,3.10,3.10,2.25,2.65,,,,,,,0,3.1000,0,734,,,,
 2024-11-15,2.45,2.45,2.02,2.24,,,,,,,0,3.1000,0,687,,,,
@@ -503,4 +503,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.50,2.69,2.45,2.48,2.73,2.78,1.28,0.70,0.86,4.1382,0,2.1239,1,48,944,0.3771,0.5545,-0.1774
 2026-10-29,2.48,2.48,2.13,2.15,2.60,2.88,1.32,0.70,0.86,3.8208,0,8.1500,0,264,927,0.3101,0.5056,-0.1955
 2026-10-30,2.17,2.18,1.82,1.88,2.46,2.97,1.35,0.71,0.86,3.4745,0,8.0295,0,163,919,0.2325,0.4510,-0.2185
-2026-11-02,1.86,1.98,1.78,1.93,2.39,3.05,1.38,0.72,0.86,3.2696,0,7.7811,0,59,914,0.1730,0.3954,-0.2224
+2026-11-02,1.86,1.98,1.78,1.93,2.39,3.05,1.38,0.72,0.86,3.2686,0,7.7811,0,59,914,0.1730,0.3954,-0.2224
+2026-11-03,1.95,2.12,1.90,2.03,2.32,3.15,1.42,0.73,0.87,3.2686,0,7.4211,0,53,907,0.1324,0.3428,-0.2104
+2026-11-04,2.12,2.16,1.71,1.88,2.24,2.84,1.45,0.74,0.87,3.2502,0,7.0826,0,440,892,0.0872,0.2917,-0.2045

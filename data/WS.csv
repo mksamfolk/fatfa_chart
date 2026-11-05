@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-70.20,WS,Worthington Steel Inc.,Basic Materials,Steel,United States,2082492672,40.66,443130,357192,14523426.719999999,2.124,,,0.103690006,0.027509999,-0.00723,-0.03405,0.02542,248200000,2594599936,152.597,1.814,0.833,217000000,-1465825024,51217234,45263743,0.35814998,0.56199,1932997,4.06,0.0714,,8.744086,0.39310858,1.9721588,0.962,19.619,46.0,46.0,46.0,,none,1,0,0,1,1,2026-12-16,2.226,https://www.worthingtonsteel.com,2026-10-31T21:05:08.281693+00:00
+63.85,WS,Worthington Steel Inc.,Basic Materials,Steel,United States,2082492672,40.66,443130,357192,14523426.719999999,2.124,,,0.103690006,0.027509999,-0.00723,-0.03405,0.02542,248200000,2594599936,152.597,1.814,0.833,217000000,-1465825024,51217234,45263743,0.35814998,0.56199,1932997,4.06,0.0714,,8.744086,0.39310858,1.9721588,0.962,19.619,46.0,46.0,46.0,,none,1,0,0,1,1,2026-12-16,2.226,https://www.worthingtonsteel.com,2026-10-31T21:05:08.281693+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-28,23.79,23.79,23.79,23.79,,,,,,,0,23.7931,0,3,,,,
 2023-11-29,23.79,23.79,23.79,23.79,,,,,,,0,23.7931,0,,,,,
@@ -763,4 +763,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,42.82,42.91,41.85,42.35,41.13,39.21,36.40,36.78,37.49,36.7940,1,38.4621,1,18452,14545,1.7164,1.4265,0.2899
 2026-10-29,43.12,43.72,42.07,42.09,41.41,39.49,36.52,36.86,37.52,37.0444,1,39.2360,1,20961,14784,1.7007,1.4814,0.2193
 2026-10-30,41.37,42.21,39.94,40.66,41.51,39.68,36.66,36.95,37.54,37.0444,1,39.9016,1,15260,14874,1.5549,1.4961,0.0588
-2026-11-02,41.38,43.26,41.40,41.81,41.52,39.81,36.79,37.04,37.55,37.0444,1,39.9400,1,14282,14934,1.5147,1.4998,0.0149
+2026-11-02,41.38,43.28,41.38,41.81,41.52,39.81,36.79,37.04,37.55,37.0444,1,39.9400,1,14282,14934,1.5147,1.4998,0.0149
+2026-11-03,41.86,43.13,40.23,40.23,41.42,39.91,36.93,37.10,37.55,37.0444,1,39.9400,1,14237,15077,1.3399,1.4678,-0.1279
+2026-11-04,41.44,41.90,38.44,40.48,41.39,40.16,37.06,37.17,37.56,37.0444,1,43.9900,0,15055,15214,1.2076,1.4158,-0.2082

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.71,EGHA,EGH Acquisition Corp.,Financial Services,Shell Companies,United States,214224992,10.45,5010,42600,445169.99999999994,,-0.926,-0.892,0.0,0.0,0.0,,,203269,0,,0.292,0.181,-908106,,15500000,12224970,0.02258,0.9526,45,0.0,0.0,58.055553,,,-31.475904,,,,,,,none,,,,,,,,https://staging.eghspac.com/egh-acquisition-corp,2026-10-31T15:44:08.672511+00:00
+54.86,EGHA,EGH Acquisition Corp.,Financial Services,Shell Companies,United States,214224992,10.45,5010,42600,445169.99999999994,,-0.926,-0.892,0.0,0.0,0.0,,,203269,0,,0.292,0.181,-908106,,15500000,12224970,0.02258,0.9526,45,0.0,0.0,58.055553,,,-31.475904,,,,,,,none,,,,,,,,https://staging.eghspac.com/egh-acquisition-corp,2026-10-31T15:44:08.672511+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-30,10.39,10.39,9.93,10.00,,,,,,,0,9.9300,1,285,,,,
 2025-07-01,10.05,10.05,9.96,9.97,,,,,,,0,9.9300,1,419,,,,
@@ -367,4 +367,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.44,10.44,10.44,10.44,10.43,10.43,10.41,10.34,10.31,10.4279,1,10.4211,1,,129,0.0091,0.0092,-0.0000
 2026-10-29,10.44,10.44,10.44,10.44,10.43,10.43,10.41,10.34,10.31,10.4291,1,10.4230,1,,125,0.0090,0.0091,-0.0001
 2026-10-30,10.45,10.45,10.45,10.45,10.44,10.43,10.41,10.34,10.31,10.4372,1,10.4248,1,13,123,0.0096,0.0092,0.0004
-2026-11-02,10.45,10.46,10.45,10.46,10.44,10.43,10.41,10.34,10.31,10.4405,1,10.4273,1,15,123,0.0108,0.0095,0.0012
+2026-11-02,10.45,10.46,10.45,10.46,10.44,10.43,10.41,10.34,10.31,10.4405,1,10.4273,1,16,123,0.0108,0.0095,0.0012
+2026-11-03,10.46,10.46,10.46,10.46,10.44,10.43,10.41,10.34,10.31,10.4469,1,10.4312,1,,123,0.0116,0.0099,0.0016
+2026-11-04,10.47,10.47,10.46,10.46,10.45,10.44,10.42,10.35,10.32,10.4502,1,10.4347,1,6,115,0.0121,0.0104,0.0017

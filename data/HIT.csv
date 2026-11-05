@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.86,HIT,Health In Tech Inc.,Technology,Software - Application,United States,37698148,0.5773,63390,175409,101263.61570000001,-0.135,,,0.53932,-0.42676997,-0.12031999,-0.21914,-0.12722999,6514813,102938,0.525,2.181,1.847,-5106383,-6670834,53600790,12042649,0.76991,0.08814,423257,1.14,0.021,,-28.865002,1.1483904,1.9372483,0.959,,3.11667,4.1,1.25,,none,3,0,0,1,1,2026-11-12,,https://healthintech.com,2026-10-31T16:52:17.393393+00:00
+8.66,HIT,Health In Tech Inc.,Technology,Software - Application,United States,37698148,0.5773,63390,175409,101263.61570000001,-0.135,,,0.53932,-0.42676997,-0.12031999,-0.21914,-0.12722999,6514813,102938,0.525,2.181,1.847,-5106383,-6670834,53600790,12042649,0.76991,0.08814,423257,1.14,0.021,,-28.865002,1.1483904,1.9372483,0.959,,3.11667,4.1,1.25,,none,3,0,0,1,1,2026-11-12,,https://healthintech.com,2026-10-31T16:52:17.393393+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-23,5.25,7.12,4.91,5.10,,,,,,,0,7.1200,0,6367,,,,
 2024-12-24,4.92,5.91,4.82,5.50,,,,,,,0,7.1200,0,1781,,,,
@@ -480,3 +480,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,0.65,0.69,0.58,0.61,0.60,0.67,0.88,1.16,1.21,0.7425,0,0.5030,1,58,63,-0.0892,-0.0963,0.0071
 2026-10-30,0.63,0.65,0.58,0.58,0.59,0.66,0.88,1.15,1.21,0.7425,0,0.5040,1,14,61,-0.0866,-0.0944,0.0078
 2026-11-02,0.55,0.62,0.55,0.58,0.58,0.64,0.87,1.14,1.20,0.7425,0,0.5114,1,41,60,-0.0829,-0.0921,0.0092
+2026-11-03,0.56,0.61,0.55,0.57,0.58,0.63,0.85,1.14,1.20,0.7425,0,0.5186,1,14,59,-0.0800,-0.0897,0.0097
+2026-11-04,0.59,0.65,0.58,0.60,0.58,0.62,0.84,1.13,1.19,0.7425,0,0.5254,1,30,58,-0.0748,-0.0867,0.0119

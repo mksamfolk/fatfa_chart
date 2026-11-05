@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-09-05 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.67,BIRD,Smartbird Inc,Technology,Software - Infrastructure,United States,23027926,1.95,243570,500068,975132.6,-0.931,,,0.40297002,-3.87781,-0.49605998,-1.77977,-0.54271,37378000,14467000,64.229,3.703,3.452,-41696000,1659500,9315794,7501554,0.1071,0.23479,1343578,2.45,0.16059999,,-0.28097984,0.14835288,1.0225486,0.001,-0.002,,,,,none,,0.0,0.0,0.0,0.0,2026-11-05,2.595,https://www.smartbird.ai,2026-10-31T14:36:11.191201+00:00
+10.53,BIRD,Smartbird Inc,Technology,Software - Infrastructure,United States,23027926,1.95,243570,500068,975132.6,-0.931,,,0.40297002,-3.87781,-0.49605998,-1.77977,-0.54271,37378000,14467000,64.229,3.703,3.452,-41696000,1659500,9315794,7501554,0.1071,0.23479,1343578,2.45,0.16059999,,-0.28097984,0.14835288,1.0225486,0.001,-0.002,,,,,none,,0.0,0.0,0.0,0.0,2026-11-05,2.595,https://www.smartbird.ai,2026-10-31T14:36:11.191201+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-03,374.63,567.37,370.79,505.28,,,,,,,0,370.7854,1,1106857,,,,
 2021-11-04,466.00,483.25,428.50,453.86,,,,,,,0,370.7854,1,192596,,,,
@@ -1267,4 +1267,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.14,2.15,2.05,2.14,2.28,2.54,2.38,3.34,3.31,2.6015,0,2.5617,0,275,1160,-0.1023,-0.0444,-0.0579
 2026-10-29,2.11,2.19,2.11,2.12,2.25,2.53,2.38,3.34,3.30,2.6015,0,2.4593,0,326,1154,-0.1108,-0.0577,-0.0531
 2026-10-30,2.11,2.13,1.93,1.95,2.21,2.50,2.38,3.34,3.30,2.5138,0,2.3775,0,665,1154,-0.1298,-0.0721,-0.0577
-2026-11-02,1.99,2.00,1.62,1.62,2.14,2.41,2.37,3.33,3.29,2.3617,0,2.2880,0,549,1156,-0.1695,-0.0916,-0.0779
+2026-11-02,1.99,2.00,1.62,1.62,2.14,2.41,2.37,3.33,3.29,2.3617,0,2.2880,0,554,1156,-0.1695,-0.0916,-0.0779
+2026-11-03,1.71,1.72,1.53,1.59,2.07,2.33,2.37,3.32,3.28,2.1777,0,2.1544,0,459,1155,-0.2010,-0.1134,-0.0876
+2026-11-04,1.63,1.71,1.55,1.63,1.99,2.26,2.36,3.31,3.27,2.1759,0,2.0295,0,477,1144,-0.2203,-0.1348,-0.0855

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.61,RDDT,Reddit Inc.,Communication Services,Internet Content & Information,United States,17712488448,91.73,8604480,6085082,558184571.86,0.53,0.745,0.741,0.91547996,0.29229,0.32105,0.32029998,0.16598,3033432064,31409000,0.877,10.796,10.536,1204733056,769023232,146942127,140801851,0.00657,0.92759,21602533,4.58,0.1481,18.72041,9.819024,5.7342753,4.932516,4.748,15.855,212.95152,300.0,130.0,1.94118,buy,33,1,2,0,0,2026-10-29,,https://redditinc.com,2026-10-31T19:35:30.828758+00:00
+18.94,RDDT,Reddit Inc.,Communication Services,Internet Content & Information,United States,17712488448,91.73,8604480,6085082,558184571.86,0.53,0.745,0.741,0.91547996,0.29229,0.32105,0.32029998,0.16598,3033432064,31409000,0.877,10.796,10.536,1204733056,769023232,146942127,140801851,0.00657,0.92759,21602533,4.58,0.1481,18.72041,9.819024,5.7342753,4.932516,4.748,15.855,212.95152,300.0,130.0,1.94118,buy,33,1,2,0,0,2026-10-29,,https://redditinc.com,2026-10-31T19:35:30.828758+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-21,47.00,57.80,45.05,50.44,,,,,,,0,45.0500,1,2456705,,,,
 2024-03-22,48.88,51.00,45.34,46.00,,,,,,,0,45.0500,1,735223,,,,
@@ -684,5 +684,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,138.39,140.98,135.07,136.46,149.76,151.05,152.45,160.22,161.37,161.2302,0,163.2720,0,630049,702768,-2.7707,-0.9709,-1.7998
 2026-10-28,135.25,138.15,133.95,134.70,148.37,150.67,151.98,160.19,160.82,158.1992,0,162.0743,0,724430,693686,-3.6320,-1.5031,-2.1289
 2026-10-29,129.95,131.89,126.37,129.60,145.39,149.67,151.54,160.20,160.17,151.5610,0,160.9246,0,2316237,715260,-4.6723,-2.1370,-2.5353
-2026-10-30,100.25,101.98,89.28,91.73,138.95,146.86,150.37,160.00,159.37,127.9139,0,158.8513,0,3055820,753313,-8.4550,-3.4006,-5.0545
-2026-11-02,92.21,95.82,90.50,90.98,132.54,143.89,149.12,159.78,158.68,123.8115,0,153.2856,0,1068849,760755,-11.3822,-4.9969,-6.3853
+2026-10-30,100.25,101.98,89.28,91.73,138.95,146.86,150.37,160.00,159.37,127.9139,0,158.8513,0,3064846,753494,-8.4550,-3.4006,-5.0545
+2026-11-02,92.21,95.82,90.50,90.97,132.53,143.89,149.12,159.78,158.68,123.8115,0,153.2856,0,1074156,761041,-11.3830,-4.9971,-6.3859
+2026-11-03,92.11,96.21,91.64,96.15,126.59,141.25,147.99,159.53,158.01,123.0834,0,148.1651,0,760979,765497,-13.1341,-6.6245,-6.5096
+2026-11-04,97.90,104.55,97.78,101.89,121.45,138.71,146.78,159.30,157.39,123.0834,0,143.4543,0,841988,768110,-13.8984,-8.0792,-5.8191

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.59,LTM,LATAM Airlines Group S.A.,Industrials,Airlines,Chile,12406488064,42.38,1185130,838734,35545546.92,0.272,-0.462,-0.482,0.26975,0.052950002,0.09852,1.07993,0.08189999,2650856960,9028101120,454.527,0.674,0.563,3739036928,1363357568,287107992,175948391,0.0,0.09297,3559597,4.95,0.0225,7.819188,6.0313754,0.7813765,7.0633335,1.167,5.021,73.86,80.0,65.0,1.4,strong_buy,10,0,0,0,2,2026-11-03,0.844,https://www.ir.latam.com,2026-10-31T18:14:08.258825+00:00
+40.97,LTM,LATAM Airlines Group S.A.,Industrials,Airlines,Chile,12406488064,42.38,1185130,838734,35545546.92,0.272,-0.462,-0.482,0.26975,0.052950002,0.09852,1.07993,0.08189999,2650856960,9028101120,454.527,0.674,0.563,3739036928,1363357568,287107992,175948391,0.0,0.09297,3559597,4.95,0.0225,7.819188,6.0313754,0.7813765,7.0633335,1.167,5.021,73.86,80.0,65.0,1.4,strong_buy,10,0,0,0,2,2026-11-03,0.844,https://www.ir.latam.com,2026-10-31T18:14:08.258825+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-25,23.93,24.55,23.66,23.79,,,,,,,0,23.6606,1,220065,,,,
 2024-07-26,23.89,24.41,23.80,24.32,,,,,,,0,23.6606,1,25949,,,,
@@ -584,4 +584,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,44.99,45.31,43.57,43.84,46.49,48.38,50.99,51.22,53.15,48.1759,0,48.0155,0,50460,43770,-1.8284,-1.3979,-0.4305
 2026-10-29,44.17,44.60,43.62,43.96,46.04,48.04,50.83,51.19,53.10,48.1759,0,47.2264,0,23554,43287,-1.9023,-1.4988,-0.4035
 2026-10-30,43.30,43.31,41.61,42.38,45.53,47.59,50.60,51.16,53.04,47.8451,0,46.5320,0,47495,43765,-2.0645,-1.6119,-0.4526
-2026-11-02,43.88,44.96,43.33,44.69,45.25,47.29,50.44,51.13,52.99,47.8451,0,45.9210,0,34405,44011,-1.9838,-1.6863,-0.2975
+2026-11-02,43.88,44.96,43.33,44.69,45.25,47.29,50.44,51.13,52.99,47.8451,0,45.9210,0,41235,44148,-1.9838,-1.6863,-0.2975
+2026-11-03,44.93,45.33,43.77,44.09,44.88,46.88,50.23,51.08,52.94,47.8451,0,45.3833,0,28398,44087,-1.9459,-1.7382,-0.2077
+2026-11-04,46.20,48.62,45.63,47.78,44.85,46.72,50.07,51.07,52.91,47.8451,0,41.4400,1,79439,44763,-1.5996,-1.7105,0.1109

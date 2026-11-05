@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-22.34,KLAR,,Financial Services,Credit Services,United Kingdom,5042828800,13.3,5724500,6333029,84229285.7,0.266,,,0.36841,0.029749999,-0.03516,-0.04289,-0.00085,4814000128,1752000000,65.716,23.149,22.342,-3779000064,798374976,379160066,196272208,0.21849,0.5258,37492040,7.13,,,16.659151,1.248534,2.0658588,0.546,-110.291,19.28636,38.3,13.0,2.16,buy,22,0,0,1,1,2026-11-17,,https://www.klarna.com,2026-10-31T17:56:09.313223+00:00
+23.76,KLAR,,Financial Services,Credit Services,United Kingdom,5042828800,13.3,5724500,6333029,84229285.7,0.266,,,0.36841,0.029749999,-0.03516,-0.04289,-0.00085,4814000128,1752000000,65.716,23.149,22.342,-3779000064,798374976,379160066,196272208,0.21849,0.5258,37492040,7.13,,,16.659151,1.248534,2.0658588,0.546,-110.291,19.28636,38.3,13.0,2.16,buy,22,0,0,1,1,2026-11-17,,https://www.klarna.com,2026-10-31T17:56:09.313223+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-11,45.50,47.22,42.74,42.74,,,,,,,0,47.2200,0,600920,,,,
 2025-09-12,43.56,43.85,40.25,42.92,,,,,,,0,47.2200,0,472347,,,,
@@ -316,4 +316,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,12.71,13.18,12.70,13.16,13.04,13.14,13.56,15.72,16.52,12.5980,1,13.6248,0,91998,85826,-0.2564,-0.2928,0.0364
 2026-10-29,13.11,13.77,13.01,13.65,13.05,13.20,13.54,15.73,16.44,12.5980,1,12.3900,1,123127,83083,-0.1888,-0.2720,0.0831
 2026-10-30,13.47,13.68,13.25,13.30,13.08,13.24,13.52,15.74,16.35,12.5980,1,12.4175,1,77302,80213,-0.1617,-0.2499,0.0882
-2026-11-02,13.54,13.88,13.35,13.38,13.11,13.26,13.51,15.74,16.28,12.5980,1,12.4445,1,52040,78947,-0.1326,-0.2265,0.0939
+2026-11-02,13.54,13.88,13.35,13.38,13.11,13.26,13.51,15.74,16.28,12.5980,1,12.4445,1,55385,79013,-0.1322,-0.2264,0.0942
+2026-11-03,13.53,13.53,13.20,13.22,13.12,13.26,13.49,15.74,16.20,12.5980,1,12.5018,1,34413,77635,-0.1204,-0.2052,0.0848
+2026-11-04,13.59,14.14,13.59,13.89,13.19,13.29,13.48,15.75,16.13,12.5980,1,12.5569,1,83027,77914,-0.0563,-0.1754,0.1191

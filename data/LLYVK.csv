@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-69.39,LLYVK,Liberty Live Holdings Inc.,Communication Services,Entertainment,United States,9602600960,104.37,276970,277770,28990854.900000002,0.061,,,0.20158,-0.00642,-1.08109,,-0.01648,523348992,2126020992,,0.251,0.216,-7330000,221182000,63900740,58448255,0.2377,0.80816,1742398,5.75,0.0359,,-30.878698,23.595469,-15.34853,27.587,-480.391,122.0,122.0,122.0,,none,1,0,0,1,1,2026-11-05,1.001,https://libertyliveholdings.com,2026-10-31T18:09:43.832467+00:00
+74.35,LLYVK,Liberty Live Holdings Inc.,Communication Services,Entertainment,United States,9602600960,104.37,276970,277770,28990854.900000002,0.061,,,0.20158,-0.00642,-1.08109,,-0.01648,523348992,2126020992,,0.251,0.216,-7330000,221182000,63900740,58448255,0.2377,0.80816,1742398,5.75,0.0359,,-30.878698,23.595469,-15.34853,27.587,-480.391,122.0,122.0,122.0,,none,1,0,0,1,1,2026-11-05,1.001,https://libertyliveholdings.com,2026-10-31T18:09:43.832467+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-04,29.63,39.00,29.63,37.68,,,,,,,0,29.6300,1,95688,,,,
 2023-08-07,35.10,36.93,32.69,35.13,,,,,,,0,29.6300,1,115230,,,,
@@ -843,4 +843,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,99.90,101.07,98.50,101.07,99.90,98.93,100.00,99.58,97.38,104.1785,0,96.9896,1,36587,28179,0.3153,-0.0225,0.3378
 2026-10-29,102.13,103.49,101.89,103.40,100.28,99.30,99.93,99.66,97.48,104.1785,0,97.1822,1,31258,28328,0.5811,0.0983,0.4829
 2026-10-30,104.57,104.91,103.21,104.37,100.90,99.62,99.91,99.76,97.58,97.3791,1,97.5604,1,19204,28228,0.8601,0.2506,0.6095
-2026-11-02,105.67,106.26,103.48,104.73,101.57,99.92,99.89,99.86,97.69,98.0268,1,98.1484,1,24067,28242,1.0976,0.4200,0.6776
+2026-11-02,105.67,106.26,103.49,104.73,101.57,99.92,99.89,99.86,97.69,98.0272,1,98.1484,1,24235,28246,1.0976,0.4200,0.6776
+2026-11-03,104.88,106.49,103.61,105.87,102.11,100.24,99.89,99.94,97.80,98.0272,1,98.9595,1,32110,28198,1.3622,0.6085,0.7537
+2026-11-04,109.24,110.85,107.58,110.35,103.09,100.85,99.94,100.04,97.94,101.3987,1,99.8632,1,52063,28741,1.9113,0.8690,1.0422

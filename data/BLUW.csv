@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.69,BLUW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,United States,336003200,10.4,23530,47731,496402.4,,0.653,3.721,0.0,0.0,0.0,,,32560,500000,,0.162,0.043,-1318833,,25983000,22637893,0.0,1.01853,1565,0.03,0.0001,,,,-35.494877,,,,,,,none,,,,,,,,https://www.bluewater-acquisition.com,2026-10-31T14:39:04.913377+00:00
+53.67,BLUW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,United States,336003200,10.4,23530,47731,496402.4,,0.653,3.721,0.0,0.0,0.0,,,32560,500000,,0.162,0.043,-1318833,,25983000,22637893,0.0,1.01853,1565,0.03,0.0001,,,,-35.494877,,,,,,,none,,,,,,,,https://www.bluewater-acquisition.com,2026-10-31T14:39:04.913377+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-31,9.93,10.05,9.93,9.98,,,,,,,0,9.9300,1,484,,,,
 2025-08-01,9.98,9.98,9.98,9.98,,,,,,,0,9.9300,1,750,,,,
@@ -331,3 +331,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.40,10.40,10.40,10.40,10.39,10.39,10.38,10.32,10.32,10.3822,1,10.3808,1,4,579,0.0068,0.0062,0.0006
 2026-10-30,10.40,10.40,10.40,10.40,10.39,10.39,10.38,10.32,10.32,10.3840,1,10.3816,1,127,582,0.0069,0.0063,0.0005
 2026-11-02,10.40,10.40,10.40,10.40,10.39,10.39,10.38,10.32,10.32,10.3856,1,10.3823,1,503,591,0.0069,0.0065,0.0004
+2026-11-03,10.40,10.40,10.40,10.40,10.40,10.39,10.38,10.32,10.33,10.3870,1,10.3830,1,218,595,0.0068,0.0065,0.0003
+2026-11-04,10.40,10.40,10.40,10.40,10.40,10.39,10.38,10.32,10.33,10.3883,1,10.3837,1,40,595,0.0067,0.0066,0.0001

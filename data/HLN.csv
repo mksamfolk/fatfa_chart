@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-41.28,HLN,Haleon plc,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom,38083555328,8.66,22425160,15944764,138081656.24,0.022,-0.045,-0.055,0.65567,0.23938,0.14553,0.100930005,0.050809998,826000000,8252000256,50.195,0.687,0.508,2651000064,1801750016,4397639123,4427395500,0.00014,0.14041,18538062,0.88,0.0042,17.67347,14.044989,3.414953,1.7531141,4.121,16.137,11.594,13.77,10.0,2.0,buy,5,,,,,,0.283,https://www.haleon.com,2026-10-31T16:53:41.209569+00:00
+43.94,HLN,Haleon plc,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom,38083555328,8.66,22425160,15944764,138081656.24,0.022,-0.045,-0.055,0.65567,0.23938,0.14553,0.100930005,0.050809998,826000000,8252000256,50.195,0.687,0.508,2651000064,1801750016,4397639123,4427395500,0.00014,0.14041,18538062,0.88,0.0042,17.67347,14.044989,3.414953,1.7531141,4.121,16.137,11.594,13.77,10.0,2.0,buy,5,,,,,,0.283,https://www.haleon.com,2026-10-31T16:53:41.209569+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-25,6.92,6.96,6.69,6.82,,,,,,,0,6.6905,1,141275,,,,
 2022-07-26,6.83,6.92,6.81,6.87,,,,,,,0,6.6905,1,200183,,,,
@@ -1102,4 +1102,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.00,10.11,9.97,10.00,10.13,9.64,9.59,9.49,9.69,9.6738,1,10.3950,0,221900,161323,0.2262,0.1782,0.0480
 2026-10-29,8.55,8.75,8.38,8.57,10.00,9.63,9.56,9.48,9.69,9.5482,0,10.3864,0,486452,168758,0.0977,0.1621,-0.0644
 2026-10-30,8.66,8.78,8.61,8.66,9.85,9.62,9.54,9.48,9.68,9.5482,0,10.3061,0,281670,172797,0.0030,0.1303,-0.1272
-2026-11-02,8.65,8.84,8.64,8.77,9.71,9.62,9.51,9.47,9.68,9.5482,0,10.2291,0,289153,176956,-0.0624,0.0917,-0.1541
+2026-11-02,8.65,8.84,8.63,8.76,9.71,9.62,9.51,9.47,9.68,9.5482,0,10.2291,0,306087,177295,-0.0632,0.0916,-0.1548
+2026-11-03,8.87,8.93,8.81,8.84,9.58,9.62,9.49,9.46,9.67,9.5482,0,10.1551,0,282740,180174,-0.1080,0.0517,-0.1596
+2026-11-04,9.04,9.27,9.00,9.23,9.50,9.63,9.47,9.46,9.67,9.5482,0,10.0841,0,258608,184210,-0.1107,0.0192,-0.1299

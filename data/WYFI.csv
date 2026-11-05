@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.17,WYFI,WhiteFiber Inc.,Technology,Information Technology Services,United States,402466496,10.36,2032160,2001557,20736130.52,0.557,,,0.85906,-0.15968001,-0.47662,-0.13727,-0.03399,56056000,321176000,95.195,0.789,0.646,141593360,-429604800,38848118,11246142,0.61105,0.25917998,5542055,4.1,0.4804,,71.08061,4.3306036,1.1927239,7.183,-58.671,40.45455,50.0,32.0,1.36364,strong_buy,11,1,1,2,2,2026-11-10,,https://www.whitefiber.com,2026-10-31T21:07:36.082136+00:00
+9.16,WYFI,WhiteFiber Inc.,Technology,Information Technology Services,United States,402466496,10.36,2032160,2001557,20736130.52,0.557,,,0.85906,-0.15968001,-0.47662,-0.13727,-0.03399,56056000,321176000,95.195,0.789,0.646,141593360,-429604800,38848118,11246142,0.61105,0.25917998,5542055,4.1,0.4804,,71.08061,4.3306036,1.1927239,7.183,-58.671,40.45455,50.0,32.0,1.36364,strong_buy,11,1,1,2,2,2026-11-10,,https://www.whitefiber.com,2026-10-31T21:07:36.082136+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-07,25.00,25.13,15.82,16.22,,,,,,,0,25.1300,0,239676,,,,
 2025-08-08,15.11,16.00,14.01,15.30,,,,,,,0,25.1300,0,53119,,,,
@@ -340,4 +340,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.29,11.88,10.63,11.87,11.25,13.65,16.94,22.40,21.22,13.1168,0,9.3100,1,24178,36128,-2.1501,-2.1022,-0.0479
 2026-10-29,11.38,11.90,10.94,11.23,11.07,13.34,16.74,22.39,21.19,13.1168,0,9.3614,1,23209,29844,-2.0508,-2.0919,0.0411
 2026-10-30,10.48,10.69,9.90,10.36,10.93,12.96,16.52,22.39,21.13,13.1168,0,9.4629,1,17018,28746,-2.0191,-2.0773,0.0583
-2026-11-02,10.38,10.42,9.11,9.26,10.68,12.55,16.29,22.37,21.09,13.1168,0,11.9000,0,17305,28014,-2.0590,-2.0737,0.0147
+2026-11-02,10.38,10.42,9.11,9.26,10.68,12.55,16.29,22.37,21.09,13.1168,0,11.9000,0,17466,28017,-2.0590,-2.0737,0.0147
+2026-11-03,9.61,10.57,9.43,10.49,10.59,12.21,16.09,22.37,21.04,13.1168,0,11.8442,0,26586,26828,-1.9686,-2.0527,0.0840
+2026-11-04,9.97,10.54,9.06,9.15,10.34,11.82,15.86,22.35,20.99,13.1168,0,11.7895,0,29189,26533,-1.9823,-2.0386,0.0563

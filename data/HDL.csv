@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HDL,Super Hi International Holding Ltd.,Consumer Cyclical,Restaurants,Singapore,582482304,9.9,1260,796,7880.400000000001,0.1,,,0.29188,0.042930003,0.01155,0.02631,0.04606,266403008,234382000,58.638,2.501,2.053,120834000,55460124,58836600,57894169,0.0047400002,0.0051200003,295,0.38,0.0,98.99999,10.87912,0.65537584,1.6256157,0.693,6.315,17.6,21.3,14.5,,none,3,0,0,1,1,2026-08-26,0.639,https://www.superhiinternational.com,2026-10-31T16:39:51.096483+00:00
+20.81,HDL,Super Hi International Holding Ltd.,Consumer Cyclical,Restaurants,Singapore,582482304,9.9,1260,796,7880.400000000001,0.1,,,0.29188,0.042930003,0.01155,0.02631,0.04606,266403008,234382000,58.638,2.501,2.053,120834000,55460124,58836600,57894169,0.0047400002,0.0051200003,295,0.38,0.0,98.99999,10.87912,0.65537584,1.6256157,0.693,6.315,17.6,21.3,14.5,,none,3,0,0,1,1,2026-08-26,0.639,https://www.superhiinternational.com,2026-10-31T16:39:51.096483+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-17,27.00,30.00,19.80,22.29,,,,,,,0,19.8000,1,14934,,,,
 2024-05-20,21.07,21.44,20.38,20.92,,,,,,,0,19.8000,1,3642,,,,
@@ -630,3 +630,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,9.90,9.90,9.90,9.90,10.23,10.96,12.41,13.37,14.19,10.8576,0,11.5482,0,,12,-0.7234,-0.6888,-0.0346
 2026-10-29,9.90,9.90,9.90,9.90,10.12,10.86,12.34,13.33,14.16,10.7619,0,11.5121,0,,12,-0.7143,-0.6939,-0.0204
 2026-10-30,9.90,9.90,9.90,9.90,10.09,10.75,12.26,13.29,14.13,10.6757,0,11.4767,0,,10,-0.6990,-0.6949,-0.0041
+2026-11-02,9.90,9.90,9.90,9.90,10.06,10.65,12.19,13.24,14.09,10.5981,0,11.4421,0,,10,-0.6791,-0.6918,0.0126
+2026-11-03,9.90,9.90,9.90,9.90,10.02,10.55,12.13,13.20,14.06,10.5283,0,11.4081,0,,10,-0.6558,-0.6846,0.0288
+2026-11-04,9.90,9.90,9.90,9.90,9.99,10.45,12.05,13.16,14.03,10.4655,0,11.3748,0,,9,-0.6300,-0.6737,0.0436

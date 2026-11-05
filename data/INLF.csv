@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.0625\n2026-07-06 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.35,INLF,INLIF Limited,Industrials,Specialty Industrial Machinery,China,201705,0.185,34332300,7423793,1373401.705,0.26,,,0.33912998,0.086899996,-0.11679,-0.05638,-0.03101,48465960,7873343,11.015,5.652,5.054,-2215476,-8617073,1046390,876064,0.13687,0.12595999,28349,0.01,0.0271,,,0.009569221,0.0027183895,-1.917,18.08,,,,,none,,,,,,,,https://www.yiwate88.com,2026-10-31T17:40:24.825775+00:00
+0.47,INLF,INLIF Limited,Industrials,Specialty Industrial Machinery,China,201705,0.185,34332300,7423793,1373401.705,0.26,,,0.33912998,0.086899996,-0.11679,-0.05638,-0.03101,48465960,7873343,11.015,5.652,5.054,-2215476,-8617073,1046390,876064,0.13687,0.12595999,28349,0.01,0.0271,,,0.009569221,0.0027183895,-1.917,18.08,,,,,none,,,,,,,,https://www.yiwate88.com,2026-10-31T17:40:24.825775+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-02,11840.00,16160.00,11232.00,14240.00,,,,,,,0,11232.0000,1,4486,,,,
 2025-01-03,13984.00,19680.00,13760.00,16320.00,,,,,,,0,11232.0000,1,4978,,,,
@@ -472,5 +472,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.17,0.18,0.17,0.18,0.94,2.07,3.53,423.46,706.19,1.2520,0,0.9967,0,317,12612,-3.1667,-3.9710,0.8043
 2026-10-28,0.19,0.20,0.18,0.18,0.69,1.90,3.42,414.97,696.86,1.1617,0,0.8314,0,193,9116,-3.0037,-3.7775,0.7738
 2026-10-29,0.23,0.30,0.22,0.26,0.45,1.75,3.34,407.68,687.76,1.1617,0,0.6991,0,66563,10385,-2.8350,-3.5890,0.7541
-2026-10-30,0.23,0.23,0.17,0.19,0.22,1.59,3.24,400.00,678.80,1.0498,0,0.5933,0,1400,10189,-2.6768,-3.4066,0.7297
-2026-11-02,0.25,0.34,0.24,0.29,0.21,1.44,3.16,392.53,670.69,1.0498,0,0.5086,0,125418,12676,-2.5141,-3.2281,0.7140
+2026-10-30,0.23,0.23,0.17,0.19,0.22,1.59,3.24,400.00,678.80,1.0498,0,0.5933,0,1424,10189,-2.6768,-3.4066,0.7297
+2026-11-02,0.25,0.34,0.24,0.29,0.21,1.44,3.16,392.53,670.69,1.0498,0,0.5086,0,136651,12901,-2.5141,-3.2281,0.7140
+2026-11-03,0.36,0.40,0.27,0.34,0.22,1.28,3.10,385.07,662.35,1.0498,0,0.4409,0,32089,13530,-2.3541,-3.0533,0.6992
+2026-11-04,0.26,0.34,0.26,0.31,0.23,1.13,3.04,377.92,654.18,1.0196,0,0.4000,0,2157,13329,-2.2043,-2.8835,0.6791

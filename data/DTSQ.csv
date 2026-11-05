@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DTSQ,DT Cloud Star Acquisition Corporation,Financial Services,Shell Companies,United States,42196876,11.55,620,2093,24174.15,,,,0.0,0.0,0.0,,-0.01023,198,0,,0.017,0.0,-19919,1218359,3653409,1721523,0.62529,0.41877997,640,0.14,0.0004,577.5,,,-18.246445,,,,,,,none,,,,,,,-0.015,,2026-10-31T15:38:01.181345+00:00
+59.48,DTSQ,DT Cloud Star Acquisition Corporation,Financial Services,Shell Companies,United States,42196876,11.55,620,2093,24174.15,,,,0.0,0.0,0.0,,-0.01023,198,0,,0.017,0.0,-19919,1218359,3653409,1721523,0.62529,0.41877997,640,0.14,0.0004,577.5,,,-18.246445,,,,,,,none,,,,,,,-0.015,,2026-10-31T15:38:01.181345+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-16,9.98,9.98,9.96,9.97,,,,,,,0,9.9640,1,2192,,,,
 2024-09-17,9.97,9.97,9.97,9.97,,,,,,,0,9.9640,1,15,,,,
@@ -548,3 +548,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.55,11.55,11.55,11.55,11.52,11.49,11.39,11.29,11.19,11.5011,1,11.5057,1,,28,0.0491,0.0447,0.0044
 2026-10-29,11.55,11.55,11.55,11.55,11.54,11.50,11.39,11.30,11.19,11.5011,1,11.5146,1,,23,0.0477,0.0453,0.0024
 2026-10-30,11.55,11.55,11.55,11.55,11.55,11.51,11.39,11.30,11.20,11.5011,1,11.5225,1,,23,0.0462,0.0455,0.0007
+2026-11-02,11.55,11.55,11.55,11.55,11.55,11.51,11.40,11.30,11.20,11.5028,1,11.5294,1,,23,0.0444,0.0453,-0.0009
+2026-11-03,11.55,11.55,11.55,11.55,11.56,11.51,11.40,11.31,11.21,11.5075,1,11.5354,1,,23,0.0425,0.0447,-0.0022
+2026-11-04,11.55,11.55,11.55,11.55,11.56,11.51,11.41,11.31,11.21,11.5117,1,11.5408,1,,23,0.0405,0.0439,-0.0034

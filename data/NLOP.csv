@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.72,NLOP,,Real Estate,REIT - Office,United States,132734112,8.96,162930,137351,1230664.9600000002,-0.769,,,0.87662005,0.100030005,-0.69486,-0.13475999,0.02343,23663000,21900000,13.057,0.857,0.743,48210000,-4670875,14814075,14703562,0.00746,0.59686,881334,5.44,0.059899997,,,2.0310953,0.81019986,2.064,3.093,,,,,none,,,,,,2026-11-06,0.962,https://www.nloproperties.com,2026-10-31T18:46:12.113923+00:00
+30.91,NLOP,,Real Estate,REIT - Office,United States,132734112,8.96,162930,137351,1230664.9600000002,-0.769,,,0.87662005,0.100030005,-0.69486,-0.13475999,0.02343,23663000,21900000,13.057,0.857,0.743,48210000,-4670875,14814075,14703562,0.00746,0.59686,881334,5.44,0.059899997,,,2.0310953,0.81019986,2.064,3.093,,,,,none,,,,,,2026-11-06,0.962,https://www.nloproperties.com,2026-10-31T18:46:12.113923+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-27,15.77,15.77,6.12,6.12,,,,,,,0,15.7715,0,206,,,,
 2023-10-30,5.99,5.99,5.99,5.99,,,,,,,0,15.7715,0,4,,,,
@@ -769,4 +769,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,9.34,9.44,9.17,9.20,9.60,9.74,10.81,11.43,11.14,9.9748,0,9.8625,0,1422,1278,-0.3986,-0.4115,0.0129
 2026-10-29,9.22,9.28,9.05,9.10,9.54,9.65,10.75,11.42,11.13,9.8368,0,9.8210,0,1730,1287,-0.4107,-0.4113,0.0007
 2026-10-30,9.04,9.16,8.95,8.96,9.46,9.55,10.70,11.40,11.13,9.7227,0,9.7593,0,1803,1302,-0.4266,-0.4144,-0.0122
-2026-11-02,8.95,9.09,8.90,8.89,9.38,9.52,10.64,11.39,11.12,9.6519,0,9.6784,0,1567,1313,-0.4398,-0.4195,-0.0203
+2026-11-02,8.95,9.09,8.89,8.89,9.38,9.52,10.64,11.39,11.12,9.6509,0,9.6784,0,1578,1313,-0.4398,-0.4195,-0.0203
+2026-11-03,8.95,8.95,8.80,8.88,9.30,9.48,10.58,11.37,11.11,9.5148,0,9.5838,0,1323,1309,-0.4459,-0.4247,-0.0212
+2026-11-04,8.95,9.20,8.81,8.95,9.22,9.45,10.52,11.36,11.10,9.5148,0,9.4740,0,822,1292,-0.4400,-0.4278,-0.0122

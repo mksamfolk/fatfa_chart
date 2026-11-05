@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.70,ANGX,Angel Studios Inc.,Communication Services,Entertainment,United States,668587584,3.58,1266640,1693985,6064466.3,0.275,,,0.57936,-0.16572,-0.37505,,-0.4413,48036964,77076008,,0.651,0.458,-44152460,8141974,130096882,105976741,0.04152,0.33389,8143498,4.09,0.0763,,-13.769231,1.6177311,-22.948717,1.688,-5.849,8.2,9.0,6.0,1.2,strong_buy,5,1,1,0,0,2026-11-10,-0.012,https://www.angel.com,2026-10-31T14:09:29.309033+00:00
+45.70,ANGX,Angel Studios Inc.,Communication Services,Entertainment,United States,668587584,3.58,1266640,1693985,6064466.3,0.275,,,0.57936,-0.16572,-0.37505,,-0.4413,48036964,77076008,,0.651,0.458,-44152460,8141974,130096882,105976741,0.04152,0.33389,8143498,4.09,0.0763,,-13.769231,1.6177311,-22.948717,1.688,-5.849,8.2,9.0,6.0,1.2,strong_buy,5,1,1,0,0,2026-11-10,-0.012,https://www.angel.com,2026-10-31T14:09:29.309033+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-11,17.91,20.39,12.06,13.00,,,,,,,0,20.3850,0,7511,,,,
 2025-09-12,16.95,17.98,10.35,13.26,,,,,,,0,20.3850,0,14176,,,,
@@ -316,4 +316,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.86,3.89,3.80,3.87,3.60,3.79,4.38,3.65,3.69,4.0941,0,3.3468,1,4361,7466,-0.2159,-0.2630,0.0471
 2026-10-29,3.87,3.87,3.69,3.73,3.61,3.76,4.37,3.65,3.69,4.0941,0,3.3719,1,4432,7379,-0.2005,-0.2505,0.0500
 2026-10-30,3.75,3.75,3.46,3.58,3.63,3.74,4.35,3.65,3.68,4.0941,0,3.3960,1,4771,7377,-0.1982,-0.2400,0.0419
-2026-11-02,3.62,3.69,3.45,3.46,3.62,3.70,4.33,3.66,3.68,4.0941,0,3.4192,1,4767,7391,-0.2036,-0.2328,0.0292
+2026-11-02,3.62,3.69,3.45,3.46,3.62,3.70,4.33,3.66,3.68,4.0941,0,3.4192,1,5062,7397,-0.2036,-0.2328,0.0292
+2026-11-03,3.48,3.52,3.38,3.47,3.62,3.67,4.31,3.66,3.67,4.0941,0,3.9750,0,3542,7366,-0.2048,-0.2272,0.0224
+2026-11-04,3.52,3.72,3.52,3.67,3.64,3.65,4.29,3.66,3.67,4.0941,0,3.9631,0,7076,7413,-0.1874,-0.2192,0.0318

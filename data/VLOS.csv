@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.04,VLOS,Velos Acquisition I Corp.,Financial Services,Shell Companies,United States,251367392,10.71,8800,16510,176822.1,,-0.235,-0.235,0.0,0.0,0.0,,-0.015240001,142798,3600000,,0.025,0.017,-3507198,-1037739,23470345,7713103,0.12385,1.3374699,8492,0.47,0.0005,97.36364,,,-17.9397,,,,,,,none,,,,,,,0.122,https://velosacqcorp.com,2026-10-31T20:53:30.104059+00:00
+51.02,VLOS,Velos Acquisition I Corp.,Financial Services,Shell Companies,United States,251367392,10.71,8800,16510,176822.1,,-0.235,-0.235,0.0,0.0,0.0,,-0.015240001,142798,3600000,,0.025,0.017,-3507198,-1037739,23470345,7713103,0.12385,1.3374699,8492,0.47,0.0005,97.36364,,,-17.9397,,,,,,,none,,,,,,,0.122,https://velosacqcorp.com,2026-10-31T20:53:30.104059+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-23,9.97,9.99,9.97,9.99,,,,,,,0,9.9700,1,22327,,,,
 2024-09-24,9.99,9.99,9.98,9.99,,,,,,,0,9.9700,1,3022,,,,
@@ -544,3 +544,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.73,10.73,10.73,10.73,10.78,10.77,10.75,10.78,10.75,10.8006,0,10.8000,0,,153,0.0061,0.0103,-0.0042
 2026-10-30,10.71,10.78,10.66,10.71,10.78,10.77,10.75,10.78,10.75,10.8006,0,10.7972,0,421,162,0.0009,0.0085,-0.0075
 2026-11-02,10.70,10.71,10.66,10.66,10.76,10.76,10.74,10.78,10.75,10.8006,0,10.7917,0,7,161,-0.0071,0.0053,-0.0124
+2026-11-03,10.71,10.71,10.71,10.71,10.75,10.76,10.74,10.78,10.75,10.8006,0,10.7865,0,3,161,-0.0093,0.0024,-0.0118
+2026-11-04,10.71,10.72,10.71,10.72,10.75,10.76,10.74,10.78,10.75,10.8006,0,10.7814,0,4,161,-0.0102,-0.0001,-0.0101

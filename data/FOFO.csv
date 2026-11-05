@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.68,FOFO,Hang Feng Technology Innovation Co. Ltd.,Industrials,Consulting Services,Hong Kong,13852960,1.76,9080,144365,254082.4,-0.727,,,0.07023,-2.74092,0.0,-1.69225,-1.09193,6606369,99610,1.243,36.704,35.158,-2022619,-7679786,7871000,3871037,1.03332,0.022909999,21001,0.05,0.0054,,,10.163759,1.7288802,5.39,-0.655,,,,,none,,,,,,,,https://ir.hfintech.io,2026-10-31T16:08:42.669060+00:00
+9.41,FOFO,Hang Feng Technology Innovation Co. Ltd.,Industrials,Consulting Services,Hong Kong,13852960,1.76,9080,144365,254082.4,-0.727,,,0.07023,-2.74092,0.0,-1.69225,-1.09193,6606369,99610,1.243,36.704,35.158,-2022619,-7679786,7871000,3871037,1.03332,0.022909999,21001,0.05,0.0054,,,10.163759,1.7288802,5.39,-0.655,,,,,none,,,,,,,,https://ir.hfintech.io,2026-10-31T16:08:42.669060+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-12,5.25,14.90,4.63,12.35,,,,,,,0,4.6300,1,110856,,,,
 2025-09-15,10.02,15.80,9.00,11.90,,,,,,,0,4.6300,1,22127,,,,
@@ -300,4 +300,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.91,1.98,1.91,1.98,2.03,2.05,2.27,3.03,3.78,2.3988,0,1.9100,1,12,41,-0.0903,-0.0948,0.0045
 2026-10-29,1.92,1.92,1.87,1.91,2.00,2.04,2.27,3.02,3.74,2.3538,0,2.6600,0,19,40,-0.0927,-0.0944,0.0017
 2026-10-30,1.83,1.86,1.76,1.76,1.96,2.02,2.26,3.01,3.70,2.2684,0,2.6442,0,16,40,-0.1055,-0.0966,-0.0089
-2026-11-02,1.75,1.88,1.59,1.69,1.93,2.00,2.25,2.99,3.65,2.2306,0,2.6088,0,74,40,-0.1199,-0.1013,-0.0186
+2026-11-02,1.75,1.88,1.58,1.69,1.93,2.00,2.25,2.99,3.65,2.2286,0,2.6088,0,74,40,-0.1199,-0.1013,-0.0186
+2026-11-03,1.65,1.67,1.61,1.61,1.88,1.98,2.23,2.98,3.61,2.1150,0,2.5471,0,2,37,-0.1362,-0.1083,-0.0279
+2026-11-04,1.60,1.74,1.60,1.65,1.85,1.96,2.22,2.96,3.57,2.1150,0,2.4891,0,15,36,-0.1442,-0.1155,-0.0288

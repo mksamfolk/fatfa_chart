@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.05,HNVR,Hanover Bancorp Inc.,Financial Services,Banks - Regional,United States,169434608,23.34,20200,35439,827146.26,0.09,0.275,0.246,0.0,0.33603,0.15106,0.05099,0.0043200003,142579008,101430000,,,,,,7259409,4348349,0.32112998,0.37569,51143,1.65,0.009,16.671429,7.6461916,2.4800873,0.838814,1.889,,27.33333,30.0,25.0,2.75,hold,3,1,1,0,1,2027-01-28,0.109,https://www.hanoverbank.com,2026-10-31T16:55:26.318974+00:00
+51.71,HNVR,Hanover Bancorp Inc.,Financial Services,Banks - Regional,United States,169434608,23.34,20200,35439,827146.26,0.09,0.275,0.246,0.0,0.33603,0.15106,0.05099,0.0043200003,142579008,101430000,,,,,,7259409,4348349,0.32112998,0.37569,51143,1.65,0.009,16.671429,7.6461916,2.4800873,0.838814,1.889,,27.33333,30.0,25.0,2.75,hold,3,1,1,0,1,2027-01-28,0.109,https://www.hanoverbank.com,2026-10-31T16:55:26.318974+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-11,19.61,20.12,18.55,19.30,,,,,,,0,18.5509,1,8729,,,,
 2022-05-12,19.21,22.58,19.21,19.69,,,,,,,0,18.5509,1,4644,,,,
@@ -1137,4 +1137,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,23.65,23.65,22.73,22.97,23.71,24.55,26.03,23.85,23.54,26.0145,0,24.7200,0,494,974,-0.7880,-0.6922,-0.0958
 2026-10-29,22.97,24.14,22.97,23.60,23.65,24.35,25.97,23.86,23.54,26.0145,0,24.6802,0,1027,967,-0.7552,-0.7048,-0.0504
 2026-10-30,20.96,23.60,20.96,23.34,23.57,24.18,25.91,23.88,23.54,25.6755,0,24.6412,0,390,922,-0.7417,-0.7122,-0.0295
-2026-11-02,22.83,23.94,22.83,23.43,23.54,24.07,25.86,23.90,23.54,25.6755,0,24.4939,0,420,904,-0.7154,-0.7128,-0.0026
+2026-11-02,23.34,23.94,22.83,23.43,23.54,24.07,25.86,23.90,23.54,25.6755,0,24.4939,0,426,904,-0.7154,-0.7128,-0.0026
+2026-11-03,23.31,23.32,22.28,22.93,23.45,23.94,25.79,23.91,23.54,25.6755,0,24.3526,0,438,877,-0.7266,-0.7156,-0.0110
+2026-11-04,23.44,23.79,22.92,23.01,23.39,23.83,25.71,23.93,23.54,25.6755,0,24.2169,0,315,827,-0.7207,-0.7166,-0.0041

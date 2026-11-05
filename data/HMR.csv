@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.92,HMR,Heidmar Maritime Holdings Corp.,Industrials,Marine Shipping,Greece,80229112,1.36,135860,123609,168108.24000000002,2.113,,,0.22525999,0.06272,0.02474,0.15853,0.01314,28699428,0,,0.815,0.613,,,58991997,6097744,0.89767,0.00311,23279,0.16,0.0004,45.333336,5.44,0.9112067,4.874552,0.595,27.763,3.0,3.0,3.0,,none,2,1,1,0,0,2026-11-05,,https://www.heidmar.com,2026-10-31T16:54:51.503406+00:00
+90.15,HMR,Heidmar Maritime Holdings Corp.,Industrials,Marine Shipping,Greece,80229112,1.36,135860,123609,168108.24000000002,2.113,,,0.22525999,0.06272,0.02474,0.15853,0.01314,28699428,0,,0.815,0.613,,,58991997,6097744,0.89767,0.00311,23279,0.16,0.0004,45.333336,5.44,0.9112067,4.874552,0.595,27.763,3.0,3.0,3.0,,none,2,1,1,0,0,2026-11-05,,https://www.heidmar.com,2026-10-31T16:54:51.503406+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-20,8.75,10.04,4.32,5.95,,,,,,,0,10.0400,0,113565,,,,
 2025-02-21,5.85,5.99,4.22,4.33,,,,,,,0,10.0400,0,21991,,,,
@@ -441,4 +441,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.81,1.85,1.78,1.85,1.76,1.73,1.47,1.19,1.12,1.4691,1,1.9403,0,46,128,0.1043,0.1074,-0.0031
 2026-10-29,1.82,1.88,1.73,1.78,1.77,1.76,1.49,1.19,1.13,1.4691,1,1.9335,0,91,128,0.0975,0.1054,-0.0079
 2026-10-30,1.79,1.79,1.13,1.36,1.74,1.76,1.49,1.19,1.13,2.0184,0,1.9268,0,931,146,0.0575,0.0959,-0.0383
-2026-11-02,1.41,1.54,1.29,1.44,1.71,1.74,1.50,1.20,1.13,1.9902,0,1.8952,0,494,155,0.0320,0.0831,-0.0511
+2026-11-02,1.40,1.54,1.29,1.44,1.71,1.74,1.50,1.20,1.13,1.9903,0,1.8952,0,496,155,0.0320,0.0831,-0.0511
+2026-11-03,1.44,1.48,1.39,1.44,1.68,1.73,1.50,1.20,1.13,1.9798,0,1.8647,0,114,157,0.0115,0.0688,-0.0572
+2026-11-04,1.47,1.47,1.37,1.42,1.65,1.71,1.51,1.20,1.14,1.9403,0,1.8356,0,77,157,-0.0062,0.0538,-0.0600

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-06-14 09:30:00-04:00,0.025\n2024-11-11 09:30:00-05:00,0.01\n2025-06-27 09:30:00-04:00,0.1\n2026-02-24 09:30:00-05:00,0.1\n2026-06-30 09:30:00-04:00,0.14285714285714285\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.23,TRNR,Interactive Strength Inc.,Consumer Cyclical,Personal Services,United States,2494656,1.54,5580,21221,32680.34,4.453,,,0.30055,-0.5073,-1.5925701,-3.36762,-0.12246,959000,31167000,932.028,0.208,0.089,-10302000,-1480125,1619907,1130989,0.3017,0.0073400005,27851,0.84,0.0172,,,0.12027075,0.76388884,1.688,-3.448,10.0,12.0,8.0,,none,2,1,1,0,0,,0.477,https://interactivestrength.com,2026-10-31T20:34:53.242049+00:00
+2.54,TRNR,Interactive Strength Inc.,Consumer Cyclical,Personal Services,United States,2494656,1.54,5580,21221,32680.34,4.453,,,0.30055,-0.5073,-1.5925701,-3.36762,-0.12246,959000,31167000,932.028,0.208,0.089,-10302000,-1480125,1619907,1130989,0.3017,0.0073400005,27851,0.84,0.0172,,,0.12027075,0.76388884,1.688,-3.448,10.0,12.0,8.0,,none,2,1,1,0,0,,0.477,https://interactivestrength.com,2026-10-31T20:34:53.242049+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-28,23380000.00,23800000.00,16100000.00,18508000.00,,,,,,,0,16100000.0000,1,,,,,
 2023-05-01,17360000.00,19740000.00,16296000.00,18480000.00,,,,,,,0,16100000.0000,1,,,,,
@@ -895,4 +895,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.65,1.71,1.62,1.63,1.74,2.04,2.74,5.23,15.79,2.2042,0,1.8000,0,10,44,-0.3359,-0.3323,-0.0036
 2026-10-29,1.65,1.65,1.60,1.60,1.70,1.97,2.71,5.16,15.26,2.1420,0,1.7140,0,2,43,-0.3298,-0.3318,0.0020
 2026-10-30,1.60,1.62,1.53,1.54,1.69,1.90,2.68,5.10,14.72,2.0681,0,1.7100,0,8,42,-0.3260,-0.3306,0.0047
-2026-11-02,1.56,1.68,1.50,1.59,1.67,1.86,2.65,5.04,14.20,2.0681,0,1.3700,1,121,44,-0.3153,-0.3276,0.0123
+2026-11-02,1.56,1.68,1.50,1.59,1.67,1.86,2.65,5.04,14.20,2.0681,0,1.3700,1,122,44,-0.3153,-0.3276,0.0123
+2026-11-03,1.52,1.65,1.36,1.42,1.64,1.82,2.62,4.98,13.69,2.0397,0,1.6850,0,348,50,-0.3169,-0.3254,0.0086
+2026-11-04,1.42,1.49,1.25,1.25,1.58,1.77,2.57,4.91,13.19,1.9232,0,1.6850,0,141,50,-0.3281,-0.3259,-0.0021

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.15,HODO,House of Doge Inc.,Technology,Software - Application,United States,3575034,0.0401,18918910,14765301,592088.5700999999,,,,0.0,-114.74614,0.0,,,2319442,5093125,59.305,1.937,1.238,-7486280,,89152985,69071974,0.1369,0.0036199999,327448,0.05,,,,,0.35486728,,-0.547,,,,,none,,,,,,,,https://www.houseofdoge.com,2026-10-31T16:55:31.501943+00:00
+0.03,HODO,House of Doge Inc.,Technology,Software - Application,United States,3575034,0.0401,18918910,14765301,592088.5700999999,,,,0.0,-114.74614,0.0,,,2319442,5093125,59.305,1.937,1.238,-7486280,,89152985,69071974,0.1369,0.0036199999,327448,0.05,,,,,0.35486728,,-0.547,,,,,none,,,,,,,,https://www.houseofdoge.com,2026-10-31T16:55:31.501943+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-06,30.40,40.00,28.16,34.40,,,,,,,0,28.1600,1,6521,,,,
 2025-03-07,35.76,38.67,34.10,35.20,,,,,,,0,28.1600,1,754,,,,
@@ -430,5 +430,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.06,0.06,0.05,0.05,0.07,0.10,0.32,2.50,2.73,0.1227,0,0.1178,0,320,1550,-0.0993,-0.1232,0.0239
 2026-10-28,0.05,0.05,0.05,0.05,0.07,0.10,0.30,2.49,2.70,0.1102,0,0.1152,0,2458,1593,-0.0949,-0.1176,0.0226
 2026-10-29,0.05,0.05,0.04,0.04,0.07,0.09,0.29,2.48,2.68,0.1022,0,0.1110,0,457,1601,-0.0906,-0.1122,0.0216
-2026-10-30,0.04,0.04,0.04,0.04,0.06,0.08,0.28,2.47,2.66,0.0956,0,0.1054,0,278,1601,-0.0865,-0.1070,0.0206
-2026-11-02,0.04,0.05,0.04,0.04,0.06,0.08,0.26,2.45,2.63,0.0931,0,0.0988,0,376,1607,-0.0822,-0.1021,0.0198
+2026-10-30,0.04,0.04,0.04,0.04,0.06,0.08,0.28,2.47,2.66,0.0956,0,0.1054,0,286,1601,-0.0865,-0.1070,0.0206
+2026-11-02,0.04,0.05,0.04,0.04,0.06,0.08,0.26,2.45,2.63,0.0934,0,0.0988,0,925,1618,-0.0822,-0.1021,0.0198
+2026-11-03,0.01,0.02,0.01,0.02,0.05,0.07,0.25,2.44,2.61,0.0716,0,0.0915,0,163,1619,-0.0799,-0.0976,0.0177
+2026-11-04,0.02,0.02,0.01,0.01,0.04,0.07,0.24,2.43,2.59,0.0663,0,0.0807,0,12,1615,-0.0777,-0.0936,0.0160

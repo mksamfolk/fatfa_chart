@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-68.79,GFR,Greenfire Resources Ltd.,Energy,Oil & Gas E&P,Canada,1610771712,6.7,895140,1113857,7462841.9,0.219,-0.382,0.097,0.31924,0.38222998,-0.06351,-0.036310002,0.00476,2962000,32121000,2.801,0.955,0.658,120992000,-59219124,240413692,34055228,0.00122,0.33692002,1276069,1.0,0.0064,,9.852413,2.7701764,1.0289867,1.495,9.521,,,,1.6,buy,,0.0,0.0,0.0,0.0,2026-11-03,0.193,https://www.greenfireres.com,2026-10-31T16:19:57.027155+00:00
+50.64,GFR,Greenfire Resources Ltd.,Energy,Oil & Gas E&P,Canada,1610771712,6.7,895140,1113857,7462841.9,0.219,-0.382,0.097,0.31924,0.38222998,-0.06351,-0.036310002,0.00476,2962000,32121000,2.801,0.955,0.658,120992000,-59219124,240413692,34055228,0.00122,0.33692002,1276069,1.0,0.0064,,9.852413,2.7701764,1.0289867,1.495,9.521,,,,1.6,buy,,0.0,0.0,0.0,0.0,2026-11-03,0.193,https://www.greenfireres.com,2026-10-31T16:19:57.027155+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-13,9.75,9.76,9.75,9.76,,,,,,,0,9.7500,1,2,,,,
 2021-12-14,9.76,9.76,9.76,9.76,,,,,,,0,9.7500,1,,,,,
@@ -1240,4 +1240,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,6.81,7.00,6.80,6.94,6.75,6.54,6.41,6.17,5.96,6.0015,1,6.3422,1,5333,6845,0.1639,0.1213,0.0426
 2026-10-29,6.92,6.96,6.78,6.80,6.79,6.57,6.42,6.18,5.97,6.0034,1,6.4271,1,3809,6898,0.1572,0.1285,0.0287
 2026-10-30,6.87,6.87,6.67,6.70,6.80,6.58,6.43,6.18,5.98,6.0034,1,6.5019,1,5542,6987,0.1422,0.1312,0.0110
-2026-11-02,6.64,6.49,6.12,6.14,6.75,6.59,6.43,6.17,5.99,6.0034,1,7.0500,0,7831,7054,0.0838,0.1217,-0.0379
+2026-11-02,6.64,6.64,6.12,6.15,6.76,6.59,6.43,6.17,5.99,6.0034,1,7.0500,0,8695,7072,0.0850,0.1220,-0.0370
+2026-11-03,6.09,6.28,6.09,6.17,6.71,6.59,6.43,6.17,6.00,6.0034,1,7.0314,0,4689,7141,0.0408,0.1057,-0.0650
+2026-11-04,6.06,6.16,5.59,5.66,6.59,6.56,6.42,6.17,6.00,6.8494,0,6.9937,0,10146,7320,-0.0350,0.0776,-0.1126

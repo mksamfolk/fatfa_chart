@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.60,TVA,Texas Ventures Acquisition III Corp,Financial Services,Shell Companies,United States,320421024,10.6807,94960,247268,2640995.3276,,-0.659,-0.539,0.0,0.0,0.0,,,256897,0,,0.134,0.09,-712993,,22500000,19250100,0.0,4.55562,1299,0.01,0.0001,66.75438,,,-27.886948,,,,,,,none,,,,,,,,https://www.texasventuresacquisition.com,2026-10-31T20:38:57.834677+00:00
+51.49,TVA,Texas Ventures Acquisition III Corp,Financial Services,Shell Companies,United States,320421024,10.6807,94960,247268,2640995.3276,,-0.659,-0.539,0.0,0.0,0.0,,,256897,0,,0.134,0.09,-712993,,22500000,19250100,0.0,4.55562,1299,0.01,0.0001,66.75438,,,-27.886948,,,,,,,none,,,,,,,,https://www.texasventuresacquisition.com,2026-10-31T20:38:57.834677+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-16,9.98,10.01,9.98,9.99,,,,,,,0,9.9800,1,10028,,,,
 2025-05-19,9.99,9.99,9.99,9.99,,,,,,,0,9.9800,1,111,,,,
@@ -381,4 +381,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.65,10.65,10.65,10.65,10.63,10.60,10.56,10.50,10.54,10.5925,1,10.5819,1,10,3073,0.0263,0.0213,0.0050
 2026-10-29,10.69,10.69,10.66,10.69,10.64,10.61,10.57,10.50,10.54,10.6039,1,10.5877,1,15,3066,0.0294,0.0229,0.0065
 2026-10-30,10.82,10.82,10.68,10.68,10.65,10.62,10.57,10.50,10.54,10.6448,1,10.5959,1,12,3043,0.0308,0.0245,0.0063
-2026-11-02,10.69,10.69,10.69,10.69,10.66,10.62,10.57,10.50,10.54,10.6448,1,10.6183,1,13,3037,0.0320,0.0260,0.0060
+2026-11-02,10.74,10.74,10.69,10.69,10.66,10.62,10.57,10.50,10.54,10.6448,1,10.6183,1,17,3038,0.0320,0.0260,0.0060
+2026-11-03,10.70,10.71,10.69,10.69,10.66,10.63,10.58,10.51,10.54,10.6448,1,10.6385,1,53,3038,0.0324,0.0273,0.0051
+2026-11-04,10.70,10.70,10.68,10.68,10.67,10.63,10.58,10.51,10.54,10.6448,1,10.6566,1,50,3038,0.0316,0.0281,0.0034

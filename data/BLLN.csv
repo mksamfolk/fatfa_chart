@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-78.83,BLLN,BillionToOne Inc.,Healthcare,Diagnostics & Research,United States,5347235328,113.32,438070,654335,74149242.2,0.644,,,0.71266997,0.050279997,0.08347999,0.106800005,0.05193,548627968,143920992,26.811,11.689,11.189,45354000,12034125,42644388,28817124,0.28364,0.45396,2932232,4.68,0.1122,179.87302,76.30976,13.455143,9.884857,12.437,98.38,129.0,145.0,110.0,1.5,strong_buy,7,0,0,1,1,2026-11-04,,https://www.billiontoone.com,2026-10-31T14:38:22.204243+00:00
+77.91,BLLN,BillionToOne Inc.,Healthcare,Diagnostics & Research,United States,5347235328,113.32,438070,654335,74149242.2,0.644,,,0.71266997,0.050279997,0.08347999,0.106800005,0.05193,548627968,143920992,26.811,11.689,11.189,45354000,12034125,42644388,28817124,0.28364,0.45396,2932232,4.68,0.1122,179.87302,76.30976,13.455143,9.884857,12.437,98.38,129.0,145.0,110.0,1.5,strong_buy,7,0,0,1,1,2026-11-04,,https://www.billiontoone.com,2026-10-31T14:38:22.204243+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-06,100.00,123.84,95.00,108.94,,,,,,,0,95.0000,1,155882,,,,
 2025-11-07,108.70,113.06,97.50,100.03,,,,,,,0,95.0000,1,46194,,,,
@@ -276,4 +276,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,113.96,119.20,113.11,114.00,106.30,102.92,102.98,101.26,96.25,98.0489,1,96.6768,1,51688,59480,1.6123,-0.1054,1.7177
 2026-10-29,114.02,115.20,112.67,114.84,107.51,103.37,103.45,101.55,96.34,98.0489,1,99.3796,1,66975,59848,2.1098,0.3376,1.7722
 2026-10-30,113.29,114.02,110.42,113.32,109.03,103.74,103.81,101.84,96.44,98.0489,1,101.7581,1,53045,59606,2.3544,0.7410,1.6134
-2026-11-02,113.17,114.07,106.72,110.41,109.97,103.81,104.12,102.11,96.52,98.0489,1,103.8511,1,70089,59889,2.2870,1.0502,1.2368
+2026-11-02,113.17,114.07,106.72,110.41,109.97,103.81,104.12,102.11,96.52,98.0489,1,103.8511,1,70199,59891,2.2870,1.0502,1.2368
+2026-11-03,110.63,113.42,109.56,110.45,110.67,104.33,104.39,102.32,96.63,98.0489,1,105.6930,1,39806,59626,2.2113,1.2824,0.9289
+2026-11-04,113.86,114.91,110.19,113.89,111.59,105.24,104.67,102.53,96.76,98.0489,1,106.7200,1,66295,59145,2.4013,1.5062,0.8951

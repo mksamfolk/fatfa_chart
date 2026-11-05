@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-69.57,NBIS,,Communication Services,Internet Content & Information,Netherlands,39135866880,154.14,22442370,20451610,3152411165.3999996,4.54,,,0.7426,-0.00223,0.03129,0.00601,-0.01918,8042100224,10195300352,98.596,4.03,3.605,5257999872,-9614650368,220406311,228691625,0.03403,0.70559,47638283,2.61,0.2018,120.421875,-42.84249,28.880426,4.08621,32.768,172.108,281.0,410.0,84.0,1.81818,buy,20,0,1,0,1,2026-11-12,1.46,https://nebius.com,2026-10-31T18:40:18.060098+00:00
+60.14,NBIS,,Communication Services,Internet Content & Information,Netherlands,39135866880,154.14,22442370,20451610,3152411165.3999996,4.54,,,0.7426,-0.00223,0.03129,0.00601,-0.01918,8042100224,10195300352,98.596,4.03,3.605,5257999872,-9614650368,220406311,228691625,0.03403,0.70559,47638283,2.61,0.2018,120.421875,-42.84249,28.880426,4.08621,32.768,172.108,281.0,410.0,84.0,1.81818,buy,20,0,1,0,1,2026-11-12,1.46,https://nebius.com,2026-10-31T18:40:18.060098+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-21,14.29,20.36,14.09,20.00,,,,,,,0,14.0900,1,272334,,,,
 2024-10-22,19.79,20.00,17.76,18.73,,,,,,,0,14.0900,1,120694,,,,
@@ -537,5 +537,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,159.00,171.53,158.30,170.47,169.48,199.15,213.38,202.06,176.52,204.6554,0,182.3756,0,3511068,3950373,-17.5380,-13.4212,-4.1168
 2026-10-28,173.49,182.74,168.92,182.34,169.11,196.48,212.06,202.50,176.90,204.6554,0,149.4800,1,4568857,3928346,-15.8355,-13.9040,-1.9315
 2026-10-29,173.18,178.33,168.76,171.99,167.47,193.46,211.02,202.94,177.23,204.6554,0,150.1452,1,3044275,3763368,-15.1469,-14.1526,-0.9943
-2026-10-30,157.05,161.42,149.96,154.14,166.34,189.03,209.70,203.30,177.49,204.1445,0,182.7400,0,3308214,3704166,-15.8586,-14.4938,-1.3648
-2026-11-02,154.56,155.35,140.60,141.39,163.45,184.47,208.15,203.63,177.68,196.0130,0,182.0844,0,2821643,3671897,-17.2526,-15.0456,-2.2071
+2026-10-30,157.05,161.42,149.96,154.14,166.34,189.03,209.70,203.30,177.49,204.1445,0,182.7400,0,3323998,3704482,-15.8586,-14.4938,-1.3648
+2026-11-02,154.56,155.35,140.60,141.39,163.45,184.47,208.15,203.63,177.68,196.0130,0,182.0844,0,2889262,3673565,-17.2526,-15.0456,-2.2071
+2026-11-03,145.35,152.67,143.71,151.64,161.47,179.56,206.96,203.95,177.89,194.8028,0,180.4250,0,2455901,3651470,-17.3306,-15.5026,-1.8280
+2026-11-04,145.81,152.88,140.02,141.52,158.47,174.78,205.35,204.21,178.11,192.2613,0,178.8320,0,3212306,3655571,-18.0014,-16.0023,-1.9990

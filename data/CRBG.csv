@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.57,CRBG,Corebridge Financial Inc.,Financial Services,Asset Management,United States,15517341696,34.81,4773380,4679234,162884135.54000002,0.259,,,0.21102,0.111140005,0.046479996,0.07139,0.00306,4936999936,14469999616,127.231,1.223,0.192,1852000000,642249984,445772522,265573438,0.00263,1.15826,15182883,2.91,0.058000002,21.893082,6.0768466,0.79514945,1.5275584,1.346,9.706,40.41667,46.0,36.0,1.64286,buy,12,5,7,1,1,2026-11-02,1.004,https://www.corebridgefinancial.com,2026-10-31T15:16:15.665328+00:00
+79.47,CRBG,Corebridge Financial Inc.,Financial Services,Asset Management,United States,15517341696,34.81,4773380,4679234,162884135.54000002,0.259,,,0.21102,0.111140005,0.046479996,0.07139,0.00306,4936999936,14469999616,127.231,1.223,0.192,1852000000,642249984,445772522,265573438,0.00263,1.15826,15182883,2.91,0.058000002,21.893082,6.0768466,0.79514945,1.5275584,1.346,9.706,40.41667,46.0,36.0,1.64286,buy,12,5,7,1,1,2026-11-02,1.004,https://www.corebridgefinancial.com,2026-10-31T15:16:15.665328+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-16,15.96,16.15,15.52,16.08,,,,,,,0,15.5208,1,103221,,,,
 2022-09-19,15.99,17.07,15.89,16.78,,,,,,,0,15.5208,1,138787,,,,
@@ -1064,4 +1064,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,35.43,35.67,35.03,35.32,34.86,34.61,33.99,30.27,29.58,32.7655,1,32.8258,1,166174,151707,0.3044,0.2625,0.0419
 2026-10-29,35.88,36.00,35.22,35.29,34.94,34.69,34.05,30.35,29.61,32.7655,1,32.9964,1,174611,152905,0.3182,0.2737,0.0446
 2026-10-30,35.58,35.58,34.25,34.81,34.98,34.73,34.11,30.43,29.63,32.7655,1,33.2367,1,176201,154393,0.2872,0.2764,0.0108
-2026-11-02,35.09,35.56,34.95,35.00,35.04,34.74,34.17,30.52,29.66,32.7655,1,33.4578,1,127876,155254,0.2747,0.2760,-0.0013
+2026-11-02,35.09,35.56,34.95,35.04,35.05,34.74,34.17,30.52,29.66,32.7655,1,33.4578,1,149792,155692,0.2779,0.2767,0.0012
+2026-11-03,35.57,36.56,34.62,35.74,35.12,34.77,34.25,30.60,29.69,32.7655,1,33.6612,1,302357,159420,0.3233,0.2860,0.0373
+2026-11-04,36.28,36.71,35.62,36.24,35.22,34.86,34.33,30.68,29.72,32.9069,1,33.9510,1,205296,161875,0.3951,0.3078,0.0873

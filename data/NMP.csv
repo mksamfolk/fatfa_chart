@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NMP,NMP Acquisition Corp.,Financial Services,Shell Companies,United States,166256384,10.41,18290,11351,118163.91,,,,0.0,0.0,0.0,,,106746,4963,7.125,0.585,0.246,-1079375,,12137500,10323866,0.05843,0.92544997,7864,1.6,0.0007,47.31818,,,2602.4998,,,,,,,none,,,,,,,,,2026-10-31T18:46:41.786055+00:00
+56.30,NMP,NMP Acquisition Corp.,Financial Services,Shell Companies,United States,166256384,10.41,18290,11351,118163.91,,,,0.0,0.0,0.0,,,106746,4963,7.125,0.585,0.246,-1079375,,12137500,10323866,0.05843,0.92544997,7864,1.6,0.0007,47.31818,,,2602.4998,,,,,,,none,,,,,,,,,2026-10-31T18:46:41.786055+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-03,9.90,9.92,9.90,9.91,,,,,,,0,9.9000,1,7340,,,,
 2025-09-04,9.91,9.92,9.91,9.91,,,,,,,0,9.9000,1,16915,,,,
@@ -307,3 +307,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.40,10.40,10.40,10.40,10.39,10.39,10.35,10.26,10.21,10.3693,1,10.4217,0,,196,0.0142,0.0151,-0.0009
 2026-10-29,10.40,10.40,10.40,10.40,10.39,10.39,10.35,10.26,10.21,10.3693,1,10.4209,0,,118,0.0137,0.0148,-0.0011
 2026-10-30,10.41,10.41,10.40,10.41,10.40,10.39,10.36,10.26,10.21,10.3751,1,10.4200,0,460,127,0.0139,0.0146,-0.0007
+2026-11-02,10.41,10.41,10.41,10.41,10.40,10.39,10.36,10.26,10.22,10.3809,1,10.4192,0,,127,0.0139,0.0145,-0.0006
+2026-11-03,10.42,10.42,10.41,10.42,10.40,10.40,10.36,10.27,10.22,10.3858,1,10.3800,1,428,136,0.0146,0.0145,0.0001
+2026-11-04,10.41,10.41,10.41,10.41,10.41,10.40,10.36,10.27,10.22,10.3858,1,10.3808,1,45,137,0.0141,0.0144,-0.0003

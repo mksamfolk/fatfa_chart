@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-72.66,NMAX,,Communication Services,Broadcasting,United States,1042326400,8.07,711150,1052223,8491439.61,0.165,,,0.39639,0.02411,-0.031519998,-0.05824,-0.03836,128299792,11578683,10.23,2.386,2.007,-68273728,-37640884,89921348,30941724,0.2195,0.66393995,5014372,4.97,0.6348,403.5,115.28571,5.1273527,9.212329,4.553,-76.115,15.66667,20.0,10.0,,none,3,0,0,0,0,2026-11-12,,https://www.newsmax.com,2026-10-31T18:46:24.909144+00:00
+68.69,NMAX,,Communication Services,Broadcasting,United States,1042326400,8.07,711150,1052223,8491439.61,0.165,,,0.39639,0.02411,-0.031519998,-0.05824,-0.03836,128299792,11578683,10.23,2.386,2.007,-68273728,-37640884,89921348,30941724,0.2195,0.66393995,5014372,4.97,0.6348,403.5,115.28571,5.1273527,9.212329,4.553,-76.115,15.66667,20.0,10.0,,none,3,0,0,0,0,2026-11-12,,https://www.newsmax.com,2026-10-31T18:46:24.909144+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-31,14.46,83.51,14.00,83.51,,,,,,,0,14.0000,1,559684,,,,
 2025-04-01,125.98,265.00,114.22,233.00,,,,,,,0,14.0000,1,2660371,,,,
@@ -429,4 +429,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,7.90,8.13,7.87,8.07,8.30,9.14,10.13,8.44,8.00,9.1727,0,9.0318,0,5467,10023,-0.6507,-0.5182,-0.1326
 2026-10-29,8.06,8.24,7.99,8.10,8.18,9.05,10.07,8.45,8.01,9.1727,0,8.8440,0,4423,9771,-0.6365,-0.5419,-0.0947
 2026-10-30,7.98,8.18,7.78,8.07,8.11,8.98,10.02,8.47,8.01,9.1727,0,8.6824,0,8879,9666,-0.6205,-0.5576,-0.0629
-2026-11-02,8.16,8.37,7.92,7.99,8.09,8.88,9.96,8.49,8.01,9.1727,0,8.5435,0,5077,9598,-0.6073,-0.5675,-0.0398
+2026-11-02,8.16,8.37,7.92,7.99,8.09,8.88,9.96,8.49,8.01,9.1727,0,8.5435,0,5174,9600,-0.6073,-0.5675,-0.0398
+2026-11-03,8.01,8.16,7.95,8.00,8.05,8.78,9.91,8.51,8.01,9.1727,0,8.4240,0,4706,9543,-0.5892,-0.5719,-0.0174
+2026-11-04,8.15,8.56,8.13,8.14,8.03,8.68,9.85,8.52,8.01,9.1727,0,7.6900,1,5608,9498,-0.5572,-0.5689,0.0118

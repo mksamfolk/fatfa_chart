@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-04-03 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.21,RENT,Rent the Runway Inc.,Consumer Cyclical,Apparel Retail,United States,81940512,2.415,3713240,708632,1711346.28,0.208,,,0.74734,-0.072670005,0.11802,,-0.1267,29000000,196700000,,0.672,0.438,700000,-44175000,33774121,271206,0.78128,0.22894,1760663,8.25,0.3418,0.25474685,-0.1349162,0.223332,-1.2448453,0.679,25.435,,,,,none,,,,,,2026-12-10,1.241,https://www.renttherunway.com,2026-10-31T19:37:34.964001+00:00
+16.93,RENT,Rent the Runway Inc.,Consumer Cyclical,Apparel Retail,United States,81940512,2.415,3713240,708632,1711346.28,0.208,,,0.74734,-0.072670005,0.11802,,-0.1267,29000000,196700000,,0.672,0.438,700000,-44175000,33774121,271206,0.78128,0.22894,1760663,8.25,0.3418,0.25474685,-0.1349162,0.223332,-1.2448453,0.679,25.435,,,,,none,,,,,,2026-12-10,1.241,https://www.renttherunway.com,2026-10-31T19:37:34.964001+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-27,460.00,495.40,375.00,385.80,,,,,,,0,375.0000,1,177065,,,,
 2021-10-28,392.20,393.60,377.00,377.00,,,,,,,0,375.0000,1,32878,,,,
@@ -1272,4 +1272,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.66,2.71,2.54,2.69,2.25,2.08,3.01,3.75,4.64,2.0055,1,1.7408,1,1086,2168,-0.1150,-0.2703,0.1553
 2026-10-29,2.58,2.78,2.50,2.64,2.33,2.07,2.98,3.74,4.61,2.0055,1,1.8223,1,1404,2190,-0.0844,-0.2331,0.1488
 2026-10-30,2.65,2.66,2.37,2.41,2.40,2.07,2.96,3.72,4.58,2.0055,1,1.8990,1,839,2204,-0.0773,-0.2020,0.1246
-2026-11-02,2.34,2.38,2.15,2.21,2.43,2.10,2.93,3.71,4.55,2.0055,1,1.9710,1,582,2213,-0.0873,-0.1790,0.0917
+2026-11-02,2.34,2.42,2.15,2.21,2.43,2.10,2.93,3.71,4.55,2.0055,1,1.9710,1,584,2213,-0.0873,-0.1790,0.0917
+2026-11-03,2.18,2.46,2.17,2.25,2.46,2.13,2.90,3.69,4.52,2.0055,1,2.0388,1,470,2219,-0.0909,-0.1614,0.0705
+2026-11-04,2.31,2.46,2.20,2.46,2.49,2.17,2.88,3.68,4.49,2.0055,1,2.1025,1,454,2224,-0.0760,-0.1443,0.0684

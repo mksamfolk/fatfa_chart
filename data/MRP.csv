@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-46.60,MRP,Millrose Properties Inc.,Real Estate,REIT - Residential,United States,4254147840,25.62,2721040,2252423,57707077.260000005,0.177,0.238,0.237,0.85344005,0.8552,0.63235,0.08557,0.04309,64535000,3338052096,57.052,47.579,0.306,,,154228116,153104491,0.01128,0.94825,11616782,3.24,0.0875,8.483444,7.686008,5.3694596,0.72709733,9.501,,36.0,40.0,32.0,1.33333,strong_buy,5,0,0,1,2,2026-10-27,,https://millroseproperties.com,2026-10-31T18:33:04.935812+00:00
+45.54,MRP,Millrose Properties Inc.,Real Estate,REIT - Residential,United States,4254147840,25.62,2721040,2252423,57707077.260000005,0.177,0.238,0.237,0.85344005,0.8552,0.63235,0.08557,0.04309,64535000,3338052096,57.052,47.579,0.306,,,154228116,153104491,0.01128,0.94825,11616782,3.24,0.0875,8.483444,7.686008,5.3694596,0.72709733,9.501,,36.0,40.0,32.0,1.33333,strong_buy,5,0,0,1,2,2026-10-27,,https://millroseproperties.com,2026-10-31T18:33:04.935812+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-05,18.69,20.85,16.52,19.07,,,,,,,0,16.5155,1,48345,,,,
 2025-02-06,18.73,20.02,18.56,19.98,,,,,,,0,16.5155,1,41152,,,,
@@ -466,4 +466,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,24.65,25.38,24.53,25.38,23.47,23.10,26.90,27.87,28.09,21.8136,1,22.2888,1,74069,63828,-0.6351,-1.1587,0.5237
 2026-10-29,25.70,26.13,25.40,26.11,23.86,23.19,26.81,27.86,28.08,22.7128,1,22.6229,1,62716,64543,-0.4036,-1.0077,0.6041
 2026-10-30,26.25,26.50,25.48,25.62,24.17,23.28,26.71,27.86,28.06,22.9330,1,23.0438,1,54612,65093,-0.2567,-0.8575,0.6008
-2026-11-02,26.00,26.83,25.75,26.81,24.65,23.49,26.64,27.86,28.05,23.1779,1,23.5277,1,68517,65844,-0.0438,-0.6948,0.6510
+2026-11-02,26.00,26.83,25.75,26.81,24.65,23.49,26.64,27.86,28.05,23.1779,1,23.5277,1,69652,65866,-0.0438,-0.6948,0.6510
+2026-11-03,26.61,26.72,25.82,25.90,24.90,23.63,26.55,27.86,28.03,23.1779,1,24.0560,1,73634,66848,0.0510,-0.5456,0.5966
+2026-11-04,26.29,27.00,26.09,26.93,25.28,23.85,26.47,27.86,28.02,23.4269,1,24.4999,1,77642,68041,0.2068,-0.3951,0.6019

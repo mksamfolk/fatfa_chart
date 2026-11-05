@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-24 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.25,OIO,OIO Group,Industrials,Waste Management,Singapore,661241984,1.9,104350,123726,235079.4,,,,0.0,0.0,0.0,,,,,,,,,,348022108,,0.90831,0.00023,27297,0.24,0.0008,,,,5.956113,,,4.44,4.44,4.44,,none,1,,,,,,,https://oiogroup.co,2026-10-31T18:59:47.718281+00:00
+10.13,OIO,OIO Group,Industrials,Waste Management,Singapore,661241984,1.9,104350,123726,235079.4,,,,0.0,0.0,0.0,,,,,,,,,,348022108,,0.90831,0.00023,27297,0.24,0.0008,,,,5.956113,,,4.44,4.44,4.44,,none,1,,,,,,,https://oiogroup.co,2026-10-31T18:59:47.718281+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-07,29.85,29.85,29.64,29.70,,,,,,,0,29.6400,1,848,,,,
 2022-04-08,29.73,29.76,29.73,29.76,,,,,,,0,29.6400,1,52,,,,
@@ -1160,4 +1160,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.00,2.00,1.79,1.95,1.82,1.78,1.84,3.68,5.47,2.2093,0,1.7031,1,207,196,0.0099,-0.0140,0.0239
 2026-10-29,1.94,1.94,1.82,1.89,1.84,1.80,1.83,3.62,5.42,2.2093,0,1.7245,1,198,197,0.0142,-0.0084,0.0226
 2026-10-30,1.90,1.98,1.84,1.90,1.86,1.79,1.83,3.57,5.37,2.2093,0,1.7446,1,197,199,0.0183,-0.0030,0.0213
-2026-11-02,1.89,1.92,1.83,1.88,1.86,1.80,1.83,3.52,5.32,2.2093,0,1.7635,1,196,199,0.0197,0.0015,0.0181
+2026-11-02,1.89,1.93,1.82,1.88,1.86,1.80,1.83,3.52,5.32,2.2093,0,1.7635,1,196,199,0.0197,0.0015,0.0181
+2026-11-03,1.88,1.88,1.71,1.76,1.86,1.80,1.82,3.46,5.27,2.2093,0,2.0600,0,188,200,0.0109,0.0034,0.0075
+2026-11-04,1.77,1.80,1.70,1.74,1.85,1.80,1.82,3.39,5.22,2.1996,0,2.0530,0,176,201,0.0024,0.0032,-0.0008

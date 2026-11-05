@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-40.31,XXI,Twenty One Capital Inc.,Consumer Defensive,Education & Training Services,United States,3570104832,5.48,1547510,1899175,10407479.0,,,,0.0,0.0,0.0,,,106132080,484543712,22.245,71.049,67.236,-14414454,,346636211,130789309,0.63063,0.1292,7651684,3.09,,,,,0.8724725,,,,,,,none,,,,,,2026-11-05,-1.21,https://xxi.money,2026-10-31T21:11:17.474695+00:00
+40.93,XXI,Twenty One Capital Inc.,Consumer Defensive,Education & Training Services,United States,3570104832,5.48,1547510,1899175,10407479.0,,,,0.0,0.0,0.0,,,106132080,484543712,22.245,71.049,67.236,-14414454,,346636211,130789309,0.63063,0.1292,7651684,3.09,,,,,0.8724725,,,,,,,none,,,,,,2026-11-05,-1.21,https://xxi.money,2026-10-31T21:11:17.474695+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-13,10.01,10.03,10.00,10.01,,,,,,,0,10.0000,1,38665,,,,
 2024-08-14,10.01,10.03,10.01,10.01,,,,,,,0,10.0000,1,12678,,,,
@@ -586,4 +586,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.89,5.91,5.70,5.81,5.72,6.06,6.09,6.21,6.44,6.5963,0,5.9300,0,7511,12636,-0.1227,-0.0779,-0.0448
 2026-10-29,5.62,5.85,5.62,5.72,5.68,6.01,6.10,6.21,6.42,6.5963,0,5.9300,0,4271,12515,-0.1229,-0.0869,-0.0360
 2026-10-30,5.38,5.57,5.24,5.48,5.67,5.96,6.08,6.20,6.39,6.4631,0,5.9100,0,7744,12293,-0.1409,-0.0977,-0.0432
-2026-11-02,5.56,5.63,5.41,5.45,5.66,5.90,6.06,6.20,6.37,6.4631,0,5.8500,0,6094,12031,-0.1557,-0.1093,-0.0464
+2026-11-02,5.56,5.63,5.41,5.45,5.66,5.90,6.06,6.20,6.37,6.4631,0,5.8500,0,6103,12031,-0.1557,-0.1093,-0.0464
+2026-11-03,5.53,5.61,5.44,5.51,5.65,5.84,6.05,6.19,6.36,6.4631,0,5.7402,0,5608,11903,-0.1608,-0.1196,-0.0412
+2026-11-04,5.59,6.13,5.56,5.83,5.65,5.82,6.03,6.19,6.34,6.4631,0,5.2400,1,17347,12093,-0.1374,-0.1231,-0.0142

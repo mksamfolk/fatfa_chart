@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.41,HPAI,Helport AI Limited,Technology,Software - Infrastructure,Singapore,8711495,0.2314,82900,679731,157289.7534,0.077,,,0.53262,-0.19055,-0.02437,-0.05212,-0.0429,760077,6047426,33.67,1.047,1.04,10185930,-3984079,37646910,8047284,0.78501,0.00472,24945,0.11,0.0014,,,0.24123049,0.4955032,0.4,,,,,,none,,,,,,,-0.05,https://www.helport.ai,2026-10-31T16:59:10.708599+00:00
+7.14,HPAI,Helport AI Limited,Technology,Software - Infrastructure,Singapore,8711495,0.2314,82900,679731,157289.7534,0.077,,,0.53262,-0.19055,-0.02437,-0.05212,-0.0429,760077,6047426,33.67,1.047,1.04,10185930,-3984079,37646910,8047284,0.78501,0.00472,24945,0.11,0.0014,,,0.24123049,0.4955032,0.4,,,,,,none,,,,,,,-0.05,https://www.helport.ai,2026-10-31T16:59:10.708599+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-05,12.00,14.74,6.21,8.43,,,,,,,0,14.7400,0,2011,,,,
 2024-08-06,7.08,7.88,5.69,7.05,,,,,,,0,14.7400,0,1418,,,,
@@ -577,4 +577,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.26,0.29,0.25,0.26,0.29,0.30,0.39,1.00,1.59,0.3750,0,0.4797,0,16,260,-0.0338,-0.0355,0.0016
 2026-10-29,0.28,0.28,0.25,0.25,0.28,0.30,0.38,0.98,1.57,0.3672,0,0.4705,0,8,260,-0.0347,-0.0353,0.0006
 2026-10-30,0.25,0.26,0.23,0.23,0.28,0.29,0.38,0.96,1.55,0.3443,0,0.4617,0,16,260,-0.0364,-0.0355,-0.0009
-2026-11-02,0.25,0.25,0.23,0.23,0.27,0.29,0.37,0.94,1.53,0.3374,0,0.4478,0,3,259,-0.0371,-0.0358,-0.0012
+2026-11-02,0.23,0.25,0.23,0.23,0.27,0.29,0.37,0.94,1.53,0.3369,0,0.4478,0,3,259,-0.0371,-0.0358,-0.0012
+2026-11-03,0.23,0.26,0.23,0.24,0.26,0.29,0.37,0.93,1.51,0.3369,0,0.4348,0,7174,402,-0.0367,-0.0360,-0.0007
+2026-11-04,0.31,0.34,0.29,0.33,0.27,0.29,0.37,0.91,1.49,0.3369,0,0.4226,0,47150,1344,-0.0288,-0.0346,0.0057

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-73.37,COSO,CoastalSouth Bancshares Inc.,Financial Services,Banks - Regional,United States,333289952,27.88,76370,104153,2903785.6399999997,0.225,0.315,0.301,0.0,0.47174,0.32922,0.115430005,0.01264,45218000,30000000,,,,,,11954446,8694289,0.12585,0.67498,127149,0.98,0.012,11.665271,10.806202,3.7106843,1.249048,3.473,,31.66667,33.0,31.0,1.33333,strong_buy,3,0,0,0,2,2027-01-19,0.025,https://www.coastalstatesbank.com,2026-10-31T15:14:06.881801+00:00
+76.16,COSO,CoastalSouth Bancshares Inc.,Financial Services,Banks - Regional,United States,333289952,27.88,76370,104153,2903785.6399999997,0.225,0.315,0.301,0.0,0.47174,0.32922,0.115430005,0.01264,45218000,30000000,,,,,,11954446,8694289,0.12585,0.67498,127149,0.98,0.012,11.665271,10.806202,3.7106843,1.249048,3.473,,31.66667,33.0,31.0,1.33333,strong_buy,3,0,0,0,2,2027-01-19,0.025,https://www.coastalstatesbank.com,2026-10-31T15:14:06.881801+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-08,19.52,20.78,19.52,20.78,,,,,,,0,19.5246,1,42,,,,
 2025-05-09,20.78,20.78,20.78,20.78,,,,,,,0,19.5246,1,,,,,
@@ -387,4 +387,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,27.70,27.95,27.51,27.84,27.31,27.14,27.36,26.19,25.68,26.2019,1,26.7069,1,1228,2358,0.1206,-0.0029,0.1235
 2026-10-29,28.09,28.18,27.80,27.98,27.44,27.16,27.37,26.21,25.70,26.2946,1,26.8247,1,1805,2350,0.1570,0.0291,0.1279
 2026-10-30,27.61,28.01,27.61,27.88,27.56,27.18,27.39,26.24,25.72,26.2946,1,26.9332,1,1018,2345,0.1758,0.0584,0.1173
-2026-11-02,28.02,28.48,28.07,28.19,27.73,27.24,27.41,26.27,25.74,26.6137,1,27.0329,1,873,2336,0.2132,0.0894,0.1238
+2026-11-02,28.02,28.50,28.02,28.24,27.73,27.24,27.41,26.27,25.74,26.5937,1,27.0329,1,1110,2341,0.2172,0.0902,0.1270
+2026-11-03,28.24,28.46,28.00,28.21,27.84,27.30,27.43,26.29,25.76,26.5937,1,27.1801,1,2054,2347,0.2447,0.1211,0.1236
+2026-11-04,28.70,29.17,28.41,28.75,27.99,27.41,27.46,26.33,25.78,27.0271,1,27.3126,1,1731,2349,0.3066,0.1582,0.1484

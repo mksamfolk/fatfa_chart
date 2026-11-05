@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.84,BCG,Binah Capital Group Inc.,Financial Services,Asset Management,United States,18424944,1.08,11020,33857,36565.560000000005,0.123,,,0.20263,0.00922,0.021949999,0.22427,0.05998,10409000,25486000,122.635,0.786,0.77,5691000,,17060131,3183932,0.80031997,0.01762,5607,0.32,0.0008,7.714286,,0.09703212,5.684211,0.269,,,,,,none,,,,,,,0.303,https://www.binahcap.com,2026-10-31T14:29:55.922557+00:00
+19.30,BCG,Binah Capital Group Inc.,Financial Services,Asset Management,United States,18424944,1.08,11020,33857,36565.560000000005,0.123,,,0.20263,0.00922,0.021949999,0.22427,0.05998,10409000,25486000,122.635,0.786,0.77,5691000,,17060131,3183932,0.80031997,0.01762,5607,0.32,0.0008,7.714286,,0.09703212,5.684211,0.269,,,,,,none,,,,,,,0.303,https://www.binahcap.com,2026-10-31T14:29:55.922557+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-27,12.00,12.60,8.51,9.50,,,,,,,0,8.5100,1,319,,,,
 2024-03-28,16.61,16.61,10.98,12.95,,,,,,,0,8.5100,1,5398,,,,
@@ -667,3 +667,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.07,1.17,1.07,1.08,1.07,1.06,1.27,1.62,1.81,1.2251,0,1.0264,1,15,53,-0.0554,-0.0721,0.0168
 2026-10-30,1.11,1.15,1.06,1.08,1.07,1.05,1.26,1.61,1.80,1.2251,0,1.0408,1,18,53,-0.0509,-0.0679,0.0170
 2026-11-02,1.08,1.13,1.06,1.09,1.08,1.05,1.25,1.60,1.79,1.2251,0,1.0537,1,31,53,-0.0460,-0.0635,0.0175
+2026-11-03,1.06,1.08,1.06,1.06,1.08,1.05,1.25,1.60,1.79,1.2251,0,1.0600,1,5,53,-0.0440,-0.0596,0.0156
+2026-11-04,1.11,1.18,1.11,1.16,1.08,1.06,1.24,1.59,1.78,1.2251,0,1.0600,1,13,53,-0.0340,-0.0545,0.0205

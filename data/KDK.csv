@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.21,KDK,Kodiak AI Inc.,Technology,Software - Infrastructure,United States,244754176,1.22,8770730,4236231,5168201.82,5.956,,,1.0,-12.48271,0.0,,-0.7539,151056000,47803000,139.502,5.536,5.374,-121199000,-102067872,200618170,129715696,0.36091,0.45396,9504592,1.51,0.0748,,-1.5704448,34.22178,-1.2538542,50.991,-2.513,9.66667,13.0,4.5,1.33333,strong_buy,9,0,0,0,2,2026-11-05,0.603,https://kodiak.ai,2026-10-31T17:54:01.888411+00:00
+2.26,KDK,Kodiak AI Inc.,Technology,Software - Infrastructure,United States,244754176,1.22,8770730,4236231,5168201.82,5.956,,,1.0,-12.48271,0.0,,-0.7539,151056000,47803000,139.502,5.536,5.374,-121199000,-102067872,200618170,129715696,0.36091,0.45396,9504592,1.51,0.0748,,-1.5704448,34.22178,-1.2538542,50.991,-2.513,9.66667,13.0,4.5,1.33333,strong_buy,9,0,0,0,2,2026-11-05,0.603,https://kodiak.ai,2026-10-31T17:54:01.888411+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-25,8.75,10.48,7.60,7.95,,,,,,,0,10.4810,0,16553,,,,
 2025-09-26,8.15,8.29,7.32,7.42,,,,,,,0,10.4810,0,14643,,,,
@@ -290,5 +290,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,1.09,1.13,1.07,1.12,1.23,1.78,3.14,5.78,6.66,1.6195,0,2.4480,0,4894,5721,-0.6604,-0.6716,0.0112
 2026-10-28,1.29,1.36,1.20,1.31,1.20,1.65,3.09,5.73,6.62,1.6195,0,2.2694,0,25636,6168,-0.6173,-0.6608,0.0434
 2026-10-29,1.35,1.43,1.25,1.28,1.17,1.53,3.03,5.68,6.58,1.6195,0,2.1123,0,30152,6713,-0.5790,-0.6444,0.0655
-2026-10-30,1.22,1.26,1.19,1.22,1.16,1.40,2.97,5.63,6.53,1.6195,0,1.9740,0,6657,6788,-0.5471,-0.6250,0.0779
-2026-11-02,1.24,1.27,1.12,1.12,1.15,1.37,2.91,5.58,6.48,1.6195,0,1.8523,0,4217,6795,-0.5239,-0.6047,0.0809
+2026-10-30,1.22,1.26,1.19,1.22,1.16,1.40,2.97,5.63,6.53,1.6195,0,1.9740,0,6723,6789,-0.5471,-0.6250,0.0779
+2026-11-02,1.24,1.27,1.12,1.12,1.15,1.37,2.91,5.58,6.48,1.6195,0,1.8523,0,4347,6799,-0.5239,-0.6047,0.0809
+2026-11-03,1.12,1.30,1.12,1.16,1.15,1.34,2.85,5.52,6.44,1.6195,0,1.7452,0,4890,6821,-0.4965,-0.5831,0.0866
+2026-11-04,1.17,1.26,1.08,1.10,1.14,1.31,2.78,5.47,6.39,1.6195,0,1.6510,0,4939,6792,-0.4742,-0.5613,0.0871

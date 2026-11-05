@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-77.84,CHA,Chagee Holdings Limited,Consumer Cyclical,Restaurants,China,2298698240,12.05,599790,875615,10551160.75,0.025,5.914,5.719,0.41169998,0.15367,0.10198,0.16162,0.08009,8174038016,1592306944,18.868,3.366,3.041,1224715008,699324992,125489219,32920290,0.21492,0.07198,1726468,2.03,0.066199996,12.171718,7.3564367,0.17489347,1.874762,-0.308,-2.411,15.6487,20.008265,11.148182,1.54545,buy,11,0,0,1,1,2026-11-27,,https://investor.chagee.com,2026-10-31T15:01:18.842893+00:00
+76.04,CHA,Chagee Holdings Limited,Consumer Cyclical,Restaurants,China,2298698240,12.05,599790,875615,10551160.75,0.025,5.914,5.719,0.41169998,0.15367,0.10198,0.16162,0.08009,8174038016,1592306944,18.868,3.366,3.041,1224715008,699324992,125489219,32920290,0.21492,0.07198,1726468,2.03,0.066199996,12.171718,7.3564367,0.17489347,1.874762,-0.308,-2.411,15.6487,20.008265,11.148182,1.54545,buy,11,0,0,1,1,2026-11-27,,https://investor.chagee.com,2026-10-31T15:01:18.842893+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-17,31.62,39.16,29.98,30.39,,,,,,,0,39.1624,0,477387,,,,
 2025-04-21,31.39,33.60,28.18,28.73,,,,,,,0,39.1624,0,167710,,,,
@@ -416,4 +416,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,12.20,12.27,11.59,11.69,12.37,11.95,11.71,11.15,11.14,11.4009,1,13.1300,0,6711,11440,0.1824,0.2154,-0.0330
 2026-10-29,11.69,12.11,11.66,12.02,12.33,11.99,11.75,11.17,11.14,11.4009,1,13.0992,0,4980,11373,0.1560,0.2035,-0.0475
 2026-10-30,12.13,12.34,12.00,12.05,12.30,12.04,11.77,11.18,11.14,11.4009,1,13.0690,0,11119,11515,0.1359,0.1900,-0.0541
-2026-11-02,12.17,12.81,12.16,12.66,12.33,12.12,11.81,11.20,11.14,11.4009,1,13.0394,0,9581,11592,0.1673,0.1854,-0.0182
+2026-11-02,12.17,12.82,12.16,12.66,12.33,12.12,11.81,11.20,11.14,11.4009,1,13.0394,0,9929,11599,0.1673,0.1854,-0.0182
+2026-11-03,12.66,12.91,12.41,12.60,12.34,12.18,11.85,11.23,11.14,11.4009,1,13.0104,0,10272,11711,0.1852,0.1854,-0.0002
+2026-11-04,12.77,13.01,12.75,12.77,12.33,12.26,11.89,11.25,11.14,11.4650,1,11.5900,1,8925,11822,0.2107,0.1904,0.0202

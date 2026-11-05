@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-40.35,KGS,Kodiak Gas Services Inc.,Energy,Oil & Gas Equipment & Services,United States,4737735168,46.86,1781650,1794112,84072088.32,0.211,0.233,0.316,0.63846,0.34208,0.057729997,0.04587,0.0585,137552992,2819315968,130.257,1.447,1.128,478887008,16089375,101104031,100472131,0.0060900003,1.08773,7825053,3.92,0.097799994,54.488373,14.771617,3.402338,2.1886969,5.33,9.909,79.5,93.0,65.0,1.33333,strong_buy,14,1,1,1,1,2026-11-09,0.94,https://www.kodiakgas.com,2026-10-31T17:55:30.451884+00:00
+29.92,KGS,Kodiak Gas Services Inc.,Energy,Oil & Gas Equipment & Services,United States,4737735168,46.86,1781650,1794112,84072088.32,0.211,0.233,0.316,0.63846,0.34208,0.057729997,0.04587,0.0585,137552992,2819315968,130.257,1.447,1.128,478887008,16089375,101104031,100472131,0.0060900003,1.08773,7825053,3.92,0.097799994,54.488373,14.771617,3.402338,2.1886969,5.33,9.909,79.5,93.0,65.0,1.33333,strong_buy,14,1,1,1,1,2026-11-09,0.94,https://www.kodiakgas.com,2026-10-31T17:55:30.451884+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-29,13.35,13.65,13.31,13.47,,,,,,,0,13.3116,1,69611,,,,
 2023-06-30,13.31,13.94,13.18,13.94,,,,,,,0,13.9381,0,23954,,,,
@@ -868,4 +868,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,48.43,48.76,46.36,48.10,46.80,50.08,55.12,61.98,58.63,52.2363,0,43.5000,1,74011,102916,-2.6285,-2.6482,0.0196
 2026-10-29,48.01,49.05,47.87,48.21,46.84,49.81,54.88,61.91,58.69,52.2363,0,43.6052,1,50158,101984,-2.4122,-2.6010,0.1887
 2026-10-30,46.73,47.61,46.08,46.86,46.81,49.44,54.60,61.84,58.75,52.2363,0,43.8230,1,74878,101453,-2.3230,-2.5454,0.2224
-2026-11-02,46.82,47.34,44.15,44.47,46.54,48.98,54.27,61.76,58.79,52.2363,0,44.0321,1,66753,99982,-2.4172,-2.5197,0.1025
+2026-11-02,46.82,47.35,44.13,44.46,46.54,48.98,54.26,61.76,58.79,52.2363,0,44.0321,1,80006,100247,-2.4180,-2.5199,0.1019
+2026-11-03,44.90,47.26,44.56,46.54,46.45,48.52,54.01,61.69,58.84,52.2363,0,44.1300,1,75614,99737,-2.2990,-2.4757,0.1767
+2026-11-04,46.39,46.54,40.42,41.26,45.67,47.85,53.66,61.58,58.86,52.0430,0,49.0500,0,158166,100145,-2.6008,-2.5007,-0.1000

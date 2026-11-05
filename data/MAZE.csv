@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.52,MAZE,Maze Therapeutics Inc.,Healthcare,Biotechnology,United States,1748687744,31.48,752770,662939,20869319.72,,,,1.0,-7.2806,0.0,-0.37348998,-0.21794,411087008,60423000,13.335,18.31,18.026,-106538000,-63627624,55549168,36796880,0.01577,1.1025901,7527939,8.28,0.1526,,-9.876512,87.43439,3.8559532,69.901,-9.728,62.53846,110.0,46.0,1.07143,strong_buy,13,1,1,0,0,2026-11-05,,https://www.mazetx.com,2026-10-31T18:19:14.314415+00:00
+64.76,MAZE,Maze Therapeutics Inc.,Healthcare,Biotechnology,United States,1748687744,31.48,752770,662939,20869319.72,,,,1.0,-7.2806,0.0,-0.37348998,-0.21794,411087008,60423000,13.335,18.31,18.026,-106538000,-63627624,55549168,36796880,0.01577,1.1025901,7527939,8.28,0.1526,,-9.876512,87.43439,3.8559532,69.901,-9.728,62.53846,110.0,46.0,1.07143,strong_buy,13,1,1,0,0,2026-11-05,,https://www.mazetx.com,2026-10-31T18:19:14.314415+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-31,16.12,17.00,15.25,15.95,,,,,,,0,17.0000,0,25370,,,,
 2025-02-03,15.90,16.09,14.15,15.00,,,,,,,0,17.0000,0,8585,,,,
@@ -469,4 +469,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,31.24,32.08,30.89,31.73,30.72,28.65,27.40,27.30,31.95,26.9784,1,29.3766,1,12400,20326,1.4366,1.0702,0.3664
 2026-10-29,32.17,32.63,31.56,31.93,31.16,28.91,27.44,27.30,31.90,27.5295,1,29.7575,1,13344,20379,1.4594,1.1480,0.3113
 2026-10-30,31.93,32.46,31.23,31.48,31.56,29.16,27.49,27.31,31.85,27.5295,1,30.1002,1,10297,20442,1.4246,1.2034,0.2213
-2026-11-02,31.70,31.70,29.76,30.37,31.63,29.36,27.51,27.32,31.80,27.5295,1,33.1850,0,9797,20473,1.2926,1.2212,0.0714
+2026-11-02,31.70,31.70,29.75,30.37,31.63,29.36,27.51,27.32,31.80,27.5295,1,33.1850,0,10059,20478,1.2926,1.2212,0.0714
+2026-11-03,30.80,32.48,30.14,32.25,31.61,29.65,27.56,27.33,31.76,27.5295,1,33.1163,0,15764,20626,1.3245,1.2419,0.0826
+2026-11-04,33.00,33.58,32.10,33.38,31.69,30.01,27.62,27.36,31.71,28.0229,1,29.7500,1,17882,20796,1.4245,1.2784,0.1461

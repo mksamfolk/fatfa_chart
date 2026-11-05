@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.17,CTRI,Centuri Holdings Inc.,Utilities,Utilities - Regulated Gas,United States,2169696000,21.49,1813380,2038575,43808976.75,0.329,-0.333,-0.243,0.077589996,0.028299998,0.0085,0.040289998,0.028210001,40458000,947209024,108.188,1.816,1.656,74092000,-10192750,100963053,95137485,0.00622,1.1063,7705850,3.36,0.08930001,65.12121,21.794247,0.6393102,2.4968047,0.908,12.716,28.16667,36.0,21.0,2.42857,buy,6,0,0,0,2,2026-11-05,1.012,https://centuri.com,2026-10-31T15:21:19.504631+00:00
+31.17,CTRI,Centuri Holdings Inc.,Utilities,Utilities - Regulated Gas,United States,2169696000,21.49,1813380,2038575,43808976.75,0.329,-0.333,-0.243,0.077589996,0.028299998,0.0085,0.040289998,0.028210001,40458000,947209024,108.188,1.816,1.656,74092000,-10192750,100963053,95137485,0.00622,1.1063,7705850,3.36,0.08930001,65.12121,21.794247,0.6393102,2.4968047,0.908,12.716,28.16667,36.0,21.0,2.42857,buy,6,0,0,0,2,2026-11-05,1.012,https://centuri.com,2026-10-31T15:21:19.504631+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,23.59,24.95,23.15,23.95,,,,,,,0,23.1470,1,41798,,,,
 2024-04-22,24.06,25.17,23.82,24.30,,,,,,,0,23.1470,1,20711,,,,
@@ -665,4 +665,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,21.01,21.19,20.49,20.98,20.02,20.36,20.38,26.75,27.44,21.4028,0,18.6414,1,44862,37968,-0.1239,-0.2219,0.0981
 2026-10-29,21.29,21.96,20.84,21.54,20.20,20.41,20.36,26.69,27.42,18.9350,1,18.7433,1,78673,38925,-0.0097,-0.1795,0.1698
 2026-10-30,20.97,21.65,20.89,21.49,20.38,20.44,20.35,26.64,27.39,18.9350,1,18.9363,1,26370,38788,0.0760,-0.1284,0.2044
-2026-11-02,21.85,22.11,21.27,21.28,20.45,20.47,20.35,26.60,27.36,19.2022,1,19.1178,1,18017,38748,0.1254,-0.0776,0.2030
+2026-11-02,21.85,22.12,21.27,21.28,20.45,20.47,20.35,26.60,27.36,19.2042,1,19.1178,1,29924,38986,0.1254,-0.0776,0.2030
+2026-11-03,21.60,22.01,21.56,21.98,20.65,20.51,20.37,26.55,27.33,19.3217,1,19.3579,1,32704,38961,0.2186,-0.0184,0.2370
+2026-11-04,21.59,21.91,19.62,20.54,20.72,20.50,20.37,26.48,27.30,19.3217,1,19.5789,1,72650,39901,0.1742,0.0201,0.1541

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.78,ARTV,Artiva Biotherapeutics Inc.,Healthcare,Biotechnology,United States,204849600,4.19,1795860,628910,2635132.9000000004,,,,0.0,0.0,0.0,-0.36581,-0.22338,349393984,9849000,2.834,24.16,24.061,-75232000,-44431500,48890121,19530137,0.15096,0.84302,2738041,5.0,0.1105,,-2.1118953,,0.5883179,,1.441,20.75,40.0,4.0,2.33333,buy,4,0,0,0,0,2026-11-12,2.413,https://www.artivabio.com,2026-10-31T14:15:55.081889+00:00
+17.50,ARTV,Artiva Biotherapeutics Inc.,Healthcare,Biotechnology,United States,204849600,4.19,1795860,628910,2635132.9000000004,,,,0.0,0.0,0.0,-0.36581,-0.22338,349393984,9849000,2.834,24.16,24.061,-75232000,-44431500,48890121,19530137,0.15096,0.84302,2738041,5.0,0.1105,,-2.1118953,,0.5883179,,1.441,20.75,40.0,4.0,2.33333,buy,4,0,0,0,0,2026-11-12,2.413,https://www.artivabio.com,2026-10-31T14:15:55.081889+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-19,16.00,16.00,12.00,12.00,,,,,,,0,16.0000,0,7582,,,,
 2024-07-22,12.00,12.26,11.71,11.77,,,,,,,0,16.0000,0,4032,,,,
@@ -588,4 +588,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.35,4.39,4.22,4.28,5.79,6.63,9.40,8.86,7.77,6.1411,0,6.2500,0,12323,4110,-1.2810,-1.1820,-0.0990
 2026-10-29,4.22,4.27,4.15,4.23,5.61,6.32,9.28,8.85,7.77,5.9006,0,5.8000,0,7992,4191,-1.3226,-1.2101,-0.1125
 2026-10-30,4.20,4.26,4.10,4.19,5.44,6.02,9.16,8.84,7.77,5.7482,0,5.4400,0,8238,4307,-1.3433,-1.2367,-0.1066
-2026-11-02,4.21,4.22,4.14,4.19,5.27,5.87,9.04,8.83,7.77,5.6163,0,5.1520,0,3796,4310,-1.3442,-1.2582,-0.0860
+2026-11-02,4.21,4.24,4.14,4.19,5.27,5.87,9.04,8.83,7.77,5.6313,0,5.1520,0,3931,4313,-1.3442,-1.2582,-0.0860
+2026-11-03,4.24,4.25,4.16,4.20,5.04,5.72,8.91,8.82,7.77,5.5282,0,4.9216,0,2618,4242,-1.3288,-1.2724,-0.0565
+2026-11-04,4.25,4.28,4.16,4.22,4.81,5.58,8.77,8.80,7.77,5.4491,0,4.7373,0,3182,4215,-1.3000,-1.2779,-0.0221

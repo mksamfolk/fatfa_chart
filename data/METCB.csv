@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-12-02 09:30:00-05:00,1.023\n2025-09-05 09:30:00-04:00,1.011\n2026-03-13 09:30:00-04:00,1.012\n2026-06-12 09:30:00-04:00,1.012\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.58,METCB,Ramaco Resources Inc.,Basic Materials,Coking Coal,United States,263011920,4.13,72980,83723,345775.99,-0.053,,,0.14288999,-0.12602,-0.119799994,-0.17069,-0.053439997,282535008,468417984,124.557,4.232,3.154,-42240000,-85515504,11808009,43742765,0.11298,0.595,216693,2.54,0.0304,,,0.5102915,0.69893384,0.871,-118.379,,,,,none,,,,,,,1.542,https://ramacoresources.com,2026-10-31T18:23:57.875385+00:00
+8.32,METCB,Ramaco Resources Inc.,Basic Materials,Coking Coal,United States,263011920,4.13,72980,83723,345775.99,-0.053,,,0.14288999,-0.12602,-0.119799994,-0.17069,-0.053439997,282535008,468417984,124.557,4.232,3.154,-42240000,-85515504,11808009,43742765,0.11298,0.595,216693,2.54,0.0304,,,0.5102915,0.69893384,0.871,-118.379,,,,,none,,,,,,,1.542,https://ramacoresources.com,2026-10-31T18:23:57.875385+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-16,11.05,11.05,8.04,8.04,,,,,,,0,11.0487,0,8,,,,
 2023-06-20,8.05,8.05,7.25,8.04,,,,,,,0,11.0487,0,14,,,,
@@ -862,3 +862,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,4.43,4.49,4.22,4.25,4.03,4.26,5.71,8.53,9.49,5.0485,0,3.6322,1,170,439,-0.5138,-0.6370,0.1232
 2026-10-30,4.20,4.42,4.05,4.13,4.04,4.17,5.66,8.48,9.46,5.0485,0,3.6725,1,192,437,-0.4852,-0.6066,0.1214
 2026-11-02,4.25,4.32,4.14,4.22,4.08,4.16,5.61,8.43,9.43,5.0485,0,3.7112,1,345,434,-0.4497,-0.5752,0.1255
+2026-11-03,4.24,4.27,4.03,4.12,4.12,4.14,5.56,8.38,9.39,5.0485,0,3.7484,1,218,429,-0.4252,-0.5452,0.1200
+2026-11-04,3.87,4.12,3.68,3.98,4.14,4.12,5.51,8.33,9.36,4.9858,0,4.6400,0,359,420,-0.4123,-0.5186,0.1064

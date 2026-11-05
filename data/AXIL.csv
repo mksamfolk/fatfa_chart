@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-46.22,AXIL,AXIL Brands Inc.,Technology,Consumer Electronics,United States,37661200,5.52,32400,26401,145733.52,-0.112,0.25,0.261,0.72192,0.07176,0.09264,0.23136,0.10837,7928587,352476,2.538,3.307,2.095,4492318,3612490,6822681,3455551,0.40283,0.15483,7799,0.51,0.0026,16.235294,,1.2519623,2.7421758,1.005,9.471,14.25,14.25,14.25,0.0,strong_buy,1,0,0,0,0,,0.022,https://goaxil.com,2026-10-31T14:24:34.113784+00:00
+39.98,AXIL,AXIL Brands Inc.,Technology,Consumer Electronics,United States,37661200,5.52,32400,26401,145733.52,-0.112,0.25,0.261,0.72192,0.07176,0.09264,0.23136,0.10837,7928587,352476,2.538,3.307,2.095,4492318,3612490,6822681,3455551,0.40283,0.15483,7799,0.51,0.0026,16.235294,,1.2519623,2.7421758,1.005,9.471,14.25,14.25,14.25,0.0,strong_buy,1,0,0,0,0,,0.022,https://goaxil.com,2026-10-31T14:24:34.113784+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-14,13.00,14.00,13.00,13.00,,,,,,,0,13.0000,1,17,,,,
 2024-02-15,13.26,13.56,13.25,13.50,,,,,,,0,13.0000,1,59,,,,
@@ -695,4 +695,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.50,5.60,5.33,5.46,5.61,5.75,5.96,6.34,6.49,6.8360,0,5.1894,1,35,179,-0.1438,-0.1298,-0.0140
 2026-10-29,5.40,5.48,5.28,5.37,5.59,5.72,5.95,6.34,6.48,6.6726,0,5.2084,1,101,180,-0.1556,-0.1350,-0.0206
 2026-10-30,5.48,5.75,5.34,5.52,5.60,5.68,5.94,6.33,6.47,6.6726,0,5.2270,1,364,186,-0.1510,-0.1382,-0.0128
-2026-11-02,5.52,6.20,5.52,5.90,5.62,5.67,5.94,6.33,6.46,6.6726,0,5.2453,1,397,194,-0.1154,-0.1336,0.0182
+2026-11-02,5.52,6.20,5.52,5.95,5.63,5.68,5.94,6.33,6.46,6.6726,0,5.2453,1,404,194,-0.1115,-0.1328,0.0214
+2026-11-03,6.10,6.10,5.76,5.76,5.64,5.66,5.94,6.33,6.45,6.6726,0,5.2835,1,59,194,-0.0943,-0.1251,0.0308
+2026-11-04,5.79,5.91,5.60,5.60,5.62,5.64,5.94,6.33,6.44,6.6726,0,5.3202,1,47,192,-0.0926,-0.1186,0.0260

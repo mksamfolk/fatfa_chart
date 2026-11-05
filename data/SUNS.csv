@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.19,SUNS,Sunrise Realty Trust Inc.,Real Estate,REIT - Mortgage,United States,89339776,6.61,74780,85514,565247.54,0.012,-0.093,-0.084,1.0,0.57847,0.58246,0.07108,0.044320002,5593575,141650000,77.895,2.047,2.042,-657038,,13515851,10087691,0.29346,0.24927999,273893,2.62,0.0287,6.957895,5.8366446,3.9985363,0.49134022,10.088,,10.25,13.5,6.5,,none,4,0,0,2,2,2026-11-10,1.196,https://sunriserealtytrust.com,2026-10-31T20:16:46.653453+00:00
+35.10,SUNS,Sunrise Realty Trust Inc.,Real Estate,REIT - Mortgage,United States,89339776,6.61,74780,85514,565247.54,0.012,-0.093,-0.084,1.0,0.57847,0.58246,0.07108,0.044320002,5593575,141650000,77.895,2.047,2.042,-657038,,13515851,10087691,0.29346,0.24927999,273893,2.62,0.0287,6.957895,5.8366446,3.9985363,0.49134022,10.088,,10.25,13.5,6.5,,none,4,0,0,2,2,2026-11-10,1.196,https://sunriserealtytrust.com,2026-10-31T20:16:46.653453+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-09,6.60,9.13,6.60,8.73,,,,,,,0,6.5957,1,403,,,,
 2024-07-10,6.83,10.10,6.44,8.97,,,,,,,0,10.0959,0,3279,,,,
@@ -597,3 +597,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,6.83,6.84,6.46,6.59,6.43,6.32,7.10,7.61,7.88,5.7346,1,6.1150,1,591,564,-0.1575,-0.2520,0.0945
 2026-10-30,6.59,6.69,6.55,6.61,6.45,6.29,7.07,7.59,7.86,5.7388,1,6.1591,1,371,562,-0.1353,-0.2287,0.0933
 2026-11-02,6.47,6.81,6.47,6.65,6.49,6.32,7.05,7.58,7.85,5.7449,1,6.2006,1,698,570,-0.1133,-0.2056,0.0923
+2026-11-03,6.64,6.76,6.61,6.72,6.52,6.36,7.03,7.57,7.84,5.8344,1,6.2395,1,375,566,-0.0891,-0.1823,0.0932
+2026-11-04,6.74,6.97,6.70,6.96,6.59,6.40,7.01,7.56,7.83,5.9885,1,6.2761,1,534,556,-0.0500,-0.1558,0.1058

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.31,ALF,Centurion Acquisition Corp.,Financial Services,Shell Companies,United States,132510456,10.92,200,215,2347.8,,-0.636,-0.686,0.0,0.0,0.0,,-0.0028,1853,0,,0.217,0.004,-421315,-121669,12134657,21562500,0.00247,0.67087,1066,4.16,0.0001,42.0,,,-27.928389,,,,,,,none,,,,,,,0.023,https://www.centurionacquisition.com,2026-10-31T14:02:15.148441+00:00
+52.81,ALF,Centurion Acquisition Corp.,Financial Services,Shell Companies,United States,132510456,10.92,200,215,2347.8,,-0.636,-0.686,0.0,0.0,0.0,,-0.0028,1853,0,,0.217,0.004,-421315,-121669,12134657,21562500,0.00247,0.67087,1066,4.16,0.0001,42.0,,,-27.928389,,,,,,,none,,,,,,,0.023,https://www.centurionacquisition.com,2026-10-31T14:02:15.148441+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-01,9.98,10.03,9.98,10.02,,,,,,,0,9.9800,1,19,,,,
 2024-08-02,10.00,10.00,10.00,10.00,,,,,,,0,9.9800,1,5004,,,,
@@ -580,3 +580,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.87,10.87,10.87,10.87,10.92,10.92,10.87,10.84,10.81,10.8878,0,10.9200,0,9,4,0.0062,0.0119,-0.0056
 2026-10-30,10.87,10.87,10.87,10.87,10.91,10.92,10.88,10.84,10.81,10.8861,0,10.9200,0,,2,0.0025,0.0100,-0.0075
 2026-11-02,10.84,10.84,10.83,10.83,10.90,10.91,10.88,10.84,10.81,10.8615,0,10.9190,0,37,2,-0.0036,0.0073,-0.0109
+2026-11-03,10.83,10.84,10.82,10.82,10.89,10.91,10.88,10.85,10.81,10.8598,0,10.9154,0,21,3,-0.0091,0.0040,-0.0131
+2026-11-04,10.82,10.85,10.82,10.85,10.88,10.90,10.88,10.85,10.81,10.8598,0,10.9097,0,7,3,-0.0110,0.0010,-0.0120

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.27,VZLA,Vizsla Silver Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,1086473984,3.06,4095460,4783604,14637828.24,,,,0.0,0.0,0.0,-0.13956,-0.04693,410935008,240366000,57.027,55.18,55.048,-13867000,-34998260,355056872,344753122,0.05608,0.65209997,35798098,8.42,0.1047,,,,2.5779274,,-21.141,6.230588,6.230588,6.230588,,none,1,,,,,2026-12-04,1.592,https://vizslasilvercorp.com,2026-10-31T20:58:24.822352+00:00
+33.28,VZLA,Vizsla Silver Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,1086473984,3.06,4095460,4783604,14637828.24,,,,0.0,0.0,0.0,-0.13956,-0.04693,410935008,240366000,57.027,55.18,55.048,-13867000,-34998260,355056872,344753122,0.05608,0.65209997,35798098,8.42,0.1047,,,,2.5779274,,-21.141,6.230588,6.230588,6.230588,,none,1,,,,,2026-12-04,1.592,https://vizslasilvercorp.com,2026-10-31T20:58:24.822352+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-21,2.39,2.39,2.11,2.28,,,,,,,0,2.3900,0,44,,,,
 2022-01-24,2.18,2.18,1.96,2.15,,,,,,,0,2.3900,0,301,,,,
@@ -1228,4 +1228,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.23,3.28,3.16,3.26,3.23,3.36,3.73,3.52,3.77,3.5923,0,3.2839,0,14604,17514,-0.1552,-0.1563,0.0011
 2026-10-29,3.16,3.33,3.12,3.29,3.22,3.33,3.72,3.52,3.76,3.5923,0,2.9300,1,10936,17322,-0.1424,-0.1535,0.0112
 2026-10-30,3.15,3.17,2.99,3.06,3.20,3.31,3.70,3.52,3.75,3.5923,0,2.9380,1,14133,17213,-0.1490,-0.1526,0.0036
-2026-11-02,3.16,3.21,3.05,3.07,3.19,3.28,3.68,3.52,3.73,3.5923,0,2.9459,1,7317,16429,-0.1517,-0.1524,0.0007
+2026-11-02,3.16,3.21,3.05,3.05,3.19,3.28,3.68,3.52,3.73,3.5923,0,2.9459,1,7474,16432,-0.1533,-0.1528,-0.0005
+2026-11-03,3.05,3.07,2.97,3.03,3.17,3.26,3.66,3.52,3.72,3.5557,0,2.9536,1,11110,16194,-0.1565,-0.1535,-0.0030
+2026-11-04,3.25,3.33,3.14,3.29,3.16,3.25,3.65,3.52,3.70,3.5557,0,2.9611,1,16658,16220,-0.1365,-0.1501,0.0136

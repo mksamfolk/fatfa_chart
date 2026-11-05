@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-07 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.18,SPPL,Simpple Ltd.,Industrials,Specialty Industrial Machinery,Singapore,22703948,2.32,27050,68387,158657.84,0.026,,,0.49597,-0.8878,-0.70839995,-1.42379,-0.26247,3158714,3932888,114.568,0.909,0.559,-1807519,-3741815,9786184,9493675,0.03059,0.03529,2518,0.12,0.00029999999,,,3.8429284,4.996922,3.974,-6.401,,,,,none,,,,,,,4.217,https://www.simpple.ai,2026-10-31T20:09:40.358220+00:00
+34.52,SPPL,Simpple Ltd.,Industrials,Specialty Industrial Machinery,Singapore,22703948,2.32,27050,68387,158657.84,0.026,,,0.49597,-0.8878,-0.70839995,-1.42379,-0.26247,3158714,3932888,114.568,0.909,0.559,-1807519,-3741815,9786184,9493675,0.03059,0.03529,2518,0.12,0.00029999999,,,3.8429284,4.996922,3.974,-6.401,,,,,none,,,,,,,4.217,https://www.simpple.ai,2026-10-31T20:09:40.358220+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-13,39.20,45.60,38.64,39.20,,,,,,,0,45.6000,0,11428,,,,
 2023-09-14,36.00,38.40,33.60,37.52,,,,,,,0,45.6000,0,1932,,,,
@@ -801,4 +801,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.90,2.10,1.90,2.06,1.92,1.91,2.20,2.62,2.80,2.2131,0,2.4599,0,61,173,-0.0531,-0.0975,0.0444
 2026-10-29,1.98,2.15,1.97,2.15,1.97,1.93,2.17,2.62,2.78,2.2131,0,2.4437,0,55,171,-0.0329,-0.0846,0.0517
 2026-10-30,2.08,2.32,2.01,2.32,2.01,1.95,2.15,2.62,2.77,1.5539,1,2.4278,0,25,172,-0.0031,-0.0683,0.0651
-2026-11-02,2.30,2.50,2.24,2.30,2.06,1.97,2.13,2.62,2.76,1.7420,1,1.6500,1,73,169,0.0187,-0.0509,0.0696
+2026-11-02,2.30,2.57,2.24,2.30,2.06,1.97,2.13,2.62,2.76,1.7560,1,1.6500,1,73,169,0.0188,-0.0509,0.0696
+2026-11-03,2.32,2.68,2.32,2.46,2.11,1.99,2.11,2.62,2.76,1.8035,1,1.6684,1,46,167,0.0481,-0.0311,0.0792
+2026-11-04,2.58,2.80,2.58,2.79,2.20,2.03,2.09,2.63,2.75,1.9555,1,1.7091,1,24,167,0.0971,-0.0054,0.1025

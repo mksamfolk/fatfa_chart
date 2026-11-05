@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-13 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.77,CCHH,CCH Holdings Ltd,Consumer Cyclical,Restaurants,Malaysia,3417818,0.8892,24230,108323,96320.8116,0.101,,,0.19291,-0.47877,-0.27997,-0.34955,-0.10005999,684724,4960173,54.292,2.108,0.927,-527838,-1756620,3843700,1788815,0.11188,0.0016,4331,0.1,0.00029999999,,,0.35640618,0.21375,0.65,-3.171,,,,,none,,,,,,,,https://www.chickenclaypothouse.com.my,2026-10-31T14:56:11.209653+00:00
+4.91,CCHH,CCH Holdings Ltd,Consumer Cyclical,Restaurants,Malaysia,3417818,0.8892,24230,108323,96320.8116,0.101,,,0.19291,-0.47877,-0.27997,-0.34955,-0.10005999,684724,4960173,54.292,2.108,0.927,-527838,-1756620,3843700,1788815,0.11188,0.0016,4331,0.1,0.00029999999,,,0.35640618,0.21375,0.65,-3.171,,,,,none,,,,,,,,https://www.chickenclaypothouse.com.my,2026-10-31T14:56:11.209653+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-03,53.20,82.50,40.80,44.40,,,,,,,0,82.5000,0,18685,,,,
 2025-10-06,41.70,41.70,36.80,37.20,,,,,,,0,82.5000,0,1641,,,,
@@ -285,4 +285,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.89,1.04,0.89,1.00,0.91,0.98,1.17,3.53,4.12,1.1727,0,0.8324,1,35,169,-0.1027,-0.1225,0.0198
 2026-10-29,0.95,1.00,0.94,0.96,0.91,0.96,1.16,3.46,4.10,1.1727,0,0.8407,1,41,160,-0.0934,-0.1167,0.0233
 2026-10-30,0.92,0.92,0.89,0.89,0.90,0.95,1.15,3.43,4.07,1.1727,0,0.8487,1,6,158,-0.0908,-0.1115,0.0207
-2026-11-02,0.91,0.91,0.86,0.86,0.90,0.94,1.14,3.39,4.05,1.1626,0,1.0400,0,3,155,-0.0900,-0.1072,0.0172
+2026-11-02,0.91,0.91,0.86,0.86,0.90,0.94,1.14,3.39,4.05,1.1626,0,1.0400,0,3,155,-0.0903,-0.1073,0.0169
+2026-11-03,0.90,0.90,0.85,0.85,0.90,0.93,1.13,3.35,4.03,1.1392,0,1.0363,0,12,154,-0.0894,-0.1037,0.0143
+2026-11-04,0.85,0.89,0.85,0.85,0.89,0.93,1.12,3.31,4.01,1.1203,0,1.0289,0,10,152,-0.0877,-0.1005,0.0128

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.29,PLGO,,Financial Services,Insurance - Diversified,Bermuda,2178237184,26.33,316060,454606,11969775.979999999,0.103,1.889,1.254,0.25193,0.10677,0.15943,0.17637,0.02407,699100032,720499968,32.448,1.098,0.649,631500032,460287488,82728333,44598844,0.12,0.81787,2790227,5.56,0.041199997,6.4692874,6.7261024,0.8666496,0.980962,0.875,,25.16667,29.0,21.5,,none,9,1,2,3,3,2026-11-11,0.294,https://www.pelagosinsurancecapital.com,2026-10-31T19:18:58.702107+00:00
+85.53,PLGO,,Financial Services,Insurance - Diversified,Bermuda,2178237184,26.33,316060,454606,11969775.979999999,0.103,1.889,1.254,0.25193,0.10677,0.15943,0.17637,0.02407,699100032,720499968,32.448,1.098,0.649,631500032,460287488,82728333,44598844,0.12,0.81787,2790227,5.56,0.041199997,6.4692874,6.7261024,0.8666496,0.980962,0.875,,25.16667,29.0,21.5,,none,9,1,2,3,3,2026-11-11,0.294,https://www.pelagosinsurancecapital.com,2026-10-31T19:18:58.702107+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-29,12.46,12.65,11.99,12.27,,,,,,,0,11.9879,1,72017,,,,
 2023-06-30,12.60,13.26,12.37,12.99,,,,,,,0,11.9879,1,28261,,,,
@@ -868,4 +868,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,25.70,25.75,25.49,25.63,25.57,24.96,24.57,23.30,22.19,24.4358,1,26.3920,0,10078,10449,0.4167,0.3185,0.0983
 2026-10-29,25.91,26.22,25.79,26.12,25.70,25.05,24.63,23.35,22.23,24.4516,1,26.3559,0,5540,10253,0.4409,0.3430,0.0979
 2026-10-30,26.54,26.56,26.24,26.33,25.80,25.15,24.68,23.40,22.27,24.8700,1,25.4900,1,5898,10113,0.4716,0.3687,0.1029
-2026-11-02,26.45,26.58,26.21,26.50,25.94,25.25,24.73,23.45,22.31,24.9080,1,25.5114,1,7421,10061,0.5038,0.3957,0.1081
+2026-11-02,26.45,26.58,26.20,26.50,25.94,25.25,24.73,23.45,22.31,24.9000,1,25.5114,1,7802,10069,0.5038,0.3957,0.1081
+2026-11-03,26.48,26.54,26.05,26.12,26.01,25.37,24.77,23.50,22.35,24.9000,1,25.5543,1,7852,10044,0.4930,0.4152,0.0778
+2026-11-04,27.02,27.49,26.72,27.42,26.19,25.55,24.83,23.55,22.40,25.3528,1,25.5956,1,17549,10262,0.5826,0.4487,0.1339

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.82,ONEG,OneConstruction Group Limited,Industrials,Engineering & Construction,Hong Kong,26080000,1.63,10970230,1745087,2844491.8099999996,-0.117,,,-0.14419,-0.59459996,-0.26766002,-2.1266901,-0.18205999,2023000,23434000,8280.565,2.535,2.535,1782000,6503750,16000000,7000000,0.5625,0.02675,14615,0.39,0.0021,,,0.52838445,90.55556,0.962,-3.777,,,,,none,,,,,,,,https://www.oneconstruction.com.hk,2026-10-31T19:02:01.102703+00:00
+21.05,ONEG,OneConstruction Group Limited,Industrials,Engineering & Construction,Hong Kong,26080000,1.63,10970230,1745087,2844491.8099999996,-0.117,,,-0.14419,-0.59459996,-0.26766002,-2.1266901,-0.18205999,2023000,23434000,8280.565,2.535,2.535,1782000,6503750,16000000,7000000,0.5625,0.02675,14615,0.39,0.0021,,,0.52838445,90.55556,0.962,-3.777,,,,,none,,,,,,,,https://www.oneconstruction.com.hk,2026-10-31T19:02:01.102703+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-31,4.00,4.05,3.00,3.00,,,,,,,0,4.0500,0,5251,,,,
 2025-01-02,3.20,3.45,3.00,3.45,,,,,,,0,4.0500,0,1153,,,,
@@ -473,5 +473,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.82,0.82,0.71,0.79,0.79,0.88,0.97,1.87,2.04,0.8642,0,0.6488,1,40,38,-0.0684,-0.0633,-0.0051
 2026-10-28,0.70,0.81,0.70,0.81,0.78,0.87,0.97,1.86,2.04,0.8642,0,0.6536,1,29,37,-0.0640,-0.0634,-0.0005
 2026-10-29,0.76,0.80,0.71,0.78,0.77,0.86,0.96,1.86,2.03,0.8642,0,0.6582,1,10,37,-0.0619,-0.0631,0.0012
-2026-10-30,0.86,1.79,0.86,1.63,0.85,0.89,0.97,1.85,2.04,0.8033,1,0.6628,1,177868,3594,0.0080,-0.0489,0.0569
-2026-11-02,1.43,1.90,1.35,1.62,0.94,0.92,0.98,1.85,2.04,0.9896,1,0.7079,1,7975,3753,0.0618,-0.0267,0.0886
+2026-10-30,0.86,1.79,0.86,1.63,0.85,0.89,0.97,1.85,2.04,0.8033,1,0.6628,1,178819,3613,0.0080,-0.0489,0.0569
+2026-11-02,1.43,1.90,1.35,1.62,0.94,0.92,0.98,1.85,2.04,0.9896,1,0.7079,1,8140,3775,0.0618,-0.0267,0.0886
+2026-11-03,1.65,1.75,1.45,1.52,1.02,0.95,0.99,1.85,2.04,0.9896,1,0.7794,1,7057,3916,0.0953,-0.0023,0.0977
+2026-11-04,1.56,1.64,1.40,1.40,1.09,0.98,1.00,1.85,2.04,0.9896,1,0.8466,1,457,3925,0.1109,0.0203,0.0906

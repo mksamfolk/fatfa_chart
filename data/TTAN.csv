@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-71.67,TTAN,ServiceTitan Inc.,Technology,Software - Application,United States,8128386048,84.26,1428760,2348312,197868769.12,0.209,,,0.71226996,-0.094110005,-0.12116,-0.08336,-0.046729997,479537984,47764000,2.975,4.545,4.188,140784992,176573504,84082058,66369917,0.07439,1.0658699,8374417,3.17,0.1722,,51.256783,7.634223,5.061877,7.229,-103.889,97.53333,110.0,76.0,,none,15,9,9,3,3,2026-12-03,,https://www.servicetitan.com,2026-10-31T20:37:32.980112+00:00
+79.75,TTAN,ServiceTitan Inc.,Technology,Software - Application,United States,8128386048,84.26,1428760,2348312,197868769.12,0.209,,,0.71226996,-0.094110005,-0.12116,-0.08336,-0.046729997,479537984,47764000,2.975,4.545,4.188,140784992,176573504,84082058,66369917,0.07439,1.0658699,8374417,3.17,0.1722,,51.256783,7.634223,5.061877,7.229,-103.889,97.53333,110.0,76.0,,none,15,9,9,3,3,2026-12-03,,https://www.servicetitan.com,2026-10-31T20:37:32.980112+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-12,101.00,105.00,100.05,101.00,,,,,,,0,105.0000,0,519231,,,,
 2024-12-13,98.99,102.54,94.02,100.00,,,,,,,0,105.0000,0,119860,,,,
@@ -501,4 +501,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,80.29,83.82,79.92,80.86,81.02,75.97,75.42,71.77,72.48,74.9146,1,87.6212,0,76583,179765,3.4993,2.5306,0.9687
 2026-10-29,79.43,81.07,76.56,80.73,81.49,76.64,75.13,71.89,72.38,74.9146,1,87.3132,0,102979,178766,3.3274,2.6900,0.6375
 2026-10-30,81.30,84.86,80.23,84.26,82.41,77.50,74.96,72.05,72.32,74.9146,1,86.6680,0,121899,179333,3.4365,2.8393,0.5972
-2026-11-02,84.61,85.78,82.79,82.91,82.88,78.04,74.73,72.20,72.28,74.9146,1,86.0615,0,83400,179170,3.3750,2.9464,0.4286
+2026-11-02,84.61,85.80,82.79,82.91,82.88,78.04,74.73,72.20,72.28,74.9146,1,86.0615,0,83399,179170,3.3750,2.9464,0.4286
+2026-11-03,81.64,84.28,80.00,83.17,83.13,78.77,74.48,72.33,72.24,74.9146,1,85.8000,0,78695,179621,3.3092,3.0190,0.2902
+2026-11-04,84.21,88.87,83.00,87.76,83.67,79.57,74.39,72.50,72.23,74.9146,1,76.5600,1,103232,179995,3.5860,3.1324,0.4536

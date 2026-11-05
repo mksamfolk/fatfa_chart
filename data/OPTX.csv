@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-47.77,OPTX,Syntec Optics Holdings Inc.,Technology,Electronic Components,United States,253360448,6.29,292660,340626,2142537.54,0.261,,,0.19584,0.03884,-0.08257,-0.1164,-0.026400002,14047104,4336683,14.23,5.972,4.292,702011,429482,40279878,10267744,0.74517995,0.11727,2163794,4.75,0.2336,,,8.664055,8.309114,8.332,258.239,,,,,none,,,,,,,-0.752,https://www.syntecoptics.com,2026-10-31T19:04:03.858337+00:00
+35.00,OPTX,Syntec Optics Holdings Inc.,Technology,Electronic Components,United States,253360448,6.29,292660,340626,2142537.54,0.261,,,0.19584,0.03884,-0.08257,-0.1164,-0.026400002,14047104,4336683,14.23,5.972,4.292,702011,429482,40279878,10267744,0.74517995,0.11727,2163794,4.75,0.2336,,,8.664055,8.309114,8.332,258.239,,,,,none,,,,,,,-0.752,https://www.syntecoptics.com,2026-10-31T19:04:03.858337+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-26,9.90,9.90,9.84,9.84,,,,,,,0,9.9000,0,54,,,,
 2022-01-27,9.84,9.84,9.84,9.84,,,,,,,0,9.9000,0,5,,,,
@@ -1210,4 +1210,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,7.10,7.33,6.88,7.24,6.84,7.50,7.76,8.70,7.82,8.4803,0,8.0639,0,1638,2429,-0.3367,-0.3204,-0.0163
 2026-10-29,7.18,7.38,7.00,7.30,6.88,7.51,7.79,8.70,7.85,8.4803,0,7.9252,0,1340,2395,-0.2950,-0.3153,0.0203
 2026-10-30,6.77,6.92,6.07,6.29,6.86,7.46,7.79,8.70,7.87,8.3973,0,7.7976,0,4290,2416,-0.3395,-0.3202,-0.0193
-2026-11-02,6.58,6.58,5.20,5.27,6.72,7.24,7.76,8.69,7.89,8.0163,0,7.6248,0,4332,2461,-0.4519,-0.3465,-0.1054
+2026-11-02,6.58,6.58,5.20,5.27,6.72,7.24,7.76,8.69,7.89,8.0163,0,7.6248,0,4793,2470,-0.4519,-0.3465,-0.1054
+2026-11-03,5.31,5.70,5.01,5.04,6.52,7.00,7.72,8.67,7.90,7.4752,0,7.3340,0,3142,2487,-0.5531,-0.3878,-0.1653
+2026-11-04,5.00,5.06,4.26,4.56,6.26,6.78,7.66,8.65,7.91,6.8082,0,7.0086,0,4275,2479,-0.6644,-0.4432,-0.2213

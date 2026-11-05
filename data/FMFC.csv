@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-13 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.67,FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,Cambodia,1664224,3.38,212900,84750,286455.0,0.204,,,0.19116,0.01437,0.0137600005,0.05592,0.01893,3652597,87632,1.089,2.61,1.785,-1884807,3615094,417374,208080,0.4179,0.01877,7520,0.13,0.0841,8.45,,0.09716356,0.19211096,-0.118,-3.87,,,,,none,,,,,,,,https://www.kandalmv.com,2026-10-31T16:07:14.130184+00:00
+99.71,FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,Cambodia,1664224,3.38,212900,84750,286455.0,0.204,,,0.19116,0.01437,0.0137600005,0.05592,0.01893,3652597,87632,1.089,2.61,1.785,-1884807,3615094,417374,208080,0.4179,0.01877,7520,0.13,0.0841,8.45,,0.09716356,0.19211096,-0.118,-3.87,,,,,none,,,,,,,,https://www.kandalmv.com,2026-10-31T16:07:14.130184+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-25,4.76,6.33,4.20,4.40,,,,,,,0,4.2000,1,17406,,,,
 2025-06-26,4.78,6.50,4.70,5.37,,,,,,,0,4.2000,1,8822,,,,
@@ -355,4 +355,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.62,3.89,3.55,3.66,4.42,3.55,1.57,0.77,0.67,6.0422,0,7.3878,0,135,2722,0.7854,0.9858,-0.2003
 2026-10-29,3.84,4.04,3.76,3.80,4.21,3.73,1.64,0.79,0.68,6.0422,0,7.3052,0,148,2725,0.7183,0.9323,-0.2140
 2026-10-30,3.66,3.73,3.30,3.38,3.97,3.89,1.71,0.81,0.70,5.6458,0,7.2243,0,66,2726,0.6240,0.8706,-0.2466
-2026-11-02,3.40,3.60,3.40,3.52,3.81,4.06,1.77,0.83,0.72,5.4855,0,7.1451,0,262,706,0.5542,0.8073,-0.2531
+2026-11-02,3.40,3.65,3.40,3.47,3.81,4.05,1.76,0.83,0.72,5.5247,0,7.1451,0,259,705,0.5502,0.8065,-0.2563
+2026-11-03,3.46,3.83,3.45,3.67,3.71,4.23,1.83,0.85,0.73,5.5247,0,7.0674,0,82,585,0.5021,0.7457,-0.2435
+2026-11-04,3.72,3.99,3.58,3.66,3.70,4.41,1.90,0.88,0.75,5.5247,0,6.9912,0,268,574,0.4579,0.6881,-0.2302

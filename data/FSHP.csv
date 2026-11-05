@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FSHP,Flag Ship Acquisition Corporation,Financial Services,Shell Companies,United States,39756340,11.3,610,2903,32803.9,,-0.408,-0.686,0.0,0.0,0.0,,,1300,2053701,,0.003,0.0,-429977,,3518260,1496809,0.60221,0.55252,405,0.23,0.0004,62.777775,,,-10.501859,,,,,,,none,,,,,,,0.02,,2026-10-31T16:11:40.733962+00:00
+58.11,FSHP,Flag Ship Acquisition Corporation,Financial Services,Shell Companies,United States,39756340,11.3,610,2903,32803.9,,-0.408,-0.686,0.0,0.0,0.0,,,1300,2053701,,0.003,0.0,-429977,,3518260,1496809,0.60221,0.55252,405,0.23,0.0004,62.777775,,,-10.501859,,,,,,,none,,,,,,,0.02,,2026-10-31T16:11:40.733962+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-15,10.02,10.02,9.99,9.99,,,,,,,0,9.9900,1,2327,,,,
 2024-08-16,10.00,10.00,10.00,10.00,,,,,,,0,9.9900,1,151,,,,
@@ -569,3 +569,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.31,11.31,11.31,11.31,11.28,11.30,11.28,11.11,11.03,11.4192,0,11.8628,0,1,33,-0.0001,-0.0006,0.0005
 2026-10-29,11.31,11.31,11.31,11.31,11.29,11.30,11.28,11.11,11.04,11.4083,0,11.8505,0,,33,0.0011,-0.0002,0.0013
 2026-10-30,11.31,11.31,11.31,11.31,11.30,11.29,11.28,11.12,11.04,11.3985,0,11.8385,0,,33,0.0020,0.0002,0.0018
+2026-11-02,11.31,11.31,11.31,11.31,11.30,11.29,11.28,11.12,11.04,11.3896,0,11.8268,0,,33,0.0027,0.0007,0.0020
+2026-11-03,11.34,11.34,11.34,11.34,11.31,11.29,11.29,11.12,11.05,11.3896,0,11.8152,0,2,33,0.0056,0.0017,0.0039
+2026-11-04,11.34,11.34,11.34,11.34,11.31,11.29,11.29,11.12,11.05,11.3896,0,11.8039,0,,33,0.0078,0.0029,0.0049

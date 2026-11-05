@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.10,BTSG,BrightSpring Health Services Inc.,Healthcare,Health Information Services,United States,13310080000,66.89,2437600,2467225,165032680.25,0.264,0.82,0.793,0.12498,0.03809,0.0269,0.15535,0.05467,717840000,2378981120,108.837,1.617,1.131,602739968,1079094272,198984612,145283564,0.031,1.07916,11473131,4.68,0.08930001,59.19469,29.355745,0.8727506,6.727346,0.982,21.433,78.94118,90.0,70.0,1.16667,strong_buy,17,1,1,0,0,2026-10-30,,https://www.brightspringhealth.com,2026-10-31T14:46:59.206134+00:00
+92.78,BTSG,BrightSpring Health Services Inc.,Healthcare,Health Information Services,United States,13310080000,66.89,2437600,2467225,165032680.25,0.264,0.82,0.793,0.12498,0.03809,0.0269,0.15535,0.05467,717840000,2378981120,108.837,1.617,1.131,602739968,1079094272,198984612,145283564,0.031,1.07916,11473131,4.68,0.08930001,59.19469,29.355745,0.8727506,6.727346,0.982,21.433,78.94118,90.0,70.0,1.16667,strong_buy,17,1,1,0,0,2026-10-30,,https://www.brightspringhealth.com,2026-10-31T14:46:59.206134+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-26,12.00,12.14,10.99,11.00,,,,,,,0,12.1400,0,273638,,,,
 2024-01-29,11.00,11.21,10.50,10.56,,,,,,,0,12.1400,0,61394,,,,
@@ -723,4 +723,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,58.36,59.54,58.33,59.46,60.70,61.52,59.77,59.15,54.43,58.1409,1,64.4475,0,111761,135334,-0.0724,0.3688,-0.4412
 2026-10-29,60.05,61.96,59.45,60.22,60.48,61.67,59.79,59.26,54.54,58.1409,1,64.0624,0,239898,136682,-0.0859,0.2779,-0.3638
 2026-10-30,65.29,71.12,64.21,66.89,61.09,62.00,59.94,59.43,54.68,59.4110,1,58.0300,1,396952,142443,0.4366,0.3096,0.1270
-2026-11-02,67.50,67.80,64.91,66.26,61.58,62.22,60.09,59.59,54.82,59.4110,1,58.2918,1,296138,146572,0.7908,0.4059,0.3849
+2026-11-02,67.50,67.88,64.91,66.26,61.58,62.22,60.09,59.59,54.82,59.4110,1,58.2918,1,310600,146861,0.7908,0.4059,0.3849
+2026-11-03,66.50,70.00,66.26,69.84,62.32,62.52,60.29,59.77,54.97,59.5204,1,58.5484,1,291484,150083,1.3448,0.5936,0.7511
+2026-11-04,70.55,70.84,67.91,69.80,63.07,62.82,60.54,59.96,55.13,60.7474,1,58.7998,1,215549,151416,1.7603,0.8270,0.9334

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.37,ABVX,ABIVAX Société Anonyme,Healthcare,Biotechnology,France,7580217344,86.59,859090,1094167,94743920.53,-0.068,,,1.0,-86.1793,0.0,-2.52349,-0.62882,402383008,1212000,0.331,5.965,5.792,-197020000,-125898128,87541485,65019783,0.0,0.72293997,7254941,5.08,0.083900005,,-22.578054,1623.8683,16.796062,1394.642,-22.33,163.58333,181.0,142.0,1.33333,strong_buy,12,1,0,3,3,2026-09-21,-0.232,https://www.abivax.com,2026-10-31T13:49:25.443620+00:00
+24.44,ABVX,ABIVAX Société Anonyme,Healthcare,Biotechnology,France,7580217344,86.59,859090,1094167,94743920.53,-0.068,,,1.0,-86.1793,0.0,-2.52349,-0.62882,402383008,1212000,0.331,5.965,5.792,-197020000,-125898128,87541485,65019783,0.0,0.72293997,7254941,5.08,0.083900005,,-22.578054,1623.8683,16.796062,1394.642,-22.33,163.58333,181.0,142.0,1.33333,strong_buy,12,1,0,3,3,2026-09-21,-0.232,https://www.abivax.com,2026-10-31T13:49:25.443620+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-20,11.60,11.60,8.00,8.30,,,,,,,0,11.6000,0,24839,,,,
 2023-10-23,8.14,8.16,7.99,8.10,,,,,,,0,11.6000,0,6299,,,,
@@ -789,4 +789,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,87.91,90.98,87.03,89.84,89.57,89.45,101.40,112.97,114.44,97.3731,0,95.2248,0,47993,119382,-3.4812,-4.2809,0.7998
 2026-10-29,89.85,92.09,88.39,89.06,89.23,89.15,100.77,112.83,114.29,97.3731,0,94.6797,0,53009,118906,-3.2524,-4.0752,0.8228
 2026-10-30,87.66,88.90,85.81,86.59,89.08,88.83,100.14,112.73,114.10,97.3731,0,94.1673,0,72952,117544,-3.2332,-3.9068,0.6736
-2026-11-02,87.32,87.50,83.63,84.91,88.82,88.49,99.53,112.62,113.94,97.3478,0,93.4987,0,61969,116514,-3.3153,-3.7885,0.4732
+2026-11-02,87.32,87.50,83.55,84.91,88.82,88.49,99.53,112.62,113.94,97.3318,0,93.4987,0,62010,116514,-3.3153,-3.7885,0.4732
+2026-11-03,85.37,90.12,85.26,88.71,88.43,88.51,98.99,112.46,113.80,97.3318,0,92.5038,0,51913,114556,-3.0387,-3.6386,0.5999
+2026-11-04,90.39,90.87,87.79,89.49,88.03,88.64,98.42,112.29,113.65,97.3318,0,91.6085,0,50839,113559,-2.7251,-3.4559,0.7307

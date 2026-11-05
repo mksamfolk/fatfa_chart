@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-04 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.13,WXM,WF International Limited,Industrials,Industrial Distribution,China,8292781,2.66,16090,724415,1926943.9000000001,-0.734,,,0.14276,-1.04072,-0.77414,-1.09734,-0.23643999,4699793,3545671,60.176,1.306,1.005,-1413972,418699,3117587,524633,0.17528999,0.0,6963,0.38,0.0027,,,1.1883656,0.46268916,0.225,-0.321,,,,,none,,,,,,,,https://wf.international,2026-10-31T21:07:27.241482+00:00
+9.73,WXM,WF International Limited,Industrials,Industrial Distribution,China,8292781,2.66,16090,724415,1926943.9000000001,-0.734,,,0.14276,-1.04072,-0.77414,-1.09734,-0.23643999,4699793,3545671,60.176,1.306,1.005,-1413972,418699,3117587,524633,0.17528999,0.0,6963,0.38,0.0027,,,1.1883656,0.46268916,0.225,-0.321,,,,,none,,,,,,,,https://wf.international,2026-10-31T21:07:27.241482+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-01,41.50,79.90,40.00,42.90,,,,,,,0,79.9000,0,21411,,,,
 2025-04-02,38.60,42.00,22.76,28.60,,,,,,,0,79.9000,0,5765,,,,
@@ -414,3 +414,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.96,3.00,2.86,2.97,3.04,3.26,3.95,4.33,4.50,4.2469,0,3.2624,0,28,7013,-0.2845,-0.2896,0.0051
 2026-10-30,2.81,3.00,2.11,2.66,2.99,3.19,3.94,4.32,4.48,4.0078,0,3.1363,0,90,7014,-0.3011,-0.2919,-0.0092
 2026-11-02,2.63,2.63,2.01,2.40,2.93,3.14,3.92,4.30,4.47,3.8223,0,3.0000,0,60,7015,-0.3315,-0.2998,-0.0317
+2026-11-03,2.32,2.40,1.73,2.00,2.83,3.06,3.90,4.28,4.45,3.6195,0,2.9990,0,39,7015,-0.3834,-0.3165,-0.0669
+2026-11-04,2.00,3.41,1.63,2.08,2.73,2.98,3.87,4.26,4.44,3.6195,0,1.7300,1,1775,7050,-0.4134,-0.3359,-0.0775

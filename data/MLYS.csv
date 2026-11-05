@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.42,MLYS,Mineralys Therapeutics Inc.,Healthcare,Biotechnology,United States,1602721152,18.18,1643710,1276162,23200625.16,,,,0.0,0.0,0.0,-0.80877,-0.46183997,661411968,97617000,17.719,34.464,34.236,-138787008,-203456368,88158479,66596022,0.0073,1.20142,7438452,4.98,0.1007,,-7.4002614,,2.9153304,,-2.814,46.33333,56.0,29.0,1.36364,strong_buy,9,4,4,2,2,2026-11-04,0.69,https://mineralystx.com,2026-10-31T18:28:42.345632+00:00
+15.31,MLYS,Mineralys Therapeutics Inc.,Healthcare,Biotechnology,United States,1602721152,18.18,1643710,1276162,23200625.16,,,,0.0,0.0,0.0,-0.80877,-0.46183997,661411968,97617000,17.719,34.464,34.236,-138787008,-203456368,88158479,66596022,0.0073,1.20142,7438452,4.98,0.1007,,-7.4002614,,2.9153304,,-2.814,46.33333,56.0,29.0,1.36364,strong_buy,9,4,4,2,2,2026-11-04,0.69,https://mineralystx.com,2026-10-31T18:28:42.345632+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-10,21.10,21.98,18.44,18.44,,,,,,,0,21.9800,0,49926,,,,
 2023-02-13,18.25,18.98,17.58,18.54,,,,,,,0,21.9800,0,7045,,,,
@@ -963,4 +963,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,21.13,22.15,20.92,21.38,21.06,21.75,25.04,26.51,27.13,24.0414,0,20.1800,1,32998,33299,-1.2380,-1.3807,0.1427
 2026-10-29,21.64,22.48,21.10,21.24,21.02,21.63,24.93,26.49,27.07,24.0414,0,20.1800,1,44120,33523,-1.1600,-1.3366,0.1766
 2026-10-30,20.99,20.99,18.11,18.18,20.81,21.36,24.78,26.46,26.99,23.7258,0,22.4800,0,72322,34565,-1.3298,-1.3352,0.0054
-2026-11-02,18.27,18.28,15.42,15.55,20.27,20.97,24.57,26.40,26.91,21.4702,0,22.4800,0,71154,35629,-1.6575,-1.3997,-0.2578
+2026-11-02,18.27,18.28,15.42,15.55,20.27,20.97,24.57,26.40,26.91,21.4702,0,22.4800,0,71359,35633,-1.6575,-1.3997,-0.2578
+2026-11-03,15.69,16.25,15.33,15.99,19.71,20.67,24.39,26.33,26.83,20.2219,0,22.1976,0,41640,36167,-1.8602,-1.4918,-0.3684
+2026-11-04,16.41,17.02,15.53,17.00,19.30,20.42,24.20,26.27,26.75,20.2219,0,21.7855,0,32711,36366,-1.9173,-1.5769,-0.3404

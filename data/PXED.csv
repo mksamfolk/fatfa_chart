@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.42,PXED,Phoenix Education Partners Inc.,Consumer Defensive,Education & Training Services,United States,862613696,23.93,91120,94776,2267989.68,0.0,-0.289,-0.273,0.56496,0.22794001,0.08178,0.25325,0.16928,230071008,65701000,20.127,1.915,1.733,152282000,177226128,36047376,5822012,0.023699999,0.99919,749804,8.13,0.1571,10.314655,5.1860633,0.8509724,2.6574125,0.691,4.083,39.875,49.0,33.0,1.75,buy,8,0,0,4,4,2026-11-03,,https://www.phoenixeducationpartners.com,2026-10-31T19:29:10.707493+00:00
+23.06,PXED,Phoenix Education Partners Inc.,Consumer Defensive,Education & Training Services,United States,862613696,23.93,91120,94776,2267989.68,0.0,-0.289,-0.273,0.56496,0.22794001,0.08178,0.25325,0.16928,230071008,65701000,20.127,1.915,1.733,152282000,177226128,36047376,5822012,0.023699999,0.99919,749804,8.13,0.1571,10.314655,5.1860633,0.8509724,2.6574125,0.691,4.083,39.875,49.0,33.0,1.75,buy,8,0,0,4,4,2026-11-03,,https://www.phoenixeducationpartners.com,2026-10-31T19:29:10.707493+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-09,37.19,46.08,36.21,37.34,,,,,,,0,46.0787,0,135722,,,,
 2025-10-10,36.50,37.38,35.28,35.33,,,,,,,0,46.0787,0,14981,,,,
@@ -281,4 +281,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,24.57,25.18,24.12,24.31,24.17,24.76,27.00,28.88,29.14,26.6684,0,23.5900,1,1935,2671,-0.8797,-1.0292,0.1494
 2026-10-29,24.39,24.97,24.30,24.87,24.26,24.67,26.90,28.84,29.10,26.6684,0,23.6568,1,3226,2672,-0.7899,-0.9813,0.1914
 2026-10-30,24.76,24.85,23.60,23.93,24.29,24.52,26.78,28.80,29.06,26.6684,0,25.2600,0,2515,2671,-0.7856,-0.9422,0.1566
-2026-11-02,24.25,24.89,23.41,23.91,24.31,24.49,26.69,28.77,29.02,26.6684,0,25.2268,0,1790,2619,-0.7748,-0.9087,0.1339
+2026-11-02,24.25,24.89,23.41,23.91,24.31,24.49,26.69,28.77,29.02,26.6684,0,25.2268,0,1791,2619,-0.7748,-0.9087,0.1339
+2026-11-03,23.89,24.00,23.15,23.39,24.27,24.40,26.59,28.74,28.97,26.6366,0,25.1541,0,2557,2585,-0.7990,-0.8867,0.0878
+2026-11-04,22.10,22.91,21.25,21.66,24.07,24.20,26.43,28.69,28.93,25.4770,0,25.0336,0,6890,2485,-0.9469,-0.8988,-0.0481

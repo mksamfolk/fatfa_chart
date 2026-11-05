@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2022-12-21 09:30:00-05:00,0.1\n2022-12-22 09:30:00-05:00,0.1\n2023-06-08 09:30:00-04:00,0.05\n2025-08-25 09:30:00-04:00,0.04\n2026-03-30 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.37,SVRN,OceanPal Inc.,Financial Services,Asset Management,United States,55280296,29.47,90380,129407,3813624.29,-0.374,,,0.27612,-2.8692498,0.0,-0.54115003,-0.13728,33200000,0,,13.348,4.146,,,1875816,605376,0.28449,0.02842,60152,0.27,0.0323,,,4.1253953,0.14209874,-0.817,0.494,,,,,none,,,,,,,0.95,https://svrn.net,2026-10-31T20:18:03.711510+00:00
+94.15,SVRN,OceanPal Inc.,Financial Services,Asset Management,United States,55280296,29.47,90380,129407,3813624.29,-0.374,,,0.27612,-2.8692498,0.0,-0.54115003,-0.13728,33200000,0,,13.348,4.146,,,1875816,605376,0.28449,0.02842,60152,0.27,0.0323,,,4.1253953,0.14209874,-0.817,0.494,,,,,none,,,,,,,0.95,https://svrn.net,2026-10-31T20:18:03.711510+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-30,3205001.85,10884402.34,3205001.85,4699469.00,,,,,,,0,3205001.8467,1,26100,,,,
 2021-12-01,9200876.91,9678026.11,5527728.40,5887841.00,,,,,,,0,3205001.8467,1,294300,,,,
@@ -1249,4 +1249,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,30.87,31.00,27.08,30.54,33.00,34.78,18.59,11.91,13.38,46.0354,0,38.5056,0,1985,1756,3.7790,5.3979,-1.6190
 2026-10-29,28.97,32.06,28.97,31.13,31.94,35.82,19.09,12.04,13.42,46.0354,0,37.2652,0,1395,1783,3.3769,4.9937,-1.6168
 2026-10-30,29.79,30.11,27.95,29.47,31.38,36.69,19.55,12.17,13.47,46.0318,0,36.1240,0,2679,1835,2.8910,4.5732,-1.6822
-2026-11-02,18.10,18.90,14.15,17.78,30.51,35.18,19.78,12.22,13.45,36.4226,0,35.0740,0,4479,1923,1.5448,3.9675,-2.4227
+2026-11-02,18.10,18.90,14.15,17.78,30.51,35.18,19.78,12.22,13.45,36.4226,0,35.0740,0,4530,1924,1.5448,3.9675,-2.4227
+2026-11-03,17.01,20.96,17.01,18.31,29.74,33.91,20.02,12.28,13.44,36.4226,0,32.9816,0,1738,1957,0.5148,3.2770,-2.7622
+2026-11-04,16.24,18.62,16.01,17.79,27.84,32.56,20.25,12.35,13.43,35.2784,0,31.0985,0,1194,1976,-0.3396,2.5537,-2.8932

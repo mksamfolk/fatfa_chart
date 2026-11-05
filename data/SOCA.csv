@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SOCA,Solarius Capital Acquisition Corp.,Financial Services,Shell Companies,United States,243176496,10.37,7780,17665,183186.05,,,,0.0,0.0,0.0,,,1019450,0,,5.056,4.774,-449412,,17700000,17250055,0.0,0.87806,1246,0.05,0.0001,,,,-36.385963,,,,,,,none,,,,,,,,https://www.solarius-capital.com,2026-10-31T20:07:06.381272+00:00
+55.50,SOCA,Solarius Capital Acquisition Corp.,Financial Services,Shell Companies,United States,243176496,10.37,7780,17665,183186.05,,,,0.0,0.0,0.0,,,1019450,0,,5.056,4.774,-449412,,17700000,17250055,0.0,0.87806,1246,0.05,0.0001,,,,-36.385963,,,,,,,none,,,,,,,,https://www.solarius-capital.com,2026-10-31T20:07:06.381272+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-05,9.96,10.00,9.96,9.96,,,,,,,0,10.0000,0,4997,,,,
 2025-09-08,9.96,9.96,9.94,9.94,,,,,,,0,10.0000,0,14,,,,
@@ -305,3 +305,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.44,10.44,10.44,10.44,10.39,10.38,10.35,10.26,10.22,10.3905,1,10.3700,1,5,180,0.0159,0.0151,0.0008
 2026-10-29,10.37,10.37,10.37,10.37,10.39,10.38,10.35,10.26,10.22,10.4356,0,10.4400,0,2,180,0.0129,0.0147,-0.0018
 2026-10-30,10.37,10.37,10.37,10.37,10.39,10.39,10.35,10.26,10.22,10.4290,0,10.4400,0,,180,0.0104,0.0138,-0.0034
+2026-11-02,10.37,10.37,10.37,10.37,10.39,10.39,10.35,10.26,10.22,10.4231,0,10.4386,0,,180,0.0083,0.0127,-0.0044
+2026-11-03,10.38,10.38,10.38,10.38,10.39,10.39,10.36,10.27,10.23,10.4231,0,10.4372,0,2,180,0.0074,0.0117,-0.0042
+2026-11-04,10.38,10.39,10.38,10.39,10.39,10.39,10.36,10.27,10.23,10.4231,0,10.4359,0,45,181,0.0074,0.0108,-0.0034

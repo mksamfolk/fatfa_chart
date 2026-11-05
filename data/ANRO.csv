@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-72.90,ANRO,,Healthcare,Biotechnology,United States,886871552,22.6,529760,563525,12735665.0,,,,0.0,0.0,0.0,-0.49167,-0.26786,243732992,23294000,10.624,14.852,14.637,-68285000,-42895752,39242104,29594433,0.04211,0.88681,5204407,7.5,0.1554,,-7.09418,,3.6177363,,-7.609,38.66667,60.0,26.0,1.18182,strong_buy,9,3,3,0,0,2026-11-11,1.338,https://www.altoneuroscience.com,2026-10-31T14:10:03.184685+00:00
+66.32,ANRO,,Healthcare,Biotechnology,United States,886871552,22.6,529760,563525,12735665.0,,,,0.0,0.0,0.0,-0.49167,-0.26786,243732992,23294000,10.624,14.852,14.637,-68285000,-42895752,39242104,29594433,0.04211,0.88681,5204407,7.5,0.1554,,-7.09418,,3.6177363,,-7.609,38.66667,60.0,26.0,1.18182,strong_buy,9,3,3,0,0,2026-11-11,1.338,https://www.altoneuroscience.com,2026-10-31T14:10:03.184685+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-02,22.00,23.27,20.00,20.70,,,,,,,0,20.0000,1,49401,,,,
 2024-02-05,21.49,24.00,20.28,21.80,,,,,,,0,20.0000,1,11672,,,,
@@ -718,4 +718,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.86,23.47,22.34,23.33,22.79,23.28,28.74,26.03,24.19,26.4793,0,24.8006,0,7004,16264,-1.4574,-1.7648,0.3074
 2026-10-29,23.46,24.15,22.92,23.47,22.88,23.19,28.51,26.05,24.23,26.4793,0,24.7336,0,9125,16213,-1.3201,-1.6758,0.3558
 2026-10-30,23.21,23.21,21.90,22.60,22.94,23.08,28.27,26.07,24.26,26.4793,0,24.6680,0,10947,16217,-1.2668,-1.5940,0.3272
-2026-11-02,22.80,23.18,21.50,22.17,22.88,22.99,28.03,26.08,24.28,26.4793,0,24.6036,0,9073,16198,-1.2450,-1.5242,0.2792
+2026-11-02,22.80,23.18,21.50,22.19,22.88,22.99,28.03,26.08,24.28,26.4793,0,24.6036,0,10503,16227,-1.2434,-1.5239,0.2805
+2026-11-03,22.71,23.16,22.40,22.70,22.71,22.94,27.76,26.08,24.31,26.4793,0,24.5405,0,11468,15827,-1.1702,-1.4532,0.2830
+2026-11-04,23.65,23.65,22.33,23.30,22.71,22.93,27.50,26.08,24.34,26.4793,0,24.4787,0,10466,15692,-1.0516,-1.3728,0.3212

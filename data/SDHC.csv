@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.53,SDHC,Smith Douglas Homes Corp.,Real Estate,Real Estate - Development,United States,85939032,10.24,37290,47096,482263.04000000004,0.219,-0.887,-0.896,0.1887,0.022,0.00644,0.09222999,0.04858,14200000,68714000,15.871,6.803,0.28,37360000,35581124,8392484,6436783,0.047270004,0.79543,1026297,23.37,0.2522,14.222221,27.675674,0.08577263,1.0807387,0.493,10.2,10.0,10.0,10.0,,none,3,1,1,0,0,2026-11-04,0.901,https://www.smithdouglas.com,2026-10-31T19:53:26.966243+00:00
+16.99,SDHC,Smith Douglas Homes Corp.,Real Estate,Real Estate - Development,United States,85939032,10.24,37290,47096,482263.04000000004,0.219,-0.887,-0.896,0.1887,0.022,0.00644,0.09222999,0.04858,14200000,68714000,15.871,6.803,0.28,37360000,35581124,8392484,6436783,0.047270004,0.79543,1026297,23.37,0.2522,14.222221,27.675674,0.08577263,1.0807387,0.493,10.2,10.0,10.0,10.0,,none,3,1,1,0,0,2026-11-04,0.901,https://www.smithdouglas.com,2026-10-31T19:53:26.966243+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-11,23.50,24.50,23.26,24.00,,,,,,,0,23.2600,1,100889,,,,
 2024-01-12,24.39,25.14,23.93,23.93,,,,,,,0,23.2600,1,16997,,,,
@@ -718,4 +718,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.18,10.35,10.07,10.32,10.25,10.18,11.96,13.02,14.29,11.5116,0,10.0063,1,295,559,-0.4176,-0.5756,0.1580
 2026-10-29,10.17,10.59,10.17,10.52,10.25,10.18,11.87,12.99,14.24,11.5116,0,10.0512,1,612,557,-0.3669,-0.5338,0.1669
 2026-10-30,10.54,10.54,10.06,10.24,10.24,10.17,11.77,12.97,14.20,11.5116,0,10.7550,0,447,556,-0.3453,-0.4961,0.1508
-2026-11-02,10.34,10.55,9.90,10.43,10.28,10.18,11.69,12.94,14.16,11.5116,0,10.7411,0,470,553,-0.3093,-0.4588,0.1495
+2026-11-02,10.34,10.55,9.90,10.43,10.28,10.18,11.69,12.94,14.16,11.5116,0,10.7411,0,469,553,-0.3093,-0.4588,0.1495
+2026-11-03,10.26,10.53,10.15,10.20,10.30,10.18,11.59,12.92,14.12,11.5116,0,10.7075,0,397,549,-0.2959,-0.4262,0.1303
+2026-11-04,10.25,10.25,9.61,9.70,10.27,10.18,11.48,12.91,14.08,11.3485,0,10.6752,0,783,555,-0.3219,-0.4053,0.0834

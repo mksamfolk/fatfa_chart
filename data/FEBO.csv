@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.85,FEBO,Fenbo Holdings Limited,Technology,Consumer Electronics,Hong Kong,7191731,0.6501,2920,64689,42054.3189,0.058,,,0.10981,-0.10717,-0.13509,-0.32259,-0.0971,16413000,16631000,53.526,1.586,1.258,-9450000,-5582750,3062500,3062543,0.0,0.012460001,112356,0.66,0.0367,,,0.08219309,1.8160143,0.085,-0.63,,,,,none,,,,,,,-1.632,https://www.fenbo.com,2026-10-31T16:00:42.758991+00:00
+34.74,FEBO,Fenbo Holdings Limited,Technology,Consumer Electronics,Hong Kong,7191731,0.6501,2920,64689,42054.3189,0.058,,,0.10981,-0.10717,-0.13509,-0.32259,-0.0971,16413000,16631000,53.526,1.586,1.258,-9450000,-5582750,3062500,3062543,0.0,0.012460001,112356,0.66,0.0367,,,0.08219309,1.8160143,0.085,-0.63,,,,,none,,,,,,,-1.632,https://www.fenbo.com,2026-10-31T16:00:42.758991+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-30,4.99,5.97,4.19,4.44,,,,,,,0,4.1900,1,4586,,,,
 2023-12-01,5.06,5.45,4.44,5.01,,,,,,,0,4.1900,1,8397,,,,
@@ -747,3 +747,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,0.65,0.65,0.65,0.65,0.70,0.72,0.75,0.93,0.99,0.8151,0,0.6333,1,1,6,-0.0176,-0.0132,-0.0044
 2026-10-30,0.66,0.66,0.65,0.65,0.69,0.72,0.74,0.93,0.98,0.8151,0,0.6366,1,3,5,-0.0205,-0.0146,-0.0058
 2026-11-02,0.77,0.80,0.65,0.78,0.70,0.72,0.74,0.92,0.98,0.8151,0,0.6398,1,15,6,-0.0122,-0.0141,0.0020
+2026-11-03,0.65,0.77,0.65,0.77,0.71,0.72,0.74,0.92,0.98,0.8151,0,0.6462,1,4,6,-0.0063,-0.0126,0.0063
+2026-11-04,0.77,0.77,0.77,0.77,0.71,0.72,0.74,0.92,0.97,0.8151,0,0.6500,1,,5,-0.0017,-0.0104,0.0087

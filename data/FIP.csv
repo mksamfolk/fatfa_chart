@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.48,FIP,FTAI Infrastructure Inc.,Industrials,Conglomerates,United States,337999744,2.86,1371110,1456517,4165638.6199999996,0.527,,,0.39953,0.12086,-0.83348,-0.84490997,0.00775,32628000,2892676096,453.169,0.276,0.104,-57476000,564764032,118181737,108685834,0.08282,0.89899004,19302688,13.0,0.2681,,-2.1666665,0.51273847,-1.0250896,6.32,18.38,9.4375,10.0,8.75,1.25,strong_buy,4,0,0,1,1,2026-11-05,1.931,https://www.fipinc.com,2026-10-31T16:04:01.242684+00:00
+14.93,FIP,FTAI Infrastructure Inc.,Industrials,Conglomerates,United States,337999744,2.86,1371110,1456517,4165638.6199999996,0.527,,,0.39953,0.12086,-0.83348,-0.84490997,0.00775,32628000,2892676096,453.169,0.276,0.104,-57476000,564764032,118181737,108685834,0.08282,0.89899004,19302688,13.0,0.2681,,-2.1666665,0.51273847,-1.0250896,6.32,18.38,9.4375,10.0,8.75,1.25,strong_buy,4,0,0,1,1,2026-11-05,1.931,https://www.fipinc.com,2026-10-31T16:04:01.242684+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-20,2.25,2.69,2.23,2.69,,,,,,,0,2.2322,1,168,,,,
 2022-07-21,2.77,3.81,2.64,3.35,,,,,,,0,2.2322,1,495,,,,
@@ -1090,4 +1090,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.65,2.83,2.60,2.81,2.51,2.63,3.33,4.33,4.63,2.9040,0,2.2894,1,2892,4615,-0.2223,-0.2973,0.0750
 2026-10-29,2.83,2.92,2.76,2.87,2.54,2.61,3.31,4.31,4.62,2.9040,0,2.3322,1,4300,4587,-0.1847,-0.2748,0.0901
 2026-10-30,2.84,2.88,2.75,2.86,2.58,2.58,3.29,4.30,4.61,2.9040,0,2.3910,1,4513,4595,-0.1539,-0.2506,0.0967
-2026-11-02,2.90,2.99,2.67,2.84,2.63,2.59,3.27,4.28,4.60,2.9040,0,2.4439,1,5173,4620,-0.1297,-0.2264,0.0968
+2026-11-02,2.90,2.99,2.67,2.84,2.63,2.59,3.27,4.28,4.60,2.9040,0,2.4439,1,5484,4627,-0.1297,-0.2264,0.0968
+2026-11-03,2.85,2.88,2.61,2.67,2.67,2.59,3.26,4.26,4.59,2.9040,0,2.5094,1,4968,4474,-0.1227,-0.2057,0.0830
+2026-11-04,2.72,2.86,2.71,2.75,2.70,2.58,3.25,4.24,4.58,2.9040,0,2.5671,1,3028,4138,-0.1095,-0.1864,0.0769

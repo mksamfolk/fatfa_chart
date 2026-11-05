@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.88,SHIM,Shimmick Corporation,Industrials,Engineering & Construction,United States,103752920,2.51,66330,131917,331111.67,-0.17,,,0.100959994,-0.03506,-0.038110003,,-0.033570003,16875000,88969000,,1.001,0.923,-47754000,-60416500,41335823,10745661,0.75708,0.18995,358152,2.52,0.0304,,6.693333,0.2374312,-2.0624487,0.402,294.058,7.0,7.0,7.0,,none,2,0,0,1,1,2026-11-12,0.86,https://www.shimmick.com,2026-10-31T19:57:38.906126+00:00
+22.15,SHIM,Shimmick Corporation,Industrials,Engineering & Construction,United States,103752920,2.51,66330,131917,331111.67,-0.17,,,0.100959994,-0.03506,-0.038110003,,-0.033570003,16875000,88969000,,1.001,0.923,-47754000,-60416500,41335823,10745661,0.75708,0.18995,358152,2.52,0.0304,,6.693333,0.2374312,-2.0624487,0.402,294.058,7.0,7.0,7.0,,none,2,0,0,1,1,2026-11-12,0.86,https://www.shimmick.com,2026-10-31T19:57:38.906126+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-14,7.00,7.05,6.07,6.40,,,,,,,0,7.0500,0,5924,,,,
 2023-11-15,6.00,6.75,5.87,6.55,,,,,,,0,7.0500,0,3128,,,,
@@ -758,3 +758,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.65,2.74,2.48,2.57,2.39,2.67,3.38,3.84,3.79,2.8368,0,2.1956,1,179,427,-0.2854,-0.3226,0.0372
 2026-10-30,2.60,2.60,2.51,2.51,2.40,2.63,3.35,3.84,3.78,2.8368,0,2.2282,1,94,423,-0.2660,-0.3113,0.0453
 2026-11-02,2.57,2.64,2.48,2.51,2.42,2.60,3.33,3.83,3.78,2.8368,0,2.2590,1,134,423,-0.2478,-0.2986,0.0508
+2026-11-03,2.54,2.62,2.50,2.56,2.44,2.56,3.30,3.83,3.78,2.8368,0,2.2878,1,118,419,-0.2267,-0.2842,0.0575
+2026-11-04,2.64,2.64,2.39,2.39,2.45,2.53,3.26,3.82,3.78,2.8368,0,2.3149,1,116,416,-0.2212,-0.2716,0.0504

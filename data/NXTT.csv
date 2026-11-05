@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-09-16 09:30:00-04:00,0.005\n2026-08-10 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.50,NXTT,Next Technology Holding Inc.,Technology,Software - Application,Japan,7806699,5.3,11550,161759,857322.7,,,,0.16936001,-5.71964,0.0,-0.59401,-0.09922,159043264,580388,0.12,175.574,54.544,-5144358,309174752,1472962,1451663,0.01446,0.0018000001,34203,0.86,0.0232,,,0.6041897,0.016084587,-11.66,,,,,,none,,,,,,,5.069,https://www.nxtttech.com,2026-10-31T18:56:12.081355+00:00
+29.62,NXTT,Next Technology Holding Inc.,Technology,Software - Application,Japan,7806699,5.3,11550,161759,857322.7,,,,0.16936001,-5.71964,0.0,-0.59401,-0.09922,159043264,580388,0.12,175.574,54.544,-5144358,309174752,1472962,1451663,0.01446,0.0018000001,34203,0.86,0.0232,,,0.6041897,0.016084587,-11.66,,,,,,none,,,,,,,5.069,https://www.nxtttech.com,2026-10-31T18:56:12.081355+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-19,584230.00,858400.00,432715.00,745550.00,,,,,,,0,432715.0000,1,5219,,,,
 2022-07-20,684870.00,799200.00,633070.00,735190.00,,,,,,,0,432715.0000,1,2941,,,,
@@ -1092,3 +1092,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,4.76,5.00,4.76,4.85,5.06,5.19,6.07,4.72,4.83,6.7174,0,11.6714,0,33,1514,-0.3830,-0.4427,0.0596
 2026-10-30,4.78,5.30,4.64,5.30,5.07,5.18,6.16,4.73,4.82,6.7174,0,11.3850,0,133,1514,-0.3361,-0.4213,0.0853
 2026-11-02,4.89,5.45,4.88,5.31,5.10,5.19,5.29,4.74,4.81,6.7174,0,11.1100,0,233,1517,-0.2947,-0.3960,0.1013
+2026-11-03,5.13,5.42,4.90,5.14,5.11,5.17,5.38,4.76,4.80,6.7174,0,10.8460,0,32,1515,-0.2724,-0.3713,0.0989
+2026-11-04,5.21,5.32,5.00,5.00,5.06,5.16,5.48,4.77,4.80,6.7174,0,10.5926,0,53,1301,-0.2631,-0.3496,0.0866

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DMAA,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,United States,264375584,10.89,19240,20640,224769.6,,-0.179,-0.245,0.0,0.0,0.0,,,20280,350000,,0.023,0.007,-517145,,24276913,19788112,0.23568001,0.53431,89088,15.5,0.0045,60.5,,,-35.704918,,,,,,,none,,,,,,,,,2026-10-31T15:33:30.350666+00:00
+57.83,DMAA,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,United States,264375584,10.89,19240,20640,224769.6,,-0.179,-0.245,0.0,0.0,0.0,,,20280,350000,,0.023,0.007,-517145,,24276913,19788112,0.23568001,0.53431,89088,15.5,0.0045,60.5,,,-35.704918,,,,,,,none,,,,,,,,,2026-10-31T15:33:30.350666+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-25,9.98,9.98,9.95,9.96,,,,,,,0,9.9500,1,17225,,,,
 2025-02-26,9.97,9.97,9.97,9.97,,,,,,,0,9.9500,1,15,,,,
@@ -438,3 +438,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.87,10.88,10.87,10.87,10.87,10.86,10.78,10.65,10.59,10.8348,1,10.8516,1,137,249,0.0267,0.0307,-0.0040
 2026-10-29,10.88,10.89,10.88,10.89,10.87,10.87,10.79,10.65,10.59,10.8409,1,10.8524,1,123,249,0.0262,0.0298,-0.0036
 2026-10-30,10.89,10.89,10.89,10.89,10.88,10.87,10.79,10.65,10.60,10.8488,1,10.8531,1,2,249,0.0260,0.0291,-0.0031
+2026-11-02,10.89,10.89,10.89,10.89,10.88,10.87,10.79,10.66,10.60,10.8490,1,10.8538,1,26,248,0.0251,0.0283,-0.0032
+2026-11-03,10.89,10.89,10.88,10.88,10.88,10.87,10.80,10.66,10.60,10.8490,1,10.8546,1,11,248,0.0237,0.0274,-0.0036
+2026-11-04,10.88,10.89,10.88,10.88,10.88,10.87,10.80,10.66,10.60,10.8494,1,10.8553,1,103,250,0.0224,0.0264,-0.0040

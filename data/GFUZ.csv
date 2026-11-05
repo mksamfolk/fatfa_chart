@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.32,GFUZ,General Fusion Group Ltd.,Industrials,Specialty Industrial Machinery,Canada,381927808,6.01,137990,173007,1039772.07,,,,0.0,0.0,0.0,,,31975000,4265000,,0.36,0.189,-38599000,,53132058,38770439,0.22530001,0.47721002,946687,5.47,,,,,-0.37968287,,-10.137,,,,,none,,,,,,,,https://generalfusion.com,2026-10-31T16:20:05.719325+00:00
+16.01,GFUZ,General Fusion Group Ltd.,Industrials,Specialty Industrial Machinery,Canada,381927808,6.01,137990,173007,1039772.07,,,,0.0,0.0,0.0,,,31975000,4265000,,0.36,0.189,-38599000,,53132058,38770439,0.22530001,0.47721002,946687,5.47,,,,,-0.37968287,,-10.137,,,,,none,,,,,,,,https://generalfusion.com,2026-10-31T16:20:05.719325+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-30,10.05,10.14,10.03,10.10,,,,,,,0,10.0300,1,237,,,,
 2025-10-01,10.08,10.15,10.07,10.13,,,,,,,0,10.0300,1,56,,,,
@@ -288,4 +288,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.92,6.29,5.89,6.07,6.30,7.12,7.71,9.32,9.60,7.7672,0,7.2965,0,809,1674,-0.5460,-0.4266,-0.1194
 2026-10-29,6.05,6.55,6.05,6.51,6.25,7.03,7.68,9.29,9.59,7.7672,0,7.0330,0,852,1645,-0.5030,-0.4419,-0.0611
 2026-10-30,6.37,6.45,5.85,6.01,6.18,6.91,7.61,9.26,9.56,7.7672,0,6.8117,0,835,1579,-0.5035,-0.4542,-0.0493
-2026-11-02,6.25,6.25,6.06,6.09,6.13,6.84,7.53,9.24,9.54,7.7672,0,6.6259,0,299,1514,-0.4917,-0.4617,-0.0300
+2026-11-02,6.17,6.25,6.06,6.09,6.13,6.84,7.53,9.24,9.54,7.7672,0,6.6259,0,301,1514,-0.4917,-0.4617,-0.0300
+2026-11-03,6.05,6.18,5.70,5.71,6.07,6.75,7.46,9.21,9.52,7.6014,0,6.4697,0,583,1473,-0.5073,-0.4708,-0.0364
+2026-11-04,5.71,5.75,5.41,5.66,6.01,6.65,7.41,9.18,9.50,7.1777,0,6.3386,0,811,1446,-0.5176,-0.4802,-0.0374

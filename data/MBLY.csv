@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.25,MBLY,Mobileye Global Inc.,Consumer Cyclical,Auto Parts,Israel,5067024384,5.96,7338060,5396534,32163342.64,-0.024,,,0.48553002,-0.16667,-2.01248,-0.40002,-0.021070002,1499000064,0,,4.443,3.589,416000000,603000000,252403844,170543280,0.32229,0.55815,50688439,7.74,0.2856,,12.154336,2.5284553,0.609781,1.703,-13.814,10.17174,18.0,5.0,2.375,buy,23,1,1,0,1,2027-01-28,,https://www.mobileye.com,2026-10-31T18:19:54.343253+00:00
+14.28,MBLY,Mobileye Global Inc.,Consumer Cyclical,Auto Parts,Israel,5067024384,5.96,7338060,5396534,32163342.64,-0.024,,,0.48553002,-0.16667,-2.01248,-0.40002,-0.021070002,1499000064,0,,4.443,3.589,416000000,603000000,252403844,170543280,0.32229,0.55815,50688439,7.74,0.2856,,12.154336,2.5284553,0.609781,1.703,-13.814,10.17174,18.0,5.0,2.375,buy,23,1,1,0,1,2027-01-28,,https://www.mobileye.com,2026-10-31T18:19:54.343253+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-10-26,26.71,29.86,26.03,28.97,,,,,,,0,26.0300,1,830135,,,,
 2022-10-27,26.95,29.59,26.55,27.40,,,,,,,0,26.0300,1,155835,,,,
@@ -1036,4 +1036,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,6.85,7.09,6.80,7.06,7.02,7.12,7.79,8.47,8.57,7.7024,0,7.5294,0,46141,41866,-0.2550,-0.2685,0.0134
 2026-10-29,6.50,6.72,6.37,6.41,6.92,7.07,7.74,8.47,8.55,7.6813,0,7.5068,0,61574,42238,-0.2840,-0.2716,-0.0124
 2026-10-30,6.30,6.33,5.76,5.96,6.80,7.00,7.68,8.46,8.53,7.2627,0,7.4614,0,68325,42793,-0.3393,-0.2851,-0.0542
-2026-11-02,6.05,6.11,5.62,5.65,6.64,6.90,7.61,8.46,8.50,7.1039,0,7.3593,0,37282,42968,-0.4035,-0.3088,-0.0947
+2026-11-02,6.05,6.11,5.62,5.65,6.64,6.90,7.61,8.46,8.50,7.1079,0,7.3593,0,37892,42980,-0.4035,-0.3088,-0.0947
+2026-11-03,5.74,5.75,5.57,5.59,6.47,6.81,7.55,8.45,8.48,6.8326,0,7.2201,0,47634,43086,-0.4540,-0.3378,-0.1161
+2026-11-04,5.58,5.74,5.30,5.34,6.30,6.72,7.48,8.44,8.45,6.7074,0,7.0551,0,63029,43921,-0.5083,-0.3719,-0.1364

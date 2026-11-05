@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.64,ANNA,AleAnna Inc.,Energy,Oil & Gas E&P,United States,101940600,2.49,106570,196428,489105.72000000003,1.535,5.709,5.756,0.79775,0.1873,0.25185,0.21618,0.07326,32619508,152213,0.231,1.899,1.698,19802236,18233468,40940000,10376652,0.15638,0.75551003,194256,1.22,0.0499,13.105264,,2.553663,2.520243,2.378,6.023,,,,,none,,,,,,,-1.598,https://www.aleannainc.com,2026-10-31T14:09:50.619149+00:00
+15.79,ANNA,AleAnna Inc.,Energy,Oil & Gas E&P,United States,101940600,2.49,106570,196428,489105.72000000003,1.535,5.709,5.756,0.79775,0.1873,0.25185,0.21618,0.07326,32619508,152213,0.231,1.899,1.698,19802236,18233468,40940000,10376652,0.15638,0.75551003,194256,1.22,0.0499,13.105264,,2.553663,2.520243,2.378,6.023,,,,,none,,,,,,,-1.598,https://www.aleannainc.com,2026-10-31T14:09:50.619149+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-22,9.67,9.85,9.67,9.85,,,,,,,0,9.6700,1,115,,,,
 2022-02-23,10.83,11.37,9.85,9.87,,,,,,,0,9.6700,1,16,,,,
@@ -1193,3 +1193,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.48,2.51,2.40,2.44,2.45,2.58,2.71,3.56,3.35,2.8894,0,2.5837,0,225,567,-0.1142,-0.1100,-0.0041
 2026-10-30,2.44,2.50,2.43,2.49,2.44,2.53,2.71,3.55,3.35,2.8894,0,2.5700,0,77,559,-0.1068,-0.1094,0.0026
 2026-11-02,2.49,2.51,2.35,2.38,2.43,2.51,2.70,3.54,3.35,2.8807,0,2.5336,0,136,551,-0.1085,-0.1092,0.0007
+2026-11-03,2.35,2.40,2.33,2.34,2.43,2.50,2.69,3.53,3.35,2.7939,0,2.5050,0,117,543,-0.1119,-0.1097,-0.0021
+2026-11-04,2.33,2.34,2.03,2.07,2.40,2.47,2.68,3.52,3.34,2.6640,0,2.5050,0,565,531,-0.1348,-0.1147,-0.0200

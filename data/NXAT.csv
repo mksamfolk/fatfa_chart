@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-03 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.57,NXAT,Nexus Advanced Technologies Inc.,Industrials,Conglomerates,Cayman Islands,1192351,0.3684,107270,591487,217903.8108,1079.59,,,0.18211001,-0.53805,-2.635,,-0.45916998,8385992192,52588752896,,0.242,0.134,-9773204480,17071331328,3236567,1353790,0.19539,0.01395,22734,0.02,,,,1.5270709e-05,-0.049136788,0.562,-0.75,,,,,none,,,,,,,0.463,https://nexusadvtec.com,2026-10-31T18:55:04.928448+00:00
+0.77,NXAT,Nexus Advanced Technologies Inc.,Industrials,Conglomerates,Cayman Islands,1192351,0.3684,107270,591487,217903.8108,1079.59,,,0.18211001,-0.53805,-2.635,,-0.45916998,8385992192,52588752896,,0.242,0.134,-9773204480,17071331328,3236567,1353790,0.19539,0.01395,22734,0.02,,,,1.5270709e-05,-0.049136788,0.562,-0.75,,,,,none,,,,,,,0.463,https://nexusadvtec.com,2026-10-31T18:55:04.928448+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-14,75.00,125.70,63.30,78.00,,,,,,,0,125.7000,0,2099,,,,
 2025-05-15,79.50,90.00,48.00,53.70,,,,,,,0,125.7000,0,2813,,,,
@@ -399,3 +399,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,0.40,0.43,0.37,0.39,0.41,0.54,1.01,5.16,9.20,0.6455,0,0.5416,0,85,560,-0.2164,-0.2425,0.0261
 2026-10-30,0.39,0.39,0.36,0.37,0.40,0.51,0.98,5.05,9.13,0.6280,0,0.5035,0,21,540,-0.2072,-0.2355,0.0282
 2026-11-02,0.38,0.41,0.36,0.38,0.39,0.49,0.96,4.95,9.06,0.6280,0,0.4723,0,8,482,-0.1966,-0.2277,0.0311
+2026-11-03,0.39,0.40,0.37,0.40,0.38,0.47,0.93,4.85,8.96,0.6132,0,0.4467,0,13,479,-0.1848,-0.2191,0.0343
+2026-11-04,0.39,0.42,0.37,0.41,0.38,0.46,0.91,4.76,8.84,0.6132,0,0.4257,0,28,474,-0.1724,-0.2098,0.0374

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-28 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.07,DLXY,Delixy Holdings Limited,Energy,Oil & Gas Refining & Marketing,Singapore,4970400,1.52,29560,1238220,1882094.4,0.202,,,0.00827,-0.02387,-0.0145000005,-6.12209,-0.11662,1793000,4016000,3824.762,1.004,0.976,-5245000,-3921625,1434800,999999,0.30304,0.01887,74907,0.02,0.0749,,,0.016150929,47.499996,0.023,-1.592,,,,,none,,,,,,,,https://www.delixy.com,2026-10-31T15:33:24.689116+00:00
+97.80,DLXY,Delixy Holdings Limited,Energy,Oil & Gas Refining & Marketing,Singapore,4970400,1.52,29560,1238220,1882094.4,0.202,,,0.00827,-0.02387,-0.0145000005,-6.12209,-0.11662,1793000,4016000,3824.762,1.004,0.976,-5245000,-3921625,1434800,999999,0.30304,0.01887,74907,0.02,0.0749,,,0.016150929,47.499996,0.023,-1.592,,,,,none,,,,,,,,https://www.delixy.com,2026-10-31T15:33:24.689116+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-09,4.00,7.16,4.00,4.95,,,,,,,0,7.1600,0,22097,,,,
 2025-07-10,4.00,4.58,4.00,4.25,,,,,,,0,7.1600,0,4080,,,,
@@ -346,4 +346,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.67,1.74,1.59,1.62,1.87,1.85,0.98,0.71,0.76,2.3266,0,2.8122,0,58,832,0.2275,0.3228,-0.0953
 2026-10-29,1.63,1.64,1.53,1.55,1.81,1.91,1.00,0.71,0.76,2.2203,0,2.7140,0,14,831,0.1923,0.2967,-0.1044
 2026-10-30,1.55,1.58,1.45,1.52,1.75,1.96,1.02,0.71,0.76,2.1267,0,2.5956,0,50,832,0.1602,0.2694,-0.1092
-2026-11-02,1.47,1.63,1.46,1.60,1.71,1.95,1.05,0.72,0.77,2.1267,0,2.4575,0,29,831,0.1396,0.2435,-0.1039
+2026-11-02,1.47,1.63,1.46,1.60,1.71,1.95,1.05,0.72,0.77,2.1267,0,2.4575,0,30,831,0.1396,0.2435,-0.1039
+2026-11-03,1.53,1.60,1.49,1.49,1.67,1.90,1.07,0.72,0.77,2.1198,0,2.3360,0,13,831,0.1130,0.2174,-0.1043
+2026-11-04,1.59,1.60,1.44,1.45,1.62,1.86,1.09,0.72,0.77,2.0813,0,2.2291,0,45,832,0.0878,0.1915,-0.1037

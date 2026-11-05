@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.70,INBX,Inhibrx Biosciences Inc.,Healthcare,Biotechnology,United States,1056433600,71.78,365370,301768,21660907.04,,,,0.0,0.0,0.0,-17.735981,-0.43611,133344000,181626000,,5.067,4.756,-131889000,-85104872,14717660,8578777,0.23084,0.90712,3417073,13.62,0.31,,-8.194063,Infinity,-19.927818,,-8.795,266.66666,325.0,230.0,1.5,strong_buy,3,0,0,1,1,2026-11-13,3.822,https://inhibrx.com,2026-10-31T17:38:50.118357+00:00
+46.61,INBX,Inhibrx Biosciences Inc.,Healthcare,Biotechnology,United States,1056433600,71.78,365370,301768,21660907.04,,,,0.0,0.0,0.0,-17.735981,-0.43611,133344000,181626000,,5.067,4.756,-131889000,-85104872,14717660,8578777,0.23084,0.90712,3417073,13.62,0.31,,-8.194063,Infinity,-19.927818,,-8.795,266.66666,325.0,230.0,1.5,strong_buy,3,0,0,1,1,2026-11-13,3.822,https://inhibrx.com,2026-10-31T17:38:50.118357+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-29,11.68,12.53,11.64,12.51,,,,,,,0,11.6352,1,3628,,,,
 2024-05-30,13.85,15.99,13.85,15.86,,,,,,,0,11.6352,1,11508,,,,
@@ -638,4 +638,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,94.55,96.79,69.27,73.29,91.17,91.93,103.45,97.91,92.16,102.1088,0,100.1980,0,87112,32616,-3.8188,-3.2512,-0.5675
 2026-10-29,73.75,75.71,71.75,73.65,89.48,90.71,102.89,97.96,92.16,97.7756,0,99.8840,0,26418,32514,-4.8726,-3.5755,-1.2971
 2026-10-30,72.04,73.03,66.80,71.78,87.68,89.45,102.34,98.05,92.14,93.6088,0,99.2717,0,31497,32447,-5.7920,-4.0188,-1.7732
-2026-11-02,72.45,73.49,70.87,72.16,85.91,88.33,101.71,98.13,92.14,93.6088,0,97.9729,0,16880,32327,-6.4159,-4.4982,-1.9177
+2026-11-02,72.45,73.49,70.87,72.16,85.91,88.33,101.71,98.13,92.14,93.6088,0,97.9729,0,16907,32328,-6.4159,-4.4982,-1.9177
+2026-11-03,71.16,83.00,71.16,81.08,84.49,87.72,101.24,98.22,92.18,93.6088,0,96.7259,0,48664,32517,-6.1201,-4.8226,-1.2975
+2026-11-04,83.95,87.13,82.03,86.76,83.35,87.39,100.52,98.35,92.25,93.6088,0,95.5289,0,16502,31594,-5.3655,-4.9312,-0.4343

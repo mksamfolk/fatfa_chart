@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.06,CAVA,CAVA Group Inc.,Consumer Cyclical,Restaurants,United States,6861196288,58.74,2755990,3337157,196024602.18,0.313,0.198,0.253,0.37733,0.0762,0.04822,0.083229996,0.035,435599008,520742016,61.899,2.483,2.361,220464992,-721500,116806198,107912574,0.057439998,0.90005,16139567,4.4,0.1466,106.8,79.1143,4.9938507,8.156068,5.056,43.244,81.83333,110.0,18.0,1.82143,buy,24,1,2,0,0,2026-11-04,1.807,https://cava.com,2026-10-31T14:53:40.634600+00:00
+59.88,CAVA,CAVA Group Inc.,Consumer Cyclical,Restaurants,United States,6861196288,58.74,2755990,3337157,196024602.18,0.313,0.198,0.253,0.37733,0.0762,0.04822,0.083229996,0.035,435599008,520742016,61.899,2.483,2.361,220464992,-721500,116806198,107912574,0.057439998,0.90005,16139567,4.4,0.1466,106.8,79.1143,4.9938507,8.156068,5.056,43.244,81.83333,110.0,18.0,1.82143,buy,24,1,2,0,0,2026-11-04,1.807,https://cava.com,2026-10-31T14:53:40.634600+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-15,42.00,47.89,40.00,43.78,,,,,,,0,47.8900,0,733394,,,,
 2023-06-16,44.87,46.68,36.45,38.15,,,,,,,0,47.8900,0,321128,,,,
@@ -877,4 +877,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,52.04,56.74,52.04,54.25,54.88,54.08,57.17,71.08,71.64,58.2256,0,58.2725,0,184705,174616,-0.6881,-0.7633,0.0752
 2026-10-29,56.26,59.82,55.91,59.21,55.26,54.32,56.92,70.95,71.59,50.8638,1,50.3300,1,205038,175327,-0.2171,-0.6540,0.4369
 2026-10-30,59.21,60.33,58.08,58.74,55.41,54.53,56.65,70.84,71.54,50.8638,1,50.5198,1,136917,175098,0.1169,-0.4999,0.6167
-2026-11-02,59.53,62.95,59.00,61.99,55.82,54.93,56.42,70.74,71.49,52.0352,1,50.9122,1,213313,176349,0.6365,-0.2726,0.9091
+2026-11-02,59.53,62.95,59.00,62.05,55.83,54.93,56.42,70.74,71.49,52.0353,1,50.9122,1,242175,176927,0.6413,-0.2716,0.9129
+2026-11-03,61.91,62.25,59.29,60.31,56.11,55.31,56.19,70.60,71.43,52.0353,1,51.6345,1,184253,175770,0.9060,-0.0361,0.9421
+2026-11-04,62.00,65.38,61.50,61.98,56.81,55.81,56.04,70.48,71.39,53.8782,1,52.3134,1,450514,182315,1.2363,0.2184,1.0179

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.73,CON,Concentra Group Holdings Parent Inc.,Healthcare,Medical Care Facilities,United States,5149166080,40.38,1206710,1045270,42208002.6,0.1,0.47,0.465,0.29314,0.1929,0.08688,0.4706,0.08157,158038000,2143819008,423.325,1.377,1.244,335548000,204793632,127517736,115269657,0.09649,0.91067004,3601334,3.0,0.0508,26.051615,21.889738,2.251036,10.793906,3.132,15.52,42.0,47.0,40.0,1.18182,strong_buy,10,1,2,0,0,2026-11-05,0.626,https://www.concentra.com,2026-10-31T15:13:19.167217+00:00
+95.31,CON,Concentra Group Holdings Parent Inc.,Healthcare,Medical Care Facilities,United States,5149166080,40.38,1206710,1045270,42208002.6,0.1,0.47,0.465,0.29314,0.1929,0.08688,0.4706,0.08157,158038000,2143819008,423.325,1.377,1.244,335548000,204793632,127517736,115269657,0.09649,0.91067004,3601334,3.0,0.0508,26.051615,21.889738,2.251036,10.793906,3.132,15.52,42.0,47.0,40.0,1.18182,strong_buy,10,1,2,0,0,2026-11-05,0.626,https://www.concentra.com,2026-10-31T15:13:19.167217+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-25,21.53,22.51,21.51,22.00,,,,,,,0,21.5072,1,123105,,,,
 2024-07-26,22.41,22.65,21.71,22.37,,,,,,,0,21.5072,1,29101,,,,
@@ -599,4 +599,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,40.05,40.64,40.01,40.59,39.37,37.99,36.08,30.12,28.22,37.5923,1,39.3015,1,31624,37203,1.2949,1.1135,0.1814
 2026-10-29,41.00,41.37,40.64,41.25,39.58,38.30,36.21,30.25,28.33,38.3116,1,39.5692,1,58299,37698,1.3714,1.1651,0.2063
 2026-10-30,41.45,41.52,40.32,40.38,39.77,38.54,36.32,30.38,28.43,38.3116,1,39.9293,1,39972,38069,1.3462,1.2013,0.1449
-2026-11-02,40.16,41.32,39.61,40.32,39.98,38.74,36.42,30.51,28.52,38.3116,1,41.5200,0,35469,38187,1.3064,1.2223,0.0841
+2026-11-02,40.16,41.32,39.61,40.33,39.98,38.74,36.42,30.51,28.52,38.3116,1,41.5200,0,50114,38480,1.3072,1.2225,0.0847
+2026-11-03,40.38,40.89,40.12,40.15,40.12,38.93,36.53,30.64,28.61,38.3116,1,41.5200,0,42876,38931,1.2474,1.2275,0.0199
+2026-11-04,40.90,43.72,40.76,43.56,40.57,39.29,36.70,30.79,28.72,38.5152,1,39.6100,1,116266,40818,1.4583,1.2736,0.1847

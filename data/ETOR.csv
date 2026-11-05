@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.40,ETOR,eToro Group Ltd.,Financial Services,Capital Markets,Israel,1790154752,22.51,952140,1176387,26480471.37,-0.24,0.871,0.772,0.04625,0.04018,0.02182,0.19495001,0.14655,945916032,35005000,2.567,3.378,2.444,310748992,,66806610,64782088,0.15722,0.55147,3657008,3.45,0.075100005,8.306273,7.5513344,0.14941637,1.349035,0.077,,42.63333,75.0,27.5,1.8,buy,15,0,0,3,4,2026-11-10,,https://www.etoro.com,2026-10-31T15:53:10.746348+00:00
+19.48,ETOR,eToro Group Ltd.,Financial Services,Capital Markets,Israel,1790154752,22.51,952140,1176387,26480471.37,-0.24,0.871,0.772,0.04625,0.04018,0.02182,0.19495001,0.14655,945916032,35005000,2.567,3.378,2.444,310748992,,66806610,64782088,0.15722,0.55147,3657008,3.45,0.075100005,8.306273,7.5513344,0.14941637,1.349035,0.077,,42.63333,75.0,27.5,1.8,buy,15,0,0,3,4,2026-11-10,,https://www.etoro.com,2026-10-31T15:53:10.746348+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-13,52.00,52.00,52.00,52.00,,,,,,,0,52.0000,1,,,,,
 2025-05-14,69.69,74.28,65.06,67.00,,,,,,,0,52.0000,1,875757,,,,
@@ -399,4 +399,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,23.53,23.69,23.12,23.61,24.12,24.76,27.55,33.71,32.83,25.6784,0,24.2150,0,20697,28926,-1.1267,-1.2052,0.0785
 2026-10-29,23.40,23.54,23.07,23.37,23.96,24.64,27.45,33.66,32.79,25.5131,0,23.9960,0,19675,28253,-1.1142,-1.1870,0.0728
 2026-10-30,22.94,22.94,22.05,22.51,23.78,24.49,27.30,33.62,32.75,24.8773,0,23.8108,0,64804,28313,-1.1603,-1.1817,0.0213
-2026-11-02,22.74,23.05,22.43,22.57,23.62,24.34,27.15,33.58,32.71,24.8773,0,23.5400,0,32644,27605,-1.1785,-1.1810,0.0026
+2026-11-02,22.74,23.05,22.43,22.57,23.62,24.34,27.15,33.58,32.71,24.8773,0,23.5400,0,34135,27635,-1.1785,-1.1810,0.0026
+2026-11-03,22.53,22.73,22.35,22.58,23.44,24.15,27.02,33.53,32.66,24.7491,0,23.2410,0,17621,27368,-1.1784,-1.1805,0.0021
+2026-11-04,22.65,23.87,22.65,23.72,23.38,24.07,26.87,33.49,32.63,24.7491,0,22.0450,1,29384,27168,-1.0740,-1.1592,0.0852

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.92,HAFN,Hafnia Limited,Industrials,Marine Shipping,Singapore,5819049984,10.87,2240600,2335357,25385330.59,0.472,2.667,2.688,0.31902,0.29506,0.24699,0.26612,0.09653,270983008,885363008,33.41,1.655,1.331,703683968,363743136,535331154,242004104,0.42742002,0.37032002,4372612,1.31,0.0538,8.426356,15.309859,2.1819978,2.0501697,2.267,8.406,11.5,12.0,11.0,,none,2,1,1,0,0,2026-11-18,-0.189,https://hafnia.com,2026-10-31T16:35:02.612386+00:00
+92.36,HAFN,Hafnia Limited,Industrials,Marine Shipping,Singapore,5819049984,10.87,2240600,2335357,25385330.59,0.472,2.667,2.688,0.31902,0.29506,0.24699,0.26612,0.09653,270983008,885363008,33.41,1.655,1.331,703683968,363743136,535331154,242004104,0.42742002,0.37032002,4372612,1.31,0.0538,8.426356,15.309859,2.1819978,2.0501697,2.267,8.406,11.5,12.0,11.0,,none,2,1,1,0,0,2026-11-18,-0.189,https://hafnia.com,2026-10-31T16:35:02.612386+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-10,4.67,4.68,4.53,4.64,,,,,,,0,4.5332,1,2800,,,,
 2024-04-11,4.74,4.87,4.70,4.75,,,,,,,0,4.5332,1,2045,,,,
@@ -672,4 +672,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.00,11.11,10.79,10.84,10.38,10.44,9.43,8.00,7.48,9.8334,1,9.8313,1,31767,25904,0.3326,0.3613,-0.0287
 2026-10-29,10.83,11.11,10.76,11.06,10.48,10.49,9.51,8.03,7.51,9.8334,1,9.8826,1,22646,26104,0.3538,0.3598,-0.0060
 2026-10-30,11.03,11.11,10.81,10.87,10.57,10.53,9.57,8.06,7.54,9.8334,1,9.9319,1,19250,26282,0.3513,0.3581,-0.0068
-2026-11-02,10.62,10.75,10.13,10.19,10.59,10.52,9.62,8.08,7.57,9.8334,1,9.9793,1,17185,26364,0.2910,0.3447,-0.0537
+2026-11-02,10.62,10.75,10.12,10.19,10.59,10.52,9.62,8.08,7.57,9.8334,1,9.9793,1,19117,26402,0.2910,0.3447,-0.0537
+2026-11-03,10.20,10.43,10.10,10.40,10.61,10.53,9.68,8.10,7.59,9.8334,1,10.0247,1,22755,26664,0.2572,0.3272,-0.0700
+2026-11-04,10.05,10.18,9.66,9.81,10.54,10.51,9.72,8.12,7.62,11.2516,0,11.1150,0,34226,27202,0.1807,0.2979,-0.1172

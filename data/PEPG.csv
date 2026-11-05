@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.08,PEPG,PepGen Inc.,Healthcare,Biotechnology,United States,163452464,2.36,1212400,951282,2245025.52,,,,0.0,0.0,0.0,-0.75453,-0.39116,117238000,16093000,13.463,13.362,13.019,-69336000,-43254624,69259517,36136153,0.00233,0.82883,3804988,4.72,0.0776,,-2.2264152,,1.3657407,,-0.831,10.1875,20.0,2.5,,none,8,0,0,1,1,2026-11-11,2.007,https://www.pepgen.com,2026-10-31T19:14:33.668179+00:00
+42.63,PEPG,PepGen Inc.,Healthcare,Biotechnology,United States,163452464,2.36,1212400,951282,2245025.52,,,,0.0,0.0,0.0,-0.75453,-0.39116,117238000,16093000,13.463,13.362,13.019,-69336000,-43254624,69259517,36136153,0.00233,0.82883,3804988,4.72,0.0776,,-2.2264152,,1.3657407,,-0.831,10.1875,20.0,2.5,,none,8,0,0,1,1,2026-11-11,2.007,https://www.pepgen.com,2026-10-31T19:14:33.668179+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-06,15.60,16.99,11.50,12.89,,,,,,,0,16.9900,0,19490,,,,
 2022-05-09,12.25,12.75,10.93,11.90,,,,,,,0,16.9900,0,4579,,,,
@@ -1141,3 +1141,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.54,2.62,2.40,2.41,2.61,2.55,2.73,2.46,3.32,3.0619,0,3.1065,0,1848,2628,-0.0628,-0.0492,-0.0137
 2026-10-30,2.40,2.40,2.22,2.36,2.59,2.52,2.74,2.44,3.30,2.9837,0,3.0895,0,2664,2665,-0.0752,-0.0544,-0.0208
 2026-11-02,2.39,2.47,2.31,2.35,2.55,2.52,2.75,2.42,3.29,2.9837,0,3.0547,0,1330,2681,-0.0849,-0.0605,-0.0244
+2026-11-03,2.36,2.48,2.36,2.46,2.51,2.53,2.76,2.39,3.27,2.9837,0,3.0213,0,1507,2698,-0.0827,-0.0649,-0.0178
+2026-11-04,2.53,2.69,2.38,2.45,2.49,2.53,2.78,2.37,3.25,2.9837,0,2.9893,0,4411,2773,-0.0808,-0.0681,-0.0127

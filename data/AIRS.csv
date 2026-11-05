@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.49,AIRS,AirSculpt Technologies Inc.,Healthcare,Medical Care Facilities,United States,124724712,1.73,783830,935842,1619006.66,-0.025,,,0.66300005,-0.00068000006,-0.07788,-0.11978,-0.01905,18824000,70468000,67.22,0.787,0.606,1277000,7989875,72095209,16772950,0.42215002,0.62227,2950853,3.28,0.0719,,-173.0,0.827504,1.1800818,1.17,28.057,4.5,6.0,3.0,,none,2,0,0,1,1,2026-11-09,2.325,https://www.airsculpt.com,2026-10-31T14:00:27.818702+00:00
+8.50,AIRS,AirSculpt Technologies Inc.,Healthcare,Medical Care Facilities,United States,124724712,1.73,783830,935842,1619006.66,-0.025,,,0.66300005,-0.00068000006,-0.07788,-0.11978,-0.01905,18824000,70468000,67.22,0.787,0.606,1277000,7989875,72095209,16772950,0.42215002,0.62227,2950853,3.28,0.0719,,-173.0,0.827504,1.1800818,1.17,28.057,4.5,6.0,3.0,,none,2,0,0,1,1,2026-11-09,2.325,https://www.airsculpt.com,2026-10-31T14:00:27.818702+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,12.31,17.29,12.31,15.23,,,,,,,0,12.3077,1,88166,,,,
 2021-11-01,14.44,16.15,13.90,13.90,,,,,,,0,12.3077,1,12746,,,,
@@ -1270,4 +1270,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.28,1.47,1.26,1.44,1.28,1.56,2.62,3.44,3.13,1.6274,0,1.1500,1,949,2274,-0.3874,-0.4406,0.0532
 2026-10-29,1.48,1.69,1.44,1.67,1.31,1.52,2.57,3.43,3.13,1.1335,1,1.1564,1,2586,2289,-0.3373,-0.4199,0.0827
 2026-10-30,1.63,1.75,1.61,1.73,1.36,1.49,2.51,3.43,3.12,1.2007,1,1.1777,1,1294,2283,-0.2894,-0.3938,0.1045
-2026-11-02,1.76,1.87,1.67,1.67,1.40,1.48,2.44,3.43,3.12,1.2764,1,1.2124,1,1950,2287,-0.2533,-0.3657,0.1124
+2026-11-02,1.76,1.87,1.67,1.67,1.40,1.48,2.44,3.43,3.12,1.2764,1,1.2124,1,1953,2287,-0.2533,-0.3657,0.1124
+2026-11-03,1.69,1.76,1.60,1.64,1.43,1.47,2.38,3.43,3.12,1.2764,1,1.2650,1,1097,2288,-0.2246,-0.3375,0.1129
+2026-11-04,1.70,1.76,1.64,1.70,1.47,1.46,2.31,3.42,3.12,1.2764,1,1.3134,1,703,2258,-0.1947,-0.3089,0.1142

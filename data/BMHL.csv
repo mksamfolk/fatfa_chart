@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.12,BMHL,Bluemount Holdings Limited,Financial Services,Capital Markets,Hong Kong,86768504,3.4,2550,2987,10155.8,-0.315,,,0.2569,-0.17952,0.16424999,0.16264,0.09616,8325000,3204000,3.707,7.799,5.945,-37479000,,14014999,2769702,0.92306,0.0033500001,5393,0.97,0.0016,68.0,,1.4028407,7.8792124,1.32,,,,,,none,,,,,,,,https://www.bluemount.com,2026-10-31T14:39:38.998981+00:00
+25.91,BMHL,Bluemount Holdings Limited,Financial Services,Capital Markets,Hong Kong,86768504,3.4,2550,2987,10155.8,-0.315,,,0.2569,-0.17952,0.16424999,0.16264,0.09616,8325000,3204000,3.707,7.799,5.945,-37479000,,14014999,2769702,0.92306,0.0033500001,5393,0.97,0.0016,68.0,,1.4028407,7.8792124,1.32,,,,,,none,,,,,,,,https://www.bluemount.com,2026-10-31T14:39:38.998981+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,4.20,4.30,4.00,4.00,,,,,,,0,4.3000,0,6913,,,,
 2025-07-14,3.89,4.11,3.80,3.98,,,,,,,0,4.3000,0,1649,,,,
@@ -344,4 +344,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.30,3.30,3.06,3.14,3.40,3.79,5.01,4.67,4.41,4.0706,0,3.5009,0,13,12,-0.5758,-0.5711,-0.0047
 2026-10-29,3.10,3.27,3.10,3.27,3.37,3.67,4.97,4.66,4.41,4.0465,0,3.4288,0,13,12,-0.5508,-0.5670,0.0162
 2026-10-30,3.20,3.40,3.20,3.40,3.35,3.58,4.92,4.66,4.41,4.0465,0,3.0500,1,6,12,-0.5146,-0.5565,0.0419
-2026-11-02,3.06,3.20,3.02,3.20,3.31,3.52,4.88,4.66,4.41,3.9758,0,3.4000,0,18,13,-0.4963,-0.5445,0.0482
+2026-11-02,3.06,3.24,3.02,3.20,3.31,3.52,4.88,4.66,4.41,3.9958,0,3.4000,0,18,13,-0.4963,-0.5445,0.0482
+2026-11-03,3.06,3.26,3.06,3.16,3.27,3.45,4.83,4.65,4.40,3.9958,0,3.4000,0,11,13,-0.4795,-0.5315,0.0520
+2026-11-04,3.16,3.16,3.16,3.16,3.23,3.40,4.78,4.65,4.40,3.9161,0,3.3924,0,,13,-0.4609,-0.5174,0.0565

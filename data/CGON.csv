@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-63.04,CGON,CG Oncology Inc.,Healthcare,Biotechnology,United States,5733259776,64.68,834310,872864,56456843.52,,,,0.0,-74.67675,0.0,-0.26405,-0.1767,1028278016,8819000,0.857,22.219,21.776,-178467008,-113709872,88640375,68276135,0.00228,1.13433,8873120,8.13,0.1019,,-21.412611,920.56195,5.5500255,756.872,-18.881,91.07692,108.0,79.0,1.4,strong_buy,13,0,0,0,10,2026-11-09,0.28,https://cgoncology.com,2026-10-31T15:01:05.877151+00:00
+68.17,CGON,CG Oncology Inc.,Healthcare,Biotechnology,United States,5733259776,64.68,834310,872864,56456843.52,,,,0.0,-74.67675,0.0,-0.26405,-0.1767,1028278016,8819000,0.857,22.219,21.776,-178467008,-113709872,88640375,68276135,0.00228,1.13433,8873120,8.13,0.1019,,-21.412611,920.56195,5.5500255,756.872,-18.881,91.07692,108.0,79.0,1.4,strong_buy,13,0,0,0,10,2026-11-09,0.28,https://cgoncology.com,2026-10-31T15:01:05.877151+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-25,29.00,40.90,28.55,37.17,,,,,,,0,28.5500,1,328018,,,,
 2024-01-26,36.00,38.84,33.25,35.03,,,,,,,0,28.5500,1,60213,,,,
@@ -724,4 +724,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,62.53,64.11,62.30,63.96,61.85,63.17,70.04,68.55,65.80,68.5110,0,59.7406,1,60391,62751,-2.1075,-2.6167,0.5092
 2026-10-29,64.53,65.74,63.08,63.47,62.02,62.93,69.69,68.53,65.86,68.5110,0,59.9162,1,49672,62379,-1.8987,-2.4731,0.5744
 2026-10-30,63.00,65.54,60.63,64.68,62.50,62.79,69.43,68.53,65.90,68.5110,0,60.2656,1,56291,62468,-1.6170,-2.3019,0.6849
-2026-11-02,64.18,64.68,61.01,61.96,62.70,62.46,69.08,68.51,65.95,68.5110,0,60.5941,1,78104,62910,-1.5949,-2.1605,0.5656
+2026-11-02,64.18,64.68,61.01,61.96,62.70,62.46,69.08,68.51,65.95,68.5110,0,60.5941,1,79278,62934,-1.5949,-2.1605,0.5656
+2026-11-03,62.52,65.79,62.35,64.06,62.91,62.48,68.79,68.49,66.00,68.5110,0,60.6250,1,46424,62043,-1.3918,-2.0067,0.6149
+2026-11-04,66.10,67.88,63.16,67.71,63.46,62.74,68.57,68.50,66.06,68.5110,0,61.0100,1,94381,62768,-0.9257,-1.7905,0.8648

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-12-20 09:30:00-05:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.15,SIDU,Sidus Space Inc.,Industrials,Aerospace & Defense,United States,110335608,1.09,3219980,4260793,4644264.37,-0.538,,,-1.66856,-9.76211,0.0,-0.27001,-0.12804,166520688,1149039,0.608,33.295,32.47,-19418488,-21984174,101125324,101027937,0.00035,0.31659,19914628,4.75,0.19690001,,-4.541667,39.03158,0.5841372,-19.469,2.827,10.0,10.0,10.0,1.0,strong_buy,1,,,,,2026-11-13,-0.795,https://www.sidusspace.com,2026-10-31T19:58:40.349633+00:00
+12.90,SIDU,Sidus Space Inc.,Industrials,Aerospace & Defense,United States,110335608,1.09,3219980,4260793,4644264.37,-0.538,,,-1.66856,-9.76211,0.0,-0.27001,-0.12804,166520688,1149039,0.608,33.295,32.47,-19418488,-21984174,101125324,101027937,0.00035,0.31659,19914628,4.75,0.19690001,,-4.541667,39.03158,0.5841372,-19.469,2.827,10.0,10.0,10.0,1.0,strong_buy,1,,,,,2026-11-13,-0.795,https://www.sidusspace.com,2026-10-31T19:58:40.349633+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-14,2700.00,2970.00,1050.00,1219.00,,,,,,,0,2970.0000,0,32284,,,,
 2021-12-15,1014.00,1366.00,825.00,1186.00,,,,,,,0,2970.0000,0,45861,,,,
@@ -1238,5 +1238,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,1.14,1.17,1.12,1.13,1.17,1.44,1.90,2.77,2.78,1.4483,0,1.1755,0,3866,8826,-0.2586,-0.2548,-0.0038
 2026-10-28,1.13,1.17,1.11,1.16,1.16,1.39,1.89,2.76,2.78,1.4287,0,1.1750,0,3313,8690,-0.2471,-0.2533,0.0062
 2026-10-29,1.15,1.25,1.15,1.16,1.15,1.35,1.88,2.76,2.78,1.4287,0,1.0900,1,4569,8621,-0.2352,-0.2497,0.0144
-2026-10-30,1.14,1.14,1.07,1.09,1.14,1.30,1.86,2.75,2.77,1.3929,0,1.2500,0,3147,8478,-0.2289,-0.2455,0.0166
-2026-11-02,1.08,1.10,1.04,1.05,1.13,1.27,1.85,2.75,2.77,1.3471,0,1.2500,0,3355,8373,-0.2245,-0.2413,0.0168
+2026-10-30,1.14,1.14,1.07,1.09,1.14,1.30,1.86,2.75,2.77,1.3929,0,1.2500,0,3205,8480,-0.2289,-0.2455,0.0166
+2026-11-02,1.08,1.11,1.04,1.05,1.13,1.27,1.85,2.75,2.77,1.3551,0,1.2500,0,3368,8374,-0.2245,-0.2413,0.0168
+2026-11-03,1.08,1.11,1.02,1.05,1.12,1.23,1.83,2.74,2.76,1.3445,0,1.2416,0,2083,8155,-0.2185,-0.2367,0.0183
+2026-11-04,1.07,1.10,1.00,1.04,1.11,1.20,1.81,2.73,2.76,1.3316,0,1.2284,0,2437,7699,-0.2121,-0.2318,0.0197

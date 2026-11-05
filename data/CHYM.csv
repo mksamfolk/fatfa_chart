@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-85.91,CHYM,Chime Financial Inc.,Technology,Software - Application,United States,10581454848,27.95,2501530,6946760,194161942.0,0.268,,,0.88707,0.18605,-0.0074,-0.01284,0.11981,1160823040,180880992,12.876,4.621,3.741,344992992,437652256,347019852,242131679,0.076009996,0.95582,25180963,4.08,0.0868,31.761364,17.360249,4.3066006,7.533693,3.908,25.012,39.54545,50.0,31.0,1.41667,strong_buy,22,1,11,2,2,2026-11-04,,https://www.chime.com,2026-10-31T15:03:32.197980+00:00
+88.65,CHYM,Chime Financial Inc.,Technology,Software - Application,United States,10581454848,27.95,2501530,6946760,194161942.0,0.268,,,0.88707,0.18605,-0.0074,-0.01284,0.11981,1160823040,180880992,12.876,4.621,3.741,344992992,437652256,347019852,242131679,0.076009996,0.95582,25180963,4.08,0.0868,31.761364,17.360249,4.3066006,7.533693,3.908,25.012,39.54545,50.0,31.0,1.41667,strong_buy,22,1,11,2,2,2026-11-04,,https://www.chime.com,2026-10-31T15:03:32.197980+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-12,43.00,44.94,36.19,37.11,,,,,,,0,44.9400,0,1341460,,,,
 2025-06-13,36.63,36.87,33.00,34.79,,,,,,,0,44.9400,0,329357,,,,
@@ -378,4 +378,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,28.71,29.09,28.26,28.80,29.57,29.10,30.44,24.20,23.75,27.2117,1,30.7583,0,65442,185803,-0.0664,-0.0316,-0.0349
 2026-10-29,28.56,29.06,28.16,28.87,29.46,29.20,30.36,24.27,23.76,27.2117,1,30.6042,0,67218,176254,-0.0924,-0.0438,-0.0487
 2026-10-30,28.50,28.50,27.66,27.95,29.29,29.24,30.28,24.35,23.77,27.2117,1,30.4087,0,102040,174056,-0.1851,-0.0720,-0.1131
-2026-11-02,28.33,29.30,28.22,28.53,29.18,29.25,30.19,24.42,23.79,27.2117,1,30.1338,0,96558,172092,-0.2093,-0.0995,-0.1099
+2026-11-02,28.33,29.30,28.22,28.53,29.18,29.25,30.19,24.42,23.79,27.2117,1,30.1338,0,97690,172115,-0.2093,-0.0995,-0.1099
+2026-11-03,28.40,28.67,27.81,28.20,28.96,29.28,30.10,24.48,23.80,27.2117,1,29.8864,0,72570,168144,-0.2523,-0.1300,-0.1222
+2026-11-04,29.00,30.45,28.96,29.87,28.91,29.38,30.04,24.56,23.82,27.2117,1,27.6600,1,148747,167472,-0.1498,-0.1340,-0.0158

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.48,EXFY,Expensify Inc.,Technology,Software - Application,United States,214288656,2.35,383870,725156,1704116.6,-0.053,,,0.48668,-0.08625,-0.11311,-0.11728,-0.0466,65760000,5378000,3.997,3.497,1.757,12600000,20026124,78936804,54604398,0.25594,0.32755002,1013592,2.02,0.0154,,23.499998,1.5517144,1.6051912,1.114,-11.776,2.83333,3.0,2.5,2.66667,hold,3,1,1,0,0,2026-11-05,1.74,https://www.expensify.com,2026-10-31T15:55:44.521706+00:00
+95.21,EXFY,Expensify Inc.,Technology,Software - Application,United States,214288656,2.35,383870,725156,1704116.6,-0.053,,,0.48668,-0.08625,-0.11311,-0.11728,-0.0466,65760000,5378000,3.997,3.497,1.757,12600000,20026124,78936804,54604398,0.25594,0.32755002,1013592,2.02,0.0154,,23.499998,1.5517144,1.6051912,1.114,-11.776,2.83333,3.0,2.5,2.66667,hold,3,1,1,0,0,2026-11-05,1.74,https://www.expensify.com,2026-10-31T15:55:44.521706+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-10,39.75,43.49,37.48,41.06,,,,,,,0,37.4800,1,437560,,,,
 2021-11-11,42.50,47.72,41.06,44.45,,,,,,,0,37.4800,1,89104,,,,
@@ -1262,4 +1262,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.42,2.52,2.42,2.49,2.52,2.42,2.36,1.59,1.53,2.2362,1,2.6535,0,1025,1835,0.0526,0.0562,-0.0036
 2026-10-29,2.46,2.47,2.33,2.43,2.51,2.43,2.37,1.59,1.54,2.2362,1,2.6479,0,1157,1839,0.0441,0.0538,-0.0097
 2026-10-30,2.40,2.40,2.28,2.35,2.50,2.44,2.38,1.60,1.54,2.2362,1,2.6352,0,1010,1830,0.0306,0.0491,-0.0185
-2026-11-02,2.37,2.38,2.27,2.29,2.48,2.44,2.39,1.61,1.54,2.2362,1,2.6139,0,521,1825,0.0149,0.0423,-0.0274
+2026-11-02,2.37,2.38,2.27,2.29,2.48,2.44,2.39,1.61,1.54,2.2362,1,2.6139,0,524,1825,0.0149,0.0423,-0.0274
+2026-11-03,2.29,2.32,2.23,2.29,2.45,2.44,2.40,1.62,1.55,2.2362,1,2.5864,0,617,1820,0.0024,0.0343,-0.0319
+2026-11-04,2.31,2.43,2.31,2.38,2.43,2.45,2.41,1.63,1.55,2.2362,1,2.5507,0,758,1795,-0.0003,0.0274,-0.0276

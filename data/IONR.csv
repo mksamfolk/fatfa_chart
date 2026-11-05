@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.70,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,217072496,2.81,60230,79550,223535.5,,,,1.0,-6.0841,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,77250000,61617970,0.00518,0.03343,146128,1.54,0.0023999999,,,330.9032,0.78055555,240.015,-20.037,,,,,none,,,,,,,0.88,https://www.ioneer.com,2026-10-31T17:42:55.873219+00:00
+19.14,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,217072496,2.81,60230,79550,223535.5,,,,1.0,-6.0841,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,77250000,61617970,0.00518,0.03343,146128,1.54,0.0023999999,,,330.9032,0.78055555,240.015,-20.037,,,,,none,,,,,,,0.88,https://www.ioneer.com,2026-10-31T17:42:55.873219+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-30,16.80,17.63,15.40,17.63,,,,,,,0,15.4000,1,9,,,,
 2022-07-01,18.60,19.00,11.05,12.58,,,,,,,0,19.0000,0,409,,,,
@@ -1103,4 +1103,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.81,2.83,2.73,2.80,2.73,2.83,3.07,3.62,3.94,3.0190,0,2.9116,0,125,226,-0.1088,-0.1184,0.0096
 2026-10-29,2.76,2.88,2.76,2.82,2.75,2.82,3.06,3.61,3.93,3.0190,0,2.8808,0,174,224,-0.0969,-0.1141,0.0172
 2026-10-30,2.85,2.86,2.72,2.81,2.75,2.83,3.05,3.60,3.92,3.0190,0,2.8800,0,67,221,-0.0872,-0.1087,0.0215
-2026-11-02,2.79,2.79,2.66,2.70,2.75,2.81,3.04,3.60,3.91,3.0190,0,2.8800,0,281,218,-0.0874,-0.1044,0.0170
+2026-11-02,2.79,2.79,2.66,2.70,2.75,2.81,3.04,3.60,3.91,3.0190,0,2.8800,0,284,218,-0.0874,-0.1044,0.0170
+2026-11-03,2.67,2.67,2.57,2.60,2.73,2.78,3.02,3.59,3.90,3.0190,0,2.8600,0,123,216,-0.0946,-0.1025,0.0079
+2026-11-04,2.68,2.69,2.61,2.68,2.71,2.77,3.01,3.58,3.89,3.0190,0,2.8334,0,127,216,-0.0927,-0.1005,0.0078

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.30,MGX,Metagenomi Therapeutics Inc.,Healthcare,Biotechnology,United States,29477476,0.7803,116810,152290,118831.887,,,,0.0,111.9572,0.0,-0.60611,-0.28186,120664000,37720000,33.509,4.504,4.399,-85487000,-50950752,37777105,25541856,0.19015,0.1844,1292216,7.84,0.0422,,-0.4252316,2.1736948,0.26184565,-3.943,0.56,7.0,9.0,5.0,1.4,strong_buy,3,0,0,2,3,,0.704,https://metagenomi.co,2026-10-31T18:25:37.203847+00:00
+12.66,MGX,Metagenomi Therapeutics Inc.,Healthcare,Biotechnology,United States,29477476,0.7803,116810,152290,118831.887,,,,0.0,111.9572,0.0,-0.60611,-0.28186,120664000,37720000,33.509,4.504,4.399,-85487000,-50950752,37777105,25541856,0.19015,0.1844,1292216,7.84,0.0422,,-0.4252316,2.1736948,0.26184565,-3.943,0.56,7.0,9.0,5.0,1.4,strong_buy,3,0,0,2,3,,0.704,https://metagenomi.co,2026-10-31T18:25:37.203847+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-09,10.25,11.24,9.74,10.31,,,,,,,0,9.7400,1,28396,,,,
 2024-02-12,10.94,12.22,10.56,11.27,,,,,,,0,9.7400,1,12860,,,,
@@ -698,4 +698,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.78,0.88,0.78,0.82,0.81,0.91,1.09,1.26,1.35,0.9676,0,0.8870,0,104,173,-0.0922,-0.0910,-0.0012
 2026-10-29,0.81,0.86,0.79,0.83,0.81,0.90,1.08,1.26,1.34,0.9676,0,0.8870,0,60,173,-0.0868,-0.0902,0.0034
 2026-10-30,0.78,0.83,0.78,0.78,0.81,0.88,1.07,1.25,1.34,0.9676,0,0.8800,0,61,171,-0.0855,-0.0892,0.0037
-2026-11-02,0.78,0.80,0.72,0.75,0.80,0.86,1.06,1.24,1.33,0.9676,0,0.8618,0,170,171,-0.0856,-0.0885,0.0029
+2026-11-02,0.78,0.80,0.72,0.75,0.80,0.86,1.06,1.24,1.33,0.9676,0,0.8618,0,169,171,-0.0856,-0.0885,0.0029
+2026-11-03,0.75,0.84,0.72,0.76,0.80,0.85,1.05,1.24,1.33,0.9676,0,0.8393,0,37,169,-0.0842,-0.0876,0.0034
+2026-11-04,0.81,0.81,0.77,0.79,0.79,0.84,1.05,1.23,1.32,0.9676,0,0.8370,0,34,167,-0.0798,-0.0861,0.0063

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.96,NPB,Northpointe Bancshares Inc.,Financial Services,Banks - Regional,United States,546047232,15.79,383580,259387,4095720.73,-0.133,-0.316,-0.352,0.0,0.34537998,0.33200002,0.13126001,0.01129,489900992,1544537984,,,,,,34581842,14097288,0.33284,0.75561,706019,2.43,0.025,7.3785043,6.290837,2.2130382,0.8741143,6.487,,18.08333,19.5,16.75,2.33333,buy,3,0,0,0,3,2027-01-19,,https://www.northpointe.com,2026-10-31T18:48:49.086114+00:00
+39.28,NPB,Northpointe Bancshares Inc.,Financial Services,Banks - Regional,United States,546047232,15.79,383580,259387,4095720.73,-0.133,-0.316,-0.352,0.0,0.34537998,0.33200002,0.13126001,0.01129,489900992,1544537984,,,,,,34581842,14097288,0.33284,0.75561,706019,2.43,0.025,7.3785043,6.290837,2.2130382,0.8741143,6.487,,18.08333,19.5,16.75,2.33333,buy,3,0,0,0,3,2027-01-19,,https://www.northpointe.com,2026-10-31T18:48:49.086114+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-18,14.37,14.62,14.37,14.46,,,,,,,0,14.6154,0,2667,,,,
 2025-02-19,14.37,14.44,14.12,14.41,,,,,,,0,14.6154,0,3434,,,,
@@ -444,3 +444,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,16.52,16.72,16.10,16.18,15.60,15.70,16.58,17.39,17.45,16.5045,0,13.9440,1,5589,3975,-0.2435,-0.3640,0.1204
 2026-10-30,16.28,16.53,15.73,15.79,15.63,15.63,16.55,17.38,17.44,16.5045,0,14.1105,1,3232,3999,-0.2236,-0.3359,0.1123
 2026-11-02,15.97,16.36,15.89,15.89,15.68,15.65,16.52,17.36,17.43,16.5045,0,14.2671,1,3391,3966,-0.1974,-0.3082,0.1108
+2026-11-03,15.94,16.06,15.73,15.75,15.68,15.66,16.49,17.35,17.42,16.5045,0,14.4143,1,3026,3953,-0.1859,-0.2837,0.0979
+2026-11-04,16.09,16.33,16.08,16.14,15.78,15.69,16.46,17.34,17.42,16.5045,0,14.5526,1,4088,3958,-0.1436,-0.2557,0.1121

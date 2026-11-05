@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-63.44,RPC,Ridgepost Capital Inc,Financial Services,Asset Management,United States,1016398464,9.22,440860,553965,5107557.300000001,0.113,1.156,1.155,0.55280995,0.3161,0.08748999,0.07115,0.05854,43237000,519156000,100.357,2.354,2.17,55771000,53236624,78989717,52878073,0.37997,0.73063004,4101745,6.96,0.055,38.416668,8.034089,3.2481823,2.765447,5.248,13.316,12.75,15.0,11.0,2.0,buy,4,1,1,0,0,2026-11-04,0.881,https://ridgepostcapital.com,2026-10-31T19:44:23.306830+00:00
+63.23,RPC,Ridgepost Capital Inc,Financial Services,Asset Management,United States,1016398464,9.22,440860,553965,5107557.300000001,0.113,1.156,1.155,0.55280995,0.3161,0.08748999,0.07115,0.05854,43237000,519156000,100.357,2.354,2.17,55771000,53236624,78989717,52878073,0.37997,0.73063004,4101745,6.96,0.055,38.416668,8.034089,3.2481823,2.765447,5.248,13.316,12.75,15.0,11.0,2.0,buy,4,1,1,0,0,2026-11-04,0.881,https://ridgepostcapital.com,2026-10-31T19:44:23.306830+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-21,11.29,11.93,10.59,11.35,,,,,,,0,10.5893,1,73330,,,,
 2021-10-22,11.28,11.37,11.00,11.28,,,,,,,0,10.5893,1,10220,,,,
@@ -1276,4 +1276,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.64,8.82,8.56,8.73,8.55,8.28,8.49,8.06,8.47,7.7854,1,8.4799,1,3765,4590,0.0932,0.0201,0.0731
 2026-10-29,8.87,9.29,8.84,9.29,8.65,8.34,8.51,8.07,8.47,8.0779,1,8.5447,1,3701,4584,0.1477,0.0456,0.1021
 2026-10-30,9.23,9.27,9.02,9.22,8.75,8.40,8.52,8.08,8.47,8.1781,1,8.5600,1,4142,4606,0.1831,0.0731,0.1100
-2026-11-02,9.42,9.78,9.40,9.61,8.87,8.49,8.55,8.09,8.47,8.5530,1,8.6914,1,4893,4621,0.2399,0.1065,0.1334
+2026-11-02,9.42,9.79,9.40,9.61,8.87,8.49,8.55,8.09,8.47,8.5515,1,8.6914,1,4892,4621,0.2399,0.1065,0.1334
+2026-11-03,9.65,9.70,9.29,9.40,8.96,8.56,8.55,8.11,8.46,8.5515,1,8.9111,1,5664,4657,0.2649,0.1382,0.1267
+2026-11-04,8.54,10.05,8.54,9.68,9.08,8.65,8.57,8.12,8.46,8.5515,1,9.7900,0,7314,4664,0.3038,0.1713,0.1325

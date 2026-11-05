@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-79.94,ICG,Intchains Group Limited,Technology,Computer Hardware,China,77100400,1.26,492140,234456,295414.56,-0.871,,,-1.42908,-4.75923,0.0,-0.21631001,-0.11595,461118016,91000,0.011,16.224,13.578,,,29194674,24771257,0.00081,0.0069199996,129091,0.62,0.0063,,-45.0,1.3668587,0.62113595,-6.806,2.25,2.0,2.0,2.0,,none,2,,,,,2026-08-20,1.117,https://intchains.com,2026-10-31T17:28:54.174926+00:00
+80.34,ICG,Intchains Group Limited,Technology,Computer Hardware,China,77100400,1.26,492140,234456,295414.56,-0.871,,,-1.42908,-4.75923,0.0,-0.21631001,-0.11595,461118016,91000,0.011,16.224,13.578,,,29194674,24771257,0.00081,0.0069199996,129091,0.62,0.0063,,-45.0,1.3668587,0.62113595,-6.806,2.25,2.0,2.0,2.0,,none,2,,,,,2026-08-20,1.117,https://intchains.com,2026-10-31T17:28:54.174926+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-16,8.00,8.19,7.70,8.00,,,,,,,0,7.7000,1,4012,,,,
 2023-03-17,8.20,8.56,7.90,8.27,,,,,,,0,7.7000,1,1992,,,,
@@ -925,4 +925,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.37,1.41,1.28,1.40,1.39,1.23,1.04,1.05,1.22,1.0401,1,1.5150,0,487,315,0.1199,0.1129,0.0070
 2026-10-29,1.34,1.38,1.28,1.35,1.39,1.25,1.05,1.05,1.22,1.0401,1,1.5103,0,741,329,0.1116,0.1126,-0.0010
 2026-10-30,1.32,1.39,1.25,1.26,1.38,1.27,1.06,1.05,1.22,1.0401,1,1.5057,0,474,339,0.0967,0.1094,-0.0128
-2026-11-02,1.33,1.42,1.29,1.39,1.39,1.29,1.07,1.05,1.22,1.0401,1,1.4955,0,657,351,0.0942,0.1064,-0.0122
+2026-11-02,1.33,1.42,1.29,1.39,1.39,1.29,1.07,1.05,1.22,1.0401,1,1.4955,0,805,354,0.0942,0.1064,-0.0122
+2026-11-03,1.38,1.39,1.35,1.36,1.38,1.31,1.08,1.05,1.21,1.0401,1,1.4856,0,27,355,0.0888,0.1029,-0.0140
+2026-11-04,1.31,1.38,1.31,1.35,1.38,1.32,1.09,1.05,1.21,1.0401,1,1.4762,0,36,354,0.0824,0.0988,-0.0164

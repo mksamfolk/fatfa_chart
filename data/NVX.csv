@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-27 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.52,NVX,NOVONIX Limited,Industrials,Electrical Equipment & Parts,Australia,56133416,2.25,21160,27759,62457.75,,,,0.55486,-9.25816,0.0,-0.65643,-0.12897,59534916,91317024,58.039,0.967,0.88,-42997140,-65809208,24948185,21219425,0.0,0.01356,402422,16.39,0.0174,,-9.782609,9.993276,0.35377356,15.588,-1.845,5.0,5.0,5.0,,none,1,,,,,,1.033,https://www.novonixgroup.com,2026-10-31T18:54:00.830691+00:00
+98.68,NVX,NOVONIX Limited,Industrials,Electrical Equipment & Parts,Australia,56133416,2.25,21160,27759,62457.75,,,,0.55486,-9.25816,0.0,-0.65643,-0.12897,59534916,91317024,58.039,0.967,0.88,-42997140,-65809208,24948185,21219425,0.0,0.01356,402422,16.39,0.0174,,-9.782609,9.993276,0.35377356,15.588,-1.845,5.0,5.0,5.0,,none,1,,,,,,1.033,https://www.novonixgroup.com,2026-10-31T18:54:00.830691+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-02,23.54,24.00,22.25,22.25,,,,,,,0,24.0000,0,169,,,,
 2022-02-03,22.15,22.15,18.21,19.34,,,,,,,0,24.0000,0,1348,,,,
@@ -1203,4 +1203,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.34,2.48,2.34,2.46,2.16,2.35,1.60,0.97,0.99,2.4687,0,3.2900,0,35,78,0.1061,0.1662,-0.0601
 2026-10-29,2.38,2.43,2.31,2.40,2.18,2.33,1.64,0.98,1.00,2.4687,0,3.2380,0,28,76,0.1114,0.1552,-0.0438
 2026-10-30,2.24,2.27,2.19,2.25,2.19,2.29,1.68,0.98,1.01,2.4687,0,3.1881,0,111,77,0.1023,0.1446,-0.0423
-2026-11-02,2.20,2.23,2.14,2.15,2.19,2.27,1.71,0.99,1.01,2.4687,0,3.1402,0,52,77,0.0860,0.1329,-0.0469
+2026-11-02,2.20,2.23,2.14,2.15,2.19,2.27,1.71,0.99,1.01,2.4687,0,3.1402,0,53,77,0.0860,0.1329,-0.0469
+2026-11-03,2.19,2.28,2.19,2.24,2.21,2.25,1.75,1.00,1.02,2.4687,0,3.0942,0,19,76,0.0795,0.1222,-0.0427
+2026-11-04,2.30,2.30,2.16,2.22,2.22,2.24,1.79,1.01,1.02,2.4687,0,3.0500,0,38,77,0.0719,0.1122,-0.0403

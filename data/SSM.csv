@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.23,SSM,Sono Group N.V.,Consumer Cyclical,Auto Manufacturers,Germany,1411660,0.9637,96010,2808246,2706306.6702,,,,0.38255,-58.09039,0.0,,-1.6883701,166000,5680000,,0.689,0.023,-5023441,-8563440,1424834,768584,0.17638001,0.17125,37609,0.01,0.037,,,8.2928095,-0.4346865,43.364,-0.749,,,,,none,,,,,,,9.639,https://sonomotors.com,2026-10-31T20:12:26.763669+00:00
+2.50,SSM,Sono Group N.V.,Consumer Cyclical,Auto Manufacturers,Germany,1411660,0.9637,96010,2808246,2706306.6702,,,,0.38255,-58.09039,0.0,,-1.6883701,166000,5680000,,0.689,0.023,-5023441,-8563440,1424834,768584,0.17638001,0.17125,37609,0.01,0.037,,,8.2928095,-0.4346865,43.364,-0.749,,,,,none,,,,,,,9.639,https://sonomotors.com,2026-10-31T20:12:26.763669+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-17,1504.50,2905.50,1504.50,2865.00,,,,,,,0,1504.5000,1,2077434,,,,
 2021-11-18,3246.00,3561.75,2100.00,2196.75,,,,,,,0,1504.5000,1,1189742,,,,
@@ -1257,4 +1257,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.13,1.13,1.08,1.11,1.14,1.30,2.40,4.21,4.93,1.6882,0,1.2628,0,46,4324,-0.4108,-0.4604,0.0495
 2026-10-29,1.09,1.14,1.05,1.12,1.14,1.25,2.35,4.17,4.90,1.6469,0,1.2242,0,151,4327,-0.3893,-0.4461,0.0568
 2026-10-30,1.07,1.14,0.95,0.96,1.12,1.20,2.29,4.12,4.87,1.5977,0,1.1894,0,189,4330,-0.3804,-0.4330,0.0526
-2026-11-02,0.98,1.06,0.97,0.98,1.10,1.17,2.23,4.08,4.85,1.5420,0,1.1413,0,52,4331,-0.3678,-0.4200,0.0521
+2026-11-02,0.98,1.06,0.97,0.98,1.10,1.17,2.23,4.08,4.85,1.5421,0,1.1413,0,52,4331,-0.3678,-0.4200,0.0522
+2026-11-03,0.99,1.05,0.95,0.97,1.08,1.14,2.18,4.04,4.82,1.5044,0,1.1390,0,24,4331,-0.3544,-0.4069,0.0524
+2026-11-04,1.00,1.13,0.99,1.00,1.06,1.13,2.13,4.00,4.79,1.5044,0,0.9490,1,79,4332,-0.3377,-0.3930,0.0553

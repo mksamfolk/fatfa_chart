@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-01-22 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.44,REBN,Reborn Coffee Inc.,Consumer Cyclical,Restaurants,United States,13705994,1.59,120150,155328,246971.52000000002,2.446,,,0.38764,-0.2493,-0.37564,,-0.1469,309878,8358618,1136.234,0.651,0.169,-5010325,-9018392,8620122,6084082,0.3858,0.12597999,108627,0.74,0.0175,,,0.8513111,35.333332,1.374,-13.634,,,,,none,,,,,,,1.876,https://www.reborncoffee.com,2026-10-31T19:36:39.687725+00:00
+28.82,REBN,Reborn Coffee Inc.,Consumer Cyclical,Restaurants,United States,13705994,1.59,120150,155328,246971.52000000002,2.446,,,0.38764,-0.2493,-0.37564,,-0.1469,309878,8358618,1136.234,0.651,0.169,-5010325,-9018392,8620122,6084082,0.3858,0.12597999,108627,0.74,0.0175,,,0.8513111,35.333332,1.374,-13.634,,,,,none,,,,,,,1.876,https://www.reborncoffee.com,2026-10-31T19:36:39.687725+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-12,70.40,99.60,38.08,38.40,,,,,,,0,99.6000,0,21893,,,,
 2022-08-15,34.48,36.40,28.64,31.92,,,,,,,0,99.6000,0,3767,,,,
@@ -1074,3 +1074,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.61,1.78,1.53,1.57,1.64,1.68,1.45,1.77,1.76,1.3399,1,1.4854,1,103,193,0.0574,0.0733,-0.0159
 2026-10-30,1.64,1.65,1.56,1.59,1.66,1.71,1.45,1.77,1.76,1.3399,1,1.5175,1,22,192,0.0509,0.0689,-0.0179
 2026-11-02,1.59,1.67,1.51,1.52,1.64,1.69,1.46,1.77,1.76,1.3399,1,2.2880,0,52,192,0.0397,0.0630,-0.0233
+2026-11-03,1.57,1.59,1.50,1.51,1.61,1.66,1.45,1.77,1.76,1.3399,1,2.2724,0,47,191,0.0297,0.0564,-0.0267
+2026-11-04,1.46,1.61,1.38,1.38,1.58,1.63,1.45,1.76,1.76,1.3399,1,2.2413,0,37,190,0.0111,0.0473,-0.0362

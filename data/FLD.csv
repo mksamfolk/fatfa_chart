@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.94,FLD,Fold Holdings Inc.,Financial Services,Capital Markets,United States,29333080,0.5346,65660,298921,159803.1666,-0.255,,,-0.47775,-1.39809,-2.58599,-1.21821,-0.16745001,28386784,12446041,39.826,1.837,1.506,-23212020,-18252180,54869209,9450144,0.59748,0.17134,495599,3.69,0.0155,,-1.2728572,1.0397329,0.94119716,0.479,-0.434,2.09625,4.185,0.7,,none,4,0,0,0,0,2026-11-10,0.358,https://foldapp.com,2026-10-31T16:05:09.525349+00:00
+21.69,FLD,Fold Holdings Inc.,Financial Services,Capital Markets,United States,29333080,0.5346,65660,298921,159803.1666,-0.255,,,-0.47775,-1.39809,-2.58599,-1.21821,-0.16745001,28386784,12446041,39.826,1.837,1.506,-23212020,-18252180,54869209,9450144,0.59748,0.17134,495599,3.69,0.0155,,-1.2728572,1.0397329,0.94119716,0.479,-0.434,2.09625,4.185,0.7,,none,4,0,0,0,0,2026-11-10,0.358,https://foldapp.com,2026-10-31T16:05:09.525349+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-09,9.55,9.70,9.55,9.70,,,,,,,0,9.5500,1,3658,,,,
 2022-02-10,9.70,9.70,9.70,9.70,,,,,,,0,9.5500,1,738,,,,
@@ -1200,4 +1200,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.51,0.53,0.51,0.52,0.51,0.53,0.51,0.84,1.14,0.4209,1,0.5960,0,22,164,-0.0017,0.0018,-0.0034
 2026-10-29,0.51,0.53,0.51,0.53,0.51,0.53,0.51,0.83,1.12,0.4209,1,0.5941,0,35,164,-0.0008,0.0012,-0.0020
 2026-10-30,0.52,0.54,0.51,0.54,0.52,0.53,0.51,0.83,1.11,0.4247,1,0.5922,0,43,164,0.0004,0.0011,-0.0007
-2026-11-02,0.55,0.57,0.55,0.55,0.52,0.53,0.51,0.82,1.10,0.4601,1,0.5904,0,62,165,0.0025,0.0014,0.0011
+2026-11-02,0.55,0.58,0.55,0.55,0.52,0.53,0.51,0.82,1.10,0.4630,1,0.5904,0,63,165,0.0025,0.0014,0.0011
+2026-11-03,0.55,0.58,0.51,0.56,0.53,0.53,0.51,0.81,1.09,0.4630,1,0.5886,0,33,164,0.0053,0.0022,0.0032
+2026-11-04,0.56,0.58,0.54,0.54,0.53,0.53,0.52,0.81,1.08,0.4630,1,0.5868,0,34,164,0.0054,0.0028,0.0026

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-07 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.94,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,13923140,2.37,5350,155756,369141.72000000003,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00719,14522,0.53,0.003,2.5760868,,0.09761781,0.3911501,-0.347,-2.713,,,,,none,,,,,,,-2.499,https://www.raytech.com.hk,2026-10-31T14:20:57.174321+00:00
+24.82,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,13923140,2.37,5350,155756,369141.72000000003,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00719,14522,0.53,0.003,2.5760868,,0.09761781,0.3911501,-0.347,-2.713,,,,,none,,,,,,,-2.499,https://www.raytech.com.hk,2026-10-31T14:20:57.174321+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-15,80.80,96.64,64.32,67.68,,,,,,,0,64.3200,1,10064,,,,
 2024-05-16,70.40,92.32,67.68,70.08,,,,,,,0,64.3200,1,4778,,,,
@@ -637,4 +637,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.37,2.54,2.37,2.51,2.48,2.56,2.70,3.06,3.24,2.7559,0,3.0495,0,16,620,-0.0769,-0.0760,-0.0009
 2026-10-29,2.46,2.46,2.45,2.45,2.47,2.55,2.69,3.05,3.24,2.7559,0,2.9746,0,6,618,-0.0755,-0.0759,0.0005
 2026-10-30,2.42,2.45,2.34,2.37,2.45,2.52,2.68,3.04,3.25,2.7559,0,2.9071,0,11,618,-0.0798,-0.0767,-0.0031
-2026-11-02,2.27,2.33,2.18,2.32,2.44,2.50,2.67,3.02,3.25,2.6487,0,2.8464,0,16,618,-0.0863,-0.0786,-0.0077
+2026-11-02,2.27,2.33,2.18,2.32,2.44,2.50,2.67,3.02,3.25,2.6487,0,2.8464,0,18,618,-0.0863,-0.0786,-0.0077
+2026-11-03,2.20,2.27,2.20,2.23,2.41,2.48,2.65,3.01,3.25,2.6228,0,2.7664,0,42,619,-0.0976,-0.0824,-0.0152
+2026-11-04,2.20,2.26,2.20,2.23,2.38,2.46,2.64,3.00,3.25,2.5993,0,2.6961,0,8,618,-0.1054,-0.0870,-0.0183

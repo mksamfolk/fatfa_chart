@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.57,IPX,IperionX Limited,Basic Materials,Other Industrial Metals & Mining,United States,543722496,15.01,287470,305479,4585239.79,,,,0.0,0.0,0.0,-0.73880994,-0.41338003,35244220,4158979,4.71,3.236,2.835,-44954664,-45066192,36224016,30838592,0.0,0.17157,1445771,3.79,0.0463,,9.810458,,5.773077,,-7.752,44.2,55.0,26.0,1.0,strong_buy,5,0.0,0.0,0.0,0.0,,1.27,https://iperionx.com,2026-10-31T17:44:29.323982+00:00
+11.01,IPX,IperionX Limited,Basic Materials,Other Industrial Metals & Mining,United States,543722496,15.01,287470,305479,4585239.79,,,,0.0,0.0,0.0,-0.73880994,-0.41338003,35244220,4158979,4.71,3.236,2.835,-44954664,-45066192,36224016,30838592,0.0,0.17157,1445771,3.79,0.0463,,9.810458,,5.773077,,-7.752,44.2,55.0,26.0,1.0,strong_buy,5,0.0,0.0,0.0,0.0,,1.27,https://iperionx.com,2026-10-31T17:44:29.323982+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-21,7.00,7.89,6.75,7.04,,,,,,,0,6.7500,1,82,,,,
 2022-06-22,8.00,8.00,7.01,7.90,,,,,,,0,6.7500,1,242,,,,
@@ -1125,4 +1125,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,14.72,15.77,14.66,15.59,13.79,14.81,18.23,26.23,30.64,12.0374,1,12.1400,1,4956,5820,-1.3353,-1.5857,0.2505
 2026-10-29,15.60,17.33,15.60,17.04,14.05,14.87,18.14,26.20,30.49,13.0832,1,12.2126,1,8673,5865,-1.0204,-1.4727,0.4523
 2026-10-30,14.99,15.60,14.60,15.01,14.13,14.77,18.03,26.14,30.32,13.0832,1,12.4173,1,7718,5868,-0.9241,-1.3630,0.4389
-2026-11-02,15.33,16.06,14.88,15.00,14.27,14.69,17.88,26.08,30.16,13.0832,1,12.6138,1,5452,5852,-0.8388,-1.2581,0.4193
+2026-11-02,15.49,16.06,14.88,15.00,14.27,14.69,17.88,26.08,30.16,13.0832,1,12.6138,1,5480,5853,-0.8388,-1.2581,0.4193
+2026-11-03,15.02,15.44,14.78,14.89,14.37,14.58,17.74,26.01,30.00,13.0832,1,12.8025,1,3977,5825,-0.7713,-1.1608,0.3895
+2026-11-04,15.79,16.09,14.75,15.21,14.56,14.55,17.59,25.93,29.84,13.0832,1,12.9836,1,3929,5825,-0.6840,-1.0654,0.3814

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.59,RCT,RedCloud Holdings plc,Technology,Software - Application,United Kingdom,6194361,0.0577,103142860,17453665,1007076.4705,0.336,,,0.64483,-0.71058,-0.69978,,-1.63831,853118,18369176,,0.129,0.083,-29273728,-17848608,107354615,23180345,1.05988,0.01986,478172,0.19,0.0136,,,0.1134894,-0.19105962,0.393,-0.656,,,,,none,,,,,,2026-09-30,,https://redcloudtechnology.com,2026-10-31T19:35:10.311410+00:00
+0.65,RCT,RedCloud Holdings plc,Technology,Software - Application,United Kingdom,6194361,0.0577,103142860,17453665,1007076.4705,0.336,,,0.64483,-0.71058,-0.69978,,-1.63831,853118,18369176,,0.129,0.083,-29273728,-17848608,107354615,23180345,1.05988,0.01986,478172,0.19,0.0136,,,0.1134894,-0.19105962,0.393,-0.656,,,,,none,,,,,,2026-09-30,,https://redcloudtechnology.com,2026-10-31T19:35:10.311410+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-21,4.50,4.75,4.00,4.50,,,,,,,0,4.0000,1,4671,,,,
 2025-03-24,4.50,5.00,4.05,4.78,,,,,,,0,4.0000,1,2731,,,,
@@ -419,5 +419,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.07,0.08,0.05,0.07,0.08,0.12,0.17,0.46,0.65,0.1242,0,0.1490,0,3510,1177,-0.0335,-0.0325,-0.0010
 2026-10-28,0.08,0.08,0.05,0.06,0.08,0.11,0.17,0.45,0.64,0.1242,0,0.1490,0,22436,1623,-0.0335,-0.0327,-0.0008
 2026-10-29,0.06,0.06,0.05,0.06,0.08,0.10,0.17,0.45,0.64,0.1242,0,0.1451,0,2605,1675,-0.0331,-0.0328,-0.0003
-2026-10-30,0.06,0.06,0.05,0.06,0.07,0.10,0.16,0.44,0.63,0.1182,0,0.1413,0,1861,1711,-0.0327,-0.0328,0.0001
-2026-11-02,0.04,0.04,0.03,0.04,0.07,0.09,0.16,0.44,0.62,0.0992,0,0.1377,0,804,1725,-0.0339,-0.0330,-0.0009
+2026-10-30,0.06,0.06,0.05,0.06,0.07,0.10,0.16,0.44,0.63,0.1182,0,0.1413,0,2098,1715,-0.0327,-0.0328,0.0001
+2026-11-02,0.04,0.04,0.03,0.04,0.07,0.09,0.16,0.44,0.62,0.0992,0,0.1377,0,922,1733,-0.0339,-0.0330,-0.0009
+2026-11-03,0.03,0.03,0.03,0.03,0.06,0.08,0.16,0.43,0.62,0.0900,0,0.1315,0,391,1738,-0.0347,-0.0333,-0.0013
+2026-11-04,0.03,0.05,0.03,0.03,0.06,0.08,0.15,0.42,0.61,0.0900,0,0.1234,0,1851,1774,-0.0348,-0.0336,-0.0012

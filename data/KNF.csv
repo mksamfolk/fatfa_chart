@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.93,KNF,Knife River Corporation,Basic Materials,Building Materials,United States,3263346688,57.5,679170,933901,53699307.5,0.126,-0.135,-0.133,0.17828,0.08802,0.042290002,0.09122,0.045,40687000,1668644992,103.908,2.665,1.322,312683008,-3501250,56753855,56462574,0.00433,1.06052,4286651,4.0,0.0979,23.373983,17.728693,0.9866508,2.0324485,1.479,9.894,74.11111,118.0,54.0,1.875,buy,9,0,0,1,1,2026-11-03,0.599,https://www.kniferiver.com,2026-10-31T17:57:24.937365+00:00
+33.62,KNF,Knife River Corporation,Basic Materials,Building Materials,United States,3263346688,57.5,679170,933901,53699307.5,0.126,-0.135,-0.133,0.17828,0.08802,0.042290002,0.09122,0.045,40687000,1668644992,103.908,2.665,1.322,312683008,-3501250,56753855,56462574,0.00433,1.06052,4286651,4.0,0.0979,23.373983,17.728693,0.9866508,2.0324485,1.479,9.894,74.11111,118.0,54.0,1.875,buy,9,0,0,1,1,2026-11-03,0.599,https://www.kniferiver.com,2026-10-31T17:57:24.937365+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-06,37.10,38.50,36.48,36.89,,,,,,,0,36.4800,1,47315,,,,
 2023-06-07,37.09,40.57,37.06,39.34,,,,,,,0,36.4800,1,53833,,,,
@@ -884,4 +884,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,54.58,55.00,53.56,54.25,52.26,51.39,56.03,72.17,74.39,48.4842,1,50.4392,1,29344,51827,-0.5681,-1.4884,0.9203
 2026-10-29,53.92,58.68,53.92,57.60,53.03,51.74,55.86,71.97,74.28,49.6558,1,51.0777,1,33149,51876,-0.1252,-1.2158,1.0905
 2026-10-30,56.99,59.00,56.78,57.50,53.73,52.10,55.69,71.82,74.17,51.2442,1,52.2941,1,28578,50911,0.2152,-0.9296,1.1448
-2026-11-02,59.05,61.88,57.24,57.89,54.56,52.39,55.53,71.68,74.06,52.1868,1,53.5011,1,59778,51337,0.5106,-0.6416,1.1521
+2026-11-02,59.05,61.88,57.22,57.73,54.54,52.39,55.53,71.68,74.06,52.1708,1,53.5011,1,87282,51887,0.4978,-0.6441,1.1419
+2026-11-03,61.01,61.45,57.61,58.53,55.28,52.65,55.42,71.52,73.94,52.1708,1,55.1769,1,87005,52687,0.7774,-0.3598,1.1372
+2026-11-04,60.89,63.23,59.06,62.24,56.26,53.24,55.35,71.39,73.86,52.7235,1,56.5175,1,67618,52541,1.2835,-0.0311,1.3147

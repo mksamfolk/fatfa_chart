@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-01-16 09:30:00-05:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.43,ASBP,Aspire Biopharma Holdings Inc.,Consumer Cyclical,Auto Parts,United States,11374737,8.11,23930,31626,256486.86,,,,-0.25038,-38.80584,0.0,-10.32142,0.60576,12167136,0,,7.986,7.216,-7185846,7431185,1402557,1118146,0.201,0.053439997,8701,0.25,0.0062,,,116.47403,0.89336854,-8.114,,,,,,none,,,,,,,0.173,https://aspirelakewoodholdings.com,2026-10-31T14:16:42.483794+00:00
+99.57,ASBP,Aspire Biopharma Holdings Inc.,Consumer Cyclical,Auto Parts,United States,11374737,8.11,23930,31626,256486.86,,,,-0.25038,-38.80584,0.0,-10.32142,0.60576,12167136,0,,7.986,7.216,-7185846,7431185,1402557,1118146,0.201,0.053439997,8701,0.25,0.0062,,,116.47403,0.89336854,-8.114,,,,,,none,,,,,,,0.173,https://aspirelakewoodholdings.com,2026-10-31T14:16:42.483794+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-11,398.80,399.60,398.40,399.60,,,,,,,0,398.4000,1,492,,,,
 2022-04-12,399.60,399.60,399.60,399.60,,,,,,,0,398.4000,1,11,,,,
@@ -1158,4 +1158,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.70,8.93,8.54,8.88,8.66,8.59,8.15,5.11,4.46,7.5992,1,7.6346,1,123,267,0.1152,0.1421,-0.0269
 2026-10-29,8.84,9.14,8.48,8.48,8.64,8.56,8.20,5.16,4.48,7.5992,1,7.6892,1,264,259,0.0970,0.1331,-0.0361
 2026-10-30,8.46,8.46,8.00,8.11,8.57,8.51,8.23,5.21,4.50,7.5992,1,7.7763,1,165,260,0.0521,0.1169,-0.0648
-2026-11-02,8.03,8.12,7.30,7.30,8.46,8.43,8.25,5.25,4.52,9.5569,0,9.1400,0,148,262,-0.0483,0.0838,-0.1322
+2026-11-02,8.03,8.12,7.30,7.30,8.46,8.43,8.25,5.25,4.52,9.5569,0,9.1400,0,151,262,-0.0483,0.0838,-0.1322
+2026-11-03,7.37,7.80,6.96,7.27,8.32,8.35,8.25,5.29,4.54,9.2942,0,9.1032,0,282,264,-0.1288,0.0413,-0.1701
+2026-11-04,7.22,7.43,7.20,7.31,8.16,8.29,8.25,5.33,4.55,9.1068,0,9.0175,0,43,260,-0.1872,-0.0044,-0.1828

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-13 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.17,PN,PN Smart Energy Limited,Technology,Solar,China,32163776,2.18,54030,393928,858763.04,0.055,,,0.085930005,-0.27754,-0.15537,-0.33341,-0.123050004,4998077,4951072,14.916,1.502,0.652,-1992775,264015,8598775,1381041,0.01381,0.00654,11612,0.07,0.0014,,,0.4976289,0.18177271,0.127,-0.85,,,,,none,,,,,,,,https://www.skycorp.com,2026-10-31T19:21:11.161648+00:00
+11.15,PN,PN Smart Energy Limited,Technology,Solar,China,32163776,2.18,54030,393928,858763.04,0.055,,,0.085930005,-0.27754,-0.15537,-0.33341,-0.123050004,4998077,4951072,14.916,1.502,0.652,-1992775,264015,8598775,1381041,0.01381,0.00654,11612,0.07,0.0014,,,0.4976289,0.18177271,0.127,-0.85,,,,,none,,,,,,,,https://www.skycorp.com,2026-10-31T19:21:11.161648+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-04,73.80,89.00,73.20,80.60,,,,,,,0,73.2000,1,4333,,,,
 2025-03-05,83.20,83.20,74.20,78.00,,,,,,,0,73.2000,1,236,,,,
@@ -434,3 +434,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.35,2.36,2.27,2.29,2.32,2.35,3.67,5.05,6.76,2.8531,0,2.4413,0,99,7025,-0.2354,-0.3198,0.0844
 2026-10-30,2.21,2.25,2.14,2.18,2.31,2.34,3.24,4.99,6.70,2.7243,0,2.4357,0,98,3000,-0.2304,-0.3019,0.0715
 2026-11-02,2.26,2.35,2.20,2.35,2.31,2.33,2.94,4.93,6.64,2.7243,0,2.4239,0,81,2742,-0.2103,-0.2836,0.0733
+2026-11-03,2.29,2.44,2.24,2.33,2.32,2.33,2.82,4.88,6.58,2.7243,0,2.1400,1,67,2637,-0.1938,-0.2656,0.0719
+2026-11-04,2.33,2.61,2.28,2.43,2.31,2.33,2.72,4.83,6.52,2.7243,0,2.1460,1,321,2609,-0.1706,-0.2466,0.0760

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.34,FLYX,flyExclusive Inc.,Industrials,Airlines,United States,117394000,1.15,104930,255771,294136.64999999997,0.217,,,0.18076,-0.04538,-0.05263,,-0.050240003,14236000,229764000,,0.228,0.099,18918000,-61702248,52151748,17291955,0.20267001,0.49942002,7421,0.03,0.0004,,-6.7647057,0.29065546,-0.24287222,1.021,-31.03,,,,,none,,,,,,2026-11-12,0.255,https://www.flyexclusive.com,2026-10-31T16:06:51.728055+00:00
+14.08,FLYX,flyExclusive Inc.,Industrials,Airlines,United States,117394000,1.15,104930,255771,294136.64999999997,0.217,,,0.18076,-0.04538,-0.05263,,-0.050240003,14236000,229764000,,0.228,0.099,18918000,-61702248,52151748,17291955,0.20267001,0.49942002,7421,0.03,0.0004,,-6.7647057,0.29065546,-0.24287222,1.021,-31.03,,,,,none,,,,,,2026-11-12,0.255,https://www.flyexclusive.com,2026-10-31T16:06:51.728055+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-29,5.82,6.70,5.00,5.50,,,,,,,0,5.0000,1,673,,,,
 2024-01-02,6.05,6.20,5.50,6.01,,,,,,,0,5.0000,1,435,,,,
@@ -726,4 +726,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.20,1.24,1.18,1.23,1.15,1.20,1.21,1.84,2.19,1.3408,0,1.2575,0,99,344,-0.0183,-0.0244,0.0061
 2026-10-29,1.20,1.23,1.19,1.23,1.16,1.20,1.21,1.84,2.18,1.3408,0,1.2400,0,124,320,-0.0130,-0.0221,0.0091
 2026-10-30,1.21,1.23,1.15,1.15,1.16,1.20,1.21,1.83,2.17,1.3408,0,1.2400,0,161,307,-0.0151,-0.0207,0.0056
-2026-11-02,1.11,1.13,1.01,1.01,1.15,1.19,1.21,1.82,2.16,1.3083,0,1.2300,0,320,304,-0.0277,-0.0221,-0.0056
+2026-11-02,1.11,1.13,1.01,1.03,1.15,1.19,1.21,1.82,2.16,1.3085,0,1.2300,0,335,304,-0.0262,-0.0218,-0.0044
+2026-11-03,1.00,1.02,0.95,0.95,1.14,1.18,1.21,1.81,2.15,1.2241,0,1.2300,0,415,306,-0.0409,-0.0256,-0.0153
+2026-11-04,0.99,1.02,0.80,1.02,1.13,1.17,1.20,1.80,2.13,1.1918,0,1.1908,0,464,308,-0.0464,-0.0298,-0.0166

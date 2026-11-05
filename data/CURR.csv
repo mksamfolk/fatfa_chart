@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.61,CURR,CURRENC Group Inc.,Technology,Software - Application,Singapore,238037584,2.12,226040,329728,699023.36,-0.218,,,0.4077,-0.46548998,-0.48742,,-0.04535,75580440,28930194,155.111,1.119,0.921,7863996,-54827588,112281885,36493858,0.63356,0.0091,1228632,9.47,0.024300002,,-8.48,6.2950716,-28.648647,5.705,-36.56,,,,,none,,,,,,2026-11-05,0.127,https://investors.currencgroup.com,2026-10-31T15:22:36.681495+00:00
+22.44,CURR,CURRENC Group Inc.,Technology,Software - Application,Singapore,238037584,2.12,226040,329728,699023.36,-0.218,,,0.4077,-0.46548998,-0.48742,,-0.04535,75580440,28930194,155.111,1.119,0.921,7863996,-54827588,112281885,36493858,0.63356,0.0091,1228632,9.47,0.024300002,,-8.48,6.2950716,-28.648647,5.705,-36.56,,,,,none,,,,,,2026-11-05,0.127,https://investors.currencgroup.com,2026-10-31T15:22:36.681495+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-03,5.74,5.74,3.02,4.35,,,,,,,0,5.7400,0,768,,,,
 2024-09-04,3.50,3.83,2.85,3.78,,,,,,,0,5.7400,0,367,,,,
@@ -557,4 +557,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.57,2.57,2.24,2.27,2.41,2.68,3.16,3.09,2.77,3.1070,0,2.9072,0,308,1203,-0.2676,-0.2450,-0.0226
 2026-10-29,2.25,2.32,2.17,2.24,2.37,2.61,3.14,3.09,2.77,3.0849,0,2.8019,0,1824,1231,-0.2671,-0.2494,-0.0177
 2026-10-30,2.18,2.27,2.07,2.12,2.32,2.55,3.12,3.09,2.77,2.9819,0,2.7113,0,941,1237,-0.2733,-0.2542,-0.0191
-2026-11-02,2.12,2.12,1.85,1.93,2.27,2.50,3.09,3.09,2.77,2.7998,0,2.6087,0,656,1234,-0.2901,-0.2614,-0.0287
+2026-11-02,2.15,2.15,1.85,1.93,2.27,2.50,3.09,3.09,2.77,2.8230,0,2.6087,0,656,1234,-0.2901,-0.2614,-0.0287
+2026-11-03,1.93,2.05,1.59,2.01,2.22,2.46,3.06,3.09,2.77,2.6987,0,2.4722,0,900,1243,-0.2936,-0.2678,-0.0258
+2026-11-04,2.01,2.01,1.66,1.78,2.15,2.41,3.03,3.09,2.77,2.6987,0,2.2957,0,384,1243,-0.3114,-0.2766,-0.0348

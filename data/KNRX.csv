@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.87,KNRX,Knorex Ltd.,Technology,Software - Application,Singapore,4441774,0.146,194240,7488690,1093348.74,-0.052,,,0.49403998,-1.91724,-2.09859,,-1.7613901,137818,9981857,,0.163,0.065,-10070069,-6956897,25642538,14196641,0.45221,0.00605,569409,0.04,,,,0.754033,-0.685446,2.425,-1.312,,,,,none,,,,,,,,https://www.knorex.com,2026-10-31T17:57:28.951383+00:00
+3.08,KNRX,Knorex Ltd.,Technology,Software - Application,Singapore,4441774,0.146,194240,7488690,1093348.74,-0.052,,,0.49403998,-1.91724,-2.09859,,-1.7613901,137818,9981857,,0.163,0.065,-10070069,-6956897,25642538,14196641,0.45221,0.00605,569409,0.04,,,,0.754033,-0.685446,2.425,-1.312,,,,,none,,,,,,,,https://www.knorex.com,2026-10-31T17:57:28.951383+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-29,4.00,4.00,2.74,3.20,,,,,,,0,2.7400,1,2961,,,,
 2025-09-30,3.24,3.24,2.80,3.01,,,,,,,0,2.7400,1,441,,,,
@@ -289,4 +289,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.17,0.17,0.14,0.14,0.17,0.20,0.31,0.70,0.85,0.2275,0,0.2039,0,87,1573,-0.0480,-0.0507,0.0028
 2026-10-29,0.14,0.15,0.14,0.15,0.17,0.19,0.31,0.69,0.84,0.2108,0,0.1932,0,11,1573,-0.0471,-0.0500,0.0029
 2026-10-30,0.15,0.15,0.14,0.15,0.17,0.18,0.30,0.68,0.83,0.2065,0,0.1842,0,7,1572,-0.0461,-0.0492,0.0031
-2026-11-02,0.16,0.16,0.14,0.15,0.16,0.18,0.30,0.68,0.83,0.2065,0,0.1767,0,31,1573,-0.0448,-0.0483,0.0035
+2026-11-02,0.16,0.16,0.14,0.15,0.16,0.18,0.30,0.68,0.83,0.2065,0,0.1767,0,31,1573,-0.0448,-0.0483,0.0036
+2026-11-03,0.15,0.15,0.14,0.15,0.16,0.17,0.29,0.67,0.82,0.2029,0,0.1703,0,9,1573,-0.0431,-0.0473,0.0041
+2026-11-04,0.14,0.16,0.14,0.15,0.16,0.17,0.29,0.66,0.81,0.2029,0,0.1650,0,31,1573,-0.0411,-0.0461,0.0049

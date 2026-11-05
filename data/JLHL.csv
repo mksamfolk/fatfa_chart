@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.34,JLHL,Julong Holding Limited,Industrials,Building Products & Equipment,China,126754192,5.71,60440,875978,5001834.38,0.216,-0.06,0.008,0.15781,0.108559996,0.095740005,0.48021,0.06424,43216644,10214794,12.711,1.213,1.2,-9337535,-3061416,12198632,1448641,0.81975996,0.00068999996,82741,0.41,0.0376,31.722221,,0.46239513,10.176811,0.326,2.908,,,,,none,,,,,,,,https://www.julongzx.com,2026-10-31T17:51:00.701052+00:00
+76.44,JLHL,Julong Holding Limited,Industrials,Building Products & Equipment,China,126754192,5.71,60440,875978,5001834.38,0.216,-0.06,0.008,0.15781,0.108559996,0.095740005,0.48021,0.06424,43216644,10214794,12.711,1.213,1.2,-9337535,-3061416,12198632,1448641,0.81975996,0.00068999996,82741,0.41,0.0376,31.722221,,0.46239513,10.176811,0.326,2.908,,,,,none,,,,,,,,https://www.julongzx.com,2026-10-31T17:51:00.701052+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-26,6.21,6.30,4.21,4.23,,,,,,,0,6.3000,0,3251,,,,
 2025-06-27,4.25,4.69,4.10,4.51,,,,,,,0,6.3000,0,1960,,,,
@@ -354,4 +354,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.60,5.90,5.56,5.65,4.98,4.86,6.08,11.16,9.51,6.2528,0,4.2963,1,182,8876,-0.2824,-0.5025,0.2201
 2026-10-29,5.61,5.74,5.31,5.41,5.05,4.83,6.08,11.16,9.52,6.2528,0,4.3338,1,163,8868,-0.2367,-0.4493,0.2127
 2026-10-30,5.37,6.00,5.24,5.71,5.15,4.81,6.05,11.16,9.53,6.2528,0,4.3705,1,401,8836,-0.1742,-0.3943,0.2201
-2026-11-02,5.76,6.00,5.66,5.84,5.27,4.91,6.04,11.16,9.54,6.2528,0,4.4065,1,370,8828,-0.1129,-0.3380,0.2251
+2026-11-02,5.76,6.02,5.65,5.84,5.27,4.91,6.04,11.16,9.54,6.2528,0,4.4065,1,388,8828,-0.1129,-0.3380,0.2251
+2026-11-03,5.84,7.40,5.84,6.61,5.45,5.03,6.05,11.16,9.56,4.7139,1,4.4417,1,1270,8843,-0.0022,-0.2709,0.2687
+2026-11-04,6.77,7.47,6.51,7.10,5.68,5.17,6.08,11.17,9.57,4.9866,1,4.5601,1,14670,9122,0.1237,-0.1920,0.3156

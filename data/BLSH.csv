@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.01,BLSH,Bullish,Technology,Software - Infrastructure,Cayman Islands,3624395520,23.9,1286060,1407004,33627395.6,0.688,,,1.0,-3.1427398,0.0,-0.57069,-0.15711,312851008,518152992,21.063,23.525,2.873,123015000,-408916512,151648346,38694588,0.91119003,0.26242,6941588,5.49,0.1383,,33.178776,12.052353,1.501162,12.888,-4.878,40.81818,53.0,25.0,2.16667,buy,11,1,2,0,0,2026-11-18,,https://www.bullish.com,2026-10-31T14:38:51.980709+00:00
+26.43,BLSH,Bullish,Technology,Software - Infrastructure,Cayman Islands,3624395520,23.9,1286060,1407004,33627395.6,0.688,,,1.0,-3.1427398,0.0,-0.57069,-0.15711,312851008,518152992,21.063,23.525,2.873,123015000,-408916512,151648346,38694588,0.91119003,0.26242,6941588,5.49,0.1383,,33.178776,12.052353,1.501162,12.888,-4.878,40.81818,53.0,25.0,2.16667,buy,11,1,2,0,0,2026-11-18,,https://www.bullish.com,2026-10-31T14:38:51.980709+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-13,95.69,118.00,68.00,68.00,,,,,,,0,68.0000,1,3958117,,,,
 2025-08-14,74.40,85.00,71.20,74.63,,,,,,,0,68.0000,1,2416915,,,,
@@ -336,4 +336,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,29.10,29.15,27.78,28.73,28.99,30.81,33.17,31.82,32.47,33.7354,0,26.8800,1,24952,45536,-1.4903,-1.2420,-0.2483
 2026-10-29,28.45,29.01,27.95,28.47,28.65,30.50,33.20,31.77,32.42,33.7354,0,26.9310,1,23650,44839,-1.4664,-1.2869,-0.1795
 2026-10-30,27.12,27.12,23.76,23.90,28.09,29.98,33.11,31.70,32.34,31.9143,0,29.4300,0,60608,45033,-1.7956,-1.3887,-0.4069
-2026-11-02,24.38,24.78,22.20,22.51,27.60,29.39,32.95,31.63,32.26,30.0949,0,29.3166,0,38966,44344,-2.1439,-1.5397,-0.6042
+2026-11-02,24.38,24.78,22.20,22.54,27.61,29.39,32.95,31.63,32.26,30.0949,0,29.3166,0,46556,44495,-2.1415,-1.5392,-0.6023
+2026-11-03,22.82,23.24,22.50,22.96,27.03,28.87,32.80,31.54,32.18,29.0342,0,29.0319,0,37778,44238,-2.3546,-1.7023,-0.6523
+2026-11-04,22.83,23.65,22.83,23.13,26.37,28.44,32.62,31.46,32.10,29.0337,0,28.7587,0,36946,43745,-2.4811,-1.8581,-0.6231

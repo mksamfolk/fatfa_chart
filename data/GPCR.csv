@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.45,GPCR,Structure Therapeutics Inc.,Healthcare,Biotechnology,United States,1559546624,21.87,905390,1097142,23994495.540000003,,,,0.0,0.0,0.0,-0.20206,-0.14946,1342658048,6228000,0.46,20.753,20.309,-220292992,-119056000,71309857,55462667,0.031070001,0.97609,7147328,4.76,0.1372,,-10.35036,,1.1499633,,-0.839,107.28571,145.0,70.0,,none,14,0,0,1,1,2026-11-05,-1.368,https://structuretx.com,2026-10-31T16:27:28.915461+00:00
+9.33,GPCR,Structure Therapeutics Inc.,Healthcare,Biotechnology,United States,1559546624,21.87,905390,1097142,23994495.540000003,,,,0.0,0.0,0.0,-0.20206,-0.14946,1342658048,6228000,0.46,20.753,20.309,-220292992,-119056000,71309857,55462667,0.031070001,0.97609,7147328,4.76,0.1372,,-10.35036,,1.1499633,,-0.839,107.28571,145.0,70.0,,none,14,0,0,1,1,2026-11-05,-1.368,https://structuretx.com,2026-10-31T16:27:28.915461+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-03,25.00,27.46,23.00,26.00,,,,,,,0,27.4600,0,46361,,,,
 2023-02-06,24.34,26.00,22.29,24.75,,,,,,,0,27.4600,0,2831,,,,
@@ -968,4 +968,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,21.29,21.67,20.50,21.48,21.74,23.76,34.65,42.70,49.65,25.2402,0,23.7714,0,21209,41386,-3.8033,-4.3073,0.5040
 2026-10-29,21.51,22.16,21.39,21.94,21.72,23.40,34.01,42.54,49.37,25.2402,0,23.6405,0,20391,41025,-3.5746,-4.1607,0.5861
 2026-10-30,21.59,22.36,21.07,21.87,21.80,23.11,33.44,42.38,49.06,25.2402,0,23.5149,0,15219,39886,-3.3604,-4.0007,0.6403
-2026-11-02,22.05,22.05,20.42,20.47,21.64,22.76,32.86,42.22,48.74,25.2402,0,23.3943,0,15923,39623,-3.2658,-3.8537,0.5879
+2026-11-02,21.57,22.05,20.42,20.47,21.64,22.76,32.86,42.22,48.74,25.2402,0,23.3943,0,16137,39627,-3.2658,-3.8537,0.5879
+2026-11-03,20.70,21.16,20.30,20.35,21.39,22.40,32.29,42.04,48.40,24.6389,0,23.2159,0,12473,39070,-3.1641,-3.7158,0.5516
+2026-11-04,20.69,21.48,19.94,20.36,21.22,22.09,31.70,41.84,48.04,24.6389,0,22.9826,0,15036,38908,-3.0476,-3.5822,0.5345

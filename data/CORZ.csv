@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.82,CORZ,Core Scientific Inc.,Technology,Software - Infrastructure,United States,4257761024,13.25,13964900,12752478,168970333.5,1.088,,,0.32136002,0.06874,0.0,,-0.024330001,1769735040,4407342080,,0.893,0.646,520240000,464833248,321340441,292876105,0.013789999,1.25945,76629611,5.77,0.2696,,81.4082,9.669894,-1.7503302,15.66,-88.125,30.95238,47.0,16.0,1.31818,strong_buy,21,0,0,0,0,2026-11-05,5.481,https://corescientific.com,2026-10-31T15:13:58.032549+00:00
+21.35,CORZ,Core Scientific Inc.,Technology,Software - Infrastructure,United States,4257761024,13.25,13964900,12752478,168970333.5,1.088,,,0.32136002,0.06874,0.0,,-0.024330001,1769735040,4407342080,,0.893,0.646,520240000,464833248,321340441,292876105,0.013789999,1.25945,76629611,5.77,0.2696,,81.4082,9.669894,-1.7503302,15.66,-88.125,30.95238,47.0,16.0,1.31818,strong_buy,21,0,0,0,0,2026-11-05,5.481,https://corescientific.com,2026-10-31T15:13:58.032549+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-24,5.55,6.10,3.28,3.44,,,,,,,0,6.1000,0,12792,,,,
 2024-01-25,3.72,3.91,3.09,3.21,,,,,,,0,6.1000,0,7805,,,,
@@ -725,4 +725,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,14.60,15.02,13.98,15.00,13.88,14.78,16.38,20.50,19.70,16.3785,0,12.3501,1,226503,204821,-0.8406,-0.9605,0.1199
 2026-10-29,14.48,15.01,14.27,14.43,13.88,14.68,16.29,20.49,19.68,16.3785,0,12.4571,1,122161,203614,-0.7666,-0.9217,0.1551
 2026-10-30,13.56,13.68,12.77,13.25,13.85,14.52,16.19,20.48,19.65,16.3785,0,12.5598,1,250600,204383,-0.7940,-0.8962,0.1022
-2026-11-02,13.32,13.38,12.35,12.51,13.73,14.32,16.08,20.47,19.63,16.0987,0,15.0250,0,152038,202826,-0.8659,-0.8901,0.0242
+2026-11-02,13.32,13.38,12.35,12.51,13.73,14.32,16.08,20.47,19.63,16.0987,0,15.0250,0,152659,202839,-0.8659,-0.8901,0.0242
+2026-11-03,12.53,14.26,12.43,14.24,13.78,14.19,16.02,20.47,19.60,16.0987,0,14.9715,0,281663,204877,-0.7739,-0.8669,0.0930
+2026-11-04,13.10,13.45,12.36,12.76,13.63,14.03,15.92,20.45,19.57,16.0987,0,14.9191,0,309855,207955,-0.8111,-0.8557,0.0446

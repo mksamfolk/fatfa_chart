@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-49.85,UMAC,Unusual Machines Inc.,Technology,Computer Hardware,United States,775824512,15.53,2224040,3399570,52795322.1,6.873,,,0.34759998,-0.46848,-0.20292,-0.02942,-0.08274999,316372224,3156014,0.813,53.823,47.491,-56207216,-51272776,49956505,47474666,0.05742,0.60368997,9271393,3.4,0.1928,,-70.59091,24.35774,1.9992275,14.524,-15.657,35.88889,45.0,25.0,1.33333,strong_buy,9,0,0,1,0,2026-11-05,14.735,https://www.unusualmachines.com,2026-10-31T20:44:19.388313+00:00
+36.17,UMAC,Unusual Machines Inc.,Technology,Computer Hardware,United States,775824512,15.53,2224040,3399570,52795322.1,6.873,,,0.34759998,-0.46848,-0.20292,-0.02942,-0.08274999,316372224,3156014,0.813,53.823,47.491,-56207216,-51272776,49956505,47474666,0.05742,0.60368997,9271393,3.4,0.1928,,-70.59091,24.35774,1.9992275,14.524,-15.657,35.88889,45.0,25.0,1.33333,strong_buy,9,0,0,1,0,2026-11-05,14.735,https://www.unusualmachines.com,2026-10-31T20:44:19.388313+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-14,4.00,4.40,2.50,3.03,,,,,,,0,2.5000,1,1131,,,,
 2024-02-15,3.38,3.70,3.11,3.50,,,,,,,0,2.5000,1,347,,,,
@@ -709,5 +709,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,16.89,17.92,16.76,17.87,16.94,19.27,22.37,20.40,19.18,20.7759,0,15.4700,1,49772,67711,-1.7202,-1.6685,-0.0517
 2026-10-28,18.00,18.08,16.91,17.62,16.93,18.93,22.11,20.41,19.19,20.7759,0,15.5190,1,32342,64045,-1.6094,-1.6567,0.0473
 2026-10-29,17.13,17.98,16.95,17.28,16.88,18.70,21.89,20.44,19.20,20.7759,0,15.6214,1,29466,62078,-1.5313,-1.6316,0.1003
-2026-10-30,16.37,16.70,14.78,15.53,16.80,18.36,21.68,20.47,19.20,20.2366,0,18.0800,0,48696,59981,-1.5923,-1.6238,0.0315
-2026-11-02,15.69,16.13,14.25,14.27,16.58,17.98,21.41,20.49,19.18,19.8009,0,18.0140,0,37207,58451,-1.7224,-1.6435,-0.0789
+2026-10-30,16.37,16.70,14.78,15.53,16.80,18.36,21.68,20.47,19.20,20.2366,0,18.0800,0,48870,59984,-1.5923,-1.6238,0.0315
+2026-11-02,15.69,16.13,14.25,14.27,16.58,17.98,21.41,20.49,19.18,19.8009,0,18.0140,0,37787,58466,-1.7224,-1.6435,-0.0789
+2026-11-03,14.50,15.13,14.31,14.62,16.41,17.60,21.22,20.50,19.16,19.1238,0,17.8634,0,33057,56805,-1.7769,-1.6702,-0.1067
+2026-11-04,13.71,14.22,11.63,13.03,16.01,17.15,20.99,20.51,19.13,17.7877,0,17.7189,0,101552,57137,-1.9261,-1.7213,-0.2047

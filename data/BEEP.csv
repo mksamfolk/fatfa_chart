@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.22,BEEP,Mobile Infrastructure Corporation,Industrials,Infrastructure Operations,United States,104076000,2.52,14920,32442,81753.84,-0.011,,,0.61486,0.16935,-0.67222,-0.15803,0.00378,5067000,197076992,134.129,0.339,0.202,751000,6667750,41300000,11202996,0.1037,0.63829,88400,3.28,0.0055,,-14.823529,3.001644,0.7668898,8.909,26.763,5.83333,6.5,5.0,1.66667,buy,3,1,1,0,0,2026-11-10,0.708,https://www.mobileit.com,2026-10-31T14:31:52.745695+00:00
+61.72,BEEP,Mobile Infrastructure Corporation,Industrials,Infrastructure Operations,United States,104076000,2.52,14920,32442,81753.84,-0.011,,,0.61486,0.16935,-0.67222,-0.15803,0.00378,5067000,197076992,134.129,0.339,0.202,751000,6667750,41300000,11202996,0.1037,0.63829,88400,3.28,0.0055,,-14.823529,3.001644,0.7668898,8.909,26.763,5.83333,6.5,5.0,1.66667,buy,3,1,1,0,0,2026-11-10,0.708,https://www.mobileit.com,2026-10-31T14:31:52.745695+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-28,6.54,13.99,6.15,10.37,,,,,,,0,6.1510,1,10733,,,,
 2023-08-29,10.05,11.50,7.43,8.40,,,,,,,0,6.1510,1,2749,,,,
@@ -812,4 +812,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.54,2.57,2.53,2.54,2.56,2.66,2.62,2.23,2.40,2.4045,1,2.8895,0,52,96,-0.0381,-0.0143,-0.0238
 2026-10-29,2.50,2.57,2.50,2.53,2.56,2.65,2.63,2.23,2.40,2.4045,1,2.8767,0,13,96,-0.0408,-0.0196,-0.0212
 2026-10-30,2.54,2.54,2.50,2.52,2.55,2.63,2.65,2.22,2.40,2.4045,1,2.8642,0,8,90,-0.0433,-0.0243,-0.0189
-2026-11-02,2.51,2.53,2.32,2.40,2.54,2.61,2.66,2.22,2.39,2.8664,0,2.8519,0,48,91,-0.0543,-0.0303,-0.0239
+2026-11-02,2.49,2.53,2.32,2.40,2.54,2.61,2.66,2.22,2.39,2.8664,0,2.8519,0,48,91,-0.0543,-0.0303,-0.0239
+2026-11-03,2.40,2.48,2.40,2.42,2.52,2.59,2.67,2.22,2.39,2.8658,0,2.8399,0,34,90,-0.0607,-0.0364,-0.0243
+2026-11-04,2.55,2.55,2.40,2.43,2.51,2.57,2.68,2.22,2.39,2.8658,0,2.8281,0,41,90,-0.0642,-0.0419,-0.0222

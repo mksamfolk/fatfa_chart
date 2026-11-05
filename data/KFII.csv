@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.65,KFII,K&F Growth Acquisition Corp. II,Financial Services,Shell Companies,United States,431031520,10.98,394570,87342,959015.16,,-0.148,-0.148,0.0,0.0,0.0,,,92083,0,,36.73,15.153,-669156,,39256059,17592996,0.012619999,0.75499,330,0.01,0.0,11.090908,,,-43.74502,,,,,,,none,,,,,,,,,2026-10-31T17:55:04.777696+00:00
+55.72,KFII,K&F Growth Acquisition Corp. II,Financial Services,Shell Companies,United States,431031520,10.98,394570,87342,959015.16,,-0.148,-0.148,0.0,0.0,0.0,,,92083,0,,36.73,15.153,-669156,,39256059,17592996,0.012619999,0.75499,330,0.01,0.0,11.090908,,,-43.74502,,,,,,,none,,,,,,,,,2026-10-31T17:55:04.777696+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-13,9.91,9.93,9.90,9.93,,,,,,,0,9.9000,1,23865,,,,
 2025-03-14,9.91,9.93,9.91,9.92,,,,,,,0,9.9000,1,16701,,,,
@@ -426,4 +426,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.73,10.73,10.72,10.72,10.71,10.70,10.66,10.55,10.51,10.6932,1,10.6971,1,751,849,0.0187,0.0198,-0.0011
 2026-10-29,11.08,11.12,10.68,10.73,10.72,10.71,10.66,10.56,10.51,10.7568,0,10.7300,0,10104,1045,0.0188,0.0196,-0.0008
 2026-10-30,10.98,10.98,10.98,10.98,10.74,10.72,10.67,10.56,10.51,10.7604,1,11.1200,0,5,1022,0.0386,0.0234,0.0152
-2026-11-02,10.74,10.74,10.74,10.74,10.75,10.73,10.67,10.56,10.52,11.0121,0,11.1200,0,10924,1240,0.0346,0.0257,0.0089
+2026-11-02,10.74,10.74,10.74,10.74,10.75,10.73,10.67,10.56,10.52,11.0121,0,11.1200,0,10925,1240,0.0346,0.0257,0.0089
+2026-11-03,11.10,12.41,10.72,10.85,10.76,10.73,10.68,10.57,10.52,11.0121,0,10.6800,1,382,1247,0.0398,0.0285,0.0113
+2026-11-04,10.81,10.81,10.68,10.68,10.76,10.73,10.68,10.57,10.52,11.0121,0,12.4100,0,47,1248,0.0298,0.0288,0.0011

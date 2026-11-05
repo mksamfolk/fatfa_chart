@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-30 09:30:00-04:00,0.016666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.59,ZONE,CleanCore Solutions Inc.,Technology,Information Technology Services,United States,32293216,3.8,82180,138700,527060.0,-0.008,,,0.37809,-6.86245,0.0,-6.57474,-1.10685,15435213,273098,0.53,21.241,18.044,-18157390,-26061882,8498215,8209144,0.045479998,0.10163,229676,1.71,0.0277,,,9.480065,16.666666,5.009,-0.318,,,,,none,,,,,,,2.589,https://zonefrontier.com,2026-10-31T21:16:14.782585+00:00
+99.55,ZONE,CleanCore Solutions Inc.,Technology,Information Technology Services,United States,32293216,3.8,82180,138700,527060.0,-0.008,,,0.37809,-6.86245,0.0,-6.57474,-1.10685,15435213,273098,0.53,21.241,18.044,-18157390,-26061882,8498215,8209144,0.045479998,0.10163,229676,1.71,0.0277,,,9.480065,16.666666,5.009,-0.318,,,,,none,,,,,,,2.589,https://zonefrontier.com,2026-10-31T21:16:14.782585+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-26,4.01,4.24,3.10,3.50,,,,,,,0,4.2400,0,4623,,,,
 2024-04-29,3.98,3.98,3.01,3.20,,,,,,,0,4.2400,0,379,,,,
@@ -644,5 +644,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,5.70,5.70,5.70,5.70,1.22,0.68,0.41,0.50,0.45,4.1626,1,0.0950,1,,1481,0.7611,0.1929,0.5682
 2026-10-28,5.70,5.70,5.70,5.70,1.78,0.95,0.51,0.53,0.48,4.3163,1,0.2071,1,,1450,1.0241,0.3592,0.6650
 2026-10-29,5.70,5.70,5.70,5.70,2.34,1.23,0.62,0.57,0.51,4.4547,1,0.3170,1,,1265,1.2185,0.5310,0.6875
-2026-10-30,4.91,4.91,3.60,3.80,2.71,1.41,0.69,0.59,0.53,6.0058,0,0.4246,1,3123,1200,1.2054,0.6659,0.5395
-2026-11-02,3.81,4.13,3.76,4.12,3.11,1.61,0.76,0.62,0.55,5.6307,0,0.5301,1,1019,1167,1.2069,0.7741,0.4328
+2026-10-30,4.91,4.91,3.60,3.80,2.71,1.41,0.69,0.59,0.53,6.0058,0,0.4246,1,3197,1201,1.2054,0.6659,0.5395
+2026-11-02,3.81,4.14,3.75,4.12,3.11,1.61,0.76,0.62,0.55,5.6377,0,0.5301,1,1031,1168,1.2069,0.7741,0.4328
+2026-11-03,4.14,5.20,4.03,4.98,3.60,1.86,0.85,0.65,0.57,5.6377,0,0.6335,1,2394,1198,1.2629,0.8719,0.3910
+2026-11-04,5.18,6.00,3.59,3.76,3.96,2.04,0.92,0.67,0.59,5.6377,0,0.7349,1,3481,1252,1.1951,0.9365,0.2586

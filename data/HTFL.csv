@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.53,HTFL,Heartflow Inc.,Healthcare,Health Information Services,United States,5134611456,59.05,1709370,1920032,113377889.6,0.476,,,0.80081004,-0.27933002,-0.55817,-1.5423399,-0.18055001,162551008,27127000,9.698,5.08,4.657,-52234000,-33605624,86953627,67249066,0.04899,0.92487,7327567,3.89,0.12189999,,-218.03345,24.211414,18.304401,23.573,-70.061,50.5,64.0,39.0,1.44444,strong_buy,8,1,0,0,0,2026-11-12,,https://www.heartflow.com,2026-10-31T17:07:18.610812+00:00
+97.46,HTFL,Heartflow Inc.,Healthcare,Health Information Services,United States,5134611456,59.05,1709370,1920032,113377889.6,0.476,,,0.80081004,-0.27933002,-0.55817,-1.5423399,-0.18055001,162551008,27127000,9.698,5.08,4.657,-52234000,-33605624,86953627,67249066,0.04899,0.92487,7327567,3.89,0.12189999,,-218.03345,24.211414,18.304401,23.573,-70.061,50.5,64.0,39.0,1.44444,strong_buy,8,1,0,0,0,2026-11-12,,https://www.heartflow.com,2026-10-31T17:07:18.610812+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-11,28.75,31.70,28.27,29.99,,,,,,,0,28.2700,1,34036,,,,
 2025-08-12,29.91,30.31,28.41,29.90,,,,,,,0,28.2700,1,18717,,,,
@@ -338,4 +338,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,58.06,60.29,56.42,59.10,54.77,52.29,50.28,36.23,33.85,49.4243,1,49.6076,1,97113,93494,2.6090,1.9552,0.6538
 2026-10-29,59.00,60.56,58.50,60.53,55.73,52.88,50.58,36.46,34.00,50.8744,1,50.6758,1,78544,92386,2.8647,2.1371,0.7276
 2026-10-30,59.00,59.54,56.93,59.05,56.81,53.36,50.82,36.69,34.12,50.8744,1,51.8619,1,132691,93177,2.9144,2.2926,0.6218
-2026-11-02,59.14,60.00,54.36,54.49,57.15,53.48,50.92,36.89,34.21,50.8744,1,52.9057,1,84507,92417,2.5563,2.3453,0.2110
+2026-11-02,59.14,60.00,54.36,54.49,57.15,53.48,50.92,36.89,34.21,50.8744,1,52.9057,1,89778,92522,2.5563,2.3453,0.2110
+2026-11-03,54.30,56.95,54.00,54.40,57.04,53.66,51.00,37.10,34.29,50.8744,1,53.8242,1,79827,91783,2.2394,2.3241,-0.0847
+2026-11-04,54.59,57.30,54.53,56.57,57.11,54.02,51.13,37.31,34.41,50.8744,1,54.0000,1,90076,91840,2.1387,2.2871,-0.1483

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-11-26 09:30:00-05:00,0.013333333333333334\n2025-05-05 09:30:00-04:00,0.125\n2026-01-20 09:30:00-05:00,0.16\n2026-02-02 09:30:00-05:00,0.16\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.36,PBM,Psyence Biomedical Ltd.,Healthcare,Biotechnology,Canada,12625425,3.31,61640,77776,257438.56,,,,0.0,0.0,0.0,-0.58619,-0.31333,7444763,0,,14.619,12.122,-8143007,-4955898,3814328,1107528,0.0297,0.13239,20292,0.26,0.0076,,,,0.44796318,,-0.831,,,,,none,,,,,,,1.686,https://psyencebiomed.com,2026-10-31T19:11:34.972630+00:00
+18.26,PBM,Psyence Biomedical Ltd.,Healthcare,Biotechnology,Canada,12625425,3.31,61640,77776,257438.56,,,,0.0,0.0,0.0,-0.58619,-0.31333,7444763,0,,14.619,12.122,-8143007,-4955898,3814328,1107528,0.0297,0.13239,20292,0.26,0.0076,,,,0.44796318,,-0.831,,,,,none,,,,,,,1.686,https://psyencebiomed.com,2026-10-31T19:11:34.972630+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-10,232031.25,232031.25,232031.25,232031.25,,,,,,,0,232031.2500,1,3016,,,,
 2021-12-13,233203.13,233203.13,233203.13,233203.13,,,,,,,0,232031.2500,1,,,,,
@@ -1242,3 +1242,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,3.40,3.98,3.40,3.61,3.91,4.36,4.12,3.95,6.30,4.6573,0,4.0459,0,224,321,-0.2154,-0.0631,-0.1523
 2026-10-30,3.51,3.64,3.28,3.31,3.82,4.26,4.12,3.96,6.14,4.6573,0,3.9800,0,154,294,-0.2477,-0.1000,-0.1476
 2026-11-02,3.36,3.55,3.16,3.18,3.72,4.16,4.12,3.96,5.97,4.6573,0,3.9800,0,369,297,-0.2805,-0.1361,-0.1443
+2026-11-03,3.18,3.50,3.11,3.29,3.63,4.08,4.12,3.97,5.82,4.6573,0,3.7747,0,181,299,-0.2942,-0.1677,-0.1265
+2026-11-04,3.44,3.44,3.10,3.18,3.49,3.99,4.12,3.97,5.65,4.6191,0,3.6023,0,60,298,-0.3104,-0.1963,-0.1141

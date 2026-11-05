@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-40.33,SARO,StandardAero Inc.,Industrials,Aerospace & Defense,United States,7736896000,23.38,3288540,3602703,84231196.14,0.046,0.45,0.437,0.15048,0.10532,0.051220004,0.12302,0.05608,179063008,2566457088,93.207,2.135,1.566,290580992,369616000,330919431,216604881,0.0033399998,1.15649,28086597,6.82,0.1375,24.10309,13.329836,1.2233151,2.7603304,1.579,12.674,33.67143,42.4,25.0,1.66667,buy,14,0,0,2,3,2026-11-05,0.91,https://www.standardaero.com,2026-10-31T19:50:25.867063+00:00
+42.57,SARO,StandardAero Inc.,Industrials,Aerospace & Defense,United States,7736896000,23.38,3288540,3602703,84231196.14,0.046,0.45,0.437,0.15048,0.10532,0.051220004,0.12302,0.05608,179063008,2566457088,93.207,2.135,1.566,290580992,369616000,330919431,216604881,0.0033399998,1.15649,28086597,6.82,0.1375,24.10309,13.329836,1.2233151,2.7603304,1.579,12.674,33.67143,42.4,25.0,1.66667,buy,14,0,0,2,3,2026-11-05,0.91,https://www.standardaero.com,2026-10-31T19:50:25.867063+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-02,31.00,33.01,30.76,32.75,,,,,,,0,30.7600,1,893659,,,,
 2024-10-03,32.24,33.25,32.12,32.97,,,,,,,0,30.7600,1,176666,,,,
@@ -551,4 +551,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.41,22.56,22.01,22.21,21.71,21.08,22.70,25.59,26.71,20.1791,1,20.6220,1,70799,79921,-0.1435,-0.4871,0.3436
 2026-10-29,22.68,24.12,22.45,23.79,21.99,21.21,22.65,25.57,26.66,20.8167,1,20.8158,1,106175,80882,0.0356,-0.3826,0.4182
 2026-10-30,23.84,24.00,23.16,23.38,22.20,21.33,22.61,25.56,26.62,21.1036,1,21.2123,1,112348,81797,0.1428,-0.2775,0.4203
-2026-11-02,23.72,25.15,23.67,25.13,22.58,21.53,22.61,25.56,26.58,21.6492,1,21.5613,1,115656,82826,0.3647,-0.1491,0.5138
+2026-11-02,23.72,25.15,23.67,25.13,22.58,21.53,22.61,25.56,26.58,21.6502,1,21.5613,1,115658,82826,0.3647,-0.1491,0.5138
+2026-11-03,25.22,25.55,24.80,25.23,22.95,21.75,22.63,25.56,26.55,22.4662,1,22.0637,1,103607,82883,0.5424,-0.0108,0.5532
+2026-11-04,25.76,26.45,24.82,25.71,23.38,22.02,22.64,25.55,26.51,22.7091,1,22.6215,1,107344,83432,0.7138,0.1341,0.5796

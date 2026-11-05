@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.79,ATAT,Atour Lifestyle Holdings Limited,Consumer Cyclical,Lodging,China,4493807104,32.52,838090,909534,29578045.680000003,0.414,0.317,0.291,0.43745998,0.22153999,0.16771,0.5909,0.20886,5722037248,1294820992,38.533,1.933,1.722,2351902976,2034972800,111482890,91860951,0.06313,0.80439,2329430,2.64,0.0255,16.019705,11.537434,0.38351625,8.72469,-0.003,-0.012,49.288563,60.62669,40.740307,1.19048,strong_buy,19,1,0,1,1,2026-11-10,0.667,https://ir.yaduo.com,2026-10-31T14:18:47.701066+00:00
+45.28,ATAT,Atour Lifestyle Holdings Limited,Consumer Cyclical,Lodging,China,4493807104,32.52,838090,909534,29578045.680000003,0.414,0.317,0.291,0.43745998,0.22153999,0.16771,0.5909,0.20886,5722037248,1294820992,38.533,1.933,1.722,2351902976,2034972800,111482890,91860951,0.06313,0.80439,2329430,2.64,0.0255,16.019705,11.537434,0.38351625,8.72469,-0.003,-0.012,49.288563,60.62669,40.740307,1.19048,strong_buy,19,1,0,1,1,2026-11-10,0.667,https://ir.yaduo.com,2026-10-31T14:18:47.701066+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-11,14.48,15.93,11.21,12.03,,,,,,,0,11.2091,1,23713,,,,
 2022-11-14,13.71,13.96,11.77,12.47,,,,,,,0,11.2091,1,19896,,,,
@@ -1024,4 +1024,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,32.26,32.35,30.07,30.29,32.63,32.50,33.17,34.15,34.83,34.0830,0,34.2691,0,47474,31188,-0.2702,-0.1282,-0.1420
 2026-10-29,30.72,32.71,30.66,32.66,32.54,32.52,33.08,34.13,34.80,34.0830,0,34.0172,0,32823,30747,-0.2227,-0.1471,-0.0756
 2026-10-30,32.71,33.13,32.28,32.52,32.45,32.53,33.05,34.12,34.78,34.0830,0,33.7803,0,25219,29687,-0.1942,-0.1565,-0.0377
-2026-11-02,33.02,34.33,32.52,33.82,32.53,32.61,33.03,34.12,34.76,34.0830,0,30.0700,1,32862,29180,-0.0659,-0.1384,0.0725
+2026-11-02,33.02,34.33,32.52,33.82,32.53,32.61,33.03,34.12,34.76,34.0830,0,30.0700,1,33604,29195,-0.0659,-0.1384,0.0725
+2026-11-03,33.72,33.85,33.33,33.42,32.54,32.67,33.00,34.10,34.75,34.0830,0,30.1552,1,17238,28913,0.0034,-0.1100,0.1135
+2026-11-04,34.00,35.13,33.91,35.06,32.73,32.83,32.99,34.09,34.75,30.8354,1,30.2387,1,31154,28501,0.1886,-0.0503,0.2389

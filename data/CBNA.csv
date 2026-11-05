@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.66,CBNA,Chain Bridge Bancorp Inc.,Financial Services,Banks - Regional,United States,331962336,50.59,14040,18996,961007.64,0.687,1.317,1.323,0.0,0.6315,0.43925998,0.18511999,0.01729,1041584000,0,,,,,,3412907,3323823,0.23704,0.6792,195829,9.97,0.0587,10.118,11.931604,4.4385333,1.7304009,-9.488,,50.33333,53.0,48.0,2.66667,hold,3,1,1,0,0,2027-01-27,0.213,https://www.chainbridgebank.com,2026-10-31T14:54:24.591444+00:00
+91.36,CBNA,Chain Bridge Bancorp Inc.,Financial Services,Banks - Regional,United States,331962336,50.59,14040,18996,961007.64,0.687,1.317,1.323,0.0,0.6315,0.43925998,0.18511999,0.01729,1041584000,0,,,,,,3412907,3323823,0.23704,0.6792,195829,9.97,0.0587,10.118,11.931604,4.4385333,1.7304009,-9.488,,50.33333,53.0,48.0,2.66667,hold,3,1,1,0,0,2027-01-27,0.213,https://www.chainbridgebank.com,2026-10-31T14:54:24.591444+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-04,22.00,22.00,21.01,21.20,,,,,,,0,22.0000,0,7316,,,,
 2024-10-07,21.11,21.15,20.75,20.75,,,,,,,0,22.0000,0,1579,,,,
@@ -534,4 +534,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,51.76,52.23,50.51,50.82,50.18,49.38,47.73,40.95,39.45,45.7823,1,53.2146,0,661,903,1.1217,1.0319,0.0898
 2026-10-29,51.34,52.50,50.12,51.40,50.38,49.62,47.87,41.06,39.51,45.7823,1,53.0967,0,1043,908,1.1391,1.0533,0.0858
 2026-10-30,50.65,50.90,50.10,50.59,50.51,49.83,47.97,41.17,39.58,45.7823,1,52.9811,0,506,902,1.0752,1.0577,0.0175
-2026-11-02,49.93,51.81,49.44,51.81,50.82,50.07,48.10,41.28,39.66,45.7823,1,52.8679,0,694,889,1.1102,1.0682,0.0420
+2026-11-02,49.93,51.81,49.44,51.51,50.79,50.06,48.09,41.28,39.66,45.7823,1,52.8679,0,788,891,1.0863,1.0634,0.0228
+2026-11-03,51.31,51.31,49.42,50.75,50.93,50.12,48.16,41.38,39.74,45.7823,1,52.7570,0,2751,902,1.0219,1.0551,-0.0332
+2026-11-04,51.18,51.80,49.88,51.17,51.05,50.21,48.23,41.49,39.82,45.7823,1,52.6482,0,7706,997,0.9934,1.0428,-0.0494

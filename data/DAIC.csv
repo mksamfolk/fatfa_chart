@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.33,DAIC,CID HoldCo Inc.,Technology,Information Technology Services,United States,2905580,1.13,814750,8344825,9429652.25,0.169,,,0.10714,-1.1660199,0.0,-0.7914,-0.109469995,291763,1834246,16.634,0.076,0.073,-3897740,3101439,2571310,,1.26013,0.08422,261228,0.04,0.1165,,,0.7506374,-0.3673602,,,,,,,none,,,,,,,,https://www.envoythere.com,2026-10-31T15:26:37.500293+00:00
+8.80,DAIC,CID HoldCo Inc.,Technology,Information Technology Services,United States,2905580,1.13,814750,8344825,9429652.25,0.169,,,0.10714,-1.1660199,0.0,-0.7914,-0.109469995,291763,1834246,16.634,0.076,0.073,-3897740,3101439,2571310,,1.26013,0.08422,261228,0.04,0.1165,,,0.7506374,-0.3673602,,,,,,,none,,,,,,,,https://www.envoythere.com,2026-10-31T15:26:37.500293+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-23,715.25,1875.00,715.25,912.50,,,,,,,0,715.2500,1,4895,,,,
 2025-06-24,937.50,1600.00,900.25,1015.25,,,,,,,0,715.2500,1,5750,,,,
@@ -357,4 +357,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.05,1.09,0.99,1.06,1.14,1.70,1.78,3.09,4.95,1.9513,0,1.2923,0,130,25255,-0.3475,-0.2682,-0.0793
 2026-10-29,1.08,1.40,1.07,1.19,1.13,1.62,1.79,3.06,4.81,1.9513,0,0.8360,1,5235,25356,-0.3327,-0.2811,-0.0516
 2026-10-30,1.12,1.19,1.07,1.13,1.12,1.55,1.80,3.03,4.69,1.9513,0,0.8473,1,258,25359,-0.3221,-0.2893,-0.0328
-2026-11-02,1.12,1.20,1.05,1.05,1.12,1.47,1.81,3.00,4.59,1.9512,0,0.8583,1,124,25361,-0.3165,-0.2947,-0.0218
+2026-11-02,1.12,1.20,1.05,1.05,1.12,1.47,1.81,3.00,4.59,1.9512,0,0.8583,1,125,25361,-0.3165,-0.2947,-0.0218
+2026-11-03,1.12,1.18,1.07,1.13,1.12,1.40,1.82,2.96,4.50,1.9050,0,0.8692,1,716,25374,-0.3022,-0.2962,-0.0060
+2026-11-04,1.15,1.15,1.09,1.12,1.11,1.34,1.82,2.93,4.43,1.8423,0,0.8798,1,164,25329,-0.2883,-0.2946,0.0064

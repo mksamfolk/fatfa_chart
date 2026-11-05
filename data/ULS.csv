@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-46.58,ULS,UL Solutions Inc.,Industrials,Specialty Business Services,United States,15068859392,74.76,716310,955500,71433180.0,0.052,1.689,1.703,0.50413,0.18382,0.16083999,0.38712,0.12332,434000000,476000000,29.383,1.425,1.321,678000000,420500000,77808115,77119045,0.01197,1.1698,5467943,4.44,0.0795,30.145163,28.716516,4.7898474,9.463291,4.819,21.028,96.56667,120.0,79.0,1.84615,buy,12,1,1,0,0,2026-11-03,0.707,https://www.ul.com,2026-10-31T20:44:11.050326+00:00
+48.96,ULS,UL Solutions Inc.,Industrials,Specialty Business Services,United States,15068859392,74.76,716310,955500,71433180.0,0.052,1.689,1.703,0.50413,0.18382,0.16083999,0.38712,0.12332,434000000,476000000,29.383,1.425,1.321,678000000,420500000,77808115,77119045,0.01197,1.1698,5467943,4.44,0.0795,30.145163,28.716516,4.7898474,9.463291,4.819,21.028,96.56667,120.0,79.0,1.84615,buy,12,1,1,0,0,2026-11-03,0.707,https://www.ul.com,2026-10-31T20:44:11.050326+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-12,33.53,34.25,32.47,34.22,,,,,,,0,32.4686,1,522486,,,,
 2024-04-15,34.62,34.66,32.81,34.28,,,,,,,0,32.4686,1,107020,,,,
@@ -670,4 +670,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,72.08,73.30,71.77,72.40,73.30,71.19,70.67,84.07,82.43,68.5107,1,74.9317,0,38191,61995,0.8965,0.6824,0.2141
 2026-10-29,72.93,75.73,71.76,75.46,73.40,71.63,70.66,84.02,82.40,68.5107,1,71.7660,1,56995,62401,1.0784,0.7616,0.3168
 2026-10-30,76.00,76.75,74.21,74.76,73.55,72.07,70.65,83.96,82.39,69.1919,1,71.7600,1,57304,62777,1.1527,0.8398,0.3129
-2026-11-02,74.96,76.39,74.27,75.14,73.76,72.42,70.66,83.91,82.38,69.1919,1,71.7600,1,61058,63372,1.2281,0.9175,0.3107
+2026-11-02,74.96,76.39,74.27,75.14,73.76,72.42,70.66,83.91,82.38,69.1919,1,71.7600,1,61074,63372,1.2281,0.9175,0.3107
+2026-11-03,73.59,83.15,73.59,80.40,74.47,73.02,70.79,83.88,82.41,69.8358,1,71.9596,1,122031,65077,1.6928,1.0725,0.6203
+2026-11-04,81.02,82.21,76.87,79.73,75.01,73.65,70.90,83.85,82.45,70.2572,1,72.6310,1,112100,66695,1.9842,1.2549,0.7293

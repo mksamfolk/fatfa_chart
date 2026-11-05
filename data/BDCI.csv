@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.94,BDCI,BTC Development Corp.,Financial Services,Shell Companies,United States,353373632,10.17,134150,48745,495736.65,,,,0.0,0.0,0.0,,,1124620,0,,8.73,7.223,-1606917,,26060000,23588470,0.01967,0.89424,2059,0.05,0.0001,67.799995,,,-36.98182,,,,,,,none,,,,,,,,,2026-10-31T14:30:52.210275+00:00
+53.53,BDCI,BTC Development Corp.,Financial Services,Shell Companies,United States,353373632,10.17,134150,48745,495736.65,,,,0.0,0.0,0.0,,,1124620,0,,8.73,7.223,-1606917,,26060000,23588470,0.01967,0.89424,2059,0.05,0.0001,67.799995,,,-36.98182,,,,,,,none,,,,,,,,,2026-10-31T14:30:52.210275+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-16,10.20,10.20,10.11,10.15,,,,,,,0,10.1100,1,80,,,,
 2025-10-17,10.17,10.26,10.13,10.15,,,,,,,0,10.1100,1,12028,,,,
@@ -277,3 +277,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.18,10.18,10.17,10.18,10.16,10.15,10.13,10.06,10.06,10.1414,1,10.1408,1,68,674,0.0115,0.0109,0.0005
 2026-10-30,10.17,10.17,10.15,10.17,10.16,10.15,10.13,10.07,10.06,10.1414,1,10.1416,1,532,683,0.0112,0.0110,0.0002
 2026-11-02,10.17,10.17,10.17,10.17,10.16,10.16,10.13,10.07,10.06,10.1414,1,10.1424,1,1019,645,0.0108,0.0109,-0.0002
+2026-11-03,10.20,10.20,10.18,10.19,10.17,10.16,10.14,10.07,10.06,10.1512,1,10.1431,1,177,648,0.0116,0.0111,0.0005
+2026-11-04,10.18,10.20,10.18,10.20,10.17,10.16,10.14,10.07,10.06,10.1512,1,10.1454,1,304,653,0.0133,0.0115,0.0017

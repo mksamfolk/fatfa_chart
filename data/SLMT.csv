@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-26 09:30:00-04:00,0.1\n2026-05-14 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.74,SLMT,Solmate Infrastructure Public Limited Company,Technology,Software - Infrastructure,Ireland,34899464,3.17,63680,83371,264286.07,9.298,,,1.0,-4.1241198,0.0,-7.95788,-2.7495599,13924000,0,,1.772,1.68,-22643000,74270056,11009294,5041156,0.48645002,0.2067,296245,2.2,0.0322,,,4.7859936,0.29547027,2.854,-0.067,,,,,none,,,,,,,2.226,https://solmate.com,2026-10-31T20:02:22.539225+00:00
+7.20,SLMT,Solmate Infrastructure Public Limited Company,Technology,Software - Infrastructure,Ireland,34899464,3.17,63680,83371,264286.07,9.298,,,1.0,-4.1241198,0.0,-7.95788,-2.7495599,13924000,0,,1.772,1.68,-22643000,74270056,11009294,5041156,0.48645002,0.2067,296245,2.2,0.0322,,,4.7859936,0.29547027,2.854,-0.067,,,,,none,,,,,,,2.226,https://solmate.com,2026-10-31T20:02:22.539225+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-27,500.00,540.00,370.00,482.00,,,,,,,0,540.0000,0,4081,,,,
 2023-01-30,340.00,379.20,281.00,324.00,,,,,,,0,540.0000,0,1609,,,,
@@ -958,4 +958,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.33,3.80,3.31,3.80,3.17,3.28,3.74,5.74,8.25,2.6181,1,2.8087,1,391,222,-0.1382,-0.2307,0.0925
 2026-10-29,3.66,3.76,3.37,3.40,3.20,3.28,3.74,5.68,8.16,2.6181,1,2.8484,1,214,224,-0.1202,-0.2086,0.0884
 2026-10-30,3.26,3.40,2.99,3.17,3.24,3.26,3.72,5.63,8.06,2.6181,1,2.8864,1,429,226,-0.1231,-0.1915,0.0684
-2026-11-02,3.10,3.32,2.84,2.88,3.23,3.20,3.70,5.57,7.97,2.6181,1,3.8000,0,79,225,-0.1471,-0.1826,0.0356
+2026-11-02,3.10,3.32,2.83,2.88,3.23,3.20,3.70,5.57,7.97,2.6181,1,3.8000,0,79,225,-0.1471,-0.1826,0.0356
+2026-11-03,2.81,3.11,2.81,3.09,3.25,3.16,3.67,5.52,7.89,2.6181,1,3.7806,0,92,224,-0.1474,-0.1756,0.0282
+2026-11-04,3.23,3.29,3.17,3.25,3.26,3.15,3.65,5.47,7.80,2.6181,1,3.7418,0,65,222,-0.1333,-0.1671,0.0339

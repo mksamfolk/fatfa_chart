@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-30 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.83,AIRE,reAlpha Tech Corp.,Real Estate,Real Estate Services,United States,4312756,0.718,88500,111632,80151.776,-0.113,,,0.60498,-2.60737,0.0,-6.20737,-0.67521006,2230607,300759,4.504,1.025,0.705,-12138659,-7349606,6006624,4600444,0.24802999,0.044099998,352553,8.53,0.0746,,-0.4102857,1.0048622,0.6923819,0.793,-0.209,,,,,none,,,,,,,-2.578,https://www.realpha.com,2026-10-31T14:00:05.336270+00:00
+1.68,AIRE,reAlpha Tech Corp.,Real Estate,Real Estate Services,United States,4312756,0.718,88500,111632,80151.776,-0.113,,,0.60498,-2.60737,0.0,-6.20737,-0.67521006,2230607,300759,4.504,1.025,0.705,-12138659,-7349606,6006624,4600444,0.24802999,0.044099998,352553,8.53,0.0746,,-0.4102857,1.0048622,0.6923819,0.793,-0.209,,,,,none,,,,,,,-2.578,https://www.realpha.com,2026-10-31T14:00:05.336270+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-23,575.25,14385.25,575.25,10166.75,,,,,,,0,575.2500,1,13095,,,,
 2023-10-24,4000.00,5500.25,2500.00,2500.00,,,,,,,0,575.2500,1,1070,,,,
@@ -773,4 +773,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.75,0.79,0.74,0.75,0.91,1.06,1.33,3.08,4.77,1.1649,0,0.9746,0,64,192,-0.1687,-0.1514,-0.0174
 2026-10-29,0.72,0.78,0.72,0.72,0.88,1.02,1.32,3.03,4.72,1.1275,0,0.9288,0,24,191,-0.1736,-0.1558,-0.0178
 2026-10-30,0.74,0.76,0.67,0.72,0.85,0.98,1.31,2.99,4.67,1.0853,0,0.8912,0,48,191,-0.1756,-0.1598,-0.0158
-2026-11-02,0.72,0.74,0.63,0.67,0.82,0.95,1.30,2.95,4.61,1.0483,0,0.8474,0,48,191,-0.1791,-0.1636,-0.0155
+2026-11-02,0.69,0.74,0.63,0.67,0.82,0.95,1.30,2.95,4.61,1.0484,0,0.8474,0,52,191,-0.1791,-0.1636,-0.0155
+2026-11-03,0.35,0.41,0.32,0.39,0.77,0.91,1.27,2.90,4.55,0.7971,0,0.8037,0,579,201,-0.2020,-0.1713,-0.0307
+2026-11-04,0.40,0.41,0.38,0.41,0.71,0.87,1.25,2.85,4.50,0.7961,0,0.7400,0,167,203,-0.2159,-0.1802,-0.0357

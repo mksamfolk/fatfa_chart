@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.95,IE,Ivanhoe Electric Inc.,Basic Materials,Copper,United States,1232036736,7.72,2621140,2269506,17520586.32,-0.322,,,0.58717,-40.71823,0.0,-0.0139999995,-0.1534,256878000,36649000,6.907,5.049,4.946,-106006000,-79957000,159590259,127179073,0.19764,0.79124,11261360,4.81,0.08939999,,-17.815521,407.55432,2.3429437,336.276,-8.807,20.58333,28.5,15.0,1.57143,buy,6,0,0,1,1,2026-11-05,1.287,https://ivanhoeelectric.com,2026-10-31T17:34:11.061033+00:00
+17.62,IE,Ivanhoe Electric Inc.,Basic Materials,Copper,United States,1232036736,7.72,2621140,2269506,17520586.32,-0.322,,,0.58717,-40.71823,0.0,-0.0139999995,-0.1534,256878000,36649000,6.907,5.049,4.946,-106006000,-79957000,159590259,127179073,0.19764,0.79124,11261360,4.81,0.08939999,,-17.815521,407.55432,2.3429437,336.276,-8.807,20.58333,28.5,15.0,1.57143,buy,6,0,0,1,1,2026-11-05,1.287,https://ivanhoeelectric.com,2026-10-31T17:34:11.061033+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-28,11.75,12.04,10.10,10.80,,,,,,,0,12.0400,0,56284,,,,
 2022-06-29,10.38,10.69,8.36,9.71,,,,,,,0,12.0400,0,14740,,,,
@@ -1120,4 +1120,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.42,8.83,8.22,8.83,8.38,9.05,9.89,10.98,12.20,9.5729,0,7.4350,1,21475,22505,-0.4949,-0.4735,-0.0215
 2026-10-29,8.52,8.66,8.35,8.42,8.35,8.97,9.85,10.96,12.16,9.5729,0,7.4629,1,16838,22567,-0.4705,-0.4729,0.0024
 2026-10-30,8.03,8.06,7.50,7.72,8.26,8.83,9.79,10.94,12.11,9.5729,0,7.4902,1,23192,22779,-0.5018,-0.4786,-0.0231
-2026-11-02,7.93,8.19,7.51,7.55,8.13,8.70,9.72,10.92,12.06,9.5729,0,7.5000,1,10796,22310,-0.5341,-0.4897,-0.0444
+2026-11-02,7.93,8.19,7.51,7.56,8.14,8.70,9.72,10.92,12.06,9.5729,0,7.5000,1,11952,22333,-0.5333,-0.4896,-0.0437
+2026-11-03,7.60,7.77,7.51,7.70,8.06,8.56,9.65,10.89,12.01,9.4659,0,7.5000,1,13546,22118,-0.5408,-0.4998,-0.0410
+2026-11-04,8.11,8.18,7.63,7.76,7.99,8.46,9.57,10.86,11.96,9.4659,0,7.5100,1,18639,22028,-0.5357,-0.5070,-0.0287

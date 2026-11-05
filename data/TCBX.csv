@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.52,TCBX,Third Coast Bancshares Inc.,Financial Services,Banks - Regional,United States,663734784,39.89,150770,108432,4325352.48,0.263,-0.097,0.052,0.0,0.37938,0.31026,0.12661,0.01268,371396992,171750000,,,,,,16639127,15224117,0.08214,0.62187,518703,5.07,0.0339,10.17602,9.344655,2.736351,0.98498684,1.918,,47.605,54.0,40.0,2.14286,buy,8,1,1,1,1,2027-01-20,0.647,https://www.thirdcoast.bank,2026-10-31T20:22:37.315567+00:00
+49.18,TCBX,Third Coast Bancshares Inc.,Financial Services,Banks - Regional,United States,663734784,39.89,150770,108432,4325352.48,0.263,-0.097,0.052,0.0,0.37938,0.31026,0.12661,0.01268,371396992,171750000,,,,,,16639127,15224117,0.08214,0.62187,518703,5.07,0.0339,10.17602,9.344655,2.736351,0.98498684,1.918,,47.605,54.0,40.0,2.14286,buy,8,1,1,1,1,2027-01-20,0.647,https://www.thirdcoast.bank,2026-10-31T20:22:37.315567+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-09,26.00,27.00,25.00,25.01,,,,,,,0,27.0000,0,25438,,,,
 2021-11-10,25.00,25.54,25.00,25.00,,,,,,,0,27.0000,0,11010,,,,
@@ -1274,3 +1274,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,40.84,41.00,40.14,40.41,40.50,41.23,43.42,41.01,40.75,43.1887,0,42.2215,0,5435,4613,-0.9098,-0.9020,-0.0078
 2026-10-30,40.69,40.69,39.68,39.89,40.34,41.06,43.30,41.03,40.76,43.1887,0,41.9798,0,8708,4731,-0.9073,-0.9031,-0.0042
 2026-11-02,40.31,41.05,39.63,40.67,40.34,40.95,43.19,41.05,40.76,43.1887,0,41.7574,0,4978,4783,-0.8327,-0.8890,0.0563
+2026-11-03,40.53,40.71,39.83,39.89,40.20,40.80,43.07,41.06,40.77,43.1887,0,41.5528,0,3275,4780,-0.8270,-0.8766,0.0496
+2026-11-04,40.97,41.51,40.28,40.49,40.17,40.76,42.97,41.08,40.79,43.1887,0,39.2000,1,4324,4794,-0.7653,-0.8544,0.0891

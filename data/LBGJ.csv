@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-27 09:30:00-04:00,0.01\n2026-08-03 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.01,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1101160,1.55,13030,613614,951101.7000000001,-0.096,0.117,0.231,0.2925,-0.02722,-0.09126,-0.16829,-0.03204,3587976,10654794,136.348,1.177,0.938,-926667,-2449627,621418,2897715,0.00124,0.0015,52791,0.27,0.085,,,0.09914931,0.00018435575,1.093,-13.061,,,,,none,,,,,,,3.064,https://www.libangco.cn,2026-10-31T18:03:25.393692+00:00
+0.19,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1101160,1.55,13030,613614,951101.7000000001,-0.096,0.117,0.231,0.2925,-0.02722,-0.09126,-0.16829,-0.03204,3587976,10654794,136.348,1.177,0.938,-926667,-2449627,621418,2897715,0.00124,0.0015,52791,0.27,0.085,,,0.09914931,0.00018435575,1.093,-13.061,,,,,none,,,,,,,3.064,https://www.libangco.cn,2026-10-31T18:03:25.393692+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,94000.00,110000.00,81200.00,82000.00,,,,,,,0,110000.0000,0,6478,,,,
 2024-10-24,83400.00,86000.00,78000.00,78600.00,,,,,,,0,110000.0000,0,1651,,,,
@@ -521,4 +521,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.49,1.56,1.48,1.53,1.55,1.74,2.61,242.23,3712.57,3.0107,0,2.1735,0,12,2751,-3.9283,-5.6094,1.6812
 2026-10-29,1.51,1.65,1.51,1.61,1.55,1.72,2.55,229.17,3649.48,2.9637,0,2.1382,0,24,2711,-3.6406,-5.2157,1.5751
 2026-10-30,1.60,1.66,1.54,1.55,1.56,1.69,2.51,216.65,3590.59,2.8821,0,2.1043,0,22,2677,-3.3785,-4.8482,1.4698
-2026-11-02,1.59,1.62,1.55,1.58,1.56,1.67,2.46,203.72,3534.59,2.7594,0,2.0717,0,17,2317,-3.1322,-4.5050,1.3728
+2026-11-02,1.59,1.62,1.52,1.57,1.55,1.67,2.46,203.72,3534.59,2.7534,0,2.0717,0,17,2317,-3.1330,-4.5052,1.3722
+2026-11-03,1.58,1.58,1.46,1.53,1.55,1.65,2.41,191.07,3478.90,2.6211,0,2.0404,0,2065,2329,-2.9082,-4.1858,1.2776
+2026-11-04,1.64,2.17,1.64,1.84,1.56,1.63,2.37,177.88,3421.41,2.6211,0,1.2900,1,906,2309,-2.6742,-3.8835,1.2093

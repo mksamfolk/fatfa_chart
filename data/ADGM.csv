@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.92,ADGM,Adagio Medical Holdings Inc.,Healthcare,Medical Devices,United States,2277464,0.083,923290,9693471,804558.093,,,,0.0,0.0,0.0,-6.57763,-0.3552,7740000,26001000,,1.414,1.024,-16533000,-7902250,27439328,8451302,0.01018,0.54932,132959,0.03,0.0077,,-0.071551725,,-4.368421,,-1.059,3.33333,4.0,3.0,,none,3,0,0,0,0,,0.011,https://adagiomedical.com,2026-10-31T13:52:58.052223+00:00
+1.11,ADGM,Adagio Medical Holdings Inc.,Healthcare,Medical Devices,United States,2277464,0.083,923290,9693471,804558.093,,,,0.0,0.0,0.0,-6.57763,-0.3552,7740000,26001000,,1.414,1.024,-16533000,-7902250,27439328,8451302,0.01018,0.54932,132959,0.03,0.0077,,-0.071551725,,-4.368421,,-1.059,3.33333,4.0,3.0,,none,3,0,0,0,0,,0.011,https://adagiomedical.com,2026-10-31T13:52:58.052223+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-01,8.00,9.05,6.44,9.05,,,,,,,0,6.4400,1,1155,,,,
 2024-08-02,8.66,9.34,6.56,8.17,,,,,,,0,6.4400,1,2223,,,,
@@ -579,4 +579,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.09,0.11,0.09,0.11,0.11,0.16,0.42,0.75,0.81,0.1884,0,0.0830,1,99,8187,-0.0981,-0.1090,0.0109
 2026-10-29,0.11,0.12,0.08,0.09,0.11,0.14,0.42,0.75,0.81,0.1882,0,0.1100,0,101,8188,-0.0944,-0.1061,0.0117
 2026-10-30,0.09,0.09,0.08,0.08,0.10,0.11,0.41,0.74,0.80,0.1701,0,0.1150,0,41,8188,-0.0907,-0.1030,0.0123
-2026-11-02,0.09,0.09,0.08,0.09,0.10,0.11,0.40,0.73,0.80,0.1667,0,0.1150,0,23,8188,-0.0866,-0.0997,0.0132
+2026-11-02,0.09,0.09,0.09,0.09,0.10,0.11,0.40,0.73,0.80,0.1672,0,0.1150,0,24,8188,-0.0865,-0.0997,0.0132
+2026-11-03,0.09,0.09,0.08,0.09,0.10,0.11,0.40,0.73,0.79,0.1580,0,0.1136,0,13,8104,-0.0823,-0.0962,0.0140
+2026-11-04,0.09,0.09,0.09,0.09,0.09,0.11,0.38,0.72,0.79,0.1542,0,0.1123,0,13,488,-0.0780,-0.0926,0.0146

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.71,INDV,Indivior Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4174907392,35.37,2508450,2451892,86723420.03999999,0.134,2.394,2.262,0.85735,0.54775,0.32751,,0.2934,305000000,501000000,,0.615,0.454,96000000,227124992,118035272,109481256,0.01802,1.04854,9414157,3.89,0.094799995,12.677419,7.847792,3.038506,-20.062393,3.181,6.704,49.5,53.0,45.0,1.25,strong_buy,4,2,2,0,0,2026-10-29,1.177,https://www.indivior.com,2026-10-31T17:39:29.335856+00:00
+0.00,INDV,Indivior Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4174907392,35.37,2508450,2451892,86723420.03999999,0.134,2.394,2.262,0.85735,0.54775,0.32751,,0.2934,305000000,501000000,,0.615,0.454,96000000,227124992,118035272,109481256,0.01802,1.04854,9414157,3.89,0.094799995,12.677419,7.847792,3.038506,-20.062393,3.181,6.704,49.5,53.0,45.0,1.25,strong_buy,4,2,2,0,0,2026-10-29,1.177,https://www.indivior.com,2026-10-31T17:39:29.335856+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-09,18.05,18.05,18.05,18.05,,,,,,,0,18.0500,0,,,,,
 2021-11-10,16.15,16.35,16.13,16.35,,,,,,,0,18.0500,0,272,,,,
@@ -1278,4 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,34.39,34.86,33.84,34.77,34.34,34.97,35.32,36.55,35.65,36.5928,0,32.5468,1,53184,77326,-0.3117,-0.3581,0.0464
 2026-10-29,36.53,37.00,34.53,35.25,34.50,34.96,35.24,36.59,35.66,36.5928,0,32.6030,1,201584,79424,-0.2467,-0.3359,0.0891
 2026-10-30,34.78,36.49,34.62,35.37,34.79,34.95,35.20,36.63,35.66,36.5928,0,32.7789,1,162957,81593,-0.1834,-0.3054,0.1220
-2026-11-02,35.43,37.01,35.32,36.28,35.03,34.96,35.18,36.68,35.68,36.5928,0,32.9478,1,120051,82153,-0.0591,-0.2561,0.1970
+2026-11-02,35.43,37.01,35.32,36.28,35.03,34.96,35.18,36.68,35.68,36.5928,0,32.9478,1,176663,83285,-0.0591,-0.2561,0.1970

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.16,FVR,FrontView REIT Inc.,Real Estate,REIT - Diversified,United States,560331136,18.54,249570,213643,3960941.2199999997,0.015,,,0.86542,0.21214001,0.021189999,0.0043,0.01074,8543000,329104000,62.257,1.039,0.671,43312000,70154248,24455953,24083978,0.0627,1.09576,690166,2.99,0.0304,1854.0001,418.13263,8.149086,1.00265,12.584,17.451,21.5,24.0,19.0,1.58333,buy,12,1,1,0,0,2026-11-05,1.175,https://www.frontviewreit.com,2026-10-31T16:14:54.197731+00:00
+69.69,FVR,FrontView REIT Inc.,Real Estate,REIT - Diversified,United States,560331136,18.54,249570,213643,3960941.2199999997,0.015,,,0.86542,0.21214001,0.021189999,0.0043,0.01074,8543000,329104000,62.257,1.039,0.671,43312000,70154248,24455953,24083978,0.0627,1.09576,690166,2.99,0.0304,1854.0001,418.13263,8.149086,1.00265,12.584,17.451,21.5,24.0,19.0,1.58333,buy,12,1,1,0,0,2026-11-05,1.175,https://www.frontviewreit.com,2026-10-31T16:14:54.197731+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-02,16.49,17.36,16.49,16.91,,,,,,,0,16.4897,1,92750,,,,
 2024-10-03,16.82,17.62,16.60,17.51,,,,,,,0,16.4897,1,15965,,,,
@@ -536,4 +536,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,17.75,17.88,17.33,17.78,17.44,17.21,18.70,18.25,17.59,18.3456,0,16.4610,1,6433,3534,-0.2823,-0.4804,0.1981
 2026-10-29,18.00,18.58,17.78,18.54,17.58,17.20,18.65,18.26,17.61,16.2479,1,16.5713,1,8877,3665,-0.1796,-0.4203,0.2407
 2026-10-30,18.66,18.73,18.23,18.54,17.72,17.21,18.62,18.28,17.63,16.5911,1,16.7320,1,4576,3718,-0.0971,-0.3556,0.2585
-2026-11-02,18.46,18.97,18.31,18.78,17.92,17.34,18.59,18.30,17.65,16.7410,1,16.9318,1,2764,3718,-0.0122,-0.2869,0.2748
+2026-11-02,18.46,18.97,18.31,18.80,17.92,17.34,18.59,18.30,17.65,16.7410,1,16.9318,1,3487,3732,-0.0106,-0.2866,0.2760
+2026-11-03,18.67,18.94,18.56,18.78,18.06,17.46,18.56,18.32,17.67,16.9291,1,17.1758,1,4336,3772,0.0557,-0.2182,0.2739
+2026-11-04,19.12,19.53,18.56,19.30,18.27,17.60,18.54,18.34,17.69,17.1112,1,17.3905,1,8237,3791,0.1485,-0.1448,0.2933

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.55,INV,Innventure Inc.,Financial Services,Asset Management,United States,27744732,0.3198,4628310,6794457,2172867.3485999997,1.002,,,0.0,-33.04092,0.0,-0.31489,-0.13234,41543000,26042000,5.394,1.195,0.731,-103395000,-55773500,86756511,68238416,0.404,0.38516998,14771385,1.45,0.19520001,,-0.5610526,7.3946514,0.12720764,75.075,-2.902,5.5,6.0,5.0,,none,2,0,0,0,1,2026-11-12,0.4,https://www.innventure.com,2026-10-31T17:42:21.834607+00:00
+0.57,INV,Innventure Inc.,Financial Services,Asset Management,United States,27744732,0.3198,4628310,6794457,2172867.3485999997,1.002,,,0.0,-33.04092,0.0,-0.31489,-0.13234,41543000,26042000,5.394,1.195,0.731,-103395000,-55773500,86756511,68238416,0.404,0.38516998,14771385,1.45,0.19520001,,-0.5610526,7.3946514,0.12720764,75.075,-2.902,5.5,6.0,5.0,,none,2,0,0,0,1,2026-11-12,0.4,https://www.innventure.com,2026-10-31T17:42:21.834607+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-29,9.90,10.00,9.90,10.00,,,,,,,0,9.9000,1,2,,,,
 2021-11-30,10.00,10.00,10.00,10.00,,,,,,,0,9.9000,1,,,,,
@@ -1249,5 +1249,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.29,0.32,0.29,0.30,0.31,0.43,1.50,3.91,3.83,0.5630,0,0.2415,1,852,5469,-0.3402,-0.4209,0.0807
 2026-10-28,0.30,0.31,0.27,0.31,0.31,0.39,1.45,3.89,3.81,0.5358,0,0.2440,1,1332,5412,-0.3197,-0.4006,0.0810
 2026-10-29,0.30,0.34,0.29,0.30,0.31,0.35,1.39,3.87,3.79,0.5358,0,0.2465,1,1232,5354,-0.3001,-0.3805,0.0804
-2026-10-30,0.31,0.32,0.28,0.32,0.31,0.32,1.33,3.85,3.77,0.5268,0,0.2489,1,760,5251,-0.2801,-0.3604,0.0803
-2026-11-02,0.33,0.33,0.28,0.29,0.31,0.31,1.28,3.83,3.75,0.5215,0,0.2512,1,1010,5198,-0.2636,-0.3411,0.0775
+2026-10-30,0.31,0.32,0.28,0.32,0.31,0.32,1.33,3.85,3.77,0.5268,0,0.2489,1,769,5251,-0.2801,-0.3604,0.0803
+2026-11-02,0.33,0.33,0.28,0.29,0.31,0.31,1.28,3.83,3.75,0.5215,0,0.2512,1,1019,5198,-0.2636,-0.3411,0.0775
+2026-11-03,0.28,0.30,0.25,0.26,0.31,0.30,1.21,3.81,3.73,0.4836,0,0.3660,0,827,5148,-0.2502,-0.3229,0.0727
+2026-11-04,0.26,0.28,0.21,0.22,0.29,0.29,1.15,3.79,3.71,0.4503,0,0.3637,0,764,5047,-0.2402,-0.3064,0.0661

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.65,FIG,Figma Inc.,Technology,Software - Application,United States,11539662848,21.65,10002190,14842326,321336357.9,0.482,,,0.79139,-0.31693,-1.23149,-1.08644,-0.45161,1667138048,67751000,4.584,2.451,2.303,249250000,866974272,455113611,266222438,0.01584,0.88827,37135410,3.29,0.1861,,60.76681,9.005013,7.773788,7.757,-6.356,29.9,35.0,22.0,2.33333,buy,10,0,0,0,0,2026-11-04,,https://www.figma.com,2026-10-31T16:03:34.538684+00:00
+38.30,FIG,Figma Inc.,Technology,Software - Application,United States,11539662848,21.65,10002190,14842326,321336357.9,0.482,,,0.79139,-0.31693,-1.23149,-1.08644,-0.45161,1667138048,67751000,4.584,2.451,2.303,249250000,866974272,455113611,266222438,0.01584,0.88827,37135410,3.29,0.1861,,60.76681,9.005013,7.773788,7.757,-6.356,29.9,35.0,22.0,2.33333,buy,10,0,0,0,0,2026-11-04,,https://www.figma.com,2026-10-31T16:03:34.538684+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-31,85.00,124.63,84.11,115.50,,,,,,,0,84.1050,1,7439240,,,,
 2025-08-01,134.82,142.92,110.11,122.00,,,,,,,0,84.1050,1,6874773,,,,
@@ -344,5 +344,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,23.20,23.35,22.67,22.98,22.84,22.34,23.62,22.05,23.26,20.7871,1,21.7297,1,221084,300443,0.1783,-0.0964,0.2747
 2026-10-28,22.82,23.30,22.73,23.21,23.02,22.45,23.56,22.07,23.20,20.7871,1,21.9187,1,195461,297164,0.1881,-0.0395,0.2276
 2026-10-29,22.46,22.76,22.02,22.32,22.95,22.49,23.47,22.07,23.14,20.7871,1,24.8800,0,192820,293755,0.1227,-0.0071,0.1298
-2026-10-30,22.23,22.29,21.00,21.65,22.96,22.50,23.36,22.08,23.09,20.7871,1,24.8228,0,208680,289493,0.0166,-0.0023,0.0189
-2026-11-02,21.50,22.98,21.27,22.18,23.03,22.51,23.26,22.09,23.04,20.7871,1,24.6699,0,220503,288083,-0.0241,-0.0067,-0.0174
+2026-10-30,22.23,22.29,21.00,21.65,22.96,22.50,23.36,22.08,23.09,20.7871,1,24.8228,0,209061,289500,0.0166,-0.0023,0.0189
+2026-11-02,21.50,22.98,21.27,22.20,23.03,22.51,23.26,22.09,23.04,20.7871,1,24.6699,0,269290,289066,-0.0229,-0.0065,-0.0164
+2026-11-03,21.69,21.87,20.89,21.03,22.86,22.47,23.13,22.09,23.00,20.7871,1,24.5231,0,287997,290231,-0.1469,-0.0345,-0.1123
+2026-11-04,21.39,22.30,21.30,22.13,22.78,22.49,23.03,22.10,22.97,20.7871,1,24.3051,0,311073,290636,-0.1546,-0.0585,-0.0960

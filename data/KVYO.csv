@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.14,KVYO,Klaviyo Inc.,Technology,Software - Application,United States,5734410240,20.14,4519780,6142132,123702538.48,0.264,,,0.73794,-0.04038,0.00489,0.00658,-0.00974,832638976,113925000,11.781,3.13,2.831,276076992,284641504,126937933,125539174,0.020280002,1.0166,20161862,3.4,0.16049999,671.3333,19.237198,4.126496,6.0191274,3.609,-444.654,26.33333,38.0,19.0,1.43478,strong_buy,21,0,0,18,18,2026-11-04,0.671,https://www.klaviyo.com,2026-10-31T18:01:00.097805+00:00
+76.34,KVYO,Klaviyo Inc.,Technology,Software - Application,United States,5734410240,20.14,4519780,6142132,123702538.48,0.264,,,0.73794,-0.04038,0.00489,0.00658,-0.00974,832638976,113925000,11.781,3.13,2.831,276076992,284641504,126937933,125539174,0.020280002,1.0166,20161862,3.4,0.16049999,671.3333,19.237198,4.126496,6.0191274,3.609,-444.654,26.33333,38.0,19.0,1.43478,strong_buy,21,0,0,18,18,2026-11-04,0.671,https://www.klaviyo.com,2026-10-31T18:01:00.097805+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-20,36.75,39.47,30.26,32.76,,,,,,,0,30.2600,1,559669,,,,
 2023-09-21,32.06,34.87,31.30,33.72,,,,,,,0,30.2600,1,173695,,,,
@@ -811,4 +811,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,20.18,20.91,20.03,20.55,19.56,18.21,17.73,17.26,18.09,17.7468,1,18.0679,1,62885,100351,1.0005,0.6567,0.3438
 2026-10-29,19.75,20.44,19.47,20.43,19.80,18.42,17.77,17.27,18.06,17.7468,1,18.3161,1,57032,100120,1.0065,0.7267,0.2798
 2026-10-30,20.49,20.81,19.90,20.14,20.10,18.64,17.81,17.28,18.03,17.7468,1,18.5444,1,68331,100120,0.9765,0.7767,0.1999
-2026-11-02,20.00,22.14,20.00,21.85,20.54,18.90,17.88,17.30,18.01,17.7996,1,18.7545,1,225402,103217,1.0788,0.8371,0.2417
+2026-11-02,20.00,22.14,20.00,21.80,20.53,18.90,17.88,17.30,18.01,17.7996,1,18.7545,1,246360,103637,1.0744,0.8362,0.2382
+2026-11-03,21.11,21.82,20.73,21.33,20.70,19.14,17.95,17.31,18.00,18.0047,1,19.0930,1,113550,104377,1.1013,0.8892,0.2121
+2026-11-04,21.48,22.09,21.09,21.36,20.82,19.33,18.02,17.32,17.98,18.3467,1,19.3977,1,167236,106653,1.1122,0.9338,0.1784

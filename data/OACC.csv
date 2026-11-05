@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.38,OACC,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,United States,142057856,10.72,7120,28368,304104.96,,-0.144,-0.144,0.0,0.0,0.0,,,1179670,11824,,0.728,0.682,-455689,,13250666,13076066,0.0,0.96228,193,0.0,0.0,38.285713,,,-35.14754,,,,,,,none,,,,,,,,https://www.oaktreeacquisitioncorp.com/oac-iii,2026-10-31T18:56:47.143453+00:00
+52.25,OACC,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,United States,142057856,10.72,7120,28368,304104.96,,-0.144,-0.144,0.0,0.0,0.0,,,1179670,11824,,0.728,0.682,-455689,,13250666,13076066,0.0,0.96228,193,0.0,0.0,38.285713,,,-35.14754,,,,,,,none,,,,,,,,https://www.oaktreeacquisitioncorp.com/oac-iii,2026-10-31T18:56:47.143453+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-16,10.00,10.00,10.00,10.00,,,,,,,0,10.0000,0,4,,,,
 2024-12-17,10.00,10.00,10.00,10.00,,,,,,,0,10.0000,0,,,,,
@@ -485,3 +485,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.73,10.73,10.70,10.72,10.69,10.72,10.75,10.69,10.68,10.7798,0,10.8834,0,65,379,-0.0186,-0.0164,-0.0022
 2026-10-30,10.72,10.72,10.72,10.72,10.69,10.72,10.75,10.69,10.68,10.7798,0,10.8788,0,2,355,-0.0159,-0.0163,0.0003
 2026-11-02,10.75,10.75,10.72,10.72,10.70,10.72,10.75,10.69,10.68,10.7798,0,10.8742,0,13,322,-0.0137,-0.0158,0.0021
+2026-11-03,10.72,10.72,10.72,10.72,10.70,10.72,10.75,10.69,10.68,10.7798,0,10.8697,0,,322,-0.0118,-0.0150,0.0032
+2026-11-04,10.72,10.72,10.72,10.72,10.70,10.72,10.75,10.69,10.68,10.7798,0,10.8653,0,,322,-0.0101,-0.0140,0.0039

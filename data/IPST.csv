@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-05 09:30:00-05:00,0.05\n2026-04-23 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.63,IPST,IP Strategy Holdings Inc.,Financial Services,Capital Markets,United States,1883318,2.61,1984520,2754034,7188028.739999999,-0.428,,,0.66454005,-4.3221397,0.0,-27.13199,-0.18577999,19362,4493162,24.505,0.312,0.105,-16696811,-4959231,721578,974391,0.02163,0.101009995,16991,0.06,0.0241,,11.863636,0.1885102,0.10271546,0.708,-0.908,,,,,none,,,,,,,,https://ir.ipstrategy.co,2026-10-31T17:44:12.256147+00:00
+11.17,IPST,IP Strategy Holdings Inc.,Financial Services,Capital Markets,United States,1883318,2.61,1984520,2754034,7188028.739999999,-0.428,,,0.66454005,-4.3221397,0.0,-27.13199,-0.18577999,19362,4493162,24.505,0.312,0.105,-16696811,-4959231,721578,974391,0.02163,0.101009995,16991,0.06,0.0241,,11.863636,0.1885102,0.10271546,0.708,-0.908,,,,,none,,,,,,,,https://ir.ipstrategy.co,2026-10-31T17:44:12.256147+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-22,1600.00,1600.00,1284.00,1360.00,,,,,,,0,1284.0000,1,1160,,,,
 2024-11-25,1380.00,1496.00,1300.00,1376.00,,,,,,,0,1284.0000,1,577,,,,
@@ -499,4 +499,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.38,2.78,2.30,2.58,2.47,2.77,3.88,4.95,10.08,3.6818,0,2.0490,1,1003,28968,-0.4750,-0.5064,0.0314
 2026-10-29,2.45,2.75,2.40,2.63,2.50,2.71,3.89,4.89,9.83,3.6818,0,2.0756,1,206,28972,-0.4381,-0.4927,0.0546
 2026-10-30,2.62,2.72,2.45,2.61,2.51,2.66,3.90,4.82,9.63,3.6818,0,2.1017,1,157,28974,-0.4058,-0.4754,0.0695
-2026-11-02,2.52,2.54,2.22,2.22,2.47,2.61,3.90,4.76,9.43,3.6818,0,2.1273,1,130,28977,-0.4070,-0.4617,0.0547
+2026-11-02,2.52,2.54,2.22,2.22,2.47,2.61,3.90,4.76,9.43,3.6818,0,2.1273,1,140,28977,-0.4070,-0.4617,0.0547
+2026-11-03,2.33,2.71,2.16,2.55,2.47,2.59,3.90,4.70,9.22,3.6818,0,2.1523,1,235,28974,-0.3770,-0.4448,0.0678
+2026-11-04,2.52,2.52,2.25,2.31,2.42,2.56,3.91,4.65,9.03,3.6818,0,2.1630,1,36,28970,-0.3683,-0.4295,0.0612

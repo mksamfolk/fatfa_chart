@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-26 09:30:00-05:00,0.0625\n2026-03-12 09:30:00-04:00,0.0125\n2026-08-10 09:30:00-04:00,0.022222222222222223\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.06,ELPW,Elong Power Holding Limited,Industrials,Electrical Equipment & Parts,China,2600528,2.79,4230780,1197399,3340743.21,149.775,,,0.01826,-0.62137,3.5633302,,-0.05011,8880440,6964804,46.684,2.295,1.154,-8105460,-19298968,929541,146896,0.13345,0.00403,58148,0.14,0.0626,,,0.5271326,0.02755093,-0.305,0.539,,,,,none,,,,,,,0.641,https://www.elongpower.com,2026-10-31T15:46:12.966123+00:00
+5.21,ELPW,Elong Power Holding Limited,Industrials,Electrical Equipment & Parts,China,2600528,2.79,4230780,1197399,3340743.21,149.775,,,0.01826,-0.62137,3.5633302,,-0.05011,8880440,6964804,46.684,2.295,1.154,-8105460,-19298968,929541,146896,0.13345,0.00403,58148,0.14,0.0626,,,0.5271326,0.02755093,-0.305,0.539,,,,,none,,,,,,,0.641,https://www.elongpower.com,2026-10-31T15:46:12.966123+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-05-01,12992.00,13056.00,12928.00,12992.00,,,,,,,0,12928.0000,1,6210,,,,
 2023-05-02,12992.00,13017.60,12992.00,13017.60,,,,,,,0,12928.0000,1,6170,,,,
@@ -893,5 +893,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,2.34,2.46,2.33,2.44,2.32,2.51,2.89,2.58,32.94,2.9817,0,4.2280,0,57,2985,-0.2147,-0.2179,0.0032
 2026-10-28,3.40,3.44,2.58,3.00,2.38,2.52,2.95,2.56,31.90,2.0809,1,4.1450,0,121765,5413,-0.1519,-0.2047,0.0528
 2026-10-29,2.78,2.80,2.40,2.75,2.42,2.52,3.00,2.54,30.89,2.0809,1,4.0637,0,3093,5463,-0.1210,-0.1880,0.0670
-2026-10-30,2.75,2.90,2.68,2.79,2.47,2.52,3.05,2.53,29.77,2.0809,1,3.9841,0,1267,5477,-0.0922,-0.1688,0.0766
-2026-11-02,2.80,2.90,2.41,2.75,2.52,2.51,2.95,2.52,28.90,2.0809,1,3.9060,0,511,5335,-0.0717,-0.1494,0.0777
+2026-10-30,2.75,2.90,2.68,2.79,2.47,2.52,3.05,2.53,29.77,2.0809,1,3.9841,0,1305,5478,-0.0922,-0.1688,0.0766
+2026-11-02,2.80,2.90,2.41,2.75,2.52,2.51,2.95,2.52,28.90,2.0809,1,3.9060,0,519,5336,-0.0717,-0.1494,0.0777
+2026-11-03,2.82,2.86,2.64,2.82,2.57,2.52,3.01,2.51,28.00,2.0809,1,3.8295,0,237,5223,-0.0493,-0.1294,0.0801
+2026-11-04,2.76,2.86,2.50,2.51,2.59,2.51,3.05,2.50,27.26,2.0809,1,3.7545,0,297,3850,-0.0559,-0.1147,0.0588

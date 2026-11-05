@@ -31,4 +31,6 @@ rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageV
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-29,60.00,60.00,35.50,38.28,,,,,,,,35.5000,1,1007,,,,
 2026-10-30,36.14,43.73,36.10,38.38,,,,,,,,35.5000,1,817,,,,
-2026-11-02,37.74,37.99,33.66,37.28,,,,,,,,60.0000,0,874,,,,
+2026-11-02,37.75,37.99,33.66,37.28,,,,,,,,60.0000,0,876,,,,
+2026-11-03,35.00,35.25,33.87,34.00,,,,,,,,59.4732,0,2336,,,,
+2026-11-04,33.52,35.20,33.50,34.36,,,,,,,,58.9569,0,1852,,,,

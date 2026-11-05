@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-11-02 09:30:00-04:00,0.1\n2024-09-06 09:30:00-04:00,0.125\n2026-08-10 09:30:00-04:00,0.02857142857142857\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.10,TNON,Tenon Medical Inc.,Healthcare,Medical Devices,United States,5511906,2.05,148030,6441863,13205819.149999999,1.268,,,0.66810995,-2.62236,-2.5785,-5.51187,-0.71977997,1677000,5678000,,0.579,0.436,-11766000,-6116125,2688735,613870,0.02248,0.01835,51800,0.01,0.0196,,-0.42094457,1.037633,-0.14072904,1.589,-0.716,10.5,11.0,10.0,1.5,strong_buy,2,1,1,0,0,2026-11-12,1.356,https://www.tenonmed.com,2026-10-31T20:31:16.392763+00:00
+86.04,TNON,Tenon Medical Inc.,Healthcare,Medical Devices,United States,5511906,2.05,148030,6441863,13205819.149999999,1.268,,,0.66810995,-2.62236,-2.5785,-5.51187,-0.71977997,1677000,5678000,,0.579,0.436,-11766000,-6116125,2688735,613870,0.02248,0.01835,51800,0.01,0.0196,,-0.42094457,1.037633,-0.14072904,1.589,-0.716,10.5,11.0,10.0,1.5,strong_buy,2,1,1,0,0,2026-11-12,1.356,https://www.tenonmed.com,2026-10-31T20:31:16.392763+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-27,1764.00,2240.00,1040.00,1800.00,,,,,,,0,1040.0000,1,19814,,,,
 2022-04-28,1937.60,2385.60,1415.20,1923.20,,,,,,,0,1040.0000,1,12551,,,,
@@ -1147,4 +1147,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.28,2.30,2.16,2.26,2.41,3.09,3.89,1.84,1.61,3.6900,0,4.0551,0,1005,41115,-0.5222,-0.4603,-0.0620
 2026-10-29,2.27,2.34,2.17,2.29,2.35,2.94,3.93,1.85,1.61,3.6200,0,3.6641,0,282,41119,-0.5043,-0.4691,-0.0352
 2026-10-30,2.27,2.27,2.05,2.05,2.28,2.74,3.96,1.86,1.62,3.4605,0,3.3513,0,346,41125,-0.5037,-0.4760,-0.0277
-2026-11-02,2.09,2.15,1.93,1.93,2.23,2.66,3.86,1.87,1.62,3.2764,0,3.0910,0,115,41126,-0.5070,-0.4822,-0.0248
+2026-11-02,2.09,2.18,1.93,1.93,2.23,2.66,3.86,1.87,1.62,3.3004,0,3.0910,0,118,41126,-0.5070,-0.4822,-0.0248
+2026-11-03,1.93,2.04,1.84,1.89,2.17,2.56,3.90,1.88,1.63,3.1209,0,2.8588,0,145,41128,-0.5070,-0.4871,-0.0199
+2026-11-04,1.98,1.99,1.86,1.91,2.11,2.48,3.93,1.89,1.63,3.0268,0,2.6551,0,117,41091,-0.4997,-0.4896,-0.0100

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.25,WATR,Air Water Ventures Limited,Industrials,Industrial Distribution,United Arab Emirates,42814600,1.37,34170,104825,143610.25,,,,-2.4412,-11.39471,0.0,,-0.42462003,,,,1.485,1.169,-18104876,-6495038,31251533,19603,0.74497,0.80541,200028,2.74,,,,31.31336,-0.0018968502,,,,,,,none,,0,0,0,0,,,https://a1rwater.com,2026-10-31T20:59:02.625194+00:00
+3.44,WATR,Air Water Ventures Limited,Industrials,Industrial Distribution,United Arab Emirates,42814600,1.37,34170,104825,143610.25,,,,-2.4412,-11.39471,0.0,,-0.42462003,,,,1.485,1.169,-18104876,-6495038,31251533,19603,0.74497,0.80541,200028,2.74,,,,31.31336,-0.0018968502,,,,,,,none,,0,0,0,0,,,https://a1rwater.com,2026-10-31T20:59:02.625194+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-16,10.31,10.31,10.30,10.31,,,,,,,0,10.3100,0,45,,,,
 2025-06-17,10.30,10.30,10.29,10.29,,,,,,,0,10.3100,0,25,,,,
@@ -376,4 +376,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.55,1.55,1.44,1.47,1.65,1.74,1.92,6.99,7.79,2.0142,0,1.9508,0,15,165,-0.2006,-0.2065,0.0059
 2026-10-29,1.52,1.55,1.31,1.36,1.60,1.72,1.90,6.94,7.75,2.0141,0,1.9275,0,37,159,-0.2064,-0.2065,0.0001
 2026-10-30,1.49,1.49,1.33,1.37,1.55,1.69,1.87,6.88,7.70,1.9814,0,1.8905,0,7,146,-0.2078,-0.2067,-0.0011
-2026-11-02,1.28,1.28,1.21,1.25,1.49,1.66,1.84,6.82,7.66,1.8073,0,1.8556,0,36,142,-0.2161,-0.2086,-0.0075
+2026-11-02,1.35,1.35,1.21,1.25,1.49,1.66,1.84,6.82,7.66,1.8423,0,1.8556,0,36,142,-0.2161,-0.2086,-0.0075
+2026-11-03,1.31,1.31,1.19,1.24,1.42,1.63,1.81,6.76,7.61,1.7916,0,1.8040,0,19,139,-0.2209,-0.2111,-0.0098
+2026-11-04,1.32,1.70,1.24,1.55,1.41,1.62,1.79,6.70,7.57,1.7916,0,1.7424,0,55,135,-0.1974,-0.2083,0.0109

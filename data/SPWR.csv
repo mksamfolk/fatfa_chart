@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.30,SPWR,SunPower Inc.,Technology,Solar,United States,73669080,0.23,1791840,8132121,1870387.83,-0.17,,,0.52168,-0.42758,-0.03774,,-0.17218,4075000,138180000,,0.818,0.524,-60456000,3885125,320300345,93048267,0.2051,0.28296,17418411,7.2,0.0759,,23.0,0.26020166,-1.3294798,0.651,-4.185,1.45,1.5,1.4,1.0,strong_buy,2,0,0,0,0,2026-11-11,0.7,https://us.sunpower.com,2026-10-31T20:10:25.122608+00:00
+4.01,SPWR,SunPower Inc.,Technology,Solar,United States,73669080,0.23,1791840,8132121,1870387.83,-0.17,,,0.52168,-0.42758,-0.03774,,-0.17218,4075000,138180000,,0.818,0.524,-60456000,3885125,320300345,93048267,0.2051,0.28296,17418411,7.2,0.0759,,23.0,0.26020166,-1.3294798,0.651,-4.185,1.45,1.5,1.4,1.0,strong_buy,2,0,0,0,0,2026-11-11,0.7,https://us.sunpower.com,2026-10-31T20:10:25.122608+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-03,10.11,10.11,10.09,10.10,,,,,,,0,10.1100,0,176,,,,
 2023-01-04,10.09,10.11,10.09,10.10,,,,,,,0,10.1100,0,725,,,,
@@ -975,4 +975,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.25,0.25,0.23,0.24,0.24,0.27,0.27,0.73,0.95,0.2113,1,0.2497,0,737,3512,-0.0232,-0.0232,-0.0000
 2026-10-29,0.24,0.25,0.24,0.24,0.24,0.26,0.27,0.72,0.95,0.2113,1,0.2170,1,446,3454,-0.0217,-0.0229,0.0012
 2026-10-30,0.24,0.24,0.22,0.23,0.23,0.26,0.27,0.72,0.94,0.2113,1,0.2177,1,458,3433,-0.0213,-0.0226,0.0013
-2026-11-02,0.23,0.25,0.22,0.23,0.23,0.25,0.27,0.71,0.93,0.2113,1,0.2180,1,441,3422,-0.0209,-0.0223,0.0013
+2026-11-02,0.23,0.25,0.22,0.23,0.23,0.25,0.27,0.71,0.93,0.2113,1,0.2180,1,459,3422,-0.0209,-0.0222,0.0013
+2026-11-03,0.23,0.24,0.23,0.23,0.23,0.25,0.27,0.70,0.92,0.2113,1,0.2180,1,325,3410,-0.0205,-0.0219,0.0014
+2026-11-04,0.24,0.28,0.23,0.24,0.23,0.24,0.27,0.70,0.92,0.2113,1,0.2186,1,4533,3475,-0.0187,-0.0212,0.0026

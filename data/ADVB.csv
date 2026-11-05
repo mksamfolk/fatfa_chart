@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-20 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.95,ADVB,Advanced Biomed Inc.,Healthcare,Diagnostics & Research,Hong Kong,3799905,2.3,59330,118015,271434.5,,,,1.0,-38.56397,52.31302,-0.79487,-0.21282,385535,1078215,8.783,9.328,9.327,-1946943,-12022238,1652133,986290,0.61412,0.01397,9747,0.5,0.0112,,,29.771187,0.3095142,35.198,-0.728,,,,,none,,,,,,,,https://www.advb.ai,2026-10-31T13:54:05.474332+00:00
+4.95,ADVB,Advanced Biomed Inc.,Healthcare,Diagnostics & Research,Hong Kong,3799905,2.3,59330,118015,271434.5,,,,1.0,-38.56397,52.31302,-0.79487,-0.21282,385535,1078215,8.783,9.328,9.327,-1946943,-12022238,1652133,986290,0.61412,0.01397,9747,0.5,0.0112,,,29.771187,0.3095142,35.198,-0.728,,,,,none,,,,,,,,https://www.advb.ai,2026-10-31T13:54:05.474332+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-06,80.00,82.00,72.00,73.00,,,,,,,0,82.0000,0,1918,,,,
 2025-03-07,74.60,76.80,66.20,73.00,,,,,,,0,82.0000,0,2843,,,,
@@ -431,4 +431,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.82,3.07,2.82,2.98,3.60,4.95,7.19,6.06,5.97,4.8801,0,3.8398,0,54,1262,-1.3475,-1.2085,-0.1390
 2026-10-29,3.02,3.30,2.64,2.64,3.37,4.64,7.02,6.05,5.95,4.8801,0,3.6138,0,69,1234,-1.3505,-1.2369,-0.1136
 2026-10-30,2.82,2.82,2.25,2.30,3.20,4.34,6.86,6.03,5.93,4.4488,0,3.4190,0,50,1205,-1.3646,-1.2625,-0.1022
-2026-11-02,2.45,2.45,2.04,2.08,3.00,4.13,6.75,6.01,5.90,4.0927,0,3.3000,0,20,1189,-1.3781,-1.2856,-0.0925
+2026-11-02,2.45,2.45,2.04,2.08,3.00,4.13,6.75,6.01,5.90,4.0927,0,3.3000,0,21,1189,-1.3781,-1.2856,-0.0925
+2026-11-03,2.01,2.26,2.01,2.20,2.84,3.92,6.64,6.00,5.87,3.8729,0,3.0480,0,36,1181,-1.3629,-1.3011,-0.0619
+2026-11-04,2.28,2.65,2.05,2.10,2.67,3.71,6.52,5.97,5.85,3.8729,0,2.8404,0,57,1168,-1.3435,-1.3096,-0.0340

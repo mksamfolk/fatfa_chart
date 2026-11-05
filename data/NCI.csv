@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-16 09:30:00-04:00,0.2\n2026-05-19 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.47,NCI,Neo-Concept International Group Holdings Limited,Consumer Cyclical,Apparel Manufacturing,Hong Kong,2914513,0.714,124700,1152335,822767.19,-0.508,,,0.3693,-0.0058999998,0.00242,0.00585,0.00898,2332891,46439076,82.049,2.609,0.549,21374780,15719122,3941952,482292,0.03216,0.021960001,42679,0.02,0.012,8.925,,0.021235479,0.05028535,0.324,7.366,,,,,none,,,,,,,-2.245,https://www.neo-ig.com,2026-10-31T18:41:06.756021+00:00
+0.55,NCI,Neo-Concept International Group Holdings Limited,Consumer Cyclical,Apparel Manufacturing,Hong Kong,2914513,0.714,124700,1152335,822767.19,-0.508,,,0.3693,-0.0058999998,0.00242,0.00585,0.00898,2332891,46439076,82.049,2.609,0.549,21374780,15719122,3941952,482292,0.03216,0.021960001,42679,0.02,0.012,8.925,,0.021235479,0.05028535,0.324,7.366,,,,,none,,,,,,,-2.245,https://www.neo-ig.com,2026-10-31T18:41:06.756021+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-23,174.00,455.60,153.60,380.00,,,,,,,0,455.6000,0,66718,,,,
 2024-04-24,327.20,374.24,82.92,93.60,,,,,,,0,455.6000,0,19795,,,,
@@ -648,4 +648,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.81,0.82,0.70,0.74,0.71,1.97,8.30,15.19,16.02,2.0314,0,2.8356,0,86,6583,-2.3944,-2.6844,0.2901
 2026-10-29,0.75,0.78,0.72,0.73,0.72,1.37,8.07,14.63,15.97,1.9115,0,2.5184,0,52,6498,-2.2667,-2.6009,0.3342
 2026-10-30,0.70,0.72,0.65,0.71,0.73,0.76,7.85,14.07,15.92,1.7556,0,2.2456,0,60,6264,-2.1421,-2.5091,0.3670
-2026-11-02,0.71,0.82,0.68,0.69,0.73,0.75,7.61,13.52,15.87,1.7538,0,2.0110,0,77,6248,-2.0217,-2.4116,0.3899
+2026-11-02,0.71,0.82,0.68,0.69,0.73,0.75,7.61,13.52,15.87,1.7538,0,2.0110,0,77,6248,-2.0217,-2.4116,0.3900
+2026-11-03,0.69,0.73,0.66,0.69,0.74,0.74,7.38,12.89,15.82,1.6156,0,1.8093,0,23,6136,-1.9046,-2.3102,0.4056
+2026-11-04,0.68,0.72,0.63,0.63,0.73,0.73,7.16,12.27,15.77,1.5307,0,1.6358,0,58,6062,-1.7959,-2.2073,0.4115

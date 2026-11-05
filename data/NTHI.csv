@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-19.37,NTHI,NeOnc Technologies Holdings Inc.,Healthcare,Biotechnology,United States,93905536,3.26,134260,210329,685672.5399999999,,,,1.0,-1044.189,0.0,,-6.3499403,1973420,328217,,0.178,0.09,-21156676,5401299,28805380,8102081,0.49767,0.10983,876682,4.73,0.0639,,-2.9908257,2348.2253,-3.7385323,2063.567,,17.0,20.0,13.0,,none,4,0,0,1,1,2026-11-12,,https://www.neonc.com,2026-10-31T18:51:11.760480+00:00
+19.52,NTHI,NeOnc Technologies Holdings Inc.,Healthcare,Biotechnology,United States,93905536,3.26,134260,210329,685672.5399999999,,,,1.0,-1044.189,0.0,,-6.3499403,1973420,328217,,0.178,0.09,-21156676,5401299,28805380,8102081,0.49767,0.10983,876682,4.73,0.0639,,-2.9908257,2348.2253,-3.7385323,2063.567,,17.0,20.0,13.0,,none,4,0,0,1,1,2026-11-12,,https://www.neonc.com,2026-10-31T18:51:11.760480+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-26,25.00,25.00,12.11,12.11,,,,,,,0,25.0000,0,1020,,,,
 2025-03-27,14.00,14.00,10.88,12.00,,,,,,,0,25.0000,0,115,,,,
@@ -418,3 +418,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,3.00,3.19,3.00,3.12,2.93,2.88,3.68,4.80,5.92,3.7755,0,2.7339,1,223,793,-0.2133,-0.2938,0.0806
 2026-10-30,3.16,3.38,3.10,3.26,2.98,2.86,3.68,4.75,5.90,3.7755,0,2.7870,1,429,799,-0.1764,-0.2703,0.0940
 2026-11-02,3.22,3.37,3.07,3.07,3.02,2.87,3.67,4.71,5.87,3.7755,0,2.8370,1,288,801,-0.1606,-0.2484,0.0878
+2026-11-03,3.04,3.33,2.99,3.07,3.05,2.87,3.66,4.67,5.84,3.7755,0,2.8840,1,176,801,-0.1465,-0.2280,0.0815
+2026-11-04,3.15,3.20,3.03,3.17,3.08,2.89,3.66,4.63,5.82,3.7755,0,2.9282,1,169,801,-0.1257,-0.2076,0.0818

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-01-26 09:30:00-05:00,0.03333333333333333\n2024-04-05 09:30:00-04:00,0.05\n2025-03-03 09:30:00-05:00,0.04\n2026-02-03 09:30:00-05:00,0.1\n2026-07-13 09:30:00-04:00,0.022222222222222223\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.76,EDBL,Edible Garden AG Incorporated,Consumer Defensive,Farm Products,United States,1435334,0.7355,168810,916712,674241.6760000001,0.128,,,-0.09972999,-0.89944,-1.22086,-1.5243,-0.48343,658000,14718000,264.095,0.726,0.176,-4145000,-7122875,1951509,1950533,0.0005,0.0077600004,144202,0.14,0.0739,,-0.048708607,0.10373159,-0.3791237,1.596,-1.541,4.0,4.0,4.0,,none,1,1,1,0,0,2026-11-12,1.742,https://ediblegardenag.com,2026-10-31T15:42:04.488360+00:00
+0.87,EDBL,Edible Garden AG Incorporated,Consumer Defensive,Farm Products,United States,1435334,0.7355,168810,916712,674241.6760000001,0.128,,,-0.09972999,-0.89944,-1.22086,-1.5243,-0.48343,658000,14718000,264.095,0.726,0.176,-4145000,-7122875,1951509,1950533,0.0005,0.0077600004,144202,0.14,0.0739,,-0.048708607,0.10373159,-0.3791237,1.596,-1.541,4.0,4.0,4.0,,none,1,1,1,0,0,2026-11-12,1.742,https://ediblegardenag.com,2026-10-31T15:42:04.488360+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-05,20250000.00,20250000.00,16605000.00,19507500.00,,,,,,,0,16605000.0000,1,19508,,,,
 2022-05-06,17347500.00,19210500.00,17145000.00,19102500.00,,,,,,,0,16605000.0000,1,,,,,
@@ -1141,4 +1141,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.74,0.74,0.69,0.71,0.84,0.99,1.42,20.69,75.26,0.9568,0,0.8654,0,32,1519,-0.2607,-0.2911,0.0304
 2026-10-29,0.70,0.77,0.70,0.76,0.83,0.96,1.38,19.88,72.90,0.9568,0,0.8304,0,63,1487,-0.2505,-0.2830,0.0325
 2026-10-30,0.70,0.77,0.69,0.74,0.81,0.92,1.35,19.11,70.65,0.9568,0,0.8023,0,858,1488,-0.2415,-0.2747,0.0332
-2026-11-02,0.74,0.76,0.67,0.70,0.79,0.90,1.31,18.27,68.70,0.9525,0,0.7798,0,50,1478,-0.2349,-0.2667,0.0319
+2026-11-02,0.74,0.75,0.67,0.70,0.79,0.90,1.31,18.27,68.70,0.9521,0,0.7798,0,51,1478,-0.2349,-0.2667,0.0319
+2026-11-03,0.72,0.73,0.67,0.73,0.77,0.88,1.28,17.60,66.80,0.9372,0,0.7720,0,43,415,-0.2242,-0.2582,0.0341
+2026-11-04,0.74,0.74,0.70,0.74,0.76,0.86,1.26,16.89,65.19,0.9372,0,0.7550,0,35,388,-0.2126,-0.2491,0.0365

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.65,MMA,Mixed Martial Arts Group Limited,Consumer Cyclical,Leisure,Australia,12732125,0.3345,383820,6793718,2272498.671,,,,0.81084,-12.07326,0.0,-44.21286,-1.9794201,611241,47540,1.456,0.337,0.336,-8307183,3219800,38063153,8555294,0.29855,0.0168,101911,0.3,0.0031,,,11.285604,-4.489551,3.367,-0.209,,,,,none,,,,,,,2.802,https://www.mma.inc,2026-10-31T18:28:46.845674+00:00
+9.51,MMA,Mixed Martial Arts Group Limited,Consumer Cyclical,Leisure,Australia,12732125,0.3345,383820,6793718,2272498.671,,,,0.81084,-12.07326,0.0,-44.21286,-1.9794201,611241,47540,1.456,0.337,0.336,-8307183,3219800,38063153,8555294,0.29855,0.0168,101911,0.3,0.0031,,,11.285604,-4.489551,3.367,-0.209,,,,,none,,,,,,,2.802,https://www.mma.inc,2026-10-31T18:28:46.845674+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-28,4.75,5.25,3.84,4.18,,,,,,,0,5.2500,0,2808,,,,
 2024-04-01,4.20,4.29,3.59,3.75,,,,,,,0,5.2500,0,257,,,,
@@ -665,4 +665,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.32,0.37,0.32,0.35,0.31,0.33,0.39,0.48,0.58,0.3798,0,0.2363,1,57,4564,-0.0245,-0.0313,0.0067
 2026-10-29,0.35,0.38,0.34,0.34,0.32,0.33,0.39,0.48,0.57,0.3798,0,0.2415,1,22,4564,-0.0215,-0.0293,0.0078
 2026-10-30,0.35,0.35,0.33,0.34,0.32,0.32,0.39,0.48,0.57,0.3798,0,0.2495,1,18,4564,-0.0193,-0.0273,0.0080
-2026-11-02,0.34,0.34,0.32,0.32,0.32,0.32,0.39,0.47,0.56,0.3798,0,0.2571,1,19,4563,-0.0185,-0.0255,0.0071
+2026-11-02,0.34,0.34,0.32,0.32,0.32,0.32,0.39,0.47,0.56,0.3798,0,0.2571,1,20,4563,-0.0185,-0.0255,0.0071
+2026-11-03,0.26,0.31,0.26,0.30,0.32,0.32,0.38,0.47,0.56,0.3798,0,0.3760,0,109,4564,-0.0193,-0.0243,0.0050
+2026-11-04,0.30,0.31,0.29,0.30,0.32,0.31,0.38,0.47,0.56,0.3798,0,0.3737,0,20,4563,-0.0199,-0.0234,0.0035

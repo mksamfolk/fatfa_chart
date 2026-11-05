@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.35,ESAB,ESAB Corporation,Industrials,Metal Fabrication,United States,4336826368,69.76,1151650,987475,68886256.0,0.129,-0.541,-0.516,0.36955002,0.12016,0.05747,0.08727,0.05,217491008,2539496960,98.269,1.962,0.991,258868000,146126368,62167810,58067221,0.06493,1.04372,4696111,4.08,0.0935,21.732088,10.939177,1.4446193,1.8317404,2.29,12.764,119.72727,145.0,95.0,1.27273,strong_buy,11,0,0,2,3,2026-11-04,1.143,https://www.esabcorporation.com,2026-10-31T15:51:38.916281+00:00
+30.43,ESAB,ESAB Corporation,Industrials,Metal Fabrication,United States,4336826368,69.76,1151650,987475,68886256.0,0.129,-0.541,-0.516,0.36955002,0.12016,0.05747,0.08727,0.05,217491008,2539496960,98.269,1.962,0.991,258868000,146126368,62167810,58067221,0.06493,1.04372,4696111,4.08,0.0935,21.732088,10.939177,1.4446193,1.8317404,2.29,12.764,119.72727,145.0,95.0,1.27273,strong_buy,11,0,0,2,3,2026-11-04,1.143,https://www.esabcorporation.com,2026-10-31T15:51:38.916281+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-29,49.24,49.24,49.24,49.24,,,,,,,0,49.2366,0,5,,,,
 2022-03-30,49.24,49.24,49.24,49.24,,,,,,,0,49.2366,0,,,,,
@@ -1182,4 +1182,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,69.52,71.20,68.87,70.91,66.84,67.26,70.36,85.78,93.67,73.5044,0,62.7400,1,81929,71811,-0.5867,-1.3940,0.8073
 2026-10-29,71.47,74.36,71.26,74.13,67.69,67.62,70.26,85.66,93.44,64.3118,1,62.9092,1,80639,71184,-0.0210,-1.1194,1.0984
 2026-10-30,72.58,73.54,69.25,69.76,68.13,67.61,70.09,85.52,93.19,64.3118,1,63.3672,1,106349,71536,0.0739,-0.8808,0.9546
-2026-11-02,72.01,76.88,71.46,76.37,69.32,67.86,69.99,85.42,92.97,64.3118,1,63.8069,1,83531,71801,0.6746,-0.5697,1.2443
+2026-11-02,72.01,76.88,71.44,76.30,69.31,67.85,69.99,85.42,92.96,64.3118,1,63.8069,1,101723,72165,0.6691,-0.5708,1.2399
+2026-11-03,76.14,78.46,75.25,76.05,70.40,68.06,69.92,85.28,92.74,66.5841,1,64.5912,1,83351,72705,1.1078,-0.2351,1.3429
+2026-11-04,74.18,80.24,70.42,78.36,71.60,68.63,69.88,85.14,92.54,66.5841,1,65.7003,1,114970,74189,1.6232,0.1366,1.4866

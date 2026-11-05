@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.87,GEV,GE Vernova Inc.,Industrials,Specialty Industrial Machinery,United States,227058515968,857.87,3808980,2385276,2046256722.1200001,0.268,1.933,1.856,0.21787001,0.12767,0.23542,0.93035007,0.03217,16364000256,3748000000,29.893,0.827,0.565,19215998976,22098874368,264677066,264123891,0.00127,0.82061,7383835,3.25,0.0279,22.522184,33.136646,5.155734,19.949074,4.896,42.718,1194.8182,1450.0,940.0,1.47368,strong_buy,33,2,5,0,2,2027-01-27,0.967,https://www.gevernova.com,2026-10-31T16:19:30.556090+00:00
+51.33,GEV,GE Vernova Inc.,Industrials,Specialty Industrial Machinery,United States,227058515968,857.87,3808980,2385276,2046256722.1200001,0.268,1.933,1.856,0.21787001,0.12767,0.23542,0.93035007,0.03217,16364000256,3748000000,29.893,0.827,0.565,19215998976,22098874368,264677066,264123891,0.00127,0.82061,7383835,3.25,0.0279,22.522184,33.136646,5.155734,19.949074,4.896,42.718,1194.8182,1450.0,940.0,1.47368,strong_buy,33,2,5,0,2,2027-01-27,0.967,https://www.gevernova.com,2026-10-31T16:19:30.556090+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-27,114.52,134.43,114.52,130.70,,,,,,,0,114.5161,1,651053,,,,
 2024-03-28,137.35,137.35,129.41,136.17,,,,,,,0,114.5161,1,306197,,,,
@@ -681,4 +681,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,876.38,892.13,836.24,878.03,884.15,939.03,939.13,992.48,942.04,959.0384,0,933.3528,0,5374422,2255801,-26.8708,-18.1112,-8.7595
 2026-10-29,860.00,914.88,860.00,887.85,880.29,934.05,937.14,992.58,943.22,959.0384,0,919.6124,0,3093181,2277058,-25.5289,-19.5948,-5.9342
 2026-10-30,850.00,886.07,844.08,857.87,873.96,927.51,934.98,992.62,944.29,959.0384,0,914.8800,0,3963016,2304963,-26.5783,-20.9915,-5.5868
-2026-11-02,868.00,897.99,860.86,862.33,869.35,921.13,933.09,992.92,945.40,959.0384,0,914.8800,0,2768502,2327533,-26.7417,-22.1415,-4.6002
+2026-11-02,868.00,898.20,860.86,862.25,869.34,921.12,933.09,992.92,945.39,959.0384,0,914.8800,0,3017444,2332511,-26.7481,-22.1428,-4.6053
+2026-11-03,882.27,929.77,881.90,918.20,872.13,915.57,932.61,993.23,946.58,959.0384,0,795.9493,1,2881128,2354455,-22.1131,-22.1369,0.0237
+2026-11-04,855.24,879.04,806.40,832.83,862.82,907.36,930.73,992.82,947.33,959.0384,0,798.6257,1,5245913,2421889,-25.0399,-22.7175,-2.3224

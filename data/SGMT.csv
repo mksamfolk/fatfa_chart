@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-88.49,SGMT,Sagimet Biosciences Inc.,Healthcare,Biotechnology,United States,703413952,9.92,1198560,1356150,13453008.0,,,,0.0,0.0,0.0,-0.24373,-0.16413,240128000,1940000,0.757,45.025,44.312,-41723000,-27815750,70341169,56568104,0.029509999,0.77231,11528274,7.5,0.16510001,,-7.6270146,,2.3926678,,,27.90909,56.0,7.0,1.5,strong_buy,11,1,0,0,0,2026-11-12,3.487,https://www.sagimet.com,2026-10-31T19:56:48.030376+00:00
+87.54,SGMT,Sagimet Biosciences Inc.,Healthcare,Biotechnology,United States,703413952,9.92,1198560,1356150,13453008.0,,,,0.0,0.0,0.0,-0.24373,-0.16413,240128000,1940000,0.757,45.025,44.312,-41723000,-27815750,70341169,56568104,0.029509999,0.77231,11528274,7.5,0.16510001,,-7.6270146,,2.3926678,,,27.90909,56.0,7.0,1.5,strong_buy,11,1,0,0,0,2026-11-12,3.487,https://www.sagimet.com,2026-10-31T19:56:48.030376+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-14,15.50,16.10,15.50,15.95,,,,,,,0,15.5000,1,24756,,,,
 2023-07-17,15.64,16.58,15.50,15.95,,,,,,,0,15.5000,1,4624,,,,
@@ -858,4 +858,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.32,10.76,10.26,10.74,9.50,9.12,9.94,8.08,7.46,8.6259,1,8.1127,1,13265,12704,0.1284,-0.1269,0.2553
 2026-10-29,10.82,10.92,10.27,10.43,9.73,9.17,9.94,8.11,7.48,8.7048,1,8.3245,1,7785,12532,0.1819,-0.0651,0.2470
 2026-10-30,10.41,10.53,9.82,9.92,9.92,9.21,9.93,8.15,7.50,8.7048,1,8.5840,1,9812,12496,0.1810,-0.0159,0.1969
-2026-11-02,9.92,9.97,9.61,9.69,10.00,9.24,9.92,8.18,7.51,8.7048,1,8.8176,1,7131,12429,0.1599,0.0193,0.1407
+2026-11-02,9.92,9.97,9.61,9.69,10.00,9.24,9.92,8.18,7.51,8.7048,1,8.8176,1,7133,12429,0.1599,0.0193,0.1407
+2026-11-03,9.80,10.16,9.66,9.95,10.02,9.30,9.92,8.21,7.53,8.7048,1,9.0279,1,6336,12302,0.1623,0.0479,0.1144
+2026-11-04,10.25,10.43,9.64,9.99,10.02,9.36,9.91,8.25,7.55,8.7048,1,9.2171,1,7553,12254,0.1655,0.0714,0.0941

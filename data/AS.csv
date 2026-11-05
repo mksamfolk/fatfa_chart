@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.44,AS,Amer Sports Inc.,Consumer Cyclical,Leisure,Finland,17123021824,29.43,5464690,6719028,197740994.04,0.321,5.0,4.89,0.5981,0.07926,0.07349,0.091479994,0.06293,720400000,1101600000,15.993,1.759,0.771,960800000,547687488,581822024,190916354,0.66232,0.42558998,14941108,2.34,0.105900005,30.978949,17.845448,2.3028743,2.4970303,2.36,14.488,47.24,67.0,31.0,1.2963,strong_buy,26,10,9,1,1,2026-11-17,2.029,https://www.amersports.com,2026-10-31T14:16:24.578166+00:00
+38.98,AS,Amer Sports Inc.,Consumer Cyclical,Leisure,Finland,17123021824,29.43,5464690,6719028,197740994.04,0.321,5.0,4.89,0.5981,0.07926,0.07349,0.091479994,0.06293,720400000,1101600000,15.993,1.759,0.771,960800000,547687488,581822024,190916354,0.66232,0.42558998,14941108,2.34,0.105900005,30.978949,17.845448,2.3028743,2.4970303,2.36,14.488,47.24,67.0,31.0,1.2963,strong_buy,26,10,9,1,1,2026-11-17,2.029,https://www.amersports.com,2026-10-31T14:16:24.578166+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-01,13.40,13.80,13.10,13.40,,,,,,,0,13.1000,1,249996,,,,
 2024-02-02,13.55,15.12,13.55,14.95,,,,,,,0,13.1000,1,150089,,,,
@@ -719,4 +719,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,28.17,28.48,27.80,28.17,29.23,28.54,28.74,32.81,33.78,27.9080,1,30.5748,0,125340,200895,0.0206,0.0592,-0.0386
 2026-10-29,28.51,29.48,28.42,29.24,29.16,28.65,28.65,32.80,33.74,27.9080,1,30.4638,0,131820,198138,0.0613,0.0596,0.0017
 2026-10-30,29.50,29.66,29.11,29.43,29.10,28.76,28.58,32.78,33.70,27.9080,1,30.3572,0,131564,190633,0.1077,0.0692,0.0385
-2026-11-02,29.76,31.09,29.63,30.67,29.14,28.92,28.54,32.78,33.67,27.9080,1,27.8000,1,138638,188161,0.2413,0.1037,0.1377
+2026-11-02,29.76,31.09,29.63,30.67,29.14,28.92,28.54,32.78,33.67,27.9080,1,27.8000,1,159294,188574,0.2417,0.1037,0.1380
+2026-11-03,30.77,31.00,30.40,30.49,29.15,29.06,28.53,32.77,33.63,27.9473,1,27.8658,1,146349,184945,0.3296,0.1489,0.1807
+2026-11-04,31.43,32.19,31.32,32.05,29.40,29.31,28.54,32.75,33.61,28.7661,1,27.9303,1,202505,184088,0.5192,0.2230,0.2962

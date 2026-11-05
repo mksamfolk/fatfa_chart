@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.19,NYAX,Nayax Ltd.,Technology,Software - Infrastructure,Israel,1794524416,48.01,24150,27751,1332325.51,0.282,,,0.47798002,-0.054250002,0.01737,0.03523,0.01411,304067008,358423008,146.068,2.122,1.478,28372000,-36979752,37378139,16823831,0.58965,0.3018,163303,6.04,0.0074,228.61905,37.217052,3.959849,7.35222,4.101,54.642,75.66,83.0,68.3,1.5,strong_buy,5,0.0,0.0,1.0,1.0,2026-11-11,-0.138,https://www.nayax.com,2026-10-31T18:56:21.220210+00:00
+35.06,NYAX,Nayax Ltd.,Technology,Software - Infrastructure,Israel,1794524416,48.01,24150,27751,1332325.51,0.282,,,0.47798002,-0.054250002,0.01737,0.03523,0.01411,304067008,358423008,146.068,2.122,1.478,28372000,-36979752,37378139,16823831,0.58965,0.3018,163303,6.04,0.0074,228.61905,37.217052,3.959849,7.35222,4.101,54.642,75.66,83.0,68.3,1.5,strong_buy,5,0.0,0.0,1.0,1.0,2026-11-11,-0.138,https://www.nayax.com,2026-10-31T18:56:21.220210+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-21,34.25,36.65,25.00,27.94,,,,,,,0,25.0000,1,760,,,,
 2022-09-22,30.00,37.07,24.02,27.55,,,,,,,0,37.0700,0,10981,,,,
@@ -1046,4 +1046,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,49.81,51.22,49.19,50.29,48.50,47.41,52.38,60.61,59.12,45.8944,1,45.1141,1,1066,1320,-0.4540,-1.4162,0.9622
 2026-10-29,49.31,50.71,49.31,50.28,49.05,47.55,52.02,60.57,59.13,45.8944,1,45.8147,1,392,1316,-0.3078,-1.1945,0.8867
 2026-10-30,49.44,49.60,48.01,48.01,49.26,47.59,51.65,60.51,59.14,45.8944,1,46.4452,1,989,1331,-0.3709,-1.0298,0.6589
-2026-11-02,48.55,49.37,48.20,48.56,49.49,47.53,51.26,60.46,59.14,45.8944,1,47.0127,1,437,1335,-0.3722,-0.8983,0.5261
+2026-11-02,48.55,49.37,48.20,48.56,49.49,47.53,51.26,60.46,59.14,45.8944,1,47.0127,1,461,1335,-0.3722,-0.8983,0.5261
+2026-11-03,48.64,49.15,48.19,48.39,49.47,47.54,50.83,60.39,59.14,45.8944,1,47.5234,1,1229,1350,-0.3826,-0.7951,0.4126
+2026-11-04,47.88,50.21,47.80,49.54,49.50,47.68,50.47,60.33,59.15,45.8944,1,52.1200,0,1149,1365,-0.2946,-0.6950,0.4005

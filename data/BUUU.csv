@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-26 09:30:00-04:00,10.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.00,BUUU,BUUU Group Limited,Industrials,Specialty Business Services,Hong Kong,1151582336,6.11,904720,911800,5571098.0,0.123,,,0.23458,-0.27386,-0.03955,-0.072280005,-0.01013,5715857,635369,10.336,4.727,4.711,173631,446295,138475000,31550211,0.57479,0.00052,353860,0.33,0.0067000003,,,172.33153,169.72223,151.899,-26786.416,,,,,none,,,,,,,,https://bucreation.com,2026-10-31T14:47:41.268600+00:00
+12.80,BUUU,BUUU Group Limited,Industrials,Specialty Business Services,Hong Kong,1151582336,6.11,904720,911800,5571098.0,0.123,,,0.23458,-0.27386,-0.03955,-0.072280005,-0.01013,5715857,635369,10.336,4.727,4.711,173631,446295,138475000,31550211,0.57479,0.00052,353860,0.33,0.0067000003,,,172.33153,169.72223,151.899,-26786.416,,,,,none,,,,,,,,https://bucreation.com,2026-10-31T14:47:41.268600+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-14,4.00,4.30,3.67,4.00,,,,,,,0,3.6700,1,6729,,,,
 2025-08-15,3.79,4.23,3.76,4.13,,,,,,,0,3.6700,1,5077,,,,
@@ -321,3 +321,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,5.95,6.17,5.23,5.84,16.64,28.71,29.04,21.44,18.66,20.6826,0,36.9612,0,3055,3438,-7.5430,-3.6898,-3.8532
 2026-10-30,5.94,7.16,5.73,6.11,13.12,27.04,28.73,21.40,18.65,20.3591,0,35.6488,0,2535,3436,-7.8297,-4.5178,-3.3119
 2026-11-02,6.10,6.10,5.40,5.75,9.37,25.40,28.39,21.35,18.64,18.4839,0,34.3888,0,2110,3468,-7.9939,-5.2130,-2.7809
+2026-11-03,5.77,8.10,5.45,7.38,5.83,23.83,28.10,21.29,18.64,18.4839,0,33.1793,0,5995,3539,-7.9013,-5.7507,-2.1507
+2026-11-04,7.35,7.35,5.51,6.32,6.04,22.29,27.75,21.24,18.63,18.0209,0,32.0182,0,3816,3596,-7.8233,-6.1652,-1.6581

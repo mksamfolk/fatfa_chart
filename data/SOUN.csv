@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.56,SOUN,SoundHound AI Inc.,Technology,Software - Application,United States,1874153216,4.22,12800580,21724575,91677706.5,0.45,,,0.42294997,-0.75925004,-0.6745,-0.32242,-0.19466999,202776000,5438000,1.109,3.909,3.734,-114509000,-45495500,411576753,401066718,0.01911,0.3827,170799103,10.08,0.41869998,,-42.199997,9.223195,3.751111,8.252,-10.847,12.57143,17.0,6.0,1.5,strong_buy,7,0,0,1,1,2026-11-05,2.863,https://www.soundhound.com,2026-10-31T20:08:18.549998+00:00
+12.96,SOUN,SoundHound AI Inc.,Technology,Software - Application,United States,1874153216,4.22,12800580,21724575,91677706.5,0.45,,,0.42294997,-0.75925004,-0.6745,-0.32242,-0.19466999,202776000,5438000,1.109,3.909,3.734,-114509000,-45495500,411576753,401066718,0.01911,0.3827,170799103,10.08,0.41869998,,-42.199997,9.223195,3.751111,8.252,-10.847,12.57143,17.0,6.0,1.5,strong_buy,7,0,0,1,1,2026-11-05,2.863,https://www.soundhound.com,2026-10-31T20:08:18.549998+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-28,8.72,10.80,7.34,7.50,,,,,,,0,10.8000,0,1403,,,,
 2022-04-29,8.49,8.49,5.75,6.50,,,,,,,0,10.8000,0,654,,,,
@@ -1160,5 +1160,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,4.29,4.50,4.28,4.37,4.56,5.08,5.96,6.86,7.29,5.0588,0,4.6208,0,78949,118147,-0.4690,-0.4359,-0.0330
 2026-10-28,4.37,4.45,4.26,4.44,4.55,5.00,5.91,6.85,7.25,5.0588,0,4.5366,0,57535,116112,-0.4543,-0.4396,-0.0147
 2026-10-29,4.36,4.48,4.29,4.36,4.50,4.91,5.85,6.84,7.22,5.0588,0,4.4970,0,47873,111876,-0.4440,-0.4405,-0.0035
-2026-10-30,4.22,4.24,4.04,4.22,4.45,4.83,5.79,6.82,7.18,4.8854,0,4.4800,0,68097,110181,-0.4421,-0.4408,-0.0013
-2026-11-02,4.28,4.42,4.09,4.09,4.40,4.74,5.73,6.81,7.15,4.8854,0,4.4800,0,70010,107320,-0.4459,-0.4418,-0.0040
+2026-10-30,4.22,4.24,4.04,4.22,4.45,4.83,5.79,6.82,7.18,4.8854,0,4.4800,0,68278,110184,-0.4421,-0.4408,-0.0013
+2026-11-02,4.28,4.42,4.09,4.09,4.40,4.74,5.73,6.81,7.15,4.8854,0,4.4800,0,70564,107334,-0.4459,-0.4418,-0.0040
+2026-11-03,4.12,4.19,4.08,4.12,4.34,4.66,5.67,6.79,7.11,4.8622,0,4.4200,0,55282,106028,-0.4414,-0.4417,0.0004
+2026-11-04,4.17,4.43,4.15,4.32,4.31,4.60,5.62,6.78,7.08,4.8622,0,4.0400,1,86642,105456,-0.4169,-0.4368,0.0199

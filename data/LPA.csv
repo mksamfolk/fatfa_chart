@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.49,LPA,Logistic Properties of the Americas,Real Estate,Real Estate - Development,Costa Rica,79563576,2.51,20180,94795,237935.44999999998,0.261,,,0.84849,0.55356,0.30968,0.07368,0.02774,33582188,334797440,97.885,1.8,1.6,20909468,5756708,31698635,3053846,0.00414,0.84922,70723,0.33,0.013099999,4.648148,5.3028545,1.4274201,0.29098073,8.062,14.366,7.0,7.0,7.0,,none,2,0,0,0,0,2026-11-10,5.403,https://www.lpamericas.com,2026-10-31T18:12:01.109128+00:00
+28.72,LPA,Logistic Properties of the Americas,Real Estate,Real Estate - Development,Costa Rica,79563576,2.51,20180,94795,237935.44999999998,0.261,,,0.84849,0.55356,0.30968,0.07368,0.02774,33582188,334797440,97.885,1.8,1.6,20909468,5756708,31698635,3053846,0.00414,0.84922,70723,0.33,0.013099999,4.648148,5.3028545,1.4274201,0.29098073,8.062,14.366,7.0,7.0,7.0,,none,2,0,0,0,0,2026-11-10,5.403,https://www.lpamericas.com,2026-10-31T18:12:01.109128+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-28,14.00,31.63,13.10,16.00,,,,,,,0,31.6300,0,2797,,,,
 2024-04-01,14.40,14.40,8.02,8.75,,,,,,,0,31.6300,0,392,,,,
@@ -665,4 +665,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.62,2.62,2.56,2.62,2.67,2.83,2.99,3.15,3.04,2.9936,0,2.8153,0,13,106,-0.1217,-0.1110,-0.0107
 2026-10-29,2.61,2.64,2.61,2.61,2.65,2.81,2.98,3.15,3.04,2.9936,0,2.7740,0,31,104,-0.1205,-0.1129,-0.0076
 2026-10-30,2.60,2.62,2.51,2.51,2.63,2.76,2.97,3.15,3.04,2.9330,0,2.7384,0,55,103,-0.1261,-0.1156,-0.0106
-2026-11-02,2.45,2.51,2.35,2.48,2.62,2.73,2.96,3.15,3.04,2.8092,0,2.7019,0,120,105,-0.1315,-0.1188,-0.0128
+2026-11-02,2.45,2.51,2.35,2.47,2.62,2.73,2.96,3.15,3.04,2.8092,0,2.7019,0,121,105,-0.1323,-0.1189,-0.0134
+2026-11-03,2.47,2.48,2.42,2.47,2.59,2.70,2.95,3.15,3.03,2.8092,0,2.6385,0,22,104,-0.1357,-0.1223,-0.0134
+2026-11-04,2.48,2.50,2.47,2.47,2.57,2.67,2.95,3.14,3.03,2.8092,0,2.5866,0,14,98,-0.1367,-0.1252,-0.0116

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.19,LAC,Lithium Americas Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,736977152,2.03,6612630,9067507,18407039.209999997,,,,0.0,0.0,0.0,-0.03698,-0.016590001,822782016,1161016064,59.552,5.467,3.517,-35659000,-1348932096,363042943,346252207,0.06732,0.31378,43482772,4.94,0.1204,,-13.927003,,0.5183861,,-24.871,5.06667,10.0,2.3,2.58333,hold,9,0,0,0,0,2026-11-13,3.417,https://www.lithiumamericas.com,2026-10-31T18:01:53.148212+00:00
+10.73,LAC,Lithium Americas Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,736977152,2.03,6612630,9067507,18407039.209999997,,,,0.0,0.0,0.0,-0.03698,-0.016590001,822782016,1161016064,59.552,5.467,3.517,-35659000,-1348932096,363042943,346252207,0.06732,0.31378,43482772,4.94,0.1204,,-13.927003,,0.5183861,,-24.871,5.06667,10.0,2.3,2.58333,hold,9,0,0,0,0,2026-11-13,3.417,https://www.lithiumamericas.com,2026-10-31T18:01:53.148212+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-02,8.79,10.14,8.06,10.13,,,,,,,0,8.0600,1,44,,,,
 2023-10-03,10.00,10.00,9.57,9.67,,,,,,,0,8.0600,1,8,,,,
@@ -802,5 +802,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,2.06,2.19,2.06,2.16,2.13,2.28,2.69,3.69,4.01,2.3562,0,2.2869,0,16578,24186,-0.1858,-0.1924,0.0067
 2026-10-28,2.17,2.18,2.11,2.17,2.14,2.26,2.68,3.68,3.99,2.3562,0,2.2746,0,13376,23806,-0.1728,-0.1885,0.0157
 2026-10-29,2.14,2.22,2.12,2.13,2.13,2.24,2.66,3.67,3.98,2.3562,0,2.2629,0,12485,23548,-0.1639,-0.1836,0.0197
-2026-10-30,2.04,2.05,1.98,2.03,2.11,2.21,2.64,3.66,3.96,2.3531,0,2.2515,0,16866,23092,-0.1630,-0.1795,0.0165
-2026-11-02,2.05,2.08,1.94,1.96,2.09,2.18,2.62,3.65,3.94,2.3527,0,2.2407,0,14471,22593,-0.1660,-0.1768,0.0108
+2026-10-30,2.04,2.05,1.98,2.03,2.11,2.21,2.64,3.66,3.96,2.3531,0,2.2515,0,16922,23094,-0.1630,-0.1795,0.0165
+2026-11-02,2.05,2.08,1.94,1.96,2.09,2.18,2.62,3.65,3.94,2.3531,0,2.2407,0,15617,22617,-0.1660,-0.1768,0.0108
+2026-11-03,1.98,2.00,1.86,1.88,2.07,2.15,2.59,3.63,3.92,2.2802,0,2.2226,0,19469,22519,-0.1729,-0.1760,0.0031
+2026-11-04,1.96,2.00,1.87,1.95,2.05,2.13,2.57,3.62,3.90,2.2802,0,2.1936,0,16304,22334,-0.1707,-0.1749,0.0042

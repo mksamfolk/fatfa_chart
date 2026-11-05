@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-78.31,ACOG,Alpha Cognition Inc.,Healthcare,Biotechnology,United States,190338560,8.74,106750,121328,1060406.72,2.676,,,0.90375,-1.27294,-1.37696,-0.49526,-0.30395,41384288,0,,9.033,7.307,-30853300,-28530086,21777868,10744329,0.05134,0.58577996,352521,3.27,0.020299999,,-14.096774,12.472461,3.59375,9.761,-5.624,18.0,21.0,12.0,1.5,strong_buy,5,3,3,0,0,2026-11-12,2.228,https://www.alphacognition.com,2026-10-31T13:51:33.113344+00:00
+79.17,ACOG,Alpha Cognition Inc.,Healthcare,Biotechnology,United States,190338560,8.74,106750,121328,1060406.72,2.676,,,0.90375,-1.27294,-1.37696,-0.49526,-0.30395,41384288,0,,9.033,7.307,-30853300,-28530086,21777868,10744329,0.05134,0.58577996,352521,3.27,0.020299999,,-14.096774,12.472461,3.59375,9.761,-5.624,18.0,21.0,12.0,1.5,strong_buy,5,3,3,0,0,2026-11-12,2.228,https://www.alphacognition.com,2026-10-31T13:51:33.113344+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-12,7.00,7.00,5.61,5.70,,,,,,,0,7.0000,0,2316,,,,
 2024-11-13,5.75,5.84,5.61,5.74,,,,,,,0,7.0000,0,491,,,,
@@ -507,4 +507,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.95,9.20,8.67,9.17,8.54,8.73,8.94,7.32,6.93,7.6491,1,7.9973,1,886,1105,-0.0803,-0.1108,0.0304
 2026-10-29,9.14,9.35,9.13,9.19,8.61,8.75,8.95,7.34,6.95,7.8455,1,8.0454,1,578,1111,-0.0345,-0.0955,0.0610
 2026-10-30,9.16,9.17,8.71,8.74,8.66,8.74,8.95,7.36,6.96,7.8455,1,8.1236,1,422,1091,-0.0341,-0.0832,0.0491
-2026-11-02,8.78,8.95,8.31,8.34,8.65,8.70,8.95,7.38,6.98,7.8455,1,8.1972,1,477,1075,-0.0653,-0.0796,0.0144
+2026-11-02,8.85,8.95,8.31,8.34,8.65,8.70,8.95,7.38,6.98,7.8455,1,8.1972,1,478,1075,-0.0653,-0.0796,0.0144
+2026-11-03,8.44,8.69,8.17,8.20,8.61,8.66,8.94,7.40,6.99,7.8455,1,9.3500,0,886,1081,-0.1001,-0.0837,-0.0164
+2026-11-04,8.33,8.83,8.29,8.53,8.60,8.64,8.93,7.41,7.00,7.8455,1,9.3264,0,1442,1101,-0.1000,-0.0870,-0.0130

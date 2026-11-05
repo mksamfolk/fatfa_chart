@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-07-08 09:30:00-04:00,0.03333333333333333\n2025-11-03 09:30:00-05:00,0.01\n2026-01-22 09:30:00-05:00,0.08333333333333333\n2026-09-28 09:30:00-04:00,0.00625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.78,DCX,Digital Currency X Technology Inc.,Consumer Cyclical,Auto Manufacturers,Hong Kong,2768494,1.18,135430,352293,415705.74,,,,0.0,0.0,0.0,-4.6022,-0.01472,1341000,0,,13551.438,83.813,-55138000,-364120992,2346174,2104907,0.04731,0.00084,63500,0.07,0.0271,2.9117914e-06,,,0.01195954,,,,,,,none,,,,,,,-0.781,https://www.chijetmotors.com,2026-10-31T15:28:49.865266+00:00
+23.86,DCX,Digital Currency X Technology Inc.,Consumer Cyclical,Auto Manufacturers,Hong Kong,2768494,1.18,135430,352293,415705.74,,,,0.0,0.0,0.0,-4.6022,-0.01472,1341000,0,,13551.438,83.813,-55138000,-364120992,2346174,2104907,0.04731,0.00084,63500,0.07,0.0271,2.9117914e-06,,,0.01195954,,,,,,,none,,,,,,,-0.781,https://www.chijetmotors.com,2026-10-31T15:28:49.865266+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-07,353880.00,353880.00,353880.00,353880.00,,,,,,,0,353880.0000,1,1416,,,,
 2022-01-10,353880.00,354240.00,353520.00,353880.00,,,,,,,0,354240.0000,0,14155,,,,
@@ -1222,4 +1222,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.30,1.65,1.13,1.24,1.29,1.75,1.24,1.64,2.15,2.0357,0,3.6847,0,964,1121,-0.0369,0.0683,-0.1052
 2026-10-29,1.25,1.30,1.16,1.19,1.24,1.78,1.24,1.63,2.12,2.0357,0,3.5825,0,90,889,-0.0493,0.0448,-0.0941
 2026-10-30,1.15,1.20,1.10,1.18,1.21,1.81,1.24,1.63,2.10,1.9789,0,3.4844,0,57,710,-0.0593,0.0240,-0.0832
-2026-11-02,1.18,1.26,1.10,1.13,1.20,1.70,1.24,1.63,2.07,1.9726,0,3.3413,0,49,693,-0.0704,0.0051,-0.0755
+2026-11-02,1.18,1.26,1.10,1.13,1.20,1.70,1.24,1.63,2.07,1.9724,0,3.3413,0,49,693,-0.0704,0.0051,-0.0755
+2026-11-03,1.14,1.14,1.09,1.13,1.18,1.60,1.24,1.62,2.05,1.8433,0,3.2068,0,26,689,-0.0783,-0.0116,-0.0667
+2026-11-04,1.13,1.20,1.09,1.10,1.17,1.51,1.25,1.62,2.04,1.8353,0,3.0372,0,55,688,-0.0860,-0.0265,-0.0595

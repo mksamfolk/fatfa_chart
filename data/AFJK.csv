@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.48,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38629248,12.2,1080,16339,199335.8,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.32027,2243,0.96,0.002,174.2857,,,-8.615819,,,,,,,none,,,,,,,0.908,,2026-10-31T13:56:09.989158+00:00
+24.54,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38629248,12.2,1080,16339,199335.8,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.32027,2243,0.96,0.002,174.2857,,,-8.615819,,,,,,,none,,,,,,,0.908,,2026-10-31T13:56:09.989158+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-22,10.15,10.16,10.15,10.15,,,,,,,0,10.1500,1,3929,,,,
 2024-01-23,10.16,10.17,10.15,10.16,,,,,,,0,10.1500,1,7379,,,,
@@ -712,4 +712,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,12.01,12.01,12.01,12.01,12.15,12.25,12.17,25.94,32.05,12.4469,0,12.4656,0,5,260,-0.1864,-0.2131,0.0266
 2026-10-29,12.56,12.56,12.56,12.56,12.16,12.25,12.18,25.82,31.93,12.0052,1,11.8750,1,8,250,-0.1390,-0.1982,0.0592
 2026-10-30,12.20,12.20,12.15,12.20,12.15,12.24,12.19,25.70,31.83,12.0052,1,11.8888,1,55,248,-0.1294,-0.1845,0.0551
-2026-11-02,12.79,12.79,12.20,12.20,12.14,12.23,12.19,25.61,31.67,12.0052,1,11.9023,1,41,239,-0.1204,-0.1716,0.0513
+2026-11-02,12.50,12.79,12.20,12.20,12.14,12.23,12.19,25.61,31.67,12.0052,1,11.9023,1,41,239,-0.1204,-0.1716,0.0513
+2026-11-03,12.20,12.20,12.20,12.20,12.15,12.23,12.19,25.51,31.49,12.0052,1,11.9378,1,,229,-0.1119,-0.1597,0.0478
+2026-11-04,12.20,12.20,12.20,12.20,12.16,12.23,12.19,25.43,31.33,12.0052,1,11.9719,1,,224,-0.1040,-0.1486,0.0445

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.83,IMSR,Terrestrial Energy Inc.,Utilities,Utilities - Regulated Electric,United States,341111520,3.22,1891550,1479759,4764823.98,,,,0.0,0.0,0.0,-0.27415,-0.14904,273518016,3879000,1.377,44.53,44.323,-24381912,-41733752,82718567,50784301,0.24462,0.32408002,8126703,4.93,0.16780001,,-4.270557,,1.2109816,,-1.893,12.0,15.0,8.0,1.0,strong_buy,5,0,0,0,0,2026-11-10,2.518,https://www.terrestrialenergy.com,2026-10-31T17:38:06.746644+00:00
+8.84,IMSR,Terrestrial Energy Inc.,Utilities,Utilities - Regulated Electric,United States,341111520,3.22,1891550,1479759,4764823.98,,,,0.0,0.0,0.0,-0.27415,-0.14904,273518016,3879000,1.377,44.53,44.323,-24381912,-41733752,82718567,50784301,0.24462,0.32408002,8126703,4.93,0.16780001,,-4.270557,,1.2109816,,-1.893,12.0,15.0,8.0,1.0,strong_buy,5,0,0,0,0,2026-11-10,2.518,https://www.terrestrialenergy.com,2026-10-31T17:38:06.746644+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-10,9.99,10.07,9.90,9.97,,,,,,,0,9.9000,1,14177,,,,
 2024-10-11,9.96,9.97,9.96,9.96,,,,,,,0,9.9000,1,2513,,,,
@@ -544,5 +544,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,3.37,3.47,3.11,3.29,2.97,3.26,4.25,5.89,6.44,3.5919,0,2.7000,1,12471,5967,-0.3780,-0.4324,0.0545
 2026-10-28,2.95,3.35,2.87,3.35,3.01,3.24,4.20,5.86,6.40,3.5919,0,2.7000,1,10559,6062,-0.3298,-0.4119,0.0821
 2026-10-29,3.21,3.65,3.21,3.45,3.03,3.22,4.16,5.84,6.36,3.5919,0,2.7154,1,7032,6090,-0.2799,-0.3855,0.1056
-2026-10-30,3.18,3.27,3.02,3.22,3.05,3.19,4.12,5.83,6.32,3.5919,0,2.7528,1,6280,6098,-0.2564,-0.3597,0.1033
-2026-11-02,3.24,3.35,2.98,2.99,3.06,3.15,4.07,5.81,6.28,3.5919,0,2.7887,1,4026,6048,-0.2534,-0.3384,0.0850
+2026-10-30,3.18,3.27,3.02,3.22,3.05,3.19,4.12,5.83,6.32,3.5919,0,2.7528,1,6332,6099,-0.2564,-0.3597,0.1033
+2026-11-02,3.24,3.35,2.98,2.99,3.06,3.15,4.07,5.81,6.28,3.5919,0,2.7887,1,4033,6049,-0.2534,-0.3384,0.0850
+2026-11-03,2.96,3.05,2.84,2.86,3.07,3.10,4.02,5.79,6.24,3.5919,0,2.8231,1,3590,6008,-0.2586,-0.3225,0.0639
+2026-11-04,2.82,2.95,2.64,2.87,3.06,3.06,3.97,5.77,6.20,3.5919,0,3.6500,0,5675,5999,-0.2588,-0.3097,0.0509

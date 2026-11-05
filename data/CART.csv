@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.84,CART,Maplebear Inc.,Consumer Cyclical,Internet Retail,United States,13350332416,56.45,11685840,5230709,295273523.05,0.166,0.168,0.021,0.72113997,0.15890001,0.11665,0.15568,0.09224,927000000,34000000,1.325,2.34,2.09,1268000000,1011374976,236498351,164682252,0.11007,0.79708,23086212,5.81,0.1517,30.846994,11.352849,3.217723,5.4446373,2.954,18.516,59.08696,65.0,46.0,2.46667,buy,23,0,1,1,2,2026-10-29,0.871,https://www.instacart.com,2026-10-31T14:52:57.349003+00:00
+89.53,CART,Maplebear Inc.,Consumer Cyclical,Internet Retail,United States,13350332416,56.45,11685840,5230709,295273523.05,0.166,0.168,0.021,0.72113997,0.15890001,0.11665,0.15568,0.09224,927000000,34000000,1.325,2.34,2.09,1268000000,1011374976,236498351,164682252,0.11007,0.79708,23086212,5.81,0.1517,30.846994,11.352849,3.217723,5.4446373,2.954,18.516,59.08696,65.0,46.0,2.46667,buy,23,0,1,1,2,2026-10-29,0.871,https://www.instacart.com,2026-10-31T14:52:57.349003+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-19,42.00,42.95,33.67,33.70,,,,,,,0,42.9500,0,1331012,,,,
 2023-09-20,32.01,33.48,29.96,30.10,,,,,,,0,42.9500,0,492617,,,,
@@ -812,4 +812,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,59.56,59.86,58.11,58.42,53.94,50.25,48.81,45.13,43.17,51.4126,1,52.6100,1,399610,239784,3.0741,1.8135,1.2606
 2026-10-29,58.50,58.72,57.01,57.11,54.54,50.90,48.94,45.27,43.25,51.4126,1,54.4880,1,1465266,263155,3.0910,2.0690,1.0220
 2026-10-30,57.11,57.18,56.18,56.45,55.20,51.51,49.05,45.40,43.32,51.4126,1,55.9904,1,674030,272023,3.0163,2.2584,0.7579
-2026-11-02,56.40,57.71,56.36,57.59,55.97,52.11,49.20,45.54,43.41,51.4126,1,56.1800,1,499688,278913,3.0144,2.4096,0.6047
+2026-11-02,56.44,57.71,56.35,57.59,55.97,52.11,49.20,45.54,43.41,51.4126,1,56.1800,1,511042,279141,3.0144,2.4096,0.6047
+2026-11-03,57.70,58.35,57.31,58.31,56.73,52.75,49.33,45.68,43.51,51.4126,1,56.1800,1,421966,283579,3.0359,2.5349,0.5010
+2026-11-04,58.49,59.76,58.25,59.22,57.62,53.45,49.49,45.82,43.61,52.5698,1,56.3500,1,472049,290259,3.0908,2.6461,0.4448

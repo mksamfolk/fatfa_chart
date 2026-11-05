@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.55,KYTX,Kyverna Therapeutics Inc.,Healthcare,Biotechnology,United States,350652320,5.67,798670,830103,4706684.01,,,,0.0,0.0,0.0,-0.8724,-0.44511002,199427008,32998000,19.932,9.058,8.746,-158751008,-107684496,61843444,36065241,0.06979,0.81313,9543350,9.45,0.18120001,,-1.7891008,,2.1085906,,-1.171,30.4,33.0,25.0,1.33333,strong_buy,5,3,3,1,1,2026-11-11,2.064,https://kyvernatx.com,2026-10-31T18:01:31.056060+00:00
+17.96,KYTX,Kyverna Therapeutics Inc.,Healthcare,Biotechnology,United States,350652320,5.67,798670,830103,4706684.01,,,,0.0,0.0,0.0,-0.8724,-0.44511002,199427008,32998000,19.932,9.058,8.746,-158751008,-107684496,61843444,36065241,0.06979,0.81313,9543350,9.45,0.18120001,,-1.7891008,,2.1085906,,-1.171,30.4,33.0,25.0,1.33333,strong_buy,5,3,3,1,1,2026-11-11,2.064,https://kyvernatx.com,2026-10-31T18:01:31.056060+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-09,30.15,30.50,29.00,30.10,,,,,,,0,29.0000,1,19056,,,,
 2024-02-12,30.35,30.45,29.54,29.93,,,,,,,0,29.0000,1,18913,,,,
@@ -713,4 +713,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.58,5.93,5.56,5.89,5.73,5.94,7.02,8.04,8.12,6.3797,0,6.1725,0,5862,5979,-0.3782,-0.4121,0.0339
 2026-10-29,5.91,6.12,5.83,5.85,5.71,5.91,6.95,8.03,8.11,6.3797,0,5.1600,1,4944,5936,-0.3457,-0.3988,0.0531
 2026-10-30,5.74,5.87,5.55,5.67,5.71,5.88,6.91,8.01,8.09,6.3797,0,5.1792,1,3629,5854,-0.3307,-0.3852,0.0545
-2026-11-02,5.83,5.84,5.09,5.22,5.65,5.83,6.84,8.00,8.07,6.3797,0,6.1200,0,4292,5828,-0.3511,-0.3784,0.0273
+2026-11-02,5.70,5.84,5.09,5.22,5.65,5.83,6.84,8.00,8.07,6.3797,0,6.1200,0,4292,5828,-0.3511,-0.3784,0.0273
+2026-11-03,5.28,5.48,5.12,5.16,5.56,5.78,6.78,7.97,8.06,6.3797,0,6.0995,0,3631,5807,-0.3678,-0.3763,0.0084
+2026-11-04,5.30,5.46,5.02,5.16,5.50,5.73,6.71,7.95,8.04,6.3797,0,6.0793,0,5026,5770,-0.3767,-0.3764,-0.0004

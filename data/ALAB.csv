@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-78.65,ALAB,Astera Labs Inc.,Technology,Semiconductors,United States,44880596992,258.7,3707860,4072806,1053634912.1999999,1.045,1.862,1.989,0.75128996,0.22744,0.30742002,0.25826,0.10672,1252957952,44413000,2.574,10.054,9.164,335712000,91913128,173485104,155996071,0.10318,0.75544,8015331,1.86,0.060599998,127.43843,40.371414,37.340786,26.007843,36.335,153.023,382.6778,500.0,190.0,1.88462,buy,22,19,19,0,0,2026-11-03,3.69,https://www.asteralabs.com,2026-10-31T14:01:41.447416+00:00
+74.73,ALAB,Astera Labs Inc.,Technology,Semiconductors,United States,44880596992,258.7,3707860,4072806,1053634912.1999999,1.045,1.862,1.989,0.75128996,0.22744,0.30742002,0.25826,0.10672,1252957952,44413000,2.574,10.054,9.164,335712000,91913128,173485104,155996071,0.10318,0.75544,8015331,1.86,0.060599998,127.43843,40.371414,37.340786,26.007843,36.335,153.023,382.6778,500.0,190.0,1.88462,buy,22,19,19,0,0,2026-11-03,3.69,https://www.asteralabs.com,2026-10-31T14:01:41.447416+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-20,52.56,63.50,50.61,62.03,,,,,,,0,50.6100,1,1044790,,,,
 2024-03-21,66.00,80.00,63.45,64.15,,,,,,,0,50.6100,1,734793,,,,
@@ -686,4 +686,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,290.71,300.76,286.00,297.20,280.76,314.39,308.72,291.76,254.25,325.2008,0,249.2490,1,991281,1192141,-14.2137,-10.2028,-4.0109
 2026-10-29,294.16,294.99,279.14,290.43,279.61,311.09,308.75,292.94,254.80,325.2008,0,250.2792,1,899462,1185690,-13.1746,-10.7972,-2.3775
 2026-10-30,271.01,275.00,249.09,258.70,276.90,306.51,308.12,293.91,255.24,325.2008,0,300.7600,0,1882663,1208248,-14.7416,-11.5860,-3.1556
-2026-11-02,257.49,257.49,226.00,229.67,271.20,299.88,307.01,294.78,255.51,315.3128,0,299.7266,0,1248331,1216086,-18.1171,-12.8923,-5.2248
+2026-11-02,257.49,257.49,226.00,229.67,271.20,299.88,307.01,294.78,255.51,315.3128,0,299.7266,0,1258913,1216298,-18.1171,-12.8923,-5.2248
+2026-11-03,236.20,249.50,231.00,233.62,266.09,292.07,306.13,295.60,255.77,312.4100,0,296.7775,0,1388684,1223585,-20.2401,-14.3618,-5.8783
+2026-11-04,217.97,233.53,208.40,223.27,259.41,284.12,304.94,296.38,255.97,293.4740,0,293.9464,0,1830122,1250021,-22.4984,-15.9892,-6.5093

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-12-18 09:30:00-05:00,0.1\n2026-06-26 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.02,VRAX,Virax Biolabs Group Limited,Healthcare,Biotechnology,United Kingdom,1627435,1.21,22650,390835,472910.35,6.849,,,0.61901003,-352.64923,0.0,-0.78646004,-0.54229,6518205,414387,5.649,9.968,9.555,-4621892,-3477016,1344988,523787,0.01579,0.01993,8982,0.05,0.0068,,-0.20166667,131.00177,0.092493504,-454.428,0.933,,,,,none,,,,,,,1.386,https://viraxbiolabs.com,2026-10-31T20:55:23.556390+00:00
+3.70,VRAX,Virax Biolabs Group Limited,Healthcare,Biotechnology,United Kingdom,1627435,1.21,22650,390835,472910.35,6.849,,,0.61901003,-352.64923,0.0,-0.78646004,-0.54229,6518205,414387,5.649,9.968,9.555,-4621892,-3477016,1344988,523787,0.01579,0.01993,8982,0.05,0.0068,,-0.20166667,131.00177,0.092493504,-454.428,0.933,,,,,none,,,,,,,1.386,https://viraxbiolabs.com,2026-10-31T20:55:23.556390+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-21,5000.00,6517.50,4037.50,4550.00,,,,,,,0,6517.5000,0,9082,,,,
 2022-07-22,4750.00,5028.75,2212.50,2585.00,,,,,,,0,6517.5000,0,3834,,,,
@@ -1089,4 +1089,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.17,1.21,1.16,1.20,1.32,1.72,2.40,3.61,4.49,1.7394,0,1.3669,0,12,1482,-0.3957,-0.3812,-0.0145
 2026-10-29,1.30,1.33,1.24,1.32,1.29,1.64,2.36,3.59,4.45,1.7394,0,1.1400,1,76,1482,-0.3748,-0.3800,0.0051
 2026-10-30,1.28,1.30,1.18,1.21,1.27,1.57,2.33,3.56,4.41,1.7394,0,1.1438,1,29,1480,-0.3630,-0.3766,0.0136
-2026-11-02,1.15,1.18,1.10,1.10,1.24,1.50,2.30,3.53,4.37,1.6465,0,1.3300,0,26,1477,-0.3583,-0.3729,0.0146
+2026-11-02,1.17,1.18,1.10,1.10,1.24,1.50,2.30,3.53,4.37,1.6465,0,1.3300,0,27,1477,-0.3583,-0.3729,0.0146
+2026-11-03,1.09,1.17,1.04,1.06,1.21,1.46,2.27,3.51,4.33,1.6039,0,1.3254,0,36,1447,-0.3538,-0.3691,0.0153
+2026-11-04,1.16,1.57,1.11,1.20,1.19,1.41,2.23,3.48,4.29,1.6039,0,1.0400,1,12411,1687,-0.3350,-0.3623,0.0272

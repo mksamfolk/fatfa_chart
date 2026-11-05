@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.71,RADX,Radiopharm Theranostics Limited,Healthcare,Biotechnology,Australia,16959180,1.08,22100,55331,59757.48,-0.369,,,-2.66888,-4.00348,0.0,-1.74707,-0.45150003,4138074,0,,1.16,1.142,-52782840,-31142938,15702943,11964263,0.0,0.00738,141864,2.21,0.0101,,-0.465638,1.3182288,0.7316732,0.708,-0.181,17.164295,30.31659,12.567188,,none,6,,,,,,0.86,https://www.radiopharmtheranostics.com,2026-10-31T19:33:02.212207+00:00
+2.40,RADX,Radiopharm Theranostics Limited,Healthcare,Biotechnology,Australia,16959180,1.08,22100,55331,59757.48,-0.369,,,-2.66888,-4.00348,0.0,-1.74707,-0.45150003,4138074,0,,1.16,1.142,-52782840,-31142938,15702943,11964263,0.0,0.00738,141864,2.21,0.0101,,-0.465638,1.3182288,0.7316732,0.708,-0.181,17.164295,30.31659,12.567188,,none,6,,,,,,0.86,https://www.radiopharmtheranostics.com,2026-10-31T19:33:02.212207+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-05,5.60,17.67,5.60,17.67,,,,,,,0,5.6000,1,436,,,,
 2024-12-06,21.99,50.82,15.80,18.90,,,,,,,0,5.6000,1,2994,,,,
@@ -491,4 +491,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.00,1.00,0.90,0.95,0.98,1.16,2.01,3.63,3.98,1.4532,0,1.5774,0,24,118,-0.3351,-0.3792,0.0440
 2026-10-29,0.98,1.12,0.95,1.12,0.99,1.11,1.96,3.60,3.96,1.4532,0,1.5367,0,42,114,-0.3055,-0.3644,0.0590
 2026-10-30,1.09,1.16,1.08,1.08,0.99,1.07,1.92,3.58,3.94,1.4532,0,1.4985,0,10,110,-0.2816,-0.3479,0.0662
-2026-11-02,1.09,1.08,0.99,0.99,1.00,1.05,1.88,3.55,3.92,1.4532,0,1.4626,0,38,104,-0.2667,-0.3316,0.0650
+2026-11-02,1.09,1.09,0.97,0.99,1.00,1.05,1.88,3.55,3.92,1.4532,0,1.4626,0,38,104,-0.2667,-0.3316,0.0649
+2026-11-03,0.94,0.96,0.86,0.89,0.99,1.04,1.84,3.52,3.90,1.3704,0,1.4289,0,64,101,-0.2602,-0.3173,0.0572
+2026-11-04,0.91,1.04,0.82,0.87,0.98,1.02,1.79,3.50,3.87,1.3704,0,1.3834,0,321,102,-0.2537,-0.3046,0.0509

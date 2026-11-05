@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-47.19,SEG,Seaport Entertainment Group Inc.,Real Estate,Real Estate Services,United States,288983136,22.56,52620,76276,1720786.5599999998,-0.148,,,-0.16399999,-0.27064,-1.00763,-0.26176,-0.09432,117795000,94061000,22.73,5.939,5.287,-40189000,9434625,12809536,7406730,0.03018,0.87157995,645961,6.76,0.0837,,15.04,2.3627493,0.7151914,2.25,-5.431,36.0,36.0,36.0,,none,1,1,1,0,0,2026-11-04,1.305,https://www.seaportentertainment.com,2026-10-31T19:54:15.157315+00:00
+50.38,SEG,Seaport Entertainment Group Inc.,Real Estate,Real Estate Services,United States,288983136,22.56,52620,76276,1720786.5599999998,-0.148,,,-0.16399999,-0.27064,-1.00763,-0.26176,-0.09432,117795000,94061000,22.73,5.939,5.287,-40189000,9434625,12809536,7406730,0.03018,0.87157995,645961,6.76,0.0837,,15.04,2.3627493,0.7151914,2.25,-5.431,36.0,36.0,36.0,,none,1,1,1,0,0,2026-11-04,1.305,https://www.seaportentertainment.com,2026-10-31T19:54:15.157315+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-30,29.60,36.50,29.60,34.00,,,,,,,0,29.6000,1,1200,,,,
 2024-07-31,36.00,36.00,31.00,31.50,,,,,,,0,29.6000,1,1392,,,,
@@ -581,4 +581,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.96,22.99,22.48,22.76,22.60,22.79,25.33,24.19,23.28,24.3104,0,21.7345,1,1133,1820,-0.7604,-0.9361,0.1757
 2026-10-29,22.96,23.09,22.73,23.05,22.65,22.65,25.26,24.19,23.29,24.3104,0,21.7847,1,1454,1833,-0.6810,-0.8851,0.2040
 2026-10-30,23.04,23.04,22.42,22.56,22.62,22.50,25.19,24.20,23.31,24.3104,0,21.8630,1,929,1824,-0.6502,-0.8381,0.1879
-2026-11-02,22.81,23.15,22.64,22.82,22.68,22.52,25.12,24.20,23.32,24.3104,0,21.9366,1,1466,1810,-0.5979,-0.7901,0.1922
+2026-11-02,22.81,23.15,22.64,22.82,22.68,22.52,25.12,24.20,23.32,24.3104,0,21.9366,1,1465,1810,-0.5979,-0.7901,0.1922
+2026-11-03,22.71,22.89,22.62,22.77,22.71,22.53,25.05,24.21,23.34,24.3104,0,22.0337,1,1475,1807,-0.5541,-0.7429,0.1888
+2026-11-04,23.25,23.58,23.25,23.52,22.81,22.58,24.99,24.22,23.35,24.3104,0,22.1230,1,1258,1775,-0.4536,-0.6850,0.2314

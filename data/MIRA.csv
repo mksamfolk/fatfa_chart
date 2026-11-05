@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.94,MIRA,MIRA Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - General,United States,23049116,0.5485,206130,610026,334599.261,,,,0.0,0.0,0.0,-2.17121,-1.29547,8113415,0,,200.076,198.746,-4638863,-1007144,42022087,38692677,0.30582002,0.05424,349714,2.23,0.012,,-1.3378049,,2.8273196,,,3.5,3.5,3.5,2.0,buy,1,0,0,0,0,,1.494,https://mirapharmaceuticals.com,2026-10-31T18:26:40.842372+00:00
+11.33,MIRA,MIRA Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - General,United States,23049116,0.5485,206130,610026,334599.261,,,,0.0,0.0,0.0,-2.17121,-1.29547,8113415,0,,200.076,198.746,-4638863,-1007144,42022087,38692677,0.30582002,0.05424,349714,2.23,0.012,,-1.3378049,,2.8273196,,,3.5,3.5,3.5,2.0,buy,1,0,0,0,0,,1.494,https://mirapharmaceuticals.com,2026-10-31T18:26:40.842372+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-03,7.00,7.98,6.29,7.42,,,,,,,0,7.9800,0,4977,,,,
 2023-08-04,6.00,6.87,6.00,6.01,,,,,,,0,7.9800,0,1989,,,,
@@ -829,4 +829,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.55,0.58,0.54,0.56,0.62,0.67,0.72,0.92,1.03,0.7366,0,0.6537,0,402,594,-0.0523,-0.0407,-0.0115
 2026-10-29,0.57,0.63,0.55,0.57,0.61,0.66,0.72,0.91,1.02,0.7366,0,0.5180,1,216,597,-0.0522,-0.0430,-0.0092
 2026-10-30,0.59,0.59,0.51,0.55,0.60,0.65,0.71,0.91,1.02,0.7366,0,0.6300,0,114,599,-0.0534,-0.0451,-0.0083
-2026-11-02,0.59,0.59,0.53,0.54,0.59,0.64,0.71,0.90,1.01,0.7366,0,0.6300,0,68,599,-0.0547,-0.0470,-0.0077
+2026-11-02,0.59,0.59,0.53,0.54,0.59,0.64,0.71,0.90,1.01,0.7366,0,0.6300,0,71,599,-0.0547,-0.0470,-0.0077
+2026-11-03,0.53,0.55,0.51,0.52,0.57,0.63,0.71,0.90,1.01,0.7107,0,0.6276,0,43,594,-0.0566,-0.0490,-0.0077
+2026-11-04,0.52,0.60,0.52,0.56,0.56,0.62,0.70,0.90,1.00,0.7107,0,0.6252,0,45,590,-0.0540,-0.0500,-0.0041

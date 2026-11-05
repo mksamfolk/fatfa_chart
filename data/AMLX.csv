@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.61,AMLX,Amylyx Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,3622306560,28.86,1254030,2194926,63345564.36,,,,0.0,0.0,0.0,-0.7473,-0.4413,250760000,5255000,2.197,12.12,11.88,-126577000,-77316376,125513048,97276778,0.07157,0.94355005,13249442,9.49,0.1322,,-26.465168,,13.435755,,-18.365,42.63636,57.0,20.0,1.16667,strong_buy,11,0,2,2,4,2026-11-05,-0.092,https://amylyx.com,2026-10-31T14:06:50.636530+00:00
+96.06,AMLX,Amylyx Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,3622306560,28.86,1254030,2194926,63345564.36,,,,0.0,0.0,0.0,-0.7473,-0.4413,250760000,5255000,2.197,12.12,11.88,-126577000,-77316376,125513048,97276778,0.07157,0.94355005,13249442,9.49,0.1322,,-26.465168,,13.435755,,-18.365,42.63636,57.0,20.0,1.16667,strong_buy,11,0,2,2,4,2026-11-05,-0.092,https://amylyx.com,2026-10-31T14:06:50.636530+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-07,21.00,21.00,17.45,18.07,,,,,,,0,21.0000,0,39033,,,,
 2022-01-10,18.45,18.45,16.00,16.72,,,,,,,0,21.0000,0,11737,,,,
@@ -1237,4 +1237,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,28.11,28.48,27.58,28.07,27.84,27.71,31.31,21.75,19.92,30.8236,0,29.8507,0,29878,62558,-0.5296,-0.6883,0.1587
 2026-10-29,28.13,29.13,28.09,28.68,27.94,27.74,31.11,21.86,20.00,30.8236,0,29.7783,0,25964,56698,-0.4310,-0.6369,0.2058
 2026-10-30,28.41,29.09,28.00,28.86,28.19,27.79,30.89,21.96,20.08,30.8236,0,29.7073,0,28557,50495,-0.3345,-0.5764,0.2419
-2026-11-02,28.84,29.50,27.61,28.04,28.26,27.81,30.68,22.06,20.15,30.8236,0,29.6378,0,31833,47543,-0.3205,-0.5252,0.2047
+2026-11-02,28.84,29.50,27.61,28.04,28.26,27.81,30.68,22.06,20.15,30.8236,0,29.6378,0,32577,47558,-0.3205,-0.5252,0.2047
+2026-11-03,28.52,29.46,28.21,29.20,28.30,27.86,30.50,22.16,20.23,30.8236,0,29.5696,0,35119,45426,-0.2134,-0.4628,0.2495
+2026-11-04,30.65,30.67,27.90,29.40,28.34,27.96,30.34,22.26,20.29,30.8236,0,26.2300,1,46637,44751,-0.1110,-0.3925,0.2815

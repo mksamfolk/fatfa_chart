@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-38.88,ATMU,Atmus Filtration Technologies Inc.,Consumer Cyclical,Auto Parts,United States,3728099584,45.69,630950,706467,32278477.229999997,0.164,0.083,0.067,0.28789,0.16973,0.11323,0.5579,0.11843,259000000,1056400000,232.278,2.65,1.722,245500000,103862496,81595527,80914204,0.00522,1.09707,3358055,4.24,0.0461,17.438932,13.943183,1.9624676,8.196986,2.382,13.221,62.6,73.0,54.0,,none,5,0,0,1,1,2026-11-06,1.2,https://www.atmus.com,2026-10-31T14:19:59.181092+00:00
+41.25,ATMU,Atmus Filtration Technologies Inc.,Consumer Cyclical,Auto Parts,United States,3728099584,45.69,630950,706467,32278477.229999997,0.164,0.083,0.067,0.28789,0.16973,0.11323,0.5579,0.11843,259000000,1056400000,232.278,2.65,1.722,245500000,103862496,81595527,80914204,0.00522,1.09707,3358055,4.24,0.0461,17.438932,13.943183,1.9624676,8.196986,2.382,13.221,62.6,73.0,54.0,,none,5,0,0,1,1,2026-11-06,1.2,https://www.atmus.com,2026-10-31T14:19:59.181092+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-05-26,21.43,22.25,21.27,21.41,,,,,,,0,22.2502,0,135917,,,,
 2023-05-30,21.03,21.66,20.77,21.43,,,,,,,0,22.2502,0,19343,,,,
@@ -890,4 +890,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,45.56,45.83,44.68,45.09,44.64,44.42,45.57,50.80,53.05,47.2335,0,40.7500,1,23776,30374,-0.1736,-0.4145,0.2409
 2026-10-29,45.14,46.47,44.65,46.46,44.89,44.51,45.52,50.72,53.01,47.2335,0,40.8517,1,31486,30451,-0.0121,-0.3340,0.3219
 2026-10-30,45.64,46.57,45.44,45.69,45.02,44.51,45.45,50.64,52.96,47.2335,0,41.0766,1,32865,30677,0.0532,-0.2566,0.3098
-2026-11-02,46.04,48.47,46.26,47.67,45.36,44.58,45.40,50.59,52.91,42.8472,1,41.4062,1,34982,30862,0.2617,-0.1529,0.4146
+2026-11-02,46.04,48.47,46.04,47.66,45.35,44.58,45.40,50.59,52.91,42.7397,1,41.4062,1,49214,31147,0.2609,-0.1531,0.4140
+2026-11-03,48.31,49.06,47.59,47.83,45.66,44.68,45.40,50.53,52.87,43.8202,1,41.9713,1,38738,31659,0.4342,-0.0356,0.4698
+2026-11-04,48.50,48.99,46.95,47.83,45.94,44.86,45.36,50.46,52.83,43.8202,1,42.6802,1,31314,31869,0.5650,0.0845,0.4805

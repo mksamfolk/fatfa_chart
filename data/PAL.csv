@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.55,PAL,Proficient Auto Logistics Inc.,Industrials,Integrated Freight & Logistics,United States,73358400,2.615,649540,784589,2051700.235,-0.053,,,0.17375,-0.0291,-0.098529994,-0.12963,-0.019709999,8130738,82398576,27.178,1.184,1.031,20692664,24463540,28052923,24055381,0.14247,0.72393,3673645,3.82,0.1758,,5.593583,0.17352174,0.24195042,0.349,6.041,10.33333,12.0,9.0,,none,3,1,1,0,0,2026-11-12,1.307,https://www.proficientautologistics.com,2026-10-31T19:08:51.918353+00:00
+8.04,PAL,Proficient Auto Logistics Inc.,Industrials,Integrated Freight & Logistics,United States,73358400,2.615,649540,784589,2051700.235,-0.053,,,0.17375,-0.0291,-0.098529994,-0.12963,-0.019709999,8130738,82398576,27.178,1.184,1.031,20692664,24463540,28052923,24055381,0.14247,0.72393,3673645,3.82,0.1758,,5.593583,0.17352174,0.24195042,0.349,6.041,10.33333,12.0,9.0,,none,3,1,1,0,0,2026-11-12,1.307,https://www.proficientautologistics.com,2026-10-31T19:08:51.918353+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-09,15.00,15.24,14.74,14.75,,,,,,,0,14.7400,1,53332,,,,
 2024-05-10,14.80,15.20,14.80,15.00,,,,,,,0,14.7400,1,5327,,,,
@@ -636,4 +636,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.44,2.56,2.38,2.47,2.77,3.27,4.78,6.05,6.84,3.1862,0,2.8177,0,1563,2922,-0.6730,-0.6704,-0.0026
 2026-10-29,2.50,2.50,2.35,2.42,2.69,3.14,4.70,6.02,6.80,3.1142,0,2.7312,0,1804,2928,-0.6613,-0.6686,0.0073
 2026-10-30,2.43,2.67,2.43,2.62,2.64,3.03,4.62,5.99,6.77,3.1142,0,2.3500,1,981,2924,-0.6290,-0.6607,0.0317
-2026-11-02,2.64,2.99,2.64,2.96,2.64,3.00,4.54,5.97,6.73,3.1142,0,2.3500,1,2278,2954,-0.5690,-0.6424,0.0733
+2026-11-02,2.64,3.00,2.64,2.96,2.64,3.00,4.54,5.97,6.73,3.1142,0,2.3500,1,2278,2954,-0.5690,-0.6424,0.0733
+2026-11-03,2.97,3.04,2.85,2.95,2.66,2.98,4.46,5.95,6.70,3.1142,0,2.3760,1,1281,2959,-0.5164,-0.6172,0.1008
+2026-11-04,2.95,3.10,2.90,2.94,2.68,2.95,4.38,5.92,6.66,3.1142,0,2.4158,1,941,2963,-0.4700,-0.5877,0.1177

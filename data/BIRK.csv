@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-44.48,BIRK,Birkenstock Holding plc,Consumer Cyclical,Footwear & Accessories,United Kingdom,5520168960,33.43,2236950,2432864,81330643.52,0.133,-0.13,-0.152,0.57484,0.28972998,0.14821,0.12361,0.06708,693635008,1933971968,69.021,3.783,1.967,400342016,154646000,165126204,77653369,0.17417,0.87563,7590884,4.11,0.156,15.694835,12.228762,2.435979,1.8892355,3.172,11.098,50.52155,76.16123,26.909334,1.73913,buy,21,2,2,0,1,2026-08-13,1.3,https://www.birkenstock-holding.com,2026-10-31T14:36:15.422090+00:00
+47.37,BIRK,Birkenstock Holding plc,Consumer Cyclical,Footwear & Accessories,United Kingdom,5520168960,33.43,2236950,2432864,81330643.52,0.133,-0.13,-0.152,0.57484,0.28972998,0.14821,0.12361,0.06708,693635008,1933971968,69.021,3.783,1.967,400342016,154646000,165126204,77653369,0.17417,0.87563,7590884,4.11,0.156,15.694835,12.228762,2.435979,1.8892355,3.172,11.098,50.52155,76.16123,26.909334,1.73913,buy,21,2,2,0,1,2026-08-13,1.3,https://www.birkenstock-holding.com,2026-10-31T14:36:15.422090+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-11,41.00,42.51,40.04,40.20,,,,,,,0,42.5050,0,632169,,,,
 2023-10-12,40.21,40.28,37.30,37.55,,,,,,,0,42.5050,0,327857,,,,
@@ -796,4 +796,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,32.16,32.40,31.21,31.59,33.03,33.31,33.17,38.08,38.26,35.5047,0,35.2745,0,66203,73552,-0.3076,-0.1463,-0.1613
 2026-10-29,32.23,33.52,32.06,33.39,32.78,33.33,33.11,38.07,38.22,35.5047,0,34.9494,0,55404,72210,-0.2379,-0.1646,-0.0733
 2026-10-30,33.42,33.71,33.01,33.43,32.73,33.34,33.09,38.07,38.17,35.5047,0,34.6502,0,48634,71159,-0.1774,-0.1672,-0.0102
-2026-11-02,33.81,35.76,33.71,35.55,33.02,33.43,33.09,38.08,38.15,30.6831,1,31.2100,1,68115,69566,0.0411,-0.1255,0.1666
+2026-11-02,33.81,35.76,33.71,35.54,33.02,33.43,33.09,38.08,38.15,30.6831,1,31.2100,1,92052,70044,0.0403,-0.1257,0.1660
+2026-11-03,35.41,35.66,34.97,35.53,33.29,33.50,33.09,38.07,38.13,31.4604,1,31.3011,1,44707,69056,0.2097,-0.0586,0.2683
+2026-11-04,37.14,38.17,36.75,37.27,33.79,33.71,33.13,38.08,38.13,33.1988,1,31.3904,1,98303,69393,0.4788,0.0489,0.4299

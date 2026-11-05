@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.71,FATN,FatPipe Inc.,Technology,Software - Infrastructure,United States,72055184,5.1,30850,67242,342934.19999999995,0.278,0.74,0.625,0.90683997,0.17916,0.26801002,0.23256999,0.0646,4308342,5518533,20.812,3.977,3.741,-950836,-383938,14128468,6267106,0.55909,0.060349997,98509,1.69,0.0128,13.076923,9.855073,3.5488334,2.7171018,3.608,19.237,10.0,12.0,8.0,,none,4,0,0,0,0,2026-11-04,,https://www.fatpipe.com,2026-10-31T15:57:50.424488+00:00
+95.45,FATN,FatPipe Inc.,Technology,Software - Infrastructure,United States,72055184,5.1,30850,67242,342934.19999999995,0.278,0.74,0.625,0.90683997,0.17916,0.26801002,0.23256999,0.0646,4308342,5518533,20.812,3.977,3.741,-950836,-383938,14128468,6267106,0.55909,0.060349997,98509,1.69,0.0128,13.076923,9.855073,3.5488334,2.7171018,3.608,19.237,10.0,12.0,8.0,,none,4,0,0,0,0,2026-11-04,,https://www.fatpipe.com,2026-10-31T15:57:50.424488+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-08,6.50,23.27,6.50,13.00,,,,,,,0,6.5000,1,83131,,,,
 2025-04-09,12.48,12.95,7.12,7.75,,,,,,,0,6.5000,1,10156,,,,
@@ -408,4 +408,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.13,5.20,5.09,5.20,5.24,5.22,5.78,4.54,3.91,5.9104,0,4.9899,1,187,459,-0.1207,-0.1559,0.0352
 2026-10-29,5.13,5.31,5.13,5.30,5.27,5.20,5.78,4.56,3.92,5.9104,0,5.0475,1,77,451,-0.1078,-0.1463,0.0385
 2026-10-30,5.19,5.20,4.94,5.10,5.28,5.18,5.78,4.58,3.93,5.9104,0,5.9500,0,180,441,-0.1125,-0.1395,0.0271
-2026-11-02,5.00,5.49,5.00,5.00,5.24,5.15,5.76,4.61,3.94,5.9104,0,5.9298,0,118,399,-0.1228,-0.1362,0.0134
+2026-11-02,5.00,5.49,5.00,5.00,5.24,5.15,5.76,4.61,3.94,5.9104,0,5.9298,0,119,399,-0.1228,-0.1362,0.0134
+2026-11-03,4.98,5.30,4.98,5.16,5.23,5.15,5.72,4.63,3.96,5.9104,0,5.9100,0,103,361,-0.1167,-0.1323,0.0156
+2026-11-04,5.29,5.45,5.10,5.10,5.20,5.16,5.69,4.65,3.97,5.9104,0,5.8906,0,109,330,-0.1154,-0.1289,0.0135

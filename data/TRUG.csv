@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-23 09:30:00-04:00,0.02\n2026-03-27 09:30:00-04:00,0.1\n2026-09-29 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.12,TRUG,TruGolf Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,United States,1070030,0.7299,808520,2000895,1460453.2605,0.344,,,0.52311003,-0.03833,-0.5568,-3.4927099,-0.13323,6374349,3892238,188.918,0.839,0.526,-1744221,2142711,1463997,179502,0.00703,0.0025,150490,0.07,0.1029,0.002329716,,0.053524666,0.06269003,-0.116,0.621,60.0,60.0,60.0,,none,1,0,0,1,1,,-1.093,https://trugolf.com,2026-10-31T20:35:54.917178+00:00
+4.43,TRUG,TruGolf Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,United States,1070030,0.7299,808520,2000895,1460453.2605,0.344,,,0.52311003,-0.03833,-0.5568,-3.4927099,-0.13323,6374349,3892238,188.918,0.839,0.526,-1744221,2142711,1463997,179502,0.00703,0.0025,150490,0.07,0.1029,0.002329716,,0.053524666,0.06269003,-0.116,0.621,60.0,60.0,60.0,,none,1,0,0,1,1,,-1.093,https://trugolf.com,2026-10-31T20:35:54.917178+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-02,5000.00,5024.50,4850.00,4925.00,,,,,,,0,4850.0000,1,10372,,,,
 2021-12-03,4925.00,4925.00,4925.00,4925.00,,,,,,,0,4850.0000,1,5,,,,
@@ -1247,4 +1247,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.75,0.82,0.74,0.80,0.98,1.41,1.03,2.14,3.57,1.3942,0,1.7365,0,239,9960,-0.0803,0.0219,-0.1022
 2026-10-29,0.74,0.78,0.73,0.77,0.92,1.43,1.02,2.10,3.53,1.3289,0,1.5920,0,133,9961,-0.0964,-0.0018,-0.0946
 2026-10-30,0.75,0.77,0.67,0.73,0.88,1.44,1.02,2.06,3.49,1.2665,0,1.4677,0,71,9955,-0.1110,-0.0236,-0.0874
-2026-11-02,0.71,0.76,0.70,0.72,0.84,1.35,1.01,2.01,3.46,1.2427,0,1.3407,0,64,9951,-0.1221,-0.0433,-0.0788
+2026-11-02,0.71,0.76,0.70,0.72,0.84,1.35,1.01,2.01,3.46,1.2433,0,1.3407,0,67,9951,-0.1221,-0.0433,-0.0788
+2026-11-03,0.70,0.79,0.63,0.79,0.82,1.25,1.01,1.97,3.42,1.2167,0,1.2340,0,148,9952,-0.1238,-0.0594,-0.0644
+2026-11-04,0.75,0.75,0.64,0.64,0.79,1.15,1.01,1.93,3.38,1.1948,0,1.1258,0,47,9951,-0.1356,-0.0747,-0.0609

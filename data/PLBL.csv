@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.37,PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Singapore,1967500544,5.37,161440,212454,1140877.98,-0.346,,,0.08586001,-0.32883,-0.09405,,,1657144,3949184,,0.928,0.618,,,319108190,6386134,0.97998,0.01084,292001,1.64,0.045700002,,,95.046326,-44.75,95.157,-287.036,,,,,none,,,,,,,-1.288,https://www.polibeli.id,2026-10-31T19:18:33.138570+00:00
+23.32,PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Singapore,1967500544,5.37,161440,212454,1140877.98,-0.346,,,0.08586001,-0.32883,-0.09405,,,1657144,3949184,,0.928,0.618,,,319108190,6386134,0.97998,0.01084,292001,1.64,0.045700002,,,95.046326,-44.75,95.157,-287.036,,,,,none,,,,,,,-1.288,https://www.polibeli.id,2026-10-31T19:18:33.138570+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-08,10.00,11.20,9.03,10.73,,,,,,,0,9.0310,1,2362,,,,
 2025-08-11,10.44,12.29,10.18,11.49,,,,,,,0,9.0310,1,1181,,,,
@@ -324,4 +324,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.35,5.54,5.35,5.45,5.43,5.52,5.75,7.05,7.71,6.2567,0,5.8476,0,881,1316,-0.1241,-0.1568,0.0326
 2026-10-29,5.43,5.48,5.28,5.38,5.42,5.51,5.75,7.03,7.67,6.1715,0,5.8221,0,535,1283,-0.1221,-0.1498,0.0277
 2026-10-30,5.40,5.42,5.31,5.37,5.41,5.50,5.76,7.01,7.65,6.1081,0,5.7976,0,562,1279,-0.1200,-0.1439,0.0239
-2026-11-02,5.44,5.55,5.38,5.52,5.43,5.49,5.76,6.99,7.62,6.1081,0,5.7741,0,739,1284,-0.1049,-0.1361,0.0311
+2026-11-02,5.44,5.55,5.38,5.52,5.43,5.49,5.76,6.99,7.62,6.1081,0,5.7741,0,740,1284,-0.1049,-0.1361,0.0311
+2026-11-03,5.54,5.75,5.42,5.66,5.46,5.48,5.74,6.97,7.59,6.1081,0,5.7515,0,837,1286,-0.0808,-0.1250,0.0442
+2026-11-04,5.70,5.70,5.34,5.45,5.46,5.47,5.73,6.95,7.56,6.1081,0,5.7500,0,835,1296,-0.0777,-0.1155,0.0379

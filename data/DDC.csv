@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-21 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.22,DDC,DDC Enterprise Limited,Consumer Defensive,Packaged Foods,United States,7775884,0.1368,3816970,5003957,684541.3176000001,0.222,,,0.30232,-0.10147,-2.12722,-0.82691,-0.131,134352976,216057248,16.76,1.834,0.547,,,56841260,28397190,0.44665,0.01482,251764,0.03,0.0066000004,,-4.5600004,0.02601688,0.035281435,0.503,-0.595,2.375,3.0,1.75,,none,2,,,,,,3.887,https://ir.ddc.xyz,2026-10-31T15:28:59.176381+00:00
+1.48,DDC,DDC Enterprise Limited,Consumer Defensive,Packaged Foods,United States,7775884,0.1368,3816970,5003957,684541.3176000001,0.222,,,0.30232,-0.10147,-2.12722,-0.82691,-0.131,134352976,216057248,16.76,1.834,0.547,,,56841260,28397190,0.44665,0.01482,251764,0.03,0.0066000004,,-4.5600004,0.02601688,0.035281435,0.503,-0.595,2.375,3.0,1.75,,none,2,,,,,,3.887,https://ir.ddc.xyz,2026-10-31T15:28:59.176381+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-17,212.50,212.50,141.75,155.25,,,,,,,0,212.5000,0,8356,,,,
 2023-11-20,164.25,164.25,125.63,130.25,,,,,,,0,212.5000,0,1756,,,,
@@ -754,4 +754,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.14,0.15,0.14,0.14,0.15,0.18,0.36,1.07,1.47,0.2204,0,0.1180,1,319,715,-0.0681,-0.0785,0.0104
 2026-10-29,0.14,0.14,0.13,0.14,0.14,0.17,0.35,1.06,1.46,0.2158,0,0.1186,1,276,719,-0.0648,-0.0758,0.0110
 2026-10-30,0.13,0.14,0.13,0.14,0.14,0.17,0.35,1.04,1.45,0.2084,0,0.1193,1,295,725,-0.0616,-0.0730,0.0113
-2026-11-02,0.13,0.14,0.13,0.13,0.14,0.16,0.34,1.02,1.44,0.2024,0,0.1199,1,318,730,-0.0589,-0.0701,0.0113
+2026-11-02,0.13,0.14,0.13,0.13,0.14,0.16,0.34,1.02,1.44,0.2026,0,0.1199,1,353,730,-0.0588,-0.0701,0.0114
+2026-11-03,0.13,0.13,0.13,0.13,0.14,0.16,0.33,1.01,1.43,0.1949,0,0.1205,1,294,734,-0.0561,-0.0673,0.0112
+2026-11-04,0.13,0.14,0.13,0.14,0.14,0.15,0.33,0.99,1.42,0.1949,0,0.1211,1,390,736,-0.0527,-0.0644,0.0117

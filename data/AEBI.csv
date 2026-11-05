@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.55,AEBI,Aebi Schmidt Holding AG,Industrials,Farm & Heavy Construction Machinery,Switzerland,880020864,11.34,173370,355162,4027537.08,0.787,,,0.19399,0.05603,0.01085,0.03568,0.03329,109734000,786572992,95.424,1.982,1.058,19556000,-75086752,77603247,36803340,0.52978003,0.41568002,1610960,4.55,0.1703,36.580647,9.489539,0.45091143,1.0622951,0.798,10.72,17.0,17.0,17.0,,none,2,0,0,1,1,2026-11-11,,https://www.aebi-schmidt.com,2026-10-31T13:54:17.902749+00:00
+42.17,AEBI,Aebi Schmidt Holding AG,Industrials,Farm & Heavy Construction Machinery,Switzerland,880020864,11.34,173370,355162,4027537.08,0.787,,,0.19399,0.05603,0.01085,0.03568,0.03329,109734000,786572992,95.424,1.982,1.058,19556000,-75086752,77603247,36803340,0.52978003,0.41568002,1610960,4.55,0.1703,36.580647,9.489539,0.45091143,1.0622951,0.798,10.72,17.0,17.0,17.0,,none,2,0,0,1,1,2026-11-11,,https://www.aebi-schmidt.com,2026-10-31T13:54:17.902749+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-02,32.61,32.67,10.00,11.07,,,,,,,0,9.9988,1,43861,,,,
 2025-07-03,13.96,14.86,11.69,13.47,,,,,,,0,9.9988,1,70992,,,,
@@ -350,4 +350,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.13,11.44,11.13,11.39,11.16,11.22,12.09,11.95,12.53,12.3351,0,11.8010,0,3010,4407,-0.2534,-0.3143,0.0609
 2026-10-29,11.39,11.56,11.20,11.43,11.18,11.19,12.06,11.93,12.53,12.3351,0,11.7474,0,1977,4347,-0.2185,-0.2952,0.0767
 2026-10-30,11.43,11.53,11.24,11.34,11.20,11.16,12.02,11.92,12.52,12.3351,0,11.6959,0,1771,4306,-0.1958,-0.2753,0.0795
-2026-11-02,11.50,12.01,11.50,11.79,11.28,11.19,12.00,11.91,12.51,12.3351,0,10.4600,1,2382,4294,-0.1399,-0.2482,0.1083
+2026-11-02,11.50,12.01,11.50,11.79,11.28,11.19,12.00,11.91,12.51,12.3351,0,10.4600,1,2476,4296,-0.1399,-0.2482,0.1083
+2026-11-03,11.85,11.90,11.52,11.55,11.32,11.20,11.97,11.90,12.50,12.3351,0,10.4910,1,2054,4268,-0.1137,-0.2213,0.1076
+2026-11-04,11.89,12.11,11.51,11.63,11.36,11.24,11.93,11.88,12.49,12.3351,0,10.5214,1,2161,4248,-0.0855,-0.1941,0.1087

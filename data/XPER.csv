@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.01,XPER,Xperi Inc.,Technology,Software - Application,United States,259953824,5.33,398270,443150,2361989.5,0.081,,,0.71949995,0.02716,-0.07118,-0.0779,0.003,90590000,65171000,15.701,2.484,2.249,8181000,55337124,48771822,40270893,0.03968,0.94602996,5699492,14.52,0.1193,,3.973164,0.5690297,0.62595415,0.513,5.722,11.4,13.0,10.0,,none,5,0,0,4,3,2026-11-04,0.902,https://xperi.com,2026-10-31T21:09:58.500675+00:00
+29.56,XPER,Xperi Inc.,Technology,Software - Application,United States,259953824,5.33,398270,443150,2361989.5,0.081,,,0.71949995,0.02716,-0.07118,-0.0779,0.003,90590000,65171000,15.701,2.484,2.249,8181000,55337124,48771822,40270893,0.03968,0.94602996,5699492,14.52,0.1193,,3.973164,0.5690297,0.62595415,0.513,5.722,11.4,13.0,10.0,,none,5,0,0,4,3,2026-11-04,0.902,https://xperi.com,2026-10-31T21:09:58.500675+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-20,23.00,23.00,23.00,23.00,,,,,,,0,23.0000,0,2,,,,
 2022-09-21,23.00,23.00,23.00,23.00,,,,,,,0,23.0000,0,,,,,
@@ -1047,4 +1047,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.21,5.37,5.09,5.36,5.16,5.24,6.03,6.72,6.49,5.5761,0,4.9168,1,2784,2813,-0.2195,-0.2989,0.0795
 2026-10-29,5.32,5.45,5.27,5.43,5.20,5.22,5.99,6.71,6.49,5.5761,0,4.9349,1,2158,2814,-0.1874,-0.2766,0.0892
 2026-10-30,5.38,5.44,5.20,5.33,5.24,5.20,5.95,6.71,6.49,5.5761,0,4.9659,1,1969,2808,-0.1681,-0.2549,0.0868
-2026-11-02,5.39,5.51,5.33,5.42,5.27,5.20,5.90,6.70,6.48,5.5761,0,4.9949,1,2464,2796,-0.1439,-0.2327,0.0888
+2026-11-02,5.39,5.51,5.33,5.42,5.27,5.20,5.90,6.70,6.48,5.5761,0,4.9949,1,2465,2796,-0.1439,-0.2327,0.0888
+2026-11-03,5.44,5.44,5.20,5.39,5.29,5.20,5.85,6.70,6.48,5.5761,0,5.0365,1,2801,2801,-0.1257,-0.2113,0.0856
+2026-11-04,5.49,5.63,5.33,5.36,5.31,5.20,5.80,6.70,6.48,5.5761,0,5.0748,1,4269,2807,-0.1124,-0.1915,0.0791

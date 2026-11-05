@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-03-27 09:30:00-04:00,0.02857142857142857\n2023-06-29 09:30:00-04:00,0.025\n2024-04-09 09:30:00-04:00,0.05\n2024-09-11 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.17,ALLR,Allarity Therapeutics Inc.,Healthcare,Biotechnology,United States,13848694,0.8704,115470,111698,97221.9392,,,,1.0,-31.289862,0.0,-1.57091,-0.25307,16982000,22286000,630.26,1.11,0.64,-13710000,-19769876,15910724,15805554,0.0031299999,0.080520004,168026,1.27,0.0106,,-1.0120931,40.141144,3.9207208,55.515,-1.773,11.0,11.0,11.0,,none,1,1,1,0,0,,0.572,https://www.allarity.com,2026-10-31T14:03:23.445446+00:00
+34.88,ALLR,Allarity Therapeutics Inc.,Healthcare,Biotechnology,United States,13848694,0.8704,115470,111698,97221.9392,,,,1.0,-31.289862,0.0,-1.57091,-0.25307,16982000,22286000,630.26,1.11,0.64,-13710000,-19769876,15910724,15805554,0.0031299999,0.080520004,168026,1.27,0.0106,,-1.0120931,40.141144,3.9207208,55.515,-1.773,11.0,11.0,11.0,,none,1,1,1,0,0,,0.572,https://www.allarity.com,2026-10-31T14:03:23.445446+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-21,12474000.00,15288000.00,7400400.00,8820000.00,,,,,,,0,7400400.0000,1,,,,,
 2021-12-22,9240000.00,12558000.00,9214800.00,10605000.00,,,,,,,0,7400400.0000,1,,,,,
@@ -1235,3 +1235,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,0.92,0.94,0.85,0.89,0.89,0.93,1.19,1.28,1.22,1.0948,0,0.8155,1,133,117,-0.0856,-0.1019,0.0163
 2026-10-30,0.89,0.90,0.85,0.87,0.89,0.91,1.18,1.28,1.22,1.0948,0,0.8212,1,155,118,-0.0830,-0.0981,0.0151
 2026-11-02,0.87,1.03,0.87,0.98,0.90,0.91,1.17,1.28,1.22,1.0948,0,0.8268,1,163,121,-0.0715,-0.0928,0.0213
+2026-11-03,0.98,1.13,0.98,1.13,0.92,0.91,1.17,1.28,1.22,0.7844,1,0.8390,1,362,126,-0.0495,-0.0841,0.0347
+2026-11-04,1.15,1.18,1.07,1.08,0.94,0.92,1.17,1.28,1.22,0.8485,1,0.8623,1,147,126,-0.0357,-0.0744,0.0388

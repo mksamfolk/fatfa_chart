@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-10 09:30:00-04:00,0.008333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.24,WBUY,,Consumer Cyclical,Internet Retail,Singapore,2851818,0.5203,103450,2995256,1558431.6968,0.944,,,0.12791,-0.28078,-0.16212,-1.4388299,-0.18052,3518652,1779115,47.596,1.162,0.601,-3313170,-3508380,5202808,2472062,0.51267,0.00632,422420,0.07,0.098000005,0.21861342,,0.11061917,0.6810209,0.028,-0.193,,,,,none,,,,,,,2.859,https://webuysg.com,2026-10-31T20:59:27.460220+00:00
+13.88,WBUY,,Consumer Cyclical,Internet Retail,Singapore,2851818,0.5203,103450,2995256,1558431.6968,0.944,,,0.12791,-0.28078,-0.16212,-1.4388299,-0.18052,3518652,1779115,47.596,1.162,0.601,-3313170,-3508380,5202808,2472062,0.51267,0.00632,422420,0.07,0.098000005,0.21861342,,0.11061917,0.6810209,0.028,-0.193,,,,,none,,,,,,,2.859,https://webuysg.com,2026-10-31T20:59:27.460220+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-19,930.00,1333.20,640.80,640.80,,,,,,,0,1333.2000,0,29312,,,,
 2023-10-20,530.40,540.00,360.00,378.00,,,,,,,0,1333.2000,0,7949,,,,
@@ -775,4 +775,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.62,0.62,0.58,0.60,0.68,0.74,0.82,0.95,1.05,0.8647,0,1.0709,0,14,2568,-0.0607,-0.0446,-0.0161
 2026-10-29,0.59,0.60,0.58,0.58,0.65,0.72,0.81,0.95,1.04,0.8341,0,1.0215,0,18,2555,-0.0642,-0.0486,-0.0157
 2026-10-30,0.55,0.57,0.52,0.52,0.63,0.70,0.80,0.94,1.04,0.7822,0,0.9771,0,46,2544,-0.0711,-0.0531,-0.0180
-2026-11-02,0.53,0.55,0.52,0.53,0.61,0.69,0.80,0.94,1.03,0.7570,0,0.9219,0,24,2542,-0.0751,-0.0575,-0.0176
+2026-11-02,0.52,0.55,0.52,0.53,0.61,0.69,0.80,0.94,1.03,0.7598,0,0.9219,0,27,2542,-0.0751,-0.0575,-0.0176
+2026-11-03,0.50,0.57,0.50,0.53,0.60,0.68,0.79,0.94,1.02,0.7598,0,0.8733,0,29,2542,-0.0772,-0.0614,-0.0157
+2026-11-04,0.55,0.55,0.52,0.54,0.58,0.67,0.78,0.93,1.02,0.7461,0,0.8210,0,14,2540,-0.0775,-0.0646,-0.0129

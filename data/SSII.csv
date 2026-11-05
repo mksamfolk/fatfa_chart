@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.55,SSII,SS Innovations International Inc.,Healthcare,Medical Devices,India,471147808,2.35,58530,56512,132803.2,0.394,,,0.47649,-0.16294001,-0.23725,-0.26059,-0.06339,13647430,17872490,33.468,2.241,1.19,-15533733,-3900197,200488427,40668224,0.8007,0.00936,69591,1.0,0.0013,,-39.166664,8.990528,8.801498,9.067,-66.078,7.0,7.0,7.0,,none,1,0,0,0,0,2026-11-02,0.732,https://ssinnovations.com,2026-10-31T20:12:18.439774+00:00
+11.13,SSII,SS Innovations International Inc.,Healthcare,Medical Devices,India,471147808,2.35,58530,56512,132803.2,0.394,,,0.47649,-0.16294001,-0.23725,-0.26059,-0.06339,13647430,17872490,33.468,2.241,1.19,-15533733,-3900197,200488427,40668224,0.8007,0.00936,69591,1.0,0.0013,,-39.166664,8.990528,8.801498,9.067,-66.078,7.0,7.0,7.0,,none,1,0,0,0,0,2026-11-02,0.732,https://ssinnovations.com,2026-10-31T20:12:18.439774+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-07,4.00,4.00,4.00,4.00,,,,,,,0,4.0000,0,,,,,
 2024-08-08,4.00,4.00,4.00,4.00,,,,,,,0,4.0000,0,0,,,,
@@ -575,4 +575,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.44,2.55,2.40,2.44,2.44,2.62,3.23,3.83,4.10,2.9097,0,2.2188,1,33,155,-0.2421,-0.2586,0.0165
 2026-10-29,2.41,2.47,2.22,2.38,2.42,2.57,3.20,3.81,4.09,2.9097,0,2.6700,0,227,154,-0.2341,-0.2537,0.0196
 2026-10-30,2.32,2.50,2.30,2.35,2.41,2.53,3.16,3.80,4.07,2.9097,0,2.6610,0,117,152,-0.2276,-0.2484,0.0209
-2026-11-02,2.45,2.60,2.30,2.31,2.39,2.50,3.13,3.79,4.05,2.9097,0,2.6522,0,183,153,-0.2231,-0.2434,0.0203
+2026-11-02,2.32,2.63,2.28,2.31,2.39,2.50,3.13,3.79,4.05,2.9097,0,2.6522,0,196,153,-0.2231,-0.2434,0.0203
+2026-11-03,2.25,2.43,2.19,2.33,2.37,2.48,3.10,3.77,4.04,2.9097,0,2.6435,0,94,153,-0.2154,-0.2378,0.0224
+2026-11-04,2.37,2.45,2.20,2.27,2.36,2.46,3.07,3.75,4.02,2.9097,0,2.6300,0,72,145,-0.2117,-0.2326,0.0208

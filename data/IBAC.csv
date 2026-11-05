@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.54,IBAC,IB Acquisition Corp.,Financial Services,Shell Companies,United States,54389364,10.86,130,1332,14465.519999999999,,,,0.0,0.0,0.0,,-0.01711,30161,502788,,0.105,0.012,-1848223,190876,5008229,1154146,0.86367,0.08915,2401,0.87,0.0005,,,,-23.506493,,,,,,,none,,,,,,,-0.002,,2026-10-31T17:24:10.310795+00:00
+53.61,IBAC,IB Acquisition Corp.,Financial Services,Shell Companies,United States,54389364,10.86,130,1332,14465.519999999999,,,,0.0,0.0,0.0,,-0.01711,30161,502788,,0.105,0.012,-1848223,190876,5008229,1154146,0.86367,0.08915,2401,0.87,0.0005,,,,-23.506493,,,,,,,none,,,,,,,-0.002,,2026-10-31T17:24:10.310795+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-01,9.96,9.98,9.96,9.98,,,,,,,0,9.9800,0,27,,,,
 2024-05-02,9.96,9.97,9.93,9.93,,,,,,,0,9.9800,0,5156,,,,
@@ -642,4 +642,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.86,10.86,10.86,10.86,10.86,10.87,10.86,10.80,10.74,10.8414,1,10.9071,0,,7,-0.0032,-0.0011,-0.0022
 2026-10-29,10.86,10.86,10.86,10.86,10.86,10.87,10.86,10.80,10.74,10.8428,1,10.9061,0,,6,-0.0032,-0.0015,-0.0018
 2026-10-30,10.86,10.86,10.86,10.86,10.86,10.86,10.87,10.80,10.75,10.8445,1,10.9052,0,,6,-0.0032,-0.0018,-0.0014
-2026-11-02,10.81,10.83,10.81,10.81,10.85,10.86,10.87,10.80,10.75,10.8489,0,10.9043,0,38,7,-0.0072,-0.0029,-0.0043
+2026-11-02,10.83,10.83,10.81,10.81,10.85,10.86,10.87,10.80,10.75,10.8489,0,10.9043,0,38,7,-0.0072,-0.0029,-0.0043
+2026-11-03,10.81,10.81,10.81,10.81,10.85,10.86,10.87,10.80,10.75,10.8360,0,10.9005,0,,7,-0.0102,-0.0044,-0.0058
+2026-11-04,10.81,10.81,10.81,10.81,10.84,10.85,10.87,10.81,10.75,10.8334,0,10.8969,0,,6,-0.0124,-0.0060,-0.0064

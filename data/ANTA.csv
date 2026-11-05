@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.55,ANTA,,Financial Services,Credit Services,Singapore,38723128,1.6125,19720,25787,41581.5375,-0.282,,,0.90766,-2.05395,0.07937,0.00538,-0.00177,4309883,416999872,226.884,1.288,0.031,,,24014343,3813942,0.84193003,0.00208,8253,0.16,0.0015,7.3295455,Infinity,0.4722195,0.345437,6.379,-132.934,8.25,9.0,7.5,,none,2,1,1,0,0,2026-11-09,,https://www.antalpha.com,2026-10-31T14:10:07.381470+00:00
+4.31,ANTA,,Financial Services,Credit Services,Singapore,38723128,1.6125,19720,25787,41581.5375,-0.282,,,0.90766,-2.05395,0.07937,0.00538,-0.00177,4309883,416999872,226.884,1.288,0.031,,,24014343,3813942,0.84193003,0.00208,8253,0.16,0.0015,7.3295455,Infinity,0.4722195,0.345437,6.379,-132.934,8.25,9.0,7.5,,none,2,1,1,0,0,2026-11-09,,https://www.antalpha.com,2026-10-31T14:10:07.381470+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-13,12.80,12.80,12.80,12.80,,,,,,,0,12.8000,1,,,,,
 2025-05-14,15.01,27.72,15.01,16.38,,,,,,,0,12.8000,1,92100,,,,
@@ -384,4 +384,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.70,1.76,1.67,1.68,1.91,2.31,3.16,5.79,6.64,2.5915,0,2.1280,0,15,35,-0.4777,-0.4601,-0.0176
 2026-10-29,1.88,1.88,1.66,1.76,1.85,2.20,3.13,5.75,6.60,2.5915,0,2.0435,0,51,36,-0.4614,-0.4604,-0.0010
 2026-10-30,1.69,1.94,1.61,1.61,1.79,2.09,3.10,5.71,6.56,2.5915,0,1.9726,0,39,37,-0.4550,-0.4593,0.0043
-2026-11-02,1.66,1.80,1.66,1.71,1.75,2.05,3.07,5.67,6.52,2.5676,0,1.9400,0,5,37,-0.4371,-0.4549,0.0178
+2026-11-02,1.66,1.80,1.66,1.71,1.75,2.05,3.07,5.67,6.52,2.5676,0,1.9400,0,6,37,-0.4371,-0.4549,0.0178
+2026-11-03,1.78,1.85,1.77,1.82,1.74,2.02,3.04,5.63,6.49,2.5676,0,1.9400,0,7,37,-0.4093,-0.4458,0.0365
+2026-11-04,1.91,1.91,1.71,1.71,1.74,1.99,3.01,5.59,6.45,2.5676,0,1.6000,1,14,37,-0.3916,-0.4349,0.0433

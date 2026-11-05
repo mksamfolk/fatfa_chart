@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.03,INAC,Indigo Acquisition Corp.,Financial Services,Shell Companies,United States,153747104,10.42,1000,5487,57174.54,,,,0.0,0.0,0.0,,,379862,0,,6.518,5.007,-710024,,14755000,11650696,0.21247,0.68832,36,0.0,0.0,38.59259,,,-42.704918,,,,,,,none,,,,,,,,https://www.indigoacquisitioncorp.com,2026-10-31T17:38:36.356020+00:00
+56.50,INAC,Indigo Acquisition Corp.,Financial Services,Shell Companies,United States,153747104,10.42,1000,5487,57174.54,,,,0.0,0.0,0.0,,,379862,0,,6.518,5.007,-710024,,14755000,11650696,0.21247,0.68832,36,0.0,0.0,38.59259,,,-42.704918,,,,,,,none,,,,,,,,https://www.indigoacquisitioncorp.com,2026-10-31T17:38:36.356020+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-30,9.95,9.96,9.92,9.92,,,,,,,0,9.9200,1,1108,,,,
 2025-07-31,9.93,9.95,9.93,9.94,,,,,,,0,9.9200,1,143,,,,
@@ -331,4 +331,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.43,10.43,10.43,10.43,10.41,10.39,10.34,10.25,10.21,10.4113,1,10.3946,1,6,13,0.0257,0.0244,0.0013
 2026-10-29,10.43,10.43,10.43,10.43,10.42,10.40,10.35,10.25,10.21,10.4113,1,10.4002,1,,8,0.0255,0.0246,0.0009
 2026-10-30,10.42,10.42,10.42,10.42,10.42,10.40,10.35,10.25,10.21,10.4113,1,10.4051,1,52,8,0.0243,0.0245,-0.0003
-2026-11-02,10.42,10.42,10.42,10.42,10.42,10.40,10.35,10.25,10.21,10.4113,1,10.4096,1,52,9,0.0233,0.0243,-0.0009
+2026-11-02,10.42,10.42,10.42,10.42,10.42,10.40,10.35,10.25,10.21,10.4113,1,10.4096,1,52,9,0.0234,0.0243,-0.0009
+2026-11-03,10.42,10.42,10.42,10.42,10.43,10.41,10.35,10.25,10.22,10.4113,1,10.4137,1,,9,0.0224,0.0239,-0.0015
+2026-11-04,10.42,10.42,10.42,10.42,10.42,10.41,10.36,10.26,10.22,10.4113,1,10.4173,1,324,15,0.0210,0.0233,-0.0023

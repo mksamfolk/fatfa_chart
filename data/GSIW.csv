@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-06 09:30:00-05:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.40,GSIW,Garden Stage Limited,Financial Services,Capital Markets,Hong Kong,13337079,9.12,790,24200,220703.99999999997,-0.179,,,-0.35438,-1.90414,-1.9108299,-0.89497,-0.47862998,6830477,80705,0.333,1.721,0.88,-4234334,,1462399,1462350,0.0,0.025039999,9613,0.54,0.0076,,,1.8416315,4.0336137,12.558,,,,,,none,,,,,,,4.117,https://www.gardenstage-ky.com,2026-10-31T16:31:49.325004+00:00
+6.62,GSIW,Garden Stage Limited,Financial Services,Capital Markets,Hong Kong,13337079,9.12,790,24200,220703.99999999997,-0.179,,,-0.35438,-1.90414,-1.9108299,-0.89497,-0.47862998,6830477,80705,0.333,1.721,0.88,-4234334,,1462399,1462350,0.0,0.025039999,9613,0.54,0.0076,,,1.8416315,4.0336137,12.558,,,,,,none,,,,,,,4.117,https://www.gardenstage-ky.com,2026-10-31T16:31:49.325004+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-01,890.00,2340.00,840.00,2040.00,,,,,,,0,840.0000,1,51628,,,,
 2023-12-04,1300.00,1796.00,1266.00,1456.00,,,,,,,0,840.0000,1,3975,,,,
@@ -745,4 +745,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,9.74,9.74,9.74,9.74,10.04,10.61,14.56,22.25,23.49,11.6171,0,11.1639,0,3,357,-1.6229,-1.8117,0.1888
 2026-10-29,9.32,9.32,9.12,9.12,9.87,10.33,14.28,22.25,23.40,11.5366,0,10.9650,0,10,355,-1.5884,-1.7671,0.1787
 2026-10-30,9.12,9.12,9.12,9.12,9.73,10.07,14.00,22.24,23.32,11.2050,0,10.7436,0,,353,-1.5433,-1.7223,0.1790
-2026-11-02,9.30,12.48,8.70,10.04,9.71,10.08,13.78,22.09,23.24,11.2050,0,9.1200,1,457,360,-1.4169,-1.6612,0.2443
+2026-11-02,9.30,12.48,8.70,10.04,9.71,10.08,13.78,22.09,23.24,11.2050,0,9.1200,1,458,360,-1.4169,-1.6612,0.2443
+2026-11-03,10.01,10.57,10.01,10.24,9.71,10.08,13.59,21.98,23.16,11.2050,0,8.7000,1,14,359,-1.2858,-1.5861,0.3003
+2026-11-04,10.24,10.92,10.24,10.50,9.71,10.07,13.43,21.89,23.08,11.2050,0,8.7000,1,44,359,-1.1477,-1.4985,0.3507

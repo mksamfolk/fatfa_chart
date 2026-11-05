@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.53,HTCR,HeartCore Enterprises Inc.,Technology,Software - Application,Japan,2242685,1.48,10950,26504,39225.92,0.716,,,0.31913,-2.5636098,0.42786,-1.0982499,-0.1903,3255391,485747,9.587,1.165,0.907,-3970641,-1983946,1515328,660380,0.60258,0.00021,14719,0.42,0.0175,,13.454546,0.24691698,0.47665057,0.007,-0.019,,,,,none,,,,,,,1.695,https://www.heartcore.co.jp,2026-10-31T17:06:57.258647+00:00
+6.64,HTCR,HeartCore Enterprises Inc.,Technology,Software - Application,Japan,2242685,1.48,10950,26504,39225.92,0.716,,,0.31913,-2.5636098,0.42786,-1.0982499,-0.1903,3255391,485747,9.587,1.165,0.907,-3970641,-1983946,1515328,660380,0.60258,0.00021,14719,0.42,0.0175,,13.454546,0.24691698,0.47665057,0.007,-0.019,,,,,none,,,,,,,1.695,https://www.heartcore.co.jp,2026-10-31T17:06:57.258647+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-10,80.94,89.03,72.36,80.13,,,,,,,0,72.3571,1,16673,,,,
 2022-02-11,81.91,100.20,63.13,66.85,,,,,,,0,100.1992,0,41976,,,,
@@ -1199,4 +1199,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.42,1.46,1.41,1.42,1.50,1.65,2.15,3.00,3.70,1.7782,0,1.7200,0,7,51,-0.2219,-0.2251,0.0032
 2026-10-29,1.42,1.57,1.42,1.56,1.49,1.62,2.14,2.98,3.67,1.7782,0,1.6824,0,24,50,-0.2037,-0.2208,0.0171
 2026-10-30,1.47,1.54,1.45,1.48,1.48,1.60,2.13,2.95,3.65,1.7782,0,1.6478,0,7,50,-0.1935,-0.2154,0.0219
-2026-11-02,1.42,1.48,1.42,1.45,1.48,1.58,2.11,2.93,3.62,1.7782,0,1.6160,0,4,49,-0.1857,-0.2094,0.0237
+2026-11-02,1.42,1.48,1.42,1.45,1.48,1.58,2.11,2.93,3.62,1.7782,0,1.6160,0,3,49,-0.1857,-0.2094,0.0237
+2026-11-03,1.42,1.44,1.35,1.35,1.45,1.56,2.09,2.91,3.59,1.7682,0,1.5867,0,50,42,-0.1855,-0.2047,0.0192
+2026-11-04,1.30,1.38,1.30,1.30,1.43,1.53,2.06,2.88,3.57,1.6959,0,1.5597,0,13,39,-0.1872,-0.2012,0.0140

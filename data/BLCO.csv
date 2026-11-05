@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.15,BLCO,Bausch + Lomb Corporation,Healthcare,Medical Instruments & Supplies,Canada,7149947392,20.0,1208820,554754,11095080.0,0.073,,,0.62551,0.11273,-0.02049,,,,,79.376,,,,,357497374,45692875,0.87288004,0.11248,2542763,5.12,0.0555,,16.749859,1.3196654,1.0986596,,,21.64286,26.0,18.0,2.26667,buy,14,0,0,2,1,2026-10-28,,https://www.bausch.com,2026-10-31T14:37:51.171188+00:00
+82.70,BLCO,Bausch + Lomb Corporation,Healthcare,Medical Instruments & Supplies,Canada,7149947392,20.0,1208820,554754,11095080.0,0.073,,,0.62551,0.11273,-0.02049,,,,,79.376,,,,,357497374,45692875,0.87288004,0.11248,2542763,5.12,0.0555,,16.749859,1.3196654,1.0986596,,,21.64286,26.0,18.0,2.26667,buy,14,0,0,2,1,2026-10-28,,https://www.bausch.com,2026-10-31T14:37:51.171188+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-06,18.50,20.20,18.40,20.00,,,,,,,0,20.2000,0,304506,,,,
 2022-05-09,18.99,19.18,17.80,18.00,,,,,,,0,20.2000,0,95864,,,,
@@ -1155,4 +1155,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,18.54,20.43,18.46,20.40,17.44,17.12,17.23,16.49,16.64,17.2411,1,15.8824,1,83764,9355,0.3488,0.0441,0.3047
 2026-10-29,20.89,21.36,20.27,20.40,17.81,17.30,17.29,16.52,16.66,18.5045,1,16.3372,1,70421,10576,0.5428,0.1439,0.3990
 2026-10-30,20.85,20.85,19.83,20.00,18.16,17.44,17.35,16.55,16.67,18.5045,1,16.9399,1,28632,11007,0.6567,0.2464,0.4103
-2026-11-02,20.15,20.22,19.68,20.02,18.50,17.58,17.41,16.59,16.69,18.5045,1,17.4703,1,26026,11445,0.7401,0.3452,0.3950
+2026-11-02,20.15,20.22,19.68,20.01,18.50,17.58,17.41,16.59,16.69,18.5045,1,17.4703,1,30183,11528,0.7393,0.3450,0.3943
+2026-11-03,19.86,20.07,19.77,20.03,18.81,17.73,17.46,16.61,16.70,18.5045,1,17.9371,1,13672,11701,0.7971,0.4354,0.3617
+2026-11-04,20.50,20.76,20.30,20.60,19.15,17.89,17.53,16.64,16.72,18.5045,1,18.3478,1,23266,12002,0.8788,0.5241,0.3547

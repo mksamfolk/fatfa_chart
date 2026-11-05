@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-13 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.33,CDIO,Cardio Diagnostics Holdings Inc.,Healthcare,Biotechnology,United States,4942313,1.67,19190,36414,60811.38,-0.283,,,1.0,-279.50504,0.0,-0.75442004,-0.44055998,5586697,369698,4.978,17.149,15.564,-5659843,-3773845,2959469,2836562,0.08307,0.06522,2971,0.09,0.001,,-6.68,342.0286,0.6656038,-19.009,0.045,,,,,none,,,,,,2026-11-06,2.237,https://cdio.ai,2026-10-31T14:57:26.751835+00:00
+33.22,CDIO,Cardio Diagnostics Holdings Inc.,Healthcare,Biotechnology,United States,4942313,1.67,19190,36414,60811.38,-0.283,,,1.0,-279.50504,0.0,-0.75442004,-0.44055998,5586697,369698,4.978,17.149,15.564,-5659843,-3773845,2959469,2836562,0.08307,0.06522,2971,0.09,0.001,,-6.68,342.0286,0.6656038,-19.009,0.045,,,,,none,,,,,,2026-11-06,2.237,https://cdio.ai,2026-10-31T14:57:26.751835+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-14,294.00,294.90,292.50,294.60,,,,,,,0,292.5000,1,4496,,,,
 2022-01-18,294.90,296.10,294.90,296.10,,,,,,,0,292.5000,1,397,,,,
@@ -1217,4 +1217,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.69,1.75,1.69,1.70,1.71,1.80,1.84,2.01,2.14,2.0730,0,2.0195,0,16,73,-0.0529,-0.0455,-0.0074
 2026-10-29,1.73,1.78,1.70,1.75,1.71,1.79,1.84,1.98,2.13,2.0730,0,2.0007,0,10,73,-0.0478,-0.0460,-0.0018
 2026-10-30,1.72,1.75,1.67,1.67,1.71,1.77,1.85,1.96,2.13,2.0415,0,1.9827,0,20,72,-0.0497,-0.0467,-0.0030
-2026-11-02,1.74,1.74,1.66,1.67,1.71,1.75,1.85,1.94,2.12,2.0223,0,1.9654,0,6,72,-0.0506,-0.0475,-0.0031
+2026-11-02,1.74,1.74,1.63,1.67,1.71,1.75,1.85,1.94,2.12,2.0163,0,1.9654,0,6,72,-0.0506,-0.0475,-0.0031
+2026-11-03,1.60,1.67,1.60,1.60,1.70,1.73,1.85,1.92,2.11,1.9542,0,1.9487,0,12,71,-0.0563,-0.0492,-0.0070
+2026-11-04,1.60,1.69,1.60,1.64,1.69,1.72,1.84,1.90,2.10,1.9542,0,1.9328,0,15,71,-0.0565,-0.0507,-0.0058

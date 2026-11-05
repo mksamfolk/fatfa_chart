@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.59,PTRN,Pattern Group Inc.,Consumer Cyclical,Internet Retail,United States,2943051008,16.59,1126580,1547609,25674833.31,0.466,-0.167,0.156,0.43887,0.04053,0.00875,0.049239997,0.0287,345830016,51310000,7.947,2.352,1.456,136231008,86532624,155696579,46035064,0.49105,0.43703,8306281,4.89,0.1599,,21.102844,0.9767003,4.532787,0.879,43.617,27.0,30.0,20.0,1.44444,strong_buy,8,3,3,0,0,2026-11-04,,https://www.pattern.com,2026-10-31T19:28:12.957287+00:00
+67.51,PTRN,Pattern Group Inc.,Consumer Cyclical,Internet Retail,United States,2943051008,16.59,1126580,1547609,25674833.31,0.466,-0.167,0.156,0.43887,0.04053,0.00875,0.049239997,0.0287,345830016,51310000,7.947,2.352,1.456,136231008,86532624,155696579,46035064,0.49105,0.43703,8306281,4.89,0.1599,,21.102844,0.9767003,4.532787,0.879,43.617,27.0,30.0,20.0,1.44444,strong_buy,8,3,3,0,0,2026-11-04,,https://www.pattern.com,2026-10-31T19:28:12.957287+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-19,13.25,16.00,12.76,15.63,,,,,,,0,12.7600,1,259857,,,,
 2025-09-22,15.13,15.25,13.86,14.00,,,,,,,0,12.7600,1,52342,,,,
@@ -310,4 +310,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,16.39,16.80,15.90,16.71,16.97,17.30,18.79,19.25,17.47,18.2672,0,17.8233,0,16369,27269,-0.6756,-0.6610,-0.0146
 2026-10-29,16.54,16.91,16.41,16.89,16.90,17.27,18.72,19.28,17.49,18.2672,0,17.6326,0,14324,27063,-0.6281,-0.6544,0.0263
 2026-10-30,16.34,16.61,16.15,16.59,16.84,17.24,18.65,19.31,17.51,18.2672,0,17.4572,0,20915,26807,-0.6077,-0.6451,0.0374
-2026-11-02,16.64,17.22,16.56,16.62,16.73,17.20,18.56,19.34,17.52,18.2672,0,17.2958,0,17379,26459,-0.5824,-0.6325,0.0502
+2026-11-02,16.64,17.22,16.56,16.62,16.73,17.20,18.56,19.34,17.52,18.2672,0,17.2958,0,17385,26459,-0.5824,-0.6325,0.0502
+2026-11-03,16.62,17.07,16.33,16.92,16.60,17.15,18.47,19.37,17.54,18.2672,0,17.2200,0,29099,26371,-0.5319,-0.6124,0.0805
+2026-11-04,17.25,17.98,17.25,17.68,16.63,17.15,18.40,19.41,17.56,18.2672,0,15.4400,1,29057,26507,-0.4258,-0.5751,0.1493

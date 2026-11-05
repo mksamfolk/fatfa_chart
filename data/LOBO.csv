@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.64,LOBO,Lobo Technologies Ltd.,Consumer Cyclical,Auto Manufacturers,China,6117605,0.4236,42420,3011642,1275731.5511999999,0.206,,,0.119729996,-0.04211,-0.15296,-0.47402,-0.10272,1030708,6371024,79.83,1.387,0.372,-4200159,-3766775,10711618,10563556,0.01382,0.0126,360648,0.04,0.0341,,2.1179998,0.23792002,0.7660036,0.446,-3.418,,,,,none,,,,,,,2.548,https://www.loboebike.com,2026-10-31T18:11:09.450186+00:00
+17.16,LOBO,Lobo Technologies Ltd.,Consumer Cyclical,Auto Manufacturers,China,6117605,0.4236,42420,3011642,1275731.5511999999,0.206,,,0.119729996,-0.04211,-0.15296,-0.47402,-0.10272,1030708,6371024,79.83,1.387,0.372,-4200159,-3766775,10711618,10563556,0.01382,0.0126,360648,0.04,0.0341,,2.1179998,0.23792002,0.7660036,0.446,-3.418,,,,,none,,,,,,,2.548,https://www.loboebike.com,2026-10-31T18:11:09.450186+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-21,5.26,5.79,3.40,3.47,,,,,,,0,5.7900,0,5483,,,,
 2024-03-22,3.39,3.80,3.12,3.50,,,,,,,0,5.7900,0,811,,,,
@@ -670,4 +670,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.43,0.44,0.43,0.44,0.45,0.48,0.59,0.62,0.62,0.5343,0,0.4570,0,15,108,-0.0435,-0.0452,0.0017
 2026-10-29,0.43,0.44,0.43,0.43,0.45,0.47,0.58,0.62,0.62,0.5329,0,0.4499,0,8,108,-0.0423,-0.0446,0.0024
 2026-10-30,0.43,0.44,0.42,0.42,0.44,0.46,0.57,0.62,0.62,0.5273,0,0.4450,0,25,108,-0.0416,-0.0440,0.0025
-2026-11-02,0.42,0.44,0.41,0.41,0.44,0.46,0.57,0.62,0.62,0.5200,0,0.4450,0,12,107,-0.0415,-0.0435,0.0021
+2026-11-02,0.42,0.44,0.41,0.41,0.44,0.46,0.57,0.62,0.62,0.5200,0,0.4450,0,12,107,-0.0416,-0.0435,0.0020
+2026-11-03,0.41,0.44,0.41,0.42,0.43,0.45,0.56,0.62,0.61,0.5192,0,0.4440,0,22,108,-0.0402,-0.0429,0.0027
+2026-11-04,0.42,0.45,0.42,0.42,0.43,0.45,0.56,0.62,0.61,0.5192,0,0.4060,1,16,108,-0.0385,-0.0420,0.0035

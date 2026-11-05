@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-21 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.31,GVH,Globavend Holdings Limited,Industrials,Integrated Freight & Logistics,Australia,3960702,0.9202,32260,259735,239008.147,0.08,,,0.08009,-0.020639999,0.00819,0.025190001,-0.00966,7146898,45298,0.437,9.948,9.47,487907,2172590,4304176,2348636,0.02565,0.00829,24022,0.07,0.0057,,,0.16061933,0.21434893,-0.198,60.149,,,,,none,,,,,,,3.408,https://globavend.com,2026-10-31T16:33:55.113123+00:00
+11.69,GVH,Globavend Holdings Limited,Industrials,Integrated Freight & Logistics,Australia,3960702,0.9202,32260,259735,239008.147,0.08,,,0.08009,-0.020639999,0.00819,0.025190001,-0.00966,7146898,45298,0.437,9.948,9.47,487907,2172590,4304176,2348636,0.02565,0.00829,24022,0.07,0.0057,,,0.16061933,0.21434893,-0.198,60.149,,,,,none,,,,,,,3.408,https://globavend.com,2026-10-31T16:33:55.113123+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-08,858.00,1100.00,502.00,516.00,,,,,,,0,1100.0000,0,7014,,,,
 2023-11-09,524.00,820.00,360.00,368.00,,,,,,,0,1100.0000,0,4427,,,,
@@ -761,4 +761,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.82,0.93,0.82,0.91,0.90,0.98,0.99,2.51,2.25,0.9796,0,1.0090,0,8,416,-0.0877,-0.0892,0.0015
 2026-10-29,0.93,1.09,0.92,0.99,0.90,0.98,1.00,2.51,2.24,0.7583,1,0.7700,1,55,402,-0.0752,-0.0864,0.0112
 2026-10-30,0.93,1.01,0.91,0.92,0.90,0.98,0.99,2.50,2.23,0.7583,1,0.7764,1,43,194,-0.0699,-0.0831,0.0131
-2026-11-02,0.90,0.94,0.86,0.86,0.89,0.96,0.99,2.50,2.21,0.7583,1,0.7827,1,22,172,-0.0698,-0.0804,0.0106
+2026-11-02,0.93,0.94,0.85,0.86,0.89,0.96,0.99,2.50,2.21,0.7583,1,0.7827,1,23,172,-0.0698,-0.0804,0.0106
+2026-11-03,0.91,0.91,0.84,0.85,0.88,0.95,0.99,2.50,2.20,0.7583,1,0.7888,1,21,165,-0.0698,-0.0783,0.0085
+2026-11-04,0.87,0.98,0.80,0.95,0.88,0.94,0.99,2.50,2.20,0.7583,1,0.7948,1,92,157,-0.0609,-0.0748,0.0139

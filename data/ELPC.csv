@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.51,ELPC,,Utilities,Utilities - Regulated Electric,Brazil,7832347648,10.55,1098990,647601,6832190.550000001,0.111,0.5,0.826,0.20426,0.2214,0.11406,0.12764,0.05447,3272766976,23569670144,97.604,1.302,1.053,1958984960,3834806272,742402648,2035022389,0.0,0.028770002,1579064,2.3,0.0033000002,13.024692,14.53168,0.27987286,6.9757257,1.923,7.876,16.43333,22.0,12.3,1.0,strong_buy,3,0,0,1,1,2026-11-12,0.293,https://www.copel.com,2026-10-31T15:46:08.463463+00:00
+49.36,ELPC,,Utilities,Utilities - Regulated Electric,Brazil,7832347648,10.55,1098990,647601,6832190.550000001,0.111,0.5,0.826,0.20426,0.2214,0.11406,0.12764,0.05447,3272766976,23569670144,97.604,1.302,1.053,1958984960,3834806272,742402648,2035022389,0.0,0.028770002,1579064,2.3,0.0033000002,13.024692,14.53168,0.27987286,6.9757257,1.923,7.876,16.43333,22.0,12.3,1.0,strong_buy,3,0,0,1,1,2026-11-12,0.293,https://www.copel.com,2026-10-31T15:46:08.463463+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-29,6.87,7.45,6.87,7.11,,,,,,,0,7.4534,0,910,,,,
 2024-01-02,7.05,7.05,6.78,6.91,,,,,,,0,7.4534,0,1141,,,,
@@ -741,4 +741,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.21,11.30,10.90,10.96,13.06,13.40,12.56,12.11,11.73,12.8020,0,14.3591,0,9885,8498,-0.1792,0.2167,-0.3959
 2026-10-29,10.97,11.04,10.64,10.78,12.77,13.32,12.56,12.10,11.74,12.4926,0,14.2859,0,8463,8567,-0.3227,0.1088,-0.4315
 2026-10-30,10.44,10.64,10.40,10.55,12.43,13.20,12.56,12.10,11.75,12.1196,0,14.1403,0,6076,8595,-0.4498,-0.0029,-0.4469
-2026-11-02,10.59,10.73,10.44,10.44,12.08,13.03,12.55,12.09,11.75,12.1116,0,13.9158,0,3344,8554,-0.5527,-0.1129,-0.4398
+2026-11-02,10.59,10.73,10.43,10.43,12.08,13.03,12.55,12.09,11.75,12.1096,0,13.9158,0,3700,8561,-0.5539,-0.1131,-0.4408
+2026-11-03,10.22,10.33,10.11,10.26,11.70,12.85,12.53,12.08,11.76,11.6926,0,13.7049,0,7586,8620,-0.6427,-0.2190,-0.4236
+2026-11-04,10.49,10.71,10.46,10.67,11.39,12.68,12.51,12.07,11.77,11.6926,0,13.4173,0,8899,8716,-0.6722,-0.3097,-0.3625

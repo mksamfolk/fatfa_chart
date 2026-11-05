@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.02,GRAN,Grande Group Limited,Financial Services,Capital Markets,Hong Kong,29732258,1.19,18810,163004,193974.75999999998,-0.118,,,0.62122,-0.07181,-1.34841,-0.73600996,-0.096370004,1482016,3038628,40.488,0.54,0.502,-734152,1535383,19985090,4712263,0.76027,0.00412,104135,0.4,0.0217,,,11.538111,4.0893474,12.203,-35.283,,,,,none,,,,,,,,https://grande-capital.com,2026-10-31T16:29:19.797803+00:00
+21.31,GRAN,Grande Group Limited,Financial Services,Capital Markets,Hong Kong,29732258,1.19,18810,163004,193974.75999999998,-0.118,,,0.62122,-0.07181,-1.34841,-0.73600996,-0.096370004,1482016,3038628,40.488,0.54,0.502,-734152,1535383,19985090,4712263,0.76027,0.00412,104135,0.4,0.0217,,,11.538111,4.0893474,12.203,-35.283,,,,,none,,,,,,,,https://grande-capital.com,2026-10-31T16:29:19.797803+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-01,5.90,6.47,4.54,4.60,,,,,,,0,4.5400,1,9247,,,,
 2025-07-02,4.80,5.44,4.70,4.79,,,,,,,0,4.5400,1,3625,,,,
@@ -351,4 +351,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.17,1.18,1.10,1.17,1.19,1.18,1.28,1.29,1.79,0.8627,1,1.0224,1,6,230,-0.0269,-0.0218,-0.0050
 2026-10-29,1.31,1.49,1.08,1.14,1.18,1.19,1.27,1.29,1.77,0.8627,1,1.0346,1,39,230,-0.0283,-0.0231,-0.0052
 2026-10-30,1.08,1.27,1.08,1.19,1.17,1.19,1.26,1.28,1.76,0.8627,1,1.0465,1,18,231,-0.0251,-0.0235,-0.0016
-2026-11-02,1.20,1.20,1.10,1.10,1.16,1.20,1.26,1.28,1.75,0.8627,1,1.0581,1,5,231,-0.0295,-0.0247,-0.0048
+2026-11-02,1.20,1.20,1.10,1.20,1.17,1.20,1.26,1.28,1.75,0.8627,1,1.0581,1,9,231,-0.0215,-0.0231,0.0016
+2026-11-03,1.30,1.33,1.15,1.20,1.16,1.21,1.25,1.28,1.73,0.8627,1,1.0696,1,87,232,-0.0185,-0.0222,0.0037
+2026-11-04,1.17,1.30,1.11,1.20,1.16,1.22,1.25,1.27,1.72,0.8627,1,1.0808,1,6,233,-0.0159,-0.0209,0.0051

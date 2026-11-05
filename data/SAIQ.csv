@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.38,SAIQ,WISeSat.Space Holdings Corp.,Industrials,Aerospace & Defense,British Virgin Islands,92250968,5.485,11441890,3358417,18420917.245,,,,0.0,0.0,0.0,,,,,,,,,,16818772,,0.91726,0.0868,494739,0.05,0.1451,,,,,,,,,,,none,,,,,,,,,2026-10-31T19:49:43.612183+00:00
+7.08,SAIQ,WISeSat.Space Holdings Corp.,Industrials,Aerospace & Defense,British Virgin Islands,92250968,5.485,11441890,3358417,18420917.245,,,,0.0,0.0,0.0,,,,,,,,,,16818772,,0.91726,0.0868,494739,0.05,0.1451,,,,,,,,,,,none,,,,,,,,,2026-10-31T19:49:43.612183+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-17,9.96,9.96,9.96,9.96,,,,,,,0,9.9600,0,17,,,,
 2025-03-18,9.96,9.96,9.96,9.96,,,,,,,0,9.9600,0,,,,,
@@ -438,5 +438,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,7.23,8.09,7.00,7.52,5.17,4.88,8.29,9.87,10.03,2.3591,1,2.7580,1,36412,25659,-0.5717,-1.1054,0.5338
 2026-10-28,6.75,6.76,6.16,6.52,5.44,4.84,8.21,9.85,10.01,2.3591,1,3.0017,1,9837,25856,-0.4687,-0.9781,0.5094
 2026-10-29,6.40,6.81,6.00,6.31,5.75,5.01,8.12,9.82,9.99,2.3591,1,3.2356,1,6964,25992,-0.3994,-0.8623,0.4629
-2026-10-30,5.78,5.89,5.37,5.49,5.98,5.19,8.01,9.79,9.97,2.3591,1,3.4602,1,3292,26050,-0.4064,-0.7712,0.3648
-2026-11-02,5.52,5.55,4.75,4.88,6.12,5.10,7.90,9.75,9.94,2.3591,1,3.6758,1,3086,26111,-0.4555,-0.7080,0.2525
+2026-10-30,5.78,5.89,5.37,5.49,5.98,5.19,8.01,9.79,9.97,2.3591,1,3.4602,1,3372,26052,-0.4064,-0.7712,0.3648
+2026-11-02,5.52,5.55,4.75,4.88,6.12,5.10,7.90,9.75,9.94,2.3591,1,3.6758,1,3161,26114,-0.4555,-0.7080,0.2525
+2026-11-03,4.74,4.80,4.41,4.79,5.92,5.08,7.78,9.71,9.91,2.3591,1,3.8828,1,2217,26158,-0.4959,-0.6656,0.1697
+2026-11-04,4.43,4.43,3.52,3.95,5.76,5.09,7.64,9.67,9.88,2.3591,1,8.8500,0,2761,26181,-0.5886,-0.6502,0.0616

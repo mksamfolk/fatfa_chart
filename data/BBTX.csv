@@ -30,4 +30,6 @@ rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageV
 0.00,BBTX,Bambusa Therapeutics Inc. Common stock,Healthcare,Biotechnology,United States,745930496,14.99,2200100,2200100,32979499.0,,,,0.0,0.0,0.0,,,71475000,0,,6.16,5.948,-40901000,,49761875,3525886,,,,,,,,,-1.6920645,,,,,,,none,,,,,,,,https://www.bambusatx.com,2026-10-31T14:28:55.592299+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-30,14.88,15.66,13.60,14.99,,,,,,,,13.6000,1,32979,,,,
-2026-11-02,14.97,16.06,14.82,16.00,,,,,,,,13.6000,1,6907,,,,
+2026-11-02,14.99,16.06,14.82,16.00,,,,,,,,13.6000,1,6931,,,,
+2026-11-03,16.16,17.42,15.24,16.00,,,,,,,,13.6000,1,4413,,,,
+2026-11-04,15.96,16.55,15.21,16.07,,,,,,,,13.7528,1,4048,,,,

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.13,CRML,Critical Metals Corp.,Basic Materials,Other Industrial Metals & Mining,United States,1060430784,7.16,6556550,7968693,57055841.88,5.577,,,1.0,-41.2379,0.0,-0.99240994,-0.14817001,102476576,6488942,1.763,0.871,0.863,-29670388,57231512,148104864,82816280,0.47667,0.21024999,30929616,3.21,0.318,,-37.68421,561.62573,3.059829,519.323,-12.246,13.0,18.0,8.0,,none,2,,,,,,1.947,https://www.criticalmetalscorp.com,2026-10-31T15:17:53.534450+00:00
+27.63,CRML,Critical Metals Corp.,Basic Materials,Other Industrial Metals & Mining,United States,1060430784,7.16,6556550,7968693,57055841.88,5.577,,,1.0,-41.2379,0.0,-0.99240994,-0.14817001,102476576,6488942,1.763,0.871,0.863,-29670388,57231512,148104864,82816280,0.47667,0.21024999,30929616,3.21,0.318,,-37.68421,561.62573,3.059829,519.323,-12.246,13.0,18.0,8.0,,none,2,,,,,,1.947,https://www.criticalmetalscorp.com,2026-10-31T15:17:53.534450+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-07,9.75,9.94,9.75,9.94,,,,,,,0,9.7500,1,4,,,,
 2022-02-08,9.97,9.97,9.92,9.92,,,,,,,0,9.7500,1,4,,,,
@@ -1216,5 +1216,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,6.64,8.29,6.57,8.13,6.68,6.86,7.07,8.56,9.39,5.4886,1,5.9000,1,164906,64172,-0.0923,-0.1570,0.0647
 2026-10-28,7.93,8.15,7.49,7.79,6.83,6.89,7.10,8.56,9.36,5.8788,1,5.9478,1,61678,64813,-0.0091,-0.1274,0.1183
 2026-10-29,7.61,8.00,7.56,7.95,6.93,6.93,7.14,8.57,9.33,5.8986,1,5.9946,1,38476,64686,0.0689,-0.0881,0.1570
-2026-10-30,7.50,7.53,7.01,7.16,6.95,6.93,7.17,8.57,9.28,5.8986,1,6.0406,1,33936,64592,0.0662,-0.0573,0.1235
-2026-11-02,7.29,7.51,6.68,6.78,6.98,6.90,7.16,8.57,9.23,5.8986,1,6.0855,1,35673,62969,0.0331,-0.0392,0.0723
+2026-10-30,7.50,7.53,7.01,7.16,6.95,6.93,7.17,8.57,9.28,5.8986,1,6.0406,1,34095,64595,0.0662,-0.0573,0.1235
+2026-11-02,7.29,7.51,6.68,6.78,6.98,6.90,7.16,8.57,9.23,5.8986,1,6.0855,1,35847,62975,0.0331,-0.0392,0.0723
+2026-11-03,6.74,6.84,6.17,6.25,6.96,6.84,7.15,8.56,9.17,5.8986,1,6.1296,1,46431,62658,-0.0356,-0.0385,0.0029
+2026-11-04,6.35,6.57,6.01,6.37,6.94,6.81,7.12,8.54,9.11,5.8986,1,8.2900,0,36675,60312,-0.0794,-0.0467,-0.0327

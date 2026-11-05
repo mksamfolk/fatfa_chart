@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-23 09:30:00-04:00,0.079\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.57,IBO,Impact BioMedical Inc.,Healthcare,Biotechnology,United States,32465980,3.8,22520,15900,60420.0,-0.571,,,0.0,-234.0,22.6,0.23462,-0.17787,10000,0,9.492,0.156,0.005,-508000,1016875,8543679,910337,0.895,0.03556,26292,1.9,0.028299998,0.34203422,,927.5994,3.015873,1020.065,-9.034,,,,,none,,,,,,,2.733,https://www.impactbiomedinc.com,2026-10-31T17:26:59.897624+00:00
+99.59,IBO,Impact BioMedical Inc.,Healthcare,Biotechnology,United States,32465980,3.8,22520,15900,60420.0,-0.571,,,0.0,-234.0,22.6,0.23462,-0.17787,10000,0,9.492,0.156,0.005,-508000,1016875,8543679,910337,0.895,0.03556,26292,1.9,0.028299998,0.34203422,,927.5994,3.015873,1020.065,-9.034,,,,,none,,,,,,,2.733,https://www.impactbiomedinc.com,2026-10-31T17:26:59.897624+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-16,3.00,3.00,2.50,2.68,,,,,,,0,3.0000,0,546,,,,
 2024-09-17,2.60,2.60,2.30,2.33,,,,,,,0,3.0000,0,199,,,,
@@ -548,4 +548,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.40,4.38,3.40,3.99,3.49,3.48,1.66,0.93,0.82,4.6424,0,1.8206,1,159,84,0.6186,0.6816,-0.0630
 2026-10-29,4.25,4.25,3.71,3.87,3.56,3.65,1.73,0.95,0.83,4.6424,0,1.8925,1,92,85,0.6003,0.6653,-0.0650
 2026-10-30,3.52,4.10,3.52,3.80,3.67,3.81,1.80,0.97,0.85,4.6424,0,1.9631,1,58,86,0.5735,0.6470,-0.0735
-2026-11-02,3.80,4.26,3.99,4.10,3.77,3.78,1.87,0.99,0.87,4.6424,0,2.0322,1,84,88,0.5699,0.6316,-0.0616
+2026-11-02,3.80,4.48,3.80,4.01,3.76,3.77,1.87,0.99,0.87,4.6424,0,2.0322,1,83,88,0.5628,0.6301,-0.0674
+2026-11-03,4.43,4.51,4.00,4.02,3.84,3.74,1.94,1.02,0.88,4.6424,0,2.1000,1,67,89,0.5487,0.6138,-0.0651
+2026-11-04,4.18,4.53,3.88,4.10,3.85,3.72,2.02,1.04,0.90,4.6424,0,2.1664,1,138,91,0.5378,0.5986,-0.0608

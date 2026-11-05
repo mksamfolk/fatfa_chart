@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-69.33,AMBQ,,Technology,Semiconductors,United States,1155295232,47.77,342900,471867,22541086.59,0.897,,,0.43623,-0.25743,-0.37772,-0.15548,-0.10104,366774016,4583000,1.133,15.952,14.714,-29819000,-27998124,24184536,21558579,0.04859,0.82872003,2661312,4.67,0.1162,,-220.40233,11.804386,2.8504086,8.104,-22.344,87.71429,125.0,73.0,1.71429,buy,7,6,4,0,0,2026-11-10,,https://ambiq.com,2026-10-31T14:05:54.178636+00:00
+54.34,AMBQ,,Technology,Semiconductors,United States,1155295232,47.77,342900,471867,22541086.59,0.897,,,0.43623,-0.25743,-0.37772,-0.15548,-0.10104,366774016,4583000,1.133,15.952,14.714,-29819000,-27998124,24184536,21558579,0.04859,0.82872003,2661312,4.67,0.1162,,-220.40233,11.804386,2.8504086,8.104,-22.344,87.71429,125.0,73.0,1.71429,buy,7,6,4,0,0,2026-11-10,,https://ambiq.com,2026-10-31T14:05:54.178636+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-30,38.00,48.43,36.25,38.53,,,,,,,0,36.2500,1,211125,,,,
 2025-07-31,42.23,51.76,41.17,43.85,,,,,,,0,36.2500,1,181258,,,,
@@ -346,4 +346,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,55.70,56.22,53.89,54.86,51.53,56.21,59.72,61.38,53.51,60.5098,0,48.3332,1,15438,29602,-2.9875,-3.1450,0.1575
 2026-10-29,53.68,54.77,53.08,53.80,51.70,55.44,59.61,61.57,53.61,60.5098,0,48.6487,1,12923,29375,-2.7494,-3.0659,0.3165
 2026-10-30,49.65,51.11,46.25,47.77,51.49,54.42,59.41,61.73,53.68,59.6058,0,56.2200,0,14732,29167,-3.0125,-3.0552,0.0427
-2026-11-02,48.09,48.48,43.01,43.29,50.86,53.29,59.09,61.86,53.72,57.2192,0,56.0206,0,22326,29220,-3.5413,-3.1524,-0.3889
+2026-11-02,48.09,48.48,43.01,43.31,50.86,53.29,59.09,61.86,53.72,57.2192,0,56.0206,0,24327,29260,-3.5401,-3.1522,-0.3879
+2026-11-03,44.85,46.39,44.43,44.68,50.23,52.36,58.85,61.99,53.77,56.6624,0,55.5002,0,13386,29225,-3.8038,-3.2825,-0.5213
+2026-11-04,44.99,44.99,40.70,41.54,49.16,51.34,58.48,62.09,53.81,54.2583,0,55.0006,0,27628,29395,-4.2176,-3.4695,-0.7481

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.52,FIGR,Figure Technology Solutions Inc.,Financial Services,Capital Markets,United States,4842074624,21.58,4977400,4763668,102799955.44,1.208,3.375,1.921,1.0,0.35525,0.38301,0.26121,0.05061,1437511040,1474456960,104.341,1.861,1.187,-86490000,-254025504,185672153,145802985,0.062649995,0.77676004,21284003,4.31,0.1223,23.2043,11.41799,7.8209486,3.4150975,7.881,,51.55556,70.0,40.0,1.55556,buy,9,0,0,0,0,2026-11-12,,https://www.figure.com,2026-10-31T16:03:38.642895+00:00
+20.83,FIGR,Figure Technology Solutions Inc.,Financial Services,Capital Markets,United States,4842074624,21.58,4977400,4763668,102799955.44,1.208,3.375,1.921,1.0,0.35525,0.38301,0.26121,0.05061,1437511040,1474456960,104.341,1.861,1.187,-86490000,-254025504,185672153,145802985,0.062649995,0.77676004,21284003,4.31,0.1223,23.2043,11.41799,7.8209486,3.4150975,7.881,,51.55556,70.0,40.0,1.55556,buy,9,0,0,0,0,2026-11-12,,https://www.figure.com,2026-10-31T16:03:38.642895+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-11,36.00,38.05,30.13,31.11,,,,,,,0,38.0500,0,1227333,,,,
 2025-09-12,30.21,36.58,30.01,32.50,,,,,,,0,38.0500,0,350327,,,,
@@ -316,4 +316,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.68,23.36,22.15,23.33,24.69,26.19,31.62,32.01,34.64,27.6610,0,27.6552,0,117991,147706,-2.3027,-2.0974,-0.2054
 2026-10-29,22.80,24.14,22.70,23.59,24.28,25.94,31.35,31.96,34.47,27.6610,0,27.3027,0,80097,144878,-2.2268,-2.1232,-0.1036
 2026-10-30,22.26,22.90,20.92,21.58,23.73,25.60,31.06,31.90,34.30,27.2447,0,26.9713,0,170713,144957,-2.3023,-2.1591,-0.1432
-2026-11-02,22.00,22.46,21.51,21.79,23.34,25.29,30.72,31.84,34.09,27.0689,0,26.4876,0,115016,143079,-2.3184,-2.1909,-0.1275
+2026-11-02,21.84,22.46,21.51,21.79,23.34,25.29,30.72,31.84,34.09,27.0689,0,26.4876,0,115579,143090,-2.3184,-2.1909,-0.1275
+2026-11-03,21.97,22.50,21.35,22.10,22.97,25.03,30.39,31.76,33.83,26.8416,0,26.0426,0,126456,143628,-2.2799,-2.2087,-0.0712
+2026-11-04,22.12,23.69,22.12,23.02,22.74,24.79,30.02,31.69,33.58,26.8416,0,25.6332,0,130834,142888,-2.1504,-2.1971,0.0467

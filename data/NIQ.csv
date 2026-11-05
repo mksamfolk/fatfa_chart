@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.02,NIQ,NIQ Global Intelligence plc,,,,5848974848,19.83,1107240,1405993,27880841.189999998,,,,,,,,,,,,,,,,294955864,,,,,,,,15.356974,,6.4487805,,,20.69231,25.0,16.0,1.64286,buy,13,1,1,0,0,2026-11-12,,,2026-10-31T18:45:22.398558+00:00
+95.91,NIQ,NIQ Global Intelligence plc,,,,5848974848,19.83,1107240,1405993,27880841.189999998,,,,,,,,,,,,,,,,294955864,,,,,,,,15.356974,,6.4487805,,,20.69231,25.0,16.0,1.64286,buy,13,1,1,0,0,2026-11-12,,,2026-10-31T18:45:22.398558+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-23,20.25,20.39,18.99,19.01,,,,,,,0,18.9900,1,417743,,,,
 2025-07-24,19.05,19.90,19.03,19.74,,,,,,,0,18.9900,1,81199,,,,
@@ -351,4 +351,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,19.75,20.15,19.68,20.09,19.40,18.51,18.39,13.15,13.18,18.1942,1,19.1943,1,24303,21852,0.6445,0.4898,0.1547
 2026-10-29,20.08,20.56,19.75,20.37,19.54,18.67,18.43,13.22,13.20,18.3611,1,19.3699,1,30624,21804,0.6829,0.5284,0.1545
 2026-10-30,20.42,20.53,19.78,19.83,19.67,18.83,18.46,13.28,13.21,18.3611,1,19.6079,1,20361,21636,0.6621,0.5552,0.1069
-2026-11-02,19.90,20.18,19.62,19.86,19.79,18.95,18.48,13.35,13.22,18.3611,1,20.5600,0,19638,21542,0.6407,0.5723,0.0684
+2026-11-02,19.90,20.18,19.62,19.86,19.79,18.95,18.48,13.35,13.22,18.3611,1,20.5600,0,20110,21552,0.6407,0.5723,0.0684
+2026-11-03,19.62,20.34,19.28,20.01,19.89,19.09,18.50,13.40,13.23,18.3611,1,20.5412,0,22969,21473,0.6286,0.5835,0.0450
+2026-11-04,20.50,20.69,20.18,20.27,20.00,19.25,18.52,13.46,13.25,18.4677,1,19.2800,1,25994,21529,0.6326,0.5934,0.0393

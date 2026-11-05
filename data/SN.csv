@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.65,SN,SharkNinja Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States,29301282816,208.0,1279560,1696640,352901120.0,0.222,-0.063,-0.07,0.48921,0.1016,0.100609995,0.27528,0.11833,779832000,913016000,32.11,2.08,1.395,973569024,638667520,140871552,86238747,0.38768002,0.68293,8675351,4.98,0.1389,42.44898,27.09586,4.240444,10.308257,4.26,26.515,215.81416,240.0,195.67,1.15385,strong_buy,12,0,11,0,0,2026-11-04,1.231,https://www.sharkninja.com,2026-10-31T20:04:54.763112+00:00
+95.99,SN,SharkNinja Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States,29301282816,208.0,1279560,1696640,352901120.0,0.222,-0.063,-0.07,0.48921,0.1016,0.100609995,0.27528,0.11833,779832000,913016000,32.11,2.08,1.395,973569024,638667520,140871552,86238747,0.38768002,0.68293,8675351,4.98,0.1389,42.44898,27.09586,4.240444,10.308257,4.26,26.515,215.81416,240.0,195.67,1.15385,strong_buy,12,0,11,0,0,2026-11-04,1.231,https://www.sharkninja.com,2026-10-31T20:04:54.763112+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-31,29.35,51.67,29.35,41.33,,,,,,,0,29.3524,1,50831,,,,
 2023-08-01,37.60,43.16,35.17,39.09,,,,,,,0,29.3524,1,80564,,,,
@@ -847,4 +847,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,197.46,198.87,194.45,198.17,195.53,190.26,181.78,149.67,141.75,178.6164,1,200.0671,0,245493,281735,5.5421,5.0544,0.4877
 2026-10-29,198.02,209.55,197.52,209.12,197.07,191.73,182.34,150.37,142.17,183.2470,1,192.3580,1,487982,287290,6.3122,5.3060,1.0063
 2026-10-30,209.92,211.48,205.20,208.00,199.22,193.00,182.90,151.07,142.59,188.1958,1,192.7018,1,297294,288379,6.7543,5.5956,1.1587
-2026-11-02,213.13,216.05,210.57,213.22,201.65,194.53,183.55,151.84,143.02,192.7690,1,193.4528,1,360763,291916,7.4402,5.9645,1.4756
+2026-11-02,213.13,216.11,210.57,213.22,201.65,194.53,183.55,151.84,143.02,192.7799,1,193.4528,1,360811,291917,7.4402,5.9645,1.4756
+2026-11-03,211.95,215.09,202.50,210.59,202.84,195.82,184.10,152.54,143.44,192.7799,1,194.8122,1,707414,302502,7.6829,6.3082,1.3747
+2026-11-04,215.82,224.57,212.91,219.25,205.01,197.52,184.81,153.29,143.92,194.4926,1,196.0901,1,562793,310916,8.4763,6.7418,1.7345

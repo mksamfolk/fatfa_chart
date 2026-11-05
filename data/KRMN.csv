@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.04,KRMN,Karman Holdings Inc.,Industrials,Aerospace & Defense,United States,5294722048,39.95,2772610,3239640,129423618.00000001,0.582,1.118,1.061,0.41667998,0.20229,0.06307,0.09503,0.05138,51741000,875265024,207.854,3.555,3.269,5861000,-57195876,132533708,102639405,0.068720005,1.06952,15091393,3.94,0.120799996,142.67857,42.047764,8.980925,12.574756,10.378,39.748,75.30769,100.0,40.0,1.28571,strong_buy,13,1,4,0,4,2026-11-05,,https://karman-sd.com,2026-10-31T17:59:13.681795+00:00
+13.00,KRMN,Karman Holdings Inc.,Industrials,Aerospace & Defense,United States,5294722048,39.95,2772610,3239640,129423618.00000001,0.582,1.118,1.061,0.41667998,0.20229,0.06307,0.09503,0.05138,51741000,875265024,207.854,3.555,3.269,5861000,-57195876,132533708,102639405,0.068720005,1.06952,15091393,3.94,0.120799996,142.67857,42.047764,8.980925,12.574756,10.378,39.748,75.30769,100.0,40.0,1.28571,strong_buy,13,1,4,0,4,2026-11-05,,https://karman-sd.com,2026-10-31T17:59:13.681795+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-13,30.00,30.99,28.02,30.05,,,,,,,0,28.0200,1,390623,,,,
 2025-02-14,30.05,32.07,29.29,32.00,,,,,,,0,28.0200,1,72627,,,,
@@ -460,4 +460,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,37.56,38.03,36.47,37.98,35.67,33.84,37.69,53.31,64.49,30.7161,1,32.5260,1,79507,123179,0.0543,-0.9335,0.9878
 2026-10-29,38.29,41.93,38.15,41.69,36.45,34.33,37.36,53.02,64.16,32.9720,1,33.1984,1,137898,123854,0.5409,-0.6386,1.1795
 2026-10-30,40.58,41.87,38.75,39.95,36.98,34.62,37.07,52.72,63.82,33.0151,1,34.4209,1,91577,123407,0.7772,-0.3555,1.1326
-2026-11-02,40.33,40.52,38.30,39.17,37.50,34.93,36.78,52.49,63.46,33.0151,1,35.4721,1,56405,122844,0.8909,-0.1062,0.9971
+2026-11-02,40.33,40.52,38.30,39.13,37.50,34.93,36.78,52.49,63.46,33.0151,1,35.4721,1,76660,123249,0.8880,-0.1068,0.9948
+2026-11-03,39.30,40.56,38.61,39.51,37.95,35.24,36.54,52.22,63.12,33.0151,1,36.3762,1,86045,123128,0.9951,0.1136,0.8815
+2026-11-04,38.99,38.99,32.02,34.17,37.84,35.38,36.24,51.89,62.76,33.0151,1,41.9300,0,238120,125623,0.6416,0.2192,0.4224

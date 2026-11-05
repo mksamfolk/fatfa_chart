@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-20 09:30:00-05:00,0.02\n2026-08-06 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.87,BYAH,Park Ha Biological Technology Co. Ltd.,Consumer Defensive,Household & Personal Products,China,43118956,2.21,5730,415021,917196.41,0.015,,,0.94899005,-0.76532996,-2.14169,-1.13036,-0.50738,5657495,186331,3.459,3.365,2.823,-273308,4130024,19463216,539060,0.30105,0.00198,29583,0.1,0.0015,,,16.953707,0.25254256,-1.616,0.789,,,,,none,,,,,,,,https://parkha.cn,2026-10-31T14:49:31.275639+00:00
+5.25,BYAH,Park Ha Biological Technology Co. Ltd.,Consumer Defensive,Household & Personal Products,China,43118956,2.21,5730,415021,917196.41,0.015,,,0.94899005,-0.76532996,-2.14169,-1.13036,-0.50738,5657495,186331,3.459,3.365,2.823,-273308,4130024,19463216,539060,0.30105,0.00198,29583,0.1,0.0015,,,16.953707,0.25254256,-1.616,0.789,,,,,none,,,,,,,,https://parkha.cn,2026-10-31T14:49:31.275639+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-27,1640.00,1784.00,1480.00,1628.00,,,,,,,0,1480.0000,1,7171,,,,
 2024-12-30,1680.00,2080.00,1568.00,1940.00,,,,,,,0,1480.0000,1,2025,,,,
@@ -476,4 +476,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.38,2.38,2.23,2.26,2.31,2.37,2.68,6.62,16.49,2.9310,0,2.1800,1,12,1472,-0.1618,-0.1905,0.0287
 2026-10-29,2.33,2.33,2.30,2.30,2.30,2.36,2.67,6.55,16.14,2.9181,0,2.2009,1,5,1471,-0.1520,-0.1828,0.0308
 2026-10-30,2.21,2.31,2.15,2.21,2.30,2.35,2.66,6.49,15.77,2.8230,0,3.2270,0,34,1470,-0.1498,-0.1762,0.0264
-2026-11-02,2.20,2.21,1.91,1.92,2.27,2.33,2.64,6.42,15.39,2.6837,0,3.2055,0,68,1448,-0.1695,-0.1749,0.0054
+2026-11-02,2.20,2.21,1.90,1.92,2.27,2.33,2.64,6.42,15.39,2.6825,0,3.2055,0,68,1448,-0.1695,-0.1749,0.0054
+2026-11-03,1.95,1.95,1.90,1.92,2.22,2.31,2.62,6.37,15.02,2.5030,0,3.1534,0,10,1439,-0.1830,-0.1765,-0.0065
+2026-11-04,2.05,2.26,2.05,2.26,2.20,2.29,2.61,6.32,14.66,2.5030,0,3.0782,0,97,1437,-0.1643,-0.1741,0.0097

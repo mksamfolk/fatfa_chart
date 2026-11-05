@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.02,KYIV,Kyivstar Group Ltd.,Communication Services,Telecom Services,United Arab Emirates,2985325312,12.93,599470,429223,5549853.39,0.194,-0.158,-0.061,0.88828003,0.36578,0.125,0.12279,0.14067,495000000,544000000,39.278,1.257,1.187,624000000,313000000,230883624,36188699,0.83719003,0.122489996,1836892,4.16,0.0493,18.47143,0.20641696,2.3322854,2.1553593,2.371,4.974,18.793385,25.74834,14.753883,,none,9,1,1,0,0,2026-11-06,,https://investors.kyivstar.ua,2026-10-31T18:01:18.097654+00:00
+61.70,KYIV,Kyivstar Group Ltd.,Communication Services,Telecom Services,United Arab Emirates,2985325312,12.93,599470,429223,5549853.39,0.194,-0.158,-0.061,0.88828003,0.36578,0.125,0.12279,0.14067,495000000,544000000,39.278,1.257,1.187,624000000,313000000,230883624,36188699,0.83719003,0.122489996,1836892,4.16,0.0493,18.47143,0.20641696,2.3322854,2.1553593,2.371,4.974,18.793385,25.74834,14.753883,,none,9,1,1,0,0,2026-11-06,,https://investors.kyivstar.ua,2026-10-31T18:01:18.097654+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-03,9.93,9.95,9.92,9.95,,,,,,,0,9.9200,1,6541,,,,
 2024-12-04,9.96,9.96,9.95,9.95,,,,,,,0,9.9200,1,10174,,,,
@@ -508,4 +508,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,13.25,13.35,12.89,13.33,12.96,12.63,13.06,13.21,12.87,12.0400,1,12.6739,1,5812,6045,0.0778,-0.0614,0.1391
 2026-10-29,13.31,13.44,13.05,13.19,13.05,12.67,13.07,13.23,12.88,12.0400,1,12.7800,1,4349,6085,0.0901,-0.0311,0.1212
 2026-10-30,12.98,13.17,12.77,12.93,13.11,12.69,13.07,13.25,12.88,12.0400,1,14.0000,0,5219,6128,0.0780,-0.0093,0.0873
-2026-11-02,13.07,13.18,12.83,13.01,13.16,12.72,13.07,13.28,12.89,12.0400,1,13.9754,0,3026,6126,0.0740,0.0074,0.0666
+2026-11-02,13.07,13.18,12.83,13.01,13.16,12.72,13.07,13.28,12.89,12.0400,1,13.9754,0,3392,6133,0.0740,0.0074,0.0666
+2026-11-03,13.39,13.42,13.22,13.33,13.23,12.75,13.07,13.30,12.89,12.0400,1,13.9513,0,4408,6156,0.0955,0.0250,0.0705
+2026-11-04,13.54,13.81,13.53,13.62,13.21,12.81,13.06,13.32,12.90,12.3225,1,13.9277,0,5331,6174,0.1345,0.0469,0.0876

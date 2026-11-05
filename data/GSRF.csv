@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.55,GSRF,GSR IV Acquisition Corp.,Financial Services,Shell Companies,United States,302582592,10.29,34140,31603,325194.87,,,,0.0,0.0,0.0,,-0.00612,1147701,0,,34.734,30.798,-1267862,,23655500,22151751,0.0,0.90315,253,0.0,0.0,44.73913,,,-38.11111,,,,,,,none,,,,,,,,,2026-10-31T16:32:08.146386+00:00
+54.80,GSRF,GSR IV Acquisition Corp.,Financial Services,Shell Companies,United States,302582592,10.29,34140,31603,325194.87,,,,0.0,0.0,0.0,,-0.00612,1147701,0,,34.734,30.798,-1267862,,23655500,22151751,0.0,0.90315,253,0.0,0.0,44.73913,,,-38.11111,,,,,,,none,,,,,,,,,2026-10-31T16:32:08.146386+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-20,10.20,10.20,10.09,10.09,,,,,,,0,10.2000,0,2312,,,,
 2025-10-21,10.05,10.09,10.03,10.05,,,,,,,0,10.2000,0,10290,,,,
@@ -274,4 +274,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.28,10.28,10.28,10.28,10.27,10.27,10.23,10.15,10.11,10.2699,1,10.2604,1,,412,0.0142,0.0157,-0.0015
 2026-10-29,10.28,10.29,10.28,10.29,10.27,10.27,10.23,10.15,10.11,10.2754,1,10.2608,1,350,417,0.0148,0.0155,-0.0008
 2026-10-30,10.29,10.29,10.29,10.29,10.28,10.27,10.23,10.15,10.12,10.2791,1,10.2620,1,1107,439,0.0150,0.0154,-0.0004
-2026-11-02,10.29,10.29,10.29,10.29,10.28,10.27,10.23,10.15,10.12,10.2802,1,10.2631,1,20,386,0.0150,0.0153,-0.0003
+2026-11-02,10.29,10.29,10.29,10.29,10.28,10.27,10.23,10.15,10.12,10.2802,1,10.2631,1,21,386,0.0150,0.0153,-0.0003
+2026-11-03,10.29,10.29,10.28,10.29,10.28,10.27,10.24,10.15,10.12,10.2802,1,10.2642,1,273,392,0.0149,0.0152,-0.0004
+2026-11-04,10.29,10.30,10.29,10.30,10.28,10.28,10.24,10.15,10.12,10.2804,1,10.2652,1,547,402,0.0150,0.0152,-0.0002

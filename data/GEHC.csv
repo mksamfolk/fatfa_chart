@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-73.33,GEHC,GE HealthCare Technologies Inc.,Healthcare,Medical Devices,United States,34620194816,76.57,3893030,3403039,260570696.23,0.072,0.39,0.379,0.39285,0.15326999,0.09951,0.20014,0.04992,2825999872,10407000064,87.712,1.304,0.881,2415000064,1831124992,452137831,450645776,0.00368,0.94302005,19374350,4.91,0.048600003,16.18816,13.96855,1.600046,2.9808853,1.962,11.802,86.8,100.0,73.0,1.81818,buy,20,2,3,9,9,2026-10-28,0.848,https://www.gehealthcare.com,2026-10-31T16:18:39.212136+00:00
+79.11,GEHC,GE HealthCare Technologies Inc.,Healthcare,Medical Devices,United States,34620194816,76.57,3893030,3403039,260570696.23,0.072,0.39,0.379,0.39285,0.15326999,0.09951,0.20014,0.04992,2825999872,10407000064,87.712,1.304,0.881,2415000064,1831124992,452137831,450645776,0.00368,0.94302005,19374350,4.91,0.048600003,16.18816,13.96855,1.600046,2.9808853,1.962,11.802,86.8,100.0,73.0,1.81818,buy,20,2,3,9,9,2026-10-28,0.848,https://www.gehealthcare.com,2026-10-31T16:18:39.212136+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-12-15,62.63,62.63,59.64,59.64,,,,,,,0,62.6268,0,79092,,,,
 2022-12-16,59.64,59.64,54.67,56.40,,,,,,,0,62.6268,0,130928,,,,
@@ -1001,4 +1001,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,76.00,77.88,74.64,75.82,71.06,68.45,68.36,67.00,69.87,69.5705,1,69.3194,1,725544,236531,1.6391,0.9441,0.6950
 2026-10-29,76.20,77.33,75.40,76.42,71.67,69.07,68.40,67.04,69.83,69.7654,1,70.1700,1,354726,239235,1.9689,1.1491,0.8198
 2026-10-30,77.43,78.22,76.19,76.57,72.37,69.69,68.45,67.09,69.78,70.6604,1,71.5578,1,303791,241608,2.2169,1.3626,0.8542
-2026-11-02,77.54,80.34,77.38,79.55,73.34,70.38,68.54,67.16,69.77,71.8341,1,72.8902,1,369911,245644,2.6236,1.6148,1.0087
+2026-11-02,77.54,80.34,77.38,79.55,73.34,70.38,68.54,67.16,69.77,71.8341,1,72.8902,1,379477,245835,2.6236,1.6148,1.0087
+2026-11-03,79.42,80.81,78.96,80.66,74.39,71.17,68.67,67.22,69.76,73.0049,1,74.3802,1,442904,250983,3.0009,1.8920,1.1088
+2026-11-04,82.97,87.56,82.89,85.81,76.08,72.23,68.91,67.32,69.80,76.9652,1,75.6662,1,824102,264489,3.6731,2.2482,1.4248

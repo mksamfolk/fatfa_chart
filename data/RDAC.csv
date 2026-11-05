@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.68,RDAC,Rising Dragon Acquisition Corp.,Financial Services,Shell Companies,China,17041432,4.9606,6910,700750,3476140.45,,-0.712,-0.788,0.0,0.0,0.0,,-0.01363,8695,1305878,,0.04,0.006,-822082,-502771,3435357,802225,0.49249,0.54148996,24894,0.7,0.0247,33.070663,,,-5.333978,,,,,,,none,,,,,,,,,2026-10-31T19:35:18.578453+00:00
+95.09,RDAC,Rising Dragon Acquisition Corp.,Financial Services,Shell Companies,China,17041432,4.9606,6910,700750,3476140.45,,-0.712,-0.788,0.0,0.0,0.0,,-0.01363,8695,1305878,,0.04,0.006,-822082,-502771,3435357,802225,0.49249,0.54148996,24894,0.7,0.0247,33.070663,,,-5.333978,,,,,,,none,,,,,,,,,2026-10-31T19:35:18.578453+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-02,10.00,10.00,9.99,9.99,,,,,,,0,9.9900,1,7393,,,,
 2024-12-03,10.00,10.00,10.00,10.00,,,,,,,0,9.9900,1,1193,,,,
@@ -494,4 +494,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.11,5.11,5.11,5.11,5.01,5.23,5.75,6.29,6.56,3.8335,1,7.2970,0,3,6418,-0.2104,-0.2284,0.0180
 2026-10-29,5.04,5.22,4.93,4.93,4.98,5.20,5.72,6.29,6.53,3.8394,1,7.0438,0,18,6417,-0.2093,-0.2246,0.0152
 2026-10-30,4.80,5.03,4.80,4.96,4.99,5.18,5.70,6.29,6.51,3.8394,1,6.8109,0,26,6415,-0.2036,-0.2204,0.0168
-2026-11-02,5.28,5.28,4.86,5.10,5.00,5.16,5.67,6.29,6.48,3.8783,1,6.5966,0,38,6415,-0.1857,-0.2134,0.0277
+2026-11-02,5.28,5.28,4.82,5.10,5.00,5.16,5.67,6.29,6.48,3.8463,1,6.5966,0,39,6415,-0.1857,-0.2134,0.0277
+2026-11-03,11.09,11.68,10.90,11.30,5.63,5.44,5.77,6.33,6.49,8.2327,1,4.1320,1,103853,8491,0.3250,-0.1057,0.4308
+2026-11-04,11.20,11.30,11.05,11.20,6.27,5.72,5.87,6.37,6.49,8.3484,1,4.2830,1,1140,8514,0.7135,0.0581,0.6554

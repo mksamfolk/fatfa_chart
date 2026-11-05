@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.25,SEPN,Septerna Inc.,Healthcare,Biotechnology,United States,2053785728,44.0,291160,390907,17199908.0,223.756,,,1.0,-0.62948,-0.2451,-0.06342,-0.071339995,372321984,22545000,5.83,4.995,4.895,106007000,29544876,46676947,26409817,0.02942,0.99157,3522956,8.65,0.1442,,-22.668962,20.770067,5.196032,17.233,-31.327,54.22222,62.0,48.0,,none,9,0,2,0,1,2026-11-09,2.282,https://www.septerna.com,2026-10-31T19:54:49.283304+00:00
+94.87,SEPN,Septerna Inc.,Healthcare,Biotechnology,United States,2053785728,44.0,291160,390907,17199908.0,223.756,,,1.0,-0.62948,-0.2451,-0.06342,-0.071339995,372321984,22545000,5.83,4.995,4.895,106007000,29544876,46676947,26409817,0.02942,0.99157,3522956,8.65,0.1442,,-22.668962,20.770067,5.196032,17.233,-31.327,54.22222,62.0,48.0,,none,9,0,2,0,1,2026-11-09,2.282,https://www.septerna.com,2026-10-31T19:54:49.283304+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-25,23.50,25.62,20.90,21.40,,,,,,,0,25.6240,0,69657,,,,
 2024-10-28,21.50,21.75,19.77,20.75,,,,,,,0,25.6240,0,8958,,,,
@@ -534,4 +534,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,43.51,45.08,41.92,44.25,40.13,38.61,38.86,33.70,31.90,36.0408,1,36.8856,1,16819,13987,1.1681,0.3697,0.7984
 2026-10-29,44.43,45.60,43.74,45.23,40.91,38.97,38.89,33.84,31.99,37.3987,1,37.8689,1,9073,13832,1.4546,0.5867,0.8679
 2026-10-30,45.00,45.43,43.68,44.00,41.68,39.28,38.95,33.97,32.08,37.4863,1,38.9513,1,9830,13677,1.5643,0.7822,0.7821
-2026-11-02,44.06,44.95,41.07,43.20,42.36,39.55,39.02,34.10,32.16,37.4863,1,39.8821,1,20534,13856,1.5686,0.9395,0.6292
+2026-11-02,44.06,44.95,41.07,43.20,42.36,39.55,39.02,34.10,32.16,37.4863,1,39.8821,1,20533,13856,1.5686,0.9395,0.6292
+2026-11-03,43.53,44.58,42.22,43.70,42.80,39.95,39.08,34.23,32.25,37.4863,1,40.6826,1,13438,13703,1.5940,1.0704,0.5237
+2026-11-04,45.60,48.22,44.79,47.88,43.51,40.55,39.21,34.39,32.35,38.4161,1,41.0700,1,28958,14007,1.9292,1.2422,0.6871

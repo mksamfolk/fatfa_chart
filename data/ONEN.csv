@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.28,ONEN,ONE Nuclear Energy Inc.,Utilities,Utilities - Independent Power Producers,United States,133604288,1.26,69900,347321,437624.46,,,,0.0,0.0,0.0,,,2588,466975,,0.001,0.001,-491856,,106035149,2585500,0.94399,0.17816,56725,0.13,,,,,-4.5985403,,,,,,,none,,,,,,,,https://www.onenuclearenergy.com,2026-10-31T19:02:05.624781+00:00
+1.54,ONEN,ONE Nuclear Energy Inc.,Utilities,Utilities - Independent Power Producers,United States,133604288,1.26,69900,347321,437624.46,,,,0.0,0.0,0.0,,,2588,466975,,0.001,0.001,-491856,,106035149,2585500,0.94399,0.17816,56725,0.13,,,,,-4.5985403,,,,,,,none,,,,,,,,https://www.onenuclearenergy.com,2026-10-31T19:02:05.624781+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-06,9.90,9.90,9.81,9.82,,,,,,,0,9.8150,1,2123,,,,
 2025-02-07,9.83,9.84,9.82,9.84,,,,,,,0,9.8150,1,336,,,,
@@ -466,3 +466,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.50,1.59,1.31,1.34,1.36,1.58,5.17,8.68,9.09,2.2879,0,1.2200,1,129,1594,-1.0841,-1.3413,0.2571
 2026-10-30,1.34,1.35,1.26,1.26,1.34,1.55,5.03,8.62,9.04,2.2140,0,1.2274,1,54,1587,-1.0259,-1.2782,0.2523
 2026-11-02,1.33,1.34,1.27,1.28,1.33,1.51,4.93,8.56,9.00,2.1471,0,1.2347,1,70,1575,-0.9671,-1.2160,0.2489
+2026-11-03,1.32,1.36,1.28,1.36,1.33,1.48,4.82,8.50,8.95,2.1019,0,1.2418,1,103,1475,-0.9035,-1.1535,0.2499
+2026-11-04,1.47,1.47,1.32,1.45,1.34,1.45,4.69,8.44,8.91,2.1019,0,1.2487,1,99,1411,-0.8363,-1.0900,0.2538

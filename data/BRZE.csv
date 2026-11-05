@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.41,BRZE,Braze Inc.,Technology,Software - Application,United States,5196939264,45.75,13959240,4267757,195249882.75,0.262,,,0.66297996,-0.07976,-0.13551,-0.18511,-0.0577,409868992,96407000,16.008,1.266,1.171,92680000,196280128,113594303,94405697,0.14694999,0.94135004,8412591,4.21,0.0828,,46.59097,6.229542,8.619065,5.856,-56.673,47.53846,48.0,47.5,3.0,hold,13,1,1,17,17,2026-12-08,0.911,https://www.braze.com,2026-10-31T14:45:10.868302+00:00
+97.34,BRZE,Braze Inc.,Technology,Software - Application,United States,5196939264,45.75,13959240,4267757,195249882.75,0.262,,,0.66297996,-0.07976,-0.13551,-0.18511,-0.0577,409868992,96407000,16.008,1.266,1.171,92680000,196280128,113594303,94405697,0.14694999,0.94135004,8412591,4.21,0.0828,,46.59097,6.229542,8.619065,5.856,-56.673,47.53846,48.0,47.5,3.0,hold,13,1,1,17,17,2026-12-08,0.911,https://www.braze.com,2026-10-31T14:45:10.868302+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-17,87.20,94.88,85.76,93.39,,,,,,,0,85.7600,1,507995,,,,
 2021-11-18,95.84,96.65,80.35,84.50,,,,,,,0,96.6500,0,101316,,,,
@@ -1272,4 +1272,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,45.81,45.90,45.67,45.78,41.01,34.32,30.60,25.85,24.42,40.8759,1,40.4412,1,550308,175984,5.1809,3.6008,1.5801
 2026-10-29,45.75,45.87,45.71,45.80,42.56,35.33,30.91,26.00,24.51,41.3176,1,41.5420,1,312319,180747,5.2273,3.9261,1.3012
 2026-10-30,45.82,45.83,45.69,45.75,44.20,36.34,31.21,26.15,24.60,41.7001,1,42.4226,1,343349,184959,5.2001,4.1809,1.0192
-2026-11-02,45.80,45.88,45.61,45.67,45.76,37.30,31.50,26.30,24.70,42.0046,1,43.1271,1,255669,188013,5.1132,4.3674,0.7458
+2026-11-02,45.80,45.88,45.61,45.67,45.76,37.30,31.50,26.30,24.70,42.0048,1,43.1271,1,258565,188071,5.1132,4.3674,0.7458
+2026-11-03,45.72,45.84,45.68,45.79,45.78,38.27,31.79,26.45,24.82,42.3446,1,43.6906,1,188522,187938,4.9963,4.4932,0.5032
+2026-11-04,45.78,46.15,45.76,46.10,45.82,39.15,32.09,26.60,24.93,42.7641,1,44.1415,1,375743,193715,4.8726,4.5690,0.3035

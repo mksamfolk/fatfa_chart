@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.77,TORO,Toro Corp.,Energy,Oil & Gas Midstream,Cyprus,148950704,4.31,71920,50325,216900.74999999997,,,,0.55175996,-0.15531,0.16424,0.011879999,-0.00858,79115400,0,,20.859,18.996,7808026,-56964440,34559330,5782491,0.74644995,0.02095,67493,1.02,0.0042,,,6.1049824,0.71582794,7.559,494.635,,,,,none,,,,,,2026-12-03,2.673,https://www.torocorp.com,2026-10-31T20:32:07.754588+00:00
+60.74,TORO,Toro Corp.,Energy,Oil & Gas Midstream,Cyprus,148950704,4.31,71920,50325,216900.74999999997,,,,0.55175996,-0.15531,0.16424,0.011879999,-0.00858,79115400,0,,20.859,18.996,7808026,-56964440,34559330,5782491,0.74644995,0.02095,67493,1.02,0.0042,,,6.1049824,0.71582794,7.559,494.635,,,,,none,,,,,,2026-12-03,2.673,https://www.torocorp.com,2026-10-31T20:32:07.754588+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-03,11.15,15.60,6.81,6.90,,,,,,,0,6.8084,1,59,,,,
 2023-03-06,11.70,11.70,7.85,7.88,,,,,,,0,6.8084,1,88,,,,
@@ -934,4 +934,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.41,4.64,4.23,4.56,4.14,4.64,5.35,4.88,4.49,4.9703,0,3.6398,1,157,263,-0.3818,-0.4219,0.0400
 2026-10-29,4.51,4.51,4.30,4.42,4.16,4.52,5.34,4.88,4.49,4.9703,0,3.6798,1,61,262,-0.3495,-0.4074,0.0578
 2026-10-30,4.49,4.50,4.29,4.31,4.18,4.40,5.33,4.89,4.50,4.9703,0,3.7182,1,159,264,-0.3290,-0.3917,0.0627
-2026-11-02,4.56,4.56,4.23,4.34,4.21,4.36,5.31,4.90,4.50,4.9703,0,3.7551,1,193,264,-0.3068,-0.3747,0.0679
+2026-11-02,4.29,4.56,4.23,4.34,4.21,4.36,5.31,4.90,4.50,4.9703,0,3.7551,1,193,264,-0.3068,-0.3747,0.0679
+2026-11-03,4.23,4.45,4.23,4.29,4.25,4.32,5.29,4.90,4.51,4.9703,0,3.7905,1,42,261,-0.2899,-0.3578,0.0679
+2026-11-04,4.30,4.39,4.04,4.05,4.27,4.26,5.26,4.91,4.51,4.9703,0,3.8245,1,99,259,-0.2925,-0.3447,0.0522

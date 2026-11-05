@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-07-24 09:30:00-04:00,0.05\n2024-06-20 09:30:00-04:00,0.125\n2024-11-18 09:30:00-05:00,0.02\n2026-01-29 09:30:00-05:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.10,BJDX,Bluejay Diagnostics Inc.,Healthcare,Medical Devices,United States,2486023,0.5564,78270,3145717,1750276.9388000001,,,,0.0,0.0,0.0,-0.98887,-0.51084,9598916,80670,0.857,4.637,4.535,-5903219,-3545295,4468051,4377260,0.02032,0.09792,144402,0.2,0.0328,,-1.7387501,,0.11723557,,0.972,,,,,none,,,,,,,0.891,https://bluejaydx.com,2026-10-31T14:36:37.596097+00:00
+77.48,BJDX,Bluejay Diagnostics Inc.,Healthcare,Medical Devices,United States,2486023,0.5564,78270,3145717,1750276.9388000001,,,,0.0,0.0,0.0,-0.98887,-0.51084,9598916,80670,0.857,4.637,4.535,-5903219,-3545295,4468051,4377260,0.02032,0.09792,144402,0.2,0.0328,,-1.7387501,,0.11723557,,0.972,,,,,none,,,,,,,0.891,https://bluejaydx.com,2026-10-31T14:36:37.596097+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-10,175040.00,200000.00,167680.00,170240.00,,,,,,,0,200000.0000,0,25196,,,,
 2021-11-11,168000.00,168640.00,152000.00,157440.00,,,,,,,0,200000.0000,0,9132,,,,
@@ -1260,6 +1260,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-26,0.59,0.60,0.56,0.56,0.70,0.79,0.89,1.78,2.04,0.7752,0,0.7481,0,55,4282,-0.1002,-0.0873,-0.0129
 2026-10-27,0.57,0.62,0.57,0.58,0.67,0.76,0.88,1.77,2.02,0.7752,0,0.7105,0,20,4275,-0.1021,-0.0903,-0.0118
 2026-10-28,0.58,0.60,0.56,0.57,0.65,0.74,0.87,1.76,2.01,0.7656,0,0.6804,0,22,4269,-0.1030,-0.0928,-0.0102
-2026-10-29,0.58,0.58,0.52,0.54,0.62,0.72,0.87,1.75,1.99,0.7342,0,0.6563,0,53,4266,-0.1049,-0.0953,-0.0097
-2026-10-30,0.53,0.60,0.46,0.56,0.61,0.70,0.86,1.74,1.98,0.7342,0,0.6290,0,156,4266,-0.1039,-0.0970,-0.0069
-2026-11-02,0.52,0.58,0.50,0.53,0.59,0.69,0.85,1.73,1.97,0.7342,0,0.6000,0,92,4266,-0.1041,-0.0984,-0.0056
+2026-10-29,2.32,2.32,2.08,2.16,0.79,0.80,0.90,1.76,2.00,1.5085,1,0.5600,1,53,4266,0.0243,-0.0694,0.0937
+2026-10-30,2.12,2.40,1.84,2.22,0.93,0.87,0.93,1.77,2.00,1.5085,1,0.5620,1,156,4266,0.1289,-0.0298,0.1586
+2026-11-02,2.10,2.32,2.00,2.12,1.08,0.93,0.95,1.77,1.99,1.5085,1,0.6355,1,105,4266,0.2011,0.0164,0.1847
+2026-11-03,2.14,2.84,2.02,2.21,1.23,1.00,0.98,1.77,1.99,1.5085,1,0.7061,1,984,4277,0.2625,0.0656,0.1969
+2026-11-04,2.15,2.62,2.15,2.29,1.39,1.08,1.00,1.77,1.99,1.5085,1,0.8341,1,396,3818,0.3140,0.1153,0.1987

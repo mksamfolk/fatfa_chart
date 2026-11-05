@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-50.17,FSCO,FS Credit Opportunities Corp.,Financial Services,Asset Management,United States,1007302848,4.98,884780,951742,4739675.16,,,,0.0,0.0,0.0,,,,,,,,,,202269645,,0.0030899998,0.36924,2430062,2.19,0.0121,8.163935,,,,,,,,,,none,,,,,,,,https://www.fsco.futurestandard.com,2026-10-31T16:11:36.028730+00:00
+49.90,FSCO,FS Credit Opportunities Corp.,Financial Services,Asset Management,United States,1007302848,4.98,884780,951742,4739675.16,,,,0.0,0.0,0.0,,,,,,,,,,202269645,,0.0030899998,0.36924,2430062,2.19,0.0121,8.163935,,,,,,,,,,none,,,,,,,,https://www.fsco.futurestandard.com,2026-10-31T16:11:36.028730+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-14,3.13,3.38,2.38,2.80,,,,,,,0,2.3752,1,4615,,,,
 2022-11-15,2.70,3.08,2.63,2.69,,,,,,,0,2.3752,1,7252,,,,
@@ -1008,4 +1008,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.07,5.09,5.01,5.04,5.06,5.04,5.06,4.87,5.03,5.1701,0,4.8875,1,4646,4629,-0.0067,-0.0064,-0.0003
 2026-10-29,5.05,5.09,5.04,5.05,5.05,5.04,5.06,4.87,5.03,5.1701,0,4.8924,1,5281,4656,-0.0063,-0.0064,0.0001
 2026-10-30,5.05,5.07,4.98,4.98,5.04,5.03,5.06,4.88,5.02,5.1701,0,4.8971,1,4980,4644,-0.0115,-0.0074,-0.0041
-2026-11-02,5.00,5.10,4.98,5.03,5.04,5.02,5.07,4.88,5.02,5.1701,0,4.9018,1,5493,4665,-0.0114,-0.0082,-0.0032
+2026-11-02,5.00,5.10,4.98,4.99,5.04,5.02,5.07,4.88,5.02,5.1701,0,4.9018,1,5495,4665,-0.0146,-0.0089,-0.0058
+2026-11-03,5.03,5.11,5.02,5.03,5.04,5.02,5.07,4.89,5.02,5.1701,0,4.9064,1,4645,4656,-0.0137,-0.0098,-0.0039
+2026-11-04,5.10,5.15,5.08,5.10,5.04,5.03,5.07,4.89,5.02,5.1701,0,4.9108,1,3720,4629,-0.0072,-0.0093,0.0021

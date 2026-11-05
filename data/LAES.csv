@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.87,LAES,SEALSQ Corp,Technology,Semiconductors,Switzerland,330647936,1.47,4188220,6002443,8823591.209999999,1.311,,,0.52616,-2.88647,-1.7038001,-0.123339996,-0.083850004,482278016,7140000,1.27,14.431,14.151,-43109000,-32420000,223430764,215910092,0.03352,0.06616,9442794,2.03,0.0437,,-5.444444,13.453004,0.61199003,-5.217,2.783,5.875,8.0,3.75,,none,2,,,,,2026-09-11,-7.513,https://www.sealsq.com,2026-10-31T18:02:05.822043+00:00
+10.17,LAES,SEALSQ Corp,Technology,Semiconductors,Switzerland,330647936,1.47,4188220,6002443,8823591.209999999,1.311,,,0.52616,-2.88647,-1.7038001,-0.123339996,-0.083850004,482278016,7140000,1.27,14.431,14.151,-43109000,-32420000,223430764,215910092,0.03352,0.06616,9442794,2.03,0.0437,,-5.444444,13.453004,0.61199003,-5.217,2.783,5.875,8.0,3.75,,none,2,,,,,2026-09-11,-7.513,https://www.sealsq.com,2026-10-31T18:02:05.822043+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-05-23,28.45,28.50,10.86,10.86,,,,,,,0,10.8590,1,263,,,,
 2023-05-24,17.82,26.00,12.64,21.97,,,,,,,0,10.8590,1,4282,,,,
@@ -892,5 +892,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,1.57,1.64,1.55,1.63,1.68,1.97,2.23,2.64,2.98,1.9042,0,1.7295,0,6845,12087,-0.2122,-0.1788,-0.0334
 2026-10-28,1.66,1.66,1.59,1.62,1.66,1.93,2.21,2.64,2.97,1.9042,0,1.6836,0,5714,11729,-0.2061,-0.1843,-0.0219
 2026-10-29,1.60,1.61,1.54,1.57,1.62,1.89,2.19,2.63,2.96,1.9042,0,1.6600,0,6294,11057,-0.2030,-0.1880,-0.0150
-2026-10-30,1.49,1.50,1.42,1.47,1.59,1.85,2.17,2.62,2.94,1.8046,0,1.6600,0,6506,10715,-0.2062,-0.1916,-0.0146
-2026-11-02,1.49,1.49,1.35,1.36,1.56,1.79,2.14,2.62,2.93,1.7721,0,1.6120,0,5674,10265,-0.2151,-0.1963,-0.0188
+2026-10-30,1.49,1.50,1.42,1.47,1.59,1.85,2.17,2.62,2.94,1.8046,0,1.6600,0,6564,10716,-0.2062,-0.1916,-0.0146
+2026-11-02,1.49,1.49,1.35,1.36,1.56,1.79,2.14,2.62,2.93,1.7721,0,1.6120,0,5797,10269,-0.2151,-0.1963,-0.0188
+2026-11-03,1.40,1.42,1.36,1.37,1.53,1.74,2.12,2.61,2.91,1.7249,0,1.5596,0,4774,10060,-0.2189,-0.2009,-0.0180
+2026-11-04,1.38,1.43,1.35,1.43,1.51,1.70,2.10,2.60,2.89,1.7154,0,1.5177,0,5345,9930,-0.2146,-0.2036,-0.0110

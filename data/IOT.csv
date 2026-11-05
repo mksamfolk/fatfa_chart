@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-85.19,IOT,Samsara Inc.,Technology,Software - Infrastructure,United States,24636409856,42.07,3715060,5535773,232889970.11,0.299,,,0.76432,0.00959,0.04901,0.0643,0.00487,828928000,69492000,4.338,1.625,1.214,288374016,260455008,380273036,367754215,0.03759,1.07579,32801986,6.67,0.1014,300.5,44.381382,13.334623,15.370844,12.924,760.074,52.06667,60.0,39.0,,none,24,17,16,2,2,2026-12-03,1.352,https://www.samsara.com,2026-10-31T17:43:14.327423+00:00
+86.58,IOT,Samsara Inc.,Technology,Software - Infrastructure,United States,24636409856,42.07,3715060,5535773,232889970.11,0.299,,,0.76432,0.00959,0.04901,0.0643,0.00487,828928000,69492000,4.338,1.625,1.214,288374016,260455008,380273036,367754215,0.03759,1.07579,32801986,6.67,0.1014,300.5,44.381382,13.334623,15.370844,12.924,760.074,52.06667,60.0,39.0,,none,24,17,16,2,2,2026-12-03,1.352,https://www.samsara.com,2026-10-31T17:43:14.327423+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-15,24.90,25.25,23.75,24.70,,,,,,,0,25.2500,0,313077,,,,
 2021-12-16,24.94,25.00,23.11,23.23,,,,,,,0,25.2500,0,68278,,,,
@@ -1253,4 +1253,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,43.01,44.03,42.40,43.01,42.80,42.01,40.47,35.58,34.18,38.8841,1,39.3738,1,180023,231192,1.0591,0.8781,0.1810
 2026-10-29,41.64,42.22,40.65,41.65,42.70,42.09,40.52,35.65,34.22,38.8841,1,39.7306,1,188441,232087,0.8914,0.8808,0.0106
 2026-10-30,41.63,42.30,40.70,42.07,42.95,42.14,40.58,35.73,34.26,38.8841,1,40.0659,1,197763,231606,0.7834,0.8613,-0.0779
-2026-11-02,42.50,43.00,41.17,41.90,43.11,42.11,40.62,35.80,34.30,38.8841,1,40.3812,1,129910,231702,0.6762,0.8243,-0.1481
+2026-11-02,42.50,43.00,41.10,41.90,43.11,42.11,40.62,35.80,34.30,38.8841,1,40.3812,1,154154,232187,0.6762,0.8243,-0.1481
+2026-11-03,41.16,41.76,40.28,41.11,42.98,42.08,40.63,35.87,34.33,38.8841,1,45.3200,0,133209,230242,0.5215,0.7637,-0.2422
+2026-11-04,41.73,43.80,41.69,42.81,42.94,42.20,40.71,35.94,34.38,38.8841,1,45.2191,0,173004,230529,0.5300,0.7170,-0.1869

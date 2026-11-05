@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.63,Q,Qnity Electronics Inc.,Technology,Semiconductor Equipment & Materials,United States,24423604224,116.67,1935650,1688789,197031012.63,0.221,-0.343,-0.34,0.46219003,0.22323,0.11248,0.06722,0.053049996,961000000,4527000064,59.992,2.008,1.202,1168999936,772249984,209339207,208679245,0.00075,0.78853,4173213,2.69,0.023,41.66786,21.220404,4.687832,3.364575,5.424,18.52,174.2,211.0,150.0,1.3,strong_buy,10,5,5,0,0,2026-11-04,,https://www.qnityelectronics.com,2026-10-31T19:29:43.737062+00:00
+53.75,Q,Qnity Electronics Inc.,Technology,Semiconductor Equipment & Materials,United States,24423604224,116.67,1935650,1688789,197031012.63,0.221,-0.343,-0.34,0.46219003,0.22323,0.11248,0.06722,0.053049996,961000000,4527000064,59.992,2.008,1.202,1168999936,772249984,209339207,208679245,0.00075,0.78853,4173213,2.69,0.023,41.66786,21.220404,4.687832,3.364575,5.424,18.52,174.2,211.0,150.0,1.3,strong_buy,10,5,5,0,0,2026-11-04,,https://www.qnityelectronics.com,2026-10-31T19:29:43.737062+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-27,70.32,101.26,70.32,95.06,,,,,,,0,70.3192,1,6642,,,,
 2025-10-28,98.76,103.23,92.77,94.50,,,,,,,0,70.3192,1,16352,,,,
@@ -284,4 +284,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,121.27,122.94,119.26,122.79,116.68,122.13,122.49,135.90,128.92,124.0226,0,105.2845,1,213041,203105,-2.3456,-2.2158,-0.1298
 2026-10-29,122.50,124.91,120.68,122.66,116.98,121.84,122.42,135.97,129.08,124.0226,0,105.9907,1,285356,203959,-1.8390,-2.1404,0.3015
 2026-10-30,116.66,120.25,114.09,116.67,117.11,121.10,122.09,136.00,129.22,124.0226,0,107.1259,1,321998,198938,-1.8989,-2.0921,0.1932
-2026-11-02,118.72,120.92,115.23,115.37,116.75,120.29,121.82,136.06,129.33,124.0226,0,108.1929,1,258059,199628,-2.0280,-2.0793,0.0513
+2026-11-02,118.72,120.92,115.23,115.37,116.75,120.29,121.82,136.06,129.33,124.0226,0,108.1929,1,271073,199888,-2.0280,-2.0793,0.0513
+2026-11-03,118.60,122.74,117.22,118.89,116.80,119.56,121.67,136.08,129.44,124.0226,0,109.1959,1,291934,201650,-1.8252,-2.0285,0.2033
+2026-11-04,120.00,120.04,112.50,118.78,116.66,119.01,121.52,136.08,129.56,124.0226,0,110.1388,1,389254,207043,-1.6543,-1.9536,0.2994

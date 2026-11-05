@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.83,LION,Lionsgate Studios Corp.,,,,3704617984,12.45,4647310,3058603,38079607.35,,,,,,,,,,,,,,,,297559680,,,,,,,,25.53113,,-3.0395505,,,15.08333,20.0,9.0,2.15385,buy,12,1,1,0,0,2026-11-05,,,2026-10-31T18:08:49.355971+00:00
+85.51,LION,Lionsgate Studios Corp.,,,,3704617984,12.45,4647310,3058603,38079607.35,,,,,,,,,,,,,,,,297559680,,,,,,,,25.53113,,-3.0395505,,,15.08333,20.0,9.0,2.15385,buy,12,1,1,0,0,2026-11-05,,,2026-10-31T18:08:49.355971+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-01,9.70,9.70,9.70,9.70,,,,,,,0,9.7000,0,20,,,,
 2022-03-02,9.70,9.70,9.45,9.64,,,,,,,0,9.7000,0,10546,,,,
@@ -1202,4 +1202,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,12.14,12.23,12.04,12.20,11.89,11.53,11.37,12.38,11.60,11.1390,1,10.9473,1,24606,33628,0.2625,0.1338,0.1287
 2026-10-29,12.28,13.17,12.20,12.85,12.07,11.61,11.40,12.40,11.62,11.1390,1,11.0286,1,82692,34909,0.3180,0.1706,0.1474
 2026-10-30,12.80,12.91,12.45,12.45,12.25,11.68,11.42,12.42,11.63,11.1390,1,11.1571,1,33593,35176,0.3259,0.2017,0.1243
-2026-11-02,12.70,12.67,12.13,12.13,12.40,11.72,11.43,12.44,11.65,11.1390,1,11.2779,1,32300,35353,0.3029,0.2219,0.0810
+2026-11-02,12.70,12.70,12.13,12.14,12.40,11.72,11.43,12.44,11.65,11.1390,1,11.2779,1,37921,35465,0.3037,0.2221,0.0816
+2026-11-03,12.14,12.51,12.10,12.45,12.43,11.78,11.45,12.46,11.66,11.1390,1,11.3914,1,28115,35684,0.3076,0.2392,0.0684
+2026-11-04,12.49,12.94,12.49,12.72,12.43,11.85,11.47,12.48,11.68,11.1853,1,11.4981,1,27097,35837,0.3286,0.2571,0.0716

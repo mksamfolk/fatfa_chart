@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.25,GCTS,GCT Semiconductor Holding Inc.,Technology,Semiconductors,United States,103006096,1.12,1993760,1943132,2176307.8400000003,-0.179,,,-0.38294,-7.63646,0.0,,-0.64408,30228000,55612000,,0.822,0.645,-38071000,-26898000,91969726,81528403,0.12699,0.14625,11899389,7.49,0.1328,,-3.2463768,25.25278,-1.9787986,31.476,-3.799,3.2,3.4,3.0,1.0,strong_buy,2,1,1,0,0,2026-11-12,1.779,https://www.gctsemi.com,2026-10-31T16:17:30.592817+00:00
+28.46,GCTS,GCT Semiconductor Holding Inc.,Technology,Semiconductors,United States,103006096,1.12,1993760,1943132,2176307.8400000003,-0.179,,,-0.38294,-7.63646,0.0,,-0.64408,30228000,55612000,,0.822,0.645,-38071000,-26898000,91969726,81528403,0.12699,0.14625,11899389,7.49,0.1328,,-3.2463768,25.25278,-1.9787986,31.476,-3.799,3.2,3.4,3.0,1.0,strong_buy,2,1,1,0,0,2026-11-12,1.779,https://www.gctsemi.com,2026-10-31T16:17:30.592817+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-27,9.72,9.80,9.72,9.80,,,,,,,0,9.7200,1,198,,,,
 2021-12-28,9.80,9.84,9.80,9.84,,,,,,,0,9.7200,1,2486,,,,
@@ -1230,5 +1230,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,1.31,1.39,1.27,1.27,1.49,1.73,1.88,1.94,1.75,1.7041,0,1.6510,0,2885,3952,-0.1784,-0.1218,-0.0566
 2026-10-28,1.32,1.32,1.22,1.28,1.44,1.71,1.87,1.94,1.75,1.6867,0,1.5752,0,2705,3947,-0.1836,-0.1342,-0.0494
 2026-10-29,1.27,1.31,1.24,1.25,1.39,1.68,1.86,1.94,1.75,1.6711,0,1.5042,0,1909,3900,-0.1879,-0.1449,-0.0430
-2026-10-30,1.21,1.23,1.11,1.12,1.34,1.64,1.85,1.94,1.75,1.5685,0,1.4473,0,3507,3888,-0.1996,-0.1559,-0.0437
-2026-11-02,1.18,1.18,0.96,1.02,1.29,1.58,1.83,1.94,1.75,1.4946,0,1.3799,0,2508,3874,-0.2144,-0.1676,-0.0468
+2026-10-30,1.21,1.23,1.11,1.12,1.34,1.64,1.85,1.94,1.75,1.5685,0,1.4473,0,3521,3888,-0.1996,-0.1559,-0.0437
+2026-11-02,1.18,1.18,0.96,1.02,1.29,1.58,1.83,1.94,1.75,1.4940,0,1.3799,0,2636,3877,-0.2144,-0.1676,-0.0468
+2026-11-03,1.09,1.16,1.07,1.07,1.24,1.53,1.81,1.94,1.75,1.4940,0,1.2953,0,1472,3776,-0.2196,-0.1780,-0.0416
+2026-11-04,1.13,1.15,1.06,1.14,1.21,1.48,1.79,1.94,1.75,1.4940,0,1.2276,0,1630,3682,-0.2155,-0.1855,-0.0301

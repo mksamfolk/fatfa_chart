@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.09,ENGS,Energys Group Limited,Industrials,Waste Management,United Kingdom,141577984,4.53,5809250,2662423,12060776.190000001,-0.278,,,0.16194999,-0.42264998,-0.58431,,-0.21191,30392,6336527,5947.613,0.705,0.093,,,31253416,11215399,0.21672001,0.022090001,346415,0.13,0.0099,,,24.855179,483.15158,12.47,-24.379,,,,,none,,,,,,,,https://www.energysgroup.com,2026-10-31T15:47:51.335143+00:00
+98.00,ENGS,Energys Group Limited,Industrials,Waste Management,United Kingdom,141577984,4.53,5809250,2662423,12060776.190000001,-0.278,,,0.16194999,-0.42264998,-0.58431,,-0.21191,30392,6336527,5947.613,0.705,0.093,,,31253416,11215399,0.21672001,0.022090001,346415,0.13,0.0099,,,24.855179,483.15158,12.47,-24.379,,,,,none,,,,,,,,https://www.energysgroup.com,2026-10-31T15:47:51.335143+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-01,4.96,5.58,4.60,4.95,,,,,,,0,5.5800,0,12415,,,,
 2025-04-02,4.94,5.00,4.21,4.89,,,,,,,0,5.5800,0,1177,,,,
@@ -413,4 +413,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.36,4.42,4.18,4.36,4.06,3.64,3.12,2.14,1.84,3.8900,1,4.0786,1,41918,9257,0.3856,0.3147,0.0708
 2026-10-29,4.34,4.55,4.30,4.47,4.15,3.72,3.15,2.16,1.86,3.9148,1,4.1539,1,9288,9392,0.3946,0.3307,0.0639
 2026-10-30,4.45,4.57,4.45,4.53,4.23,3.80,3.19,2.19,1.87,4.0171,1,4.1800,1,17668,9694,0.4019,0.3449,0.0570
-2026-11-02,4.48,4.61,4.47,4.59,4.31,3.87,3.23,2.21,1.89,4.0543,1,4.2580,1,25320,10172,0.4079,0.3575,0.0504
+2026-11-02,4.50,4.61,4.44,4.59,4.31,3.87,3.23,2.21,1.89,4.0303,1,4.2580,1,25322,10172,0.4079,0.3575,0.0504
+2026-11-03,4.57,4.61,4.46,4.56,4.38,3.95,3.27,2.24,1.91,4.0448,1,4.3284,1,28508,10648,0.4055,0.3671,0.0384
+2026-11-04,4.57,4.65,4.48,4.53,4.43,4.02,3.31,2.26,1.93,4.0728,1,4.3847,1,33057,11288,0.3967,0.3730,0.0236

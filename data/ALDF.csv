@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.23,ALDF,Aldel Financial II Inc.,Financial Services,Shell Companies,United States,322576704,10.8,330,29585,319518.0,,-0.117,-0.117,0.0,0.0,0.0,,,283112,0,,16.76,14.115,8792769,,23707500,19017092,0.01856,1.07165,604,0.05,0.0,51.428574,,,981.8182,,,,,,,none,,,,,,,,https://aldelfinancial.com,2026-10-31T14:02:02.525303+00:00
+53.89,ALDF,Aldel Financial II Inc.,Financial Services,Shell Companies,United States,322576704,10.8,330,29585,319518.0,,-0.117,-0.117,0.0,0.0,0.0,,,283112,0,,16.76,14.115,8792769,,23707500,19017092,0.01856,1.07165,604,0.05,0.0,51.428574,,,981.8182,,,,,,,none,,,,,,,,https://aldelfinancial.com,2026-10-31T14:02:02.525303+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-13,9.95,9.95,9.90,9.90,,,,,,,0,9.9500,0,3,,,,
 2024-12-16,9.90,9.90,9.90,9.90,,,,,,,0,9.9500,0,4085,,,,
@@ -485,4 +485,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.98,10.98,10.98,10.98,10.98,10.91,10.82,10.70,10.65,10.9565,1,10.9321,1,,349,0.0518,0.0488,0.0030
 2026-10-29,10.98,10.98,10.98,10.98,10.98,10.92,10.83,10.70,10.66,10.9589,1,10.9388,1,,349,0.0501,0.0491,0.0010
 2026-10-30,10.84,10.84,10.80,10.80,10.96,10.91,10.83,10.70,10.66,10.8930,0,10.9800,0,36,349,0.0338,0.0460,-0.0122
-2026-11-02,10.78,10.78,10.77,10.77,10.94,10.91,10.83,10.70,10.66,10.8497,0,10.9800,0,54,350,0.0183,0.0405,-0.0222
+2026-11-02,10.78,10.78,10.77,10.77,10.94,10.91,10.83,10.70,10.66,10.8497,0,10.9800,0,55,350,0.0183,0.0405,-0.0222
+2026-11-03,10.76,10.76,10.72,10.75,10.92,10.91,10.83,10.70,10.66,10.8223,0,10.9716,0,68,352,0.0043,0.0332,-0.0289
+2026-11-04,10.75,10.75,10.75,10.75,10.89,10.91,10.83,10.70,10.66,10.8223,0,10.9565,0,10,352,-0.0067,0.0253,-0.0320

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.78,STRZ,Starz Entertainment Corp.,Communication Services,Entertainment,Canada,381241760,22.09,402470,294617,6508089.53,-0.037,,,0.54106,-0.07925,-0.25075,,,59600000,787200000,266.036,0.253,0.235,66966660,,17258567,12095316,0.13430999,0.79602,556498,1.51,0.0468,,-4.879072,0.30522954,0.5710519,0.881,8.952,35.0,45.0,26.0,2.0,buy,10,2,2,1,1,2026-10-29,,https://www.starz.com,2026-10-31T20:15:34.058563+00:00
+95.23,STRZ,Starz Entertainment Corp.,Communication Services,Entertainment,Canada,381241760,22.09,402470,294617,6508089.53,-0.037,,,0.54106,-0.07925,-0.25075,,,59600000,787200000,266.036,0.253,0.235,66966660,,17258567,12095316,0.13430999,0.79602,556498,1.51,0.0468,,-4.879072,0.30522954,0.5710519,0.881,8.952,35.0,45.0,26.0,2.0,buy,10,2,2,1,1,2026-10-29,,https://www.starz.com,2026-10-31T20:15:34.058563+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-07,8.00,19.71,8.00,11.20,,,,,,,0,8.0000,1,20359,,,,
 2025-05-08,10.65,11.30,10.25,10.43,,,,,,,0,8.0000,1,11536,,,,
@@ -392,4 +392,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,21.63,23.12,20.90,22.50,22.96,23.46,25.13,22.83,19.80,26.9412,0,26.2211,0,10091,6077,-0.8625,-0.7024,-0.1601
 2026-10-29,22.53,23.02,21.20,21.74,22.60,23.40,25.03,22.87,19.85,26.9412,0,26.0907,0,10853,6244,-0.8949,-0.7409,-0.1539
 2026-10-30,24.38,24.69,20.86,22.09,22.48,23.34,24.95,22.92,19.90,26.9412,0,25.9629,0,25454,6696,-0.8821,-0.7692,-0.1129
-2026-11-02,22.24,22.84,21.73,22.09,22.41,23.30,24.88,22.97,19.95,26.9412,0,25.8376,0,6323,6722,-0.8620,-0.7877,-0.0743
+2026-11-02,22.24,22.84,21.73,22.09,22.41,23.30,24.88,22.97,19.95,26.9412,0,25.8376,0,6331,6722,-0.8620,-0.7877,-0.0743
+2026-11-03,23.54,24.03,22.80,23.36,22.42,23.31,24.82,23.03,20.01,26.9412,0,25.7149,0,8274,6748,-0.7351,-0.7772,0.0421
+2026-11-04,24.71,26.71,24.25,25.38,22.50,23.40,24.84,23.11,20.08,26.9412,0,19.7000,1,10040,6771,-0.4662,-0.7150,0.2488

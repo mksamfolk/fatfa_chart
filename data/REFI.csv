@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.91,REFI,Chicago Atlantic Real Estate Finance Inc.,Real Estate,REIT - Mortgage,United States,226490928,8.84,152530,195717,1730138.28,-0.075,-0.171,-0.158,1.0,0.62665004,0.60213,0.096149996,0.06414,13351699,140502544,46.578,26.607,26.607,26923272,,25621146,22671640,0.11512,0.32037997,1670707,6.73,0.0689,6.4525547,4.604167,4.6377835,0.62464666,7.241,,15.125,20.0,10.5,,none,4,0,0,1,1,2026-11-10,0.344,https://www.refi.reit,2026-10-31T19:36:56.478993+00:00
+32.45,REFI,Chicago Atlantic Real Estate Finance Inc.,Real Estate,REIT - Mortgage,United States,226490928,8.84,152530,195717,1730138.28,-0.075,-0.171,-0.158,1.0,0.62665004,0.60213,0.096149996,0.06414,13351699,140502544,46.578,26.607,26.607,26923272,,25621146,22671640,0.11512,0.32037997,1670707,6.73,0.0689,6.4525547,4.604167,4.6377835,0.62464666,7.241,,15.125,20.0,10.5,,none,4,0,0,1,1,2026-11-10,0.344,https://www.refi.reit,2026-10-31T19:36:56.478993+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-08,8.75,9.07,8.43,8.79,,,,,,,0,8.4265,1,20809,,,,
 2021-12-09,8.55,8.85,8.53,8.53,,,,,,,0,8.4265,1,7726,,,,
@@ -1244,3 +1244,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,9.17,9.39,8.93,8.96,9.16,9.38,10.03,10.63,10.79,9.8368,0,8.8764,1,1292,1709,-0.3145,-0.3173,0.0027
 2026-10-30,8.99,9.04,8.78,8.84,9.11,9.29,10.01,10.61,10.77,9.7683,0,9.5600,0,987,1697,-0.3239,-0.3186,-0.0053
 2026-11-02,8.96,9.04,8.78,8.86,9.12,9.24,9.99,10.60,10.76,9.7608,0,9.5444,0,1634,1700,-0.3260,-0.3201,-0.0059
+2026-11-03,8.86,8.86,8.59,8.68,9.08,9.18,9.97,10.58,10.75,9.5709,0,9.5291,0,1501,1687,-0.3383,-0.3237,-0.0146
+2026-11-04,8.87,9.14,8.83,9.12,9.08,9.16,9.95,10.57,10.73,9.5709,0,9.4915,0,948,1674,-0.3090,-0.3208,0.0118

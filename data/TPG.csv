@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.81,TPG,TPG Inc.,Financial Services,Asset Management,United States,18231685120,46.68,2798370,2918550,136237914.0,0.066,1.82,0.484,1.0,0.15629,0.058029998,0.19188999,0.05362,799785984,2279492096,57.458,,,,,160109058,127016047,0.04954,0.91977,14753826,5.43,0.089099996,69.67164,13.111697,3.93694,6.537815,2.5,,58.47059,68.0,49.0,1.82353,buy,17,3,3,3,4,2026-10-29,,https://www.tpg.com,2026-10-31T20:32:59.120782+00:00
+61.89,TPG,TPG Inc.,Financial Services,Asset Management,United States,18231685120,46.68,2798370,2918550,136237914.0,0.066,1.82,0.484,1.0,0.15629,0.058029998,0.19188999,0.05362,799785984,2279492096,57.458,,,,,160109058,127016047,0.04954,0.91977,14753826,5.43,0.089099996,69.67164,13.111697,3.93694,6.537815,2.5,,58.47059,68.0,49.0,1.82353,buy,17,3,3,3,4,2026-10-29,,https://www.tpg.com,2026-10-31T20:32:59.120782+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-13,27.39,29.04,27.01,28.22,,,,,,,0,29.0387,0,507569,,,,
 2022-01-14,27.84,28.13,26.85,27.21,,,,,,,0,29.0387,0,99455,,,,
@@ -1233,4 +1233,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,44.59,44.85,43.74,44.59,44.23,44.32,47.20,44.06,45.16,46.7279,0,41.6201,1,142340,122297,-0.4426,-0.7264,0.2838
 2026-10-29,45.60,48.16,45.05,47.94,44.68,44.48,47.09,44.11,45.08,41.3141,1,41.7116,1,275660,124769,-0.1317,-0.6074,0.4758
 2026-10-30,47.71,47.88,45.96,46.68,45.10,44.58,47.00,44.17,45.00,41.5642,1,41.9695,1,124346,124738,0.0129,-0.4834,0.4963
-2026-11-02,47.20,49.49,47.19,48.18,45.61,44.76,46.91,44.23,44.92,42.6768,1,42.2171,1,130036,125183,0.2457,-0.3375,0.5833
+2026-11-02,47.20,49.49,47.19,48.18,45.61,44.76,46.91,44.23,44.92,42.6768,1,42.2171,1,130038,125183,0.2457,-0.3375,0.5833
+2026-11-03,48.18,48.45,46.94,48.39,46.01,44.93,46.82,44.29,44.83,42.6768,1,42.6535,1,147178,125326,0.4421,-0.1816,0.6237
+2026-11-04,49.36,50.96,49.03,50.16,46.61,45.22,46.77,44.37,44.78,44.2319,1,43.0637,1,183892,126804,0.7321,0.0011,0.7309

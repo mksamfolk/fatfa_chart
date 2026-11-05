@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-06 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.39,NTCL,NetClass Technology Inc,Technology,Software - Application,Singapore,869622,0.4026,69160,346520,139508.952,0.74,,,0.15484999,-0.85850996,-0.94561994,-2.05721,-0.4571,1701352,3076369,65.155,0.92,0.782,-1226622,556606,2120015,926202,0.0912,0.00409,19929,0.02,0.0098,,,0.06951118,0.10487106,0.158,-0.212,,,,,none,,,,,,,,https://www.netclass.cn,2026-10-31T18:50:54.456214+00:00
+0.45,NTCL,NetClass Technology Inc,Technology,Software - Application,Singapore,869622,0.4026,69160,346520,139508.952,0.74,,,0.15484999,-0.85850996,-0.94561994,-2.05721,-0.4571,1701352,3076369,65.155,0.92,0.782,-1226622,556606,2120015,926202,0.0912,0.00409,19929,0.02,0.0098,,,0.06951118,0.10487106,0.158,-0.212,,,,,none,,,,,,,,https://www.netclass.cn,2026-10-31T18:50:54.456214+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-13,262.50,294.00,229.50,250.00,,,,,,,0,229.5000,1,11939,,,,
 2024-12-16,255.00,258.50,233.00,253.50,,,,,,,0,229.5000,1,958,,,,
@@ -484,5 +484,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.67,0.67,0.66,0.67,0.73,1.23,2.01,15.80,17.01,1.1215,0,0.8123,0,14,678,-0.5725,-0.6297,0.0572
 2026-10-28,0.66,0.70,0.64,0.70,0.72,1.16,1.96,15.70,16.84,1.0997,0,0.7763,0,34,678,-0.5453,-0.6128,0.0675
 2026-10-29,0.72,0.73,0.48,0.54,0.69,1.09,1.91,15.61,16.68,1.0699,0,0.7474,0,59,677,-0.5304,-0.5963,0.0659
-2026-10-30,0.54,0.55,0.34,0.40,0.65,1.01,1.86,15.52,16.52,0.9256,0,0.7340,0,87,674,-0.5236,-0.5818,0.0582
-2026-11-02,0.42,0.44,0.36,0.38,0.61,0.94,1.81,15.43,16.37,0.8527,0,0.7340,0,60,668,-0.5143,-0.5683,0.0540
+2026-10-30,0.54,0.55,0.34,0.40,0.65,1.01,1.86,15.52,16.52,0.9256,0,0.7340,0,91,674,-0.5236,-0.5818,0.0582
+2026-11-02,0.42,0.44,0.36,0.38,0.61,0.94,1.81,15.43,16.37,0.8529,0,0.7340,0,60,668,-0.5143,-0.5683,0.0540
+2026-11-03,0.41,0.41,0.36,0.39,0.58,0.86,1.77,15.34,16.22,0.8138,0,0.6562,0,30,666,-0.5006,-0.5548,0.0542
+2026-11-04,0.36,0.39,0.36,0.38,0.55,0.78,1.72,15.24,16.09,0.7644,0,0.5940,0,101,666,-0.4845,-0.5407,0.0562

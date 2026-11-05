@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.81,NUAI,New Era Energy & Digital Inc.,Technology,Software - Infrastructure,United States,320792352,2.735,10855320,8157875,22311788.125,-0.825,,,1.0,-455.69617,0.0,-0.77901,-0.22849001,69821392,15172929,10.948,14.214,11.33,-17899284,-22780188,117291542,74071528,0.20106001,0.49021998,31214599,3.13,0.2634,,-10.519231,356.07394,2.1022289,262.834,-7.13,10.66667,12.0,10.0,1.0,strong_buy,3,0,0,0,0,2026-11-12,1.199,https://www.newerainfra.ai,2026-10-31T18:52:15.044720+00:00
+9.91,NUAI,New Era Energy & Digital Inc.,Technology,Software - Infrastructure,United States,320792352,2.735,10855320,8157875,22311788.125,-0.825,,,1.0,-455.69617,0.0,-0.77901,-0.22849001,69821392,15172929,10.948,14.214,11.33,-17899284,-22780188,117291542,74071528,0.20106001,0.49021998,31214599,3.13,0.2634,,-10.519231,356.07394,2.1022289,262.834,-7.13,10.66667,12.0,10.0,1.0,strong_buy,3,0,0,0,0,2026-11-12,1.199,https://www.newerainfra.ai,2026-10-31T18:52:15.044720+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-06,9.83,9.83,9.83,9.83,,,,,,,0,9.8300,0,399,,,,
 2022-01-07,9.79,9.81,9.75,9.80,,,,,,,0,9.8300,0,232,,,,
@@ -1238,4 +1238,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,3.31,3.34,3.19,3.33,3.08,4.13,5.15,4.94,5.03,4.3820,0,2.5940,1,18333,44407,-0.7370,-0.6948,-0.0422
 2026-10-29,2.81,2.96,2.76,2.86,3.04,3.95,5.10,4.93,5.02,4.2925,0,2.6238,1,36757,44379,-0.7319,-0.7022,-0.0297
 2026-10-30,2.68,2.76,2.55,2.73,3.00,3.77,5.04,4.92,5.01,4.0358,0,3.3400,0,22489,44279,-0.7292,-0.7076,-0.0216
-2026-11-02,2.74,2.76,2.29,2.33,2.93,3.59,4.99,4.91,5.00,3.9077,0,3.3242,0,20170,43809,-0.7510,-0.7163,-0.0347
+2026-11-02,2.74,2.76,2.29,2.33,2.93,3.59,4.99,4.91,5.00,3.9079,0,3.3242,0,20618,43818,-0.7510,-0.7163,-0.0347
+2026-11-03,2.35,2.79,2.34,2.78,2.93,3.43,4.95,4.90,5.00,3.9079,0,3.2828,0,24563,43743,-0.7237,-0.7178,-0.0059
+2026-11-04,2.54,2.61,2.05,2.19,2.82,3.26,4.89,4.88,4.98,3.7924,0,3.2431,0,32515,43868,-0.7411,-0.7224,-0.0186

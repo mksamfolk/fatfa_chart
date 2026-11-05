@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.93,AMCI,AMC Robotics Corporation,Technology,Computer Hardware,United States,49690492,2.08,57440,109093,226913.44,-0.329,,,0.78763,-0.16699,0.0,,,4544353,81810,0.794,11.387,8.996,-7710664,,23889661,3670299,0.80761003,0.01827,34885,0.37,0.014199999,,,10.114413,4.5614033,8.66,,,,,,none,,,,,,,0.306,https://www.amcx.ai,2026-10-31T14:06:06.912781+00:00
+4.07,AMCI,AMC Robotics Corporation,Technology,Computer Hardware,United States,49690492,2.08,57440,109093,226913.44,-0.329,,,0.78763,-0.16699,0.0,,,4544353,81810,0.794,11.387,8.996,-7710664,,23889661,3670299,0.80761003,0.01827,34885,0.37,0.014199999,,,10.114413,4.5614033,8.66,,,,,,none,,,,,,,0.306,https://www.amcx.ai,2026-10-31T14:06:06.912781+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-25,10.20,10.20,10.10,10.10,,,,,,,0,10.1000,1,1525,,,,
 2023-01-26,10.24,10.24,10.24,10.24,,,,,,,0,10.1000,1,2,,,,
@@ -961,3 +961,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.33,2.48,2.26,2.47,2.19,2.49,3.70,5.02,5.46,2.7608,0,1.8606,1,140,444,-0.4428,-0.5086,0.0658
 2026-10-30,2.51,2.57,2.03,2.08,2.16,2.43,3.64,4.99,5.44,2.7608,0,1.8854,1,163,430,-0.4302,-0.4929,0.0627
 2026-11-02,2.03,2.30,2.00,2.28,2.15,2.40,3.60,4.96,5.41,2.7608,0,1.9262,1,227,423,-0.3999,-0.4743,0.0744
+2026-11-03,2.28,2.50,1.82,1.96,2.11,2.35,3.54,4.93,5.38,2.7608,0,2.5650,0,326,425,-0.3971,-0.4588,0.0618
+2026-11-04,2.01,2.03,1.56,1.59,2.06,2.28,3.48,4.88,5.34,2.7608,0,2.5501,0,411,419,-0.4199,-0.4511,0.0312

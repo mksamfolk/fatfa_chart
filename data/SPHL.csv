@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-02 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-22.28,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5225176,2.31,5277900,1047340,2419355.4,0.384,,,0.16402,-0.05535,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.00013,11325,0.02,0.0092,,,0.56534,5.473845,2.968,-12.296,,,,,none,,,,,,,1.513,https://www.springviewggl.com,2026-10-31T20:09:12.380012+00:00
+25.79,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5225176,2.31,5277900,1047340,2419355.4,0.384,,,0.16402,-0.05535,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.00013,11325,0.02,0.0092,,,0.56534,5.473845,2.968,-12.296,,,,,none,,,,,,,1.513,https://www.springviewggl.com,2026-10-31T20:09:12.380012+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-18,32.96,35.11,31.28,33.28,,,,,,,0,31.2800,1,874,,,,
 2024-10-21,32.89,35.12,32.40,35.04,,,,,,,0,31.2800,1,1359,,,,
@@ -525,3 +525,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.56,2.57,2.43,2.43,2.61,2.47,2.54,2.70,2.99,3.9708,0,5.8672,0,40,3669,0.0233,0.0159,0.0074
 2026-10-30,2.41,2.50,2.31,2.31,2.60,2.47,2.53,2.69,2.99,3.8153,0,5.7959,0,88,3671,0.0029,0.0133,-0.0104
 2026-11-02,2.39,2.41,2.27,2.27,2.60,2.46,2.53,2.69,2.99,3.6512,0,5.7259,0,54,3671,-0.0163,0.0074,-0.0237
+2026-11-03,2.25,2.37,2.25,2.25,2.59,2.45,2.52,2.68,2.99,3.5221,0,5.5877,0,40,3671,-0.0327,-0.0007,-0.0321
+2026-11-04,2.31,2.44,2.28,2.42,2.47,2.46,2.52,2.68,2.99,3.5101,0,5.3874,0,69,3672,-0.0317,-0.0069,-0.0248

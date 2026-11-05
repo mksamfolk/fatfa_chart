@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.77,AUST,Austin Gold Corp.,Basic Materials,Gold,Canada,10242365,0.748,21830,75998,56846.504,,,,0.0,0.0,0.0,-0.32979,-0.17429,1892733,0,,19.447,17.589,-1744685,-1565786,13693001,7772284,0.4689,0.010039999,95203,1.78,0.0115,,-5.7538466,,1.5550936,,-6.108,,,,,none,,,,,,,0.994,https://www.austin.gold,2026-10-31T14:22:03.378706+00:00
+14.73,AUST,Austin Gold Corp.,Basic Materials,Gold,Canada,10242365,0.748,21830,75998,56846.504,,,,0.0,0.0,0.0,-0.32979,-0.17429,1892733,0,,19.447,17.589,-1744685,-1565786,13693001,7772284,0.4689,0.010039999,95203,1.78,0.0115,,-5.7538466,,1.5550936,,-6.108,,,,,none,,,,,,,0.994,https://www.austin.gold,2026-10-31T14:22:03.378706+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-04,6.50,29.00,4.15,4.37,,,,,,,0,29.0000,0,35328,,,,
 2022-05-05,5.19,5.81,3.49,3.72,,,,,,,0,29.0000,0,52919,,,,
@@ -1142,4 +1142,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.78,0.80,0.72,0.75,0.79,0.89,1.08,1.23,1.39,0.9735,0,0.8933,0,21,113,-0.1007,-0.0960,-0.0047
 2026-10-29,0.72,0.81,0.72,0.75,0.78,0.87,1.08,1.22,1.39,0.9735,0,0.8747,0,10,109,-0.0989,-0.0966,-0.0023
 2026-10-30,0.75,0.79,0.70,0.75,0.77,0.85,1.07,1.22,1.38,0.9636,0,0.8581,0,27,106,-0.0963,-0.0965,0.0002
-2026-11-02,0.70,0.80,0.70,0.70,0.76,0.83,1.06,1.21,1.37,0.9636,0,0.8391,0,18,101,-0.0971,-0.0966,-0.0005
+2026-11-02,0.70,0.80,0.70,0.71,0.76,0.83,1.06,1.21,1.37,0.9636,0,0.8391,0,18,101,-0.0965,-0.0965,-0.0000
+2026-11-03,0.69,0.74,0.69,0.73,0.76,0.82,1.06,1.20,1.37,0.9358,0,0.8224,0,9,96,-0.0936,-0.0959,0.0024
+2026-11-04,0.75,0.79,0.75,0.77,0.76,0.81,1.05,1.20,1.36,0.9358,0,0.8039,0,16,90,-0.0872,-0.0942,0.0070

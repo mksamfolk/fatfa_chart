@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-02-27 09:30:00-05:00,0.014285714285714285\n2025-04-07 09:30:00-04:00,0.02\n2025-12-05 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.33,TGL,Treasure Global Inc.,Technology,Software - Application,United States,2686612,0.212,17587960,7474267,1584544.604,1.083,,,0.00169,-1.17695,-2.14469,-0.91219,-0.48921,1591362,168114,1.239,2.16,1.239,-6884451,-11089709,12672698,5004068,0.0123000005,0.0035299999,1380310,0.14,0.2746,,-0.424,0.51967585,0.03167962,-0.064,0.025,,,,,none,,,,,,2026-11-12,0.626,https://treasureglobal.org,2026-10-31T20:26:17.598430+00:00
+0.41,TGL,Treasure Global Inc.,Technology,Software - Application,United States,2686612,0.212,17587960,7474267,1584544.604,1.083,,,0.00169,-1.17695,-2.14469,-0.91219,-0.48921,1591362,168114,1.239,2.16,1.239,-6884451,-11089709,12672698,5004068,0.0123000005,0.0035299999,1380310,0.14,0.2746,,-0.424,0.51967585,0.03167962,-0.064,0.025,,,,,none,,,,,,2026-11-12,0.626,https://treasureglobal.org,2026-10-31T20:26:17.598430+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-11,468300.00,1386000.00,318500.00,1247400.00,,,,,,,0,318500.0000,1,439085,,,,
 2022-08-12,924700.00,1106000.00,504700.00,588000.00,,,,,,,0,318500.0000,1,109956,,,,
@@ -1073,5 +1073,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.22,0.26,0.22,0.25,0.28,0.94,2.01,3.36,3.94,0.8231,0,1.3182,0,832,3897,-0.5903,-0.5954,0.0051
 2026-10-28,0.25,0.26,0.24,0.26,0.26,0.81,1.95,3.33,3.91,0.7813,0,1.2281,0,328,3903,-0.5653,-0.5894,0.0240
 2026-10-29,0.23,0.25,0.23,0.23,0.26,0.67,1.89,3.30,3.87,0.7276,0,1.1452,0,185,3905,-0.5411,-0.5797,0.0386
-2026-10-30,0.24,0.24,0.21,0.21,0.25,0.54,1.84,3.27,3.84,0.6681,0,1.0690,0,159,3907,-0.5179,-0.5673,0.0495
-2026-11-02,0.21,0.21,0.20,0.21,0.24,0.49,1.79,3.25,3.80,0.6116,0,0.9988,0,138,3909,-0.4941,-0.5527,0.0586
+2026-10-30,0.24,0.24,0.21,0.21,0.25,0.54,1.84,3.27,3.84,0.6681,0,1.0690,0,168,3907,-0.5179,-0.5673,0.0495
+2026-11-02,0.21,0.21,0.20,0.21,0.24,0.49,1.79,3.25,3.80,0.6116,0,0.9988,0,147,3909,-0.4941,-0.5527,0.0586
+2026-11-03,0.20,0.21,0.20,0.20,0.23,0.44,1.74,3.22,3.77,0.5699,0,0.9343,0,84,3910,-0.4701,-0.5362,0.0661
+2026-11-04,0.20,0.21,0.20,0.21,0.23,0.38,1.68,3.19,3.74,0.5374,0,0.8749,0,83,3911,-0.4457,-0.5181,0.0724

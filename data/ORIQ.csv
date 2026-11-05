@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ORIQ,Origin Investment Corp I,Financial Services,Shell Companies,Singapore,90045000,10.44,27430,16171,168825.24,,,,0.0,0.0,0.0,,,681322,0,,5.332,5.003,-1165165,,8625000,9032500,0.17391,0.80013,3702,0.37,0.0004,54.94737,,,160.61539,,,,,,,none,,,,,,,,,2026-10-31T19:04:58.312133+00:00
+54.56,ORIQ,Origin Investment Corp I,Financial Services,Shell Companies,Singapore,90045000,10.44,27430,16171,168825.24,,,,0.0,0.0,0.0,,,681322,0,,5.332,5.003,-1165165,,8625000,9032500,0.17391,0.80013,3702,0.37,0.0004,54.94737,,,160.61539,,,,,,,none,,,,,,,,,2026-10-31T19:04:58.312133+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-09,10.00,10.01,10.00,10.00,,,,,,,0,10.0100,0,2452,,,,
 2025-09-10,10.00,10.00,10.00,10.00,,,,,,,0,10.0100,0,,,,,
@@ -303,3 +303,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.45,10.45,10.45,10.45,10.44,10.42,10.39,10.30,10.27,10.4259,1,10.3799,1,,172,0.0186,0.0174,0.0013
 2026-10-29,10.45,10.45,10.45,10.45,10.44,10.42,10.39,10.30,10.27,10.4283,1,10.3841,1,,170,0.0184,0.0176,0.0008
 2026-10-30,10.44,10.44,10.44,10.44,10.44,10.43,10.39,10.31,10.27,10.4283,1,10.3880,1,5,167,0.0172,0.0175,-0.0003
+2026-11-02,10.44,10.44,10.44,10.44,10.44,10.43,10.39,10.31,10.27,10.4283,1,10.3917,1,,167,0.0160,0.0172,-0.0012
+2026-11-03,10.44,10.44,10.43,10.43,10.44,10.43,10.39,10.31,10.28,10.4283,1,10.3952,1,29,167,0.0141,0.0166,-0.0025
+2026-11-04,10.44,10.44,10.42,10.42,10.44,10.43,10.40,10.31,10.28,10.4551,0,10.3985,1,14,168,0.0117,0.0156,-0.0039

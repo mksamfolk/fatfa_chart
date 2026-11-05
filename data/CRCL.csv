@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.84,CRCL,Circle Internet Group,Financial Services,Capital Markets,United States,18416156672,72.54,9676300,13097054,950060297.1600001,0.066,,,0.21997999,0.04899,0.15531999,0.15347,0.00191,1730125952,15951000,0.454,1.035,0.028,776918016,206229376,234685190,206025355,0.02238,0.68728995,27724692,2.14,0.1205,49.684933,49.11074,6.338511,5.2250953,5.749,72.989,107.47583,243.0,37.0,2.24138,buy,24,2,3,1,1,2026-11-04,,https://www.circle.com,2026-10-31T15:16:32.628054+00:00
+55.02,CRCL,Circle Internet Group,Financial Services,Capital Markets,United States,18416156672,72.54,9676300,13097054,950060297.1600001,0.066,,,0.21997999,0.04899,0.15531999,0.15347,0.00191,1730125952,15951000,0.454,1.035,0.028,776918016,206229376,234685190,206025355,0.02238,0.68728995,27724692,2.14,0.1205,49.684933,49.11074,6.338511,5.2250953,5.749,72.989,107.47583,243.0,37.0,2.24138,buy,24,2,3,1,1,2026-11-04,,https://www.circle.com,2026-10-31T15:16:32.628054+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-05,69.00,103.75,64.00,83.23,,,,,,,0,64.0000,1,3927790,,,,
 2025-06-06,96.39,123.51,92.95,107.70,,,,,,,0,64.0000,1,6538068,,,,
@@ -382,5 +382,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,79.26,81.77,78.32,81.58,83.96,83.39,87.26,86.92,86.15,78.6393,1,76.5820,1,598773,1188411,-0.6477,-0.5208,-0.1268
 2026-10-28,80.44,82.04,79.26,81.71,84.18,83.36,87.46,86.77,86.14,78.6393,1,76.8937,1,553119,1186561,-0.7741,-0.5715,-0.2026
 2026-10-29,79.74,81.20,78.58,79.99,83.48,83.22,87.49,86.65,86.12,78.6393,1,77.1993,1,554091,1161119,-1.0016,-0.6575,-0.3441
-2026-10-30,74.66,74.80,71.00,72.54,82.51,82.78,87.27,86.51,86.06,89.1342,0,92.1700,0,1177535,1147540,-1.7626,-0.8785,-0.8841
-2026-11-02,71.96,75.87,71.67,72.08,81.59,82.22,86.95,86.39,86.04,89.1342,0,91.7466,0,606900,1113897,-2.3752,-1.1778,-1.1973
+2026-10-30,74.66,74.80,71.00,72.54,82.51,82.78,87.27,86.51,86.06,89.1342,0,92.1700,0,1180458,1147599,-1.7626,-0.8785,-0.8841
+2026-11-02,71.96,75.88,71.50,72.08,81.59,82.22,86.95,86.39,86.04,89.1342,0,91.7466,0,660829,1115034,-2.3756,-1.1779,-1.1976
+2026-11-03,72.74,76.62,72.70,75.22,80.52,81.78,86.70,86.26,86.02,89.1342,0,91.3317,0,655407,1097493,-2.5782,-1.4580,-1.1202
+2026-11-04,74.04,77.59,72.38,76.12,79.16,81.54,86.38,86.16,86.04,89.1342,0,90.9250,0,1099477,1086112,-2.6358,-1.6935,-0.9422

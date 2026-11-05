@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.35,YOUL,Youlife Group Inc.,Consumer Defensive,Education & Training Services,China,19930014,0.246,740550,338531,83278.626,1.148,-0.295,-0.191,0.08019,0.01549,0.01235,0.048309997,-0.00427,130033000,174515008,20.754,1.792,1.649,7441000,-199924496,69855503,54310904,0.19187,0.01395,559255,2.75,0.0150999995,4.1000004,1.1714287,0.0068656313,0.16190368,0.029,14.985,2.0,2.0,2.0,0.0,strong_buy,1,,,,,,,https://ir.youlife.cn,2026-10-31T21:13:22.264716+00:00
+2.72,YOUL,Youlife Group Inc.,Consumer Defensive,Education & Training Services,China,19930014,0.246,740550,338531,83278.626,1.148,-0.295,-0.191,0.08019,0.01549,0.01235,0.048309997,-0.00427,130033000,174515008,20.754,1.792,1.649,7441000,-199924496,69855503,54310904,0.19187,0.01395,559255,2.75,0.0150999995,4.1000004,1.1714287,0.0068656313,0.16190368,0.029,14.985,2.0,2.0,2.0,0.0,strong_buy,1,,,,,,,https://ir.youlife.cn,2026-10-31T21:13:22.264716+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-10,3.09,5.50,2.55,5.00,,,,,,,0,2.5500,1,14188,,,,
 2025-07-11,3.61,4.28,3.06,3.65,,,,,,,0,2.5500,1,3434,,,,
@@ -345,4 +345,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.27,0.30,0.25,0.29,0.28,0.33,0.41,0.66,0.83,0.3934,0,0.2167,1,79,157,-0.0460,-0.0483,0.0023
 2026-10-29,0.27,0.28,0.24,0.26,0.28,0.32,0.41,0.65,0.82,0.3934,0,0.2200,1,40,153,-0.0457,-0.0478,0.0021
 2026-10-30,0.26,0.33,0.20,0.25,0.27,0.31,0.40,0.65,0.81,0.3934,0,0.3800,0,130,155,-0.0461,-0.0475,0.0014
-2026-11-02,0.25,0.27,0.22,0.23,0.27,0.30,0.40,0.64,0.81,0.3934,0,0.3765,0,42,155,-0.0472,-0.0474,0.0002
+2026-11-02,0.25,0.27,0.22,0.23,0.27,0.30,0.40,0.64,0.81,0.3934,0,0.3765,0,43,155,-0.0472,-0.0474,0.0002
+2026-11-03,0.23,0.34,0.20,0.27,0.26,0.29,0.40,0.64,0.80,0.3934,0,0.3730,0,259,157,-0.0442,-0.0468,0.0026
+2026-11-04,0.26,0.27,0.17,0.19,0.26,0.28,0.39,0.63,0.79,0.3934,0,0.3662,0,132,159,-0.0479,-0.0470,-0.0009

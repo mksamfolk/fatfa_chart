@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.79,PHIN,PHINIA Inc.,Consumer Cyclical,Auto Parts,United States,2262583040,62.92,359350,387028,24351801.76,0.004,4.455,4.154,0.22132999,0.09868,0.05222,0.12149999,0.059310004,436000000,1092999936,71.672,1.699,1.152,327000000,260750000,35959682,36340563,0.01953,1.06809,3678693,7.59,0.1545,12.762677,9.207903,0.6251956,1.530714,0.827,5.54,88.2,105.0,68.0,1.6,buy,5,0,0,1,1,2026-10-29,1.134,https://www.phinia.com,2026-10-31T19:16:33.944124+00:00
+59.68,PHIN,PHINIA Inc.,Consumer Cyclical,Auto Parts,United States,2262583040,62.92,359350,387028,24351801.76,0.004,4.455,4.154,0.22132999,0.09868,0.05222,0.12149999,0.059310004,436000000,1092999936,71.672,1.699,1.152,327000000,260750000,35959682,36340563,0.01953,1.06809,3678693,7.59,0.1545,12.762677,9.207903,0.6251956,1.530714,0.827,5.54,88.2,105.0,68.0,1.6,buy,5,0,0,1,1,2026-10-29,1.134,https://www.phinia.com,2026-10-31T19:16:33.944124+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-28,27.82,34.31,27.82,34.31,,,,,,,0,27.8189,1,33,,,,
 2023-06-29,31.53,31.53,28.76,28.76,,,,,,,0,27.8189,1,28,,,,
@@ -869,4 +869,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,57.56,57.78,56.28,57.68,57.48,57.96,62.44,71.45,70.99,60.8793,0,55.4447,1,29815,23888,-1.4345,-1.8307,0.3962
 2026-10-29,60.16,63.97,59.73,61.06,57.81,58.01,62.20,71.40,70.95,55.6758,1,55.5130,1,34481,24119,-1.0571,-1.6760,0.6189
 2026-10-30,61.70,62.93,61.10,62.92,58.31,58.16,62.04,71.38,70.92,55.8600,1,55.8513,1,27106,24233,-0.6009,-1.4610,0.8600
-2026-11-02,64.30,70.79,64.00,70.79,59.72,58.70,62.00,71.41,70.93,59.4945,1,56.1760,1,43659,24697,0.3911,-1.0906,1.4817
+2026-11-02,64.30,70.79,64.00,70.79,59.72,58.70,62.00,71.41,70.93,59.4945,1,56.1760,1,43656,24697,0.3911,-1.0906,1.4817
+2026-11-03,71.06,71.41,68.44,68.92,60.80,59.10,61.96,71.42,70.93,61.9235,1,57.0529,1,44267,25199,1.0147,-0.6695,1.6842
+2026-11-04,71.32,72.47,70.32,71.73,62.26,59.77,61.99,71.44,70.95,63.1262,1,58.2014,1,31195,25510,1.7159,-0.1924,1.9083

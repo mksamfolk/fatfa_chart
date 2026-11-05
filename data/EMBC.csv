@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.29,EMBC,Embecta Corp.,Healthcare,Medical Instruments & Supplies,United States,354122496,6.25,887280,1281254,8007837.5,-0.081,-0.537,-0.536,0.58418,0.23666,0.085889995,,0.12244,214700000,1501699968,,1.68,0.945,174100000,138200000,56659599,54771701,0.020060001,0.91747004,5870247,5.82,0.1246,4.2517004,3.5460992,0.34762195,-0.5779545,1.611,5.83,4.0,5.0,3.0,,none,2,0,0,3,3,2026-11-25,0.831,https://www.embecta.com,2026-10-31T15:47:07.763481+00:00
+85.76,EMBC,Embecta Corp.,Healthcare,Medical Instruments & Supplies,United States,354122496,6.25,887280,1281254,8007837.5,-0.081,-0.537,-0.536,0.58418,0.23666,0.085889995,,0.12244,214700000,1501699968,,1.68,0.945,174100000,138200000,56659599,54771701,0.020060001,0.91747004,5870247,5.82,0.1246,4.2517004,3.5460992,0.34762195,-0.5779545,1.611,5.83,4.0,5.0,3.0,,none,2,0,0,3,3,2026-11-25,0.831,https://www.embecta.com,2026-10-31T15:47:07.763481+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-22,41.52,42.39,40.66,40.66,,,,,,,0,42.3895,0,329,,,,
 2022-03-23,41.52,41.52,36.33,36.33,,,,,,,0,42.3895,0,962,,,,
@@ -1182,4 +1182,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,6.54,6.60,6.37,6.46,6.54,6.22,5.68,5.35,6.63,5.9207,1,6.8950,0,6363,6346,0.3177,0.3195,-0.0018
 2026-10-29,6.52,6.70,6.45,6.56,6.55,6.26,5.72,5.34,6.60,5.9207,1,6.8950,0,7272,6335,0.3031,0.3162,-0.0131
 2026-10-30,6.55,6.58,6.20,6.25,6.55,6.29,5.74,5.32,6.57,5.9207,1,6.8740,0,5193,6171,0.2634,0.3056,-0.0423
-2026-11-02,6.28,6.36,6.13,6.19,6.55,6.30,5.76,5.30,6.54,5.9207,1,6.8333,0,3904,6092,0.2245,0.2894,-0.0649
+2026-11-02,6.28,6.36,6.13,6.19,6.55,6.30,5.76,5.30,6.54,5.9207,1,6.8333,0,4074,6095,0.2245,0.2894,-0.0649
+2026-11-03,6.17,6.28,6.05,6.08,6.51,6.31,5.78,5.28,6.51,5.9207,1,6.7770,0,3467,6004,0.1827,0.2681,-0.0853
+2026-11-04,6.25,6.79,6.20,6.52,6.50,6.34,5.81,5.26,6.48,5.9207,1,6.0500,1,7522,6041,0.1830,0.2511,-0.0681

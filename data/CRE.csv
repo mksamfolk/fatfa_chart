@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-13 09:30:00-05:00,0.08333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.19,CRE,Cre8 Enterprise Limited,Industrials,Specialty Business Services,Hong Kong,4954403,2.46,11110,1119587,2754184.02,0.574,,,0.41916,-0.050040003,0.040310003,0.17207001,0.04236,54709136,29561196,57.47,1.575,1.429,11536345,16085273,1638985,1102703,0.32718,0.010829999,11362,0.07,0.010299999,7.0285716,,0.037839457,0.7557672,-0.154,-3.232,,,,,none,,,,,,,,https://www.cre8corp.com,2026-10-31T15:17:03.049668+00:00
+31.79,CRE,Cre8 Enterprise Limited,Industrials,Specialty Business Services,Hong Kong,4954403,2.46,11110,1119587,2754184.02,0.574,,,0.41916,-0.050040003,0.040310003,0.17207001,0.04236,54709136,29561196,57.47,1.575,1.429,11536345,16085273,1638985,1102703,0.32718,0.010829999,11362,0.07,0.010299999,7.0285716,,0.037839457,0.7557672,-0.154,-3.232,,,,,none,,,,,,,,https://www.cre8corp.com,2026-10-31T15:17:03.049668+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-23,48.00,63.24,45.60,52.80,,,,,,,0,45.6000,1,17340,,,,
 2025-07-24,48.84,102.18,47.40,58.80,,,,,,,0,45.6000,1,26174,,,,
@@ -336,4 +336,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.56,2.56,2.46,2.46,2.57,2.66,2.86,2.83,2.94,3.0819,0,2.7601,0,12,9333,-0.1277,-0.1153,-0.0124
 2026-10-29,2.50,2.56,2.49,2.56,2.56,2.64,2.86,2.83,2.93,3.0697,0,2.7001,0,6,9301,-0.1212,-0.1165,-0.0047
 2026-10-30,2.61,2.67,2.45,2.46,2.55,2.63,2.86,2.82,2.92,3.0697,0,2.4600,1,63,9298,-0.1226,-0.1177,-0.0049
-2026-11-02,2.46,2.50,2.46,2.49,2.54,2.62,2.86,2.80,2.92,2.9926,0,2.4500,1,7,9297,-0.1196,-0.1181,-0.0015
+2026-11-02,2.46,2.50,2.46,2.49,2.54,2.62,2.86,2.80,2.92,2.9926,0,2.4500,1,9,9297,-0.1196,-0.1181,-0.0015
+2026-11-03,2.42,2.65,2.20,2.65,2.54,2.62,2.86,2.79,2.91,2.9926,0,2.6700,0,8519,9466,-0.1035,-0.1152,0.0117
+2026-11-04,2.52,2.63,2.52,2.58,2.53,2.62,2.86,2.78,2.90,2.9926,0,2.6606,0,108,9466,-0.0953,-0.1112,0.0159

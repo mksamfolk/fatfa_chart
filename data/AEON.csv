@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-02-26 09:30:00-05:00,0.013888888888888888\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.54,AEON,AEON Biopharma Inc.,Healthcare,Biotechnology,United States,16189201,0.274,431430,7549048,2068439.1520000002,,,,0.0,0.0,0.0,,-1.4153199,3431000,2775000,,0.544,0.467,-13642000,-7187000,59084675,24010083,0.46737,0.16521999,3250700,0.5,0.0865,,-1.0815932,,-0.46917808,,-0.657,1.82,2.1,1.2,,none,5,1,1,0,0,,0.686,https://www.aeonbiopharma.com,2026-10-31T13:55:09.658564+00:00
+8.34,AEON,AEON Biopharma Inc.,Healthcare,Biotechnology,United States,16189201,0.274,431430,7549048,2068439.1520000002,,,,0.0,0.0,0.0,,-1.4153199,3431000,2775000,,0.544,0.467,-13642000,-7187000,59084675,24010083,0.46737,0.16521999,3250700,0.5,0.0865,,-1.0815932,,-0.46917808,,-0.657,1.82,2.1,1.2,,none,5,1,1,0,0,,0.686,https://www.aeonbiopharma.com,2026-10-31T13:55:09.658564+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-03,724.32,724.32,723.60,724.32,,,,,,,0,723.6000,1,1932,,,,
 2023-01-04,724.68,726.48,724.68,726.48,,,,,,,0,723.6000,1,39,,,,
@@ -975,4 +975,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.25,0.27,0.24,0.26,0.24,0.26,0.26,0.62,0.75,0.1961,1,0.3091,0,192,1895,-0.0087,-0.0112,0.0025
 2026-10-29,0.26,0.31,0.26,0.29,0.25,0.26,0.26,0.62,0.74,0.2052,1,0.2200,1,394,1902,-0.0043,-0.0098,0.0055
 2026-10-30,0.28,0.29,0.27,0.27,0.25,0.26,0.26,0.61,0.74,0.2052,1,0.2218,1,212,1905,-0.0024,-0.0083,0.0059
-2026-11-02,0.28,0.30,0.27,0.27,0.25,0.26,0.26,0.61,0.74,0.2052,1,0.2236,1,88,1865,-0.0010,-0.0068,0.0059
+2026-11-02,0.28,0.30,0.27,0.27,0.25,0.26,0.26,0.61,0.74,0.2052,1,0.2236,1,88,1865,-0.0010,-0.0069,0.0058
+2026-11-03,0.28,0.28,0.21,0.21,0.25,0.25,0.26,0.60,0.73,0.2052,1,0.3100,0,229,1864,-0.0048,-0.0064,0.0017
+2026-11-04,0.22,0.23,0.21,0.21,0.25,0.25,0.26,0.60,0.73,0.2052,1,0.3080,0,1365,1889,-0.0079,-0.0067,-0.0012

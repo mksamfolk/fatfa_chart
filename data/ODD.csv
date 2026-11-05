@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-79.90,ODD,Oddity Tech Ltd.,Consumer Defensive,Household & Personal Products,Israel,999519040,21.67,569130,1093754,23701649.180000003,-0.251,-0.696,-0.738,0.70009005,-0.00698,0.02232,0.05099,-0.00476,193154000,559241024,229.883,3.452,1.814,-19748000,-64760876,34577554,29524360,0.06881,1.10675,4008504,3.91,0.19639999,98.5,19.063456,1.4718615,4.247354,2.061,272.199,16.0625,22.0,9.0,3.36364,hold,8,7,7,0,0,2026-11-11,2.243,https://oddity.com,2026-10-31T18:58:02.812050+00:00
+85.66,ODD,Oddity Tech Ltd.,Consumer Defensive,Household & Personal Products,Israel,999519040,21.67,569130,1093754,23701649.180000003,-0.251,-0.696,-0.738,0.70009005,-0.00698,0.02232,0.05099,-0.00476,193154000,559241024,229.883,3.452,1.814,-19748000,-64760876,34577554,29524360,0.06881,1.10675,4008504,3.91,0.19639999,98.5,19.063456,1.4718615,4.247354,2.061,272.199,16.0625,22.0,9.0,3.36364,hold,8,7,7,0,0,2026-11-11,2.243,https://oddity.com,2026-10-31T18:58:02.812050+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-19,49.10,49.90,47.06,47.53,,,,,,,0,47.0600,1,296497,,,,
 2023-07-20,46.54,53.33,46.28,50.00,,,,,,,0,53.3300,0,126740,,,,
@@ -855,4 +855,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,21.35,22.18,20.57,20.87,22.54,21.36,18.21,15.45,17.64,19.5308,1,23.6065,0,14937,20792,1.1173,1.3836,-0.2663
 2026-10-29,20.91,21.78,20.59,21.69,22.39,21.50,18.38,15.50,17.58,19.5308,1,23.4244,0,18348,20939,1.0210,1.3111,-0.2901
 2026-10-30,21.76,22.03,20.90,21.67,22.32,21.64,18.56,15.56,17.52,19.5308,1,23.2531,0,14144,21020,0.9324,1.2354,-0.3030
-2026-11-02,21.88,22.20,20.76,21.21,22.14,21.72,18.72,15.61,17.45,19.5308,1,23.0921,0,20649,21208,0.8156,1.1514,-0.3358
+2026-11-02,21.88,22.20,20.74,21.21,22.14,21.72,18.72,15.61,17.45,19.5308,1,23.0921,0,21753,21230,0.8156,1.1514,-0.3358
+2026-11-03,21.45,21.65,19.72,20.06,21.79,21.76,18.85,15.66,17.37,19.5308,1,22.9408,0,22110,21494,0.6230,1.0457,-0.4227
+2026-11-04,20.94,22.08,20.76,21.57,21.71,21.88,19.00,15.71,17.30,19.5308,1,22.6831,0,25955,21782,0.5856,0.9537,-0.3681

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-22.94,DERM,Journey Medical Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,United States,145920128,5.17,210190,199984,1033917.28,0.233,,,0.65450996,0.02464,-0.08953,-0.23768999,-0.02095,25643000,25541000,79.532,1.59,1.352,-7492000,-5463500,22224395,15592849,0.31753,0.47944,2987988,14.92,0.1885,,-86.16667,2.1401875,4.453058,2.139,119.916,13.75,15.0,13.0,1.0,strong_buy,4,0,0,0,0,2026-11-11,1.111,https://journeymedicalcorp.com,2026-10-31T15:30:02.335659+00:00
+21.29,DERM,Journey Medical Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,United States,145920128,5.17,210190,199984,1033917.28,0.233,,,0.65450996,0.02464,-0.08953,-0.23768999,-0.02095,25643000,25541000,79.532,1.59,1.352,-7492000,-5463500,22224395,15592849,0.31753,0.47944,2987988,14.92,0.1885,,-86.16667,2.1401875,4.453058,2.139,119.916,13.75,15.0,13.0,1.0,strong_buy,4,0,0,0,0,2026-11-11,1.111,https://journeymedicalcorp.com,2026-10-31T15:30:02.335659+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-12,8.70,10.20,8.23,9.90,,,,,,,0,8.2300,1,38318,,,,
 2021-11-15,9.30,9.62,9.00,9.00,,,,,,,0,8.2300,1,2958,,,,
@@ -1260,4 +1260,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.99,5.12,4.88,5.12,5.04,5.63,6.47,6.26,6.73,6.0257,0,4.7000,1,882,1240,-0.5190,-0.4963,-0.0227
 2026-10-29,5.15,5.47,5.15,5.41,5.07,5.55,6.46,6.24,6.71,6.0257,0,4.7084,1,1118,1240,-0.4694,-0.4909,0.0215
 2026-10-30,5.37,5.37,5.10,5.17,5.09,5.45,6.43,6.22,6.70,6.0257,0,4.7391,1,1215,1253,-0.4444,-0.4816,0.0372
-2026-11-02,5.22,5.36,4.78,4.79,5.05,5.35,6.40,6.20,6.68,6.0257,0,4.7685,1,682,1261,-0.4501,-0.4753,0.0252
+2026-11-02,5.22,5.37,4.78,4.79,5.05,5.35,6.40,6.20,6.68,6.0257,0,4.7685,1,683,1261,-0.4501,-0.4753,0.0252
+2026-11-03,4.81,4.97,4.64,4.64,5.00,5.28,6.36,6.18,6.67,5.8893,0,5.4750,0,1005,1249,-0.4613,-0.4725,0.0112
+2026-11-04,4.61,4.86,4.61,4.73,4.99,5.22,6.33,6.15,6.65,5.7818,0,5.4583,0,557,1239,-0.4577,-0.4696,0.0118

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-61.79,BLZE,Backblaze Inc.,Technology,Software - Infrastructure,United States,469821024,7.59,2208920,2453914,18625207.259999998,0.177,,,0.62289,-0.06679,-0.13069001,-0.24292,-0.0352,49882000,82437000,93.109,0.999,0.873,28843000,33515500,61900000,59379432,0.04541,0.60691,7181992,4.24,0.120699994,,28.11111,3.0058348,5.296581,3.214,163.694,22.83333,25.0,21.0,1.57143,buy,6,0,0,1,1,2026-11-02,1.566,https://www.backblaze.com,2026-10-31T14:39:13.718691+00:00
+78.11,BLZE,Backblaze Inc.,Technology,Software - Infrastructure,United States,469821024,7.59,2208920,2453914,18625207.259999998,0.177,,,0.62289,-0.06679,-0.13069001,-0.24292,-0.0352,49882000,82437000,93.109,0.999,0.873,28843000,33515500,61900000,59379432,0.04541,0.60691,7181992,4.24,0.120699994,,28.11111,3.0058348,5.296581,3.214,163.694,22.83333,25.0,21.0,1.57143,buy,6,0,0,1,1,2026-11-02,1.566,https://www.backblaze.com,2026-10-31T14:39:13.718691+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-11,19.00,22.25,18.23,19.90,,,,,,,0,18.2300,1,150082,,,,
 2021-11-12,20.90,23.01,20.11,22.04,,,,,,,0,18.2300,1,53242,,,,
@@ -1275,5 +1275,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,8.61,9.44,8.60,9.25,9.08,11.28,13.00,10.80,9.14,10.8860,0,10.2836,0,21351,28668,-1.3783,-1.1898,-0.1886
 2026-10-28,9.37,9.40,8.94,9.10,9.02,11.04,12.80,10.83,9.16,10.8860,0,9.9358,0,10811,28057,-1.3303,-1.2179,-0.1125
 2026-10-29,8.77,8.98,8.47,8.73,8.90,10.76,12.64,10.87,9.18,10.8860,0,9.6437,0,15894,26117,-1.3067,-1.2356,-0.0710
-2026-10-30,8.14,8.27,7.36,7.59,8.80,10.42,12.46,10.90,9.20,10.3276,0,9.4000,0,16798,23271,-1.3642,-1.2613,-0.1029
-2026-11-02,7.64,7.64,6.68,7.40,8.61,10.10,12.29,10.92,9.21,9.7071,0,9.0328,0,37187,23185,-1.4089,-1.2909,-0.1180
+2026-10-30,8.14,8.27,7.36,7.59,8.80,10.42,12.46,10.90,9.20,10.3276,0,9.4000,0,16898,23273,-1.3642,-1.2613,-0.1029
+2026-11-02,7.64,7.64,6.68,7.40,8.61,10.10,12.29,10.92,9.21,9.7071,0,9.0328,0,49599,23435,-1.4089,-1.2909,-0.1180
+2026-11-03,9.67,9.67,7.65,8.38,8.53,9.83,12.15,10.96,9.23,9.7071,0,6.6800,1,100324,24366,-1.3497,-1.3026,-0.0470
+2026-11-04,7.96,8.62,7.92,8.40,8.44,9.56,12.01,10.99,9.24,9.7071,0,6.6800,1,32841,24038,-1.2863,-1.2993,0.0131

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-19.57,SLND,Southland Holdings Inc.,Industrials,Engineering & Construction,United States,40282088,0.74,100540,4319876,3196708.2399999998,-0.474,,,-0.43896,-0.77611,-0.67047,,-0.20808001,34878000,267994000,,1.274,1.139,-156304992,-109948496,54435257,14350222,0.73638,0.12526,365226,0.03,0.025,,4.352941,0.06680158,-0.15886647,0.462,-0.912,3.0,3.0,3.0,,none,2,1,1,0,1,2026-11-11,0.344,https://www.southlandholdings.com,2026-10-31T20:02:31.279925+00:00
+12.98,SLND,Southland Holdings Inc.,Industrials,Engineering & Construction,United States,40282088,0.74,100540,4319876,3196708.2399999998,-0.474,,,-0.43896,-0.77611,-0.67047,,-0.20808001,34878000,267994000,,1.274,1.139,-156304992,-109948496,54435257,14350222,0.73638,0.12526,365226,0.03,0.025,,4.352941,0.06680158,-0.15886647,0.462,-0.912,3.0,3.0,3.0,,none,2,1,1,0,1,2026-11-11,0.344,https://www.southlandholdings.com,2026-10-31T20:02:31.279925+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-23,9.73,10.01,9.73,9.75,,,,,,,0,9.7300,1,169,,,,
 2021-12-27,9.75,9.75,9.75,9.75,,,,,,,0,9.7300,1,98,,,,
@@ -1232,4 +1232,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.80,0.82,0.78,0.81,0.77,0.75,0.68,0.90,1.26,0.6146,1,0.9791,0,91,261,0.0284,0.0265,0.0019
 2026-10-29,0.81,0.84,0.79,0.81,0.77,0.76,0.69,0.90,1.25,0.6146,1,0.9742,0,43,253,0.0295,0.0271,0.0024
 2026-10-30,0.80,0.80,0.74,0.74,0.77,0.77,0.69,0.90,1.24,0.6146,1,0.9693,0,46,248,0.0244,0.0266,-0.0021
-2026-11-02,0.75,0.78,0.71,0.74,0.77,0.77,0.69,0.90,1.22,0.6146,1,0.9645,0,170,247,0.0200,0.0253,-0.0052
+2026-11-02,0.75,0.78,0.71,0.74,0.77,0.77,0.69,0.90,1.22,0.6146,1,0.9645,0,171,247,0.0200,0.0253,-0.0052
+2026-11-03,0.72,0.78,0.71,0.75,0.77,0.78,0.70,0.90,1.21,0.6146,1,0.9544,0,74,245,0.0177,0.0238,-0.0060
+2026-11-04,0.76,0.78,0.73,0.75,0.77,0.78,0.70,0.90,1.19,0.6146,1,0.9446,0,70,244,0.0153,0.0221,-0.0067

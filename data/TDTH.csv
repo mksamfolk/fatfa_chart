@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-24 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.17,TDTH,Trident Digital Tech Holdings Ltd,Technology,Information Technology Services,Singapore,75851952,0.695,276970,128868,89563.26,9.501,,,0.82866997,-31.23977,0.0,,-2.99659,217458,14099686,,0.183,0.03,-10949652,-3538821,58931161,,0.024149999,0.0004,34010,0.34,0.0001,,,149.08478,-0.28448626,33.906,-0.867,,,,,none,,,,,,,,https://tridentity.me,2026-10-31T20:23:52.158642+00:00
+2.42,TDTH,Trident Digital Tech Holdings Ltd,Technology,Information Technology Services,Singapore,75851952,0.695,276970,128868,89563.26,9.501,,,0.82866997,-31.23977,0.0,,-2.99659,217458,14099686,,0.183,0.03,-10949652,-3538821,58931161,,0.024149999,0.0004,34010,0.34,0.0001,,,149.08478,-0.28448626,33.906,-0.867,,,,,none,,,,,,,,https://tridentity.me,2026-10-31T20:23:52.158642+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-10,135.00,142.20,114.60,114.90,,,,,,,0,142.2000,0,2601,,,,
 2024-09-11,126.60,134.10,75.00,119.40,,,,,,,0,142.2000,0,5742,,,,
@@ -552,4 +552,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.60,0.65,0.57,0.65,0.73,0.91,1.62,2.67,4.43,0.9842,0,0.7554,0,1138,166,-0.2892,-0.3015,0.0123
 2026-10-29,0.64,0.75,0.62,0.69,0.71,0.86,1.57,2.63,4.37,0.9842,0,0.5590,1,107,166,-0.2750,-0.2962,0.0212
 2026-10-30,0.69,0.70,0.66,0.69,0.70,0.81,1.54,2.60,4.32,0.9842,0,0.5629,1,10,164,-0.2605,-0.2891,0.0286
-2026-11-02,0.71,0.74,0.69,0.71,0.70,0.80,1.51,2.56,4.26,0.9842,0,0.5666,1,9,161,-0.2452,-0.2803,0.0351
+2026-11-02,0.71,0.74,0.67,0.71,0.70,0.80,1.51,2.56,4.26,0.9842,0,0.5666,1,9,161,-0.2452,-0.2803,0.0351
+2026-11-03,0.74,0.80,0.73,0.79,0.70,0.79,1.47,2.52,4.21,0.9842,0,0.5703,1,91,162,-0.2240,-0.2690,0.0450
+2026-11-04,0.77,0.79,0.70,0.73,0.69,0.77,1.44,2.49,4.16,0.9842,0,0.5795,1,7,161,-0.2098,-0.2572,0.0474

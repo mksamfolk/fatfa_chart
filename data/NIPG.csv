@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-06 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.40,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,33130162,4.43,18860,29251,129581.93,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,1467001,0.02826,0.0043,9352,1.1,,,,0.26184356,0.23447837,0.602,-1.588,,,,,none,,,,,,,1.843,https://nipg.com,2026-10-31T18:45:18.293110+00:00
+9.35,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,33130162,4.43,18860,29251,129581.93,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,1467001,0.02826,0.0043,9352,1.1,,,,0.26184356,0.23447837,0.602,-1.588,,,,,none,,,,,,,1.843,https://nipg.com,2026-10-31T18:45:18.293110+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-26,393.30,393.60,241.20,270.60,,,,,,,0,241.2000,1,9676,,,,
 2024-07-29,302.70,502.50,300.00,495.00,,,,,,,0,241.2000,1,116135,,,,
@@ -584,3 +584,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,4.15,4.79,3.71,3.77,5.25,7.82,10.47,14.09,18.04,7.0894,0,6.2379,0,206,388,-2.1747,-1.7789,-0.3958
 2026-10-30,3.63,4.79,3.63,4.43,5.04,7.32,10.37,13.95,17.90,7.0894,0,5.7084,0,311,394,-2.1228,-1.8477,-0.2751
 2026-11-02,4.14,4.55,3.60,4.35,4.81,6.98,10.25,13.80,17.76,7.0894,0,5.2847,0,55,392,-2.0643,-1.8910,-0.1733
+2026-11-03,4.08,4.20,3.54,3.80,4.53,6.60,10.15,13.65,17.61,7.0442,0,4.9457,0,24,390,-2.0388,-1.9206,-0.1183
+2026-11-04,3.70,4.49,3.70,4.16,4.34,6.24,10.05,13.51,17.48,7.0442,0,4.6646,0,58,388,-1.9669,-1.9299,-0.0371

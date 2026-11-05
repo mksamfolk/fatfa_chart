@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.76,ROLR,High Roller Technologies Inc.,Consumer Cyclical,Gambling,United States,39705524,3.6,93830,55132,198475.2,-0.516,,,0.59596,-0.87967,0.1083,0.014630001,-0.17625,18009000,688000,2.322,4.141,3.355,-4658000,-12693500,11029313,4790692,0.53376997,0.03813,50522,1.32,0.0070999996,,-15.652173,2.5400157,1.3363029,1.432,-3.255,17.0,20.0,14.0,,none,2,1,0,0,0,2026-11-12,6.446,https://www.highroller.com,2026-10-31T19:43:56.479612+00:00
+15.55,ROLR,High Roller Technologies Inc.,Consumer Cyclical,Gambling,United States,39705524,3.6,93830,55132,198475.2,-0.516,,,0.59596,-0.87967,0.1083,0.014630001,-0.17625,18009000,688000,2.322,4.141,3.355,-4658000,-12693500,11029313,4790692,0.53376997,0.03813,50522,1.32,0.0070999996,,-15.652173,2.5400157,1.3363029,1.432,-3.255,17.0,20.0,14.0,,none,2,1,0,0,0,2026-11-12,6.446,https://www.highroller.com,2026-10-31T19:43:56.479612+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,7.00,8.25,6.50,7.79,,,,,,,0,6.5000,1,2078,,,,
 2024-10-24,8.25,8.25,7.54,7.90,,,,,,,0,6.5000,1,185,,,,
@@ -521,4 +521,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.25,4.57,4.25,4.25,4.89,4.92,5.60,5.82,5.72,5.5613,0,5.9773,0,199,330,-0.3010,-0.2729,-0.0281
 2026-10-29,4.37,4.38,3.89,3.89,4.79,4.80,5.57,5.82,5.73,5.5613,0,5.9400,0,168,328,-0.3528,-0.2889,-0.0640
 2026-10-30,3.84,3.91,3.60,3.60,4.67,4.67,5.52,5.82,5.74,5.2565,0,5.8580,0,310,330,-0.4125,-0.3136,-0.0989
-2026-11-02,3.68,3.78,3.19,3.41,4.46,4.60,5.47,5.81,5.75,5.0138,0,5.7225,0,142,324,-0.4698,-0.3448,-0.1249
+2026-11-02,3.68,3.78,3.19,3.41,4.46,4.60,5.47,5.81,5.75,5.0138,0,5.7225,0,163,325,-0.4698,-0.3448,-0.1249
+2026-11-03,3.45,3.78,3.45,3.50,4.32,4.55,5.42,5.80,5.76,5.0138,0,5.5199,0,88,320,-0.5021,-0.3763,-0.1258
+2026-11-04,3.48,3.64,3.31,3.31,4.12,4.48,5.36,5.80,5.77,4.9162,0,5.3335,0,75,315,-0.5369,-0.4084,-0.1285

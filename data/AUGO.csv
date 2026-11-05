@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.13,AUGO,Aura Minerals Inc.,Basic Materials,Gold,United States,5551675392,66.22,789490,973470,64463183.4,0.764,22.447,25.72,0.59998,0.51410997,0.23183,1.00164,0.29818,248322000,458009984,100.337,1.065,0.765,413907008,402616128,83836843,40264321,0.51135,0.45577,5595733,5.39,0.1618,18.706215,8.43221,4.310086,12.161616,4.473,7.34,102.96,122.0,83.0,1.7,buy,10,1,1,0,0,2026-11-05,0.324,https://www.auraminerals.com,2026-10-31T14:21:32.467089+00:00
+80.46,AUGO,Aura Minerals Inc.,Basic Materials,Gold,United States,5551675392,66.22,789490,973470,64463183.4,0.764,22.447,25.72,0.59998,0.51410997,0.23183,1.00164,0.29818,248322000,458009984,100.337,1.065,0.765,413907008,402616128,83836843,40264321,0.51135,0.45577,5595733,5.39,0.1618,18.706215,8.43221,4.310086,12.161616,4.473,7.34,102.96,122.0,83.0,1.7,buy,10,1,1,0,0,2026-11-05,0.324,https://www.auraminerals.com,2026-10-31T14:21:32.467089+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-16,23.56,23.85,22.60,23.32,,,,,,,0,23.8493,0,46376,,,,
 2025-07-17,23.32,23.70,22.60,22.60,,,,,,,0,23.8493,0,18979,,,,
@@ -356,4 +356,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,81.23,81.91,78.92,81.82,82.51,83.78,84.88,76.19,74.77,77.0586,1,89.8779,0,41507,84263,-0.8281,-0.1123,-0.7157
 2026-10-29,79.27,79.45,77.23,78.30,81.79,83.75,84.74,76.28,74.89,77.0586,1,88.8058,0,37467,81896,-1.0774,-0.3054,-0.7721
 2026-10-30,74.00,75.64,65.16,66.22,79.69,82.96,84.33,76.27,74.93,87.0210,0,87.7981,0,110389,80966,-2.2242,-0.6891,-1.5350
-2026-11-02,67.62,69.22,65.69,66.24,77.71,82.02,83.91,76.24,74.97,83.4710,0,85.9870,0,52580,80087,-3.0957,-1.1704,-1.9252
+2026-11-02,68.00,69.22,65.68,66.24,77.71,82.02,83.91,76.24,74.97,83.4687,0,85.9870,0,52601,80088,-3.0957,-1.1704,-1.9252
+2026-11-03,66.76,67.21,64.02,64.11,75.70,80.89,83.45,76.14,75.00,80.9884,0,84.3209,0,40402,79314,-3.9131,-1.7190,-2.1941
+2026-11-04,69.18,73.07,68.41,72.39,74.41,80.41,83.09,76.05,75.04,80.9884,0,82.2908,0,70725,79471,-3.8484,-2.1449,-1.7036

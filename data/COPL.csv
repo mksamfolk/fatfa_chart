@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.27,COPL,Copley Acquisition Corp,Financial Services,Shell Companies,Hong Kong,234901024,10.59,35060,25165,266497.35,,0.207,0.626,0.0,0.0,0.0,,,3099,441609,,0.232,0.006,-441721,,16431401,16431316,0.03092,0.89579004,898,0.06,0.0001,40.73077,,,-45.06383,,,,,,,none,,,,,,,,https://www.copleyacquisition.com,2026-10-31T15:13:40.582349+00:00
+57.57,COPL,Copley Acquisition Corp,Financial Services,Shell Companies,Hong Kong,234901024,10.59,35060,25165,266497.35,,0.207,0.626,0.0,0.0,0.0,,,3099,441609,,0.232,0.006,-441721,,16431401,16431316,0.03092,0.89579004,898,0.06,0.0001,40.73077,,,-45.06383,,,,,,,none,,,,,,,,https://www.copleyacquisition.com,2026-10-31T15:13:40.582349+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-02,10.00,10.01,9.99,10.00,,,,,,,0,9.9900,1,4947,,,,
 2025-06-03,10.01,10.01,10.00,10.00,,,,,,,0,9.9900,1,2639,,,,
@@ -372,3 +372,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.59,10.59,10.59,10.59,10.60,10.59,10.53,10.43,10.39,10.5711,1,10.6400,0,1,279,0.0200,0.0226,-0.0026
 2026-10-30,10.59,10.59,10.59,10.59,10.60,10.59,10.54,10.44,10.39,10.5711,1,10.6390,0,,278,0.0183,0.0217,-0.0034
 2026-11-02,10.59,10.60,10.59,10.60,10.60,10.59,10.54,10.44,10.40,10.5711,1,10.6380,0,214,271,0.0176,0.0209,-0.0033
+2026-11-03,10.60,10.60,10.60,10.60,10.60,10.59,10.54,10.44,10.40,10.5739,1,10.6371,0,107,273,0.0168,0.0201,-0.0033
+2026-11-04,10.60,10.67,10.60,10.65,10.60,10.59,10.55,10.44,10.40,10.5905,1,10.5900,1,149,276,0.0200,0.0201,-0.0001

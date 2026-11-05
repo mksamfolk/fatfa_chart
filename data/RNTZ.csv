@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.18,RNTZ,Rantizo,Technology,Computer Hardware,Singapore,235312304,3.9,12340,154304,601785.6,-0.046,,,0.24511999,-0.38219002,-0.22549999,-0.40215,-0.05493,1975000,11904000,164.42,0.741,0.733,-512000,-3104375,59251223,1101678,0.27889,0.00021,15506,0.25,0.00029999999,,,18.172237,1.010101,1.501,-18.688,,,,,none,,,,,,,0.699,https://www.rantizo.com,2026-10-31T19:43:10.156263+00:00
+59.40,RNTZ,Rantizo,Technology,Computer Hardware,Singapore,235312304,3.9,12340,154304,601785.6,-0.046,,,0.24511999,-0.38219002,-0.22549999,-0.40215,-0.05493,1975000,11904000,164.42,0.741,0.733,-512000,-3104375,59251223,1101678,0.27889,0.00021,15506,0.25,0.00029999999,,,18.172237,1.010101,1.501,-18.688,,,,,none,,,,,,,0.699,https://www.rantizo.com,2026-10-31T19:43:10.156263+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-08,45.00,111.09,44.10,60.50,,,,,,,0,111.0900,0,39719,,,,
 2024-10-09,59.80,87.40,37.10,39.30,,,,,,,0,111.0900,0,13349,,,,
@@ -547,4 +547,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.30,4.73,4.07,4.07,4.41,4.65,4.57,4.22,3.90,5.8409,0,6.2201,0,28,1099,-0.0993,-0.0051,-0.0942
 2026-10-29,4.39,4.39,4.11,4.16,4.37,4.63,4.54,4.23,3.90,5.8245,0,6.1313,0,11,203,-0.1126,-0.0266,-0.0860
 2026-10-30,4.07,4.24,3.90,3.90,4.31,4.61,4.50,4.24,3.90,5.5878,0,6.0460,0,60,183,-0.1425,-0.0498,-0.0927
-2026-11-02,3.91,4.22,3.57,3.57,4.21,4.56,4.46,4.25,3.90,5.4582,0,5.9172,0,60,171,-0.1906,-0.0779,-0.1127
+2026-11-02,3.91,4.22,3.57,3.57,4.21,4.56,4.46,4.25,3.90,5.4582,0,5.9172,0,62,171,-0.1906,-0.0779,-0.1127
+2026-11-03,3.61,4.45,3.60,3.62,4.10,4.52,4.44,4.26,3.91,5.4582,0,5.7295,0,59,170,-0.2221,-0.1068,-0.1154
+2026-11-04,3.62,3.97,3.62,3.89,4.03,4.46,4.43,4.27,3.91,5.4078,0,5.5567,0,9,168,-0.2228,-0.1300,-0.0928

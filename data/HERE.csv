@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.66,HERE,Here Group Limited,Consumer Cyclical,Leisure,China,79945384,1.47,14920,17970,26415.899999999998,-0.793,,,0.33051997,-0.46242002,0.10461,-0.28595,-0.07609,609283968,34780000,4.091,6.007,4.296,,,37764932,19230056,0.06988,0.04245,603373,32.0,0.0295,,11.686846,0.13395719,0.824192,-0.462,1.703,3.8133757,5.707987,1.9187648,1.0,strong_buy,2,,,,,2026-12-02,-0.421,https://www.heregroup.com,2026-10-31T16:41:39.351778+00:00
+11.96,HERE,Here Group Limited,Consumer Cyclical,Leisure,China,79945384,1.47,14920,17970,26415.899999999998,-0.793,,,0.33051997,-0.46242002,0.10461,-0.28595,-0.07609,609283968,34780000,4.091,6.007,4.296,,,37764932,19230056,0.06988,0.04245,603373,32.0,0.0295,,11.686846,0.13395719,0.824192,-0.462,1.703,3.8133757,5.707987,1.9187648,1.0,strong_buy,2,,,,,2026-12-02,-0.421,https://www.heregroup.com,2026-10-31T16:41:39.351778+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-25,12.88,12.97,11.28,11.77,,,,,,,0,11.2821,1,14597,,,,
 2023-01-26,11.75,12.63,11.28,11.81,,,,,,,0,11.2821,1,2103,,,,
@@ -960,4 +960,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.43,1.45,1.35,1.38,1.51,1.61,1.77,2.45,3.03,1.6078,0,1.5187,0,29,30,-0.1081,-0.0887,-0.0194
 2026-10-29,1.41,1.53,1.40,1.53,1.50,1.59,1.76,2.43,3.01,1.6078,0,1.3500,1,49,29,-0.0989,-0.0907,-0.0082
 2026-10-30,1.49,1.49,1.39,1.47,1.48,1.57,1.75,2.41,2.99,1.6078,0,1.3500,1,27,29,-0.0953,-0.0916,-0.0037
-2026-11-02,1.45,1.49,1.45,1.48,1.47,1.56,1.74,2.39,2.97,1.6078,0,1.3536,1,13,28,-0.0907,-0.0914,0.0008
+2026-11-02,1.41,1.49,1.41,1.48,1.47,1.56,1.74,2.39,2.97,1.6078,0,1.3536,1,13,28,-0.0907,-0.0914,0.0008
+2026-11-03,1.44,1.45,1.39,1.43,1.46,1.54,1.73,2.37,2.95,1.6078,0,1.3571,1,23,28,-0.0899,-0.0911,0.0012
+2026-11-04,1.42,1.51,1.42,1.51,1.46,1.54,1.73,2.35,2.93,1.6078,0,1.3606,1,40,29,-0.0820,-0.0893,0.0073

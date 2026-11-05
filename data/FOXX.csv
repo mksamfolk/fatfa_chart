@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.93,FOXX,Foxx Development Holdings Inc.,Technology,Consumer Electronics,United States,12876331,1.82,12870,10979,19981.780000000002,-0.499,,,0.03216,-0.97678,-1.00201,,-0.44799998,1473268,37770648,,0.253,0.166,-357994,11630997,7074907,156780,0.83335996,0.11399,8341,1.16,0.0108,,,0.24486963,-0.22555459,0.935,-2.733,,,,,none,,,,,,,-0.337,https://www.foxxusa.com,2026-10-31T16:09:33.671898+00:00
+11.83,FOXX,Foxx Development Holdings Inc.,Technology,Consumer Electronics,United States,12876331,1.82,12870,10979,19981.780000000002,-0.499,,,0.03216,-0.97678,-1.00201,,-0.44799998,1473268,37770648,,0.253,0.166,-357994,11630997,7074907,156780,0.83335996,0.11399,8341,1.16,0.0108,,,0.24486963,-0.22555459,0.935,-2.733,,,,,none,,,,,,,-0.337,https://www.foxxusa.com,2026-10-31T16:09:33.671898+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-08,10.06,10.06,10.03,10.05,,,,,,,0,10.0600,0,41,,,,
 2022-08-09,10.05,10.05,10.01,10.03,,,,,,,0,10.0600,0,17,,,,
@@ -1077,4 +1077,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.00,2.07,1.75,1.87,2.08,2.30,2.52,3.57,3.81,2.5915,0,2.2350,0,15,30,-0.1874,-0.1513,-0.0361
 2026-10-29,1.89,1.89,1.77,1.80,2.02,2.26,2.51,3.55,3.80,2.4775,0,2.1380,0,24,30,-0.1996,-0.1610,-0.0386
 2026-10-30,1.80,2.06,1.75,1.82,1.98,2.22,2.49,3.54,3.79,2.4775,0,2.0740,0,91,31,-0.2053,-0.1698,-0.0355
-2026-11-02,1.83,1.87,1.83,1.87,1.97,2.19,2.48,3.52,3.78,2.4704,0,2.0590,0,7,31,-0.2034,-0.1765,-0.0269
+2026-11-02,1.83,1.95,1.83,1.87,1.97,2.19,2.48,3.52,3.78,2.4775,0,2.0590,0,7,31,-0.2034,-0.1765,-0.0269
+2026-11-03,1.81,2.17,1.81,1.93,1.95,2.16,2.47,3.51,3.77,2.4775,0,1.7500,1,78,32,-0.1948,-0.1802,-0.0146
+2026-11-04,1.87,1.92,1.81,1.88,1.93,2.13,2.45,3.49,3.76,2.4775,0,1.7584,1,6,32,-0.1899,-0.1821,-0.0077

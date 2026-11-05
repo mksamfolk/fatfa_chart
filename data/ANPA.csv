@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.91,ANPA,Rich Sparkle Holdings Limited,Industrials,Specialty Business Services,Hong Kong,21142456,1.4,10330,104839,146774.59999999998,,,,0.0,0.0,0.0,,,,,,,,,,15101755,,0.70919,0.00464,20209,0.68,0.0046,,,,6.8965516,,,,,,,none,,,,,,,,https://anpa.com.hk,2026-10-31T14:09:59.123629+00:00
+1.80,ANPA,Rich Sparkle Holdings Limited,Industrials,Specialty Business Services,Hong Kong,21142456,1.4,10330,104839,146774.59999999998,,,,0.0,0.0,0.0,,,,,,,,,,15101755,,0.70919,0.00464,20209,0.68,0.0046,,,,6.8965516,,,,,,,none,,,,,,,,https://anpa.com.hk,2026-10-31T14:09:59.123629+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-08,3.60,3.81,3.20,3.52,,,,,,,0,3.2000,1,3723,,,,
 2025-07-09,3.60,14.83,3.50,4.76,,,,,,,0,3.2000,1,24489,,,,
@@ -347,4 +347,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.32,1.50,1.32,1.46,1.73,1.88,3.21,5.44,16.14,2.1707,0,2.3134,0,6,484,-0.4992,-0.5219,0.0227
 2026-10-29,1.50,1.53,1.37,1.44,1.68,1.82,3.16,5.39,16.04,2.1707,0,2.2532,0,50,484,-0.4874,-0.5150,0.0276
 2026-10-30,1.37,1.40,1.34,1.40,1.62,1.76,3.11,5.34,15.94,2.0607,0,2.1966,0,8,484,-0.4757,-0.5072,0.0314
-2026-11-02,1.37,1.37,1.15,1.24,1.55,1.72,3.05,5.29,15.84,1.9567,0,2.1434,0,21,483,-0.4740,-0.5005,0.0266
+2026-11-02,1.37,1.37,1.14,1.22,1.54,1.72,3.05,5.29,15.84,1.9547,0,2.1434,0,21,483,-0.4756,-0.5008,0.0253
+2026-11-03,1.19,1.24,1.17,1.22,1.48,1.68,2.99,5.24,15.73,1.8529,0,2.0631,0,8,483,-0.4704,-0.4947,0.0244
+2026-11-04,1.18,1.21,1.17,1.18,1.41,1.65,2.94,5.19,15.63,1.7875,0,1.9893,0,10,483,-0.4638,-0.4886,0.0248

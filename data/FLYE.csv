@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-07 09:30:00-04:00,0.2\n2025-11-04 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.77,FLYE,Fly-E Group Inc.,Consumer Cyclical,Auto Manufacturers,United States,2824027,1.73,71120,4189068,7247087.64,-0.484,,,0.16364999,-1.28679,-0.67876,-0.82246,-0.16506,60281,10123830,74.973,2.024,1.448,-8756040,-6439615,1632386,1555386,0.04717,0.040999997,282852,0.04,0.18190001,,,0.17132656,0.20913926,0.782,-1.806,,,,,none,,,,,,,-0.706,https://www.flyebike.com,2026-10-31T16:06:42.089733+00:00
+16.71,FLYE,Fly-E Group Inc.,Consumer Cyclical,Auto Manufacturers,United States,2824027,1.73,71120,4189068,7247087.64,-0.484,,,0.16364999,-1.28679,-0.67876,-0.82246,-0.16506,60281,10123830,74.973,2.024,1.448,-8756040,-6439615,1632386,1555386,0.04717,0.040999997,282852,0.04,0.18190001,,,0.17132656,0.20913926,0.782,-1.806,,,,,none,,,,,,,-0.706,https://www.flyebike.com,2026-10-31T16:06:42.089733+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-06,550.00,638.00,431.00,478.00,,,,,,,0,638.0000,0,14200,,,,
 2024-06-07,450.00,475.00,360.00,400.00,,,,,,,0,638.0000,0,2280,,,,
@@ -618,3 +618,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,1.81,1.88,1.70,1.83,2.02,2.16,1.92,1.97,2.73,1.6360,1,5.5419,0,27,13149,-0.0265,0.0691,-0.0956
 2026-10-30,1.82,1.83,1.69,1.73,1.93,2.16,1.93,1.97,2.70,1.6360,1,5.4649,0,39,13149,-0.0496,0.0453,-0.0949
 2026-11-02,1.76,1.83,1.74,1.74,1.89,2.18,1.93,1.97,2.68,1.6360,1,5.3894,0,43,13149,-0.0663,0.0230,-0.0893
+2026-11-03,1.79,1.84,1.69,1.72,1.84,2.20,1.93,1.97,2.66,1.6360,1,5.3154,0,25,13149,-0.0802,0.0023,-0.0826
+2026-11-04,1.80,1.80,1.70,1.70,1.81,2.22,1.93,1.97,2.64,1.6360,1,5.2429,0,76,13150,-0.0918,-0.0165,-0.0753

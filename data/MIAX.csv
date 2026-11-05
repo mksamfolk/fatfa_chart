@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.03,MIAX,Miami International Holdings Inc.,Financial Services,Capital Markets,United States,3361163008,33.63,1556470,1601398,53855014.74,0.107,,,0.34946,0.12548,0.19750999,0.2893,0.091809995,725651008,23746000,1.946,3.097,2.671,,,99945378,93931665,0.096,0.74166,7967675,3.95,0.1001,33.63,17.459972,2.236398,2.7542999,1.769,10.933,45.8,60.0,35.0,2.28571,buy,5,0,1,4,4,2026-10-29,,https://www.miaxglobal.com,2026-10-31T18:26:15.431893+00:00
+27.55,MIAX,Miami International Holdings Inc.,Financial Services,Capital Markets,United States,3361163008,33.63,1556470,1601398,53855014.74,0.107,,,0.34946,0.12548,0.19750999,0.2893,0.091809995,725651008,23746000,1.946,3.097,2.671,,,99945378,93931665,0.096,0.74166,7967675,3.95,0.1001,33.63,17.459972,2.236398,2.7542999,1.769,10.933,45.8,60.0,35.0,2.28571,buy,5,0,1,4,4,2026-10-29,,https://www.miaxglobal.com,2026-10-31T18:26:15.431893+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-14,31.95,33.00,28.63,30.74,,,,,,,0,28.6300,1,569216,,,,
 2025-08-15,29.70,33.99,28.99,31.12,,,,,,,0,28.6300,1,90033,,,,
@@ -335,4 +335,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,32.38,32.74,31.64,31.98,32.60,31.94,36.82,41.59,41.48,30.1804,1,35.1500,0,47071,60389,-0.9550,-1.4648,0.5097
 2026-10-29,32.61,32.61,31.17,31.44,32.66,31.82,36.64,41.54,41.43,30.1804,1,35.0798,0,49244,59725,-0.9757,-1.3670,0.3912
 2026-10-30,33.43,34.00,32.13,33.63,32.92,31.85,36.49,41.52,41.38,30.1804,1,34.9236,0,77998,60126,-0.8061,-1.2548,0.4487
-2026-11-02,33.74,35.25,33.85,34.88,33.26,31.88,36.33,41.50,41.34,30.1804,1,31.1750,1,68262,60537,-0.5643,-1.1167,0.5524
+2026-11-02,33.74,35.26,33.74,34.88,33.26,31.88,36.33,41.50,41.34,30.1804,1,31.1750,1,68302,60537,-0.5643,-1.1167,0.5524
+2026-11-03,34.75,34.75,33.22,33.86,33.40,32.03,36.13,41.47,41.29,30.1804,1,31.2566,1,60017,61010,-0.4498,-0.9833,0.5335
+2026-11-04,35.00,35.28,34.13,34.97,33.54,32.27,35.94,41.44,41.25,30.1804,1,31.3366,1,51360,61349,-0.2664,-0.8399,0.5735

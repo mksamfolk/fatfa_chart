@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-10-29 09:30:00-04:00,5.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.84,NVA,Nova Minerals Corp,Basic Materials,Other Industrial Metals & Mining,United States,145520544,3.81,570410,465704,1774332.24,,,,0.0,65843.4,0.0,-1.57764,-0.53493,28943528,3155802,13.393,3.133,3.006,-8799785,-6935922,38194368,17956318,0.00909,0.100710005,2382393,3.86,0.064899996,,,,6.360601,,-5.121,10.0,10.0,10.0,,none,1,,,,,,,https://novamineralscorp.com,2026-10-31T18:52:50.680960+00:00
+42.61,NVA,Nova Minerals Corp,Basic Materials,Other Industrial Metals & Mining,United States,145520544,3.81,570410,465704,1774332.24,,,,0.0,65843.4,0.0,-1.57764,-0.53493,28943528,3155802,13.393,3.133,3.006,-8799785,-6935922,38194368,17956318,0.00909,0.100710005,2382393,3.86,0.064899996,,,,6.360601,,-5.121,10.0,10.0,10.0,,none,1,,,,,,,https://novamineralscorp.com,2026-10-31T18:52:50.680960+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-24,1.20,1.30,0.92,0.96,,,,,,,0,1.3000,0,496,,,,
 2024-07-25,1.06,1.06,0.90,0.96,,,,,,,0,1.3000,0,150,,,,
@@ -584,5 +584,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,3.06,3.22,3.05,3.18,3.23,4.36,4.93,5.59,6.18,3.9914,0,3.6208,0,2326,1827,-0.6666,-0.5355,-0.1310
 2026-10-28,3.28,3.47,3.27,3.45,3.18,4.21,4.91,5.57,6.15,3.9914,0,2.8500,1,1712,1817,-0.6248,-0.5534,-0.0714
 2026-10-29,3.43,3.53,3.30,3.50,3.17,4.08,4.89,5.54,6.14,3.9914,0,2.8624,1,1402,1813,-0.5810,-0.5589,-0.0221
-2026-10-30,3.33,3.93,3.28,3.81,3.24,3.96,4.88,5.52,6.12,3.9914,0,2.8891,1,4700,1895,-0.5153,-0.5502,0.0349
-2026-11-02,4.23,4.73,4.13,4.66,3.39,3.89,4.88,5.51,6.11,3.2147,1,2.9516,1,10325,2093,-0.3902,-0.5182,0.1280
+2026-10-30,3.33,3.93,3.28,3.81,3.24,3.96,4.88,5.52,6.12,3.9914,0,2.8891,1,4755,1897,-0.5153,-0.5502,0.0349
+2026-11-02,4.23,4.73,4.10,4.66,3.39,3.89,4.88,5.51,6.11,3.1997,1,2.9516,1,10407,2096,-0.3902,-0.5182,0.1280
+2026-11-03,4.70,5.23,4.47,5.11,3.58,3.86,4.89,5.50,6.10,3.5283,1,3.0938,1,8619,2251,-0.2518,-0.4649,0.2131
+2026-11-04,5.18,5.36,4.68,5.24,3.79,3.86,4.89,5.49,6.09,3.6264,1,3.3074,1,7586,2376,-0.1301,-0.3980,0.2678

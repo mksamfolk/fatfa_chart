@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.02\n2026-05-29 09:30:00-04:00,0.3333333333333333\n2026-07-06 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.02,BDAI,Biddance AI Systems Inc.,Technology,Information Technology Services,China,30855668,2.375,202890,416657,989560.375,0.653,,,0.102239996,-1.46998,-0.039,-0.00685,-0.031059999,37058256,0,,21.15,20.857,-3769665,-8628345,4799860,795330,0.00565,0.00090000004,50067,0.06,0.0626,0.020862615,,4.394963,0.4703902,-2.237,8.079,,,,,none,,,,,,,1.361,https://www.xmhitek.com,2026-10-31T14:30:43.576941+00:00
+3.92,BDAI,Biddance AI Systems Inc.,Technology,Information Technology Services,China,30855668,2.375,202890,416657,989560.375,0.653,,,0.102239996,-1.46998,-0.039,-0.00685,-0.031059999,37058256,0,,21.15,20.857,-3769665,-8628345,4799860,795330,0.00565,0.00090000004,50067,0.06,0.0626,0.020862615,,4.394963,0.4703902,-2.237,8.079,,,,,none,,,,,,,1.361,https://www.xmhitek.com,2026-10-31T14:30:43.576941+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-31,18750.00,24375.00,18750.00,20850.00,,,,,,,0,18750.0000,1,9674,,,,
 2023-04-03,23137.50,25687.50,22691.25,23662.50,,,,,,,0,18750.0000,1,6507,,,,
@@ -929,4 +929,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.08,2.52,2.02,2.51,2.18,2.39,2.60,28.54,1536.78,2.8530,0,2.8994,0,258,1198,-0.1986,-0.2326,0.0339
 2026-10-29,2.47,2.77,2.38,2.52,2.19,2.38,2.59,27.11,1496.29,2.8530,0,2.8091,0,177,1195,-0.1638,-0.2188,0.0550
 2026-10-30,2.55,2.59,1.86,2.38,2.20,2.38,2.58,25.75,1455.05,2.8530,0,2.7700,0,218,1196,-0.1462,-0.2043,0.0581
-2026-11-02,2.42,2.42,2.09,2.13,2.19,2.36,2.56,24.76,1413.06,2.8530,0,2.7700,0,73,1196,-0.1507,-0.1936,0.0429
+2026-11-02,2.42,2.42,2.09,2.13,2.19,2.36,2.56,24.76,1413.06,2.8530,0,2.7700,0,76,1196,-0.1507,-0.1936,0.0429
+2026-11-03,2.18,2.22,2.04,2.11,2.20,2.34,2.54,23.32,1371.07,2.8530,0,2.6900,0,65,1196,-0.1537,-0.1856,0.0319
+2026-11-04,2.28,2.28,1.89,2.00,2.19,2.32,2.52,22.14,1333.21,2.8530,0,2.6164,0,56,1195,-0.1630,-0.1811,0.0180

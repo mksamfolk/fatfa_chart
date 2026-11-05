@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.18,ZTG,Zenta Group Company Limited,Industrials,Consulting Services,Macau,14748580,0.6123,767100,7289376,4463284.924799999,-0.405,,,0.69491994,-0.61585,-0.23743999,-0.12133,-0.04463,159299,179800,2.609,7.302,1.811,-5598231,-2497595,17719499,4083260,0.13693,0.0019699999,314968,0.04,0.0309,,,6.187082,1.0502572,3.042,-20.09,,,,,none,,,,,,,,https://zenta.com.mo,2026-10-31T21:16:35.274755+00:00
+2.38,ZTG,Zenta Group Company Limited,Industrials,Consulting Services,Macau,14748580,0.6123,767100,7289376,4463284.924799999,-0.405,,,0.69491994,-0.61585,-0.23743999,-0.12133,-0.04463,159299,179800,2.609,7.302,1.811,-5598231,-2497595,17719499,4083260,0.13693,0.0019699999,314968,0.04,0.0309,,,6.187082,1.0502572,3.042,-20.09,,,,,none,,,,,,,,https://zenta.com.mo,2026-10-31T21:16:35.274755+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-09,4.35,4.51,3.05,3.69,,,,,,,0,3.0500,1,9448,,,,
 2025-09-10,3.94,4.15,3.70,3.80,,,,,,,0,3.0500,1,2028,,,,
@@ -303,4 +303,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.64,0.66,0.60,0.62,0.70,0.70,2.58,2.33,2.31,1.1370,0,0.7413,0,86,7330,-0.3442,-0.4578,0.1136
 2026-10-29,0.62,0.66,0.60,0.66,0.70,0.70,2.54,2.32,2.30,1.1043,0,0.7102,0,89,7301,-0.3223,-0.4307,0.1083
 2026-10-30,0.62,0.63,0.60,0.61,0.69,0.69,2.49,2.31,2.29,1.0629,0,0.6841,0,36,7232,-0.3054,-0.4056,0.1002
-2026-11-02,0.60,0.60,0.58,0.59,0.67,0.68,2.41,2.30,2.28,1.0014,0,0.6621,0,56,7154,-0.2907,-0.3826,0.0919
+2026-11-02,0.60,0.60,0.58,0.59,0.67,0.68,2.41,2.30,2.28,1.0013,0,0.6621,0,55,7154,-0.2907,-0.3826,0.0919
+2026-11-03,0.57,0.61,0.55,0.55,0.65,0.67,2.32,2.29,2.27,0.9658,0,0.6437,0,43,7066,-0.2785,-0.3618,0.0833
+2026-11-04,0.56,0.58,0.51,0.51,0.63,0.65,2.22,2.29,2.26,0.9123,0,0.6282,0,53,6865,-0.2690,-0.3432,0.0742

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-78.91,WAY,Waystar Holding Corp.,Healthcare,Health Information Services,United States,5368955904,28.0,1728460,2243167,62808676.0,0.181,0.167,0.27,0.69107,0.2441,0.11179,0.03765,0.03442,193508000,1481720064,37.171,1.847,1.596,292988000,313745376,191748416,139161413,0.02549,1.13109,15512368,6.87,0.093,40.0,14.895597,4.4528418,1.3480982,5.521,15.339,34.09091,44.0,28.0,1.34783,strong_buy,22,1,7,0,4,2026-11-02,0.177,https://www.waystar.com,2026-10-31T20:59:15.424092+00:00
+80.03,WAY,Waystar Holding Corp.,Healthcare,Health Information Services,United States,5368955904,28.0,1728460,2243167,62808676.0,0.181,0.167,0.27,0.69107,0.2441,0.11179,0.03765,0.03442,193508000,1481720064,37.171,1.847,1.596,292988000,313745376,191748416,139161413,0.02549,1.13109,15512368,6.87,0.093,40.0,14.895597,4.4528418,1.3480982,5.521,15.339,34.09091,44.0,28.0,1.34783,strong_buy,22,1,7,0,4,2026-11-02,0.177,https://www.waystar.com,2026-10-31T20:59:15.424092+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-07,21.00,21.50,20.50,20.70,,,,,,,0,20.5000,1,325988,,,,
 2024-06-10,20.70,22.33,20.65,22.10,,,,,,,0,20.5000,1,82910,,,,
@@ -631,4 +631,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,27.58,28.93,27.58,28.92,28.47,27.32,26.04,23.25,23.91,25.7401,1,27.3883,1,41847,55800,0.8984,0.8208,0.0776
 2026-10-29,28.93,29.20,28.10,28.21,28.47,27.47,26.10,23.27,23.90,25.7401,1,27.5800,1,48679,56023,0.8394,0.8245,0.0149
 2026-10-30,28.41,28.58,27.75,28.00,28.53,27.63,26.17,23.30,23.89,25.7401,1,27.5800,1,35389,56115,0.7669,0.8130,-0.0461
-2026-11-02,27.88,29.16,27.64,28.14,28.55,27.71,26.23,23.33,23.88,25.7401,1,29.2500,0,74706,56338,0.7125,0.7929,-0.0803
+2026-11-02,27.88,29.16,27.64,28.14,28.55,27.71,26.23,23.33,23.88,25.7401,1,29.2500,0,82315,56490,0.7125,0.7929,-0.0803
+2026-11-03,25.43,28.12,24.10,27.66,28.43,27.77,26.27,23.36,23.87,25.7401,1,29.2177,0,108195,56947,0.6231,0.7589,-0.1358
+2026-11-04,27.96,29.74,27.94,29.69,28.52,27.97,26.38,23.40,23.87,25.7401,1,24.1000,1,96742,56492,0.7083,0.7488,-0.0405

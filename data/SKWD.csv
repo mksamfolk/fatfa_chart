@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.15,SKWD,Skyward Specialty Insurance Group Inc.,Financial Services,Insurance - Property & Casualty,United States,2621168896,59.04,308440,400001,23616059.04,0.53,0.151,0.263,0.3046,0.14783,0.108389996,0.17337999,0.030989999,611854976,437204992,34.492,1.975,0.899,407303008,-592195264,44396493,40489158,0.08181,0.94287,1844744,4.97,0.0454,13.698377,10.673416,1.5120578,2.067951,1.411,8.263,70.72727,80.0,56.0,,none,11,1,1,2,2,2026-11-05,0.355,https://skywardinsurance.com,2026-10-31T20:00:43.304268+00:00
+79.95,SKWD,Skyward Specialty Insurance Group Inc.,Financial Services,Insurance - Property & Casualty,United States,2621168896,59.04,308440,400001,23616059.04,0.53,0.151,0.263,0.3046,0.14783,0.108389996,0.17337999,0.030989999,611854976,437204992,34.492,1.975,0.899,407303008,-592195264,44396493,40489158,0.08181,0.94287,1844744,4.97,0.0454,13.698377,10.673416,1.5120578,2.067951,1.411,8.263,70.72727,80.0,56.0,,none,11,1,1,2,2,2026-11-05,0.355,https://skywardinsurance.com,2026-10-31T20:00:43.304268+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-13,18.90,19.85,18.21,19.10,,,,,,,0,18.2100,1,79699,,,,
 2023-01-17,18.72,19.59,18.68,19.48,,,,,,,0,18.2100,1,9493,,,,
@@ -982,4 +982,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,58.50,58.76,57.75,57.96,60.43,58.99,57.47,53.51,51.46,57.5153,1,62.2527,0,14420,21187,0.7779,0.9553,-0.1773
 2026-10-29,59.11,59.75,58.24,58.51,60.27,59.17,57.51,53.61,51.52,57.5153,1,61.9826,0,16933,21165,0.6363,0.8915,-0.2552
 2026-10-30,59.79,59.79,58.26,59.04,60.05,59.38,57.58,53.72,51.59,57.5153,1,61.7286,0,15256,20796,0.5603,0.8252,-0.2649
-2026-11-02,59.44,61.41,59.35,61.13,60.10,59.67,57.66,53.84,51.66,57.5153,1,61.4899,0,21435,20630,0.6611,0.7924,-0.1313
+2026-11-02,59.44,61.41,59.35,61.13,60.10,59.67,57.66,53.84,51.66,57.5153,1,61.4899,0,22276,20646,0.6611,0.7924,-0.1313
+2026-11-03,61.13,61.95,60.47,60.89,60.02,59.89,57.72,53.95,51.74,57.5153,1,57.7500,1,15137,20521,0.7135,0.7766,-0.0632
+2026-11-04,62.08,62.39,61.25,62.22,60.10,60.13,57.82,54.08,51.82,57.5153,1,57.8340,1,16986,20586,0.8524,0.7918,0.0606

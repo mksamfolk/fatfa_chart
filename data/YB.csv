@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.93,YB,Yuanbao Inc.,Technology,Software - Application,China,516098240,11.2,15700,30753,344433.6,0.301,0.324,0.356,0.95496005,0.32387,0.29924,0.47207,0.20698999,5136231936,1647000,0.044,2.908,2.884,,,32391451,8060884,0.0375,0.13504,11245,0.26,0.0007,2.5225224,2.2197607,0.10237577,0.89416265,-0.918,-2.819,15.655165,15.655165,15.655165,,none,1,,,,,2026-12-09,,https://www.yuanbaobaoxian.cn,2026-10-31T21:11:54.072491+00:00
+22.72,YB,Yuanbao Inc.,Technology,Software - Application,China,516098240,11.2,15700,30753,344433.6,0.301,0.324,0.356,0.95496005,0.32387,0.29924,0.47207,0.20698999,5136231936,1647000,0.044,2.908,2.884,,,32391451,8060884,0.0375,0.13504,11245,0.26,0.0007,2.5225224,2.2197607,0.10237577,0.89416265,-0.918,-2.819,15.655165,15.655165,15.655165,,none,1,,,,,2026-12-09,,https://www.yuanbaobaoxian.cn,2026-10-31T21:11:54.072491+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-30,19.99,26.76,14.46,14.73,,,,,,,0,26.7600,0,17578,,,,
 2025-05-01,14.03,14.63,13.85,13.85,,,,,,,0,26.7600,0,3309,,,,
@@ -393,4 +393,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,11.33,11.36,11.10,11.10,11.34,11.84,12.94,14.34,15.38,12.5261,0,11.8792,0,165,344,-0.5564,-0.5542,-0.0022
 2026-10-29,11.18,11.54,11.18,11.45,11.37,11.73,12.91,14.30,15.35,12.5261,0,11.7737,0,171,338,-0.5174,-0.5468,0.0295
 2026-10-30,11.31,11.43,11.20,11.20,11.34,11.59,12.86,14.25,15.31,12.5261,0,11.6809,0,36,334,-0.5009,-0.5376,0.0368
-2026-11-02,11.47,11.61,10.96,10.96,11.28,11.50,12.81,14.20,15.27,12.5261,0,11.0000,1,140,335,-0.5013,-0.5304,0.0290
+2026-11-02,11.47,11.61,10.96,10.96,11.28,11.50,12.81,14.20,15.27,12.5261,0,11.0000,1,139,335,-0.5013,-0.5304,0.0290
+2026-11-03,11.02,11.11,10.72,10.86,11.21,11.42,12.75,14.15,15.23,12.2322,0,11.6100,0,451,341,-0.5040,-0.5251,0.0211
+2026-11-04,11.04,11.35,11.00,11.35,11.21,11.39,12.69,14.10,15.20,12.2322,0,11.6100,0,131,340,-0.4612,-0.5123,0.0511

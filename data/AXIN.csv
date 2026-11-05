@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.48,AXIN,Axiom Intelligence Acquisition Corp 1,Financial Services,Shell Companies,United Kingdom,283437024,10.395,20000,55793,579968.235,,2.037,9.081,0.0,0.0,0.0,,,289541,0,,0.456,0.286,-731442,,20600000,16729736,0.01942,1.002,20,0.0,0.0,,,,-33.105095,,,,,,,none,,,,,,,,https://www.aiac1.com,2026-10-31T14:24:38.753751+00:00
+55.80,AXIN,Axiom Intelligence Acquisition Corp 1,Financial Services,Shell Companies,United Kingdom,283437024,10.395,20000,55793,579968.235,,2.037,9.081,0.0,0.0,0.0,,,289541,0,,0.456,0.286,-731442,,20600000,16729736,0.01942,1.002,20,0.0,0.0,,,,-33.105095,,,,,,,none,,,,,,,,https://www.aiac1.com,2026-10-31T14:24:38.753751+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-01,9.93,9.99,9.93,9.97,,,,,,,0,9.9300,1,824,,,,
 2025-08-04,9.97,9.98,9.96,9.97,,,,,,,0,9.9300,1,41,,,,
@@ -329,4 +329,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.38,10.39,10.38,10.39,10.37,10.36,10.33,10.27,10.23,10.3495,1,10.3550,1,568,343,0.0150,0.0141,0.0009
 2026-10-29,10.38,10.39,10.38,10.38,10.37,10.36,10.33,10.27,10.23,10.3495,1,10.3568,1,881,347,0.0146,0.0142,0.0004
 2026-10-30,10.39,10.40,10.39,10.40,10.38,10.37,10.33,10.27,10.23,10.3525,1,10.3585,1,236,343,0.0152,0.0144,0.0008
-2026-11-02,10.39,10.40,10.39,10.40,10.38,10.37,10.33,10.28,10.23,10.3583,1,10.3602,1,38,344,0.0160,0.0147,0.0013
+2026-11-02,10.40,10.40,10.39,10.40,10.38,10.37,10.33,10.28,10.23,10.3583,1,10.3602,1,38,344,0.0160,0.0147,0.0013
+2026-11-03,10.40,10.40,10.40,10.40,10.39,10.37,10.34,10.28,10.24,10.3672,1,10.3618,1,43,336,0.0165,0.0151,0.0014
+2026-11-04,10.40,10.41,10.40,10.41,10.39,10.38,10.34,10.28,10.24,10.3720,1,10.3641,1,202,340,0.0174,0.0155,0.0018

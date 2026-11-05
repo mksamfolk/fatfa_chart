@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QSEA,,Financial Services,Shell Companies,United States,108550824,10.711,2140,7471,80021.88100000001,,0.571,0.439,0.0,0.0,0.0,,,848,425000,,0.037,0.0,-446977,,10134518,7004573,0.36805,0.67499,358,0.03,0.0001,63.005886,,,-22.692797,,,,,,,none,,,,,,,,https://www.quartzsea.com,2026-10-31T19:31:31.092352+00:00
+58.77,QSEA,,Financial Services,Shell Companies,United States,108550824,10.711,2140,7471,80021.88100000001,,0.571,0.439,0.0,0.0,0.0,,,848,425000,,0.037,0.0,-446977,,10134518,7004573,0.36805,0.67499,358,0.03,0.0001,63.005886,,,-22.692797,,,,,,,none,,,,,,,,https://www.quartzsea.com,2026-10-31T19:31:31.092352+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-12,10.00,10.02,9.96,10.00,,,,,,,0,9.9600,1,3268,,,,
 2025-05-13,9.98,9.99,9.97,9.99,,,,,,,0,9.9600,1,34301,,,,
@@ -385,3 +385,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.71,10.71,10.71,10.71,10.71,10.70,10.65,10.52,10.45,10.6618,1,10.6437,1,,66,0.0216,0.0221,-0.0005
 2026-10-29,10.71,10.71,10.71,10.71,10.71,10.70,10.65,10.52,10.46,10.6618,1,10.6501,1,,62,0.0206,0.0218,-0.0012
 2026-10-30,10.71,10.71,10.71,10.71,10.72,10.70,10.66,10.52,10.46,10.6660,1,10.6561,1,,62,0.0195,0.0214,-0.0018
+2026-11-02,10.71,10.71,10.71,10.71,10.72,10.70,10.66,10.52,10.46,10.6705,1,10.6617,1,,62,0.0185,0.0208,-0.0023
+2026-11-03,10.78,10.79,10.73,10.76,10.72,10.70,10.66,10.53,10.46,10.6998,1,10.6670,1,60,47,0.0214,0.0209,0.0005
+2026-11-04,10.76,10.76,10.76,10.76,10.72,10.71,10.66,10.53,10.47,10.7058,1,10.6768,1,,36,0.0234,0.0214,0.0020

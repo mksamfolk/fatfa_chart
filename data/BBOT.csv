@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.62,BBOT,BridgeBio Oncology Therapeutics Inc.,Healthcare,Biotechnology,United States,210056560,2.62,709080,539246,1412824.52,,,,0.0,0.0,0.0,-0.81922996,-0.47105,225711008,2514000,0.778,4.694,4.384,-151280000,-89979872,80174267,35812242,0.27124,0.74263,3846319,6.51,0.1347,,-0.9504289,,0.64964044,,0.066,23.54545,50.0,13.0,1.33333,strong_buy,11,1,1,0,7,2026-11-11,0.652,https://bbotx.com,2026-10-31T14:28:42.630183+00:00
+3.48,BBOT,BridgeBio Oncology Therapeutics Inc.,Healthcare,Biotechnology,United States,210056560,2.62,709080,539246,1412824.52,,,,0.0,0.0,0.0,-0.81922996,-0.47105,225711008,2514000,0.778,4.694,4.384,-151280000,-89979872,80174267,35812242,0.27124,0.74263,3846319,6.51,0.1347,,-0.9504289,,0.64964044,,0.066,23.54545,50.0,13.0,1.33333,strong_buy,11,1,1,0,7,2026-11-11,0.652,https://bbotx.com,2026-10-31T14:28:42.630183+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-09,10.03,10.32,10.03,10.19,,,,,,,0,10.0300,1,49761,,,,
 2024-02-12,10.12,10.83,10.12,10.55,,,,,,,0,10.0300,1,3719,,,,
@@ -698,4 +698,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.67,2.86,2.61,2.80,2.77,3.23,6.62,7.92,8.82,3.5639,0,2.5100,1,1350,2667,-1.1891,-1.3320,0.1429
 2026-10-29,2.81,2.95,2.69,2.70,2.74,3.08,6.51,7.87,8.77,3.5639,0,2.5100,1,964,2623,-1.1291,-1.2914,0.1623
 2026-10-30,2.70,2.74,2.61,2.62,2.72,2.97,6.39,7.82,8.73,3.5321,0,2.5275,1,825,2590,-1.0755,-1.2482,0.1727
-2026-11-02,2.64,2.64,2.30,2.31,2.67,2.90,6.28,7.77,8.68,3.3446,0,2.9480,0,1338,2557,-1.0461,-1.2078,0.1617
+2026-11-02,2.64,2.64,2.30,2.31,2.67,2.90,6.28,7.77,8.68,3.3446,0,2.9480,0,1339,2557,-1.0461,-1.2078,0.1617
+2026-11-03,2.30,2.40,2.29,2.32,2.63,2.84,6.16,7.71,8.63,3.1698,0,2.9349,0,1441,2551,-1.0103,-1.1683,0.1580
+2026-11-04,2.33,2.39,2.22,2.30,2.59,2.79,6.03,7.66,8.58,3.0970,0,2.9091,0,1038,2482,-0.9723,-1.1291,0.1568

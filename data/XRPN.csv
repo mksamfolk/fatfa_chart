@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-73.06,XRPN,Evernorth Holdings Inc.,Financial Services,Capital Markets,United States,944748992,14.2,544420,790068,11218965.6,,,,0.0,0.0,0.0,,,,,,,,,,35138874,,0.08968,1.2242501,1926428,1.31,,142.0,,,-30.869564,,,,,,,none,,,,,,,,https://www.evernorth.xyz,2026-10-31T21:10:36.779516+00:00
+55.60,XRPN,Evernorth Holdings Inc.,Financial Services,Capital Markets,United States,944748992,14.2,544420,790068,11218965.6,,,,0.0,0.0,0.0,,,,,,,,,,35138874,,0.08968,1.2242501,1926428,1.31,,142.0,,,-30.869564,,,,,,,none,,,,,,,,https://www.evernorth.xyz,2026-10-31T21:10:36.779516+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-24,10.00,10.10,10.00,10.04,,,,,,,0,10.0000,1,3599,,,,
 2025-06-25,10.03,10.03,10.03,10.03,,,,,,,0,10.0000,1,3962,,,,
@@ -360,4 +360,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,15.20,15.60,15.12,15.26,15.34,19.45,14.25,11.68,11.32,23.7015,0,27.9927,0,4596,21536,-0.1394,0.4853,-0.6247
 2026-10-29,15.28,15.29,14.66,14.71,15.20,19.02,14.34,11.71,11.34,22.6713,0,26.8733,0,4834,21625,-0.2311,0.3420,-0.5731
 2026-10-30,14.34,14.60,14.01,14.20,15.08,17.76,14.41,11.73,11.36,21.4417,0,25.8434,0,3568,21694,-0.3409,0.2054,-0.5464
-2026-11-02,14.19,14.35,10.79,11.70,14.73,16.41,14.44,11.74,11.37,20.0610,0,24.8959,0,10783,21907,-0.6226,0.0398,-0.6624
+2026-11-02,14.03,14.35,10.79,11.70,14.73,16.41,14.44,11.74,11.37,20.0610,0,24.8959,0,10820,21907,-0.6226,0.0398,-0.6624
+2026-11-03,12.00,12.35,11.50,11.98,14.44,16.05,14.47,11.75,11.38,18.9179,0,23.4854,0,3705,21979,-0.8138,-0.1309,-0.6829
+2026-11-04,11.51,11.99,10.50,10.59,13.92,15.33,14.47,11.75,11.38,17.9879,0,22.2158,0,7753,22129,-1.0652,-0.3178,-0.7475

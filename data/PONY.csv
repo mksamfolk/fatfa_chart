@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.12,PONY,Pony AI Inc.,Technology,Information Technology Services,China,2019254400,4.64,3500220,3877415,17991205.599999998,0.688,,,0.16229999,-1.81507,-1.18472,-0.067719996,-0.12255,1114119040,19025000,1.156,15.943,15.086,-203600000,-271904640,354095390,277585450,0.00215,0.38888,32385357,7.35,0.0924,,-6.9136095,16.149256,1.2768298,7.891,-3.781,19.23125,32.8,10.0,1.29412,strong_buy,16,0,0,1,1,2026-11-18,,https://pony.ai,2026-10-31T19:22:30.113715+00:00
+10.71,PONY,Pony AI Inc.,Technology,Information Technology Services,China,2019254400,4.64,3500220,3877415,17991205.599999998,0.688,,,0.16229999,-1.81507,-1.18472,-0.067719996,-0.12255,1114119040,19025000,1.156,15.943,15.086,-203600000,-271904640,354095390,277585450,0.00215,0.38888,32385357,7.35,0.0924,,-6.9136095,16.149256,1.2768298,7.891,-3.781,19.23125,32.8,10.0,1.29412,strong_buy,16,0,0,1,1,2026-11-18,,https://pony.ai,2026-10-31T19:22:30.113715+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-27,15.00,15.74,11.95,12.00,,,,,,,0,11.9500,1,85865,,,,
 2024-11-29,12.94,13.70,12.50,13.02,,,,,,,0,11.9500,1,30402,,,,
@@ -511,4 +511,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.17,5.17,4.94,5.05,5.08,5.48,6.46,7.92,9.36,5.8502,0,4.7810,1,25039,26269,-0.4419,-0.4576,0.0157
 2026-10-29,4.92,4.96,4.85,4.92,5.05,5.42,6.40,7.88,9.31,5.6806,0,4.7888,1,12431,25647,-0.4347,-0.4530,0.0183
 2026-10-30,4.78,4.80,4.54,4.64,5.02,5.35,6.34,7.85,9.25,5.4796,0,5.1700,0,22066,25036,-0.4465,-0.4517,0.0052
-2026-11-02,4.84,4.90,4.61,4.62,4.98,5.27,6.27,7.83,9.19,5.4796,0,5.1574,0,16578,24787,-0.4522,-0.4518,-0.0004
+2026-11-02,4.84,4.90,4.61,4.62,4.98,5.27,6.27,7.83,9.19,5.4796,0,5.1574,0,16671,24789,-0.4522,-0.4518,-0.0004
+2026-11-03,4.72,4.73,4.48,4.55,4.91,5.19,6.21,7.80,9.13,5.4150,0,5.1451,0,12408,24137,-0.4571,-0.4529,-0.0043
+2026-11-04,4.71,4.89,4.64,4.75,4.88,5.13,6.15,7.77,9.08,5.4150,0,5.1184,0,26074,24041,-0.4398,-0.4503,0.0104

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.49,EE,Excelerate Energy Inc.,Energy,Oil & Gas Midstream,United States,4009898496,35.36,314870,391720,13851219.2,0.61,1.467,1.554,0.37476003,0.24569,0.03227,0.087840006,0.049450003,342448992,1392423936,61.285,1.8,1.636,393504992,-42023752,31380716,30977474,0.01959,1.07459,2437697,5.53,0.1252,24.386206,15.75196,2.725373,1.6170485,2.545,8.237,43.53846,50.0,38.0,1.53846,buy,13,2,3,0,0,2026-11-04,1.251,https://www.excelerateenergy.com,2026-10-31T15:42:52.817397+00:00
+51.26,EE,Excelerate Energy Inc.,Energy,Oil & Gas Midstream,United States,4009898496,35.36,314870,391720,13851219.2,0.61,1.467,1.554,0.37476003,0.24569,0.03227,0.087840006,0.049450003,342448992,1392423936,61.285,1.8,1.636,393504992,-42023752,31380716,30977474,0.01959,1.07459,2437697,5.53,0.1252,24.386206,15.75196,2.725373,1.6170485,2.545,8.237,43.53846,50.0,38.0,1.53846,buy,13,2,3,0,0,2026-11-04,1.251,https://www.excelerateenergy.com,2026-10-31T15:42:52.817397+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-13,27.35,27.64,25.75,26.04,,,,,,,0,25.7500,1,319534,,,,
 2022-04-14,26.56,27.64,26.08,27.16,,,,,,,0,25.7500,1,86971,,,,
@@ -1171,4 +1171,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,33.74,34.06,33.40,33.97,32.78,33.46,35.74,35.58,35.87,35.7898,0,34.7973,0,11339,14344,-0.6519,-0.8051,0.1532
 2026-10-29,34.39,35.22,34.27,35.06,33.04,33.61,35.68,35.59,35.89,35.7898,0,31.4400,1,15903,14305,-0.4527,-0.7346,0.2819
 2026-10-30,34.94,35.71,34.94,35.36,33.25,33.75,35.60,35.61,35.90,35.7898,0,31.5156,1,16029,14120,-0.2676,-0.6412,0.3736
-2026-11-02,35.22,35.38,34.20,34.53,33.44,33.77,35.50,35.62,35.91,35.7898,0,31.6834,1,14364,13885,-0.1857,-0.5501,0.3644
+2026-11-02,35.22,35.47,34.20,34.52,33.44,33.77,35.50,35.62,35.91,35.7898,0,31.6834,1,17015,13938,-0.1865,-0.5503,0.3638
+2026-11-03,34.38,35.68,34.38,35.13,33.68,33.80,35.42,35.63,35.92,35.7898,0,31.8444,1,17238,13967,-0.0722,-0.4547,0.3825
+2026-11-04,35.42,35.42,33.50,34.29,33.81,33.76,35.31,35.64,35.93,35.7898,0,31.9991,1,25306,14159,-0.0488,-0.3735,0.3247

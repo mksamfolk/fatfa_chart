@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.25,NTSK,Netskope Inc.,Technology,Software - Infrastructure,United States,9928681472,24.3,6542680,6323168,153652982.4,0.292,,,0.69918,-0.39131,-0.91842,,-0.37225,1067363008,732232000,467.026,2.011,1.821,-41093000,284923488,267134729,206148862,0.036199998,0.70319,16397984,2.37,0.08229999,,875.36017,12.370091,63.281246,11.953,-13.311,19.36111,28.0,16.0,1.5,strong_buy,18,4,4,3,2,2026-09-02,,https://www.netskope.com,2026-10-31T18:51:53.953399+00:00
+95.05,NTSK,Netskope Inc.,Technology,Software - Infrastructure,United States,9928681472,24.3,6542680,6323168,153652982.4,0.292,,,0.69918,-0.39131,-0.91842,,-0.37225,1067363008,732232000,467.026,2.011,1.821,-41093000,284923488,267134729,206148862,0.036199998,0.70319,16397984,2.37,0.08229999,,875.36017,12.370091,63.281246,11.953,-13.311,19.36111,28.0,16.0,1.5,strong_buy,18,4,4,3,2,2026-09-02,,https://www.netskope.com,2026-10-31T18:51:53.953399+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-18,23.00,24.40,21.88,22.49,,,,,,,0,21.8800,1,762535,,,,
 2025-09-19,24.23,25.58,22.90,24.70,,,,,,,0,21.8800,1,251137,,,,
@@ -311,4 +311,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,26.14,26.71,25.83,26.52,22.49,21.00,17.92,13.41,13.09,22.2178,1,21.9414,1,142808,122934,2.0863,1.5158,0.5705
 2026-10-29,25.00,26.65,24.66,26.19,23.06,21.41,18.15,13.53,13.14,22.2178,1,22.8951,1,190731,125932,2.1936,1.6513,0.5422
 2026-10-30,25.87,26.30,23.73,24.30,23.59,21.74,18.35,13.64,13.18,22.2178,1,23.6581,1,134948,127898,2.1019,1.7414,0.3604
-2026-11-02,24.51,24.50,21.90,22.00,23.85,21.92,18.50,13.74,13.21,28.1106,0,26.7100,0,116116,129030,1.8226,1.7577,0.0649
+2026-11-02,24.51,24.51,21.90,22.00,23.85,21.92,18.50,13.74,13.21,28.1186,0,26.7100,0,117852,129065,1.8226,1.7577,0.0649
+2026-11-03,21.98,22.69,21.42,21.84,24.05,22.03,18.65,13.83,13.25,26.8582,0,26.6138,0,74813,129758,1.5703,1.7202,-0.1499
+2026-11-04,22.15,23.19,21.54,22.77,24.15,22.21,18.84,13.92,13.29,26.8582,0,26.4060,0,112935,131179,1.4289,1.6619,-0.2331

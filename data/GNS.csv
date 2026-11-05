@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-16 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.80,GNS,Genius Group Limited,Consumer Defensive,Education & Training Services,Singapore,23072090,0.1202,2560900,7744668,930909.0936,1.281,,,0.41939998,-1.39031,0.0,-0.54088,-0.14028,1883775,12807392,12.085,0.676,0.552,-3600098,8838279,191947508,146505287,0.13295999,0.0113699995,6924493,0.43,0.0401,,-3.005,1.922568,0.19769737,3.131,-1.672,1.54,1.54,1.54,,none,1,,,,,2026-10-01,9.259,https://www.geniusgroup.net,2026-10-31T16:25:01.820045+00:00
+8.52,GNS,Genius Group Limited,Consumer Defensive,Education & Training Services,Singapore,23072090,0.1202,2560900,7744668,930909.0936,1.281,,,0.41939998,-1.39031,0.0,-0.54088,-0.14028,1883775,12807392,12.085,0.676,0.552,-3600098,8838279,191947508,146505287,0.13295999,0.0113699995,6924493,0.43,0.0401,,-3.005,1.922568,0.19769737,3.131,-1.672,1.54,1.54,1.54,,none,1,,,,,2026-10-01,9.259,https://www.geniusgroup.net,2026-10-31T16:25:01.820045+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-12,166.20,367.50,130.80,305.00,,,,,,,0,130.8000,1,36490,,,,
 2022-04-13,288.60,349.80,185.00,194.30,,,,,,,0,130.8000,1,65784,,,,
@@ -1156,5 +1156,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.13,0.14,0.13,0.13,0.13,0.14,0.16,0.24,0.31,0.1560,0,0.1209,1,487,612,-0.0097,-0.0092,-0.0005
 2026-10-28,0.13,0.14,0.12,0.13,0.13,0.14,0.16,0.24,0.31,0.1560,0,0.1440,0,239,606,-0.0096,-0.0093,-0.0003
 2026-10-29,0.13,0.13,0.13,0.13,0.13,0.14,0.16,0.23,0.31,0.1560,0,0.1435,0,370,607,-0.0094,-0.0093,-0.0001
-2026-10-30,0.13,0.13,0.12,0.12,0.13,0.14,0.15,0.23,0.30,0.1521,0,0.1430,0,385,609,-0.0099,-0.0094,-0.0004
-2026-11-02,0.12,0.12,0.11,0.11,0.13,0.13,0.15,0.23,0.30,0.1477,0,0.1426,0,212,604,-0.0106,-0.0096,-0.0009
+2026-10-30,0.13,0.13,0.12,0.12,0.13,0.14,0.15,0.23,0.30,0.1521,0,0.1430,0,394,609,-0.0099,-0.0094,-0.0004
+2026-11-02,0.12,0.12,0.11,0.11,0.13,0.13,0.15,0.23,0.30,0.1477,0,0.1426,0,230,604,-0.0106,-0.0096,-0.0009
+2026-11-03,0.11,0.12,0.11,0.12,0.13,0.13,0.15,0.23,0.30,0.1429,0,0.1414,0,126,600,-0.0109,-0.0099,-0.0010
+2026-11-04,0.12,0.12,0.12,0.12,0.12,0.13,0.15,0.23,0.30,0.1429,0,0.1397,0,331,586,-0.0111,-0.0101,-0.0010

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.37,QUMS,Quantumsphere Acquisition Corporation,Financial Services,Shell Companies,United States,118629152,10.4,3800,25996,270358.4,,,,0.0,0.0,0.0,,,4901,0,,0.372,0.022,-1148052,,11406650,8279973,0.27411,0.66997004,1444,0.05,0.0002,69.33333,,,-34.782608,,,,,,,none,,,,,,,,,2026-10-31T19:32:21.282553+00:00
+56.95,QUMS,Quantumsphere Acquisition Corporation,Financial Services,Shell Companies,United States,118629152,10.4,3800,25996,270358.4,,,,0.0,0.0,0.0,,,4901,0,,0.372,0.022,-1148052,,11406650,8279973,0.27411,0.66997004,1444,0.05,0.0002,69.33333,,,-34.782608,,,,,,,none,,,,,,,,,2026-10-31T19:32:21.282553+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-30,9.99,9.99,9.95,9.96,,,,,,,0,9.9950,0,165,,,,
 2025-10-01,9.95,9.95,9.94,9.94,,,,,,,0,9.9950,0,5070,,,,
@@ -289,3 +289,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.40,10.40,10.40,10.40,10.39,10.37,10.34,10.23,10.19,10.3909,1,10.3676,1,22,254,0.0188,0.0181,0.0008
 2026-10-30,10.40,10.40,10.40,10.40,10.39,10.38,10.34,10.24,10.19,10.3918,1,10.3709,1,,244,0.0186,0.0182,0.0004
 2026-11-02,10.41,10.42,10.41,10.41,10.39,10.38,10.34,10.24,10.19,10.4016,1,10.3738,1,4191,328,0.0190,0.0183,0.0006
+2026-11-03,10.41,10.41,10.40,10.40,10.39,10.38,10.34,10.24,10.19,10.4191,0,10.3793,1,424,336,0.0183,0.0183,-0.0000
+2026-11-04,10.41,10.41,10.41,10.41,10.40,10.38,10.35,10.24,10.20,10.4191,0,10.3842,1,25,334,0.0183,0.0183,-0.0000

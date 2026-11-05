@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.08,AMRZ,,Basic Materials,Building Materials,Switzerland,22030356480,41.38,4894300,4158785,172090523.3,0.026,0.041,0.026,0.24839,0.20949,0.1021,0.097200006,0.050219998,299000000,6504999936,50.98,1.067,0.622,2012999936,1053875008,532391396,484487052,0.07582,0.5258,12599814,3.47,0.023599999,18.556055,15.433849,1.79649,1.7661119,2.344,9.803,45.56842,55.0,32.0,2.3,buy,19,0,1,2,5,2026-10-28,,https://www.amrize.com,2026-10-31T14:07:52.079188+00:00
+38.88,AMRZ,,Basic Materials,Building Materials,Switzerland,22030356480,41.38,4894300,4158785,172090523.3,0.026,0.041,0.026,0.24839,0.20949,0.1021,0.097200006,0.050219998,299000000,6504999936,50.98,1.067,0.622,2012999936,1053875008,532391396,484487052,0.07582,0.5258,12599814,3.47,0.023599999,18.556055,15.433849,1.79649,1.7661119,2.344,9.803,45.56842,55.0,32.0,2.3,buy,19,0,1,2,5,2026-10-28,,https://www.amrize.com,2026-10-31T14:07:52.079188+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-23,50.72,55.60,47.71,51.35,,,,,,,0,47.7100,1,548385,,,,
 2025-06-24,51.89,54.17,51.47,52.35,,,,,,,0,47.7100,1,560099,,,,
@@ -372,4 +372,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,40.00,40.31,39.49,40.03,38.91,37.80,39.86,48.18,50.39,37.1170,1,37.5589,1,293264,159899,0.0767,-0.4711,0.5478
 2026-10-29,39.16,41.83,38.88,41.61,39.34,38.02,39.79,48.10,50.32,37.1170,1,37.9016,1,428412,165053,0.2915,-0.3186,0.6100
 2026-10-30,41.34,41.78,40.88,41.38,39.70,38.23,39.72,48.02,50.26,38.0053,1,38.4516,1,186107,165534,0.4380,-0.1673,0.6053
-2026-11-02,42.24,43.52,42.19,43.33,40.23,38.53,39.67,47.95,50.21,39.2230,1,38.8800,1,154450,163889,0.7030,0.0068,0.6962
+2026-11-02,42.24,43.52,42.19,43.31,40.23,38.53,39.67,47.95,50.21,39.2230,1,38.8800,1,182032,164441,0.7018,0.0066,0.6953
+2026-11-03,42.86,43.13,41.87,41.97,40.55,38.77,39.61,47.86,50.15,39.2230,1,39.6224,1,185025,165353,0.7936,0.1640,0.6296
+2026-11-04,43.50,44.57,43.33,44.15,41.08,39.15,39.61,47.79,50.11,39.8393,1,40.2460,1,235271,165450,1.0304,0.3373,0.6931

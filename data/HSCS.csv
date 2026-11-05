@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-05-17 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-67.13,HSCS,HeartSciences Inc.,Healthcare,Medical Devices,United States,16033342,3.31,88140,164642,544965.02,0.105,,,0.60876,-1399.5668,0.0,-18.51902,-1.16444,29906,4004523,,0.144,0.005,-6792199,-2244925,4843910,3516318,0.17282,0.030940002,63146,0.26,0.0136,,-1.8914286,3547.9846,-6.3531666,4395.661,-2.102,12.0,12.0,12.0,,none,1,1,1,0,0,,1.775,https://heartsciences.com,2026-10-31T17:04:19.164576+00:00
+77.00,HSCS,HeartSciences Inc.,Healthcare,Medical Devices,United States,16033342,3.31,88140,164642,544965.02,0.105,,,0.60876,-1399.5668,0.0,-18.51902,-1.16444,29906,4004523,,0.144,0.005,-6792199,-2244925,4843910,3516318,0.17282,0.030940002,63146,0.26,0.0136,,-1.8914286,3547.9846,-6.3531666,4395.661,-2.102,12.0,12.0,12.0,,none,1,1,1,0,0,,1.775,https://heartsciences.com,2026-10-31T17:04:19.164576+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-16,318.00,321.00,231.00,242.00,,,,,,,0,321.0000,0,7230,,,,
 2022-06-17,220.00,220.00,201.00,207.80,,,,,,,0,321.0000,0,1065,,,,
@@ -1113,3 +1113,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,3.33,3.61,3.25,3.61,3.25,3.32,2.93,2.47,2.62,4.2303,0,3.7264,0,274,562,0.0762,0.0754,0.0008
 2026-10-30,3.57,3.57,3.29,3.31,3.28,3.31,2.96,2.48,2.62,4.2303,0,3.6762,0,180,563,0.0708,0.0745,-0.0037
 2026-11-02,3.37,3.37,2.97,2.99,3.27,3.24,2.97,2.48,2.62,4.2222,0,3.6290,0,209,565,0.0402,0.0676,-0.0275
+2026-11-03,3.16,3.16,2.88,2.95,3.26,3.20,2.99,2.48,2.62,4.0485,0,3.5847,0,179,566,0.0125,0.0566,-0.0441
+2026-11-04,3.02,3.28,3.02,3.10,3.21,3.18,3.01,2.49,2.62,4.0485,0,3.5283,0,312,567,0.0027,0.0458,-0.0431

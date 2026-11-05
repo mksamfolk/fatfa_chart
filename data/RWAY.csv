@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.23,RWAY,Runway Growth Finance Corp.,Financial Services,Asset Management,United States,273252576,6.52,220380,415465,2708831.8,0.053,0.428,0.619,1.0,0.84244,0.05825,0.0155,0.05538,10831000,693848000,138.058,1.066,0.928,-75366000,30295250,41909904,,0.0113699995,0.46888,3536372,12.04,0.1027,27.166668,4.8648005,2.050522,0.54766905,7.176,,8.03571,11.0,5.5,,none,7,0,4,0,0,2026-11-05,0.63,https://investors.runwaygrowth.com,2026-10-31T19:47:03.746727+00:00
+56.44,RWAY,Runway Growth Finance Corp.,Financial Services,Asset Management,United States,273252576,6.52,220380,415465,2708831.8,0.053,0.428,0.619,1.0,0.84244,0.05825,0.0155,0.05538,10831000,693848000,138.058,1.066,0.928,-75366000,30295250,41909904,,0.0113699995,0.46888,3536372,12.04,0.1027,27.166668,4.8648005,2.050522,0.54766905,7.176,,8.03571,11.0,5.5,,none,7,0,4,0,0,2026-11-05,0.63,https://investors.runwaygrowth.com,2026-10-31T19:47:03.746727+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-21,6.41,6.63,6.19,6.43,,,,,,,0,6.1903,1,34037,,,,
 2021-10-22,6.24,6.48,6.24,6.25,,,,,,,0,6.1903,1,7864,,,,
@@ -1277,3 +1277,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,6.55,6.62,6.52,6.60,6.40,6.41,6.37,6.01,6.42,6.2184,1,6.2398,1,1369,2942,0.0291,0.0201,0.0090
 2026-10-30,6.56,6.57,6.43,6.52,6.41,6.41,6.39,6.01,6.42,6.2184,1,6.2550,1,2155,2945,0.0333,0.0228,0.0106
 2026-11-02,6.51,6.57,6.46,6.48,6.44,6.41,6.42,6.01,6.41,6.2184,1,6.2696,1,1645,2935,0.0330,0.0248,0.0082
+2026-11-03,6.48,6.51,6.38,6.46,6.46,6.41,6.44,6.00,6.41,6.2184,1,6.2836,1,2131,2922,0.0308,0.0260,0.0048
+2026-11-04,6.47,6.66,6.47,6.56,6.49,6.42,6.46,6.00,6.40,6.2184,1,6.2971,1,2209,2930,0.0367,0.0282,0.0086

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-24 09:30:00-05:00,0.05\n2026-05-28 09:30:00-04:00,0.025\n2026-09-25 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.34,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,10294278,10.2,189780,75554,770650.7999999999,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.03949508,,2.1964524,0.033259004,-0.158,-1.046,,,,,none,,,,,,,,https://republicpower.net,2026-10-31T19:44:32.335693+00:00
+98.54,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,10294278,10.2,189780,75554,770650.7999999999,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.03949508,,2.1964524,0.033259004,-0.158,-1.046,,,,,none,,,,,,,,https://republicpower.net,2026-10-31T19:44:32.335693+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-14,3360.00,4152.00,3200.00,3984.00,,,,,,,0,3200.0000,1,24784,,,,
 2025-10-15,3240.00,3432.00,3216.00,3280.00,,,,,,,0,3200.0000,1,6442,,,,
@@ -278,4 +278,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,7.98,8.50,7.63,8.21,7.89,18.49,8.52,15.22,94.50,22.3858,0,37.4390,0,493,1220,-1.0483,1.1270,-2.1752
 2026-10-29,7.51,8.77,7.36,8.45,7.40,18.84,8.65,14.87,93.46,21.3770,0,36.1814,0,222,1223,-1.1861,0.6643,-1.8504
 2026-10-30,8.08,10.80,8.03,10.20,7.73,19.28,8.82,14.59,92.29,21.3770,0,34.9742,0,829,1238,-1.1409,0.3033,-1.4442
-2026-11-02,10.20,12.12,10.20,11.02,8.03,18.08,9.00,14.35,91.23,21.3770,0,33.8152,0,686,1250,-1.0272,0.0372,-1.0644
+2026-11-02,10.20,12.12,10.20,11.02,8.03,18.08,9.00,14.35,91.23,21.3770,0,33.8152,0,690,1251,-1.0272,0.0372,-1.0644
+2026-11-03,11.00,11.94,10.01,10.80,8.40,16.88,9.18,14.13,90.22,21.3770,0,32.7026,0,814,1266,-0.9439,-0.1590,-0.7849
+2026-11-04,10.90,13.49,10.80,12.90,9.02,15.71,9.40,13.91,89.24,21.3770,0,31.6345,0,506,1275,-0.7003,-0.2673,-0.4330

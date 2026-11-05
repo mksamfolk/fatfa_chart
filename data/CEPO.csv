@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.32,CEPO,Cantor Equity Partners I Inc.,Financial Services,Shell Companies,United States,275655008,10.81,53120,193600,2092816.0,,2.337,2.337,0.0,0.0,0.0,,-0.00408,25000,925423,,0.11,0.017,0,-270889,20500000,11536710,0.14634,0.8153,8804,0.05,0.00059999997,,,,-15.2039385,,,,,,,none,,,,,,,,,2026-10-31T14:59:21.203564+00:00
+55.40,CEPO,Cantor Equity Partners I Inc.,Financial Services,Shell Companies,United States,275655008,10.81,53120,193600,2092816.0,,2.337,2.337,0.0,0.0,0.0,,-0.00408,25000,925423,,0.11,0.017,0,-270889,20500000,11536710,0.14634,0.8153,8804,0.05,0.00059999997,,,,-15.2039385,,,,,,,none,,,,,,,,,2026-10-31T14:59:21.203564+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-07,10.04,10.06,10.04,10.05,,,,,,,0,10.0400,1,84503,,,,
 2025-01-08,10.06,10.07,10.05,10.05,,,,,,,0,10.0400,1,4685,,,,
@@ -470,4 +470,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.79,10.80,10.79,10.80,10.78,10.77,10.73,10.61,10.57,10.8013,0,10.3014,1,166,2123,0.0150,0.0157,-0.0007
 2026-10-29,10.84,10.84,10.80,10.80,10.78,10.77,10.74,10.61,10.57,10.8013,0,10.3148,1,1777,2153,0.0156,0.0157,-0.0000
 2026-10-30,10.79,10.81,10.79,10.81,10.79,10.78,10.74,10.62,10.57,10.7701,1,10.3279,1,211,2127,0.0167,0.0159,0.0009
-2026-11-02,10.80,10.82,10.80,10.80,10.79,10.78,10.74,10.62,10.58,10.7701,1,10.3407,1,543,2133,0.0166,0.0160,0.0006
+2026-11-02,10.80,10.82,10.80,10.80,10.79,10.78,10.74,10.62,10.58,10.7701,1,10.3407,1,630,2135,0.0166,0.0160,0.0006
+2026-11-03,10.80,10.81,10.80,10.81,10.79,10.78,10.75,10.62,10.58,10.7701,1,10.3533,1,48,2128,0.0167,0.0162,0.0006
+2026-11-04,10.81,10.81,10.80,10.80,10.79,10.78,10.75,10.62,10.58,10.7701,1,10.3657,1,56,2127,0.0162,0.0162,0.0000

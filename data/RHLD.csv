@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.76,RHLD,Resolute Holdings Management Inc.,Industrials,Specialty Business Services,United States,944294336,120.76,122170,139879,16891788.04,2.957,,,0.42973998,0.12425999,0.042140003,0.023039998,0.0255,117000000,2244300032,73.502,1.351,0.695,105486000,92336496,7819595,2740533,0.55584997,0.55508,580886,4.84,0.0766,21.411348,,0.84345514,-30.017403,5.499,23.894,,,,,none,,,,,,2026-11-02,,https://resoluteholdings.com,2026-10-31T19:39:45.362190+00:00
+44.52,RHLD,Resolute Holdings Management Inc.,Industrials,Specialty Business Services,United States,944294336,120.76,122170,139879,16891788.04,2.957,,,0.42973998,0.12425999,0.042140003,0.023039998,0.0255,117000000,2244300032,73.502,1.351,0.695,105486000,92336496,7819595,2740533,0.55584997,0.55508,580886,4.84,0.0766,21.411348,,0.84345514,-30.017403,5.499,23.894,,,,,none,,,,,,2026-11-02,,https://resoluteholdings.com,2026-10-31T19:39:45.362190+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-24,41.61,69.99,27.50,35.89,,,,,,,0,27.5000,1,4045,,,,
 2025-02-25,34.99,41.20,31.00,32.73,,,,,,,0,27.5000,1,625,,,,
@@ -454,4 +454,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,119.15,125.72,118.55,124.66,117.07,116.78,123.58,129.51,142.61,129.3534,0,110.8543,1,22451,17204,-0.8003,-2.1386,1.3383
 2026-10-29,126.28,129.13,123.38,125.06,117.79,117.13,123.73,129.28,142.13,129.3534,0,111.7462,1,7954,16628,-0.2126,-1.7534,1.5408
 2026-10-30,122.72,125.12,119.76,120.76,118.50,117.38,123.65,129.08,141.70,129.3534,0,113.1366,1,10047,16376,-0.0928,-1.4213,1.3285
-2026-11-02,124.90,127.79,118.67,118.95,119.39,117.54,123.48,128.85,141.17,129.3534,0,114.4158,1,14708,16109,-0.1423,-1.1655,1.0232
+2026-11-02,124.90,127.93,118.67,118.95,119.39,117.54,123.48,128.85,141.17,129.3534,0,114.4158,1,14714,16109,-0.1423,-1.1655,1.0232
+2026-11-03,118.36,121.49,117.35,120.20,120.20,117.77,123.31,128.57,140.74,129.3534,0,115.5926,1,15145,16099,-0.0797,-0.9483,0.8686
+2026-11-04,125.04,131.50,124.92,130.84,121.76,118.56,123.03,128.36,140.32,109.7876,1,116.6753,1,13189,15636,0.8191,-0.5948,1.4139

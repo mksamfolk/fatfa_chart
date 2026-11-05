@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,361368000,16.73,1020,13382,223880.86000000002,0.032,,,0.04575,-0.38554,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00062,1112,0.18,0.0002,,,50.149956,58.70175,49.979,-304.81,,,,,none,,,,,,,,https://www.winfield.hk,2026-10-31T19:16:46.905312+00:00
+37.71,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,361368000,16.73,1020,13382,223880.86000000002,0.032,,,0.04575,-0.38554,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00062,1112,0.18,0.0002,,,50.149956,58.70175,49.979,-304.81,,,,,none,,,,,,,,https://www.winfield.hk,2026-10-31T19:16:46.905312+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-25,7.00,7.37,3.22,3.65,,,,,,,0,7.3700,0,6101,,,,
 2025-04-28,3.13,3.95,2.52,3.00,,,,,,,0,7.3700,0,2643,,,,
@@ -396,3 +396,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,15.65,15.65,15.60,15.60,16.18,17.28,19.67,18.43,18.17,17.8346,0,18.8145,0,11,383,-1.2737,-1.1573,-0.1164
 2026-10-29,16.50,16.50,16.50,16.50,16.20,17.15,19.58,18.43,18.17,17.8346,0,18.3501,0,7,353,-1.1709,-1.1600,-0.0109
 2026-10-30,14.27,16.73,14.27,16.73,16.10,17.02,19.45,18.43,18.17,17.8346,0,17.9321,0,23,324,-1.0586,-1.1397,0.0811
+2026-11-02,16.73,16.73,16.73,16.73,16.06,16.89,19.31,18.44,18.18,17.8346,0,17.5559,0,,304,-0.9586,-1.1035,0.1449
+2026-11-03,17.50,18.66,17.50,18.59,16.25,16.86,19.21,18.46,18.19,14.8416,1,14.1700,1,43,296,-0.7206,-1.0269,0.3064
+2026-11-04,18.59,18.59,18.59,18.59,16.43,16.89,19.15,18.47,18.20,15.6805,1,14.2598,1,,286,-0.5258,-0.9267,0.4009

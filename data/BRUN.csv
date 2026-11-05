@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.18,BRUN,Boost Run Inc.,Technology,Software - Infrastructure,United States,565950592,7.12,4049340,2814923,20042251.76,2.697,,,0.89466006,-0.41441002,-1.73686,,,120166000,436131008,435.717,0.868,0.78,130573000,,49954423,28685428,0.79488,0.39178002,6856265,2.26,,,14.052539,10.0313835,5.464313,15.632,-356.042,42.75,45.0,36.0,,none,4,0,0,0,1,2026-11-16,,https://boostrun.com,2026-10-31T14:44:58.042919+00:00
+9.75,BRUN,Boost Run Inc.,Technology,Software - Infrastructure,United States,565950592,7.12,4049340,2814923,20042251.76,2.697,,,0.89466006,-0.41441002,-1.73686,,,120166000,436131008,435.717,0.868,0.78,130573000,,49954423,28685428,0.79488,0.39178002,6856265,2.26,,,14.052539,10.0313835,5.464313,15.632,-356.042,42.75,45.0,36.0,,none,4,0,0,0,1,2026-11-16,,https://boostrun.com,2026-10-31T14:44:58.042919+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-30,9.90,9.92,9.80,9.89,,,,,,,0,9.8000,1,1558,,,,
 2024-12-31,9.87,9.89,9.87,9.89,,,,,,,0,9.8000,1,30,,,,
@@ -490,4 +490,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.30,8.87,8.17,8.80,8.37,10.88,14.67,20.36,18.08,10.8917,0,6.9400,1,36778,39441,-2.2236,-2.1871,-0.0365
 2026-10-29,8.25,8.63,7.94,8.16,8.18,10.49,14.45,20.35,18.06,10.8917,0,6.9785,1,27444,38727,-2.1381,-2.1773,0.0392
 2026-10-30,7.32,7.73,6.93,7.12,8.00,10.02,14.21,20.32,18.04,10.6364,0,8.8670,0,22615,38619,-2.1298,-2.1678,0.0380
-2026-11-02,7.30,7.42,6.63,6.73,7.80,9.64,13.95,20.30,18.01,10.2373,0,8.8283,0,19435,38167,-2.1300,-2.1602,0.0302
+2026-11-02,7.30,7.42,6.63,6.73,7.80,9.64,13.95,20.30,18.01,10.2373,0,8.8283,0,19500,38168,-2.1300,-2.1602,0.0302
+2026-11-03,6.85,7.77,6.73,7.65,7.72,9.27,13.75,20.28,17.98,10.2373,0,8.7403,0,33830,37781,-2.0326,-2.1347,0.1021
+2026-11-04,7.22,7.59,6.61,6.64,7.54,8.91,13.51,20.25,17.95,10.2373,0,8.6559,0,21538,37689,-2.0132,-2.1104,0.0972

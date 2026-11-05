@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-22 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-68.06,MF,MindForge Inc.,Communication Services,Advertising Agencies,China,53173352,8.35,114700,182445,1523415.75,-0.741,,,-0.00543,-1.3669901,-2.2288,-1.67187,-0.30512,12333758,2771,0.013,1.14,0.697,-2158972,14986652,6061683,2406216,0.00046999997,0.00865,2071,0.03,0.0004,,,3.5790513,1.4752651,1.215,-1.255,,,,,none,,,,,,,,https://www.u-bx.com,2026-10-31T18:24:06.220343+00:00
+40.36,MF,MindForge Inc.,Communication Services,Advertising Agencies,China,53173352,8.35,114700,182445,1523415.75,-0.741,,,-0.00543,-1.3669901,-2.2288,-1.67187,-0.30512,12333758,2771,0.013,1.14,0.697,-2158972,14986652,6061683,2406216,0.00046999997,0.00865,2071,0.03,0.0004,,,3.5790513,1.4752651,1.215,-1.255,,,,,none,,,,,,,,https://www.u-bx.com,2026-10-31T18:24:06.220343+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-28,125.00,135.00,100.00,102.50,,,,,,,0,100.0000,1,7005,,,,
 2024-04-01,101.50,123.50,101.50,114.00,,,,,,,0,100.0000,1,4146,,,,
@@ -665,4 +665,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,8.14,8.90,5.46,5.84,9.96,10.36,11.98,16.26,24.19,14.8208,0,11.6800,0,510,2764,-1.0360,-0.7199,-0.3161
 2026-10-29,5.78,7.84,5.37,6.54,9.53,10.07,11.97,16.01,23.98,14.2228,0,11.6800,0,1210,2763,-1.2046,-0.8168,-0.3877
 2026-10-30,7.00,9.41,7.00,8.35,9.26,9.80,11.96,15.77,23.77,14.2228,0,10.6704,0,1720,2638,-1.1785,-0.8892,-0.2893
-2026-11-02,8.52,11.49,7.92,11.49,9.36,9.66,12.01,15.54,23.58,14.2228,0,5.3700,1,893,2629,-0.8942,-0.8902,-0.0040
+2026-11-02,8.52,11.60,7.92,11.49,9.36,9.66,12.01,15.54,23.58,14.2228,0,5.3700,1,901,2629,-0.8942,-0.8902,-0.0040
+2026-11-03,11.25,11.25,9.99,10.43,9.27,9.61,12.03,15.32,23.38,14.2228,0,5.4946,1,554,2622,-0.7458,-0.8613,0.1155
+2026-11-04,10.88,11.27,7.86,8.30,9.11,9.47,12.01,15.08,23.17,14.2228,0,5.6167,1,440,2601,-0.7909,-0.8472,0.0563

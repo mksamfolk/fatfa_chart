@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-06-21 09:30:00-04:00,1.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.13,DOUG,Douglas Elliman Inc.,Real Estate,Real Estate Services,United States,140880224,1.55,665480,518954,804378.7000000001,0.045,,,1.0,-0.01143,0.024719998,0.15898,-0.02773,106616000,98528000,59.013,1.525,1.365,-16643000,29060750,90890473,73912133,0.18502001,0.53034997,2656439,4.61,0.0323,5.3448277,17.222221,0.14003052,0.843767,0.132,-10.657,,,,,none,,,,,,2026-11-04,1.914,https://www.elliman.com,2026-10-31T15:35:10.719382+00:00
+29.36,DOUG,Douglas Elliman Inc.,Real Estate,Real Estate Services,United States,140880224,1.55,665480,518954,804378.7000000001,0.045,,,1.0,-0.01143,0.024719998,0.15898,-0.02773,106616000,98528000,59.013,1.525,1.365,-16643000,29060750,90890473,73912133,0.18502001,0.53034997,2656439,4.61,0.0323,5.3448277,17.222221,0.14003052,0.843767,0.132,-10.657,,,,,none,,,,,,2026-11-04,1.914,https://www.elliman.com,2026-10-31T15:35:10.719382+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-30,9.00,11.40,9.00,10.92,,,,,,,0,9.0017,1,72859,,,,
 2021-12-31,10.80,10.86,10.05,10.35,,,,,,,0,9.0017,1,18398,,,,
@@ -1228,4 +1228,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.57,1.60,1.55,1.56,1.51,1.54,1.73,1.79,1.97,1.6396,0,1.4274,1,687,817,-0.0520,-0.0749,0.0229
 2026-10-29,1.59,1.61,1.55,1.60,1.52,1.53,1.72,1.78,1.96,1.6396,0,1.4434,1,520,817,-0.0437,-0.0687,0.0249
 2026-10-30,1.59,1.60,1.54,1.55,1.53,1.52,1.72,1.78,1.96,1.6396,0,1.4585,1,744,826,-0.0408,-0.0631,0.0223
-2026-11-02,1.58,1.65,1.56,1.60,1.55,1.52,1.72,1.77,1.95,1.6396,0,1.4727,1,740,833,-0.0340,-0.0573,0.0233
+2026-11-02,1.58,1.65,1.56,1.60,1.55,1.52,1.72,1.77,1.95,1.6396,0,1.4727,1,796,834,-0.0340,-0.0573,0.0233
+2026-11-03,1.60,1.61,1.55,1.58,1.56,1.53,1.71,1.77,1.95,1.6396,0,1.4860,1,613,839,-0.0299,-0.0518,0.0219
+2026-11-04,1.60,1.74,1.60,1.67,1.59,1.53,1.71,1.76,1.94,1.4187,1,1.4986,1,836,848,-0.0192,-0.0453,0.0261

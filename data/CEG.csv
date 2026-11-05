@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.45,CEG,Constellation Energy Corporation,Utilities,Utilities - Independent Power Producers,United States,92963176448,262.38,3120860,3237431,849437145.78,0.23,-0.468,-0.389,0.22107,0.086619996,0.110810004,0.15055001,0.03888,697000000,24700000256,76.419,1.455,0.471,4206000128,-6625124864,354307379,353145251,0.0033500001,0.8289,11892121,2.96,0.0375,25.648096,19.61529,2.972919,2.9153657,3.752,14.752,339.68,399.0,238.0,1.56,buy,23,1,1,0,1,2026-11-09,1.129,https://www.constellationenergy.com,2026-10-31T14:58:34.043113+00:00
+34.78,CEG,Constellation Energy Corporation,Utilities,Utilities - Independent Power Producers,United States,92963176448,262.38,3120860,3237431,849437145.78,0.23,-0.468,-0.389,0.22107,0.086619996,0.110810004,0.15055001,0.03888,697000000,24700000256,76.419,1.455,0.471,4206000128,-6625124864,354307379,353145251,0.0033500001,0.8289,11892121,2.96,0.0375,25.648096,19.61529,2.972919,2.9153657,3.752,14.752,339.68,399.0,238.0,1.56,buy,23,1,1,0,1,2026-11-09,1.129,https://www.constellationenergy.com,2026-10-31T14:58:34.043113+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-19,36.58,41.39,36.58,40.43,,,,,,,0,36.5795,1,5456,,,,
 2022-01-20,39.42,46.56,39.42,43.32,,,,,,,0,36.5795,1,6903,,,,
@@ -1230,4 +1230,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,261.12,261.88,254.45,258.08,261.73,272.69,273.04,274.26,280.13,290.6327,0,283.3958,0,658156,916201,-4.5913,-2.0646,-2.5266
 2026-10-29,258.29,266.89,257.00,264.58,260.69,272.97,272.85,274.06,279.79,290.6327,0,279.7762,0,720637,917279,-4.1900,-2.4897,-1.7003
 2026-10-30,260.00,267.00,258.57,262.38,259.79,273.21,272.64,273.81,279.46,290.6327,0,276.5186,0,845283,922309,-4.0034,-2.7925,-1.2110
-2026-11-02,264.18,268.64,256.87,257.25,259.20,272.70,272.32,273.54,279.05,290.6327,0,273.5867,0,754297,926294,-4.2208,-3.0781,-1.1427
+2026-11-02,264.18,268.64,256.86,257.25,259.20,272.70,272.32,273.54,279.05,290.6327,0,273.5867,0,868708,928582,-4.2208,-3.0781,-1.1427
+2026-11-03,260.50,267.67,259.61,263.40,259.65,270.85,272.12,273.44,278.83,290.6327,0,270.9480,0,758513,929406,-3.8525,-3.2330,-0.6195
+2026-11-04,248.78,250.85,237.81,245.72,257.15,268.15,271.47,273.22,278.59,283.1917,0,268.6400,0,1668021,948770,-4.9303,-3.5725,-1.3579

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.52,SZZL,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,United States,328925376,10.52,35310,61953,651745.5599999999,,-0.475,-0.122,0.0,0.0,0.0,,,340147,0,,1.127,0.865,-743613,,23600000,19699876,0.06903,1.08497,522,0.01,0.0,42.08,,,-30.143267,,,,,,,none,,,,,,,,https://www.sizzlespacII.com,2026-10-31T20:20:13.705031+00:00
+55.94,SZZL,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,United States,328925376,10.52,35310,61953,651745.5599999999,,-0.475,-0.122,0.0,0.0,0.0,,,340147,0,,1.127,0.865,-743613,,23600000,19699876,0.06903,1.08497,522,0.01,0.0,42.08,,,-30.143267,,,,,,,none,,,,,,,,https://www.sizzlespacII.com,2026-10-31T20:20:13.705031+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-23,9.86,9.93,9.86,9.91,,,,,,,0,9.8600,1,14389,,,,
 2025-05-27,9.90,9.91,9.90,9.90,,,,,,,0,9.8600,1,4083,,,,
@@ -376,4 +376,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.52,10.53,10.52,10.53,10.51,10.50,10.46,10.36,10.33,10.4939,1,10.4817,1,23,955,0.0184,0.0183,0.0001
 2026-10-29,10.53,10.53,10.53,10.53,10.51,10.50,10.46,10.37,10.33,10.5001,1,10.4864,1,,952,0.0186,0.0184,0.0003
 2026-10-30,10.52,10.52,10.52,10.52,10.52,10.51,10.46,10.37,10.33,10.5001,1,10.4907,1,72,952,0.0178,0.0183,-0.0004
-2026-11-02,10.53,10.53,10.52,10.53,10.52,10.51,10.46,10.37,10.34,10.5001,1,10.4946,1,405,780,0.0178,0.0182,-0.0004
+2026-11-02,10.53,10.53,10.52,10.53,10.52,10.51,10.46,10.37,10.34,10.5001,1,10.4946,1,406,780,0.0178,0.0182,-0.0004
+2026-11-03,10.53,10.53,10.53,10.53,10.52,10.51,10.47,10.37,10.34,10.5017,1,10.4982,1,,774,0.0176,0.0180,-0.0005
+2026-11-04,10.53,10.53,10.53,10.53,10.52,10.51,10.47,10.37,10.34,10.5056,1,10.5016,1,60,760,0.0176,0.0179,-0.0004

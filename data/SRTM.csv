@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-07 09:30:00-04:00,0.0125\n2026-01-26 09:30:00-05:00,0.1\n2026-04-20 09:30:00-04:00,0.1\n2026-09-08 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.17,SRTM,Stratum Holdings Corp.,Real Estate,Real Estate Services,United States,148178,0.1754,12772650,2409662,422654.7148,-0.256,,,0.11729,-0.11094,-0.46381,,-0.29768,2282397,22862312,,1.35,0.282,-5306504,-11030788,844806,552120,0.01784,0.00349,9320,0.06,0.0164,,,0.0023797099,-0.0069691674,0.344,-2.144,,,,,none,,,,,,,1.216,https://www.larosaholdings.com,2026-10-31T20:11:39.111908+00:00
+0.23,SRTM,Stratum Holdings Corp.,Real Estate,Real Estate Services,United States,148178,0.1754,12772650,2409662,422654.7148,-0.256,,,0.11729,-0.11094,-0.46381,,-0.29768,2282397,22862312,,1.35,0.282,-5306504,-11030788,844806,552120,0.01784,0.00349,9320,0.06,0.0164,,,0.0023797099,-0.0069691674,0.344,-2.144,,,,,none,,,,,,,1.216,https://www.larosaholdings.com,2026-10-31T20:11:39.111908+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-09,40000.00,40000.00,40000.00,40000.00,,,,,,,0,40000.0000,1,,,,,
 2023-10-10,42000.00,44240.00,25120.00,28000.00,,,,,,,0,44240.0000,0,3108,,,,
@@ -797,5 +797,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.25,0.25,0.20,0.25,0.58,1.04,2.11,8.35,38.34,0.7496,0,0.6515,0,727,1412,-0.5835,-0.5691,-0.0144
 2026-10-28,0.21,0.22,0.19,0.22,0.50,0.93,2.05,8.08,36.08,0.6937,0,0.6500,0,214,1415,-0.5773,-0.5707,-0.0066
 2026-10-29,0.19,0.20,0.15,0.20,0.43,0.85,1.98,7.83,34.20,0.6322,0,0.5584,0,184,1418,-0.5678,-0.5701,0.0024
-2026-10-30,0.19,0.20,0.17,0.17,0.37,0.78,1.92,7.62,32.41,0.6059,0,0.4771,0,101,1419,-0.5555,-0.5672,0.0117
-2026-11-02,0.18,0.19,0.16,0.19,0.33,0.71,1.85,7.40,30.67,0.5658,0,0.4121,0,147,1421,-0.5383,-0.5614,0.0231
+2026-10-30,0.19,0.20,0.17,0.17,0.37,0.78,1.92,7.62,32.41,0.6059,0,0.4771,0,111,1419,-0.5555,-0.5672,0.0117
+2026-11-02,0.18,0.19,0.16,0.19,0.33,0.71,1.85,7.40,30.67,0.5657,0,0.4121,0,174,1421,-0.5383,-0.5614,0.0231
+2026-11-03,0.19,0.20,0.17,0.18,0.28,0.65,1.78,7.17,28.99,0.5433,0,0.3601,0,114,1390,-0.5192,-0.5530,0.0338
+2026-11-04,0.18,0.19,0.17,0.19,0.26,0.58,1.72,6.94,27.39,0.5049,0,0.3185,0,64,1381,-0.4983,-0.5420,0.0438

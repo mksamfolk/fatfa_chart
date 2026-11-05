@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-02 09:30:00-05:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.13,XHLD,TEN Holdings Inc.,Communication Services,Broadcasting,United States,9464155,0.79,9097600,8879698,7014961.42,-0.345,,,0.74832,-4.09439,0.0,-3.0276802,-0.80019,5833000,525000,8.203,3.01,2.305,-5184000,-5916125,11979943,10265148,0.13071,0.047810003,1080676,0.1,0.104499996,,0.4787879,3.340683,1.4794009,1.466,-0.317,,,,,none,,,,,,,,https://www.tenholdingsinc.com,2026-10-31T21:08:59.968208+00:00
+5.81,XHLD,TEN Holdings Inc.,Communication Services,Broadcasting,United States,9464155,0.79,9097600,8879698,7014961.42,-0.345,,,0.74832,-4.09439,0.0,-3.0276802,-0.80019,5833000,525000,8.203,3.01,2.305,-5184000,-5916125,11979943,10265148,0.13071,0.047810003,1080676,0.1,0.104499996,,0.4787879,3.340683,1.4794009,1.466,-0.317,,,,,none,,,,,,,,https://www.tenholdingsinc.com,2026-10-31T21:08:59.968208+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-13,90.00,128.10,90.00,102.00,,,,,,,0,128.1000,0,12654,,,,
 2025-02-14,105.45,105.45,21.75,31.50,,,,,,,0,128.1000,0,11064,,,,
@@ -445,4 +445,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.94,1.06,0.88,0.97,0.75,1.74,4.28,2.43,2.28,2.5558,0,8.3086,0,2402,24073,-1.2747,-1.3554,0.0806
 2026-10-29,0.95,1.02,0.90,1.00,0.80,1.25,4.28,2.43,2.27,2.4230,0,7.9915,0,2918,24126,-1.1970,-1.3237,0.1267
 2026-10-30,1.00,1.00,0.75,0.79,0.82,0.66,4.27,2.42,2.27,2.2657,0,7.6870,0,694,24138,-1.1392,-1.2868,0.1476
-2026-11-02,0.80,0.90,0.80,0.81,0.85,0.68,4.27,2.42,2.27,2.1337,0,7.3947,0,628,24146,-1.0789,-1.2452,0.1663
+2026-11-02,0.80,0.90,0.80,0.81,0.85,0.68,4.27,2.42,2.27,2.1337,0,7.3947,0,636,24146,-1.0789,-1.2452,0.1663
+2026-11-03,0.82,0.87,0.72,0.78,0.87,0.69,4.27,2.41,2.26,1.9954,0,7.1141,0,362,24150,-1.0222,-1.2006,0.1784
+2026-11-04,0.72,0.79,0.62,0.63,0.84,0.69,4.26,2.41,2.26,1.8339,0,6.8448,0,178,24151,-0.9785,-1.1562,0.1777

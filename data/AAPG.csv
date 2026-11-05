@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.49,AAPG,,Healthcare,Biotechnology,China,1350077312,14.4565,8330,7090,102496.585,0.293,,,0.9393,-2.48914,-2.28543,-2.36629,-0.28044,1895582976,2094571008,370.175,1.218,1.089,-1323240960,-956540352,93388942,71533021,0.0,0.00037,18161,2.74,0.0002,,-22.343204,2.1008463,16.187687,2.423,-1.166,44.5,55.0,33.0,,none,10,0,0,1,1,2026-08-19,0.661,https://www.ascentage.cn,2026-10-31T13:47:45.062227+00:00
+19.40,AAPG,,Healthcare,Biotechnology,China,1350077312,14.4565,8330,7090,102496.585,0.293,,,0.9393,-2.48914,-2.28543,-2.36629,-0.28044,1895582976,2094571008,370.175,1.218,1.089,-1323240960,-956540352,93388942,71533021,0.0,0.00037,18161,2.74,0.0002,,-22.343204,2.1008463,16.187687,2.423,-1.166,44.5,55.0,33.0,,none,10,0,0,1,1,2026-08-19,0.661,https://www.ascentage.cn,2026-10-31T13:47:45.062227+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-24,17.25,18.00,16.50,17.38,,,,,,,0,16.5000,1,38537,,,,
 2025-01-27,17.39,17.50,17.00,17.25,,,,,,,0,16.5000,1,5448,,,,
@@ -459,4 +459,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,15.25,15.25,14.88,14.98,15.33,15.31,16.75,19.69,21.16,16.8785,0,16.5098,0,70,115,-0.4598,-0.5234,0.0636
 2026-10-29,14.71,14.90,14.71,14.88,15.35,15.22,16.68,19.64,21.09,16.7687,0,16.4704,0,168,117,-0.4615,-0.5110,0.0495
 2026-10-30,14.45,14.67,13.99,14.46,15.26,15.14,16.61,19.58,21.03,16.3643,0,16.4318,0,230,121,-0.4914,-0.5071,0.0157
-2026-11-02,14.23,14.23,13.46,13.56,15.08,15.09,16.53,19.52,20.96,15.9734,0,16.3341,0,74,121,-0.5808,-0.5218,-0.0589
+2026-11-02,14.23,14.23,13.46,13.56,15.08,15.09,16.53,19.52,20.96,15.9735,0,16.3341,0,75,121,-0.5808,-0.5218,-0.0589
+2026-11-03,13.78,13.78,13.48,13.48,14.84,14.96,16.46,19.44,20.89,15.6370,0,16.1617,0,24,117,-0.6505,-0.5476,-0.1030
+2026-11-04,14.44,15.50,14.44,15.07,14.71,14.96,16.43,19.38,20.82,15.6370,0,15.9996,0,297,121,-0.5710,-0.5523,-0.0187

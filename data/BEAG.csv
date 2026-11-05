@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.28,BEAG,Bold Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,168284704,10.57,99840,375160,3965441.2,,-0.604,-0.604,0.0,0.0,0.0,,-0.00503,311166,542975,,0.291,0.227,-747870,23968,15920974,21875310,0.37387002,1.7094501,255700,0.26,0.0098,42.28,,,-34.884487,,,,,,,none,,,,,,,,https://bold.eaglesinvest.com,2026-10-31T14:31:31.218910+00:00
+50.52,BEAG,Bold Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,168284704,10.57,99840,375160,3965441.2,,-0.604,-0.604,0.0,0.0,0.0,,-0.00503,311166,542975,,0.291,0.227,-747870,23968,15920974,21875310,0.37387002,1.7094501,255700,0.26,0.0098,42.28,,,-34.884487,,,,,,,none,,,,,,,,https://bold.eaglesinvest.com,2026-10-31T14:31:31.218910+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-16,9.86,9.86,9.85,9.85,,,,,,,0,9.8600,0,78,,,,
 2024-12-17,9.85,9.85,9.85,9.85,,,,,,,0,9.8600,0,,,,,
@@ -485,3 +485,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.57,10.58,10.56,10.57,10.56,10.62,10.70,10.64,10.62,10.5945,0,10.5930,0,257,994,-0.0527,-0.0455,-0.0071
 2026-10-30,10.57,10.58,10.56,10.57,10.55,10.62,10.69,10.64,10.62,10.5945,0,10.5900,0,8123,1156,-0.0493,-0.0463,-0.0030
 2026-11-02,10.58,10.61,10.57,10.58,10.54,10.61,10.69,10.64,10.62,10.5945,0,10.1800,1,243,1160,-0.0453,-0.0461,0.0008
+2026-11-03,10.58,10.59,10.58,10.59,10.54,10.61,10.69,10.64,10.62,10.5945,0,10.1886,1,106,1161,-0.0409,-0.0450,0.0042
+2026-11-04,10.59,10.59,10.59,10.59,10.55,10.60,10.69,10.64,10.62,10.5945,0,10.1970,1,17,1160,-0.0369,-0.0434,0.0065

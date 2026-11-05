@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.58,GSHR,,Financial Services,Shell Companies,United States,217018080,10.61,25810,38625,409811.25,,-0.283,-0.283,0.0,0.0,0.0,,,310500,0,,0.999,0.745,-1128329,,14940625,12245874,0.02698,0.92627996,267,0.01,0.0,55.842106,,,-43.130077,,,,,,,none,,,,,,,,https://gesherspac.com,2026-10-31T16:31:38.521394+00:00
+56.46,GSHR,,Financial Services,Shell Companies,United States,217018080,10.61,25810,38625,409811.25,,-0.283,-0.283,0.0,0.0,0.0,,,310500,0,,0.999,0.745,-1128329,,14940625,12245874,0.02698,0.92627996,267,0.01,0.0,55.842106,,,-43.130077,,,,,,,none,,,,,,,,https://gesherspac.com,2026-10-31T16:31:38.521394+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-12,10.05,10.21,9.95,10.00,,,,,,,0,9.9500,1,2305,,,,
 2025-05-13,10.03,10.03,10.00,10.00,,,,,,,0,9.9500,1,1507,,,,
@@ -386,3 +386,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.61,10.61,10.61,10.61,10.61,10.59,10.55,10.45,10.41,10.5900,1,10.5686,1,,429,0.0191,0.0198,-0.0006
 2026-10-30,10.61,10.61,10.61,10.61,10.61,10.59,10.55,10.45,10.41,10.5919,1,10.5719,1,,429,0.0185,0.0195,-0.0010
 2026-11-02,10.59,10.62,10.59,10.62,10.61,10.60,10.55,10.45,10.42,10.5919,1,10.5749,1,603,441,0.0185,0.0193,-0.0008
+2026-11-03,10.62,10.62,10.62,10.62,10.61,10.60,10.56,10.45,10.42,10.5972,1,10.5794,1,,441,0.0184,0.0191,-0.0008
+2026-11-04,10.62,10.63,10.62,10.63,10.61,10.60,10.56,10.46,10.42,10.6015,1,10.5835,1,353,448,0.0189,0.0191,-0.0002

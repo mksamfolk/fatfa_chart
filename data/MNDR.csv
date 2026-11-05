@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-03-10 09:30:00-04:00,0.125\n2025-09-25 09:30:00-04:00,0.2\n2026-06-29 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.27,MNDR,Mobile-health Network Solutions,Healthcare,Health Information Services,Singapore,1167422,0.9773,1446820,3541445,3461054.1985,-0.077,,,0.19680001,-0.22217,-0.35334,-0.47585,-0.23549,3479487,115463,1.387,4.219,2.501,,,888592,398281,0.102749996,0.00884,26777,0.0,0.0307,,,0.15949188,0.06805237,-0.382,1.117,,,,,none,,,,,,,-0.811,https://manadr.com,2026-10-31T18:29:25.950387+00:00
+2.74,MNDR,Mobile-health Network Solutions,Healthcare,Health Information Services,Singapore,1167422,0.9773,1446820,3541445,3461054.1985,-0.077,,,0.19680001,-0.22217,-0.35334,-0.47585,-0.23549,3479487,115463,1.387,4.219,2.501,,,888592,398281,0.102749996,0.00884,26777,0.0,0.0307,,,0.15949188,0.06805237,-0.382,1.117,,,,,none,,,,,,,-0.811,https://manadr.com,2026-10-31T18:29:25.950387+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-10,1149.60,2109.60,1149.60,1608.00,,,,,,,0,1149.6000,1,38637,,,,
 2024-04-11,1668.00,2949.60,1610.64,2448.00,,,,,,,0,1149.6000,1,106904,,,,
@@ -656,5 +656,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.92,0.93,0.88,0.90,0.94,1.20,1.47,3.63,4.27,2.0239,0,4.5180,0,70,12356,-0.2128,-0.1974,-0.0155
 2026-10-28,0.90,1.07,0.88,0.97,0.93,1.17,1.46,3.60,4.24,2.0239,0,4.3657,0,525,12362,-0.2021,-0.1983,-0.0038
 2026-10-29,0.95,1.00,0.90,0.94,0.91,1.15,1.45,3.57,4.21,1.9378,0,4.2196,0,97,12360,-0.1939,-0.1974,0.0036
-2026-10-30,0.90,1.05,0.86,0.98,0.92,1.13,1.43,3.54,4.18,1.9006,0,4.0792,0,6513,12484,-0.1822,-0.1944,0.0121
-2026-11-02,0.94,1.00,0.89,0.96,0.92,1.11,1.42,3.51,4.16,1.8291,0,3.9445,0,197,12479,-0.1726,-0.1900,0.0174
+2026-10-30,0.90,1.05,0.86,0.98,0.92,1.13,1.43,3.54,4.18,1.9006,0,4.0792,0,6567,12485,-0.1822,-0.1944,0.0121
+2026-11-02,0.94,1.00,0.89,0.96,0.92,1.11,1.42,3.51,4.16,1.8290,0,3.9445,0,199,12480,-0.1726,-0.1900,0.0174
+2026-11-03,0.96,0.96,0.86,0.90,0.92,1.10,1.40,3.48,4.13,1.7340,0,3.8151,0,103,12466,-0.1678,-0.1856,0.0178
+2026-11-04,0.90,0.96,0.89,0.96,0.93,1.07,1.38,3.45,4.10,1.6917,0,3.6910,0,172,12461,-0.1569,-0.1799,0.0229

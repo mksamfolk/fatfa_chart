@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.12,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,28790638,2.6499,5540,5265,13951.7235,0.884,,,0.14397,-2.27463,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2279,0.34,0.0004,17.665998,,26.995365,4.9993105,20.352,-7.185,,,,,none,,,,,,,,https://belive.technology,2026-10-31T14:38:08.757232+00:00
+37.31,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,28790638,2.6499,5540,5265,13951.7235,0.884,,,0.14397,-2.27463,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2279,0.34,0.0004,17.665998,,26.995365,4.9993105,20.352,-7.185,,,,,none,,,,,,,,https://belive.technology,2026-10-31T14:38:08.757232+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-04,4.00,4.00,3.30,3.54,,,,,,,0,4.0000,0,5296,,,,
 2025-04-07,3.29,3.53,3.03,3.15,,,,,,,0,4.0000,0,2462,,,,
@@ -411,3 +411,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,2.30,2.49,2.27,2.32,2.31,2.32,2.28,2.37,2.60,2.1602,1,2.5900,0,60,12,0.0119,0.0161,-0.0043
 2026-10-30,2.30,2.65,2.30,2.65,2.35,2.34,2.28,2.37,2.60,2.1602,1,2.2650,1,61,13,0.0380,0.0205,0.0175
 2026-11-02,2.51,2.51,2.23,2.27,2.34,2.34,2.29,2.37,2.59,2.1602,1,2.6500,0,4,13,0.0278,0.0220,0.0058
+2026-11-03,2.27,2.27,2.27,2.27,2.33,2.34,2.28,2.36,2.58,2.1602,1,2.6500,0,,13,0.0195,0.0215,-0.0020
+2026-11-04,2.45,2.45,2.39,2.39,2.34,2.34,2.28,2.36,2.58,2.1602,1,2.6416,0,1,13,0.0223,0.0216,0.0006

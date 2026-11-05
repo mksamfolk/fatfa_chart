@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.39,RAPP,Rapport Therapeutics Inc.,Healthcare,Biotechnology,United States,1410606080,25.05,2502560,696934,17458196.7,,,,-1.0939,-7.6758003,0.0,-0.39963,-0.25776,436076992,10105000,2.389,15.721,15.352,-96682000,-56016500,56311620,32335446,0.032509997,0.96708,3051500,6.7,0.1007,,-4.9226522,70.530304,2.840458,38.794,-5.086,68.28571,91.0,50.0,1.0625,strong_buy,14,0,0,3,3,2026-11-05,1.219,https://www.rapportrx.com,2026-10-31T19:33:31.228761+00:00
+25.33,RAPP,Rapport Therapeutics Inc.,Healthcare,Biotechnology,United States,1410606080,25.05,2502560,696934,17458196.7,,,,-1.0939,-7.6758003,0.0,-0.39963,-0.25776,436076992,10105000,2.389,15.721,15.352,-96682000,-56016500,56311620,32335446,0.032509997,0.96708,3051500,6.7,0.1007,,-4.9226522,70.530304,2.840458,38.794,-5.086,68.28571,91.0,50.0,1.0625,strong_buy,14,0,0,3,3,2026-11-05,1.219,https://www.rapportrx.com,2026-10-31T19:33:31.228761+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-07,18.00,22.28,18.00,20.80,,,,,,,0,18.0000,1,36978,,,,
 2024-06-10,20.22,26.44,20.22,26.19,,,,,,,0,18.0000,1,7325,,,,
@@ -631,4 +631,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.55,23.94,22.06,22.50,26.80,28.76,37.66,38.22,35.67,31.6855,0,30.7961,0,134120,23703,-3.3534,-3.3542,0.0008
 2026-10-29,22.58,25.75,22.51,24.21,26.26,28.33,37.16,38.18,35.66,31.6855,0,30.4467,0,74930,24973,-3.3337,-3.3501,0.0164
 2026-10-30,23.94,25.43,23.86,25.05,26.01,27.97,36.70,38.17,35.65,31.6855,0,30.1112,0,23129,25126,-3.2133,-3.3228,0.1094
-2026-11-02,25.16,26.16,24.22,25.13,25.66,27.62,36.24,38.15,35.64,31.6855,0,29.7892,0,33357,25657,-3.0760,-3.2734,0.1974
+2026-11-02,25.16,26.16,24.22,25.13,25.66,27.62,36.24,38.15,35.64,31.6855,0,29.7892,0,33368,25658,-3.0760,-3.2734,0.1974
+2026-11-03,25.39,26.06,25.13,25.44,25.27,27.33,35.76,38.11,35.63,31.6855,0,29.4801,0,20935,25716,-2.9086,-3.2005,0.2918
+2026-11-04,26.12,26.36,25.27,25.93,25.36,27.09,35.26,38.07,35.63,31.6855,0,29.1833,0,24792,25880,-2.7052,-3.1014,0.3962

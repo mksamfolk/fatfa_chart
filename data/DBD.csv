@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.32,DBD,Diebold Nixdorf Incorporated,Technology,Software - Application,United States,1848924416,55.05,418530,273768,15070928.399999999,0.052,-0.829,-0.839,0.26018998,0.09072,0.01956,0.07722,0.059510004,169000000,1124899968,119.151,1.27,0.652,188200000,244924992,33586276,29171360,0.0168,1.37435,3077417,12.79,0.18879999,26.090048,8.970663,0.47154412,1.9749587,0.717,6.051,98.33333,100.0,95.0,1.33333,strong_buy,3,2,2,1,1,2026-10-28,1.187,https://www.dieboldnixdorf.com,2026-10-31T15:27:42.947789+00:00
+31.37,DBD,Diebold Nixdorf Incorporated,Technology,Software - Application,United States,1848924416,55.05,418530,273768,15070928.399999999,0.052,-0.829,-0.839,0.26018998,0.09072,0.01956,0.07722,0.059510004,169000000,1124899968,119.151,1.27,0.652,188200000,244924992,33586276,29171360,0.0168,1.37435,3077417,12.79,0.18879999,26.090048,8.970663,0.47154412,1.9749587,0.717,6.051,98.33333,100.0,95.0,1.33333,strong_buy,3,2,2,1,1,2026-10-28,1.187,https://www.dieboldnixdorf.com,2026-10-31T15:27:42.947789+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-14,24.00,25.38,18.57,20.57,,,,,,,0,18.5650,1,9985,,,,
 2023-08-15,19.80,21.50,19.40,21.50,,,,,,,0,18.5650,1,2958,,,,
@@ -837,4 +837,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,60.48,62.08,54.90,58.07,66.90,65.58,65.57,75.32,75.09,67.6387,0,69.9000,0,66467,16544,-0.0037,0.2486,-0.2522
 2026-10-29,58.30,61.35,58.30,59.14,66.16,65.37,65.41,75.20,75.04,67.6387,0,69.3400,0,40552,16966,-0.5290,0.0930,-0.6220
 2026-10-30,58.39,58.39,52.87,55.05,64.98,64.94,65.15,75.07,74.96,65.8070,0,68.7624,0,40731,17456,-1.2608,-0.1777,-1.0831
-2026-11-02,54.66,56.25,54.22,56.03,63.82,64.46,64.87,74.95,74.89,65.0023,0,67.8089,0,34849,17844,-1.7416,-0.4905,-1.2511
+2026-11-02,54.66,56.43,54.22,56.05,63.83,64.46,64.88,74.95,74.89,65.1495,0,67.8089,0,38635,17919,-1.7400,-0.4902,-1.2498
+2026-11-03,55.61,57.35,54.90,55.82,62.62,63.98,64.62,74.82,74.82,65.1495,0,66.9125,0,22428,17927,-2.1140,-0.8149,-1.2990
+2026-11-04,57.04,58.79,56.63,57.98,61.60,63.62,64.42,74.69,74.77,65.1495,0,66.0700,0,27193,18191,-2.2106,-1.0941,-1.1165

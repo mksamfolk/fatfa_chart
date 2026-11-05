@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.04,TACO,Berto Acquisition Corp.,Financial Services,Shell Companies,United States,393759296,10.495,237420,94857,995524.215,,-0.409,-0.403,0.0,0.0,0.0,,,146740,0,,0.129,0.061,-214676,,37518750,30328282,0.14883,0.77643996,13527,0.2,0.0004,32.796875,,,1.3112195,,,,,,,none,,,,,,,,https://www.bertoacq.com,2026-10-31T20:20:34.260350+00:00
+52.93,TACO,Berto Acquisition Corp.,Financial Services,Shell Companies,United States,393759296,10.495,237420,94857,995524.215,,-0.409,-0.403,0.0,0.0,0.0,,,146740,0,,0.129,0.061,-214676,,37518750,30328282,0.14883,0.77643996,13527,0.2,0.0004,32.796875,,,1.3112195,,,,,,,none,,,,,,,,https://www.bertoacq.com,2026-10-31T20:20:34.260350+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-05,10.65,11.32,10.23,10.30,,,,,,,0,10.2300,1,3035,,,,
 2025-06-06,10.31,10.40,10.28,10.32,,,,,,,0,10.2300,1,8182,,,,
@@ -369,3 +369,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-29,10.48,10.49,10.48,10.49,10.48,10.47,10.47,10.40,10.34,10.4510,1,10.4520,1,1471,1067,0.0036,0.0018,0.0018
 2026-10-30,10.49,10.49,10.48,10.49,10.48,10.47,10.47,10.40,10.35,10.4521,1,10.4529,1,316,1067,0.0045,0.0023,0.0022
 2026-11-02,10.49,10.50,10.48,10.50,10.48,10.48,10.47,10.40,10.35,10.4539,1,10.4539,1,786,1080,0.0056,0.0030,0.0026
+2026-11-03,10.50,10.50,10.49,10.50,10.49,10.48,10.47,10.40,10.35,10.4573,1,10.4548,1,316,1066,0.0064,0.0037,0.0028
+2026-11-04,10.50,10.51,10.50,10.50,10.49,10.48,10.47,10.41,10.35,10.4680,1,10.4557,1,327,1051,0.0070,0.0043,0.0026

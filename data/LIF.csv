@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.99,LIF,Life360 Inc.,Technology,Software - Application,United States,3620987392,44.44,541190,730554,32465819.759999998,0.378,-0.251,-0.278,0.77592003,-0.00035999998,0.25725,0.30056,0.00451,464984000,311640000,50.803,5.601,5.282,104266000,74707752,81480369,78101387,0.03632,0.55552,8179374,13.31,0.1168,25.837208,24.899286,6.324228,5.877093,6.05,138.768,60.68889,72.0,40.0,1.5,strong_buy,9,1,1,1,1,2026-11-09,1.078,https://intl.life360.com,2026-10-31T18:07:58.991920+00:00
+36.41,LIF,Life360 Inc.,Technology,Software - Application,United States,3620987392,44.44,541190,730554,32465819.759999998,0.378,-0.251,-0.278,0.77592003,-0.00035999998,0.25725,0.30056,0.00451,464984000,311640000,50.803,5.601,5.282,104266000,74707752,81480369,78101387,0.03632,0.55552,8179374,13.31,0.1168,25.837208,24.899286,6.324228,5.877093,6.05,138.768,60.68889,72.0,40.0,1.5,strong_buy,9,1,1,1,1,2026-11-09,1.078,https://intl.life360.com,2026-10-31T18:07:58.991920+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-06,26.00,27.26,26.00,27.00,,,,,,,0,26.0000,1,28193,,,,
 2024-06-07,27.49,27.64,26.92,27.14,,,,,,,0,26.0000,1,18230,,,,
@@ -632,4 +632,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,43.78,44.49,43.49,44.21,43.64,42.93,42.60,46.03,47.27,40.3757,1,41.5773,1,15447,25499,0.4076,0.1263,0.2813
 2026-10-29,44.14,45.70,43.71,45.49,43.98,43.19,42.65,46.07,47.18,40.3757,1,41.8727,1,18756,24931,0.5277,0.2066,0.3211
 2026-10-30,44.98,45.24,44.00,44.44,44.32,43.25,42.62,46.11,47.11,40.3757,1,42.1503,1,23091,24369,0.5319,0.2716,0.2603
-2026-11-02,45.74,46.97,44.48,44.69,44.55,43.36,42.62,46.15,47.03,40.3757,1,42.4113,1,26308,24331,0.5491,0.3271,0.2220
+2026-11-02,45.74,46.97,44.48,44.69,44.55,43.36,42.62,46.15,47.03,40.3757,1,42.4113,1,27073,24346,0.5491,0.3271,0.2220
+2026-11-03,45.34,45.63,43.75,45.07,44.72,43.54,42.64,46.18,46.97,40.3757,1,42.7760,1,34186,24536,0.5867,0.3790,0.2076
+2026-11-04,44.07,49.23,44.07,48.05,45.08,43.89,42.71,46.23,46.94,40.3757,1,43.1115,1,36850,24806,0.8471,0.4727,0.3745

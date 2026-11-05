@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.31,AUNA,,Healthcare,Medical Care Facilities,Luxembourg,333994016,4.51,224500,170487,768896.37,0.132,-0.64,-0.641,0.3689,0.13088,0.00347,0.01616,0.05218,481324000,3795484928,184.962,1.076,0.857,852313024,314983488,30138747,27435904,0.0305,0.80019,434930,3.28,0.0208,75.16667,4.15833,0.07159202,0.6379685,0.823,4.834,6.98571,9.0,5.0,1.71429,buy,7,0,1,0,0,2026-11-17,0.623,https://www.aunainvestors.com,2026-10-31T14:21:40.652114+00:00
+35.20,AUNA,,Healthcare,Medical Care Facilities,Luxembourg,333994016,4.51,224500,170487,768896.37,0.132,-0.64,-0.641,0.3689,0.13088,0.00347,0.01616,0.05218,481324000,3795484928,184.962,1.076,0.857,852313024,314983488,30138747,27435904,0.0305,0.80019,434930,3.28,0.0208,75.16667,4.15833,0.07159202,0.6379685,0.823,4.834,6.98571,9.0,5.0,1.71429,buy,7,0,1,0,0,2026-11-17,0.623,https://www.aunainvestors.com,2026-10-31T14:21:40.652114+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-22,9.51,10.32,9.30,9.60,,,,,,,0,9.3000,1,86853,,,,
 2024-03-25,9.31,10.19,9.31,10.00,,,,,,,0,9.3000,1,21987,,,,
@@ -669,4 +669,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,4.85,4.88,4.72,4.74,5.16,5.16,5.21,5.16,5.10,5.3812,0,5.3801,0,678,954,-0.0647,-0.0114,-0.0533
 2026-10-29,4.70,4.84,4.70,4.80,5.11,5.14,5.20,5.15,5.10,5.3351,0,5.3635,0,467,949,-0.0830,-0.0257,-0.0573
 2026-10-30,4.80,4.80,4.48,4.51,5.03,5.11,5.19,5.15,5.10,5.2445,0,5.3473,0,858,950,-0.1195,-0.0444,-0.0750
-2026-11-02,4.55,4.74,4.49,4.49,4.94,5.08,5.18,5.15,5.10,5.2341,0,5.3126,0,774,951,-0.1483,-0.0652,-0.0831
+2026-11-02,4.55,4.75,4.49,4.50,4.94,5.08,5.18,5.15,5.10,5.2421,0,5.3126,0,801,951,-0.1475,-0.0651,-0.0825
+2026-11-03,4.50,4.54,4.41,4.51,4.85,5.05,5.16,5.15,5.10,5.0739,0,5.2793,0,604,946,-0.1670,-0.0855,-0.0816
+2026-11-04,4.53,4.65,4.51,4.63,4.78,5.03,5.15,5.15,5.10,5.0739,0,5.2271,0,1512,960,-0.1708,-0.1025,-0.0683

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.43,TWFG,TWFG Inc.,Financial Services,Insurance Brokers,United States,347253760,26.96,211220,167162,4506687.5200000005,0.451,0.381,0.212,0.85876,0.20097,0.02984,0.19319999,0.09596,73745000,8465000,2.949,2.562,2.025,60778000,-32682624,12880333,11195070,0.15896,0.71572,922080,6.05,0.115200005,45.694916,22.762962,1.1781977,7.476428,1.774,6.752,30.57143,34.0,26.0,1.875,buy,7,0,3,0,1,2026-11-04,0.278,https://www.twfg.com,2026-10-31T20:39:37.537346+00:00
+76.94,TWFG,TWFG Inc.,Financial Services,Insurance Brokers,United States,347253760,26.96,211220,167162,4506687.5200000005,0.451,0.381,0.212,0.85876,0.20097,0.02984,0.19319999,0.09596,73745000,8465000,2.949,2.562,2.025,60778000,-32682624,12880333,11195070,0.15896,0.71572,922080,6.05,0.115200005,45.694916,22.762962,1.1781977,7.476428,1.774,6.752,30.57143,34.0,26.0,1.875,buy,7,0,3,0,1,2026-11-04,0.278,https://www.twfg.com,2026-10-31T20:39:37.537346+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-18,22.00,22.72,21.31,22.01,,,,,,,0,22.7200,0,110010,,,,
 2024-07-19,21.61,22.61,21.31,22.61,,,,,,,0,22.7200,0,12451,,,,
@@ -589,4 +589,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,27.00,27.69,26.02,27.28,26.85,26.00,27.36,22.98,23.32,24.6463,1,24.7559,1,4283,4417,0.1489,-0.1966,0.3455
 2026-10-29,26.65,27.90,26.65,27.15,27.06,26.01,27.34,23.03,23.32,24.6463,1,25.1154,1,3182,4400,0.1534,-0.1266,0.2800
 2026-10-30,27.50,27.50,26.38,26.96,27.22,26.02,27.34,23.07,23.31,24.6463,1,25.4462,1,6123,4436,0.1399,-0.0733,0.2132
-2026-11-02,26.79,28.69,26.79,28.60,27.54,26.21,27.37,23.13,23.31,24.6463,1,25.7505,1,3897,4473,0.2586,-0.0069,0.2655
+2026-11-02,26.96,28.69,26.79,28.60,27.54,26.21,27.37,23.13,23.31,24.6463,1,25.7505,1,3904,4473,0.2586,-0.0069,0.2655
+2026-11-03,28.25,28.96,27.34,28.71,27.83,26.40,27.40,23.18,23.30,24.6463,1,26.0305,1,3798,4472,0.3575,0.0660,0.2915
+2026-11-04,29.00,29.68,27.60,29.58,28.15,26.63,27.44,23.25,23.31,24.6463,1,26.2880,1,5951,4490,0.5002,0.1528,0.3474

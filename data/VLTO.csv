@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-82.72,VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,United States,27013056512,111.1,1910870,1674881,186079279.1,0.075,0.084,0.059,0.60196996,0.19748,0.17273001,,,2119000064,3592999936,115.978,,,,,243141824,243247247,0.0019,1.0179,6086972,3.27,0.028499998,27.984886,23.235823,4.6566205,8.7604475,4.923,20.756,116.5,133.0,100.0,1.82353,buy,16,1,2,0,0,2026-10-29,0.775,https://www.veralto.com,2026-10-31T20:53:38.082879+00:00
+82.80,VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,United States,27013056512,111.1,1910870,1674881,186079279.1,0.075,0.084,0.059,0.60196996,0.19748,0.17273001,,,2119000064,3592999936,115.978,,,,,243141824,243247247,0.0019,1.0179,6086972,3.27,0.028499998,27.984886,23.235823,4.6566205,8.7604475,4.923,20.756,116.5,133.0,100.0,1.82353,buy,16,1,2,0,0,2026-10-29,0.775,https://www.veralto.com,2026-10-31T20:53:38.082879+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-04,75.72,79.62,75.41,76.84,,,,,,,0,79.6223,0,650276,,,,
 2023-10-05,75.06,76.04,71.75,73.53,,,,,,,0,79.6223,0,1142949,,,,
@@ -801,4 +801,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,102.61,103.30,102.18,102.80,102.37,99.65,97.88,92.18,92.81,98.6771,1,102.0200,1,258378,167735,1.9231,1.5792,0.3440
 2026-10-29,103.40,104.09,102.67,104.06,102.68,100.12,97.96,92.30,92.82,98.6771,1,102.0200,1,204957,168173,1.9633,1.6560,0.3073
 2026-10-30,108.01,115.17,107.50,111.10,103.69,100.94,98.19,92.48,92.87,103.1676,1,102.1800,1,489073,175220,2.5340,1.8316,0.7024
-2026-11-02,112.76,116.71,111.77,115.70,105.21,101.90,98.53,92.68,92.93,105.2082,1,102.6650,1,447382,180213,3.3192,2.1291,1.1901
+2026-11-02,112.76,116.71,111.77,115.70,105.21,101.90,98.53,92.68,92.93,105.2083,1,102.6650,1,453278,180331,3.3192,2.1291,1.1901
+2026-11-03,113.94,117.05,112.78,116.32,106.71,102.89,98.87,92.87,93.00,105.5037,1,105.4740,1,285217,182316,3.9460,2.4925,1.4535
+2026-11-04,118.19,118.41,116.20,117.02,108.28,103.96,99.24,93.06,93.08,108.1718,1,107.7892,1,270117,185234,4.4480,2.8836,1.5644

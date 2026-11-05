@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-16 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-27.58,ORBS,Eightco Holdings Inc.,Consumer Cyclical,Packaging & Containers,United States,340729088,0.8124,11641460,14804035,12026798.034,-0.727,,,-0.04812,-3.18994,0.0,-1.5735,-0.10371,61976520,8475000,2.151,21.721,4.626,-21011904,-232507760,419410502,314945176,0.53119,0.34719002,35269804,1.96,0.082399994,,,13.564656,0.8849673,11.754,-8.046,,,,,none,,,,,,,2.552,https://www.8co.holdings,2026-10-31T19:04:26.777846+00:00
+30.27,ORBS,Eightco Holdings Inc.,Consumer Cyclical,Packaging & Containers,United States,340729088,0.8124,11641460,14804035,12026798.034,-0.727,,,-0.04812,-3.18994,0.0,-1.5735,-0.10371,61976520,8475000,2.151,21.721,4.626,-21011904,-232507760,419410502,314945176,0.53119,0.34719002,35269804,1.96,0.082399994,,,13.564656,0.8849673,11.754,-8.046,,,,,none,,,,,,,2.552,https://www.8co.holdings,2026-10-31T19:04:26.777846+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-18,3372.50,4537.50,3372.50,3801.00,,,,,,,0,3372.5000,1,84,,,,
 2022-05-19,3450.00,3450.00,3437.50,3437.50,,,,,,,0,3372.5000,1,31,,,,
@@ -1146,5 +1146,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-27,0.77,0.81,0.74,0.80,0.77,0.89,0.91,0.86,0.95,0.9965,0,0.8586,0,16063,14853,-0.0559,-0.0438,-0.0121
 2026-10-28,0.77,0.80,0.74,0.78,0.77,0.87,0.92,0.85,0.95,0.9965,0,0.8372,0,8117,14842,-0.0544,-0.0459,-0.0085
 2026-10-29,0.82,0.90,0.81,0.85,0.78,0.86,0.92,0.85,0.94,0.9965,0,0.6800,1,14389,14705,-0.0474,-0.0462,-0.0012
-2026-10-30,0.80,0.83,0.76,0.81,0.79,0.84,0.92,0.85,0.94,0.9965,0,0.6844,1,8199,14445,-0.0439,-0.0457,0.0018
-2026-11-02,0.80,0.81,0.70,0.70,0.78,0.82,0.91,0.85,0.93,0.9965,0,0.6886,1,14574,14392,-0.0495,-0.0465,-0.0030
+2026-10-30,0.80,0.83,0.76,0.81,0.79,0.84,0.92,0.85,0.94,0.9965,0,0.6844,1,8290,14447,-0.0439,-0.0457,0.0018
+2026-11-02,0.80,0.81,0.70,0.70,0.78,0.82,0.91,0.85,0.93,0.9965,0,0.6886,1,14660,14396,-0.0495,-0.0465,-0.0030
+2026-11-03,0.71,0.76,0.71,0.75,0.78,0.80,0.91,0.85,0.93,0.9836,0,0.6928,1,7819,14270,-0.0496,-0.0471,-0.0025
+2026-11-04,0.75,0.80,0.75,0.79,0.78,0.79,0.91,0.85,0.93,0.9836,0,0.6969,1,6632,14178,-0.0455,-0.0468,0.0013

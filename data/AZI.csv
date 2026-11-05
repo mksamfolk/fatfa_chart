@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-12 09:30:00-05:00,0.02\n2026-03-23 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.75,AZI,Autozi Internet Technology (Global) Ltd.,Consumer Cyclical,Auto & Truck Dealerships,China,51779588,0.7804,45540,2412618,1882807.0872,-0.63,,,0.01424,-0.83384,-0.51821,,-0.63502,2501000,19139000,269.26,1.159,0.107,-40162000,-32429124,56288753,4509041,0.0010899999,2.0000001e-05,288060,5.75,0.0050999997,,,0.714487,-0.48172837,0.477,-1.021,,,,,none,,,,,,,-1.877,https://www.autozi.com,2026-10-31T14:25:39.208328+00:00
+5.75,AZI,Autozi Internet Technology (Global) Ltd.,Consumer Cyclical,Auto & Truck Dealerships,China,51779588,0.7804,45540,2412618,1882807.0872,-0.63,,,0.01424,-0.83384,-0.51821,,-0.63502,2501000,19139000,269.26,1.159,0.107,-40162000,-32429124,56288753,4509041,0.0010899999,2.0000001e-05,288060,5.75,0.0050999997,,,0.714487,-0.48172837,0.477,-1.021,,,,,none,,,,,,,-1.877,https://www.autozi.com,2026-10-31T14:25:39.208328+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-28,1950.00,2025.00,1310.00,1310.00,,,,,,,0,1310.0000,1,4744,,,,
 2024-08-29,1690.00,1975.00,1350.00,1450.00,,,,,,,0,1310.0000,1,15222,,,,
@@ -560,4 +560,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.79,0.88,0.79,0.80,0.91,1.03,1.19,1.66,6.31,1.0034,0,1.0225,0,29,4899,-0.1238,-0.0978,-0.0260
 2026-10-29,0.85,0.88,0.81,0.83,0.89,1.01,1.18,1.65,6.19,1.0034,0,0.9592,0,11,4898,-0.1213,-0.1025,-0.0188
 2026-10-30,0.85,0.87,0.78,0.78,0.86,0.98,1.18,1.64,6.03,1.0034,0,0.9085,0,10,4896,-0.1221,-0.1064,-0.0156
-2026-11-02,0.84,0.84,0.78,0.78,0.84,0.96,1.17,1.60,5.87,1.0034,0,0.8850,0,26,4896,-0.1211,-0.1094,-0.0118
+2026-11-02,0.84,0.84,0.78,0.78,0.84,0.96,1.17,1.60,5.87,1.0034,0,0.8850,0,26,4896,-0.1211,-0.1094,-0.0117
+2026-11-03,0.81,0.89,0.75,0.77,0.81,0.95,1.16,1.57,5.69,1.0034,0,0.7060,1,8,4895,-0.1199,-0.1115,-0.0084
+2026-11-04,0.80,0.80,0.70,0.72,0.78,0.93,1.15,1.53,5.53,1.0034,0,0.8890,0,33,4894,-0.1213,-0.1134,-0.0078

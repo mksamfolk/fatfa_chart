@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.52,BCAX,Bicara Therapeutics Inc.,Healthcare,Biotechnology,United States,604158912,9.13,2803480,1027887,9384608.31,,,,0.0,0.0,0.0,-0.41011003,-0.26142,497259008,1163000,0.248,11.589,11.438,-134848000,-76946128,66172934,36900013,0.10067,1.02486,10298207,12.38,0.2168,,-2.6126397,,1.2841069,,-0.535,36.27273,45.0,24.0,1.5,strong_buy,11,1,7,0,3,2026-11-10,-0.693,https://www.bicara.com,2026-10-31T14:29:29.590643+00:00
+9.77,BCAX,Bicara Therapeutics Inc.,Healthcare,Biotechnology,United States,604158912,9.13,2803480,1027887,9384608.31,,,,0.0,0.0,0.0,-0.41011003,-0.26142,497259008,1163000,0.248,11.589,11.438,-134848000,-76946128,66172934,36900013,0.10067,1.02486,10298207,12.38,0.2168,,-2.6126397,,1.2841069,,-0.535,36.27273,45.0,24.0,1.5,strong_buy,11,1,7,0,3,2026-11-10,-0.693,https://www.bicara.com,2026-10-31T14:29:29.590643+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-13,26.25,27.00,21.05,23.41,,,,,,,0,21.0500,1,118787,,,,
 2024-09-16,22.34,27.70,22.34,25.41,,,,,,,0,21.0500,1,19982,,,,
@@ -564,4 +564,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,17.37,17.57,8.90,9.76,16.69,16.99,20.37,22.68,21.29,18.6068,0,18.6873,0,150548,16586,-1.4683,-1.2054,-0.2629
 2026-10-29,9.79,10.19,9.35,9.73,15.90,16.57,20.04,22.62,21.25,14.8566,0,18.2958,0,31047,16860,-1.8857,-1.3415,-0.5443
 2026-10-30,9.38,9.38,8.36,9.13,15.14,16.14,19.74,22.56,21.21,13.8590,0,17.9200,0,38301,17407,-2.2391,-1.5210,-0.7181
-2026-11-02,9.06,9.16,7.87,7.93,14.19,15.67,19.42,22.48,21.16,13.3961,0,17.3464,0,19621,17563,-2.5862,-1.7341,-0.8522
+2026-11-02,9.06,9.16,7.87,7.93,14.19,15.67,19.42,22.48,21.16,13.3961,0,17.3464,0,19838,17567,-2.5862,-1.7341,-0.8522
+2026-11-03,8.03,9.48,7.90,8.96,13.25,15.29,19.13,22.41,21.12,13.3961,0,16.5883,0,20860,17668,-2.7465,-1.9366,-0.8100
+2026-11-04,9.19,9.27,8.69,8.89,12.34,14.92,18.81,22.33,21.09,13.3961,0,15.8908,0,9352,17654,-2.8464,-2.1185,-0.7279

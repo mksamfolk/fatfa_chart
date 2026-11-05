@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.37,EVEX,Eve Holding Inc.,Industrials,Aerospace & Defense,United States,519244640,1.49,1209000,1044078,1555676.22,,,,0.0,0.0,0.0,-11.79215,-0.38689998,394691008,308879008,1352.893,3.476,3.258,-195239008,-152526880,348486333,97063898,0.72269994,0.16705999,14407755,12.95,0.1481,,-2.6401587,,22.575758,,-1.963,6.25625,9.0,3.05,,none,8,1,1,0,0,2026-11-05,1.192,https://eveairmobility.com,2026-10-31T15:54:12.588567+00:00
+14.20,EVEX,Eve Holding Inc.,Industrials,Aerospace & Defense,United States,519244640,1.49,1209000,1044078,1555676.22,,,,0.0,0.0,0.0,-11.79215,-0.38689998,394691008,308879008,1352.893,3.476,3.258,-195239008,-152526880,348486333,97063898,0.72269994,0.16705999,14407755,12.95,0.1481,,-2.6401587,,22.575758,,-1.963,6.25625,9.0,3.05,,none,8,1,1,0,0,2026-11-05,1.192,https://eveairmobility.com,2026-10-31T15:54:12.588567+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-10,10.35,10.86,8.15,8.66,,,,,,,0,8.1500,1,3295,,,,
 2022-05-11,8.49,11.63,8.20,9.37,,,,,,,0,8.1500,1,22947,,,,
@@ -1138,4 +1138,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.66,1.69,1.59,1.64,1.64,1.68,2.17,2.56,2.88,1.8501,0,1.4779,1,1995,2136,-0.1531,-0.1839,0.0308
 2026-10-29,1.64,1.68,1.61,1.62,1.63,1.66,2.16,2.55,2.87,1.8501,0,1.4876,1,1464,2121,-0.1451,-0.1761,0.0310
 2026-10-30,1.59,1.59,1.46,1.49,1.62,1.63,2.14,2.54,2.85,1.8501,0,1.7200,0,2686,2145,-0.1475,-0.1704,0.0229
-2026-11-02,1.51,1.54,1.46,1.50,1.61,1.62,2.12,2.53,2.83,1.8490,0,1.7147,0,1313,2131,-0.1469,-0.1657,0.0188
+2026-11-02,1.51,1.54,1.46,1.50,1.61,1.62,2.12,2.53,2.83,1.8490,0,1.7147,0,1464,2134,-0.1469,-0.1657,0.0188
+2026-11-03,1.52,1.57,1.46,1.53,1.59,1.61,2.11,2.52,2.82,1.8490,0,1.7095,0,2218,2143,-0.1424,-0.1610,0.0186
+2026-11-04,1.60,1.74,1.54,1.68,1.60,1.61,2.08,2.51,2.81,1.8490,0,1.4550,1,1997,2033,-0.1253,-0.1539,0.0286

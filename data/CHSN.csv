@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-18 09:30:00-04:00,0.0125\n2026-05-07 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.29,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,2763645,1.19,7679180,1302773,1550299.8699999999,-0.045,,,0.46486,-0.09425,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.00366,71938,0.6,0.031,0.0040944126,,0.15459706,0.03922862,-0.268,4.819,,,,,none,,,,,,,-4.364,https://www.ir.chanson-international.net,2026-10-31T15:03:10.934592+00:00
+82.18,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,2763645,1.19,7679180,1302773,1550299.8699999999,-0.045,,,0.46486,-0.09425,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.00366,71938,0.6,0.031,0.0040944126,,0.15459706,0.03922862,-0.268,4.819,,,,,none,,,,,,,-4.364,https://www.ir.chanson-international.net,2026-10-31T15:03:10.934592+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-30,32000.00,32000.00,18320.00,19600.00,,,,,,,0,32000.0000,0,2411,,,,
 2023-03-31,24000.00,27120.00,14880.00,16880.00,,,,,,,0,32000.0000,0,5537,,,,
@@ -915,4 +915,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.51,1.70,0.88,1.46,0.98,1.02,1.04,59.49,97.36,0.7561,1,0.7633,1,108090,2278,-0.0179,-0.0753,0.0574
 2026-10-29,1.38,1.38,1.14,1.17,1.01,1.02,1.04,58.16,96.25,0.7561,1,0.8569,1,1387,2306,-0.0070,-0.0616,0.0546
 2026-10-30,1.17,1.35,1.17,1.19,1.04,1.03,1.05,56.80,95.11,0.7561,1,0.8770,1,413,2314,0.0032,-0.0487,0.0518
-2026-11-02,1.15,1.15,0.99,0.99,1.05,1.03,1.04,55.38,94.02,0.7561,1,0.9593,1,305,2315,-0.0048,-0.0399,0.0351
+2026-11-02,1.15,1.15,0.99,0.99,1.05,1.03,1.04,55.38,94.02,0.7561,1,0.9593,1,319,2316,-0.0048,-0.0399,0.0351
+2026-11-03,1.08,4.15,1.05,3.38,1.30,1.14,1.09,54.01,92.93,1.1353,1,0.9900,1,307235,8460,0.1796,0.0040,0.1756
+2026-11-04,3.91,5.00,1.91,3.36,1.55,1.25,1.14,52.53,91.91,1.2097,1,0.9900,1,171780,11894,0.3205,0.0673,0.2532

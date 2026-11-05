@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-67.34,FSUN,FirstSun Capital Bancorp,Financial Services,Banks - Regional,United States,1783484416,39.17,375910,326893,12804398.81,0.804,0.028,0.656,0.0,0.37775,0.11801,0.042150002,0.00521,729156992,224908992,,,,,,42919069,33525403,0.33854,0.57823,2400850,6.31,0.062,22.005617,8.72869,3.3988287,0.98553276,2.439,,46.0,48.0,45.0,1.5,strong_buy,4,0,0,1,1,2027-01-25,0.205,https://ir.firstsuncb.com,2026-10-31T16:12:18.539654+00:00
+68.73,FSUN,FirstSun Capital Bancorp,Financial Services,Banks - Regional,United States,1783484416,39.17,375910,326893,12804398.81,0.804,0.028,0.656,0.0,0.37775,0.11801,0.042150002,0.00521,729156992,224908992,,,,,,42919069,33525403,0.33854,0.57823,2400850,6.31,0.062,22.005617,8.72869,3.3988287,0.98553276,2.439,,46.0,48.0,45.0,1.5,strong_buy,4,0,0,1,1,2027-01-25,0.205,https://ir.firstsuncb.com,2026-10-31T16:12:18.539654+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-03,24.00,24.00,24.00,24.00,,,,,,,0,24.0000,1,74,,,,
 2022-08-04,26.00,30.00,26.00,30.00,,,,,,,0,24.0000,1,15,,,,
@@ -1095,4 +1095,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,39.82,40.15,38.75,39.08,38.87,38.82,39.41,37.83,37.86,40.3141,0,37.9747,1,19134,13373,0.0594,-0.1261,0.1855
 2026-10-29,39.56,39.94,39.07,39.35,39.00,38.84,39.40,37.85,37.86,40.3141,0,38.1967,1,11360,13403,0.0762,-0.0856,0.1619
 2026-10-30,39.35,39.54,38.99,39.17,39.12,38.83,39.38,37.87,37.87,40.3141,0,38.4009,1,11073,13458,0.0742,-0.0537,0.1278
-2026-11-02,39.64,40.49,39.64,40.14,39.38,38.86,39.39,37.90,37.87,40.3141,0,38.5889,1,13786,13570,0.1491,-0.0131,0.1622
+2026-11-02,39.64,40.49,39.64,40.14,39.38,38.86,39.39,37.90,37.87,40.3141,0,38.5889,1,14017,13574,0.1491,-0.0131,0.1622
+2026-11-03,40.22,40.29,39.74,40.00,39.54,38.90,39.37,37.93,37.88,40.3141,0,38.7618,1,12360,13602,0.1949,0.0285,0.1664
+2026-11-04,40.98,41.58,40.33,40.72,39.77,39.01,39.38,37.95,37.89,38.0807,1,38.9208,1,18190,13791,0.2860,0.0800,0.2060

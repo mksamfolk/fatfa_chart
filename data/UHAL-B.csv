@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.75,UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,United States,9853805568,50.69,318384,315551,15995280.19,0.032,-0.135,-0.136,0.28542,0.1506,0.01047,0.00832,0.01287,1097336064,8145006080,106.334,1.009,0.748,1826484992,-1604827264,175168915,105878361,0.43125,0.36911,915192,3.14,0.0092,362.0714,23.040909,1.6181964,1.2669333,2.751,22.035,,,,,none,,0,0,0,0,2026-11-04,1.108,https://uhaul.com,2026-10-31T20:43:20.379298+00:00
+58.85,UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,United States,9853805568,50.69,318384,315551,15995280.19,0.032,-0.135,-0.136,0.28542,0.1506,0.01047,0.00832,0.01287,1097336064,8145006080,106.334,1.009,0.748,1826484992,-1604827264,175168915,105878361,0.43125,0.36911,915192,3.14,0.0092,362.0714,23.040909,1.6181964,1.2669333,2.751,22.035,,,,,none,,0,0,0,0,2026-11-04,1.108,https://uhaul.com,2026-10-31T20:43:20.379298+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-10,64.08,64.08,50.47,51.40,,,,,,,0,50.4704,1,18070,,,,
 2022-11-11,52.28,56.97,51.22,55.20,,,,,,,0,50.4704,1,21436,,,,
@@ -1025,4 +1025,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,48.99,48.99,48.22,48.61,49.77,50.75,54.90,54.17,52.45,52.1827,0,51.4801,0,16373,16013,-1.6668,-1.7591,0.0924
 2026-10-29,49.27,50.11,48.23,50.11,49.65,50.55,54.62,54.22,52.44,52.1827,0,51.2193,0,22486,16075,-1.5233,-1.7120,0.1886
 2026-10-30,50.50,50.70,49.75,50.69,49.64,50.37,54.37,54.27,52.44,52.1827,0,50.9793,0,21968,16119,-1.3473,-1.6391,0.2917
-2026-11-02,50.84,53.19,51.00,52.59,49.95,50.31,54.16,54.33,52.44,48.0235,1,48.2200,1,21698,16209,-1.0425,-1.5198,0.4772
+2026-11-02,50.84,53.19,50.84,52.59,49.95,50.31,54.16,54.33,52.44,47.9435,1,48.2200,1,21698,16209,-1.0425,-1.5198,0.4772
+2026-11-03,52.52,52.53,51.73,52.17,50.18,50.26,53.95,54.38,52.43,48.2052,1,48.3194,1,18963,16185,-0.8254,-1.3809,0.5555
+2026-11-04,53.18,54.00,52.03,53.68,50.58,50.34,53.80,54.45,52.45,48.8939,1,48.4168,1,17101,16252,-0.5253,-1.2098,0.6844

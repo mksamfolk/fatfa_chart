@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-25 09:30:00-04:00,0.05\n2026-06-24 09:30:00-04:00,0.047619047619047616\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.10,AMIX,Autonomix Medical Inc.,Healthcare,Medical Devices,United States,3547487,1.81,58130,3026143,5477318.83,,,,0.0,0.0,0.0,-3.1599,-1.5780799,3460000,0,,4.846,4.23,-13222000,-7624375,1959938,918257,0.057290003,0.025969999,58986,0.29,0.0318,,-0.24459459,,0.31040987,,0.104,40.80004,75.60008,6.0,1.5,strong_buy,2,1,1,1,1,,-0.943,https://autonomix.com,2026-10-31T14:06:42.048319+00:00
+3.58,AMIX,Autonomix Medical Inc.,Healthcare,Medical Devices,United States,3547487,1.81,58130,3026143,5477318.83,,,,0.0,0.0,0.0,-3.1599,-1.5780799,3460000,0,,4.846,4.23,-13222000,-7624375,1959938,918257,0.057290003,0.025969999,58986,0.29,0.0318,,-0.24459459,,0.31040987,,0.104,40.80004,75.60008,6.0,1.5,strong_buy,2,1,1,1,1,,-0.943,https://autonomix.com,2026-10-31T14:06:42.048319+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-29,3192.00,3192.00,1726.20,2129.40,,,,,,,0,1726.2000,1,2849,,,,
 2024-01-30,2310.00,2310.00,1965.60,2184.00,,,,,,,0,1726.2000,1,1280,,,,
@@ -707,4 +707,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.16,2.16,2.11,2.15,2.48,2.96,5.19,6.73,7.45,2.9476,0,2.5007,0,64,64329,-0.7715,-0.7915,0.0200
 2026-10-29,2.11,2.22,2.04,2.04,2.40,2.85,5.14,6.69,7.39,2.9123,0,2.4106,0,110,57928,-0.7584,-0.7849,0.0265
 2026-10-30,2.08,2.15,1.81,1.81,2.29,2.72,5.10,6.64,7.33,2.7865,0,2.3365,0,243,57839,-0.7579,-0.7795,0.0216
-2026-11-02,1.85,1.88,1.68,1.68,2.19,2.63,5.07,6.59,7.28,2.5658,0,2.2312,0,84,57805,-0.7592,-0.7754,0.0163
+2026-11-02,1.85,1.88,1.68,1.68,2.19,2.63,5.07,6.59,7.28,2.5659,0,2.2312,0,86,57805,-0.7592,-0.7754,0.0163
+2026-11-03,1.71,1.73,1.63,1.66,2.10,2.53,5.03,6.55,7.22,2.4181,0,2.1500,0,71,57790,-0.7531,-0.7710,0.0178
+2026-11-04,1.73,1.78,1.61,1.61,2.00,2.44,4.67,6.50,7.17,2.4085,0,2.0468,0,131,10980,-0.7438,-0.7655,0.0217

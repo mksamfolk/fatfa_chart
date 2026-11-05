@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-79.78,HG,Hamilton Insurance Group Ltd.,Financial Services,Insurance - Reinsurance,Bermuda,3454185984,35.06,449080,384343,13475065.58,0.247,-0.386,-0.402,0.38184,0.28075,0.16825001,0.31472,0.05696,1608364032,149820992,4.882,2.019,1.209,,,66278404,47406879,0.04777,0.85634005,1541760,3.87,0.024400001,6.729367,7.3208065,1.0945884,1.1765496,0.675,2.293,38.14286,42.0,32.0,2.28571,buy,7,0,0,2,2,2026-10-29,,https://www.hamiltongroup.com,2026-10-31T16:42:16.786441+00:00
+81.48,HG,Hamilton Insurance Group Ltd.,Financial Services,Insurance - Reinsurance,Bermuda,3454185984,35.06,449080,384343,13475065.58,0.247,-0.386,-0.402,0.38184,0.28075,0.16825001,0.31472,0.05696,1608364032,149820992,4.882,2.019,1.209,,,66278404,47406879,0.04777,0.85634005,1541760,3.87,0.024400001,6.729367,7.3208065,1.0945884,1.1765496,0.675,2.293,38.14286,42.0,32.0,2.28571,buy,7,0,0,2,2,2026-10-29,,https://www.hamiltongroup.com,2026-10-31T16:42:16.786441+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-10,14.25,14.38,14.02,14.02,,,,,,,0,14.3821,0,65085,,,,
 2023-11-13,14.02,14.12,13.77,14.02,,,,,,,0,14.3821,0,21452,,,,
@@ -774,4 +774,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,35.26,35.45,34.58,34.68,36.07,35.29,34.90,33.34,31.92,34.5138,1,37.2181,0,12797,12900,0.3634,0.3927,-0.0293
 2026-10-29,35.22,36.52,34.20,34.43,35.96,35.32,34.90,33.37,31.97,37.5250,0,37.1126,0,28501,13269,0.2385,0.3618,-0.1233
 2026-10-30,35.33,35.64,33.74,35.06,35.85,35.37,34.91,33.42,32.02,37.5250,0,36.9378,0,20633,13444,0.1883,0.3271,-0.1389
-2026-11-02,34.73,36.28,34.23,36.27,35.87,35.47,34.94,33.46,32.08,37.5250,0,36.6820,0,12792,13557,0.2433,0.3104,-0.0671
+2026-11-02,34.73,36.28,34.23,36.28,35.87,35.47,34.94,33.46,32.08,37.5250,0,36.6820,0,17258,13646,0.2441,0.3105,-0.0665
+2026-11-03,36.18,36.56,35.44,36.47,35.87,35.59,34.96,33.51,32.14,37.5250,0,33.7400,1,14333,13719,0.3001,0.3084,-0.0083
+2026-11-04,37.17,37.49,36.63,37.28,35.94,35.73,35.01,33.56,32.20,37.5250,0,33.7965,1,20769,13960,0.4053,0.3278,0.0775

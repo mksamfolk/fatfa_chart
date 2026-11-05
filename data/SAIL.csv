@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-81.11,SAIL,SailPoint Inc.,Technology,Software - Infrastructure,United States,12023398400,21.06,3496430,4309307,90754005.42,0.168,,,0.66272,-0.18846,-0.16921,-0.02884,-0.01828,309849984,31365000,0.457,1.228,1.049,200646000,339256640,570911633,75217608,0.017280001,1.0224099,25229577,4.66,0.3099,,52.261955,10.315698,1.7522256,10.077,-1240.223,21.96154,30.0,10.0,1.81481,buy,26,1,1,7,8,2026-09-09,,https://www.sailpoint.com,2026-10-31T19:49:39.158212+00:00
+79.29,SAIL,SailPoint Inc.,Technology,Software - Infrastructure,United States,12023398400,21.06,3496430,4309307,90754005.42,0.168,,,0.66272,-0.18846,-0.16921,-0.02884,-0.01828,309849984,31365000,0.457,1.228,1.049,200646000,339256640,570911633,75217608,0.017280001,1.0224099,25229577,4.66,0.3099,,52.261955,10.315698,1.7522256,10.077,-1240.223,21.96154,30.0,10.0,1.81481,buy,26,1,1,7,8,2026-09-09,,https://www.sailpoint.com,2026-10-31T19:49:39.158212+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-13,23.00,23.25,20.77,22.00,,,,,,,0,20.7700,1,959178,,,,
 2025-02-14,22.00,24.95,21.51,24.55,,,,,,,0,20.7700,1,272205,,,,
@@ -460,4 +460,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,22.20,22.62,21.93,22.28,20.46,20.22,19.79,16.29,16.04,19.0890,1,19.0453,1,60348,92455,0.5191,0.2333,0.2858
 2026-10-29,21.07,22.31,20.90,22.00,20.68,20.29,19.85,16.35,16.06,19.0890,1,19.4028,1,70448,93098,0.5734,0.3013,0.2721
 2026-10-30,21.83,22.18,20.71,21.06,20.91,20.32,19.90,16.42,16.07,19.0890,1,19.7245,1,57422,93456,0.5344,0.3479,0.1865
-2026-11-02,21.13,21.20,19.03,19.19,20.94,20.27,19.91,16.46,16.07,19.0890,1,22.6200,0,71742,93906,0.3485,0.3480,0.0005
+2026-11-02,21.20,21.20,19.03,19.19,20.94,20.27,19.91,16.46,16.07,19.0890,1,22.6200,0,76735,94006,0.3485,0.3480,0.0005
+2026-11-03,18.81,19.45,18.71,18.99,20.92,20.22,19.93,16.50,16.07,22.6475,0,22.5483,0,58259,94310,0.1830,0.3150,-0.1320
+2026-11-04,19.00,19.84,18.65,19.72,20.92,20.23,19.96,16.54,16.08,22.6475,0,22.3948,0,68458,94788,0.1095,0.2739,-0.1644

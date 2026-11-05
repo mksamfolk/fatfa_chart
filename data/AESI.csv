@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.20,AESI,Atlas Energy Solutions Inc.,Energy,Oil & Gas Equipment & Services,United States,1152531840,9.22,4065310,3559235,32816146.700000003,0.016,,,0.23408002,-0.06807,-0.110810004,-0.09925,-0.02491,168216000,1049262016,94.273,1.824,1.468,54597000,-118395504,125003451,88652447,0.3431,0.88661003,22757413,6.17,0.2538,,1382.3088,1.0793477,1.0354897,1.904,18.735,17.53846,25.0,11.0,2.30769,buy,13,0,0,1,1,2026-11-02,1.155,https://atlas.energy,2026-10-31T13:55:36.015328+00:00
+14.65,AESI,Atlas Energy Solutions Inc.,Energy,Oil & Gas Equipment & Services,United States,1152531840,9.22,4065310,3559235,32816146.700000003,0.016,,,0.23408002,-0.06807,-0.110810004,-0.09925,-0.02491,168216000,1049262016,94.273,1.824,1.468,54597000,-118395504,125003451,88652447,0.3431,0.88661003,22757413,6.17,0.2538,,1382.3088,1.0793477,1.0354897,1.904,18.735,17.53846,25.0,11.0,2.30769,buy,13,0,0,1,1,2026-11-02,1.155,https://atlas.energy,2026-10-31T13:55:36.015328+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-09,15.31,15.62,13.79,14.82,,,,,,,0,13.7929,1,102931,,,,
 2023-03-10,15.08,15.30,14.21,14.43,,,,,,,0,13.7929,1,27053,,,,
@@ -945,4 +945,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,9.36,9.48,8.80,9.44,9.33,10.71,12.01,14.01,13.45,11.0216,0,10.2820,0,45194,42510,-0.9402,-0.8149,-0.1253
 2026-10-29,9.38,9.54,9.08,9.26,9.23,10.59,11.93,13.98,13.44,11.0216,0,10.0255,0,27620,42173,-0.9090,-0.8337,-0.0752
 2026-10-30,8.97,9.23,8.92,9.22,9.16,10.45,11.85,13.95,13.43,11.0216,0,9.8050,0,26435,41432,-0.8773,-0.8424,-0.0349
-2026-11-02,9.31,9.35,8.15,8.26,9.03,10.23,11.77,13.92,13.42,10.8810,0,9.6153,0,30180,41118,-0.9191,-0.8578,-0.0613
+2026-11-02,9.31,9.35,8.15,8.23,9.02,10.23,11.77,13.92,13.42,10.8814,0,9.6153,0,33309,41181,-0.9215,-0.8582,-0.0632
+2026-11-03,7.81,8.44,7.53,8.14,8.90,10.00,11.69,13.89,13.41,10.1775,0,9.3816,0,46111,41466,-0.9528,-0.8771,-0.0756
+2026-11-04,7.80,8.02,6.63,6.73,8.63,9.71,11.59,13.85,13.38,9.7490,0,9.3510,0,62061,42155,-1.0789,-0.9175,-0.1614

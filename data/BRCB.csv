@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.22,BRCB,Black Rock Coffee Bar Inc.,Consumer Cyclical,Restaurants,United States,230959616,10.4,527350,383531,3988722.4,0.25,,,0.43578,0.06511,0.0068699997,-0.22042999,0.00424,15975000,191042000,174.421,0.707,0.513,12957000,-35313500,22207657,19898727,0.122779995,0.87601,1970787,6.41,0.099300005,130.0,38.165134,1.033099,4.227642,2.062,28.954,11.66667,18.0,8.0,2.0,buy,6,0,0,0,0,2026-11-10,,https://www.br.coffee,2026-10-31T14:43:30.030900+00:00
+42.33,BRCB,Black Rock Coffee Bar Inc.,Consumer Cyclical,Restaurants,United States,230959616,10.4,527350,383531,3988722.4,0.25,,,0.43578,0.06511,0.0068699997,-0.22042999,0.00424,15975000,191042000,174.421,0.707,0.513,12957000,-35313500,22207657,19898727,0.122779995,0.87601,1970787,6.41,0.099300005,130.0,38.165134,1.033099,4.227642,2.062,28.954,11.66667,18.0,8.0,2.0,buy,6,0,0,0,0,2026-11-10,,https://www.br.coffee,2026-10-31T14:43:30.030900+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-12,26.50,29.50,25.05,27.53,,,,,,,0,25.0500,1,215106,,,,
 2025-09-15,27.49,30.40,25.74,27.81,,,,,,,0,25.0500,1,35419,,,,
@@ -300,4 +300,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,10.28,10.75,9.86,10.20,9.20,8.35,8.46,9.90,11.84,8.3776,1,8.5204,1,7110,3430,0.4404,0.1512,0.2892
 2026-10-29,10.30,10.80,10.16,10.59,9.44,8.44,8.51,9.86,11.78,8.5524,1,8.9217,1,5176,3491,0.5175,0.2244,0.2930
 2026-10-30,10.59,10.85,10.30,10.40,9.67,8.54,8.56,9.82,11.71,8.6738,1,9.2963,1,4723,3523,0.5568,0.2909,0.2659
-2026-11-02,10.55,11.13,10.53,10.61,9.88,8.72,8.61,9.78,11.65,8.9013,1,9.6075,1,5636,3591,0.5984,0.3524,0.2460
+2026-11-02,10.55,11.13,10.53,10.61,9.88,8.72,8.61,9.78,11.65,8.9012,1,9.6075,1,5669,3592,0.5984,0.3524,0.2460
+2026-11-03,10.67,10.74,9.78,9.88,10.01,8.85,8.65,9.74,11.58,8.9012,1,11.1300,0,4450,3616,0.5656,0.3950,0.1705
+2026-11-04,10.15,11.07,10.15,10.99,10.24,9.04,8.71,9.70,11.52,8.9012,1,11.1300,0,7186,3722,0.6220,0.4404,0.1815

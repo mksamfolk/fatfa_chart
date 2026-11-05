@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-16 09:30:00-04:00,0.04\n2026-10-30 09:30:00-04:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.70,MASK,3 E Network Technology Group Limited,Technology,Software - Application,Hong Kong,8689061,2.4009,2007637,437552,1050518.5968,1.069,,,0.45490003,-0.05424,-0.07603,0.0761,0.05303,2555412,1634615,19.097,3.013,2.721,-2108438,-3070184,3595885,149852,0.19297001,0.03741,19668,0.11,0.0233,3.637727,,1.2854633,0.23980223,-0.06,-0.371,,,,,none,,,,,,,,https://www.3etech.cn,2026-10-31T18:18:34.653226+00:00
+24.08,MASK,3 E Network Technology Group Limited,Technology,Software - Application,Hong Kong,8689061,2.4009,2007637,437552,1050518.5968,1.069,,,0.45490003,-0.05424,-0.07603,0.0761,0.05303,2555412,1634615,19.097,3.013,2.721,-2108438,-3070184,3595885,149852,0.19297001,0.03741,19668,0.11,0.0233,3.637727,,1.2854633,0.23980223,-0.06,-0.371,,,,,none,,,,,,,,https://www.3etech.cn,2026-10-31T18:18:34.653226+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-08,96.25,99.75,81.25,81.25,,,,,,,0,99.7500,0,1769,,,,
 2025-01-10,82.25,84.50,70.50,70.75,,,,,,,0,99.7500,0,363,,,,
@@ -469,4 +469,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.80,3.08,2.78,2.84,1.47,1.19,1.35,1.92,2.97,1.9925,1,0.8568,1,174,1914,0.2591,0.0052,0.2539
 2026-10-29,2.80,2.88,2.70,2.72,1.66,1.27,1.38,1.92,2.95,1.9925,1,0.9037,1,121,1914,0.3236,0.0689,0.2547
 2026-10-30,2.72,2.74,2.31,2.40,1.82,1.33,1.39,1.91,2.93,1.9925,1,0.9496,1,61,1914,0.3450,0.1241,0.2209
-2026-11-02,1.86,2.27,1.55,1.64,1.89,1.37,1.40,1.90,2.91,3.0739,0,0.9946,1,100,1915,0.2972,0.1587,0.1384
+2026-11-02,1.86,2.27,1.55,1.64,1.89,1.37,1.40,1.90,2.91,3.0739,0,0.9946,1,104,1915,0.2972,0.1587,0.1384
+2026-11-03,1.65,1.87,1.58,1.67,1.96,1.41,1.40,1.88,2.90,2.8555,0,1.0387,1,147,1917,0.2587,0.1787,0.0800
+2026-11-04,1.70,1.80,1.63,1.64,2.03,1.45,1.41,1.87,2.88,2.7857,0,1.0820,1,51,1916,0.2232,0.1876,0.0356

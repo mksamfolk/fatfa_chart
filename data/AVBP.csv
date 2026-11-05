@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.94,AVBP,ArriVent BioPharma Inc.,Healthcare,Biotechnology,United States,733205888,14.87,1781360,1193125,17741768.75,,,,0.0,0.0,0.0,-0.53253,-0.33110002,373119008,351000,0.096,14.156,13.4,-147928992,-89478496,49307729,29631973,0.01543,1.00418,6806605,3.56,0.1464,,-3.9926968,,1.9586407,,,25.8,30.0,20.0,1.0,strong_buy,10,3,2,1,1,2026-11-16,1.349,https://arrivent.com,2026-10-31T14:22:46.400423+00:00
+12.56,AVBP,ArriVent BioPharma Inc.,Healthcare,Biotechnology,United States,733205888,14.87,1781360,1193125,17741768.75,,,,0.0,0.0,0.0,-0.53253,-0.33110002,373119008,351000,0.096,14.156,13.4,-147928992,-89478496,49307729,29631973,0.01543,1.00418,6806605,3.56,0.1464,,-3.9926968,,1.9586407,,,25.8,30.0,20.0,1.0,strong_buy,10,3,2,1,1,2026-11-16,1.349,https://arrivent.com,2026-10-31T14:22:46.400423+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-26,24.00,25.95,20.00,20.00,,,,,,,0,25.9500,0,39852,,,,
 2024-01-29,20.00,21.48,19.40,19.91,,,,,,,0,25.9500,0,7371,,,,
@@ -723,4 +723,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,15.67,15.89,15.20,15.73,17.61,18.79,25.32,28.36,27.02,21.3561,0,11.9404,1,15573,27747,-2.6348,-2.7515,0.1167
 2026-10-29,15.87,16.42,15.73,15.95,17.52,18.14,25.04,28.32,26.99,21.3561,0,12.1262,1,10495,27643,-2.5915,-2.7195,0.1280
 2026-10-30,15.78,16.17,14.32,14.87,17.34,17.47,24.75,28.28,26.96,20.6923,0,12.3083,1,17768,27761,-2.6142,-2.6984,0.0842
-2026-11-02,14.89,14.98,13.26,13.35,16.88,16.72,24.44,28.22,26.91,19.5376,0,12.4867,1,16242,27909,-2.7234,-2.7034,-0.0200
+2026-11-02,14.89,14.99,13.26,13.35,16.88,16.72,24.44,28.22,26.91,19.5456,0,12.4867,1,16530,27915,-2.7234,-2.7034,-0.0200
+2026-11-03,13.47,13.96,13.01,13.02,16.30,16.62,24.13,28.16,26.87,18.6508,0,12.6616,1,15966,28106,-2.8043,-2.7236,-0.0807
+2026-11-04,13.39,13.57,12.47,13.49,15.74,16.45,23.78,28.09,26.83,17.9982,0,21.2300,0,25079,28005,-2.7982,-2.7385,-0.0597

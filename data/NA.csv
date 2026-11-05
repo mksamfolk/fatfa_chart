@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-11-04 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.46,NA,Nano Labs Ltd,Technology,Semiconductors,China,34588996,1.49,23040,254154,378689.46,-0.665,,,-0.10659,-14.83943,0.0,-0.35627997,-0.04388,15045593,229126944,59.421,1.198,0.126,-113383544,112657080,20355181,8418641,0.56036997,0.42648998,1106321,30.81,0.0793,,,1.6086597,0.54721266,10.804,-3.5,,,,,none,,,,,,2026-08-28,3.43,https://www.nano.cn,2026-10-31T18:38:53.214199+00:00
+20.47,NA,Nano Labs Ltd,Technology,Semiconductors,China,34588996,1.49,23040,254154,378689.46,-0.665,,,-0.10659,-14.83943,0.0,-0.35627997,-0.04388,15045593,229126944,59.421,1.198,0.126,-113383544,112657080,20355181,8418641,0.56036997,0.42648998,1106321,30.81,0.0793,,,1.6086597,0.54721266,10.804,-3.5,,,,,none,,,,,,2026-08-28,3.43,https://www.nano.cn,2026-10-31T18:38:53.214199+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-12,76.10,133.90,75.10,120.50,,,,,,,0,75.1000,1,17916,,,,
 2022-07-13,97.70,120.00,88.00,88.00,,,,,,,0,75.1000,1,2327,,,,
@@ -1096,4 +1096,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.79,1.81,1.69,1.71,1.76,1.93,1.96,2.22,2.48,2.2268,0,2.0543,0,21,687,-0.1061,-0.0739,-0.0322
 2026-10-29,1.75,1.82,1.61,1.70,1.74,1.90,1.96,2.21,2.47,2.2268,0,1.9986,0,19,688,-0.1053,-0.0802,-0.0251
 2026-10-30,1.64,1.70,1.35,1.49,1.70,1.85,1.95,2.20,2.46,2.1208,0,1.9495,0,65,688,-0.1198,-0.0881,-0.0317
-2026-11-02,1.54,1.58,1.51,1.51,1.67,1.82,1.95,2.19,2.45,2.1082,0,1.8656,0,22,688,-0.1282,-0.0961,-0.0321
+2026-11-02,1.54,1.58,1.50,1.51,1.67,1.82,1.95,2.19,2.45,2.1032,0,1.8656,0,22,688,-0.1282,-0.0961,-0.0321
+2026-11-03,1.52,1.65,1.50,1.52,1.64,1.79,1.94,2.18,2.44,2.1032,0,1.7934,0,31,688,-0.1325,-0.1034,-0.0291
+2026-11-04,1.59,1.65,1.39,1.62,1.62,1.76,1.93,2.17,2.44,2.0947,0,1.7313,0,57,687,-0.1264,-0.1080,-0.0184

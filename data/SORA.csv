@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.72,SORA,AsiaStrategy,Consumer Cyclical,Luxury Goods,Hong Kong,60916800,2.45,21420,187426,459193.7,0.395,,,0.02726,-0.15976,0.95972,0.8127,-0.04956,18489162,14812500,70.158,17.059,11.052,-1239503,-3032460,24864000,4863896,0.58116,0.0014300001,96273,0.29,0.0092,4.9,,4.788893,2.8857481,4.5,-28.194,,,,,none,,,,,,,,https://asiastrategy.io,2026-10-31T20:07:56.187487+00:00
+63.79,SORA,AsiaStrategy,Consumer Cyclical,Luxury Goods,Hong Kong,60916800,2.45,21420,187426,459193.7,0.395,,,0.02726,-0.15976,0.95972,0.8127,-0.04956,18489162,14812500,70.158,17.059,11.052,-1239503,-3032460,24864000,4863896,0.58116,0.0014300001,96273,0.29,0.0092,4.9,,4.788893,2.8857481,4.5,-28.194,,,,,none,,,,,,,,https://asiastrategy.io,2026-10-31T20:07:56.187487+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-02,4.95,13.20,3.50,3.83,,,,,,,0,13.2000,0,35044,,,,
 2025-04-03,2.67,2.90,1.80,2.76,,,,,,,0,13.2000,0,8357,,,,
@@ -412,4 +412,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,2.23,2.44,2.19,2.44,2.37,2.32,2.26,2.22,2.29,2.7657,0,2.0628,1,181,244,0.0440,0.0466,-0.0026
 2026-10-29,2.28,2.46,2.28,2.38,2.36,2.32,2.27,2.22,2.29,2.7657,0,2.0944,1,42,245,0.0426,0.0458,-0.0032
 2026-10-30,2.39,2.46,2.38,2.45,2.37,2.34,2.29,2.23,2.28,2.7657,0,2.1241,1,37,246,0.0471,0.0461,0.0010
-2026-11-02,2.46,2.46,2.40,2.45,2.37,2.35,2.30,2.23,2.28,2.7657,0,2.1521,1,41,246,0.0500,0.0468,0.0032
+2026-11-02,2.40,2.46,2.40,2.45,2.37,2.35,2.30,2.23,2.28,2.7657,0,2.1521,1,41,246,0.0500,0.0468,0.0032
+2026-11-03,2.46,2.46,2.40,2.41,2.38,2.37,2.32,2.23,2.28,2.7657,0,2.1784,1,10,245,0.0485,0.0472,0.0014
+2026-11-04,2.41,2.46,2.41,2.43,2.40,2.39,2.33,2.24,2.27,2.7657,0,2.2031,1,6,244,0.0485,0.0474,0.0010

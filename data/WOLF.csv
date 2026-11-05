@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-40.13,WOLF,Wolfspeed Inc.,Technology,Semiconductors,United States,1163413888,21.98,3173170,3874659,85165004.82000001,-0.241,,,-0.28236,-0.31618,0.00662,0.01822,-0.057800002,1088600064,1796199936,193.098,6.863,5.515,-203200000,326237504,52930569,31541800,0.00937,1.3897301,27376417,6.38,0.5181,,-3.7701542,1.7492315,1.2325463,2.815,-5.788,25.0,25.0,25.0,3.0,hold,2,1,1,0,0,2026-11-04,,https://www.wolfspeed.com,2026-10-31T21:04:04.650652+00:00
+37.35,WOLF,Wolfspeed Inc.,Technology,Semiconductors,United States,1163413888,21.98,3173170,3874659,85165004.82000001,-0.241,,,-0.28236,-0.31618,0.00662,0.01822,-0.057800002,1088600064,1796199936,193.098,6.863,5.515,-203200000,326237504,52930569,31541800,0.00937,1.3897301,27376417,6.38,0.5181,,-3.7701542,1.7492315,1.2325463,2.815,-5.788,25.0,25.0,25.0,3.0,hold,2,1,1,0,0,2026-11-04,,https://www.wolfspeed.com,2026-10-31T21:04:04.650652+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-29,18.00,22.10,8.05,22.10,,,,,,,0,8.0500,1,538394,,,,
 2025-09-30,28.85,34.28,27.11,28.60,,,,,,,0,8.0500,1,1365187,,,,
@@ -304,4 +304,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,25.59,26.66,25.20,26.64,24.22,27.41,26.87,34.33,30.27,30.0376,0,28.0020,0,83271,102928,-1.0585,-0.9167,-0.1417
 2026-10-29,25.88,26.14,24.68,24.95,24.12,27.10,26.79,34.38,30.30,30.0376,0,27.2578,0,114493,100102,-1.0061,-0.9346,-0.0715
 2026-10-30,22.60,23.70,20.81,21.98,24.00,26.43,26.70,34.42,30.31,29.5743,0,26.6600,0,101416,96991,-1.1906,-0.9858,-0.2048
-2026-11-02,22.21,22.58,20.68,20.85,23.67,25.80,26.60,34.46,30.31,28.7865,0,26.1400,0,45751,95914,-1.4117,-1.0710,-0.3407
+2026-11-02,22.21,22.58,20.68,20.85,23.67,25.80,26.60,34.46,30.31,28.7865,0,26.1400,0,45976,95918,-1.4117,-1.0710,-0.3407
+2026-11-03,21.59,22.73,21.30,22.42,23.56,25.33,26.55,34.50,30.32,28.7865,0,25.2664,0,54770,95267,-1.4436,-1.1455,-0.2981
+2026-11-04,22.04,23.09,20.62,22.79,23.38,24.90,26.50,34.55,30.33,28.7865,0,24.5326,0,93027,96120,-1.4226,-1.2009,-0.2217

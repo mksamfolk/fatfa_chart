@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-01-04 09:30:00-05:00,0.0625\n2025-01-30 09:30:00-05:00,0.0029850746268656717\n2025-03-28 09:30:00-04:00,0.037037037037037035\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.00,ACON,Aclarion Inc.,Healthcare,Health Information Services,United States,5620623,1.95,13450,45807,89323.65,0.305,,,0.21755,-115.031815,0.0,-0.58966,-0.37014,16295462,0,,16.196,15.742,-8086706,-5323035,2882371,2520432,0.23976,0.040009998,24624,0.59,0.0085,,-0.35648996,67.096695,0.28240407,-127.432,1.127,7.625,7.75,7.5,,none,2,0,0,1,1,,1.206,https://www.aclarion.com,2026-10-31T13:51:37.167597+00:00
+11.53,ACON,Aclarion Inc.,Healthcare,Health Information Services,United States,5620623,1.95,13450,45807,89323.65,0.305,,,0.21755,-115.031815,0.0,-0.58966,-0.37014,16295462,0,,16.196,15.742,-8086706,-5323035,2882371,2520432,0.23976,0.040009998,24624,0.59,0.0085,,-0.35648996,67.096695,0.28240407,-127.432,1.127,7.625,7.75,7.5,,none,2,0,0,1,1,,1.206,https://www.aclarion.com,2026-10-31T13:51:37.167597+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-22,419688.00,476128.81,312595.19,393638.41,,,,,,,0,312595.1875,1,4724,,,,
 2022-04-25,371930.41,473234.41,341539.19,369036.00,,,,,,,0,312595.1875,1,7381,,,,
@@ -1150,4 +1150,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,1.95,2.06,1.95,2.04,1.94,2.12,2.30,2.86,3.10,2.2662,0,2.1135,0,25,114,-0.1258,-0.1278,0.0021
 2026-10-29,2.02,2.02,1.92,1.97,1.94,2.09,2.30,2.85,3.08,2.2662,0,2.0872,0,30,111,-0.1196,-0.1262,0.0066
 2026-10-30,2.00,2.00,1.88,1.95,1.95,2.06,2.29,2.84,3.06,2.2662,0,2.0635,0,35,109,-0.1149,-0.1239,0.0090
-2026-11-02,1.94,1.94,1.80,1.80,1.94,2.04,2.28,2.83,3.03,2.2196,0,2.0421,0,31,107,-0.1220,-0.1235,0.0016
+2026-11-02,1.92,1.95,1.80,1.80,1.94,2.04,2.28,2.83,3.03,2.2246,0,2.0421,0,31,107,-0.1220,-0.1235,0.0016
+2026-11-03,1.75,1.79,1.71,1.76,1.92,2.01,2.27,2.82,3.01,2.0911,0,2.0131,0,37,105,-0.1293,-0.1247,-0.0046
+2026-11-04,1.78,1.79,1.72,1.74,1.90,1.98,2.26,2.81,3.00,2.0837,0,1.9706,0,19,104,-0.1351,-0.1268,-0.0083

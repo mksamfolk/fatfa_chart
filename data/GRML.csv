@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-24 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.89,GRML,Greenland Mines Ltd,Basic Materials,Other Precious Metals & Mining,United States,62681608,4.58,1196400,8827673,40430742.34,,,,0.0,0.0,0.0,-0.63502,-0.30765,9344357,297968,0.515,10.092,7.725,-14223097,-8468059,13685941,3075412,0.03779,0.06329,3082775,0.13,0.2354,,,,0.25128937,,,110.0,110.0,110.0,,none,1,,,,,,2.272,https://greenlandmines.com,2026-10-31T16:30:12.100395+00:00
+99.83,GRML,Greenland Mines Ltd,Basic Materials,Other Precious Metals & Mining,United States,62681608,4.58,1196400,8827673,40430742.34,,,,0.0,0.0,0.0,-0.63502,-0.30765,9344357,297968,0.515,10.092,7.725,-14223097,-8468059,13685941,3075412,0.03779,0.06329,3082775,0.13,0.2354,,,,0.25128937,,,110.0,110.0,110.0,,none,1,,,,,,2.272,https://greenlandmines.com,2026-10-31T16:30:12.100395+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-29,9.89,9.89,9.89,9.89,,,,,,,0,9.8900,0,2,,,,
 2022-05-02,9.87,9.87,9.87,9.87,,,,,,,0,9.8900,0,444,,,,
@@ -1144,4 +1144,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,5.55,5.78,5.35,5.45,5.97,5.76,3.52,1.41,1.13,3.8958,1,7.1458,0,5036,11207,0.5574,0.7729,-0.2155
 2026-10-29,5.30,5.38,5.03,5.14,5.78,5.83,3.62,1.44,1.16,3.8958,1,6.9852,0,4430,11283,0.4662,0.7116,-0.2454
 2026-10-30,5.00,5.00,4.35,4.58,5.64,5.90,3.71,1.46,1.18,3.8958,1,6.8310,0,6207,11400,0.3448,0.6382,-0.2934
-2026-11-02,4.61,4.62,3.77,3.99,5.48,5.73,3.78,1.49,1.20,3.8958,1,6.6829,0,6077,11511,0.1987,0.5503,-0.3517
+2026-11-02,4.60,4.63,3.77,3.99,5.48,5.73,3.78,1.49,1.20,3.8958,1,6.6829,0,6159,11513,0.1987,0.5503,-0.3517
+2026-11-03,3.93,4.33,3.91,4.18,5.28,5.62,3.86,1.51,1.22,3.8958,1,6.5408,0,3230,11569,0.0971,0.4597,-0.3626
+2026-11-04,4.06,4.15,3.81,3.91,5.05,5.53,3.94,1.54,1.23,3.8958,1,6.4044,0,2819,11618,-0.0052,0.3667,-0.3719

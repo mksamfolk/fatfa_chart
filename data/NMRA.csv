@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.98,NMRA,Neumora Therapeutics Inc.,Healthcare,Biotechnology,United States,68995376,0.3672,1176060,1449926,532412.8272,,,,0.0,0.0,0.0,-1.87112,-0.7385,116834000,53252000,119.616,4.496,4.206,-180520000,-99416872,187895912,116412791,0.23084,0.60182,5639597,2.3,0.0513,,-0.5528122,,1.542857,,-0.026,6.0,14.0,3.0,1.77778,buy,7,4,4,2,2,2026-11-05,2.975,https://www.neumoratx.com,2026-10-31T18:46:53.300388+00:00
+4.85,NMRA,Neumora Therapeutics Inc.,Healthcare,Biotechnology,United States,68995376,0.3672,1176060,1449926,532412.8272,,,,0.0,0.0,0.0,-1.87112,-0.7385,116834000,53252000,119.616,4.496,4.206,-180520000,-99416872,187895912,116412791,0.23084,0.60182,5639597,2.3,0.0513,,-0.5528122,,1.542857,,-0.026,6.0,14.0,3.0,1.77778,buy,7,4,4,2,2,2026-11-05,2.975,https://www.neumoratx.com,2026-10-31T18:46:53.300388+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-14,17.00,17.00,17.00,17.00,,,,,,,0,17.0000,1,,,,,
 2023-09-15,16.50,17.74,15.50,16.25,,,,,,,0,17.7390,0,49514,,,,
@@ -800,4 +800,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.37,0.40,0.36,0.39,0.42,0.50,1.12,1.71,1.89,0.5916,0,0.4300,0,441,997,-0.2155,-0.2430,0.0275
 2026-10-29,0.40,0.41,0.37,0.39,0.42,0.46,1.09,1.69,1.88,0.5916,0,0.4210,0,537,986,-0.2047,-0.2354,0.0307
 2026-10-30,0.41,0.41,0.35,0.37,0.40,0.43,1.07,1.67,1.87,0.5824,0,0.4100,0,406,977,-0.1955,-0.2274,0.0319
-2026-11-02,0.40,0.52,0.36,0.50,0.41,0.42,1.04,1.66,1.86,0.5824,0,0.3150,1,2757,980,-0.1759,-0.2171,0.0412
+2026-11-02,0.40,0.52,0.37,0.50,0.41,0.42,1.04,1.66,1.86,0.5824,0,0.3150,1,2889,983,-0.1758,-0.2171,0.0412
+2026-11-03,0.50,0.62,0.48,0.57,0.42,0.43,1.02,1.64,1.86,0.5824,0,0.3191,1,2891,1028,-0.1524,-0.2042,0.0517
+2026-11-04,0.61,0.65,0.54,0.57,0.43,0.43,1.00,1.62,1.85,0.5824,0,0.3313,1,1563,1032,-0.1328,-0.1899,0.0571

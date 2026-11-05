@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.84,VOYG,Voyager Technologies Inc.,Industrials,Aerospace & Defense,United States,1612998016,26.43,1300910,1901876,50266582.68,0.155,,,0.109,-0.97463,-0.78613,-0.30441,-0.11111,373436000,491064992,130.401,3.799,3.53,-114067000,-266253376,55270494,54899301,0.04484,0.89536005,13788472,5.12,0.2814,,-16.356009,9.257866,4.8168397,10.225,-13.776,44.54545,55.0,21.0,1.81818,buy,11,3,3,1,1,2026-11-02,,https://voyagertechnologies.com,2026-10-31T20:55:10.926140+00:00
+27.96,VOYG,Voyager Technologies Inc.,Industrials,Aerospace & Defense,United States,1612998016,26.43,1300910,1901876,50266582.68,0.155,,,0.109,-0.97463,-0.78613,-0.30441,-0.11111,373436000,491064992,130.401,3.799,3.53,-114067000,-266253376,55270494,54899301,0.04484,0.89536005,13788472,5.12,0.2814,,-16.356009,9.257866,4.8168397,10.225,-13.776,44.54545,55.0,21.0,1.81818,buy,11,3,3,1,1,2026-11-02,,https://voyagertechnologies.com,2026-10-31T20:55:10.926140+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-11,69.75,73.95,51.05,56.48,,,,,,,0,73.9500,0,1307913,,,,
 2025-06-12,60.50,63.88,47.75,49.50,,,,,,,0,73.9500,0,475665,,,,
@@ -379,4 +379,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,27.35,27.57,26.52,27.14,25.44,27.00,31.39,32.72,31.78,29.0491,0,22.9064,1,25574,58964,-1.7045,-2.0343,0.3298
 2026-10-29,27.55,28.97,26.46,27.80,25.55,26.89,31.17,32.74,31.76,29.0491,0,23.1093,1,39482,58469,-1.4559,-1.9186,0.4627
 2026-10-30,26.50,27.34,25.54,26.43,25.66,26.67,30.94,32.77,31.72,29.0491,0,23.4610,1,32274,57627,-1.3538,-1.8057,0.4518
-2026-11-02,26.47,26.62,24.40,24.59,25.60,26.39,30.67,32.79,31.68,29.0491,0,23.7915,1,33209,57169,-1.4052,-1.7256,0.3204
+2026-11-02,26.47,26.62,24.40,24.59,25.60,26.39,30.67,32.79,31.68,29.0491,0,23.7915,1,33516,57175,-1.4052,-1.7256,0.3204
+2026-11-03,25.30,26.80,24.75,24.83,25.66,26.08,30.45,32.80,31.63,29.0491,0,24.1022,1,57933,57584,-1.4103,-1.6625,0.2522
+2026-11-04,24.14,25.19,22.68,23.08,25.52,25.80,30.22,32.79,31.58,29.0491,0,28.9700,0,31763,57533,-1.5378,-1.6376,0.0998
