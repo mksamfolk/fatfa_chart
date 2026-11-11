@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0438,2787998,28437579,0.0732\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0424,2700000,27539999,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0424,2700000,27539999,0.0\n3,2026-06-30,Glazer Capital LLC,0.0368,2343278,23901435,-0.0028\n4,2026-06-30,"Highbridge Capital Management, LLC.",0.0352,2241215,22860392,8.9608\n5,2026-06-30,Millennium Management Llc,0.0313,1993558,20334291,0.0087\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0309,1969030,20084105,0.0\n7,2026-06-30,"Wolverine Asset Management, LLC",0.0291,1855222,18923264,0.0334\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0235,1500000,15299999,0.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0235,1500000,15299999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0438,2787998,28521497,0.0732\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0424,2700000,27621269,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0424,2700000,27621269,0.0\n3,2026-06-30,Glazer Capital LLC,0.0368,2343278,23971967,-0.0028\n4,2026-06-30,"Highbridge Capital Management, LLC.",0.0352,2241215,22927852,8.9608\n5,2026-06-30,Millennium Management Llc,0.0313,1993558,20394297,0.0087\n6,2026-06-30,Hudson Bay Capital Management Lp,0.0309,1969030,20143373,0.0\n7,2026-09-30,"Wolverine Asset Management, LLC",0.028900001,1842235,18846247,-0.0069999998\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0235,1500000,15345149,0.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0235,1500000,15345149,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.016900001,1073700,10951739,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0143,913211,9314752,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.0081,515369,5256763,0.2516\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0022,142639,1454917,0.0\n4,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0016,100000,1019999,0.0\n5,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,45917,468353,1.0\n6,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,28914,294922,0.2683\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0004,27179,277225,0.24530001\n8,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0004,26300,268259,0.0\n9,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0002,15750,160649,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.016900001,1073700,10984058,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0143,913211,9342239,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.0081,515369,5272276,0.2516\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0022,142639,1459211,0.0\n4,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0016,100000,1023009,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,28914,295793,0.2683\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0004,27179,278043,0.24530001\n7,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0004,26300,269051,0.0\n8,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0002,15750,161124,0.0\n9,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,14179,145052,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.15215\ninstitutionsPercentHeld,0.7288\ninstitutionsFloatPercentHeld,0.85958\ninstitutionsCount,76.0\n
+,Value\ninsidersPercentHeld,0.15269\ninstitutionsPercentHeld,0.72536004\ninstitutionsFloatPercentHeld,0.85608\ninstitutionsCount,75.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DMII,Drugs Made In America Acquisition II Corp.,Financial Services,Shell Companies,United States,649739968,10.2,143120,108170,1103334.0,,,,0.0,0.0,0.0,,,174974,450000,,0.338,0.271,-1280839,,63700000,54008045,0.15215,0.7288,111243,0.74,0.0018000001,33.999996,,,-36.298935,,,,,,,none,,,,,,,,,2026-10-31T15:33:44.288924+00:00
+0.00,DMII,Drugs Made In America Acquisition II Corp.,Financial Services,Shell Companies,United States,651657344,10.2301,56510,111928,1145034.6328,,,,0.0,0.0,0.0,,,174974,450000,,0.338,0.271,-1280839,,63700000,54008045,0.15269,0.72536004,111243,0.74,0.0018000001,34.10033,,,-36.40605,,,,,,,none,,,,,,,,,2026-11-10T09:16:35.814299+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-03,9.87,9.88,9.87,9.88,,,,,,,0,9.8800,0,9113,,,,
 2025-12-04,9.86,9.88,9.86,9.88,,,,,,,0,9.8800,0,782,,,,
@@ -246,3 +246,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.20,10.21,10.19,10.21,10.19,10.19,10.16,10.08,10.05,10.1719,1,10.1534,1,253,1207,0.0115,0.0117,-0.0002
 2026-11-03,10.21,10.22,10.21,10.21,10.20,10.19,10.16,10.08,10.05,10.1822,1,10.1546,1,94,1209,0.0119,0.0117,0.0001
 2026-11-04,10.22,10.23,10.22,10.23,10.20,10.19,10.16,10.08,10.05,10.1907,1,10.1570,1,355,1216,0.0132,0.0120,0.0012
+2026-11-05,10.23,10.23,10.22,10.22,10.20,10.20,10.17,10.09,10.05,10.1934,1,10.1611,1,1043,1237,0.0137,0.0124,0.0014
+2026-11-06,10.21,10.21,10.21,10.21,10.21,10.20,10.17,10.09,10.06,10.1934,1,10.1666,1,716,1251,0.0132,0.0125,0.0006
+2026-11-09,10.22,10.24,10.22,10.23,10.21,10.20,10.17,10.09,10.06,10.1934,1,10.1717,1,2860,1308,0.0142,0.0129,0.0013
+2026-11-10,10.23,10.24,10.23,10.23,10.21,10.20,10.17,10.09,10.06,10.1984,1,10.1785,1,1390,1336,0.0148,0.0133,0.0015

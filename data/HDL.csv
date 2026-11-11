@@ -17,7 +17,7 @@ upgrades_downgrades
 cashflow
 ,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30\nFree Cash Flow,-6408000.0,24235000.0,2526000.0,34142000.0,26599000.0\nEnd Cash Position,147659000.0,104166000.0,144590000.0,217771000.0,258471000.0\nBeginning Cash Position,104166000.0,144590000.0,217771000.0,258471000.0,204933000.0\nEffect Of Exchange Rate Changes,-1117000.0,-966000.0,616000.0,864000.0,1133000.0\nChanges In Cash,44610000.0,-39458000.0,-73797000.0,-41564000.0,52405000.0\nFinancing Cash Flow,-14052000.0,-10148000.0,-11311000.0,-13189000.0,-11707000.0\nInvesting Cash Flow,30418000.0,-53545000.0,-96700000.0,-62517000.0,37513000.0\nOperating Cash Flow,28244000.0,24235000.0,34214000.0,34142000.0,26599000.0\n
 earnings_dates
-Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2026-12-02 07:00:00-05:00,0.01,,\n2026-08-26 07:00:00-04:00,0.03,,-100.0\n2026-05-20 06:00:00-04:00,0.26,0.1,-61.54\n2026-03-31 06:00:00-04:00,0.04,0.1,150.0\n2025-11-26 05:00:00-05:00,0.2,0.1,-50.0\n2025-08-26 06:00:00-04:00,0.2,0.3,50.0\n2025-05-21 06:00:00-04:00,0.2,0.2,\n2025-03-25 08:00:00-04:00,0.17,-0.02,-111.76\n2024-11-25 06:00:00-05:00,0.12,0.06,-50.0\n
+Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2026-12-02 08:00:00-05:00,0.01,,\n2026-08-26 07:00:00-04:00,0.03,,-100.0\n2026-05-20 06:00:00-04:00,0.26,0.1,-61.54\n2026-03-31 06:00:00-04:00,0.04,0.1,150.0\n2025-11-26 05:00:00-05:00,0.2,0.1,-50.0\n2025-08-26 06:00:00-04:00,0.2,0.3,50.0\n2025-05-21 06:00:00-04:00,0.2,0.2,\n2025-03-25 08:00:00-04:00,0.17,-0.02,-111.76\n2024-11-25 06:00:00-05:00,0.12,0.06,-50.0\n
 insider_transactions
 ""\n
 major_holders
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.81,HDL,Super Hi International Holding Ltd.,Consumer Cyclical,Restaurants,Singapore,582482304,9.9,1260,796,7880.400000000001,0.1,,,0.29188,0.042930003,0.01155,0.02631,0.04606,266403008,234382000,58.638,2.501,2.053,120834000,55460124,58836600,57894169,0.0047400002,0.0051200003,295,0.38,0.0,98.99999,10.87912,0.65537584,1.6256157,0.693,6.315,17.6,21.3,14.5,,none,3,0,0,1,1,2026-08-26,0.639,https://www.superhiinternational.com,2026-10-31T16:39:51.096483+00:00
+21.57,HDL,Super Hi International Holding Ltd.,Consumer Cyclical,Restaurants,Singapore,582482304,9.9,50,754,7464.6,0.1,,,0.29188,0.042930003,0.01155,0.02631,0.04606,266403008,234382000,58.638,2.501,2.053,120834000,55460124,58836600,57894169,0.0047400002,0.0051200003,295,0.38,0.0,98.99999,10.87912,0.65537584,1.6256157,0.693,6.315,17.6,21.3,14.5,,none,3,0,0,1,1,2026-12-02,0.666,https://www.superhiinternational.com,2026-11-10T10:13:43.767366+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-17,27.00,30.00,19.80,22.29,,,,,,,0,19.8000,1,14934,,,,
 2024-05-20,21.07,21.44,20.38,20.92,,,,,,,0,19.8000,1,3642,,,,
@@ -633,3 +633,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.90,9.90,9.90,9.90,10.06,10.65,12.19,13.24,14.09,10.5981,0,11.4421,0,,10,-0.6791,-0.6918,0.0126
 2026-11-03,9.90,9.90,9.90,9.90,10.02,10.55,12.13,13.20,14.06,10.5283,0,11.4081,0,,10,-0.6558,-0.6846,0.0288
 2026-11-04,9.90,9.90,9.90,9.90,9.99,10.45,12.05,13.16,14.03,10.4655,0,11.3748,0,,9,-0.6300,-0.6737,0.0436
+2026-11-05,9.90,9.90,9.90,9.90,10.01,10.35,11.98,13.11,13.99,10.4089,0,11.3422,0,,9,-0.6026,-0.6595,0.0568
+2026-11-06,9.90,9.90,9.90,9.90,9.96,10.25,11.91,13.07,13.96,10.3580,0,11.3102,0,,9,-0.5743,-0.6424,0.0681
+2026-11-09,9.90,9.90,9.90,9.90,9.90,10.18,11.85,13.03,13.93,10.3122,0,11.2789,0,,9,-0.5456,-0.6231,0.0775
+2026-11-10,9.90,9.90,9.90,9.90,9.90,10.12,11.80,12.99,13.90,10.2710,0,11.2482,0,,9,-0.5169,-0.6018,0.0849

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0017,30000,296400,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Periscope Capital Inc.,0.020299999,350000,3458000,1.0\n1,2026-09-30,First Trust Capital Management L.P.,0.0174,300000,2964000,1.0\n2,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.016900001,290814,2873242,1.0\n3,2026-09-30,"Context Capital Management, LLC",0.0145000005,250000,2470000,1.0\n4,2026-09-30,Stonex Group Inc.,0.0115,197610,1952386,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0017,30000,296400,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00056\ninstitutionsFloatPercentHeld,0.00056\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.107130006\ninstitutionsFloatPercentHeld,0.10732\ninstitutionsCount,9.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,227240000,9.88,27190,26811,264892.68,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.0,0.00056,1538,0.05,,,,,-705.7143,,,,,,,none,,,,,,,,,2026-10-31T18:32:22.665777+00:00
+0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,227240000,9.88,10570,25481,251752.28000000003,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.00174,0.107130006,1538,0.05,,,,,-705.7143,,,,,,,none,,,,,,,,,2026-11-10T11:21:18.471156+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-17,9.83,9.93,9.83,9.89,,,,,,,0,9.8300,1,458,,,,
 2026-08-18,9.88,9.88,9.86,9.86,,,,,,,0,9.8300,1,6,,,,
@@ -86,3 +86,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.88,9.88,9.88,9.88,9.86,9.86,9.87,,,9.8605,1,9.9702,0,,276,0.0006,-0.0015,0.0020
 2026-11-03,9.88,9.88,9.88,9.88,9.87,9.87,9.87,,,9.8625,1,9.9678,0,198,280,0.0016,-0.0009,0.0024
 2026-11-04,9.88,9.88,9.88,9.88,9.87,9.87,9.87,,,9.8642,1,9.9654,0,,279,0.0023,-0.0002,0.0025
+2026-11-05,9.87,9.88,9.87,9.88,9.87,9.87,9.87,,,9.8642,1,9.9631,0,352,277,0.0029,0.0004,0.0025
+2026-11-06,9.88,9.88,9.88,9.88,9.87,9.87,9.87,,,9.8645,1,9.9608,0,,262,0.0033,0.0010,0.0023
+2026-11-09,9.88,9.88,9.88,9.88,9.87,9.87,9.87,,,9.8661,1,9.9586,0,,255,0.0036,0.0015,0.0021
+2026-11-10,9.88,9.88,9.88,9.88,9.88,9.87,9.87,,,9.8675,1,9.9565,0,4,245,0.0038,0.0019,0.0018

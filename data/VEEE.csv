@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,DICKERSON MICHAEL PATRICK,Chief Financial Officer,,Stock Award(Grant),2024-11-26,80583,2024-11-26\n1,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-07-27,5523,2026-07-27\n2,KULL MARCIA,Director,,Stock Award(Grant),2024-11-26,2816,2024-11-26\n3,ROSS NEIL,Director,,Stock Award(Grant),2024-11-26,19033,2024-11-26\n4,SCHUYLER KEVIN,Director,,Purchase,2026-03-19,31252,2026-03-19\n5,SWETS LARRY GENE JR.,Director,,Purchase,2026-03-18,250000,2026-03-18\n6,VISCONTI JOSEPH C.,Chief Executive Officer,,Purchase,2026-02-23,262914,2026-02-23\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Keebeck Wealth Management,0.0185,10811,100217,0.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0017,1010,9362,7.9381\n2,2026-09-30,"Stone House Investment Management, LLC",0.0017,1000,9270,1.0\n3,2026-06-30,Morgan Stanley,0.0013,782,7249,1.0\n4,2026-06-30,Vanguard Capital Management LLC,0.0005,315,2920,0.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0002,100,927,1.0\n6,2026-06-30,Crewe Advisors LLC,0.0,1,9,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.0186,10889,85587,1.0\n1,2026-06-30,Keebeck Wealth Management,0.0185,10811,84974,0.0\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0017,1010,7938,7.9381\n3,2026-09-30,"Stone House Investment Management, LLC",0.0017,1000,7860,1.0\n4,2026-06-30,Morgan Stanley,0.0013,782,6146,1.0\n5,2026-06-30,Vanguard Capital Management LLC,0.0005,315,2475,0.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0002,100,786,1.0\n7,2026-06-30,Crewe Advisors LLC,0.0,1,7,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0387,22598,209483,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0064999997,3783,35068,0.4053\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.00090000004,536,4968,1.0\n3,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0005,315,2920,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0387,22598,177620,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0064999997,3783,29734,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.00090000004,536,4212,0.0\n3,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0005,315,2475,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-04-08 09:30:00-04:00,0.1\n2026-05-04 09:30:00-04:00,0.02702702702702703\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VEEE,Twin Vee Powercats Co.,Consumer Cyclical,Recreational Vehicles,United States,5413439,9.27,39590,547682,5077012.14,-0.342,,,0.00588,-0.74218005,-0.76307,-0.62583,-0.27294,3721284,3083195,21.403,2.36,1.358,-7667790,-1416623,583974,524325,0.089700006,0.09786,47844,0.03,0.083500005,,,0.3996839,0.3675363,0.346,-0.617,74.00007,74.00007,74.00007,,none,1,,,,,2026-11-05,0.895,https://twinvee.com,2026-10-31T20:50:05.825018+00:00
+0.00,VEEE,Twin Vee Powercats Co.,Consumer Cyclical,Recreational Vehicles,United States,4590035,7.86,11530,534837,4203818.82,-0.342,,,0.00588,-0.74218005,-0.76307,-0.62583,-0.27294,3721284,3083195,21.403,2.36,1.358,-7667790,-1416623,583974,524325,0.089700006,0.09786,47844,0.03,0.083500005,,,0.3388905,0.035289366,0.299,-0.532,74.00007,74.00007,74.00007,,none,1,,,,,2026-11-05,0.905,https://twinvee.com,2026-11-10T13:38:20.353587+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,9.20,9.33,9.09,9.31,,,,,,,0,9.0900,1,87,,,,
 2026-09-04,9.52,9.99,9.38,9.90,,,,,,,0,9.0900,1,148,,,,
@@ -58,3 +58,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.40,9.40,8.88,8.88,9.19,9.43,,,,10.8025,0,8.2559,1,70,,,,
 2026-11-03,8.94,8.98,8.55,8.98,9.13,9.36,,,,10.7475,0,8.3173,1,104,,,,
 2026-11-04,8.77,9.10,8.55,9.09,9.12,9.30,,,,10.7475,0,8.3762,1,80,,,,
+2026-11-05,8.69,8.75,8.10,8.15,9.01,9.20,,,,10.4763,0,9.7900,0,90,,,,
+2026-11-06,8.35,8.47,7.90,8.27,8.94,9.12,,,,10.2030,0,9.7562,0,87,,,,
+2026-11-09,8.62,8.62,7.86,7.86,8.85,9.06,,,,10.2030,0,9.6820,0,92,,,,
+2026-11-10,7.88,7.98,7.16,7.44,8.67,8.99,,,,9.6548,0,9.5726,0,31,,,,

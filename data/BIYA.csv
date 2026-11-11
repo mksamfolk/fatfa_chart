@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0034999999,9351,11595,1.0\n1,2026-06-30,Stonex Group Inc.,0.00090000004,2500,3100,1.0\n2,2026-06-30,"Jump Financial, LLC",0.00059999997,1568,1944,1.0\n3,2026-06-30,UBS Group AG,0.00059999997,1512,1874,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.0233,62002,69752,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0034999999,9351,10519,1.0\n2,2026-06-30,"Jump Financial, LLC",0.00059999997,1568,1764,1.0\n3,2026-06-30,UBS Group AG,0.00059999997,1512,1701,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.026700001,71230,88325,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.026700001,71230,80133,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -17,17 +17,17 @@ upgrades_downgrades
 cashflow
 ""\n
 earnings_dates
-Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-03-30 08:00:00-04:00,,,\n
+Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-03-30 09:00:00-04:00,,,\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00011\ninstitutionsPercentHeld,0.03192\ninstitutionsFloatPercentHeld,0.03193\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.00011\ninstitutionsPercentHeld,0.027579999\ninstitutionsFloatPercentHeld,0.027579999\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "d603ee0c-2ad9-3f1f-bf54-249220f2e20d",\n    "title": "Switzerland Bitcoin ETF and Cameroon’s Paul Biya: A Financial Haven Debate",\n    "publisher": "Cryptonews",\n    "link": "https://finance.yahoo.com/markets/crypto/articles/switzerland-bitcoin-etf-cameroon-paul-075430405.html",\n    "providerPublishTime": 1792569270,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/cryptonews_us_711/d3860b1913c67eb7ad27c1cec0bfa72d.jpg",\n          "width": 1024,\n          "height": 609,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/92B857D8B36285B268EB8E71E9108C928F1B7F299FA06FACA2599BD974E2453B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2Fd3860b1913c67eb7ad27c1cec0bfa72d.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BTC-USD"\n    ]\n  },\n  {\n    "uuid": "b59cb310-f28e-393d-89a0-f7d3f71e99e3",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-113134411.html",\n    "providerPublishTime": 1791459094,\n    "type": "STORY",\n    "relatedTickers": [\n      "RGP",\n      "SXTC",\n      "BIYA",\n      "PFAI"\n    ]\n  },\n  {\n    "uuid": "b8eef820-73cc-3f3a-b3af-d0f39b4c61d1",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018409.html",\n    "providerPublishTime": 1791383418,\n    "type": "STORY",\n    "relatedTickers": [\n      "NIVF",\n      "SBFM",\n      "^IXIC",\n      "SXTC",\n      "BIYA",\n      "LPCN",\n      "OLB",\n      "BULL",\n      "INTC",\n      "NVDA",\n      "GRAB",\n      "ONDS",\n      "AAL",\n      "LGCL"\n    ]\n  },\n  {\n    "uuid": "5a961488-831a-3833-8179-7974fc264014",\n    "title": "Top Premarket Gainers",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110805116.html",\n    "providerPublishTime": 1791371285,\n    "type": "STORY",\n    "relatedTickers": [\n      "BIYA",\n      "NCPL",\n      "MTEN",\n      "LPCN"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-12-30 09:30:00-05:00,0.04\n2026-07-13 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.00,BIYA,Baiya International Group Inc.,Technology,Software - Application,China,8469031,1.24,129170,2461025,3051671.0,,,,0.11479,-4.54953,-0.41821998,-0.30751,-0.17274,1181159,0,,12.546,0.791,-1234651,-3704627,3229864,2998775,0.00011,0.03192,175376,0.03,0.0545,0.027488362,,0.4914185,0.28663892,0.388,-0.85,,,,,none,,,,,,2026-09-29,,https://www.baiyainc.com,2026-10-31T14:36:28.141790+00:00
+4.67,BIYA,Baiya International Group Inc.,Technology,Software - Application,China,7683597,1.125,63070,2411289,2712700.125,,,,0.11479,-4.54953,-0.41821998,-0.30751,-0.17274,1181159,0,,12.546,0.791,-1234651,-3704627,3229864,2998775,0.00011,0.027579999,175376,0.03,0.0545,0.024939038,,0.44584343,0.26005545,0.346,-0.757,,,,,none,,,,,,2026-09-29,,https://www.baiyainc.com,2026-11-10T08:21:12.374771+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-21,950.00,1062.50,937.50,1045.00,,,,,,,0,937.5000,1,8063,,,,
 2025-03-24,1087.50,1115.00,965.25,1037.50,,,,,,,0,937.5000,1,2700,,,,
@@ -423,3 +423,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.24,1.25,1.22,1.22,1.24,1.40,2.03,6.94,13.65,1.2002,1,1.7386,0,40,6245,-0.2732,-0.3151,0.0420
 2026-11-03,1.23,1.26,1.22,1.23,1.24,1.39,1.99,6.82,13.47,1.2002,1,1.6827,0,44,6211,-0.2588,-0.3039,0.0450
 2026-11-04,1.23,1.26,1.19,1.19,1.23,1.34,1.96,6.69,13.26,1.5790,0,1.6324,0,77,6181,-0.2478,-0.2927,0.0448
+2026-11-05,1.19,1.21,1.10,1.10,1.22,1.30,1.92,6.59,13.03,1.5012,0,1.5872,0,68,6093,-0.2436,-0.2828,0.0393
+2026-11-06,1.07,1.13,1.06,1.11,1.20,1.27,1.89,6.50,12.80,1.4331,0,1.5287,0,86,6071,-0.2367,-0.2736,0.0369
+2026-11-09,1.13,1.18,1.08,1.13,1.19,1.25,1.85,6.41,12.61,1.4331,0,1.4631,0,64,6052,-0.2274,-0.2644,0.0370
+2026-11-10,1.12,1.22,1.12,1.18,1.19,1.23,1.82,6.33,12.40,1.4331,0,1.4067,0,48,6031,-0.2131,-0.2541,0.0410

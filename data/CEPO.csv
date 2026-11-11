@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date,Shares Owned Indirectly,Position Indirect Date\n0,"CANTOR EP HOLDINGS I, LLC",Beneficial Owner of more than 10% of a Class of Security,,Purchase,2025-01-08,500000.0,2025-01-08,,\n1,"HARRADEN CIRCLE INVESTMENTS, LLC",Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-11-06,,,2048680.0,1762387200.0\n2,LUTNICK BRANDON,Chief Executive Officer,,Purchase,2025-10-06,,,500000.0,1759708800.0\n3,LUTNICK HOWARD W,Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-10-06,,,0.0,1759708800.0\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.1438,2948729,31875761,-0.00029999999\n1,2026-06-30,Anson Funds Management LP,0.0995,2039750,22049698,0.0\n2,2026-06-30,RLH Capital LLC,0.0719,1474889,15943550,1.1823001\n3,2026-06-30,Berkley W R Corp,0.0705,1444647,15616634,0.18180001\n4,2026-06-30,"CrossingBridge Advisors, LLC",0.0471,965601,10438147,0.0\n5,2026-06-30,Quarry LP                          ,0.046,943596,10200273,1.6324\n6,2026-06-30,Alberta Investment Management Corp,0.0293,600000,6486000,0.0\n7,2026-06-30,Toronto Dominion Bank,0.025,512500,5540125,-0.2332\n8,2026-06-30,Feynman Point Asset Management LLC,0.024400001,500000,5405000,0.0\n9,2026-06-30,"RiverPark Advisors, LLC",0.0238,487991,5275182,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.1438,2948729,31846273,-0.00029999999\n1,2026-06-30,Anson Funds Management LP,0.0995,2039750,22029300,0.0\n2,2026-06-30,RLH Capital LLC,0.0719,1474889,15928801,1.1823001\n3,2026-06-30,Berkley W R Corp,0.0705,1444647,15602187,0.18180001\n4,2026-06-30,"CrossingBridge Advisors, LLC",0.0471,965601,10428490,0.0\n5,2026-06-30,Quarry LP                          ,0.046,943596,10190836,1.6324\n6,2026-06-30,Alberta Investment Management Corp,0.0293,600000,6480000,0.0\n7,2026-06-30,Toronto Dominion Bank,0.025,512500,5535000,-0.2332\n8,2026-06-30,Feynman Point Asset Management LLC,0.024400001,500000,5400000,0.0\n9,2026-06-30,"RiverPark Advisors, LLC",0.0238,487991,5270302,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0119,244445,2642450,1.0\n1,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0011,21608,233582,0.0769\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.001,20534,221972,-0.33290002\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13318,143967,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0119,244445,2640006,1.0\n1,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0011,21608,233366,0.0769\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.001,20534,221767,-0.33290002\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13318,143834,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,250000,2606250,,Sale at price 10.42 per share.,"HARRADEN CIRCLE INVESTMENTS, LLC",Beneficial Owner of more than 10% of a Class of Security,,2025-11-06,I\n1,500000,5235000,,Purchase at price 10.47 per share.,LUTNICK BRANDON,Chief Executive Officer,,2025-10-06,I\n2,500000,5235000,,Sale at price 10.47 per share.,LUTNICK HOWARD W,Beneficial Owner of more than 10% of a Class of Security,,2025-10-06,I\n3,500000,5000000,,Purchase at price 10.00 per share.,"CANTOR EP HOLDINGS I, LLC",Beneficial Owner of more than 10% of a Class of Security,,2025-01-08,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.14634\ninstitutionsPercentHeld,0.8153\ninstitutionsFloatPercentHeld,0.95507\ninstitutionsCount,56.0\n
+,Value\ninsidersPercentHeld,0.14634\ninstitutionsPercentHeld,0.79888\ninstitutionsFloatPercentHeld,0.93583\ninstitutionsCount,55.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.40,CEPO,Cantor Equity Partners I Inc.,Financial Services,Shell Companies,United States,275655008,10.81,53120,193600,2092816.0,,2.337,2.337,0.0,0.0,0.0,,-0.00408,25000,925423,,0.11,0.017,0,-270889,20500000,11536710,0.14634,0.8153,8804,0.05,0.00059999997,,,,-15.2039385,,,,,,,none,,,,,,,,,2026-10-31T14:59:21.203564+00:00
+57.18,CEPO,Cantor Equity Partners I Inc.,Financial Services,Shell Companies,United States,275400000,10.8,48810,193082,2085285.6,,2.337,2.337,0.0,0.0,0.0,,-0.00408,25000,925423,,0.11,0.017,0,-270889,20500000,11536710,0.14634,0.79888,8804,0.05,0.00059999997,,,,-15.189873,,,,,,,none,,,,,,,,,2026-11-10T08:43:05.184821+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-07,10.04,10.06,10.04,10.05,,,,,,,0,10.0400,1,84503,,,,
 2025-01-08,10.06,10.07,10.05,10.05,,,,,,,0,10.0400,1,4685,,,,
@@ -473,3 +473,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.80,10.82,10.80,10.80,10.79,10.78,10.74,10.62,10.58,10.7701,1,10.3407,1,630,2135,0.0166,0.0160,0.0006
 2026-11-03,10.80,10.81,10.80,10.81,10.79,10.78,10.75,10.62,10.58,10.7701,1,10.3533,1,48,2128,0.0167,0.0162,0.0006
 2026-11-04,10.81,10.81,10.80,10.80,10.79,10.78,10.75,10.62,10.58,10.7701,1,10.3657,1,56,2127,0.0162,0.0162,0.0000
+2026-11-05,10.81,10.81,10.80,10.80,10.80,10.78,10.75,10.63,10.58,10.7701,1,10.3777,1,116,2121,0.0156,0.0161,-0.0004
+2026-11-06,10.81,10.81,10.80,10.80,10.80,10.79,10.76,10.63,10.58,10.7701,1,10.3896,1,55,2121,0.0150,0.0159,-0.0008
+2026-11-09,10.80,10.82,10.80,10.80,10.80,10.79,10.76,10.63,10.59,10.7701,1,10.4012,1,186,2119,0.0143,0.0155,-0.0012
+2026-11-10,10.81,10.82,10.81,10.82,10.80,10.79,10.76,10.63,10.59,10.7709,1,10.4126,1,1597,2120,0.0153,0.0155,-0.0002

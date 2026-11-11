@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.09,2250000,22274999,1.0\n1,2026-06-30,Magnetar Financial LLC,0.08,1999995,19799949,1.0\n2,2026-06-30,Hudson Bay Capital Management Lp,0.064,1599999,15839989,1.0\n3,2026-06-30,"CrossingBridge Advisors, LLC",0.05,1250000,12374999,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1000000,9899999,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0352,879861,8710623,1.0\n6,2026-06-30,Millennium Management Llc,0.03,750000,7424999,1.0\n7,2026-06-30,Linden Advisors LP,0.027999999,700000,6929999,1.0\n8,2026-06-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.022,549999,5444989,1.0\n9,2026-06-30,Sculptor Capital LP,0.020299999,508197,5031150,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.09,2250000,22274775,1.0\n1,2026-06-30,Magnetar Financial LLC,0.08,1999995,19799751,1.0\n2,2026-06-30,Hudson Bay Capital Management Lp,0.064,1599999,15839830,1.0\n3,2026-06-30,"CrossingBridge Advisors, LLC",0.05,1250000,12374875,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1000000,9899900,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0352,879861,8710536,1.0\n6,2026-06-30,Millennium Management Llc,0.03,750000,7424925,1.0\n7,2026-06-30,Linden Advisors LP,0.027999999,700000,6929930,1.0\n8,2026-06-30,Sculptor Capital LP,0.020299999,508197,5031099,1.0\n9,2026-06-30,"Meteora Capital, LLC",0.0201,502105,4970789,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.030299999,757000,7494299,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0155,387009,3831388,1.0\n2,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.0066000004,165000,1633499,-0.4643\n3,2026-06-30,"Special Opportunities Fund, Inc.",0.0054,134082,1327411,1.0\n4,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0026,66000,653399,1.0\n5,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,62991,623610,1.0\n6,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0025,62000,613799,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.030299999,757000,7494224,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0155,387009,3831350,1.0\n2,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.0066000004,165000,1633483,-0.4643\n3,2026-06-30,"Special Opportunities Fund, Inc.",0.0054,134082,1327398,1.0\n4,2026-08-31,High Income Securities Fund,0.004,99999,989980,1.0\n5,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0026,66000,653393,1.0\n6,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,62991,623604,1.0\n7,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0025,62000,613793,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.71987\ninstitutionsFloatPercentHeld,0.71987\ninstitutionsCount,41.0\n
+,Value\ninsidersPercentHeld,0.0008\ninstitutionsPercentHeld,0.69389\ninstitutionsFloatPercentHeld,0.69445\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RREV,RRE Ventures Acquisition Corp.,Financial Services,Shell Companies,United States,329999968,9.9,22570,25209,249569.1,,,,0.0,0.0,0.0,,,700000,0,,,,,,25000000,,0.0,0.71987,3225,0.1,0.0001,,,,-34.615383,,,,,,,none,,,,,,,,https://rrev.ac,2026-10-31T19:45:13.405501+00:00
+0.00,RREV,RRE Ventures Acquisition Corp.,Financial Services,Shell Companies,United States,329996672,9.8999,11930,21053,208422.59470000002,,,,0.0,0.0,0.0,,,700000,0,,,,,,25000000,,0.0008,0.69389,3225,0.1,0.0001,,,,-34.615036,,,,,,,none,,,,,,,,https://rrev.ac,2026-11-10T12:33:40.717416+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,9.90,9.92,9.90,9.92,,,,,,,0,9.9200,0,74,,,,
 2026-05-21,9.88,9.88,9.88,9.88,,,,,,,0,9.9200,0,57,,,,
@@ -131,3 +131,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.91,9.91,9.91,9.91,9.90,9.91,9.92,,,9.9007,1,9.9327,0,,174,-0.0026,-0.0024,-0.0002
 2026-11-03,9.90,9.92,9.89,9.89,9.90,9.91,9.92,,,9.9193,0,9.9320,0,442,182,-0.0038,-0.0027,-0.0011
 2026-11-04,9.90,9.90,9.90,9.90,9.90,9.91,9.92,,,9.9187,0,9.9303,0,7,182,-0.0039,-0.0029,-0.0010
+2026-11-05,9.90,9.90,9.90,9.90,9.90,9.91,9.92,,,9.9168,0,9.9287,0,,182,-0.0039,-0.0031,-0.0008
+2026-11-06,9.90,9.90,9.90,9.90,9.90,9.91,9.91,,,9.9151,0,9.9272,0,,121,-0.0039,-0.0033,-0.0007
+2026-11-09,9.90,9.90,9.90,9.90,9.90,9.91,9.91,,,9.9136,0,9.9257,0,,121,-0.0039,-0.0034,-0.0005
+2026-11-10,9.90,9.92,9.90,9.90,9.90,9.91,9.91,,,9.9136,0,9.9243,0,1526,151,-0.0038,-0.0035,-0.0003

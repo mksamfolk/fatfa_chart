@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0757,1800000,18468000,0.0\n1,2026-06-30,Glazer Capital LLC,0.0673,1600000,16416000,0.5439\n2,2026-06-30,Linden Advisors LP,0.052600004,1250000,12825000,0.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0515,1225000,12568500,0.0\n4,2026-06-30,Picton Mahoney Asset Management,0.0416,990000,10157400,0.0154\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0317,753500,7730910,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0315,750000,7695000,0.0\n7,2026-06-30,"Wolverine Asset Management, LLC",0.0304,722965,7417621,0.1201\n8,2026-06-30,"Two Sigma Investments, LP",0.0301,715519,7341225,0.0\n9,2026-06-30,Magnetar Financial LLC,0.0273,650000,6669000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0757,1800000,18468000,0.0\n1,2026-06-30,Glazer Capital LLC,0.0673,1600000,16416000,0.5439\n2,2026-06-30,Linden Advisors LP,0.052600004,1250000,12825000,0.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0515,1225000,12568500,0.0\n4,2026-06-30,Picton Mahoney Asset Management,0.0416,990000,10157400,0.0154\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0317,753500,7730910,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0315,750000,7695000,0.0\n7,2026-06-30,"Two Sigma Investments, LP",0.0301,715519,7341225,0.0\n8,2026-06-30,Magnetar Financial LLC,0.0273,650000,6669000,0.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.0271,643672,6604074,-0.1097\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.020399999,484258,4968487,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0116,276571,2837618,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0029,69971,717902,0.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,40000,410400,0.0\n4,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0017,39246,402663,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0007,16415,168417,1.0\n6,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,15544,159481,2.6335\n7,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0005,10807,110879,0.0\n8,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00029999999,8295,85106,1.0\n9,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5065,51966,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.020399999,484258,4968487,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0116,276571,2837618,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0029,69971,717902,0.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,40000,410400,0.0\n4,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0017,39246,402663,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0007,16415,168417,1.0\n6,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,15544,159481,2.6335\n7,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0005,10807,110879,0.0\n8,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00029999999,8295,85106,1.0\n9,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5065,51966,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.87373\ninstitutionsFloatPercentHeld,0.87373\ninstitutionsCount,62.0\n
+,Value\ninsidersPercentHeld,0.00147\ninstitutionsPercentHeld,0.87842005\ninstitutionsFloatPercentHeld,0.87971\ninstitutionsCount,63.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OTGA,OTG Acquisition Corp. I,Financial Services,Shell Companies,United States,302926496,10.26,56870,62410,640326.6,,,,0.0,0.0,0.0,,,348766,0,0.002,10.853,9.29,-917352,,23775000,21475009,0.0,0.87373,374,0.01,0.0,,,,684.00006,,,,,,,none,,,,,,,,,2026-10-31T19:06:32.100056+00:00
+55.43,OTGA,OTG Acquisition Corp. I,Financial Services,Shell Companies,United States,302926496,10.26,17440,46028,472247.27999999997,,,,0.0,0.0,0.0,,,348766,0,0.002,10.853,9.29,-917352,,23775000,21475009,0.00147,0.87842005,374,0.01,0.0,,,,684.00006,,,,,,,none,,,,,,,,,2026-11-10T11:55:36.709638+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-03,10.07,10.07,10.00,10.03,,,,,,,0,10.0000,1,2325,,,,
 2025-11-04,10.04,10.04,10.01,10.03,,,,,,,0,10.0000,1,1320,,,,
@@ -267,3 +267,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.26,10.26,10.26,10.26,10.26,10.26,10.23,10.16,10.13,10.2551,1,10.2508,1,,767,0.0077,0.0088,-0.0011
 2026-11-03,10.27,10.27,10.27,10.27,10.26,10.26,10.24,10.16,10.13,10.2551,1,10.2512,1,462,705,0.0081,0.0086,-0.0006
 2026-11-04,10.27,10.27,10.27,10.27,10.26,10.26,10.24,10.16,10.13,10.2553,1,10.2516,1,51,651,0.0083,0.0086,-0.0003
+2026-11-05,10.27,10.27,10.26,10.26,10.26,10.26,10.24,10.16,10.14,10.2553,1,10.2519,1,1082,666,0.0077,0.0084,-0.0007
+2026-11-06,10.26,10.26,10.26,10.26,10.26,10.26,10.24,10.17,10.14,10.2553,1,10.2523,1,1,665,0.0070,0.0081,-0.0011
+2026-11-09,10.26,10.26,10.26,10.26,10.26,10.26,10.24,10.17,10.14,10.2553,1,10.2526,1,,645,0.0064,0.0078,-0.0014
+2026-11-10,10.26,10.26,10.26,10.26,10.26,10.26,10.24,10.17,10.14,10.2553,1,10.2530,1,,553,0.0058,0.0074,-0.0015

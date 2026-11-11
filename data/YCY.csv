@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.059,699994,7230937,0.0\n1,2026-06-30,Mizuho Securities USA LLC,0.058000002,688168,7108775,0.070199996\n2,2026-06-30,"Wolverine Asset Management, LLC",0.0506,600048,6198495,0.035\n3,2026-06-30,"Westchester Capital Management, LLC",0.0482,572185,5910671,0.0\n4,2026-06-30,"Aristeia Capital, LLC",0.0471,558328,5767528,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0452,536609,5543170,0.0\n6,2026-06-30,"Whitebox Advisors, LLC",0.0422,500000,5164999,0.0\n7,2026-06-30,"Highbridge Capital Management, LLC.",0.0382,452645,4675822,1417.9498\n8,2026-06-30,Hudson Bay Capital Management Lp,0.0337,400000,4131999,0.0\n9,2026-06-30,BlueCrest Capital Management Ltd,0.0337,400000,4131999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.059,699994,7230937,0.0\n1,2026-09-30,Mizuho Securities USA LLC,0.059,700000,7230999,0.0172\n2,2026-06-30,"Westchester Capital Management, LLC",0.0482,572185,5910671,0.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0471,558328,5767528,0.0\n4,2026-06-30,AQR Arbitrage LLC,0.0452,536609,5543170,0.0\n5,2026-06-30,"Whitebox Advisors, LLC",0.0422,500000,5164999,0.0\n6,2026-06-30,"Highbridge Capital Management, LLC.",0.0382,452645,4675822,1417.9498\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0337,400000,4131999,0.0\n8,2026-06-30,BlueCrest Capital Management Ltd,0.0337,400000,4131999,0.0\n9,2026-06-30,Berkley W R Corp,0.033099998,392235,4051787,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.033299997,394961,4079947,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0211,250000,2582499,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.018099999,215174,2222747,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0047999998,56772,586454,0.0\n4,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,50000,516499,0.0\n5,2026-06-30,First Trust Alternative Opportunities Fund,0.0042,50000,516499,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0034999999,41466,428343,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0034999999,41867,432486,0.0\n8,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0028,33356,344567,0.0\n9,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0018000001,21127,218241,0.0\n
 recommendations
@@ -15,19 +15,19 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31\nFree Cash Flow,-69716.0,-334783.0\nEnd Cash Position,244932.0,314648.0\nBeginning Cash Position,314648.0,649431.0\nChanges In Cash,-69716.0,-334783.0\nOperating Cash Flow,-69716.0,-334783.0\nCash Flow From Continuing Operating Activities,-69716.0,-334783.0\nChange In Working Capital,32768.0,-69389.0\nChange In Prepaid Assets,28252.0,24852.0\nChange In Receivables,95559.0,-94241.0\nChanges In Account Receivables,,-95137.0\nOperating Gains Losses,-1039035.0,-1023172.0\nGain Loss On Investment Securities,-1039035.0,-1023172.0\nNet Income From Continuing Operations,936551.0,757778.0\n
+,2026-09-30,2026-06-30,2026-03-31\nFree Cash Flow,-93678.0,-69716.0,-334783.0\nEnd Cash Position,151254.0,244932.0,314648.0\nBeginning Cash Position,244932.0,314648.0,649431.0\nChanges In Cash,-93678.0,-69716.0,-334783.0\nOperating Cash Flow,-93678.0,-69716.0,-334783.0\nCash Flow From Continuing Operating Activities,-93678.0,-69716.0,-334783.0\nChange In Working Capital,16100.0,32768.0,-69389.0\nChange In Payables And Accrued Expense,-4563.0,,\nChange In Accrued Expense,-4563.0,,\nChange In Prepaid Assets,20463.0,28252.0,24852.0\nChange In Receivables,200.0,95559.0,-94241.0\nChanges In Account Receivables,,,-95137.0\nOperating Gains Losses,-1082096.0,-1039035.0,-1023172.0\nGain Loss On Investment Securities,-1082096.0,-1039035.0,-1023172.0\nNet Income From Continuing Operations,972318.0,936551.0,757778.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.90245\ninstitutionsFloatPercentHeld,0.90245\ninstitutionsCount,42.0\n
+,Value\ninsidersPercentHeld,0.0029499999\ninstitutionsPercentHeld,0.89922994\ninstitutionsFloatPercentHeld,0.90189004\ninstitutionsCount,42.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,YCY,AA Mission Acquisition Corp. II,Financial Services,Shell Companies,United States,152215136,10.33,4030,30471,314765.43,,,,0.0,0.0,0.0,,,151254,0,,1.098,0.581,,,11860250,11860255,0.0,0.90245,778,0.02,0.0001,,,,-64.16149,,,,,,,none,,,,,,,,https://aamission2.com,2026-10-31T21:12:03.220296+00:00
+57.86,YCY,AA Mission Acquisition Corp. II,Financial Services,Shell Companies,United States,152215136,10.33,35570,35400,365682.0,,,,0.0,0.0,0.0,,,151254,0,,1.098,0.581,-1087900,,11860250,11860255,0.0029499999,0.89922994,778,0.02,0.0001,,,,-53.523315,,,,,,,none,,,,,,,,https://aamission2.com,2026-11-10T14:02:21.348359+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-29,9.90,9.93,9.90,9.93,,,,,,,0,9.9000,1,1537,,,,
 2025-10-30,9.94,9.94,9.93,9.93,,,,,,,0,9.9000,1,7364,,,,
@@ -270,3 +270,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.33,10.33,10.33,10.33,10.31,10.30,10.27,10.17,10.14,10.3010,1,10.3066,1,258,364,0.0157,0.0145,0.0012
 2026-11-03,10.33,10.33,10.33,10.33,10.31,10.31,10.27,10.17,10.14,10.3039,1,10.3085,1,,364,0.0162,0.0149,0.0013
 2026-11-04,10.33,10.33,10.33,10.33,10.32,10.31,10.27,10.18,10.14,10.3065,1,10.3102,1,,364,0.0164,0.0152,0.0012
+2026-11-05,10.33,10.33,10.33,10.33,10.32,10.31,10.27,10.18,10.14,10.3089,1,10.3118,1,1450,393,0.0163,0.0154,0.0009
+2026-11-06,10.33,10.33,10.33,10.33,10.32,10.31,10.28,10.18,10.14,10.3110,1,10.3133,1,1549,424,0.0161,0.0155,0.0006
+2026-11-09,10.33,10.33,10.33,10.33,10.32,10.31,10.28,10.18,10.15,10.3129,1,10.3146,1,,424,0.0158,0.0156,0.0002
+2026-11-10,10.33,10.35,10.33,10.35,10.33,10.32,10.28,10.18,10.15,10.3186,1,10.3158,1,930,442,0.0169,0.0158,0.0011

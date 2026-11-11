@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0795,1879820,18986182,4.3526\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18180000,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0381,900000,9090000,0.0\n3,2026-06-30,"ExodusPoint Capital Management, LP",0.0357,845000,8534500,0.1267\n4,2026-06-30,Linden Advisors LP,0.033800002,800000,8080000,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0271,639670,6460667,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.0254,600000,6060000,1.0\n7,2026-06-30,Toronto Dominion Bank,0.021300001,504726,5097732,1.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0211,500000,5050000,0.0\n9,2026-06-30,"Scopus Asset Management, LP",0.0211,500000,5050000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0795,1879820,18892191,4.3526\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18090000,0.0\n2,2026-06-30,Magnetar Financial LLC,0.0381,900000,9045000,0.0\n3,2026-06-30,"ExodusPoint Capital Management, LP",0.0357,845000,8492250,0.1267\n4,2026-06-30,Linden Advisors LP,0.033800002,800000,8040000,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0271,639670,6428683,1.0\n6,2026-09-30,Alberta Investment Management Corp,0.0254,600000,6030000,0.0\n7,2026-06-30,Toronto Dominion Bank,0.021300001,504726,5072496,1.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0211,500000,5025000,0.0\n9,2026-06-30,"Scopus Asset Management, LP",0.0211,500000,5025000,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0073,171642,1733584,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0034,79998,807979,1.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0034,79998,807979,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,403989,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0011999999,27306,275790,0.0\n5,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,11532,116473,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,8823,89112,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0073,171642,1725002,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0034,79998,803979,1.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0034,79998,803979,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,401989,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0011999999,27306,274425,0.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,11532,115896,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,8823,88671,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0014599999\ninstitutionsPercentHeld,0.77379\ninstitutionsFloatPercentHeld,0.77492\ninstitutionsCount,53.0\n
+,Value\ninsidersPercentHeld,0.00294\ninstitutionsPercentHeld,0.76575\ninstitutionsFloatPercentHeld,0.76801\ninstitutionsCount,53.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAAQ,Space Asset Acquisition Corp.,Financial Services,Shell Companies,United States,316247872,10.1,25460,55410,559641.0,,,,0.0,0.0,0.0,,,1468186,0,,,,0,,23645000,18608211,0.0014599999,0.77379,693,0.01,0.0,,,,-48.32536,,,,,,,none,,,,,,,,,2026-10-31T19:48:37.008239+00:00
+0.00,SAAQ,Space Asset Acquisition Corp.,Financial Services,Shell Companies,United States,314682272,10.05,32810,59731,600296.55,,,,0.0,0.0,0.0,,,1468186,0,,,,0,,23645000,18608211,0.00294,0.76575,693,0.01,0.0,,,,-48.086124,,,,,,,none,,,,,,,,,2026-11-10T12:37:05.219245+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,10.05,10.05,9.91,9.91,,,,,,,0,10.0500,0,94,,,,
 2026-03-23,9.90,9.93,9.88,9.93,,,,,,,0,10.0500,0,116,,,,
@@ -173,3 +173,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.10,10.11,10.09,10.10,10.08,10.07,10.11,,,10.0727,1,10.0461,1,1667,378,-0.0024,-0.0090,0.0066
 2026-11-03,10.11,10.11,10.11,10.11,10.09,10.08,10.10,,,10.0795,1,10.0500,1,250,383,-0.0003,-0.0073,0.0070
 2026-11-04,10.12,10.12,10.12,10.12,10.09,10.08,10.10,,,10.0895,1,10.0536,1,2,378,0.0022,-0.0054,0.0076
+2026-11-05,10.09,10.09,10.09,10.09,10.10,10.08,10.10,,,10.0895,1,10.0589,1,22,378,0.0017,-0.0040,0.0057
+2026-11-06,10.08,10.08,10.05,10.05,10.09,10.08,10.10,,,10.1098,0,10.1200,0,1202,401,-0.0018,-0.0035,0.0017
+2026-11-09,10.05,10.05,10.05,10.05,10.09,10.08,10.10,,,10.0903,0,10.1186,0,,400,-0.0046,-0.0037,-0.0009
+2026-11-10,10.05,10.06,10.05,10.06,10.09,10.08,10.10,,,10.0903,0,10.1172,0,123,403,-0.0060,-0.0042,-0.0018

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0028,75000,735750,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0021,55791,547309,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Periscope Capital Inc.,0.010299999,275000,2700499,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0069999998,186569,1832107,1.0\n2,2026-09-30,Deltec Asset Management LLC,0.0028,75000,736499,1.0\n3,2026-09-30,Gritstone Asset Management LLC,0.0021,55791,547867,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.08446\ninstitutionsFloatPercentHeld,0.08446\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.10175\ninstitutionsFloatPercentHeld,0.10175\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "24bb34fc-331a-38bd-adfe-2c051da9e98d",\n    "title": "For AMAC's Two Million Members, There's Now a Smarter Roadside Option: Liberty Lane Powered by Way Advantage Is More Than a Tow. It's a Retention Engine.",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/small-business/articles/amacs-two-million-members-theres-160200837.html",\n    "providerPublishTime": 1786636920,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/business-wire.com/8510e1ec4398b8c004d31748a064958b.jpg",\n          "width": 11520,\n          "height": 3456,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/3F5CB0BBA904B0A8173F5339B8997EEFC30B990A2AC2A3AD4409083B53AA24AD/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F8510e1ec4398b8c004d31748a064958b.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,356013088,9.81,10840,30589,300078.09,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.08446,521,0.01,,,,,-981.00006,,,,,,,none,,,,,,,,https://amrresources.us,2026-10-31T14:05:24.636489+00:00
+0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,356375968,9.82,11770,27493,269981.26,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.10175,521,0.01,,,,,-4909.9995,,,,,,,none,,,,,,,,https://amrresources.us,2026-11-10T07:51:00.744919+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-08,10.00,10.00,9.87,9.88,,,,,,,0,10.0000,0,1317,,,,
 2026-09-09,9.85,9.86,9.83,9.86,,,,,,,0,10.0000,0,186,,,,
@@ -71,3 +71,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.81,9.81,9.81,9.81,9.80,9.80,,,,9.8138,0,9.7904,1,3,,-0.0026,-0.0051,0.0025
 2026-11-03,9.81,9.81,9.81,9.81,9.80,9.80,,,,9.8138,0,9.7908,1,,,-0.0018,-0.0045,0.0026
 2026-11-04,9.79,9.79,9.78,9.79,9.80,9.80,,,,9.8073,0,9.8100,0,160,,-0.0028,-0.0041,0.0013
+2026-11-05,9.79,9.79,9.79,9.79,9.80,9.80,,,,9.8073,0,9.8100,0,1,,-0.0036,-0.0040,0.0005
+2026-11-06,9.79,9.79,9.79,9.79,9.80,9.80,,,,9.8073,0,9.8094,0,,,-0.0041,-0.0040,-0.0001
+2026-11-09,9.82,9.82,9.82,9.82,9.80,9.80,,,,9.7948,1,9.7800,1,1,,-0.0021,-0.0037,0.0016
+2026-11-10,9.82,9.82,9.82,9.82,9.80,9.80,,,,9.7973,1,9.7808,1,1,,-0.0005,-0.0030,0.0025

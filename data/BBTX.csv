@@ -21,15 +21,19 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-""\n
+,Value\ninsidersPercentHeld,0.31570998\ninstitutionsPercentHeld,0.32596\ninstitutionsFloatPercentHeld,0.47634998\ninstitutionsCount,3.0\n
 news
 [\n  {\n    "uuid": "eaebbfac-c083-311b-b388-c11c30572d7b",\n    "title": "Bambusa Therapeutics Announces Pricing of Upsized Initial Public Offering",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bambusa-therapeutics-announces-pricing-upsized-001500195.html",\n    "providerPublishTime": 1793319300,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/666ec3c007da6585f8afe962c477a0dc.jpg",\n          "width": 400,\n          "height": 110,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/31AFB3FA3457335530232C12F53880C9D5585FC1C042C66747B2FB1630DBCF12/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F666ec3c007da6585f8afe962c477a0dc.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BBTX"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BBTX,Bambusa Therapeutics Inc. Common stock,Healthcare,Biotechnology,United States,745930496,14.99,2200100,2200100,32979499.0,,,,0.0,0.0,0.0,,,71475000,0,,6.16,5.948,-40901000,,49761875,3525886,,,,,,,,,-1.6920645,,,,,,,none,,,,,,,,https://www.bambusatx.com,2026-10-31T14:28:55.592299+00:00
+0.00,BBTX,Bambusa Therapeutics Inc.,Healthcare,Biotechnology,United States,862964800,16.94,633433,633433,10730355.020000001,,,,0.0,0.0,0.0,,,71475000,0,,6.16,5.948,-40901000,,50942430,3106407,0.31570998,0.32596,,,,,,,-1.9121797,,,,,,,none,,,,,,,,https://www.bambusatx.com,2026-11-10T08:14:06.728877+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-30,14.88,15.66,13.60,14.99,,,,,,,,13.6000,1,32979,,,,
 2026-11-02,14.99,16.06,14.82,16.00,,,,,,,,13.6000,1,6931,,,,
 2026-11-03,16.16,17.42,15.24,16.00,,,,,,,,13.6000,1,4413,,,,
 2026-11-04,15.96,16.55,15.21,16.07,,,,,,,,13.7528,1,4048,,,,
+2026-11-05,16.20,16.75,15.20,15.85,,,,,,,,13.8995,1,6667,,,,
+2026-11-06,15.84,16.05,15.09,15.73,,,,,,,,14.0403,1,3445,,,,
+2026-11-09,15.98,17.12,15.90,16.94,,,,,,,,14.1755,1,5058,,,,
+2026-11-10,16.94,17.50,16.50,17.05,,,,,,,,14.3053,1,2290,,,,

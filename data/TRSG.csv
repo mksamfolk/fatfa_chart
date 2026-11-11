@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"T3 Companies, LLC",0.0423,499122,586817,0.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,3,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"T3 Companies, LLC",0.0423,499122,615317,0.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,3,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.63,TRSG,Tungray Technologies Inc.,Industrials,Metal Fabrication,Singapore,19226792,1.1757,1110,22045,25918.3065,0.109,,,0.45911998,-0.06382,-0.00086000003,-0.009649999,-0.00509,6624600,2918436,16.182,1.938,1.162,-3046678,-3264253,11793485,2057268,0.78892,0.04232,18586,0.32,0.0036000002,,,1.2306165,1.0469278,0.972,77.05,,,,,none,,,,,,,0.11,https://tungray.tech,2026-10-31T20:35:30.431640+00:00
+41.04,TRSG,Tungray Technologies Inc.,Industrials,Metal Fabrication,Singapore,20160578,1.2328,520,21806,26882.4368,0.109,,,0.45911998,-0.06382,-0.00086000003,-0.009649999,-0.00509,6624600,2918436,16.182,1.938,1.162,-3046678,-3264253,11793485,2057268,0.78892,0.04232,18586,0.32,0.0036000002,,,1.2903837,1.0977738,1.032,81.787,,,,,none,,,,,,,0.087,https://tungray.tech,2026-11-10T13:24:16.845385+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,6.58,11.78,4.55,5.95,,,,,,,0,4.5500,1,15851,,,,
 2024-04-22,6.89,8.40,6.60,7.40,,,,,,,0,4.5500,1,34331,,,,
@@ -653,3 +653,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.12,1.19,1.12,1.19,1.19,1.18,1.34,1.36,1.31,1.3881,0,1.2651,0,0,4,-0.0454,-0.0552,0.0098
 2026-11-03,1.19,1.19,1.19,1.19,1.19,1.18,1.34,1.36,1.31,1.3881,0,1.2554,0,,4,-0.0422,-0.0526,0.0104
 2026-11-04,1.19,1.19,1.19,1.19,1.20,1.18,1.33,1.36,1.31,1.3881,0,1.2460,0,,4,-0.0391,-0.0499,0.0108
+2026-11-05,1.19,1.19,1.19,1.19,1.20,1.19,1.33,1.36,1.31,1.3805,0,1.2371,0,,3,-0.0363,-0.0472,0.0109
+2026-11-06,1.10,1.15,1.10,1.15,1.19,1.19,1.32,1.36,1.31,1.3211,0,1.2285,0,3,3,-0.0372,-0.0452,0.0080
+2026-11-09,1.17,1.24,1.15,1.23,1.19,1.19,1.32,1.36,1.31,1.3211,0,1.0220,1,1,3,-0.0308,-0.0423,0.0115
+2026-11-10,1.10,1.23,1.10,1.23,1.19,1.19,1.31,1.36,1.31,1.3211,0,1.0263,1,2,3,-0.0254,-0.0389,0.0135

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Hudson Bay Capital Management Lp,0.051599998,1483278,15055271,0.0\n1,2026-06-30,Glazer Capital LLC,0.0505,1450876,14726390,0.065799996\n2,2026-06-30,Alberta Investment Management Corp,0.0435,1250000,12687499,0.0\n3,2026-06-30,Magnetar Financial LLC,0.0435,1249992,12687418,0.0\n4,2026-06-30,"Yaupon Capital Management, LP",0.0383,1100080,11165811,0.0\n5,2026-06-30,"Mercuria Capital Strategies, LLC                          ",0.0348,1000000,10149999,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,1000000,10149999,0.0\n7,2026-06-30,Linden Advisors LP,0.0348,1000000,10149999,0.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0348,1000000,10149999,0.0\n9,2026-06-30,BlueCrest Capital Management Ltd,0.0287,825000,8373749,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Hudson Bay Capital Management Lp,0.051599998,1483278,15099770,0.0\n1,2026-06-30,Glazer Capital LLC,0.0505,1450876,14769918,0.065799996\n2,2026-06-30,Alberta Investment Management Corp,0.0435,1250000,12725000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.0435,1249992,12724918,0.0\n4,2026-06-30,"Yaupon Capital Management, LP",0.0383,1100080,11198814,0.0\n5,2026-06-30,"Mercuria Capital Strategies, LLC                          ",0.0348,1000000,10180000,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,1000000,10180000,0.0\n7,2026-06-30,Linden Advisors LP,0.0348,1000000,10180000,0.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0348,1000000,10180000,0.0\n9,2026-06-30,BlueCrest Capital Management Ltd,0.0287,825000,8398500,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.006,172512,1750996,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0034999999,99999,1014989,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,26328,267229,0.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00029999999,9122,92588,-0.040799998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.006,172512,1756172,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0034999999,99999,1017989,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,26328,268019,0.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00029999999,9122,92861,-0.040799998\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.89537\ninstitutionsFloatPercentHeld,0.89537\ninstitutionsCount,56.0\n
+,Value\ninsidersPercentHeld,0.0007\ninstitutionsPercentHeld,0.89609003\ninstitutionsFloatPercentHeld,0.89672\ninstitutionsCount,55.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALUB,Alussa Energy Acquisition Corp. II,Financial Services,Shell Companies,United States,364765600,10.15,132680,73743,748491.4500000001,,,,0.0,0.0,0.0,,,604764,0,,1.983,1.673,-627601,,28750000,28750000,0.0,0.89537,4821,0.08,0.0002,,,,-20.178925,,,,,,,none,,,,,,,,https://www.alussaenergy.com/copy-of-alussa-energy-acquisition-corp,2026-10-31T14:04:54.686669+00:00
+0.00,ALUB,Alussa Energy Acquisition Corp. II,Financial Services,Shell Companies,United States,365843776,10.18,22020,75215,765688.7,,,,0.0,0.0,0.0,,,604764,0,,1.983,1.673,-627601,,28750000,28750000,0.0007,0.89609003,4821,0.08,0.0002,,,,-20.23857,,,,,,,none,,,,,,,,https://www.alussaenergy.com/copy-of-alussa-energy-acquisition-corp,2026-11-10T07:50:30.942515+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-06,9.98,9.98,9.98,9.98,,,,,,,0,9.9800,0,185,,,,
 2026-01-07,9.98,9.98,9.90,9.93,,,,,,,0,9.9800,0,822,,,,
@@ -224,3 +224,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.15,10.15,10.15,10.15,10.14,10.14,10.13,10.06,,10.1795,0,10.1727,0,4,699,0.0064,0.0061,0.0003
 2026-11-03,10.15,10.16,10.14,10.16,10.15,10.14,10.13,10.06,,10.1795,0,10.1718,0,460,708,0.0072,0.0064,0.0009
 2026-11-04,10.16,10.16,10.15,10.16,10.15,10.14,10.13,10.06,,10.1795,0,10.1709,0,313,692,0.0078,0.0066,0.0011
+2026-11-05,10.15,10.16,10.14,10.15,10.15,10.15,10.13,10.06,,10.1795,0,10.1699,0,891,710,0.0073,0.0068,0.0005
+2026-11-06,10.15,10.16,10.15,10.16,10.15,10.14,10.14,10.06,,10.1795,0,10.1690,0,407,718,0.0076,0.0069,0.0007
+2026-11-09,10.15,10.18,10.15,10.18,10.15,10.15,10.14,10.06,,10.1250,1,10.1250,1,399,726,0.0094,0.0074,0.0020
+2026-11-10,10.17,10.19,10.16,10.16,10.16,10.15,10.14,10.07,,10.1267,1,10.1261,1,505,736,0.0091,0.0078,0.0013

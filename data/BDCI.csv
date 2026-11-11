@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0752,1959175,19924809,1.0\n1,2026-06-30,Glazer Capital LLC,0.0446,1163248,11830232,0.0\n2,2026-06-30,"Wolverine Asset Management, LLC",0.043899998,1143985,11634327,2.3355\n3,2026-06-30,Toronto Dominion Bank,0.0436,1135685,11549916,-0.1859\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0432,1125000,11441250,0.0\n5,2026-06-30,Linden Advisors LP,0.0432,1125000,11441250,0.0\n6,2026-06-30,LMR Partners LLP,0.039300002,1025000,10424250,0.0\n7,2026-06-30,Adage Capital Partners GP L.L.C.,0.038399998,1000000,10170000,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0337,878674,8936114,0.019299999\n9,2026-06-30,"Verition Fund Management, LLC",0.0322,840159,8544417,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0752,1959175,19925006,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0575,1498805,15242997,0.3102\n2,2026-06-30,Glazer Capital LLC,0.0446,1163248,11830348,0.0\n3,2026-06-30,Toronto Dominion Bank,0.0436,1135685,11550030,-0.1859\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0432,1125000,11441362,0.0\n5,2026-06-30,Linden Advisors LP,0.0432,1125000,11441362,0.0\n6,2026-06-30,LMR Partners LLP,0.039300002,1025000,10424352,0.0\n7,2026-06-30,Adage Capital Partners GP L.L.C.,0.038399998,1000000,10170100,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0337,878674,8936202,0.019299999\n9,2026-06-30,"Verition Fund Management, LLC",0.0322,840159,8544501,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.024400001,635939,6467499,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0038,98562,1002375,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0019,50000,508500,0.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0019,50000,508500,0.0\n4,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.001,25164,255917,0.0\n5,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10106,102778,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0002,4562,46395,-0.040799998\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,5484,55772,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.024400001,635939,6467563,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0038,98562,1002385,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0019,50000,508505,0.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0019,50000,508505,0.0\n4,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.001,25164,255920,0.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10106,102779,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0002,4562,46395,-0.040799998\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,5484,55772,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01967\ninstitutionsPercentHeld,0.89424\ninstitutionsFloatPercentHeld,0.91218\ninstitutionsCount,60.0\n
+,Value\ninsidersPercentHeld,0.02043\ninstitutionsPercentHeld,0.89461\ninstitutionsFloatPercentHeld,0.91327006\ninstitutionsCount,60.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.53,BDCI,BTC Development Corp.,Financial Services,Shell Companies,United States,353373632,10.17,134150,48745,495736.65,,,,0.0,0.0,0.0,,,1124620,0,,8.73,7.223,-1606917,,26060000,23588470,0.01967,0.89424,2059,0.05,0.0001,67.799995,,,-36.98182,,,,,,,none,,,,,,,,,2026-10-31T14:30:52.210275+00:00
+54.49,BDCI,BTC Development Corp.,Financial Services,Shell Companies,United States,353377088,10.1701,46760,53165,540693.3665,,,,0.0,0.0,0.0,,,1124620,0,,8.73,7.223,-1606917,,26060000,23588470,0.02043,0.89461,2059,0.05,0.0001,67.80067,,,-36.98218,,,,,,,none,,,,,,,,,2026-11-10T08:16:00.695402+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-16,10.20,10.20,10.11,10.15,,,,,,,0,10.1100,1,80,,,,
 2025-10-17,10.17,10.26,10.13,10.15,,,,,,,0,10.1100,1,12028,,,,
@@ -279,3 +279,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.17,10.17,10.17,10.17,10.16,10.16,10.13,10.07,10.06,10.1414,1,10.1424,1,1019,645,0.0108,0.0109,-0.0002
 2026-11-03,10.20,10.20,10.18,10.19,10.17,10.16,10.14,10.07,10.06,10.1512,1,10.1431,1,177,648,0.0116,0.0111,0.0005
 2026-11-04,10.18,10.20,10.18,10.20,10.17,10.16,10.14,10.07,10.06,10.1512,1,10.1454,1,304,653,0.0133,0.0115,0.0017
+2026-11-05,10.18,10.19,10.18,10.18,10.18,10.17,10.14,10.07,10.06,10.1512,1,10.1476,1,635,666,0.0128,0.0118,0.0011
+2026-11-06,10.18,10.19,10.18,10.18,10.18,10.17,10.14,10.07,10.07,10.1512,1,10.1497,1,922,684,0.0123,0.0119,0.0005
+2026-11-09,10.17,10.17,10.17,10.17,10.18,10.17,10.14,10.07,10.07,10.1512,1,10.1517,1,6,682,0.0110,0.0117,-0.0007
+2026-11-10,10.17,10.18,10.17,10.18,10.18,10.17,10.14,10.07,10.07,10.1512,1,10.1536,1,66,683,0.0107,0.0115,-0.0008

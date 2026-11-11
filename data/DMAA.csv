@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.1033,2507817,27310127,-0.009\n1,2026-06-30,Mizuho Securities USA LLC,0.085200004,2069605,22537999,0.0348\n2,2026-06-30,Polar Asset Management Partners Inc.,0.047199998,1146000,12479940,-0.2838\n3,2026-06-30,Glazer Capital LLC,0.041199997,999899,10888900,-0.4043\n4,2026-06-30,"Wolverine Asset Management, LLC",0.0343,832093,9061493,-0.4644\n5,2026-06-30,"Highbridge Capital Management, LLC.",0.033299997,809054,8810598,-0.3886\n6,2026-06-30,First Trust Capital Management L.P.,0.0324,786459,8564538,-0.6493\n7,2026-06-30,"Heights Capital Management, Inc                          ",0.026700001,648083,7057624,-0.0029\n8,2026-06-30,"Westchester Capital Management, LLC",0.024,581790,6335693,-0.65139997\n9,2026-06-30,Clear Street Group Inc.,0.015800001,382440,4164771,0.0802\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.1033,2507817,27298088,-0.009\n1,2026-06-30,Mizuho Securities USA LLC,0.085200004,2069605,22528063,0.0348\n2,2026-06-30,Polar Asset Management Partners Inc.,0.047199998,1146000,12474438,-0.2838\n3,2026-06-30,Glazer Capital LLC,0.041199997,999899,10884100,-0.4043\n4,2026-09-30,"Wolverine Asset Management, LLC",0.035099998,851989,9274070,0.0239\n5,2026-06-30,"Highbridge Capital Management, LLC.",0.033299997,809054,8806714,-0.3886\n6,2026-09-30,First Trust Capital Management L.P.,0.0324,786459,8560763,0.0\n7,2026-06-30,"Heights Capital Management, Inc                          ",0.026700001,648083,7054512,-0.0029\n8,2026-06-30,"Westchester Capital Management, LLC",0.024,581790,6332900,-0.65139997\n9,2026-06-30,Clear Street Group Inc.,0.015800001,382440,4162935,0.0802\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0278,675366,7354735,-0.64989996\n1,2026-06-30,Merger Fund-The Merger Fund,0.0233,564804,6150715,-0.65300006\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0043,105083,1144353,-0.64959997\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0025,60382,657560,-0.0304\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0004,10277,111916,-0.59\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,6709,73061,-0.59\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0278,675366,7351493,-0.64989996\n1,2026-06-30,Merger Fund-The Merger Fund,0.0233,564804,6148004,-0.65300006\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0043,105083,1143849,-0.64959997\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0025,60382,657270,0.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0004,10277,111867,-0.59\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,6709,73028,-0.59\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.23568001\ninstitutionsPercentHeld,0.53431\ninstitutionsFloatPercentHeld,0.69907\ninstitutionsCount,29.0\n
+,Value\ninsidersPercentHeld,0.23568001\ninstitutionsPercentHeld,0.6311\ninstitutionsFloatPercentHeld,0.8257\ninstitutionsCount,29.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.83,DMAA,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,United States,264375584,10.89,19240,20640,224769.6,,-0.179,-0.245,0.0,0.0,0.0,,,20280,350000,,0.023,0.007,-517145,,24276913,19788112,0.23568001,0.53431,89088,15.5,0.0045,60.5,,,-35.704918,,,,,,,none,,,,,,,,,2026-10-31T15:33:30.350666+00:00
+59.42,DMAA,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,United States,264259024,10.8852,6130,20915,227663.95799999998,,-0.179,-0.245,0.0,0.0,0.0,,,20280,350000,,0.023,0.007,-517145,,24276913,19788112,0.23568001,0.6311,89088,15.5,0.0045,60.473328,,,-35.68918,,,,,,,none,,,,,,,,,2026-11-10T09:16:23.190829+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-25,9.98,9.98,9.95,9.96,,,,,,,0,9.9500,1,17225,,,,
 2025-02-26,9.97,9.97,9.97,9.97,,,,,,,0,9.9500,1,15,,,,
@@ -441,3 +441,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.89,10.89,10.89,10.89,10.88,10.87,10.79,10.66,10.60,10.8490,1,10.8538,1,26,248,0.0251,0.0283,-0.0032
 2026-11-03,10.89,10.89,10.88,10.88,10.88,10.87,10.80,10.66,10.60,10.8490,1,10.8546,1,11,248,0.0237,0.0274,-0.0036
 2026-11-04,10.88,10.89,10.88,10.88,10.88,10.87,10.80,10.66,10.60,10.8494,1,10.8553,1,103,250,0.0224,0.0264,-0.0040
+2026-11-05,10.89,10.89,10.88,10.89,10.88,10.87,10.81,10.67,10.61,10.8500,1,10.8560,1,9,250,0.0218,0.0255,-0.0036
+2026-11-06,10.89,10.89,10.89,10.89,10.88,10.88,10.81,10.67,10.61,10.8545,1,10.8567,1,54,251,0.0212,0.0246,-0.0034
+2026-11-09,10.89,10.89,10.89,10.89,10.88,10.88,10.81,10.67,10.61,10.8603,1,10.8573,1,,251,0.0204,0.0238,-0.0033
+2026-11-10,10.90,10.90,10.90,10.90,10.89,10.88,10.82,10.67,10.61,10.8703,1,10.8580,1,1,250,0.0204,0.0231,-0.0027

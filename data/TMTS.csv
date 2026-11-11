@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0857,1970838,19760409,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18047519,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0478,1099995,11028989,1.0\n3,2026-06-30,Linden Advisors LP,0.041300002,950000,9525079,1.0\n4,2026-06-30,"Harraden Circle Investments, LLC",0.031600002,726100,7280168,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0308,708792,7106631,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.026099999,600000,6015839,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,600000,6015839,1.0\n8,2026-06-30,Glazer Capital LLC,0.0239,550100,5515522,1.0\n9,2026-06-30,Sculptor Capital LP,0.0217,500000,5013199,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0857,1970838,19760409,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18047519,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0478,1099995,11028989,1.0\n3,2026-06-30,Linden Advisors LP,0.041300002,950000,9525079,1.0\n4,2026-06-30,"Harraden Circle Investments, LLC",0.031600002,726100,7280168,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.0308,708792,7106631,1.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,600000,6015839,1.0\n7,2026-09-30,Alberta Investment Management Corp,0.026099999,600000,6015839,0.0\n8,2026-06-30,Glazer Capital LLC,0.0239,550100,5515522,1.0\n9,2026-06-30,Sculptor Capital LP,0.0217,500000,5013199,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0056,128670,1290096,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1002629,1.0\n2,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,401045,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,20544,205982,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0056,128670,1290096,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1002629,1.0\n2,2026-08-31,High Income Securities Fund,0.0022,50000,501319,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,401045,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,20544,205982,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.78011\ninstitutionsFloatPercentHeld,0.78011\ninstitutionsCount,50.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.77642\ninstitutionsFloatPercentHeld,0.77642\ninstitutionsCount,50.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,307476256,10.0264,202820,96895,971508.028,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.78011,901,0.01,,,,,-270.98376,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-10-31T20:30:38.778122+00:00
+0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,307476256,10.0264,20,92137,923802.4168,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.77642,901,0.01,,,,,-270.98376,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-11-10T13:19:28.343070+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-02,9.95,9.95,9.91,9.92,,,,,,,0,9.9500,0,308,,,,
 2026-04-06,9.91,9.94,9.90,9.94,,,,,,,0,9.9500,0,8671,,,,
@@ -164,3 +164,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.03,10.03,10.03,10.03,10.02,10.01,10.05,,,10.0159,1,10.0483,0,,1125,-0.0049,-0.0093,0.0044
 2026-11-03,10.03,10.03,10.03,10.03,10.02,10.01,10.05,,,10.0174,1,10.0460,0,,1064,-0.0039,-0.0083,0.0043
 2026-11-04,10.03,10.03,10.03,10.03,10.02,10.01,10.05,,,10.0186,1,10.0437,0,,1064,-0.0031,-0.0072,0.0042
+2026-11-05,10.03,10.03,10.03,10.03,10.03,10.01,10.04,,,10.0198,1,10.0416,0,,1064,-0.0024,-0.0062,0.0039
+2026-11-06,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0208,1,10.0395,0,,1064,-0.0018,-0.0054,0.0036
+2026-11-09,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0217,1,10.0375,0,,1064,-0.0013,-0.0045,0.0032
+2026-11-10,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0225,1,10.0356,0,,1064,-0.0009,-0.0038,0.0029

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,"Newtyn Management, Llc",0.0791,670228,3934238,-0.0347\n1,2026-03-31,"Arrington Capital Management, LLC",0.0588,498369,2925425,0.0\n2,2026-03-31,Keywise Capital Management (HK) Limited,0.047199998,400000,2347999,0.0\n3,2026-03-31,Bank of Montreal /CAN/,0.041300002,350000,2054499,0.0\n4,2026-03-31,"MMCAP International, Inc. SPC",0.041300002,350000,2054499,0.0\n5,2026-03-31,Pantera Capital Partners LP,0.0251,212500,1247374,-0.0031\n6,2026-03-31,Y.D. More Investments Ltd,0.0043,36100,211906,0.0\n7,2026-03-31,"Cantor Fitzgerald, L.P.",0.0041,34900,204862,1.0\n8,2026-03-31,"Susquehanna International Group, LLP",0.0023,19900,116812,1.0\n9,2026-03-31,Xtx Topco Ltd,0.00059999997,5173,30365,-0.1092\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,"Newtyn Management, Llc",0.0791,670228,3458376,-0.0347\n1,2026-03-31,"Arrington Capital Management, LLC",0.0588,498369,2571583,0.0\n2,2026-03-31,Keywise Capital Management (HK) Limited,0.047199998,400000,2063999,0.0\n3,2026-03-31,Bank of Montreal /CAN/,0.041300002,350000,1805999,0.0\n4,2026-03-31,"MMCAP International, Inc. SPC",0.041300002,350000,1805999,0.0\n5,2026-03-31,Pantera Capital Partners LP,0.0251,212500,1096499,-0.0031\n6,2026-03-31,Y.D. More Investments Ltd,0.0043,36100,186275,0.0\n7,2026-03-31,"Cantor Fitzgerald, L.P.",0.0041,34900,180083,1.0\n8,2026-03-31,"Susquehanna International Group, LLP",0.0023,19900,102683,1.0\n9,2026-03-31,Xtx Topco Ltd,0.00059999997,5173,26692,-0.1092\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,2516,14768,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,2516,12982,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,1,0,0,0\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.13852\ninstitutionsPercentHeld,0.37273\ninstitutionsFloatPercentHeld,0.43265998\ninstitutionsCount,16.0\n
+,Value\ninsidersPercentHeld,0.13852\ninstitutionsPercentHeld,0.37704\ninstitutionsFloatPercentHeld,0.43765998\ninstitutionsCount,17.0\n
 news
 [\n  {\n    "uuid": "7fecdf98-5fad-3403-96b2-b68414060d03",\n    "title": "Jasco Acquires Zooz to Accelerate Growth of Smart Home Division",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/technology/articles/jasco-acquires-zooz-accelerate-growth-165200595.html",\n    "providerPublishTime": 1791910320,\n    "type": "STORY",\n    "relatedTickers": []\n  }\n]\n
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.25,ZOOZ,ZOOZ Strategy Ltd.,Industrials,Electrical Equipment & Parts,Israel,47016400,5.87,8670,19362,113654.94,,,,0.0,0.0,0.0,-2.24226,-0.4327,23271000,622000,0.73,12.931,12.267,-11676000,-121623504,8009608,4791428,0.13852,0.37273,8018,0.64,0.0011,,5.485981,Infinity,0.551588,,-0.756,10.0,10.0,10.0,,none,1,,,,,,0.617,https://www.zoozpower.com,2026-10-31T21:16:18.921773+00:00
+30.22,ZOOZ,ZOOZ Strategy Ltd.,Industrials,Electrical Equipment & Parts,Israel,41900596,5.16,17710,21245,109624.2,,,,0.0,0.0,0.0,-2.24226,-0.4327,23271000,622000,0.73,12.931,12.267,-11676000,-121623504,8120271,4791428,0.13852,0.37704,8018,0.64,0.0011,,4.8224297,Infinity,0.48487124,,-0.579,10.0,10.0,10.0,,none,1,,,,,,0.719,https://www.zoozpower.com,2026-11-10T14:07:14.617755+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-05,71.60,92.00,62.00,82.00,,,,,,,0,62.0000,1,1487,,,,
 2024-04-08,71.60,80.00,71.60,72.80,,,,,,,0,62.0000,1,1048,,,,
@@ -663,3 +663,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,5.81,6.00,5.25,5.50,6.15,6.40,6.22,6.04,6.70,7.2862,0,7.1011,0,196,149,-0.1441,-0.0334,-0.1107
 2026-11-03,5.52,5.52,5.23,5.23,6.05,6.28,6.23,6.02,6.68,6.9571,0,7.0271,0,222,153,-0.2087,-0.0684,-0.1402
 2026-11-04,5.31,6.08,5.31,6.00,6.04,6.26,6.24,6.01,6.67,6.9571,0,6.9192,0,291,158,-0.1955,-0.0939,-0.1016
+2026-11-05,5.82,5.82,5.00,5.20,5.96,6.19,6.24,6.00,6.66,6.9571,0,6.8179,0,42,158,-0.2468,-0.1244,-0.1223
+2026-11-06,5.53,5.76,5.28,5.28,5.84,6.11,6.24,5.99,6.64,6.9571,0,6.6724,0,16,158,-0.2777,-0.1551,-0.1226
+2026-11-09,5.01,5.16,5.01,5.16,5.73,6.02,6.24,5.97,6.62,6.7836,0,6.5387,0,29,158,-0.3084,-0.1858,-0.1226
+2026-11-10,5.55,5.55,5.43,5.43,5.62,5.96,6.24,5.95,6.60,6.7836,0,6.4156,0,32,159,-0.3074,-0.2101,-0.0973

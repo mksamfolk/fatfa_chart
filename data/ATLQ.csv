@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0016,30000,300450,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0328,611095,6123172,1.0\n1,2026-09-30,First Trust Capital Management L.P.,0.0215,400000,4008000,1.0\n2,2026-09-30,Periscope Capital Inc.,0.0107,200000,2004000,1.0\n3,2026-09-30,Warberg Asset Management LLC,0.0025,46875,469687,1.0\n4,2026-09-30,ABC Arbitrage SA,0.0016,30000,300600,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2852872,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1650622,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1386727,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,269002,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165117,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2854297,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1651446,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1387419,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,269137,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165199,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.04881\ninstitutionsPercentHeld,0.0013400001\ninstitutionsFloatPercentHeld,0.00141\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.050419997\ninstitutionsPercentHeld,0.085710004\ninstitutionsFloatPercentHeld,0.09026\ninstitutionsCount,7.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,285048384,10.015,20550,136446,1366506.6900000002,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.04881,0.0013400001,5035,0.13,0.00029999999,,,,1001.50006,,,,,,,none,,,,,,,,,2026-10-31T14:19:50.290787+00:00
+0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,285190688,10.02,9320,99164,993623.2799999999,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.050419997,0.085710004,5035,0.13,0.00029999999,,,,1002.00006,,,,,,,none,,,,,,,,,2026-11-10T08:05:15.118222+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-05,9.89,9.91,9.89,9.91,,,,,,,0,9.8900,1,16961,,,,
 2026-08-06,9.90,9.91,9.90,9.90,,,,,,,0,9.8900,1,3182,,,,
@@ -91,3 +91,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.01,10.00,9.98,,,10.0040,1,9.9913,1,,407,0.0126,0.0124,0.0003
 2026-11-03,10.00,10.01,10.00,10.01,10.01,10.00,9.98,,,10.0040,1,9.9936,1,213,370,0.0118,0.0122,-0.0004
 2026-11-04,10.02,10.04,10.02,10.04,10.02,10.01,9.98,,,10.0040,1,9.9957,1,504,379,0.0134,0.0125,0.0009
+2026-11-05,10.04,10.04,10.04,10.04,10.02,10.01,9.98,,,10.0154,1,10.0000,1,,378,0.0145,0.0129,0.0016
+2026-11-06,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0154,1,10.0040,1,17,362,0.0137,0.0130,0.0006
+2026-11-09,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0154,1,10.0076,1,,345,0.0128,0.0130,-0.0002
+2026-11-10,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0154,1,10.0108,1,,331,0.0120,0.0128,-0.0008

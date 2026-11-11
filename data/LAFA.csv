@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.041500002,652459,6661606,0.0143\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0318,500000,5105000,0.0\n2,2026-06-30,"Karpus Management, Inc.",0.0297,465925,4757094,0.0075\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0286,450000,4594500,0.0\n4,2026-06-30,"Highbridge Capital Management, LLC.",0.028399998,446779,4561613,1.0\n5,2026-06-30,Picton Mahoney Asset Management,0.0274,431115,4401684,0.0\n6,2026-06-30,Magnetar Financial LLC,0.027,425000,4339250,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.0255,400000,4084000,0.0\n8,2026-06-30,Glazer Capital LLC,0.0254,399559,4079497,0.1142\n9,2026-06-30,Shaolin Capital Management LLC,0.024,377304,3852273,-0.16149999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,AQR Arbitrage LLC,0.041500002,652459,6668131,0.0143\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0318,500000,5110000,0.0\n2,2026-06-30,"Karpus Management, Inc.",0.0297,465925,4761753,0.0075\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0286,450000,4599000,0.0\n4,2026-06-30,"Highbridge Capital Management, LLC.",0.028399998,446779,4566081,1.0\n5,2026-06-30,Picton Mahoney Asset Management,0.0274,431115,4405995,0.0\n6,2026-06-30,Magnetar Financial LLC,0.027,425000,4343500,0.0\n7,2026-06-30,"Aristeia Capital, LLC",0.0255,400000,4088000,0.0\n8,2026-06-30,Glazer Capital LLC,0.0254,399559,4083493,0.1142\n9,2026-06-30,Shaolin Capital Management LLC,0.024,377304,3856046,-0.16149999\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0164,258482,2639101,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0106,166398,1698923,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0064,100000,1021000,0.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0064,100000,1021000,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,39769,406041,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,9204,93972,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,8913,91001,1.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,6392,65262,1.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4167,42545,1.0\n9,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3236,33039,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0164,258482,2641686,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0106,166398,1700587,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0064,100000,1022000,0.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0064,100000,1022000,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,39769,406439,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,9204,94064,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,8913,91090,1.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,6392,65326,1.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4167,42586,1.0\n9,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3236,33071,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.21902001\ninstitutionsPercentHeld,0.67113\ninstitutionsFloatPercentHeld,0.85934997\ninstitutionsCount,49.0\n
+,Value\ninsidersPercentHeld,0.2203\ninstitutionsPercentHeld,0.64668\ninstitutionsFloatPercentHeld,0.82939005\ninstitutionsCount,48.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LAFA,LaFayette Acquisition Corp.,Financial Services,Shell Companies,France,160433136,10.21,870,11289,115260.69000000002,,,,0.0,0.0,0.0,,,530907,0,,5.076,4.061,-634783,,15713333,9234097,0.21902001,0.67113,63,0.0,0.0,68.066666,,,-45.99099,,,,,,,none,,,,,,,,https://lafayetteacquisitioncorp.com,2026-10-31T18:02:10.079249+00:00
+0.00,LAFA,LaFayette Acquisition Corp.,Financial Services,Shell Companies,France,160590272,10.22,17190,13393,136876.46000000002,,,,0.0,0.0,0.0,,,530907,0,,5.076,4.061,-634783,,15713333,9234097,0.2203,0.64668,63,0.0,0.0,68.13333,,,-46.036037,,,,,,,none,,,,,,,,https://lafayetteacquisitioncorp.com,2026-11-10T10:52:22.491560+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-26,9.90,9.91,9.90,9.90,,,,,,,0,9.9100,0,353,,,,
 2025-11-28,9.90,9.90,9.87,9.90,,,,,,,0,9.9100,0,29,,,,
@@ -250,3 +250,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.21,10.21,10.21,10.21,10.20,10.19,10.16,10.08,10.05,10.1949,1,10.2000,1,2,25,0.0131,0.0129,0.0003
 2026-11-03,10.21,10.21,10.20,10.21,10.20,10.19,10.16,10.08,10.05,10.1949,1,10.2400,0,204,29,0.0131,0.0129,0.0002
 2026-11-04,10.21,10.21,10.21,10.21,10.20,10.19,10.16,10.09,10.05,10.1951,1,10.2392,0,,29,0.0130,0.0129,0.0001
+2026-11-05,10.22,10.22,10.21,10.21,10.20,10.20,10.17,10.09,10.05,10.1986,1,10.2384,0,1480,59,0.0128,0.0129,-0.0001
+2026-11-06,10.22,10.22,10.22,10.22,10.21,10.20,10.17,10.09,10.06,10.2022,1,10.2376,0,10,53,0.0132,0.0130,0.0003
+2026-11-09,10.22,10.22,10.22,10.22,10.21,10.20,10.17,10.09,10.06,10.2040,1,10.2369,0,,53,0.0135,0.0131,0.0004
+2026-11-10,10.21,10.21,10.21,10.21,10.21,10.20,10.17,10.09,10.06,10.2040,1,10.2362,0,551,62,0.0127,0.0130,-0.0003

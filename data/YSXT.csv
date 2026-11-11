@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0049,130620,173724,0.195\n1,2026-06-30,"Centiva Capital, LP",0.0008,20998,27927,-0.1665\n2,2026-06-30,"Geode Capital Management, LLC",0.00059999997,16342,21734,0.0\n3,2026-09-30,"William Mack & Associates, Inc.",0.0,1,1,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.75\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0049,130620,180098,0.195\n1,2026-06-30,"Centiva Capital, LP",0.0008,20998,28952,-0.1665\n2,2026-09-30,"Geode Capital Management, LLC",0.00059999997,16342,22532,0.0\n3,2026-09-30,"William Mack & Associates, Inc.",0.0,1,1,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.75\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,16342,21734,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,16342,22532,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-72.28,YSXT,YSX Tech. Co. Ltd,Industrials,Specialty Business Services,China,42403728,1.33,2890,22021,29287.93,0.137,-0.951,-0.94,0.08663,0.01475,0.0336,0.091520004,0.04644,5889033,8461210,25.13,2.79,2.525,-2685630,-5338383,26705175,9412574,0.49775,0.00629,44554,5.02,0.0032,12.09091,,0.50802517,1.1009935,0.475,11.046,,,,,none,,,,,,,,https://www.ysxnet.com,2026-10-31T21:13:52.824513+00:00
+83.81,YSXT,YSX Tech. Co. Ltd,Industrials,Specialty Business Services,China,43959592,1.3788,3740,18115,24976.962,0.137,-0.951,-0.94,0.08663,0.01475,0.0336,0.091520004,0.04644,5889033,8461210,25.13,2.79,2.525,-2685630,-5338383,26705175,9412574,0.49775,0.00629,44554,5.02,0.0032,12.534546,,0.52666545,1.1413908,0.491,11.425,,,,,none,,,,,,,,https://www.ysxnet.com,2026-11-10T14:04:21.934237+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-18,4.05,5.52,3.95,4.31,,,,,,,0,5.5200,0,3898,,,,
 2024-12-19,4.20,4.30,3.95,4.03,,,,,,,0,5.5200,0,567,,,,
@@ -485,3 +485,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.30,1.39,1.30,1.33,1.39,1.36,1.21,1.15,1.17,1.1874,1,1.6146,0,7,29,0.0415,0.0585,-0.0170
 2026-11-03,1.28,1.29,1.20,1.26,1.36,1.36,1.21,1.14,1.17,1.1874,1,1.6071,0,3,29,0.0301,0.0529,-0.0227
 2026-11-04,1.20,1.37,1.11,1.31,1.36,1.36,1.22,1.14,1.17,1.1874,1,1.5908,0,18,30,0.0249,0.0473,-0.0224
+2026-11-05,1.23,1.31,1.19,1.26,1.35,1.36,1.23,1.14,1.17,1.1874,1,1.5620,0,4,29,0.0165,0.0411,-0.0246
+2026-11-06,1.24,1.31,1.24,1.31,1.35,1.36,1.23,1.14,1.17,1.1874,1,1.5349,0,1,29,0.0137,0.0356,-0.0219
+2026-11-09,1.38,1.39,1.37,1.38,1.34,1.37,1.24,1.14,1.17,1.1874,1,1.5094,0,3,26,0.0168,0.0319,-0.0150
+2026-11-10,1.29,1.38,1.29,1.38,1.33,1.36,1.24,1.14,1.17,1.1874,1,1.4854,0,4,24,0.0192,0.0293,-0.0101

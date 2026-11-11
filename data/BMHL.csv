@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0033000002,46878,159385,-0.2846\n1,2026-06-30,UBS Group AG,0.0,78,265,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0033000002,46878,152072,-0.2846\n1,2026-06-30,UBS Group AG,0.0,78,253,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.91,BMHL,Bluemount Holdings Limited,Financial Services,Capital Markets,Hong Kong,86768504,3.4,2550,2987,10155.8,-0.315,,,0.2569,-0.17952,0.16424999,0.16264,0.09616,8325000,3204000,3.707,7.799,5.945,-37479000,,14014999,2769702,0.92306,0.0033500001,5393,0.97,0.0016,68.0,,1.4028407,7.8792124,1.32,,,,,,none,,,,,,,,https://www.bluemount.com,2026-10-31T14:39:38.998981+00:00
+26.04,BMHL,Bluemount Holdings Limited,Consumer Cyclical,Luxury Goods,Hong Kong,82787360,3.244,2450,3078,9985.032000000001,-0.315,,,0.2569,-0.17952,0.16424999,0.16264,0.09616,8325000,3204000,3.707,7.799,5.945,-37479000,,14014999,1323220,0.92306,0.0033500001,5393,0.97,0.0016,64.88,,1.3384751,7.5176954,1.256,,,,,,none,,,,,,,,https://www.bluemount.com,2026-11-10T08:24:13.532087+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,4.20,4.30,4.00,4.00,,,,,,,0,4.3000,0,6913,,,,
 2025-07-14,3.89,4.11,3.80,3.98,,,,,,,0,4.3000,0,1649,,,,
@@ -347,3 +347,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,3.06,3.24,3.02,3.20,3.31,3.52,4.88,4.66,4.41,3.9958,0,3.4000,0,18,13,-0.4963,-0.5445,0.0482
 2026-11-03,3.06,3.26,3.06,3.16,3.27,3.45,4.83,4.65,4.40,3.9958,0,3.4000,0,11,13,-0.4795,-0.5315,0.0520
 2026-11-04,3.16,3.16,3.16,3.16,3.23,3.40,4.78,4.65,4.40,3.9161,0,3.3924,0,,13,-0.4609,-0.5174,0.0565
+2026-11-05,3.23,3.31,3.23,3.31,3.22,3.37,4.73,4.65,4.40,3.9161,0,3.3850,0,2,13,-0.4293,-0.4997,0.0705
+2026-11-06,3.31,3.31,3.31,3.31,3.22,3.35,4.69,4.65,4.40,3.9161,0,3.3777,0,,13,-0.3997,-0.4797,0.0801
+2026-11-09,3.26,3.26,3.08,3.24,3.23,3.34,4.63,4.64,4.40,3.8250,0,3.3705,0,13,13,-0.3769,-0.4592,0.0822
+2026-11-10,3.05,3.30,3.01,3.08,3.23,3.32,4.58,4.64,4.40,3.8250,0,3.3635,0,5,13,-0.3679,-0.4409,0.0730

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.084,733675,7366096,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0574,501432,5034377,1.0\n2,2026-06-30,Mizuho Securities USA LLC,0.053600002,468619,4704934,1.0\n3,2026-06-30,"Wolverine Asset Management, LLC",0.0348,304404,3056216,1.0\n4,2026-06-30,Tudor Investment Corp Et Al,0.0343,300000,3011999,1.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.0286,250000,2509999,1.0\n6,2026-06-30,"Harraden Circle Investments, LLC",0.0286,250000,2509999,1.0\n7,2026-06-30,"CrossingBridge Advisors, LLC",0.0229,200000,2007999,1.0\n8,2026-06-30,AQR Arbitrage LLC,0.0182,158640,1592745,1.0\n9,2026-06-30,Clear Street Group Inc.,0.0179,156656,1572826,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.084,733675,7373433,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0574,501432,5039391,1.0\n2,2026-06-30,Mizuho Securities USA LLC,0.053600002,468619,4709621,1.0\n3,2026-06-30,Tudor Investment Corp Et Al,0.0343,300000,3015000,1.0\n4,2026-09-30,Stonex Group Inc.,0.033299997,290971,2924258,1.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0307,268161,2695018,-0.1191\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0286,250000,2512500,1.0\n7,2026-06-30,"Harraden Circle Investments, LLC",0.0286,250000,2512500,1.0\n8,2026-06-30,"CrossingBridge Advisors, LLC",0.0229,200000,2010000,1.0\n9,2026-06-30,AQR Arbitrage LLC,0.0182,158640,1594332,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.016900001,148000,1485919,0.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.006,52000,522079,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,5487,55089,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.016900001,148000,1487400,0.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.006,52000,522600,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,5487,55144,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.26104\ninstitutionsPercentHeld,0.59789\ninstitutionsFloatPercentHeld,0.80908996\ninstitutionsCount,24.0\n
+,Value\ninsidersPercentHeld,0.26459\ninstitutionsPercentHeld,0.59361\ninstitutionsFloatPercentHeld,0.80718005\ninstitutionsCount,26.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PECE,Peace Acquisition Corp,Financial Services,Shell Companies,United States,84712496,10.04,42590,41581,417473.24,,,,0.0,0.0,0.0,,,378025,100000,26.897,0.119,0.005,-130372,,8437500,5826431,0.26104,0.59789,3965,0.09,0.00059999997,,,,228.18182,,,,,,,none,,,,,,,,,2026-10-31T19:13:49.167762+00:00
+0.00,PECE,Peace Acquisition Corp,Financial Services,Shell Companies,United States,84796880,10.05,31410,42639,428521.95,,,,0.0,0.0,0.0,,,378025,100000,26.897,0.119,0.005,-130372,,8437500,5826431,0.26459,0.59361,3965,0.09,0.00059999997,,,,228.4091,,,,,,,none,,,,,,,,,2026-11-10T12:02:38.475466+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,9.90,9.90,9.87,9.89,,,,,,,0,9.8700,1,5009,,,,
 2026-06-05,9.88,9.91,9.88,9.90,,,,,,,0,9.8700,1,901,,,,
@@ -121,3 +121,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.05,10.05,10.05,10.05,10.03,10.02,9.99,,,10.0124,1,10.0300,1,1,390,0.0157,0.0143,0.0014
 2026-11-03,10.05,10.06,10.04,10.04,10.03,10.02,9.99,,,10.0124,1,10.0356,1,424,399,0.0153,0.0145,0.0008
 2026-11-04,10.06,10.06,10.06,10.06,10.04,10.02,9.99,,,10.0182,1,10.0400,1,2,397,0.0164,0.0149,0.0015
+2026-11-05,10.06,10.06,10.05,10.05,10.04,10.03,9.99,,,10.0182,1,10.0400,1,306,403,0.0163,0.0152,0.0011
+2026-11-06,10.05,10.05,10.05,10.05,10.04,10.03,10.00,,,10.0182,1,10.0442,1,50,404,0.0160,0.0154,0.0007
+2026-11-09,10.05,10.05,10.05,10.05,10.05,10.03,10.00,,,10.0182,1,10.0478,1,,404,0.0156,0.0154,0.0002
+2026-11-10,10.05,10.05,10.05,10.05,10.05,10.03,10.00,,,10.0204,1,10.0500,1,,404,0.0151,0.0153,-0.0002

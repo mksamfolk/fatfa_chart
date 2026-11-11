@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,42,447,-0.79\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,42,344,-0.79\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,9023,96185,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,9023,73988,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.09,ATGL,Alpha Technology Group Limited,Technology,Software - Infrastructure,Hong Kong,175490240,10.66,288980,63953,681738.98,0.484,,,0.59556997,-2.17888,0.0,-2.47424,-0.92811996,19086304,5495621,37.954,1.928,1.85,-18205200,3649927,15262500,14864979,0.82473,0.0,4913,0.51,0.0018000001,,,19.772963,95.0529,18.242,-2.621,,,,,none,,,,,,,4.051,https://atgl.io,2026-10-31T14:19:16.167790+00:00
+24.28,ATGL,Alpha Technology Group Limited,Technology,Software - Infrastructure,Hong Kong,134992496,8.2,13630,53734,440618.8,0.484,,,0.59556997,-2.17888,0.0,-2.47424,-0.92811996,19086304,5495621,37.954,1.928,1.85,-18205200,3649927,15262500,14864979,0.82473,0.0,4913,0.51,0.0018000001,,,15.209971,73.117615,13.679,-1.965,,,,,none,,,,,,,3.473,https://atgl.io,2026-11-10T08:04:43.780581+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-31,4.00,7.27,3.85,4.40,,,,,,,0,7.2700,0,20425,,,,
 2023-11-01,3.81,5.18,3.73,4.24,,,,,,,0,7.2700,0,3892,,,,
@@ -770,3 +770,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.68,10.68,9.99,10.06,9.65,7.16,7.07,11.60,13.73,7.0479,1,8.3266,1,41,604,1.1790,0.6529,0.5261
 2026-11-03,9.51,9.80,9.01,9.05,9.87,7.37,7.09,11.55,13.67,7.0479,1,8.7855,1,119,606,1.0869,0.7397,0.3472
 2026-11-04,9.15,9.60,8.70,9.60,10.06,7.61,7.12,11.50,13.61,7.0479,1,11.1950,0,120,609,1.0462,0.8010,0.2452
+2026-11-05,9.10,9.10,8.83,9.05,10.01,7.82,7.15,11.45,13.55,7.0479,1,11.1451,0,26,609,0.9585,0.8325,0.1260
+2026-11-06,8.82,8.90,8.38,8.39,9.91,8.01,7.17,11.40,13.49,7.0479,1,11.0962,0,76,610,0.8262,0.8312,-0.0050
+2026-11-09,8.75,8.75,7.80,8.20,9.75,8.20,7.17,11.32,13.42,7.0479,1,10.9875,0,66,496,0.6980,0.8046,-0.1066
+2026-11-10,8.41,11.00,8.40,9.69,9.66,8.44,7.17,11.26,13.37,7.0479,1,7.8000,1,211,487,0.7085,0.7854,-0.0769

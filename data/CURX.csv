@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.003,4763,24577,0.8841\n1,2026-06-30,"Renaissance Technologies, LLC",0.0017,2600,13415,1.0\n2,2026-06-30,Virtu Financial LLC,0.0016,2562,13219,1.0\n3,2026-06-30,"Geode Capital Management, LLC",0.0011999999,1914,9876,-0.65559995\n4,2026-06-30,"Jane Street Group, LLC",0.001,1561,8054,1.0\n5,2026-06-30,"Two Sigma Investments, LP",0.00090000004,1368,7058,0.3504\n6,2026-06-30,"Susquehanna International Group, LLP",0.0005,733,3782,1.0\n7,2026-06-30,"Ground Swell Capital, LLC",0.0004,632,3261,1.0\n8,2026-06-30,Citigroup Inc.,0.00029999999,448,2311,-0.5367\n9,2026-06-30,UBS Group AG,0.0,76,392,-0.81\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.003,4763,29530,0.8841\n1,2026-06-30,"Renaissance Technologies, LLC",0.0017,2600,16119,1.0\n2,2026-06-30,Virtu Financial LLC,0.0016,2562,15884,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.001,1561,9678,1.0\n4,2026-06-30,"Two Sigma Investments, LP",0.00090000004,1368,8481,0.3504\n5,2026-06-30,"Susquehanna International Group, LLP",0.0005,733,4544,1.0\n6,2026-06-30,"Ground Swell Capital, LLC",0.0004,632,3918,1.0\n7,2026-06-30,UBS Group AG,0.0,76,471,-0.81\n8,2026-06-30,Tower Research Capital LLC (TRC),0.0,50,309,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0007,1166,6016,-0.00090000004\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,747,3854,-0.0013\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0007,1166,7229,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,747,4631,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61353\ninstitutionsPercentHeld,0.010650001\ninstitutionsFloatPercentHeld,0.027560001\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.61353\ninstitutionsPercentHeld,0.00874\ninstitutionsFloatPercentHeld,0.02262\ninstitutionsCount,8.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-08-20 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.63,CURX,Curanex Pharmaceuticals Inc,Healthcare,Biotechnology,United States,8092123,5.16,13640,22072,113891.52,,,,0.0,0.0,0.0,-4.1108,-2.25062,2938463,276359,5.772,45.951,28.172,-12079094,-7714358,1568241,505632,0.61353,0.010650001,5195,0.24,0.0086,,,,1.5284361,,,,,,,none,,,,,,,,https://www.curanexpharma.com,2026-10-31T15:22:45.961374+00:00
+99.93,CURX,Curanex Pharmaceuticals Inc,Healthcare,Biotechnology,United States,9723094,6.2,14140,21893,135736.6,,,,0.0,0.0,0.0,-4.1108,-2.25062,2938463,276359,5.772,45.951,28.172,-12079094,-7714358,1568241,505632,0.61353,0.00874,5195,0.24,0.0086,,,,1.8364929,,,,,,,none,,,,,,,,https://www.curanexpharma.com,2026-11-10T09:06:03.237936+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-26,3.80,4.18,3.61,4.02,,,,,,,0,3.6100,1,21147,,,,
 2025-08-27,4.06,4.88,4.06,4.66,,,,,,,0,3.6100,1,3731,,,,
@@ -315,3 +315,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,5.47,5.85,5.40,5.85,4.99,4.94,4.29,1.76,1.41,3.9658,1,4.0778,1,19,118,0.2572,0.2431,0.0140
 2026-11-03,5.80,6.20,5.80,6.19,5.13,5.00,4.41,1.80,1.44,4.3858,1,4.1842,1,68,117,0.3297,0.2604,0.0692
 2026-11-04,5.65,6.06,5.56,5.80,5.21,5.05,4.52,1.84,1.47,4.3858,1,4.3455,1,73,117,0.3516,0.2787,0.0730
+2026-11-05,5.64,6.20,5.63,5.78,5.27,5.10,4.63,1.87,1.49,4.3858,1,4.4938,1,46,118,0.3632,0.2956,0.0676
+2026-11-06,6.31,6.31,6.13,6.21,5.42,5.15,4.68,1.91,1.52,4.5786,1,4.6303,1,12,118,0.4025,0.3170,0.0855
+2026-11-09,6.20,6.20,6.20,6.20,5.58,5.21,4.80,1.95,1.55,4.7179,1,4.7987,1,4,118,0.4278,0.3391,0.0887
+2026-11-10,6.04,6.09,5.82,6.09,5.72,5.27,4.92,1.99,1.58,4.7179,1,4.9502,1,12,118,0.4341,0.3581,0.0759

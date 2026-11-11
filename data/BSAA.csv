@@ -7,27 +7,27 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0023999999,14437,153927,0.0374\n1,2026-06-30,UBS Group AG,0.0007,4480,47765,0.384\n2,2026-06-30,Clear Street Group Inc.,0.0001,397,4232,-0.9976\n3,2026-06-30,Morgan Stanley,0.0,28,298,-0.1765\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0023999999,14437,153869,0.0374\n1,2026-06-30,UBS Group AG,0.0007,4480,47747,0.384\n2,2026-06-30,Clear Street Group Inc.,0.0001,397,4231,-0.9976\n3,2026-06-30,Morgan Stanley,0.0,28,298,-0.1765\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-02-28,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,1044,11131,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-02-28,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,1044,11126,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30,2025-03-31\nFree Cash Flow,-71127.0,-123420.0,-84033.0,-316781.0,-187005.0,\nIssuance Of Debt,0.0,0.0,,,68774.0,10348.0\nIssuance Of Capital Stock,,,0.0,0.0,,\nEnd Cash Position,1112525.0,1171639.0,1295059.0,1379092.0,1774995.0,\nBeginning Cash Position,1171639.0,1295059.0,1379092.0,1774995.0,0.0,\nChanges In Cash,-59114.0,-123420.0,-84033.0,-395903.0,,\nFinancing Cash Flow,-55220381.0,0.0,0.0,-79122.0,56962000.0,\nCash Flow From Continuing Financing Activities,-55220381.0,0.0,0.0,-79122.0,56962000.0,\nNet Other Financing Charges,,,0.0,0.0,,\nNet Common Stock Issuance,,,0.0,0.0,,\nCommon Stock Issuance,,,0.0,0.0,,\nNet Issuance Payments Of Debt,0.0,0.0,,,68774.0,10348.0\nNet Short Term Debt Issuance,0.0,0.0,,,68774.0,10348.0\nShort Term Debt Issuance,0.0,0.0,,,68774.0,10348.0\nInvesting Cash Flow,,,0.0,0.0,,\nCash Flow From Continuing Investing Activities,,,0.0,0.0,,\nNet Other Investing Changes,,,0.0,0.0,,\nOperating Cash Flow,-71127.0,-123420.0,-84033.0,-316781.0,-187005.0,\nCash Flow From Continuing Operating Activities,-71126.0,-123421.0,-84033.0,-316781.0,-187005.0,\nChange In Working Capital,538501.0,-482892.0,-3010.0,93213.0,-93450.0,\nChange In Other Current Assets,,-494166.0,,,,0.0\nChange In Payables And Accrued Expense,-4976.0,33706.0,-67187.0,166079.0,13747.0,\nChange In Prepaid Assets,49311.0,-22432.0,64177.0,-72866.0,-107197.0,\nOther Non Cash Items,-776430.0,1.0,-536971.0,-575529.0,,\nOperating Gains Losses,,,0.0,,,\nGain Loss On Investment Securities,,,0.0,,,\nNet Income From Continuing Operations,166802.0,359471.0,455948.0,240364.0,-5791.0,\n
+,2026-09-30,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30,2025-03-31\nFree Cash Flow,-94264.0,-71127.0,-123420.0,-84033.0,-316781.0,,\nIssuance Of Debt,,0.0,0.0,,,68774.0,10348.0\nIssuance Of Capital Stock,0.0,,,0.0,0.0,,\nEnd Cash Position,1006248.0,1112525.0,1171639.0,1295059.0,1379092.0,,\nBeginning Cash Position,1112525.0,1171639.0,1295059.0,1379092.0,1774995.0,,\nChanges In Cash,-106277.0,-59114.0,-123420.0,-84033.0,-395903.0,,\nFinancing Cash Flow,-12013.0,-55220381.0,0.0,0.0,-79122.0,,\nCash Flow From Continuing Financing Activities,-12013.0,-55220381.0,0.0,0.0,-79122.0,,\nNet Other Financing Charges,-12013.0,,,0.0,0.0,,\nNet Common Stock Issuance,0.0,,,0.0,0.0,,\nCommon Stock Issuance,0.0,,,0.0,0.0,,\nNet Issuance Payments Of Debt,,0.0,0.0,,,68774.0,10348.0\nNet Short Term Debt Issuance,,0.0,0.0,,,68774.0,10348.0\nShort Term Debt Issuance,,0.0,0.0,,,68774.0,10348.0\nInvesting Cash Flow,0.0,,,0.0,0.0,,\nCash Flow From Continuing Investing Activities,0.0,,,0.0,0.0,,\nNet Other Investing Changes,0.0,,,0.0,0.0,,\nOperating Cash Flow,-94264.0,-71127.0,-123420.0,-84033.0,-316781.0,,\nCash Flow From Continuing Operating Activities,-94264.0,-71126.0,-123421.0,-84033.0,-316781.0,,\nChange In Working Capital,31478.0,538501.0,-482892.0,-3010.0,93213.0,,\nChange In Other Current Assets,,,-494166.0,,,,0.0\nChange In Payables And Accrued Expense,-1315.0,-4976.0,33706.0,-67187.0,166079.0,,\nChange In Prepaid Assets,32793.0,49311.0,-22432.0,64177.0,-72866.0,,\nOther Non Cash Items,-15939.0,-776430.0,1.0,-536971.0,-575529.0,,\nOperating Gains Losses,,,,0.0,,,\nGain Loss On Investment Securities,,,,0.0,,,\nNet Income From Continuing Operations,-109803.0,166802.0,359471.0,455948.0,240364.0,,\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.40074003\ninstitutionsPercentHeld,0.90704\ninstitutionsFloatPercentHeld,1.51362\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.40074003\ninstitutionsPercentHeld,0.03475\ninstitutionsFloatPercentHeld,0.05799\ninstitutionsCount,5.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-49.10,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22029962,10.662,1510,5403,57606.78600000001,,,,0.0,0.0,0.0,,,1112525,12013,1.18,6.254,5.743,-595361,,691213,414214,0.40074003,0.90704,3964,2.73,0.0057,53.309998,,,21.626774,,,,,,,none,,,,,,,,,2026-10-31T14:45:15.176166+00:00
+51.23,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22021698,10.658,1000,4779,50934.581999999995,,,,0.0,0.0,0.0,,,1006248,0,,5.945,5.578,-372844,,691213,414214,0.40074003,0.03475,3964,2.73,0.0057,62.69412,,,24.671295,,,,,,,none,,,,,,,,,2026-11-10T08:29:33.965849+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-07,10.32,10.32,9.82,10.01,,,,,,,0,9.8200,1,1534,,,,
 2025-08-08,10.00,10.01,10.00,10.01,,,,,,,0,9.8200,1,12,,,,
@@ -328,3 +328,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.66,10.66,10.66,10.66,10.74,10.88,11.12,11.20,10.94,10.9689,0,11.3112,0,,74,-0.1401,-0.1333,-0.0068
 2026-11-03,10.63,10.66,10.63,10.66,10.73,10.85,11.10,11.20,10.95,10.9298,0,11.2431,0,12,68,-0.1390,-0.1345,-0.0045
 2026-11-04,10.66,10.66,10.66,10.66,10.72,10.83,11.08,11.20,10.95,10.9152,0,11.1818,0,,67,-0.1366,-0.1349,-0.0017
+2026-11-05,10.66,10.66,10.66,10.66,10.71,10.80,11.06,11.21,10.95,10.8895,0,11.1266,0,,66,-0.1331,-0.1345,0.0014
+2026-11-06,10.66,10.66,10.66,10.66,10.70,10.78,11.05,11.21,10.96,10.8663,0,11.0769,0,,65,-0.1289,-0.1334,0.0045
+2026-11-09,10.66,10.66,10.66,10.66,10.67,10.77,11.04,11.21,10.96,10.8455,0,11.0322,0,,64,-0.1241,-0.1315,0.0075
+2026-11-10,10.50,10.67,10.50,10.67,10.67,10.75,11.02,11.22,10.96,10.8048,0,10.9920,0,14,64,-0.1180,-0.1288,0.0109

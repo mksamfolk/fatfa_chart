@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00090000004,11960,1418455,1.0\n1,2026-06-30,Quadrature Capital Ltd,0.00029999999,4176,495273,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4000,474399,6.3259997\n3,2026-06-30,Xtx Topco Ltd,0.00029999999,4350,515909,1.0\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,75,8894,1.0\n5,2026-06-30,Morgan Stanley,0.0,134,15892,-0.48259997\n6,2026-09-30,"William Mack & Associates, Inc.",0.0,1,118,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,118,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.00090000004,12435,1470190,0.0397\n1,2026-06-30,Quadrature Capital Ltd,0.00029999999,4176,493728,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4000,472920,6.3259997\n3,2026-06-30,Xtx Topco Ltd,0.00029999999,4350,514300,1.0\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,75,8867,1.0\n5,2026-06-30,Morgan Stanley,0.0,134,15842,-0.48259997\n6,2026-09-30,"William Mack & Associates, Inc.",0.0,1,118,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,118,0.0\n8,2026-09-30,Larson Financial Group LLC,0.0,62,7330,1.0\n9,2026-09-30,"Silver Grove Financial Group, Inc.",0.0,1,118,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,8330,987937,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,4105,486852,-0.0005\n2,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR PORT. Developed World ex-US E,0.0001,800,94879,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,8330,984855,0.0\n1,2026-09-30,Fidelity Commonwealth Trust-Fidelity Nasdaq Composite Index ETF,0.00029999999,4105,485334,-0.0005\n2,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR PORT. Developed World ex-US E,0.0001,800,94584,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.77274\ninstitutionsPercentHeld,0.00185\ninstitutionsFloatPercentHeld,0.00816\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.77274\ninstitutionsPercentHeld,0.00189\ninstitutionsFloatPercentHeld,0.00833\ninstitutionsCount,12.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.67,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1630749952,118.6,4340,11857,1406240.2,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00185,30940,5.73,0.0083,,,261.5013,135.23375,261.605,-732.633,,,,,none,,,,,,,,https://qbssystem.com,2026-10-31T18:25:23.466843+00:00
+99.55,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1625662592,118.23,4610,10700,1265061.0,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00189,30940,5.73,0.0083,,,260.68552,134.81186,260.789,-730.348,,,,,none,,,,,,,,https://qbssystem.com,2026-11-10T11:14:31.935901+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-16,3.99,4.00,3.39,3.81,,,,,,,0,3.3900,1,6199,,,,
 2025-07-17,3.50,3.64,3.39,3.44,,,,,,,0,3.3900,1,842,,,,
@@ -344,3 +344,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,123.99,125.67,119.00,120.50,116.51,110.32,104.93,87.66,67.43,107.8730,1,105.7290,1,434,1352,4.5015,3.6474,0.8541
 2026-11-03,119.15,119.70,117.10,119.64,117.68,110.90,105.47,88.41,67.98,107.8730,1,107.3243,1,670,1307,4.4812,3.8142,0.6670
 2026-11-04,119.76,121.14,118.07,118.81,118.52,111.74,105.94,89.15,68.53,107.8730,1,108.7919,1,570,1285,4.3480,3.9209,0.4271
+2026-11-05,117.72,118.10,117.72,118.10,119.23,112.55,106.41,89.88,69.08,107.8730,1,110.1422,1,236,1259,4.1375,3.9642,0.1733
+2026-11-06,118.50,121.50,116.80,120.30,119.50,113.46,106.91,90.62,69.64,107.8730,1,111.3844,1,830,1247,4.1009,3.9916,0.1093
+2026-11-09,120.00,122.00,118.23,118.23,119.30,114.27,107.38,91.35,70.20,107.8730,1,112.5273,1,260,1220,3.8604,3.9653,-0.1050
+2026-11-10,119.36,121.21,118.00,118.00,119.16,115.00,107.85,92.08,70.75,107.8730,1,113.5787,1,661,1182,3.6096,3.8942,-0.2846

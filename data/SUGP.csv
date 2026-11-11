@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0016,14226,22761,1.0\n1,2026-06-30,Virtu Financial LLC,0.00029999999,2538,4060,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0016,14226,22334,1.0\n1,2026-06-30,Virtu Financial LLC,0.00029999999,2538,3984,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,400,640,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,400,628,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-25 09:30:00-04:00,0.1\n2026-08-06 09:30:00-04:00,0.2\n2026-10-07 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.07,SUGP,SU Group Holdings Limited,Industrials,Security & Protection Services,Hong Kong,428041,1.6,42210,997295,1595672.0,-0.2,,,0.15581,-0.03636,-0.106529996,-0.20292,-0.08971,28651212,4544243,5.428,2.942,2.176,,,237470,111658,0.0026,0.0018600001,71447,0.03,0.3027,,,0.0025058214,0.02985705,-0.139,1.442,,,,,none,,,,,,,0.901,https://www.sugroup.com.hk,2026-10-31T20:16:16.858893+00:00
+4.12,SUGP,SU Group Holdings Limited,Industrials,Security & Protection Services,Hong Kong,2405039,1.57,35660,987073,1549704.61,-0.2,,,0.15581,-0.03636,-0.106529996,-0.20292,-0.08971,28651212,4544243,5.428,2.942,2.176,,,1501816,111658,0.0026,0.0018600001,71447,0.03,0.3027,,,0.014079488,0.02929723,-0.139,1.442,,,,,none,,,,,,,1.109,https://www.sugroup.com.hk,2026-11-10T13:05:47.216229+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-24,219.00,236.00,170.00,200.00,,,,,,,0,236.0000,0,7128,,,,
 2024-01-25,185.00,199.50,156.00,156.00,,,,,,,0,236.0000,0,786,,,,
@@ -713,3 +713,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.60,1.68,1.60,1.60,1.61,1.85,1.65,10.11,14.89,1.5404,1,2.5122,0,76,3152,-0.0370,-0.0274,-0.0096
 2026-11-03,1.63,1.73,1.62,1.66,1.61,1.81,1.63,9.95,14.74,1.5404,1,2.4913,0,66,3147,-0.0327,-0.0284,-0.0042
 2026-11-04,1.63,1.72,1.60,1.69,1.62,1.76,1.63,9.79,14.58,1.5404,1,2.4709,0,43,3136,-0.0265,-0.0280,0.0016
+2026-11-05,1.67,1.70,1.57,1.63,1.62,1.72,1.62,9.63,14.44,1.5404,1,2.4509,0,39,3131,-0.0257,-0.0276,0.0019
+2026-11-06,1.59,1.65,1.56,1.57,1.61,1.69,1.62,9.47,14.29,1.5404,1,2.4313,0,39,3050,-0.0300,-0.0281,-0.0020
+2026-11-09,1.53,1.60,1.45,1.57,1.61,1.68,1.61,9.31,14.15,1.5404,1,2.4121,0,54,2973,-0.0331,-0.0291,-0.0040
+2026-11-10,1.56,1.60,1.29,1.34,1.59,1.64,1.59,9.15,14.01,1.9674,0,2.3734,0,128,2953,-0.0534,-0.0339,-0.0195

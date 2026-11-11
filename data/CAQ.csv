@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.76139\ninstitutionsFloatPercentHeld,0.76139\ninstitutionsCount,46.0\n
+,Value\ninsidersPercentHeld,0.0017\ninstitutionsPercentHeld,0.77233005\ninstitutionsFloatPercentHeld,0.77364\ninstitutionsCount,46.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CAQ,Cambridge Acquisition Corp.,Financial Services,Shell Companies,United States,313179808,10.05,270,30140,302907.0,,,,0.0,0.0,0.0,,,866504,0,,0.054,,0,,23495500,19500038,0.0,0.76139,285,0.04,0.0,,,,-42.765957,,,,,,,none,,,,,,,,https://cambridgeacquisitioncorp.com,2026-10-31T14:52:28.027461+00:00
+0.00,CAQ,Cambridge Acquisition Corp.,Financial Services,Shell Companies,United States,313179808,10.05,7720,31164,313198.2,,,,0.0,0.0,0.0,,,866504,0,,0.054,,0,,23495500,19500038,0.0017,0.77233005,285,0.04,0.0,,,,-42.765957,,,,,,,none,,,,,,,,https://cambridgeacquisitioncorp.com,2026-11-10T08:36:28.172294+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-30,10.10,10.10,9.94,9.95,,,,,,,0,10.1000,0,318,,,,
 2026-03-31,9.88,9.89,9.80,9.87,,,,,,,0,10.1000,0,217,,,,
@@ -167,3 +167,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.03,10.03,10.03,10.03,10.04,10.03,10.00,,,10.0282,1,10.0083,1,,358,0.0101,0.0127,-0.0025
 2026-11-03,10.02,10.02,10.02,10.02,10.04,10.03,10.01,,,10.0417,0,10.0091,1,2,358,0.0081,0.0118,-0.0036
 2026-11-04,10.00,10.00,10.00,10.00,10.04,10.03,10.01,,,10.0255,0,10.0500,0,7,358,0.0049,0.0104,-0.0055
+2026-11-05,10.05,10.05,9.99,9.99,10.03,10.03,10.01,,,10.0255,0,10.0000,1,750,372,0.0015,0.0086,-0.0071
+2026-11-06,9.99,9.99,9.99,9.99,10.02,10.03,10.01,,,10.0255,0,9.9900,1,,372,-0.0012,0.0066,-0.0078
+2026-11-09,10.05,10.05,10.05,10.05,10.02,10.03,10.01,,,9.9988,1,9.9900,1,10,371,0.0015,0.0056,-0.0041
+2026-11-10,10.05,10.05,10.05,10.05,10.02,10.03,10.01,,,10.0039,1,9.9900,1,,371,0.0036,0.0052,-0.0016

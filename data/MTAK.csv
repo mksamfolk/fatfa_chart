@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0105,214552,2117628,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.060110003\ninstitutionsFloatPercentHeld,0.060110003\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.07022\ninstitutionsFloatPercentHeld,0.07022\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "60e89f2d-62f2-3fdc-adad-b251a76b84ce",\n    "title": "Market Technology Acquisition Corp Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 17, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/market-technology-acquisition-corp-announces-124000622.html",\n    "providerPublishTime": 1789562400,\n    "type": "STORY",\n    "relatedTickers": [\n      "MTAKU",\n      "MTAK",\n      "MTAKW"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MTAK,Market Technology Acquisition Corp,Financial Services,Shell Companies,United States,276812384,9.87,440,26778,264298.86,,,,0.0,0.0,0.0,,,,197474,,,,,,21212500,,0.0,0.060110003,1106,0.03,,,,,-2467.4998,,,,,,,none,,,,,,,,,2026-10-31T18:34:59.989251+00:00
+0.00,MTAK,Market Technology Acquisition Corp,Financial Services,Shell Companies,United States,276812384,9.87,350,23159,228579.33,,,,0.0,0.0,0.0,,,,197474,,,,,,21212500,,0.0,0.07022,1106,0.03,,,,,-2467.4998,,,,,,,none,,,,,,,,,2026-11-10T11:23:56.316233+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-17,10.00,10.00,9.87,9.92,,,,,,,0,9.8700,1,535,,,,
 2026-09-18,9.93,9.93,9.90,9.90,,,,,,,0,9.8700,1,117,,,,
@@ -64,3 +64,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.87,9.87,9.87,9.87,9.86,9.86,,,,9.8845,0,9.8848,0,,,,,
 2026-11-03,9.87,9.87,9.87,9.87,9.86,9.86,,,,9.8845,0,9.8826,0,,,0.0019,0.0006,0.0014
 2026-11-04,9.87,9.87,9.87,9.87,9.86,9.86,,,,9.8845,0,9.8805,0,,,0.0022,0.0009,0.0013
+2026-11-05,9.87,9.87,9.87,9.87,9.87,9.86,,,,9.8845,0,9.8785,0,,,0.0023,0.0012,0.0012
+2026-11-06,9.87,9.87,9.87,9.87,9.87,9.87,,,,9.8833,0,9.8765,0,,,0.0024,0.0014,0.0010
+2026-11-09,9.87,9.87,9.87,9.87,9.87,9.87,,,,9.8820,0,9.8747,0,309,,0.0025,0.0016,0.0008
+2026-11-10,9.87,9.87,9.87,9.87,9.87,9.87,,,,9.8808,0,9.8729,0,,,0.0025,0.0018,0.0007

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.0286,300000,2972999,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0,400,3963,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0126600005\ninstitutionsPercentHeld,0.0\ninstitutionsFloatPercentHeld,0.0\ninstitutionsCount,0.0\n
+,Value\ninsidersPercentHeld,0.0126600005\ninstitutionsPercentHeld,0.02716\ninstitutionsFloatPercentHeld,0.027509999\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "5e57758e-7a49-3104-b91d-a06537ec7aa0",\n    "title": "ARC Group Securities Acquisition I Announces the Separate Trading of its Class A Ordinary Shares, Warrants and Rights Commencing September 24, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/arc-group-securities-acquisition-announces-145300336.html",\n    "providerPublishTime": 1790175180,\n    "type": "STORY",\n    "relatedTickers": [\n      "FJDI",\n      "FJDIU",\n      "FJDIR",\n      "FJDIW"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FJDI,ARC Group Securities Acquisition I,Financial Services,Shell Companies,United States,160726496,9.9,13410,70670,699633.0,,,,0.0,0.0,0.0,,,25000,283861,,,,-278636,,11060000,11059931,0.0126600005,0.0,1331,0.01,,,,,-395.99997,,,,,,,none,,,,,,,,,2026-10-31T16:04:55.692299+00:00
+0.00,FJDI,ARC Group Securities Acquisition I,Financial Services,Shell Companies,United States,160888848,9.91,51320,71806,711597.46,,,,0.0,0.0,0.0,,,25000,283861,,,,-278636,,11060000,11059931,0.0126600005,0.02716,1331,0.01,,,,,-521.579,,,,,,,none,,,,,,,,,2026-11-10T09:45:15.906413+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-24,9.88,9.90,9.84,9.85,,,,,,,0,9.9000,0,6549,,,,
 2026-09-25,9.86,9.86,9.84,9.85,,,,,,,0,9.9000,0,4030,,,,
@@ -59,3 +59,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.87,9.89,9.87,9.89,9.89,9.88,,,,9.9121,0,9.8598,1,894,,,,
 2026-11-03,9.88,9.88,9.88,9.88,9.89,9.88,,,,9.9121,0,9.8614,1,312,,,,
 2026-11-04,9.88,9.88,9.88,9.88,9.89,9.88,,,,9.9121,0,9.8630,1,,,,,
+2026-11-05,9.88,9.90,9.86,9.88,9.88,9.88,,,,9.9121,0,9.9000,0,2645,,,,
+2026-11-06,9.88,9.88,9.88,9.88,9.88,9.88,,,,9.9121,0,9.9000,0,,,,,
+2026-11-09,9.94,9.94,9.88,9.91,9.89,9.88,,,,9.9121,0,9.8600,1,6,,,,
+2026-11-10,9.91,9.91,9.91,9.91,9.89,9.89,,,,9.9121,0,9.8616,1,,,0.0082,0.0072,0.0011

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0036000002,75000,734249,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0153,316505,3098583,1.0\n1,2026-09-30,Periscope Capital Inc.,0.013300001,274982,2692073,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1957999,1.0\n3,2026-09-30,Gritstone Asset Management LLC,0.0036000002,75000,734249,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0015,30000,293699,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0036300002\ninstitutionsFloatPercentHeld,0.0036300002\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.04341\ninstitutionsFloatPercentHeld,0.04341\ninstitutionsCount,5.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XTER,Xterax Corporation II,Financial Services,Shell Companies,United States,267430176,9.79,6130,42989,420862.30999999994,,,,0.0,0.0,0.0,,,18500,37597,,,,0,,20650000,20400087,0.0,0.0036300002,1196,0.02,0.0001,,,,-4894.9995,,,,,,,none,,,,,,,,,2026-10-31T21:10:52.920691+00:00
+0.00,XTER,Xterax Corporation II,Financial Services,Shell Companies,United States,267430176,9.79,65280,49976,489265.04,,,,0.0,0.0,0.0,,,18500,37597,,,,0,,20650000,20400087,0.0,0.04341,1196,0.02,0.0001,,,,-1958.0,,,,,,,none,,,,,,,,,2026-11-10T14:01:02.284786+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-27,9.90,9.90,9.83,9.84,,,,,,,0,9.9000,0,1028,,,,
 2026-08-28,9.83,9.83,9.81,9.82,,,,,,,0,9.9000,0,169,,,,
@@ -78,3 +78,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.79,9.79,9.77,9.77,9.78,9.78,,,,9.7964,0,9.7971,0,1361,,-0.0049,-0.0062,0.0013
 2026-11-03,9.78,9.78,9.77,9.77,9.78,9.78,,,,9.7964,0,9.7955,0,393,,-0.0056,-0.0061,0.0005
 2026-11-04,9.77,9.77,9.77,9.77,9.78,9.78,,,,9.7914,0,9.7939,0,,,-0.0061,-0.0061,-0.0000
+2026-11-05,9.78,9.78,9.77,9.77,9.78,9.78,9.80,,,9.7914,0,9.7925,0,1220,447,-0.0064,-0.0062,-0.0003
+2026-11-06,9.78,9.78,9.78,9.78,9.78,9.78,9.79,,,9.7914,0,9.7911,0,12,426,-0.0058,-0.0061,0.0003
+2026-11-09,9.79,9.80,9.79,9.79,9.78,9.78,9.79,,,9.7914,0,9.7700,1,3091,485,-0.0045,-0.0058,0.0013
+2026-11-10,9.80,9.81,9.80,9.80,9.78,9.78,9.79,,,9.7750,1,9.7706,1,152,487,-0.0026,-0.0051,0.0026

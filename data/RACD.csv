@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,93168936,10.24,13410,5801,59402.24,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.28296,167,0.04,0.0,,,,-853.3333,,,,,,,none,,,,,,,,,2026-10-31T19:32:54.367985+00:00
+0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,94988640,10.44,10710,7010,73184.4,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.28296,167,0.04,0.0,,,,-869.99994,,,,,,,none,,,,,,,,,2026-11-10T12:21:42.534848+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,10.35,10.50,10.31,10.34,,,,,,,0,10.3100,1,6943,,,,
 2026-07-14,10.34,10.68,10.34,10.42,,,,,,,0,10.3100,1,623,,,,
@@ -96,3 +96,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.24,10.24,10.24,10.24,10.40,11.00,11.57,,,11.0157,0,11.4915,0,,66,-0.4052,-0.3329,-0.0724
 2026-11-03,10.34,10.35,10.33,10.33,10.40,10.93,11.56,,,11.0157,0,11.3858,0,238,70,-0.3961,-0.3455,-0.0506
 2026-11-04,10.35,10.40,10.35,10.40,10.38,10.86,11.55,,,11.0157,0,11.2885,0,34,71,-0.3788,-0.3522,-0.0267
+2026-11-05,10.35,10.35,10.25,10.32,10.36,10.80,11.53,,,10.9561,0,11.1991,0,460,79,-0.3674,-0.3552,-0.0121
+2026-11-06,10.32,10.33,10.28,10.32,10.34,10.73,11.51,,,10.9105,0,11.1167,0,68,80,-0.3542,-0.3550,0.0008
+2026-11-09,10.35,10.99,10.34,10.44,10.35,10.66,11.49,,,10.9105,0,11.0410,0,159,82,-0.3303,-0.3501,0.0198
+2026-11-10,10.44,10.44,10.44,10.44,10.35,10.59,11.46,,,10.9105,0,10.9900,0,,82,-0.3078,-0.3416,0.0338

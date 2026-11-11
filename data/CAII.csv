@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0854,2178000,21823560,1.0\n1,2026-06-30,Linden Advisors LP,0.066700004,1700000,17034000,1.0\n2,2026-06-30,Polar Asset Management Partners Inc.,0.045100003,1150000,11523000,1.0\n3,2026-06-30,Glazer Capital LLC,0.0394,1003787,10057946,1.0\n4,2026-06-30,Clear Street Group Inc.,0.033800002,860722,8624434,1.0\n5,2026-06-30,First Trust Capital Management L.P.,0.0275,700000,7014000,1.0\n6,2026-06-30,"Centiva Capital, LP",0.0196,500000,5010000,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0196,500000,5010000,1.0\n8,2026-06-30,"Parallax Volatility Advisers, L.P.",0.0196,499229,5002274,1.0\n9,2026-06-30,"Logan Stone Capital, LLC                          ",0.0159,404968,4057779,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0854,2178000,21823560,1.0\n1,2026-06-30,Linden Advisors LP,0.066700004,1700000,17034000,1.0\n2,2026-06-30,Polar Asset Management Partners Inc.,0.045100003,1150000,11523000,1.0\n3,2026-09-30,First Trust Capital Management L.P.,0.045100003,1150063,11523631,0.6429\n4,2026-06-30,Glazer Capital LLC,0.0394,1003787,10057946,1.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0383,977383,9793378,1.7965\n6,2026-06-30,Clear Street Group Inc.,0.033800002,860722,8624434,1.0\n7,2026-06-30,"Centiva Capital, LP",0.0196,500000,5010000,1.0\n8,2026-06-30,Hudson Bay Capital Management Lp,0.0196,500000,5010000,1.0\n9,2026-06-30,"Parallax Volatility Advisers, L.P.",0.0196,499229,5002274,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.023599999,602030,6032340,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0038,97970,981659,1.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5882,58937,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.023599999,602030,6032340,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0038,97970,981659,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5882,58937,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.007850001\ninstitutionsPercentHeld,0.50862\ninstitutionsFloatPercentHeld,0.51265\ninstitutionsCount,28.0\n
+,Value\ninsidersPercentHeld,0.00863\ninstitutionsPercentHeld,0.55459\ninstitutionsFloatPercentHeld,0.55942\ninstitutionsCount,30.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CAII,Collective Acquisition Corp. II,Financial Services,Shell Companies,United States,339909312,10.02,10880,33634,337012.68,,,,0.0,0.0,0.0,,,806870,0,,,,,,25489750,,0.007850001,0.50862,11172,0.33,0.0004,,,,-50.100002,,,,,,,none,,,,,,,,https://ccmacq.com/caii,2026-10-31T14:51:23.419823+00:00
+0.00,CAII,Collective Acquisition Corp. II,Financial Services,Shell Companies,United States,339909312,10.02,16610,27712,277674.24,,,,0.0,0.0,0.0,,,806870,0,,,,,,25489750,,0.00863,0.55459,11172,0.33,0.0004,,,,-50.100002,,,,,,,none,,,,,,,,https://ccmacq.com/caii,2026-11-10T08:35:24.064625+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.92,9.95,9.90,9.93,,,,,,,0,9.9500,0,510,,,,
 2026-06-23,9.90,9.93,9.90,9.91,,,,,,,0,9.9500,0,1083,,,,
@@ -110,3 +110,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0102,1,10.0043,1,,276,0.0079,0.0084,-0.0005
 2026-11-03,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0111,1,10.0050,1,,276,0.0078,0.0083,-0.0005
 2026-11-04,10.01,10.02,10.01,10.02,10.02,10.01,9.99,,,10.0111,1,10.0056,1,168,190,0.0076,0.0081,-0.0006
+2026-11-05,10.02,10.02,10.01,10.02,10.02,10.01,10.00,,,10.0111,1,10.0062,1,1016,210,0.0073,0.0080,-0.0006
+2026-11-06,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0111,1,10.0067,1,,202,0.0071,0.0078,-0.0007
+2026-11-09,10.01,10.02,10.01,10.02,10.02,10.02,10.00,,,10.0111,1,10.0072,1,11,201,0.0068,0.0076,-0.0008
+2026-11-10,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0111,1,10.0077,1,,201,0.0065,0.0073,-0.0009

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0949,1146244,11473902,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0828,1000000,10010000,1.0\n2,2026-06-30,"Boothbay Fund Management, LLC",0.0692,835000,8358350,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0561,677500,6781775,1.0\n4,2026-06-30,"RiverNorth Capital Management, LLC",0.0381,460000,4604600,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0381,460000,4604600,1.0\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0381,460000,4604600,1.0\n7,2026-06-30,"Whitebox Advisors, LLC",0.0381,460000,4604600,1.0\n8,2026-06-30,Glazer Capital LLC,0.0365,441059,4415000,1.0\n9,2026-06-30,"Wolverine Asset Management, LLC",0.034,411090,4115010,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0949,1146244,11577064,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0828,1000000,10100000,1.0\n2,2026-06-30,"Boothbay Fund Management, LLC",0.0692,835000,8433500,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0561,677500,6842750,1.0\n4,2026-06-30,"RiverNorth Capital Management, LLC",0.0381,460000,4646000,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0381,460000,4646000,1.0\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0381,460000,4646000,1.0\n7,2026-06-30,"Whitebox Advisors, LLC",0.0381,460000,4646000,1.0\n8,2026-06-30,Glazer Capital LLC,0.0365,441059,4454696,1.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.033800002,408354,4124375,-0.0067000003\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0166,200000,2002000,0.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0166,200000,2002000,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0083,100000,1001000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0166,200000,2020000,0.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0166,200000,2020000,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0083,100000,1010000,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.07837\ninstitutionsPercentHeld,0.87902\ninstitutionsFloatPercentHeld,0.95377\ninstitutionsCount,28.0\n
+,Value\ninsidersPercentHeld,0.07994\ninstitutionsPercentHeld,0.86379\ninstitutionsFloatPercentHeld,0.93884003\ninstitutionsCount,28.0\n
 news
 [\n  {\n    "uuid": "f7d302d1-0da3-3c7c-897b-a6eb8adfa36d",\n    "title": "Firstborn Top Capital, a Licensed Private Financing Company in Malaysia, to Become Publicly Traded Via Business Combination with ARC Group Acquisition I Corp",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/firstborn-top-capital-licensed-private-211800813.html",\n    "providerPublishTime": 1789075080,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/218951943a4e749a3fd98ca0acf25a65.png",\n          "width": 184,\n          "height": 115,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/D126501178B05B30762E006C6C24D965DE7EB38A96F04A969F49FAC46CC6B6DA/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F218951943a4e749a3fd98ca0acf25a65.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ARCL",\n      "BGMS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ARCL,ARC Group Acquisition I Corp,Financial Services,Shell Companies,United States,179509328,10.01,12440,14139,141531.38999999998,,,,0.0,0.0,0.0,,,993632,0,,,,0,,12758000,9842706,0.07837,0.87902,4951,0.21,0.0004,,,,164.09836,,,,,,,none,,,,,,,,,2026-10-31T14:13:50.920136+00:00
+0.00,ARCL,ARC Group Acquisition I Corp,Financial Services,Shell Companies,United States,181123312,10.1,13590,15964,161236.4,,,,0.0,0.0,0.0,,,993632,0,,,,0,,12758000,9842706,0.07994,0.86379,4951,0.21,0.0004,,,,165.57378,,,,,,,none,,,,,,,,,2026-11-10T07:59:16.341744+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-29,9.87,9.97,9.87,9.96,,,,,,,0,9.9700,0,1123,,,,
 2026-06-01,9.96,9.96,9.85,9.87,,,,,,,0,9.9700,0,1536,,,,
@@ -125,3 +125,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.01,10.01,9.98,,,10.0237,0,9.9968,1,,81,0.0091,0.0094,-0.0003
 2026-11-03,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0237,0,9.9981,1,29,82,0.0090,0.0093,-0.0003
 2026-11-04,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0237,0,9.9994,1,501,92,0.0089,0.0092,-0.0003
+2026-11-05,10.02,10.02,10.00,10.00,10.01,10.01,9.99,,,10.0237,0,10.0300,0,828,108,0.0071,0.0088,-0.0017
+2026-11-06,10.00,10.00,10.00,10.00,10.01,10.01,9.99,,,10.0168,0,10.0294,0,,105,0.0056,0.0082,-0.0026
+2026-11-09,10.01,10.10,10.01,10.10,10.02,10.01,9.99,,,10.0099,1,10.0000,1,4,105,0.0123,0.0090,0.0033
+2026-11-10,10.02,10.02,10.02,10.02,10.02,10.01,10.00,,,10.0099,1,10.0000,1,852,122,0.0111,0.0094,0.0017

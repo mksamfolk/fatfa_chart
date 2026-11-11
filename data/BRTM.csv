@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0028,100000,978999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Periscope Capital Inc.,0.018099999,650000,6356999,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.003,107884,1055105,1.0\n2,2026-09-30,Gritstone Asset Management LLC,0.0028,100000,977999,1.0\n3,2026-09-30,Stonex Group Inc.,0.0017,60675,593401,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0027200002\ninstitutionsFloatPercentHeld,0.0027200002\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.03181\ninstitutionsFloatPercentHeld,0.03181\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "f377828e-f7e0-3bd4-bf63-04539f14eecb",\n    "title": "B&R Technology Merger Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 10, 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/b-r-technology-merger-corp-202400683.html",\n    "providerPublishTime": 1788899040,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/90cddaaed5e0e782764fe46de9c83704.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/11A52A7BDA7B3F5AC229603B3030853CAB44443387BE2E9B66968AEDB69208D3/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F90cddaaed5e0e782764fe46de9c83704.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BRTMW",\n      "BRTMU",\n      "BRTM"\n    ]\n  },\n  {\n    "uuid": "49e43ffd-52d4-3fd0-8570-d0eb90ccf707",\n    "title": "B&R Technology Merger Corp. Announces Closing of Exercise of IPO Over-Allotment Option",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/b-r-technology-merger-corp-201800447.html",\n    "providerPublishTime": 1787689080,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/3157c06354428b7b08b17292f835eee9.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/EEE0AFEA445D719B58C3F11E2A0323B683ABB6FA57F89E2F149E04DAF937CF4E/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F3157c06354428b7b08b17292f835eee9.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BRTMU",\n      "BRTMW",\n      "BRTM"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BRTM,B&R Technology Merger Corp.,Financial Services,Shell Companies,United States,478690208,9.79,8760,83659,819021.61,,,,0.0,0.0,0.0,,,1798,229047,,,,0,,38062500,34040016,0.0,0.0027200002,26,0.0,,,,,-1631.6666,,,,,,,none,,,,,,,,,2026-10-31T14:44:49.724721+00:00
+0.00,BRTM,B&R Technology Merger Corp.,Financial Services,Shell Companies,United States,478201216,9.78,165150,111073,1086293.94,,,,0.0,0.0,0.0,,,1798,229047,,,,0,,38062500,34040016,0.0,0.03181,26,0.0,,,,,-1630.0,,,,,,,none,,,,,,,,,2026-11-10T08:29:10.021026+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-10,10.00,10.25,9.78,9.86,,,,,,,0,9.7800,1,2387,,,,
 2026-09-11,9.90,9.91,9.81,9.87,,,,,,,0,9.7800,1,318,,,,
@@ -69,3 +69,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.78,9.78,9.78,9.78,9.79,9.79,,,,9.8223,0,9.9185,0,904,,-0.0092,-0.0116,0.0023
 2026-11-03,9.78,9.78,9.78,9.78,9.79,9.79,,,,9.8180,0,9.9102,0,46,,-0.0092,-0.0111,0.0019
 2026-11-04,9.78,9.79,9.76,9.78,9.79,9.79,,,,9.8180,0,9.9024,0,828,,-0.0091,-0.0107,0.0016
+2026-11-05,9.76,9.78,9.76,9.76,9.78,9.79,,,,9.8149,0,9.8910,0,13528,,-0.0106,-0.0107,0.0001
+2026-11-06,9.76,9.76,9.76,9.76,9.78,9.78,,,,9.8004,0,9.8805,0,18,,-0.0116,-0.0109,-0.0007
+2026-11-09,9.77,9.78,9.77,9.78,9.78,9.78,,,,9.8004,0,9.8708,0,855,,-0.0106,-0.0108,0.0002
+2026-11-10,9.78,9.78,9.77,9.77,9.78,9.78,,,,9.8004,0,9.8620,0,2450,,-0.0105,-0.0108,0.0002

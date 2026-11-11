@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,BROWN MILTON,Director,,Stock Award(Grant),2024-12-23,346617,2024-12-23\n1,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-07-14,60238,2026-07-14\n2,RICHARDS STEVEN M,Director,,Stock Award(Grant),2024-12-31,210004,2024-12-31\n3,SCHAFER JOSHUA,Director,,Stock Award(Grant),2024-12-31,210004,2024-12-31\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0165,78597,404774,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0050999997,24354,125423,1.0\n2,2026-06-30,Barclays Plc,0.0002,750,3862,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0001,389,2003,-0.1616\n4,2026-06-30,Kelleher Financial Advisors,0.0,120,618,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0165,78597,407918,1.0\n1,2026-06-30,Citadel Advisors Llc,0.0050999997,24354,126397,1.0\n2,2026-09-30,"Geode Capital Management, LLC",0.0031,14715,76370,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0001,389,2018,-0.1616\n4,2026-09-30,Kelleher Financial Advisors,0.0,120,622,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0031,14693,75668,2.8778\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0031,14638,75971,-0.0037\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,83149,370937.0,,Sale at price 2.96 - 4.48 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-14,D\n1,8997,30212.0,,Purchase at price 3.11 - 3.38 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-10,D\n2,29111,100461.0,,Sale at price 3.33 - 3.52 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-08,D\n3,9022,31667.0,,Sale at price 3.51 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-06,D\n4,7851,27793.0,,Purchase at price 3.54 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-02,D\n5,3959,13065.0,,Purchase at price 3.30 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-07-01,D\n6,32591,110694.0,,Purchase at price 3.23 - 3.44 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-06-30,D\n7,209790,,,,SCHAFER JOSHUA,Director,,2024-12-31,D\n8,209790,,,,RICHARDS STEVEN M,Director,,2024-12-31,D\n9,209790,,,,SCHAFER JOSHUA,Director,,2024-12-23,D\n10,209790,,,,RICHARDS STEVEN M,Director,,2024-12-23,D\n11,209790,,,,BROWN MILTON,Director,,2024-12-23,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.00842\ninstitutionsPercentHeld,0.01926\ninstitutionsFloatPercentHeld,0.01943\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.00842\ninstitutionsPercentHeld,0.02219\ninstitutionsFloatPercentHeld,0.02238\ninstitutionsCount,6.0\n
 news
 [\n  {\n    "uuid": "4c2f6d15-217b-326f-ba2a-416f01d50dc5",\n    "title": "Shuttle Pharmaceuticals Holdings, Inc. Announces Receipt of NASDAQ Noncompliance Letter",\n    "publisher": "TMX Newsfile",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/shuttle-pharmaceuticals-holdings-inc-announces-200500613.html",\n    "providerPublishTime": 1787947500,\n    "type": "STORY",\n    "relatedTickers": [\n      "SHPH"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2024-08-13 09:30:00-04:00,0.125\n2025-06-16 09:30:00-04:00,0.04\n2026-06-11 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.57,SHPH,Shuttle Pharmaceuticals Holdings Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,24538184,5.15,29410,72418,372952.7,,,,0.0,0.0,0.0,-0.90050006,-0.49537998,90238,195158,1.017,0.114,0.026,-6584615,-2859472,4764696,4757358,0.00842,0.01926,31307,0.71,0.0066000004,,,,0.26878914,,-2.55,,,,,none,,,,,,,1.139,https://www.shuttlepharma.com,2026-10-31T19:58:19.049745+00:00
+43.57,SHPH,Shuttle Pharmaceuticals Holdings Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,24728772,5.19,23860,42962,222972.78000000003,,,,0.0,0.0,0.0,-0.90050006,-0.49537998,90238,195158,1.017,0.114,0.026,-6584615,-2859472,4764696,4757358,0.00842,0.02219,31307,0.71,0.0066000004,,,,0.27087682,,-2.57,,,,,none,,,,,,,1.016,https://www.shuttlepharma.com,2026-11-10T12:46:56.570340+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-31,48100.00,169400.00,27200.00,76960.00,,,,,,,0,27200.0000,1,41866,,,,
 2022-09-01,207980.00,252520.00,82000.00,104800.00,,,,,,,0,27200.0000,1,107001,,,,
@@ -1063,3 +1063,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,5.15,5.23,4.75,4.95,5.00,5.05,4.31,5.55,8.04,4.2884,1,3.4353,1,456,376,0.2554,0.2894,-0.0340
 2026-11-03,4.53,5.15,4.48,5.15,5.03,5.10,4.34,5.53,7.98,4.2884,1,3.4786,1,281,369,0.2475,0.2810,-0.0335
 2026-11-04,5.07,5.39,5.07,5.21,5.07,5.13,4.37,5.50,7.91,4.2884,1,3.5210,1,76,362,0.2433,0.2735,-0.0302
+2026-11-05,5.26,5.26,5.00,5.04,5.11,5.10,4.38,5.47,7.85,4.2884,1,3.5626,1,26,216,0.2236,0.2635,-0.0399
+2026-11-06,5.07,5.59,5.06,5.59,5.18,5.11,4.41,5.45,7.79,4.2884,1,3.6033,1,58,210,0.2491,0.2606,-0.0115
+2026-11-09,5.30,5.57,5.06,5.19,5.20,5.10,4.42,5.41,7.73,4.2884,1,3.6432,1,45,206,0.2348,0.2555,-0.0207
+2026-11-10,5.11,5.34,5.08,5.34,5.21,5.11,4.45,5.38,7.66,4.2884,1,3.6824,1,30,204,0.2328,0.2509,-0.0181

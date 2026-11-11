@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,2500,2800,1.5\n1,2026-09-30,"SBI Securities Co., Ltd.",0.0,130,145,0.26209998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,2500,3125,1.5\n1,2026-09-30,"SBI Securities Co., Ltd.",0.0,130,162,0.26209998\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-19 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.08,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,9395090,1.12,4370,23404,26212.480000000003,-0.64,,,-0.21504,-2.46328,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00031,25243,2.57,0.0034999999,,,1.0514905,0.69349843,1.521,-1.126,,,,,none,,,,,,,2.316,https://primegaghl.com,2026-10-31T21:14:47.667160+00:00
+13.76,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,10485591,1.25,4710,22662,28327.5,-0.64,,,-0.21504,-2.46328,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00031,25243,2.57,0.0034999999,,,1.1735384,0.7739938,1.643,-1.217,,,,,none,,,,,,,2.461,https://primegaghl.com,2026-11-10T14:05:25.037268+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-23,89.60,152.80,58.56,67.52,,,,,,,0,152.8000,0,14420,,,,
 2024-07-24,65.60,78.88,57.60,61.44,,,,,,,0,152.8000,0,4687,,,,
@@ -589,3 +589,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.13,1.25,1.13,1.21,1.22,1.29,1.51,2.27,3.22,1.5313,0,1.3531,0,4,47,-0.0973,-0.1017,0.0043
 2026-11-03,1.37,1.37,1.29,1.33,1.23,1.28,1.50,2.25,3.21,1.5313,0,1.1000,1,19,46,-0.0830,-0.0979,0.0149
 2026-11-04,1.39,1.39,1.27,1.30,1.24,1.28,1.49,2.23,3.20,1.5313,0,1.1054,1,5,46,-0.0733,-0.0930,0.0197
+2026-11-05,1.38,1.38,1.26,1.38,1.25,1.28,1.49,2.22,3.19,1.5313,0,1.1168,1,6,46,-0.0584,-0.0861,0.0277
+2026-11-06,1.28,1.40,1.17,1.33,1.25,1.28,1.48,2.20,3.18,1.5313,0,1.1277,1,5,46,-0.0501,-0.0789,0.0288
+2026-11-09,1.31,1.36,1.25,1.25,1.26,1.27,1.47,2.18,3.17,1.5313,0,1.1440,1,7,46,-0.0494,-0.0730,0.0236
+2026-11-10,1.40,1.43,1.35,1.43,1.29,1.27,1.46,2.16,3.16,1.5313,0,1.1594,1,10,45,-0.0339,-0.0652,0.0313

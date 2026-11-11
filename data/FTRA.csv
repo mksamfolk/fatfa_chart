@@ -7,27 +7,27 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0033000002,75000,740249,1.0\n1,2026-09-30,ABC Arbitrage SA,0.0013,30000,296099,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.0175,403000,3981640,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0109,250000,2470000,1.0\n2,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0069,158704,1567995,1.0\n3,2026-09-30,Deltec Asset Management LLC,0.0033000002,75000,741000,1.0\n4,2026-09-30,Stonex Group Inc.,0.0022,50200,495976,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0013,30000,296400,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,8341,82325,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,8341,82409,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
 ""\n
 cashflow
-""\n
+,2026-09-30,2026-06-30\nFree Cash Flow,-43439.0,-342564.0\nIssuance Of Capital Stock,0.0,226000000.0\nEnd Cash Position,960277.0,1003716.0\nBeginning Cash Position,1003716.0,0.0\nChanges In Cash,-43439.0,1003716.0\nFinancing Cash Flow,0.0,231346280.0\nCash Flow From Continuing Financing Activities,0.0,231346280.0\nNet Other Financing Charges,0.0,-653720.0\nProceeds From Stock Option Exercised,0.0,6000000.0\nNet Common Stock Issuance,0.0,226000000.0\nCommon Stock Issuance,0.0,226000000.0\nInvesting Cash Flow,0.0,-230000000.0\nCash Flow From Continuing Investing Activities,0.0,-230000000.0\nNet Other Investing Changes,0.0,-230000000.0\nOperating Cash Flow,-43439.0,-342564.0\nCash Flow From Continuing Operating Activities,-43439.0,-342564.0\nChange In Working Capital,131660.0,-220789.0\nChange In Other Current Liabilities,140.0,7234.0\nChange In Payables And Accrued Expense,90641.0,23809.0\nChange In Prepaid Assets,40879.0,-251832.0\nOther Non Cash Items,-2090084.0,-418870.0\nOperating Gains Losses,0.0,208750.0\nPension And Employee Benefit Expense,0.0,208750.0\nNet Income From Continuing Operations,1914985.0,88345.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.19493\ninstitutionsFloatPercentHeld,0.19493\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.0013\ninstitutionsPercentHeld,0.24368\ninstitutionsFloatPercentHeld,0.244\ninstitutionsCount,12.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FTRA,FutureCorp Space Acquisition 1,Financial Services,Shell Companies,United States,,9.87,36440,54951,542366.37,,,,0.0,0.0,0.0,,,1003716,0,,,,,,,,0.0,0.19493,2085,0.05,0.0001,,,,1.2791601,,,,,,,none,,,,,,,,,2026-10-31T16:13:22.509935+00:00
+0.00,FTRA,FutureCorp Space Acquisition 1,Financial Services,Shell Companies,United States,,9.88,13010,51296,506804.48000000004,,,,0.0,0.0,0.0,,,960277,0,,,,,,,,0.0013,0.24368,2085,0.05,0.0001,,,,-32.077923,,,,,,,none,,,,,,,,,2026-11-10T09:53:05.354387+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.85,9.98,9.85,9.91,,,,,,,0,9.9800,0,59,,,,
 2026-07-28,9.90,9.90,9.85,9.85,,,,,,,0,9.9800,0,22,,,,
@@ -86,3 +86,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.88,9.88,9.88,9.88,9.87,9.87,9.88,,,9.8941,0,9.9181,0,2,540,-0.0010,-0.0019,0.0009
 2026-11-03,9.87,9.88,9.87,9.88,9.87,9.87,9.88,,,9.8941,0,9.9168,0,46,540,-0.0004,-0.0016,0.0012
 2026-11-04,9.88,9.88,9.88,9.88,9.87,9.87,9.88,,,9.8941,0,9.9154,0,,540,0.0001,-0.0013,0.0014
+2026-11-05,9.87,9.87,9.85,9.87,9.87,9.87,9.88,,,9.8902,0,9.9141,0,487,550,-0.0003,-0.0011,0.0008
+2026-11-06,9.87,9.87,9.87,9.87,9.87,9.87,9.88,,,9.8902,0,9.9128,0,585,541,-0.0006,-0.0010,0.0004
+2026-11-09,10.23,10.23,9.88,9.88,9.88,9.87,9.88,,,9.8902,0,9.8500,1,8,493,-0.0000,-0.0008,0.0007
+2026-11-10,9.87,9.88,9.87,9.87,9.88,9.87,9.88,,,9.8902,0,9.8576,1,1005,513,-0.0004,-0.0007,0.0003

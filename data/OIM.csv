@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0777,2250000,22725000,0.0\n1,2026-06-30,Sculptor Capital LP,0.0505,1462248,14768705,0.0\n2,2026-06-30,"Empyrean Capital Partners, LP",0.0469,1358140,13717214,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.038,1100000,11110000,0.0\n4,2026-06-30,"Saba Capital Management, L.P.",0.0346,1001863,10118816,-0.33720002\n5,2026-06-30,Alberta Investment Management Corp,0.0345,1000000,10100000,0.0\n6,2026-06-30,Linden Advisors LP,0.0345,1000000,10100000,0.0\n7,2026-06-30,Millennium Management Llc,0.032899998,952000,9615200,3.76\n8,2026-06-30,"Verition Fund Management, LLC",0.026700001,773887,7816258,0.0101\n9,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.025899999,750000,7575000,-0.4\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0777,2250000,22738725,0.0\n1,2026-06-30,Sculptor Capital LP,0.0505,1462248,14777624,0.0\n2,2026-06-30,"Empyrean Capital Partners, LP",0.0469,1358140,13725498,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.038,1100000,11116710,0.0\n4,2026-06-30,"Saba Capital Management, L.P.",0.0346,1001863,10124927,-0.33720002\n5,2026-06-30,Alberta Investment Management Corp,0.0345,1000000,10106100,0.0\n6,2026-06-30,Linden Advisors LP,0.0345,1000000,10106100,0.0\n7,2026-06-30,Millennium Management Llc,0.032899998,952000,9621007,3.76\n8,2026-06-30,"Verition Fund Management, LLC",0.026700001,773887,7820979,0.0101\n9,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.025899999,750000,7579575,-0.4\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0034999999,100000,1010000,0.0\n1,2026-05-31,High Income Securities Fund,0.0017,50000,505000,1.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,12897,130259,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0,3,30,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0,1,10,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0034999999,100000,1010610,0.0\n1,2026-08-31,High Income Securities Fund,0.0017,50000,505305,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,12897,130338,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0,3,30,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0,1,10,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.8183\ninstitutionsFloatPercentHeld,0.8183\ninstitutionsCount,49.0\n
+,Value\ninsidersPercentHeld,0.00121\ninstitutionsPercentHeld,0.81654\ninstitutionsFloatPercentHeld,0.81751996\ninstitutionsCount,49.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OIM,OneIM Acquisition Corp.,Financial Services,Shell Companies,United States,364988768,10.1,130320,46390,468539.0,,,,0.0,0.0,0.0,,,699457,0,,,,0,,28950000,23101620,0.0,0.8183,902,0.02,0.0,,,,-24.105013,,,,,,,none,,,,,,,,https://www.oneimacquisitioncorp.com,2026-10-31T18:59:43.606298+00:00
+0.00,OIM,OneIM Acquisition Corp.,Financial Services,Shell Companies,United States,365209184,10.1061,780,46456,469488.9816,,,,0.0,0.0,0.0,,,699457,0,,,,0,,28950000,23101620,0.00121,0.81654,902,0.02,0.0,,,,-24.11957,,,,,,,none,,,,,,,,https://www.oneimacquisitioncorp.com,2026-11-10T11:48:48.811066+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-09,10.03,10.03,10.02,10.03,,,,,,,0,10.0300,0,6,,,,
 2026-03-10,10.02,10.03,9.50,10.03,,,,,,,0,10.0300,0,145,,,,
@@ -182,3 +182,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.10,10.10,10.10,10.10,10.10,10.11,10.12,10.07,,10.1157,0,10.1297,0,,443,-0.0049,-0.0039,-0.0009
 2026-11-03,10.10,10.10,10.10,10.10,10.10,10.11,10.12,10.07,,10.1141,0,10.1284,0,,443,-0.0049,-0.0041,-0.0008
 2026-11-04,10.11,10.11,10.11,10.11,10.11,10.11,10.12,10.07,,10.1141,0,10.1270,0,42,443,-0.0041,-0.0041,0.0000
+2026-11-05,10.11,10.11,10.11,10.11,10.11,10.11,10.12,10.07,,10.1141,0,10.1256,0,,443,-0.0034,-0.0040,0.0006
+2026-11-06,10.11,10.11,10.11,10.11,10.11,10.11,10.12,10.07,,10.1141,0,10.1243,0,,443,-0.0028,-0.0037,0.0009
+2026-11-09,10.11,10.11,10.11,10.11,10.11,10.11,10.12,10.07,,10.1141,0,10.1230,0,,443,-0.0023,-0.0035,0.0011
+2026-11-10,10.11,10.11,10.11,10.11,10.11,10.11,10.12,10.07,,10.1141,0,10.1218,0,,443,-0.0019,-0.0032,0.0012

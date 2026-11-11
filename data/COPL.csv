@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0876,1510297,15994045,-0.0108\n1,2026-06-30,"Aristeia Capital, LLC",0.0629,1085430,11494703,0.0\n2,2026-06-30,Berkley W R Corp,0.0629,1084469,11484526,0.0553\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.059299998,1023151,10835169,12.4214\n4,2026-06-30,Mizuho Securities USA LLC,0.0591,1020000,10801800,2.4172\n5,2026-06-30,"Westchester Capital Management, LLC",0.0499,860600,9113754,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0435,750000,7942500,0.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.0435,750000,7942500,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0348,600000,6354000,0.0\n9,2026-06-30,AQR Arbitrage LLC,0.0339,584870,6193773,0.0029\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0876,1510297,16160177,-0.0108\n1,2026-06-30,"Aristeia Capital, LLC",0.0629,1085430,11614100,0.0\n2,2026-06-30,Berkley W R Corp,0.0629,1084469,11603818,0.0553\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.059299998,1023151,10947715,12.4214\n4,2026-06-30,Mizuho Securities USA LLC,0.0591,1020000,10913999,2.4172\n5,2026-06-30,"Westchester Capital Management, LLC",0.0499,860600,9208419,0.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0435,750000,8024999,0.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.0435,750000,8024999,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0348,600000,6419999,0.0\n9,2026-06-30,AQR Arbitrage LLC,0.0339,584870,6258108,0.0029\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.045300003,781303,8273998,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,100000,1059000,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0025,43367,459256,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,10880,115219,0.0\n4,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0005,8053,85281,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,7285,77148,0.0\n6,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4854,51403,0.0\n7,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3850,40771,0.0\n8,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0001,2164,22916,-0.040799998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.045300003,781303,8359941,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,100000,1069999,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0025,43367,464026,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,10880,116415,0.0\n4,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0005,8053,86167,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,7285,77949,0.0\n6,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00029999999,4854,51937,0.0\n7,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3850,41194,0.0\n8,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0001,2164,23154,-0.040799998\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.03092\ninstitutionsPercentHeld,0.89579004\ninstitutionsFloatPercentHeld,0.92437\ninstitutionsCount,44.0\n
+,Value\ninsidersPercentHeld,0.03092\ninstitutionsPercentHeld,0.91335\ninstitutionsFloatPercentHeld,0.94249\ninstitutionsCount,45.0\n
 news
-[]\n
+[\n  {\n    "uuid": "89bd00e9-0bf7-31d8-93de-f0c54b3c4a48",\n    "title": "Copley Acquisition Corp Announces Shareholder Approval of Extension of Termination Date and Contribution to Trust Account to Extend Termination Date",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/copley-acquisition-corp-announces-shareholder-221500744.html",\n    "providerPublishTime": 1793916900,\n    "type": "STORY",\n    "relatedTickers": [\n      "COPL",\n      "COPLW",\n      "COPLU"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.57,COPL,Copley Acquisition Corp,Financial Services,Shell Companies,Hong Kong,234901024,10.59,35060,25165,266497.35,,0.207,0.626,0.0,0.0,0.0,,,3099,441609,,0.232,0.006,-441721,,16431401,16431316,0.03092,0.89579004,898,0.06,0.0001,40.73077,,,-45.06383,,,,,,,none,,,,,,,,https://www.copleyacquisition.com,2026-10-31T15:13:40.582349+00:00
+59.16,COPL,Copley Acquisition Corp,Financial Services,Shell Companies,Hong Kong,237340976,10.7,26230,21562,230713.4,,0.207,0.626,0.0,0.0,0.0,,,3099,441609,,0.232,0.006,-441721,,16431401,16431316,0.03092,0.91335,898,0.06,0.0001,41.153847,,,-45.531914,,,,,,,none,,,,,,,,https://www.copleyacquisition.com,2026-11-10T08:56:57.986938+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-02,10.00,10.01,9.99,10.00,,,,,,,0,9.9900,1,4947,,,,
 2025-06-03,10.01,10.01,10.00,10.00,,,,,,,0,9.9900,1,2639,,,,
@@ -374,3 +374,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.59,10.60,10.59,10.60,10.60,10.59,10.54,10.44,10.40,10.5711,1,10.6380,0,214,271,0.0176,0.0209,-0.0033
 2026-11-03,10.60,10.60,10.60,10.60,10.60,10.59,10.54,10.44,10.40,10.5739,1,10.6371,0,107,273,0.0168,0.0201,-0.0033
 2026-11-04,10.60,10.67,10.60,10.65,10.60,10.59,10.55,10.44,10.40,10.5905,1,10.5900,1,149,276,0.0200,0.0201,-0.0001
+2026-11-05,10.63,10.66,10.63,10.63,10.61,10.60,10.55,10.44,10.40,10.5959,1,10.5916,1,1404,231,0.0207,0.0202,0.0005
+2026-11-06,10.73,10.76,10.68,10.70,10.62,10.60,10.55,10.45,10.40,10.6368,1,10.5932,1,913,249,0.0265,0.0215,0.0051
+2026-11-09,10.70,10.70,10.70,10.70,10.63,10.61,10.56,10.45,10.41,10.6368,1,10.5998,1,,220,0.0308,0.0233,0.0075
+2026-11-10,10.68,10.68,10.68,10.68,10.63,10.62,10.56,10.45,10.41,10.6368,1,10.6062,1,2,220,0.0323,0.0251,0.0071

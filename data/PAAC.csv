@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0677,1200000,12012000,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0587,1040000,10410400,1.0\n2,2026-06-30,Magnetar Financial LLC,0.056399997,1000000,10010000,1.0\n3,2026-06-30,Linden Advisors LP,0.056399997,1000000,10010000,1.0\n4,2026-06-30,Millennium Management Llc,0.0476,843500,8443435,1.0\n5,2026-06-30,Glazer Capital LLC,0.0388,687600,6882876,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.0254,450173,4506231,1.0\n7,2026-06-30,Berkley W R Corp,0.0224,397720,3981177,1.0\n8,2026-06-30,Periscope Capital Inc.,0.0197,349800,3501498,1.0\n9,2026-06-30,Clear Street Group Inc.,0.0183,323852,3241758,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.0677,1200000,12012000,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0587,1040000,10410400,1.0\n2,2026-06-30,Magnetar Financial LLC,0.056399997,1000000,10010000,1.0\n3,2026-06-30,Linden Advisors LP,0.056399997,1000000,10010000,1.0\n4,2026-06-30,Millennium Management Llc,0.0476,843500,8443435,1.0\n5,2026-06-30,Glazer Capital LLC,0.0388,687600,6882876,1.0\n6,2026-06-30,AQR Arbitrage LLC,0.0254,450173,4506231,1.0\n7,2026-06-30,Berkley W R Corp,0.0224,397720,3981177,1.0\n8,2026-06-30,Clear Street Group Inc.,0.0183,323852,3241758,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.017,300860,3011608,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.261\ninstitutionsPercentHeld,0.57587004\ninstitutionsFloatPercentHeld,0.77925\ninstitutionsCount,32.0\n
+,Value\ninsidersPercentHeld,0.26196\ninstitutionsPercentHeld,0.57004\ninstitutionsFloatPercentHeld,0.77238\ninstitutionsCount,34.0\n
 news
 [\n  {\n    "uuid": "c2a209e4-490a-33c7-abed-bb67225ea3d5",\n    "title": "Proem Acquisition to Take Astro Digital Public in $587 Million SPAC Deal",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/proem-acquisition-astro-digital-public-132522773.html",\n    "providerPublishTime": 1790601922,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAAC"\n    ]\n  },\n  {\n    "uuid": "a9e67311-8aa8-3e51-887a-b928b7af0fc1",\n    "title": "Astro Digital, Premier Builder of Satellites for Commercial, Civil and Defense Applications, to Become Public Through Merger with Proem Acquisition Corp I",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/technology/articles/astro-digital-premier-builder-satellites-120000409.html",\n    "providerPublishTime": 1790596800,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAAC",\n      "BA",\n      "SNAP"\n    ]\n  },\n  {\n    "uuid": "f7edc103-eff6-3ed9-bba9-9ebbb40c0db5",\n    "title": "Astro Digital, Premier Builder of Satellites for Commercial, Civil and Defense Applications, to Become Public Through Merger with Proem Acquisition Corp I",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/articles/astro-digital-premier-builder-satellites-120000301.html",\n    "providerPublishTime": 1790596800,\n    "type": "STORY",\n    "relatedTickers": [\n      "PAAC",\n      "BA",\n      "SNAP"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PAAC,Proem Acquisition Corp I,Financial Services,Shell Companies,United States,177410560,10.01,5670,21092,211130.91999999998,,,,0.0,0.0,0.0,,,636353,0,,0.084,,0,,17723333,8772518,0.261,0.57587004,25134,0.56,0.002,,,,-50.05,,,,,,,none,,,,,,,,,2026-10-31T19:07:57.216078+00:00
+0.00,PAAC,Proem Acquisition Corp I,Financial Services,Shell Companies,United States,177410560,10.01,49210,28242,282702.42,,,,0.0,0.0,0.0,,,636353,0,,0.084,,0,,17723333,8772518,0.26196,0.57004,25134,0.56,0.002,,,,-50.05,,,,,,,none,,,,,,,,,2026-11-10T11:57:01.547209+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-06,9.92,10.00,9.92,10.00,,,,,,,0,10.0000,0,184,,,,
 2026-04-07,9.85,9.94,9.85,9.91,,,,,,,0,10.0000,0,206,,,,
@@ -163,3 +163,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.01,10.02,10.00,10.01,10.01,10.01,10.01,,,10.0266,0,10.0843,0,1920,146,-0.0038,-0.0024,-0.0014
 2026-11-03,10.01,10.01,10.01,10.01,10.01,10.01,10.01,,,10.0266,0,10.0809,0,211,150,-0.0036,-0.0026,-0.0010
 2026-11-04,10.01,10.02,10.01,10.01,10.01,10.01,10.01,,,10.0266,0,10.0776,0,353,157,-0.0035,-0.0028,-0.0007
+2026-11-05,10.01,10.02,10.00,10.00,10.01,10.01,10.01,,,10.0266,0,10.0745,0,2104,199,-0.0041,-0.0030,-0.0011
+2026-11-06,10.01,10.02,10.01,10.01,10.01,10.01,10.01,,,10.0266,0,10.0716,0,11,199,-0.0038,-0.0032,-0.0006
+2026-11-09,10.01,10.01,10.01,10.01,10.01,10.01,10.02,,,10.0266,0,10.0687,0,,199,-0.0035,-0.0032,-0.0002
+2026-11-10,10.01,10.01,10.01,10.01,10.01,10.01,10.02,,,10.0266,0,10.0659,0,,199,-0.0032,-0.0032,0.0001

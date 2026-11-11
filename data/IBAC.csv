@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,AQR CAPITAL MANAGEMENT HOLDINGS LLC,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-03-23,349027,1774224000\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0076,37901,411604,0.025799999\n1,2026-06-30,Flow Traders U.S. LLC,0.0042,20803,225920,-0.1322\n2,2026-06-30,"Jane Street Group, LLC",0.0041,20436,221934,0.0031\n3,2026-06-30,Clear Street Group Inc.,0.0034,16807,182524,0.1205\n4,2026-06-30,Morgan Stanley,0.0,45,488,-0.1176\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0077,37901,409709,0.025799999\n1,2026-06-30,Flow Traders U.S. LLC,0.0043,20803,224880,-0.1322\n2,2026-06-30,"Jane Street Group, LLC",0.0042,20436,220913,0.0031\n3,2026-06-30,Clear Street Group Inc.,0.0034,16807,181683,0.1205\n4,2026-06-30,Morgan Stanley,0.0,45,486,-0.1176\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,4603,49988,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00090000004,4603,49758,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.61,IBAC,IB Acquisition Corp.,Financial Services,Shell Companies,United States,54389364,10.86,130,1332,14465.519999999999,,,,0.0,0.0,0.0,,-0.01711,30161,502788,,0.105,0.012,-1848223,190876,5008229,1154146,0.86367,0.08915,2401,0.87,0.0005,,,,-23.506493,,,,,,,none,,,,,,,-0.002,,2026-10-31T17:24:10.310795+00:00
+55.07,IBAC,IB Acquisition Corp.,Financial Services,Shell Companies,United States,52870016,10.81,420,1351,14604.310000000001,,,,0.0,0.0,0.0,,-0.01711,30161,502788,,0.105,0.012,-1848223,190876,4890843,1154146,0.86367,0.08915,2401,0.87,0.0005,,,,-23.398268,,,,,,,none,,,,,,,0.004,,2026-11-10T10:24:24.481491+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-01,9.96,9.98,9.96,9.98,,,,,,,0,9.9800,0,27,,,,
 2024-05-02,9.96,9.97,9.93,9.93,,,,,,,0,9.9800,0,5156,,,,
@@ -645,3 +645,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.83,10.83,10.81,10.81,10.85,10.86,10.87,10.80,10.75,10.8489,0,10.9043,0,38,7,-0.0072,-0.0029,-0.0043
 2026-11-03,10.81,10.81,10.81,10.81,10.85,10.86,10.87,10.80,10.75,10.8360,0,10.9005,0,,7,-0.0102,-0.0044,-0.0058
 2026-11-04,10.81,10.81,10.81,10.81,10.84,10.85,10.87,10.81,10.75,10.8334,0,10.8969,0,,6,-0.0124,-0.0060,-0.0064
+2026-11-05,10.81,10.81,10.81,10.81,10.84,10.85,10.87,10.81,10.75,10.8311,0,10.8934,0,,6,-0.0140,-0.0076,-0.0064
+2026-11-06,10.81,10.81,10.81,10.81,10.84,10.85,10.86,10.81,10.76,10.8290,0,10.8901,0,,6,-0.0151,-0.0091,-0.0060
+2026-11-09,10.81,10.81,10.81,10.81,10.83,10.84,10.86,10.81,10.76,10.8271,0,10.8869,0,,6,-0.0158,-0.0104,-0.0054
+2026-11-10,10.81,10.81,10.81,10.81,10.83,10.84,10.86,10.81,10.76,10.8254,0,10.8838,0,,6,-0.0162,-0.0116,-0.0046

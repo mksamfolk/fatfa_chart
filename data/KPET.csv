@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0775,1800000,18000000,1.0\n1,2026-06-30,Alberta Investment Management Corp,0.0689,1600000,16000000,1.0\n2,2026-06-30,Deutsche Bank AG,0.055999998,1300000,13000000,1.0\n3,2026-06-30,Sculptor Capital LP,0.051599998,1200000,12000000,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.040900003,950000,9500000,1.0\n5,2026-06-30,Magnetar Financial LLC,0.0353,821016,8210160,1.0\n6,2026-06-30,"Moore Capital Management, LP",0.0344,800000,8000000,1.0\n7,2026-06-30,HBK Investments L P,0.0323,750006,7500060,1.0\n8,2026-06-30,Shaolin Capital Management LLC,0.0301,699975,6999750,1.0\n9,2026-06-30,"Saba Capital Management, L.P.",0.0301,698800,6988000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0775,1800000,18000000,1.0\n1,2026-06-30,Alberta Investment Management Corp,0.0689,1600000,16000000,1.0\n2,2026-09-30,Deutsche Bank AG,0.055999998,1300000,13000000,0.0\n3,2026-06-30,Sculptor Capital LP,0.051599998,1200000,12000000,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.040900003,950000,9500000,1.0\n5,2026-06-30,Magnetar Financial LLC,0.0353,821016,8210160,1.0\n6,2026-06-30,"Moore Capital Management, LP",0.0344,800000,8000000,1.0\n7,2026-06-30,HBK Investments L P,0.0323,750006,7500060,1.0\n8,2026-06-30,Shaolin Capital Management LLC,0.0301,699975,6999750,1.0\n9,2026-06-30,"Saba Capital Management, L.P.",0.0301,698800,6988000,1.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0017,39479,394790,1.0\n1,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0007,16166,161660,1.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.64536005\ninstitutionsPercentHeld,0.81925005\ninstitutionsFloatPercentHeld,2.3100998\ninstitutionsCount,40.0\n
+,Value\ninsidersPercentHeld,0.64622\ninstitutionsPercentHeld,0.82819\ninstitutionsFloatPercentHeld,2.34101\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KPET,KPET Ultra Paceline Corporation,Financial Services,Shell Companies,United States,289849984,10.0,10860,13675,136750.0,,,,0.0,0.0,0.0,,,1371945,0,,0.062,,0,,23235000,21199919,0.64536005,0.81925005,67,0.0,0.0,,,,1.3150973,,,,,,,none,,,,,,,,https://www.kpetultra.com,2026-10-31T17:58:26.485261+00:00
+0.00,KPET,KPET Ultra Paceline Corporation,Financial Services,Shell Companies,United States,289849984,10.0,20200,15525,155250.0,,,,0.0,0.0,0.0,,,1371945,0,,0.062,,0,,23235000,21199919,0.64622,0.82819,67,0.0,0.0,,,,1.3150973,,,,,,,none,,,,,,,,https://www.kpetultra.com,2026-11-10T10:48:52.812874+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-26,10.01,10.01,10.00,10.00,,,,,,,0,10.0100,0,15,,,,
 2026-05-27,10.00,10.00,10.00,10.00,,,,,,,0,10.0100,0,,,,,
@@ -128,3 +128,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.99,9.99,9.99,9.99,10.00,10.00,10.00,,,10.0078,0,10.0500,0,169,167,-0.0002,0.0000,-0.0002
 2026-11-03,10.01,10.01,10.01,10.01,10.00,10.00,10.00,,,9.9880,1,10.0488,0,10,167,0.0008,0.0002,0.0006
 2026-11-04,10.01,10.01,10.01,10.01,10.00,10.00,10.00,,,9.9902,1,10.0476,0,5,167,0.0016,0.0005,0.0011
+2026-11-05,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,9.9902,1,10.0465,0,1000,187,0.0014,0.0007,0.0007
+2026-11-06,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,9.9902,1,10.0453,0,,187,0.0012,0.0008,0.0005
+2026-11-09,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,9.9902,1,10.0442,0,,187,0.0011,0.0008,0.0002
+2026-11-10,10.00,10.00,10.00,10.00,10.00,10.00,10.00,,,9.9902,1,10.0432,0,950,206,0.0009,0.0009,0.0001

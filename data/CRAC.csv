@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0907,1637592,16818070,2.2699\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0853,1540000,15815800,0.0336\n2,2026-06-30,Magnetar Financial LLC,0.082200006,1485000,15250950,0.0\n3,2026-06-30,Berkley W R Corp,0.0674,1217433,12503037,1.6951\n4,2026-06-30,Mizuho Securities USA LLC,0.0659,1190077,12222091,0.5175\n5,2026-06-30,"Shaw D.E. & Co., Inc.",0.0473,853875,8769296,0.0\n6,2026-06-30,"CrossingBridge Advisors, LLC",0.0468,845900,8687393,0.0242\n7,2026-06-30,"Karpus Management, Inc.",0.0433,781300,8023951,-0.0322\n8,2026-06-30,"Wolverine Asset Management, LLC",0.0365,658279,6760525,-0.0001\n9,2026-06-30,"Westchester Capital Management, LLC",0.0352,635872,6530405,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0907,1637592,16834445,2.2699\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0853,1540000,15831199,0.0336\n2,2026-06-30,Magnetar Financial LLC,0.082200006,1485000,15265799,0.0\n3,2026-06-30,Berkley W R Corp,0.0674,1217433,12515210,1.6951\n4,2026-06-30,Mizuho Securities USA LLC,0.0659,1190077,12233991,0.5175\n5,2026-06-30,"Shaw D.E. & Co., Inc.",0.0473,853875,8777834,0.0\n6,2026-06-30,"CrossingBridge Advisors, LLC",0.0468,845900,8695851,0.0242\n7,2026-06-30,"Karpus Management, Inc.",0.0433,781300,8031763,-0.0322\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0379,684109,7032640,0.0392\n9,2026-06-30,"Westchester Capital Management, LLC",0.0352,635872,6536763,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0359,648265,6657681,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0278,502418,5159833,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0029,52178,535868,-0.028399998\n3,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0029,52635,540561,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0025,45008,462232,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0015,27784,285341,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,26677,273972,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,13936,143122,0.0\n8,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0005,9703,99649,0.0\n9,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,5029,51647,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0359,648265,6664164,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.0278,502418,5164856,0.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0029,52635,541087,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0029,52178,536389,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0025,45008,462682,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0015,27784,285619,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,26677,274239,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,13936,143262,0.0\n8,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0005,9703,99746,0.0\n9,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,5029,51698,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.03509\ninstitutionsPercentHeld,0.9568\ninstitutionsFloatPercentHeld,0.99158996\ninstitutionsCount,41.0\n
+,Value\ninsidersPercentHeld,0.03509\ninstitutionsPercentHeld,0.94746\ninstitutionsFloatPercentHeld,0.98191\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CRAC,Crown Reserve Acquisition Corp. I,Financial Services,Shell Companies,Cayman Islands,229727072,10.27,24830,19250,197697.5,,5230.917,25541.736,0.0,0.0,0.0,,,,0,,0.246,0.246,-37178,,18056250,14040641,0.03509,0.9568,2448,0.1,0.0001,,,,-68.46667,,,,,,,none,,,,,,,,,2026-10-31T15:15:57.627908+00:00
+0.00,CRAC,Crown Reserve Acquisition Corp. I,Financial Services,Shell Companies,Cayman Islands,229950752,10.28,24020,21775,223847.0,,5230.917,25541.736,0.0,0.0,0.0,,,,0,,0.246,0.246,-37178,,18056250,14040641,0.03509,0.94746,2448,0.1,0.0001,,,,-68.533325,,,,,,,none,,,,,,,,,2026-11-10T08:59:14.848884+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-09,9.90,9.92,9.89,9.90,,,,,,,0,9.8900,1,12760,,,,
 2025-12-10,9.91,9.92,9.90,9.91,,,,,,,0,9.8900,1,3869,,,,
@@ -242,3 +242,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.30,10.30,10.27,10.27,10.27,10.26,10.22,10.13,10.09,10.2501,1,10.2490,1,263,211,0.0156,0.0186,-0.0031
 2026-11-03,10.28,10.28,10.28,10.28,10.27,10.27,10.22,10.13,10.09,10.2501,1,10.2541,1,6,210,0.0155,0.0180,-0.0025
 2026-11-04,10.30,10.30,10.28,10.28,10.27,10.27,10.22,10.13,10.09,10.2530,1,10.2587,1,515,221,0.0154,0.0175,-0.0021
+2026-11-05,10.28,10.28,10.28,10.28,10.27,10.27,10.23,10.13,10.09,10.2530,1,10.2628,1,925,239,0.0150,0.0170,-0.0019
+2026-11-06,10.29,10.29,10.29,10.29,10.27,10.27,10.23,10.13,10.10,10.2571,1,10.2665,1,23,239,0.0154,0.0167,-0.0013
+2026-11-09,10.30,10.30,10.28,10.28,10.28,10.27,10.23,10.14,10.10,10.2571,1,10.2699,1,7,239,0.0147,0.0163,-0.0015
+2026-11-10,10.28,10.29,10.28,10.29,10.28,10.27,10.23,10.14,10.10,10.2571,1,10.2729,1,19,236,0.0148,0.0160,-0.0012

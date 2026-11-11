@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,SUN LIWEI,President,,Sale,2026-06-30,18095400,1782777600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0037,22330,98921,0.087299995\n1,2026-06-30,Citadel Advisors Llc,0.0011,6979,30916,1.6216999\n2,2026-06-30,Goldman Sachs Group Inc,0.0002,1229,5444,-0.1381\n3,2026-06-30,Xtx Topco Ltd,0.0001,379,1678,-0.3351\n4,2026-06-30,Rhumbline Advisers,0.0,23,101,0.0\n5,2026-06-30,UBS Group AG,0.0,11,48,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0037,22330,84628,0.087299995\n1,2026-06-30,Citadel Advisors Llc,0.0011,6979,26449,1.6216999\n2,2026-06-30,Goldman Sachs Group Inc,0.0002,1229,4657,-0.1381\n3,2026-06-30,Xtx Topco Ltd,0.0001,379,1436,-0.3351\n4,2026-06-30,Rhumbline Advisers,0.0,23,87,0.0\n5,2026-06-30,UBS Group AG,0.0,11,41,1.0\n6,2026-09-30,Citigroup Inc.,0.0,1,3,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,151,668,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,151,572,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,353624,90209,,Sale at price 0.26 per share.,SUN LIWEI,President,,2026-06-30,I\n
 major_holders
-,Value\ninsidersPercentHeld,0.02826\ninstitutionsPercentHeld,0.0043\ninstitutionsFloatPercentHeld,0.0044299997\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.07886\ninstitutionsPercentHeld,0.0043\ninstitutionsFloatPercentHeld,0.00467\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "47c40dae-45b9-3370-81a2-58d32a61c158",\n    "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",\n    "publisher": "decrypt",\n    "link": "https://finance.yahoo.com/markets/crypto/articles/why-team-ninjas-tripling-down-114651616.html",\n    "providerPublishTime": 1793101611,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/decrypt_157/a976184eaa7ca377c0061eeeb4cddf2e.jpg",\n          "width": 1280,\n          "height": 720,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/8ED219610C780024E932C5AD6B68AA6EE40B6A7A7E3A78E3B2692F2E03A6F2F8/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa976184eaa7ca377c0061eeeb4cddf2e.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BTC-USD",\n      "NIPG"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-07-06 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.35,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,33130162,4.43,18860,29251,129581.93,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,1467001,0.02826,0.0043,9352,1.1,,,,0.26184356,0.23447837,0.602,-1.588,,,,,none,,,,,,,1.843,https://nipg.com,2026-10-31T18:45:18.293110+00:00
+2.36,NIPG,NIP Group Inc.,Communication Services,Entertainment,Sweden,28343116,3.7899,26070,27670,104866.533,0.423,,,-0.01171,-0.69587,-1.8771601,-1.4104899,-0.14276,14934144,51045676,53.61,0.875,0.581,-15686123,-4216859,6088015,701492,0.07886,0.0043,9352,1.1,,,,0.22400925,0.2005981,0.564,-1.488,,,,,none,,,,,,,2.179,https://nipg.com,2026-11-10T11:34:34.550406+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-26,393.30,393.60,241.20,270.60,,,,,,,0,241.2000,1,9676,,,,
 2024-07-29,302.70,502.50,300.00,495.00,,,,,,,0,241.2000,1,116135,,,,
@@ -586,3 +586,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,4.14,4.55,3.60,4.35,4.81,6.98,10.25,13.80,17.76,7.0894,0,5.2847,0,55,392,-2.0643,-1.8910,-0.1733
 2026-11-03,4.08,4.20,3.54,3.80,4.53,6.60,10.15,13.65,17.61,7.0442,0,4.9457,0,24,390,-2.0388,-1.9206,-0.1183
 2026-11-04,3.70,4.49,3.70,4.16,4.34,6.24,10.05,13.51,17.48,7.0442,0,4.6646,0,58,388,-1.9669,-1.9299,-0.0371
+2026-11-05,3.77,4.29,3.62,3.65,4.09,5.86,9.94,13.36,17.34,6.9424,0,4.4900,0,177,370,-1.9289,-1.9297,0.0008
+2026-11-06,3.46,3.95,3.20,3.72,3.98,5.49,9.83,13.22,17.20,6.4887,0,4.4900,0,23,369,-1.8715,-1.9180,0.0466
+2026-11-09,3.82,3.99,3.72,3.79,3.96,5.20,9.72,13.09,17.06,6.4887,0,4.2900,0,11,364,-1.7996,-1.8943,0.0948
+2026-11-10,3.41,3.73,3.41,3.73,3.95,4.97,9.62,12.96,16.91,6.1170,0,4.0720,0,16,353,-1.7275,-1.8610,0.1334

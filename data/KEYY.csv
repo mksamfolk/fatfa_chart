@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.05,1437045,14255486,1.0\n1,2026-06-30,Linden Advisors LP,0.0452,1300000,12896000,1.0\n2,2026-06-30,"Meteora Capital, LLC",0.0388,1116282,11073517,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0383,1100000,10912000,1.0\n4,2026-06-30,Toronto Dominion Bank,0.0376,1079982,10713421,1.0\n5,2026-06-30,Sona Asset Management (US) LLC,0.0313,900000,8928000,1.0\n6,2026-06-30,First Trust Capital Management L.P.,0.026099999,749998,7439980,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,750000,7440000,1.0\n8,2026-06-30,"Verition Fund Management, LLC",0.0231,664259,6589449,1.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0209,600000,5952000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.05,1437045,14269857,1.0\n1,2026-06-30,Linden Advisors LP,0.0452,1300000,12909000,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0396,1138171,11302038,4.6654\n3,2026-06-30,"Meteora Capital, LLC",0.0388,1116282,11084680,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0383,1100000,10923000,1.0\n5,2026-06-30,Toronto Dominion Bank,0.0376,1079982,10724221,1.0\n6,2026-06-30,Sona Asset Management (US) LLC,0.0313,900000,8937000,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.026099999,750000,7447500,1.0\n8,2026-09-30,First Trust Capital Management L.P.,0.026099999,749998,7447480,0.0\n9,2026-06-30,"Verition Fund Management, LLC",0.0231,664259,6596092,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0223,642232,6370941,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0036000002,103934,1031025,1.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.00059999997,15881,157539,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10752,106659,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,7029,69727,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0223,642232,6377363,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0036000002,103934,1032064,1.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.00059999997,15881,157698,1.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10752,106767,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,7029,69797,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.51128\ninstitutionsFloatPercentHeld,0.51128\ninstitutionsCount,29.0\n
+,Value\ninsidersPercentHeld,0.00104\ninstitutionsPercentHeld,0.55881\ninstitutionsFloatPercentHeld,0.55939\ninstitutionsCount,30.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KEYY,Keystone Acquisition Corp.,Financial Services,Shell Companies,United States,380266656,9.92,140710,86081,853923.52,,,,0.0,0.0,0.0,,,1066548,0,,0.661,,0,,28750000,28750000,0.0,0.51128,1156,0.02,0.0,,,,-35.94203,,,,,,,none,,,,,,,,https://www.keystoneSPAC.com,2026-10-31T17:54:56.360258+00:00
+0.00,KEYY,Keystone Acquisition Corp.,Financial Services,Shell Companies,United States,380649984,9.93,48960,92653,920044.2899999999,,,,0.0,0.0,0.0,,,1066548,0,,0.661,,0,,28750000,28750000,0.00104,0.55881,1156,0.02,0.0,,,,-35.978264,,,,,,,none,,,,,,,,https://www.keystoneSPAC.com,2026-11-10T10:45:34.606124+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,10.00,10.00,9.88,9.92,,,,,,,0,10.0000,0,239,,,,
 2026-06-23,9.88,9.89,9.88,9.88,,,,,,,0,10.0000,0,92,,,,
@@ -110,3 +110,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.92,9.92,9.92,9.92,9.93,9.93,9.90,,,9.9426,0,9.9108,1,150,869,0.0034,0.0074,-0.0040
 2026-11-03,9.92,9.94,9.91,9.94,9.93,9.93,9.91,,,9.9426,0,9.9500,0,1133,891,0.0043,0.0068,-0.0024
 2026-11-04,9.95,9.95,9.93,9.93,9.93,9.93,9.91,,,9.9426,0,9.9100,1,102,892,0.0042,0.0062,-0.0021
+2026-11-05,9.92,9.92,9.92,9.92,9.92,9.93,9.91,,,9.9426,0,9.9100,1,3126,955,0.0032,0.0056,-0.0024
+2026-11-06,9.92,9.92,9.92,9.92,9.92,9.93,9.91,,,9.9426,0,9.9108,1,,949,0.0025,0.0050,-0.0025
+2026-11-09,9.95,9.95,9.93,9.93,9.92,9.93,9.91,,,9.9426,0,9.9116,1,994,969,0.0026,0.0045,-0.0019
+2026-11-10,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9426,0,9.9124,1,497,979,0.0027,0.0042,-0.0014

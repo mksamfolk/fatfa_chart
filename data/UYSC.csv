@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,UY SCUTI INVESTMENTS LTD,Beneficial Owner of more than 10% of a Class of Security,,Stock Gift,2025-08-15,1448350,2025-08-15\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Mizuho Securities USA LLC,0.09,469800,5153706,-0.21700001\n1,2026-06-30,Berkley W R Corp,0.078099996,407586,4471218,0.0\n2,2026-06-30,"Wolverine Asset Management, LLC",0.073699996,384693,4220082,-0.0332\n3,2026-06-30,"Karpus Management, Inc.",0.0546,284991,3126351,-0.0381\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0383,200000,2194000,0.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0353,184375,2022593,-0.2616\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0332,173367,1901836,-0.0093\n7,2026-06-30,Clear Street Group Inc.,0.0279,145488,1596003,-0.0049\n8,2026-06-30,"Westchester Capital Management, LLC",0.0249,130200,1428294,-0.6055\n9,2026-06-30,AQR Arbitrage LLC,0.0239,124747,1368474,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.09,469800,5167800,0.0\n1,2026-06-30,Berkley W R Corp,0.078099996,407586,4483446,0.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0727,379482,4174302,-0.0135\n3,2026-06-30,"Karpus Management, Inc.",0.0546,284991,3134901,-0.0381\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0383,200000,2200000,0.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0353,184375,2028125,-0.2616\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0332,173367,1907037,-0.0093\n7,2026-06-30,Clear Street Group Inc.,0.0279,145488,1600368,-0.0049\n8,2026-06-30,"Westchester Capital Management, LLC",0.0249,130200,1432200,-0.6055\n9,2026-06-30,AQR Arbitrage LLC,0.0239,124747,1372217,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0234,122244,1341016,-0.5801\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0054,28125,308531,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0013,6769,74255,-0.5809\n3,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,1187,13021,-0.605\n4,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,1031,11310,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0234,122244,1344684,-0.5801\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0054,28125,309375,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0013,6769,74459,-0.5809\n3,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,1187,13057,-0.605\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,1031,11341,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,230000,0,,Stock Gift at price 0.00 per share.,UY SCUTI INVESTMENTS LTD,Beneficial Owner of more than 10% of a Class of Security,,2025-08-15,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.42859\ninstitutionsPercentHeld,0.57598\ninstitutionsFloatPercentHeld,1.008\ninstitutionsCount,22.0\n
+,Value\ninsidersPercentHeld,0.42859\ninstitutionsPercentHeld,0.57499003\ninstitutionsFloatPercentHeld,1.00625\ninstitutionsCount,22.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.36,UYSC,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,United States,84012080,10.97,520,1332,14612.04,,-0.3,-0.504,0.0,0.0,0.0,0.38185,-0.01746,8807,919053,,0.03,0.005,-273276,730244,5221060,3158010,0.42859,0.57598,20952,19.71,0.0058999998,35.387096,,,-34.936306,,,,,,,none,,,,,,,,,2026-10-31T20:48:28.702883+00:00
+61.53,UYSC,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,United States,84241824,11.0,100,1345,14795.0,,-0.3,-0.504,0.0,0.0,0.0,0.38185,-0.01746,8807,919053,,0.03,0.005,-273276,730244,5221060,3163231,0.42859,0.57499003,20952,19.71,0.0058999998,35.48387,,,-35.031845,,,,,,,none,,,,,,,,,2026-11-10T13:36:34.304067+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-27,10.05,10.05,9.89,9.99,,,,,,,0,9.8900,1,2522,,,,
 2025-05-28,9.99,9.99,9.99,9.99,,,,,,,0,9.8900,1,1998,,,,
@@ -378,3 +378,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,11.00,11.00,11.00,11.00,10.95,10.93,10.89,10.70,10.60,10.9688,1,10.9454,1,3,19,0.0209,0.0166,0.0043
 2026-11-03,11.00,11.00,11.00,11.00,10.96,10.93,10.90,10.71,10.60,10.9719,1,10.9498,1,,19,0.0231,0.0179,0.0052
 2026-11-04,11.00,11.00,11.00,11.00,10.97,10.94,10.90,10.71,10.61,10.9747,1,10.9538,1,,19,0.0245,0.0192,0.0053
+2026-11-05,11.04,11.04,11.04,11.04,10.98,10.94,10.91,10.72,10.61,11.0053,1,10.9575,1,6,19,0.0286,0.0211,0.0075
+2026-11-06,11.04,11.04,11.04,11.04,10.99,10.95,10.91,10.72,10.62,11.0087,1,10.9658,1,,19,0.0315,0.0232,0.0083
+2026-11-09,11.04,11.04,11.04,11.04,11.00,10.96,10.92,10.73,10.62,11.0119,1,10.9732,1,,19,0.0333,0.0252,0.0081
+2026-11-10,11.00,11.04,11.00,11.04,11.01,10.96,10.92,10.73,10.62,11.0119,1,10.9799,1,3,19,0.0344,0.0270,0.0074

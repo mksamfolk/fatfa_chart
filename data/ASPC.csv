@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Fifth Lane Capital, LP",0.0087,20368,214067,1.0\n1,2026-06-30,Clear Street Group Inc.,0.0047999998,11274,118489,-0.3803\n2,2026-06-30,UBS Group AG,0.0001,275,2890,-0.13520001\n3,2026-06-30,Morgan Stanley,0.0,36,378,-0.027\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Fifth Lane Capital, LP",0.0087,20368,208772,1.0\n1,2026-06-30,Clear Street Group Inc.,0.0047999998,11274,115558,-0.3803\n2,2026-06-30,UBS Group AG,0.0001,275,2818,-0.13520001\n3,2026-06-30,Morgan Stanley,0.0,36,369,-0.027\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0042,9845,103470,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0042,9845,100911,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-44.04,ASPC,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,24567976,10.51,4640,21550,226490.5,,,,0.0,0.0,0.0,0.01285,-0.00977,633724,0,,1.424,1.282,-434785,-271887,2337481,567588,0.76364,0.13467,11532,3.24,0.040799998,262.75,,,7.512509,,,,,,,none,,,,,,,,,2026-10-31T14:17:33.616353+00:00
+40.36,ASPC,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,23960206,10.25,5480,21906,224536.5,,,,0.0,0.0,0.0,-0.00374,-0.00828,686872,0,,1.251,1.188,-375760,-236199,2337481,559496,0.76364,0.13467,11532,3.24,0.040799998,256.25,,,7.4762945,,,,,,,none,,,,,,,,,2026-11-10T08:03:01.537630+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-03,9.95,9.98,9.95,9.95,,,,,,,0,9.9500,1,2065,,,,
 2025-01-06,9.96,9.97,9.96,9.97,,,,,,,0,9.9500,1,4619,,,,
@@ -475,3 +475,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.64,10.65,10.55,10.55,10.64,10.73,10.80,10.96,11.92,10.9035,0,10.7500,0,31,300,-0.0785,-0.0553,-0.0232
 2026-11-03,10.61,10.61,10.51,10.52,10.61,10.71,10.80,10.95,11.91,10.9035,0,10.7020,0,116,302,-0.0833,-0.0609,-0.0224
 2026-11-04,10.51,10.51,10.50,10.50,10.59,10.70,10.80,10.95,11.84,10.8234,0,10.6636,0,75,303,-0.0877,-0.0662,-0.0215
+2026-11-05,10.47,10.49,10.45,10.45,10.57,10.68,10.80,10.95,11.76,10.7707,0,10.6309,0,166,306,-0.0938,-0.0718,-0.0220
+2026-11-06,10.36,10.36,10.26,10.26,10.53,10.66,10.79,10.94,11.67,10.6393,0,10.5947,0,6,304,-0.1130,-0.0800,-0.0330
+2026-11-09,10.27,10.28,10.25,10.25,10.49,10.63,10.78,10.94,11.60,10.5699,0,10.5280,0,52,305,-0.1276,-0.0895,-0.0380
+2026-11-10,10.25,10.25,10.25,10.25,10.45,10.60,10.78,10.93,11.55,10.5244,0,10.4724,0,,305,-0.1375,-0.0991,-0.0384

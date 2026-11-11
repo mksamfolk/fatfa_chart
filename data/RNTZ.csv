@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0050999997,10703,41741,1.0868\n1,2026-06-30,National Bank of Canada/FI/,0.0001,200,780,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0050999997,10703,42597,1.0868\n1,2026-06-30,National Bank of Canada/FI/,0.0001,200,796,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,1624,6333,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,1624,6463,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.40,RNTZ,Rantizo,Technology,Computer Hardware,Singapore,235312304,3.9,12340,154304,601785.6,-0.046,,,0.24511999,-0.38219002,-0.22549999,-0.40215,-0.05493,1975000,11904000,164.42,0.741,0.733,-512000,-3104375,59251223,1101678,0.27889,0.00021,15506,0.25,0.00029999999,,,18.172237,1.010101,1.501,-18.688,,,,,none,,,,,,,0.699,https://www.rantizo.com,2026-10-31T19:43:10.156263+00:00
+85.28,RNTZ,Rantizo,Technology,Computer Hardware,Singapore,240139216,3.98,8800,154723,615797.54,-0.046,,,0.24511999,-0.38219002,-0.22549999,-0.40215,-0.05493,1975000,11904000,164.42,0.741,0.733,-512000,-3104375,60336487,1863447,0.27889,0.00021,15506,0.25,0.00029999999,,,18.545,1.030821,1.516,-18.875,,,,,none,,,,,,,0.745,https://www.rantizo.com,2026-11-10T12:31:47.587626+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-08,45.00,111.09,44.10,60.50,,,,,,,0,111.0900,0,39719,,,,
 2024-10-09,59.80,87.40,37.10,39.30,,,,,,,0,111.0900,0,13349,,,,
@@ -550,3 +550,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,3.91,4.22,3.57,3.57,4.21,4.56,4.46,4.25,3.90,5.4582,0,5.9172,0,62,171,-0.1906,-0.0779,-0.1127
 2026-11-03,3.61,4.45,3.60,3.62,4.10,4.52,4.44,4.26,3.91,5.4582,0,5.7295,0,59,170,-0.2221,-0.1068,-0.1154
 2026-11-04,3.62,3.97,3.62,3.89,4.03,4.46,4.43,4.27,3.91,5.4078,0,5.5567,0,9,168,-0.2228,-0.1300,-0.0928
+2026-11-05,4.18,4.18,3.80,3.80,3.95,4.39,4.42,4.28,3.91,5.4078,0,5.3978,0,14,168,-0.2279,-0.1496,-0.0784
+2026-11-06,3.80,3.88,3.80,3.80,3.90,4.31,4.40,4.29,3.91,5.2720,0,5.2516,0,8,166,-0.2293,-0.1655,-0.0638
+2026-11-09,3.80,4.36,3.80,3.98,3.89,4.20,4.39,4.30,3.92,5.2720,0,5.1170,0,16,166,-0.2135,-0.1751,-0.0384
+2026-11-10,4.10,5.09,4.10,4.43,3.92,4.20,4.39,4.31,3.92,5.2720,0,3.5700,1,148,167,-0.1627,-0.1726,0.0099

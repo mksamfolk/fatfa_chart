@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0684,1092500,11034250,1.0\n1,2026-06-30,Decagon Asset Management LLP,0.0619,990000,9999000,1.0\n2,2026-06-30,"Wolverine Asset Management, LLC",0.0365,583001,5888310,1.0\n3,2026-06-30,"Shaw D.E. & Co., Inc.",0.0344,550000,5555000,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0313,500000,5050000,1.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0313,500000,5050000,1.0\n6,2026-06-30,Mizuho Securities USA LLC,0.0299,478405,4831890,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0297,475000,4797500,1.0\n8,2026-06-30,"Context Capital Management, LLC",0.0188,300000,3030000,1.0\n9,2026-06-30,"CrossingBridge Advisors, LLC",0.0167,266282,2689448,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0684,1092500,11214621,1.0\n1,2026-06-30,Decagon Asset Management LLP,0.0619,990000,10162448,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0366,584798,6003009,0.0031\n3,2026-06-30,"Shaw D.E. & Co., Inc.",0.0344,550000,5645804,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0313,500000,5132549,1.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0313,500000,5132549,1.0\n6,2026-06-30,Mizuho Securities USA LLC,0.0299,478405,4910874,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0297,475000,4875922,1.0\n8,2026-09-30,"Context Capital Management, LLC",0.0188,300000,3079529,0.0\n9,2026-06-30,"CrossingBridge Advisors, LLC",0.0167,266282,2733411,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0146,233859,2361975,1.0\n1,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0098,156282,1578448,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0063,100000,1010000,1.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0063,100000,1010000,1.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00090000004,13875,140137,1.0\n5,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,2266,22886,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0146,233859,2400585,1.0\n1,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0098,156282,1604250,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0063,100000,1026509,1.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0063,100000,1026509,1.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00090000004,13875,142428,1.0\n5,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,2266,23260,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.32418\ninstitutionsPercentHeld,0.51783\ninstitutionsFloatPercentHeld,0.76623\ninstitutionsCount,30.0\n
+,Value\ninsidersPercentHeld,0.32418\ninstitutionsPercentHeld,0.53927\ninstitutionsFloatPercentHeld,0.79794997\ninstitutionsCount,29.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GLED,GalaxyEdge Acquisition Corporation,Financial Services,Shell Companies,United States,161423264,10.1,15580,40157,405585.7,,,,0.0,0.0,0.0,,,312210,0,,0.159,0.159,-60000,,15982500,9874947,0.32418,0.51783,31,0.0,,,,,288.57144,,,,,,,none,,,,,,,,https://galaxyedge.co,2026-10-31T16:22:39.502442+00:00
+0.00,GLED,GalaxyEdge Acquisition Corporation,Financial Services,Shell Companies,United States,164061952,10.2651,5860,39370,404136.987,,,,0.0,0.0,0.0,,,312210,0,,0.159,0.159,-60000,,15982500,9874947,0.32418,0.53927,31,0.0,,,,,293.28854,,,,,,,none,,,,,,,,https://galaxyedge.co,2026-11-10T10:01:37.400998+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,9.90,9.90,9.87,9.88,,,,,,,0,9.9000,0,1578,,,,
 2026-04-15,9.88,9.88,9.87,9.87,,,,,,,0,9.9000,0,18272,,,,
@@ -157,3 +157,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.10,10.10,10.10,10.10,10.08,10.07,10.02,,,10.0724,1,10.0474,1,,459,0.0183,0.0192,-0.0009
 2026-11-03,10.11,10.11,10.11,10.11,10.08,10.08,10.03,,,10.0822,1,10.0516,1,38,458,0.0195,0.0193,0.0002
 2026-11-04,10.11,10.11,10.11,10.11,10.09,10.08,10.03,,,10.0849,1,10.0574,1,,457,0.0201,0.0195,0.0007
+2026-11-05,10.11,10.11,10.11,10.11,10.09,10.08,10.03,,,10.0874,1,10.0627,1,507,465,0.0204,0.0197,0.0008
+2026-11-06,10.18,10.18,10.18,10.18,10.10,10.09,10.04,,,10.1387,1,10.0674,1,2,453,0.0260,0.0209,0.0051
+2026-11-09,10.27,10.27,10.27,10.27,10.12,10.10,10.04,,,10.2058,1,10.0809,1,2,449,0.0373,0.0242,0.0131
+2026-11-10,10.11,10.17,10.11,10.17,10.13,10.10,10.05,,,10.2458,0,10.1074,1,611,460,0.0377,0.0269,0.0108

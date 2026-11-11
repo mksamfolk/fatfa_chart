@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0854,1750000,18305000,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.054899998,1125000,11767500,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.048800003,1000000,10460000,0.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.043899998,900000,9414000,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.0427,875000,9152500,0.0\n5,2026-06-30,Alberta Investment Management Corp,0.0342,700000,7322000,0.0\n6,2026-06-30,Millennium Management Llc,0.0342,700000,7322000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.0313,640768,6702433,0.0050999997\n8,2026-06-30,"Two Sigma Investments, LP",0.031,634375,6635562,0.0\n9,2026-06-30,"Verition Fund Management, LLC",0.0306,626871,6557070,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0854,1750000,18339999,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.054899998,1125000,11789999,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.048800003,1000000,10479999,0.0\n3,2026-09-30,Mizuho Securities USA LLC,0.0478,978659,10256345,0.9149\n4,2026-06-30,Polar Asset Management Partners Inc.,0.043899998,900000,9431999,0.0\n5,2026-06-30,"Shaw D.E. & Co., Inc.",0.0427,875000,9169999,0.0\n6,2026-06-30,Millennium Management Llc,0.0342,700000,7335999,0.0\n7,2026-09-30,Alberta Investment Management Corp,0.0342,700000,7335999,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0313,640768,6715248,0.0050999997\n9,2026-06-30,"Two Sigma Investments, LP",0.031,634375,6648249,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0214,437717,4578519,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0039,80000,836800,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0011999999,24407,255297,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0011999999,24882,260265,0.0\n4,2026-06-30,First Trust Alternative Opportunities Fund,0.00090000004,18000,188280,0.0\n5,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11143,116555,0.0\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0004,8753,91556,0.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,8637,90343,0.0\n8,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7630,79809,0.0\n9,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,4461,46662,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0214,437717,4587273,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0039,80000,838399,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0011999999,24407,255785,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0011999999,24882,260763,0.0\n4,2026-06-30,First Trust Alternative Opportunities Fund,0.00090000004,18000,188639,0.0\n5,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11143,116778,0.0\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0004,8753,91731,0.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0004,8637,90515,0.0\n8,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7630,79962,0.0\n9,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,4461,46751,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.03184\ninstitutionsFloatPercentHeld,1.03184\ninstitutionsCount,53.0\n
+,Value\ninsidersPercentHeld,0.00114\ninstitutionsPercentHeld,1.0189\ninstitutionsFloatPercentHeld,1.02006\ninstitutionsCount,52.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.32,TVAI,Thayer Ventures Acquisition Corporation II,Financial Services,Shell Companies,United States,284468416,10.46,1520,41831,437552.26,,0.401,1.875,0.0,0.0,0.0,,,2169,0,,0.225,0.003,-877868,,20487500,18737385,0.0,1.03184,843,0.01,0.0,49.809525,,,-32.28395,,,,,,,none,,,,,,,,,2026-10-31T20:39:03.304739+00:00
+57.62,TVAI,Thayer Ventures Acquisition Corporation II,Financial Services,Shell Companies,United States,285012320,10.48,80620,51106,535590.88,,0.401,1.875,0.0,0.0,0.0,,,2169,0,,0.225,0.003,-877868,,20487500,18737385,0.00114,1.0189,843,0.01,0.0,49.904762,,,-32.345676,,,,,,,none,,,,,,,,,2026-11-10T13:27:35.889427+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-02,10.50,10.50,9.90,9.97,,,,,,,0,9.9000,1,2291,,,,
 2025-07-03,9.99,9.99,9.97,9.98,,,,,,,0,9.9000,1,122,,,,
@@ -353,3 +353,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.45,10.45,10.45,10.45,10.45,10.44,10.40,10.32,10.28,10.4477,1,10.4411,1,31,304,0.0171,0.0166,0.0005
 2026-11-03,10.45,10.46,10.45,10.46,10.45,10.44,10.40,10.32,10.28,10.4477,1,10.4441,1,1156,327,0.0170,0.0167,0.0003
 2026-11-04,10.46,10.46,10.46,10.46,10.45,10.44,10.41,10.32,10.28,10.4477,1,10.4466,1,9,327,0.0167,0.0167,0.0000
+2026-11-05,10.45,10.46,10.44,10.46,10.46,10.44,10.41,10.32,10.28,10.4477,1,10.4600,0,1359,354,0.0163,0.0166,-0.0003
+2026-11-06,10.47,10.48,10.46,10.48,10.46,10.45,10.41,10.33,10.29,10.4477,1,10.4350,1,5882,472,0.0174,0.0168,0.0006
+2026-11-09,10.48,10.48,10.48,10.48,10.46,10.45,10.41,10.33,10.29,10.4582,1,10.4350,1,,429,0.0181,0.0170,0.0010
+2026-11-10,10.48,10.48,10.48,10.48,10.46,10.45,10.41,10.33,10.29,10.4604,1,10.4359,1,,428,0.0184,0.0173,0.0011

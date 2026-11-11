@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12662500,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0543,1250000,12662500,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.0442,1015921,10291279,0.0011999999\n3,2026-06-30,Alberta Investment Management Corp,0.0435,1000000,10130000,0.0\n4,2026-06-30,"Aristeia Capital, LLC",0.0435,1000800,10138104,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.0435,1000000,10130000,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10130000,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0435,999990,10129898,0.0\n8,2026-06-30,HGC Investment Management Inc.,0.0315,725000,7344250,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.0294,676385,6851780,0.0385\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12599999,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0543,1250000,12599999,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.0442,1015921,10240483,0.0011999999\n3,2026-06-30,Alberta Investment Management Corp,0.0435,1000000,10079999,0.0\n4,2026-06-30,"Aristeia Capital, LLC",0.0435,1000800,10088063,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.0435,1000000,10079999,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10079999,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0435,999990,10079899,0.0\n8,2026-06-30,HGC Investment Management Inc.,0.0315,725000,7307999,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.0294,676385,6817960,0.0385\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0119,273602,2771588,1.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0007,16308,165200,1.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,14061,142437,1.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0005,10557,106942,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,8196,83025,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,5672,57457,1.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,2941,29792,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0119,273602,2757908,1.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0007,16308,164384,1.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00059999997,14061,141734,1.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0005,10557,106414,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,8196,82615,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,5672,57173,1.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,2941,29645,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.82755995\ninstitutionsFloatPercentHeld,0.82755995\ninstitutionsCount,55.0\n
+,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.86837995\ninstitutionsFloatPercentHeld,0.8699\ninstitutionsCount,56.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LPCV,Launchpad Cadenza Acquisition Corp I,Financial Services,Shell Companies,United States,291237504,10.13,20,26767,271149.71,,,,0.0,0.0,0.0,,,719206,0,,12.577,11.968,-425190,,23000000,23000000,0.0,0.82755995,103,0.0,0.0,,,,-28.77841,,,,,,,none,,,,,,,,,2026-10-31T18:12:18.420733+00:00
+0.00,LPCV,Launchpad Cadenza Acquisition Corp I,Financial Services,Shell Companies,United States,289800000,10.08,20220,29782,300202.56,,,,0.0,0.0,0.0,,,719206,0,,12.577,11.968,-425190,,23000000,23000000,0.00174,0.86837995,103,0.0,0.0,,,,-28.636364,,,,,,,none,,,,,,,,,2026-11-10T11:02:00.234255+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-09,9.95,9.95,9.88,9.88,,,,,,,0,9.9500,0,110,,,,
 2026-02-10,9.88,9.91,9.88,9.90,,,,,,,0,9.9500,0,354,,,,
@@ -201,3 +201,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.12,10.12,10.11,10.11,10.13,10.11,10.06,10.00,,10.1298,0,10.1010,1,42,241,0.0206,0.0234,-0.0028
 2026-11-03,10.07,10.08,10.07,10.08,10.12,10.11,10.06,10.00,,10.1004,0,10.1300,0,202,245,0.0159,0.0219,-0.0060
 2026-11-04,10.07,10.08,10.07,10.08,10.12,10.11,10.07,10.00,,10.1004,0,10.1288,0,151,248,0.0120,0.0199,-0.0079
+2026-11-05,10.09,10.09,10.08,10.08,10.11,10.11,10.07,10.00,,10.1004,0,10.1276,0,1643,281,0.0089,0.0177,-0.0088
+2026-11-06,10.08,10.08,10.08,10.08,10.11,10.11,10.07,10.00,,10.1004,0,10.1265,0,,279,0.0063,0.0154,-0.0091
+2026-11-09,10.08,10.08,10.08,10.08,10.10,10.11,10.07,10.00,,10.1004,0,10.1253,0,,279,0.0042,0.0132,-0.0090
+2026-11-10,10.09,10.09,10.09,10.09,10.10,10.11,10.07,10.01,,10.1004,0,10.1242,0,555,290,0.0033,0.0112,-0.0079

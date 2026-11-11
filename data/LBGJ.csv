@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0002,122,189,1.0\n1,2026-06-30,HRT Financial LP,0.0002,96,148,0.5738\n2,2026-06-30,"Jane Street Group, LLC",0.0001,67,103,-0.5037\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0002,122,207,1.0\n1,2026-06-30,HRT Financial LP,0.0002,96,163,0.5738\n2,2026-06-30,"Jane Street Group, LLC",0.0001,67,113,-0.5037\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-27 09:30:00-04:00,0.01\n2026-08-03 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.19,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1101160,1.55,13030,613614,951101.7000000001,-0.096,0.117,0.231,0.2925,-0.02722,-0.09126,-0.16829,-0.03204,3587976,10654794,136.348,1.177,0.938,-926667,-2449627,621418,2897715,0.00124,0.0015,52791,0.27,0.085,,,0.09914931,0.00018435575,1.093,-13.061,,,,,none,,,,,,,3.064,https://www.libangco.cn,2026-10-31T18:03:25.393692+00:00
+1.01,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1207724,1.7,198080,503396,855773.2,-0.096,0.117,0.231,0.2925,-0.02722,-0.09126,-0.16829,-0.03204,3587976,10654794,136.348,1.177,0.938,-926667,-2449627,621418,2897715,0.00124,0.0015,52791,0.27,0.085,,,0.10874442,0.00020219664,1.138,-13.595,,,,,none,,,,,,,3.048,https://www.libangco.cn,2026-11-10T10:53:24.441361+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,94000.00,110000.00,81200.00,82000.00,,,,,,,0,110000.0000,0,6478,,,,
 2024-10-24,83400.00,86000.00,78000.00,78600.00,,,,,,,0,110000.0000,0,1651,,,,
@@ -524,3 +524,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.59,1.62,1.52,1.57,1.55,1.67,2.46,203.72,3534.59,2.7534,0,2.0717,0,17,2317,-3.1330,-4.5052,1.3722
 2026-11-03,1.58,1.58,1.46,1.53,1.55,1.65,2.41,191.07,3478.90,2.6211,0,2.0404,0,2065,2329,-2.9082,-4.1858,1.2776
 2026-11-04,1.64,2.17,1.64,1.84,1.56,1.63,2.37,177.88,3421.41,2.6211,0,1.2900,1,906,2309,-2.6742,-3.8835,1.2093
+2026-11-05,1.81,1.81,1.66,1.73,1.59,1.62,2.34,166.03,3360.52,2.6211,0,1.3075,1,85,2287,-2.4692,-3.6006,1.1314
+2026-11-06,1.71,1.74,1.63,1.74,1.61,1.61,2.29,152.57,3307.43,2.6211,0,1.3247,1,22,1695,-2.2796,-3.3364,1.0568
+2026-11-09,1.73,1.79,1.65,1.70,1.63,1.62,2.26,141.52,3241.14,2.6211,0,1.3416,1,30,1658,-2.1083,-3.0908,0.9825
+2026-11-10,1.67,1.70,1.60,1.60,1.64,1.61,2.23,137.39,3177.44,2.5601,0,1.3581,1,23,1649,-1.9580,-2.8642,0.9062

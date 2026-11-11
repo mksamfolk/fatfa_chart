@@ -3,13 +3,13 @@ balance_sheet
 dividends
 Date,Dividends\n
 income_stmt
-,2025-12-31,2024-12-31\nTax Effect Of Unusual Items,0.0,0.0\nTax Rate For Calcs,0.21,0.21\nNormalized EBITDA,-835759.0,-1064786.0\nNet Income From Continuing Operation Net Minority Interest,1059768.0,2552215.0\nEBITDA,-835759.0,-1064786.0\nEBIT,-835759.0,-1064786.0\nNet Interest Income,1895527.0,3617001.0\nInterest Income,1895527.0,3617001.0\nNormalized Income,1059768.0,2552215.0\nNet Income From Continuing And Discontinued Operation,1059768.0,2552215.0\nTotal Expenses,835759.0,1064786.0\nTotal Operating Income As Reported,-835759.0,-1064786.0\nDiluted Average Shares,6173369.0,9026000.0\nBasic Average Shares,6173369.0,9026000.0\nDiluted EPS,0.17,0.28\nBasic EPS,0.17,0.28\nDiluted NI Availto Com Stockholders,1059768.0,2552215.0\nNet Income Common Stockholders,1059768.0,2552215.0\nNet Income,1059768.0,2552215.0\nNet Income Including Noncontrolling Interests,1059768.0,2552215.0\nNet Income Continuous Operations,1059768.0,2552215.0\nPretax Income,1059768.0,2552215.0\nNet Non Operating Interest Income Expense,1895527.0,3617001.0\nInterest Income Non Operating,1895527.0,3617001.0\nOperating Income,-835759.0,-1064786.0\nOperating Expense,835759.0,1064786.0\nOther Operating Expenses,,1064786.0\nSelling General And Administration,835759.0,1064786.0\nGeneral And Administrative Expense,835759.0,1064786.0\nOther Gand A,835759.0,1064786.0\nTotal Revenue,0.0,0.0\nOperating Revenue,0.0,0.0\n
+,2025-12-31,2024-12-31\nTax Effect Of Unusual Items,0.0,0.0\nTax Rate For Calcs,0.2557,0.2563\nNormalized EBITDA,-835759.0,-1064786.0\nNet Income From Continuing Operation Net Minority Interest,1059768.0,2552215.0\nEBITDA,-835759.0,-1064786.0\nEBIT,-835759.0,-1064786.0\nNet Interest Income,1895527.0,3617001.0\nInterest Income,1895527.0,3617001.0\nNormalized Income,1059768.0,2552215.0\nNet Income From Continuing And Discontinued Operation,1059768.0,2552215.0\nTotal Expenses,835759.0,1064786.0\nTotal Operating Income As Reported,-835759.0,-1064786.0\nDiluted Average Shares,6173369.0,9026000.0\nBasic Average Shares,6173369.0,9026000.0\nDiluted EPS,0.17,0.28\nBasic EPS,0.17,0.28\nDiluted NI Availto Com Stockholders,1059768.0,2552215.0\nNet Income Common Stockholders,1059768.0,2552215.0\nNet Income,1059768.0,2552215.0\nNet Income Including Noncontrolling Interests,1059768.0,2552215.0\nNet Income Continuous Operations,1059768.0,2552215.0\nPretax Income,1059768.0,2552215.0\nNet Non Operating Interest Income Expense,1895527.0,3617001.0\nInterest Income Non Operating,1895527.0,3617001.0\nOperating Income,-835759.0,-1064786.0\nOperating Expense,835759.0,1064786.0\nOther Operating Expenses,,1064786.0\nSelling General And Administration,835759.0,1064786.0\nGeneral And Administrative Expense,835759.0,1064786.0\nOther Gand A,835759.0,1064786.0\nTotal Revenue,0.0,0.0\nOperating Revenue,0.0,0.0\n
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-02-11,550387,2025-02-11\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,First Trust Capital Management L.P.,0.2148,680000,8295999,0.0\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1631676,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1016711,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,940924,0.0\n4,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,2964,1.1696\n5,2026-06-30,UBS Group AG,0.0,59,719,3.2143\n6,2026-06-30,Morgan Stanley,0.0,43,524,-0.14\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.2138,677008,8144406,-0.0044\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1608940,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1002544,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,927813,0.0\n4,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,2923,1.1696\n5,2026-06-30,UBS Group AG,0.0,59,709,3.2143\n6,2026-06-30,Morgan Stanley,0.0,43,517,-0.14\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,70833,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,69846,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,150000,1629000,,Sale at price 10.86 per share.,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,2025-02-11,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.64965\ninstitutionsPercentHeld,0.32027\ninstitutionsFloatPercentHeld,0.91413003\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.64965\ninstitutionsPercentHeld,0.31932\ninstitutionsFloatPercentHeld,0.91143\ninstitutionsCount,8.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.54,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38629248,12.2,1080,16339,199335.8,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.32027,2243,0.96,0.002,174.2857,,,-8.615819,,,,,,,none,,,,,,,0.908,,2026-10-31T13:56:09.989158+00:00
+25.98,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38090972,12.03,2540,15328,184395.84,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.31932,2243,0.96,0.002,171.85713,,,-8.495763,,,,,,,none,,,,,,,0.969,,2026-11-10T07:41:54.272584+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-22,10.15,10.16,10.15,10.15,,,,,,,0,10.1500,1,3929,,,,
 2024-01-23,10.16,10.17,10.15,10.16,,,,,,,0,10.1500,1,7379,,,,
@@ -715,3 +715,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,12.50,12.79,12.20,12.20,12.14,12.23,12.19,25.61,31.67,12.0052,1,11.9023,1,41,239,-0.1204,-0.1716,0.0513
 2026-11-03,12.20,12.20,12.20,12.20,12.15,12.23,12.19,25.51,31.49,12.0052,1,11.9378,1,,229,-0.1119,-0.1597,0.0478
 2026-11-04,12.20,12.20,12.20,12.20,12.16,12.23,12.19,25.43,31.33,12.0052,1,11.9719,1,,224,-0.1040,-0.1486,0.0445
+2026-11-05,12.20,12.50,12.18,12.21,12.18,12.24,12.20,25.33,31.18,12.0052,1,12.0046,1,177,227,-0.0959,-0.1380,0.0421
+2026-11-06,12.20,12.20,12.18,12.20,12.19,12.24,12.20,25.24,30.82,12.0052,1,12.0361,1,15,224,-0.0892,-0.1283,0.0391
+2026-11-09,12.11,12.11,12.02,12.03,12.19,12.22,12.20,25.14,30.57,12.0052,1,12.7900,0,54,224,-0.0965,-0.1219,0.0254
+2026-11-10,12.29,12.75,12.29,12.40,12.22,12.21,12.21,25.04,30.25,12.0052,1,12.7746,0,133,195,-0.0716,-0.1119,0.0402

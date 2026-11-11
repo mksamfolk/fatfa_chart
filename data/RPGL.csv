@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,"CETERA WEALTH SERVICES, LLC",Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-03-19,0,2026-03-19\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0011,1184,12076,1.0\n1,2026-06-30,"Susquehanna International Group, LLP",0.00090000004,920,9383,1.0\n2,2026-06-30,"Jane Street Group, LLC",0.0008,810,8261,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0004,469,4783,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,20,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0011,1184,10880,1.0\n1,2026-06-30,"Susquehanna International Group, LLP",0.00090000004,920,8454,1.0\n2,2026-06-30,"Jane Street Group, LLC",0.0008,810,7443,1.0\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0004,469,4310,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,18,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-24 09:30:00-05:00,0.05\n2026-05-28 09:30:00-04:00,0.025\n2026-09-25 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.54,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,10294278,10.2,189780,75554,770650.7999999999,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.03949508,,2.1964524,0.033259004,-0.158,-1.046,,,,,none,,,,,,,,https://republicpower.net,2026-10-31T19:44:32.335693+00:00
+97.12,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,9274943,9.19,47780,79701,732452.19,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.034621757,,1.9789606,0.02996571,-0.162,-1.077,,,,,none,,,,,,,,https://republicpower.net,2026-11-10T12:33:08.281551+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-14,3360.00,4152.00,3200.00,3984.00,,,,,,,0,3200.0000,1,24784,,,,
 2025-10-15,3240.00,3432.00,3216.00,3280.00,,,,,,,0,3200.0000,1,6442,,,,
@@ -281,3 +281,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.20,12.12,10.20,11.02,8.03,18.08,9.00,14.35,91.23,21.3770,0,33.8152,0,690,1251,-1.0272,0.0372,-1.0644
 2026-11-03,11.00,11.94,10.01,10.80,8.40,16.88,9.18,14.13,90.22,21.3770,0,32.7026,0,814,1266,-0.9439,-0.1590,-0.7849
 2026-11-04,10.90,13.49,10.80,12.90,9.02,15.71,9.40,13.91,89.24,21.3770,0,31.6345,0,506,1275,-0.7003,-0.2673,-0.4330
+2026-11-05,12.25,14.00,11.61,13.17,9.73,14.37,9.63,13.74,86.57,21.3770,0,30.6091,0,386,1282,-0.4800,-0.3098,-0.1702
+2026-11-06,12.06,13.34,10.89,11.26,10.19,12.93,9.81,13.61,84.29,21.3770,0,29.6247,0,499,1290,-0.4543,-0.3387,-0.1156
+2026-11-09,11.45,12.66,9.19,9.19,10.28,11.29,9.96,13.45,82.10,21.3238,0,28.6798,0,230,1294,-0.5941,-0.3898,-0.2043
+2026-11-10,10.70,10.70,8.25,9.43,10.46,9.54,10.11,13.32,79.48,19.5689,0,27.7726,0,951,1312,-0.6777,-0.4474,-0.2303

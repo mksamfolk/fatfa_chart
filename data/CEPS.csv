@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,"CANTOR EP HOLDINGS VI, LLC",Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-02-06,300000,2026-02-06\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.0647,762950,7705795,2.0252001\n1,2026-06-30,Sculptor Capital LP,0.044299997,523144,5283754,0.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.0339,400000,4040000,0.0\n3,2026-06-30,Toronto Dominion Bank,0.0326,384489,3883339,-0.1456\n4,2026-06-30,"Context Capital Management, LLC",0.0297,350000,3535000,0.0\n5,2026-06-30,"J. Goldman & Co., L.P.",0.0297,350185,3536868,0.0005\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0297,350000,3535000,0.0\n7,2026-06-30,LMR Partners LLP,0.0297,350000,3535000,0.0\n8,2026-06-30,"Saba Capital Management, L.P.",0.0254,300000,3030000,0.0\n9,2026-06-30,Sona Asset Management (US) LLC,0.0254,300000,3030000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.0647,762950,7774460,2.0252001\n1,2026-06-30,Sculptor Capital LP,0.044299997,523144,5330837,0.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.0339,400000,4075999,0.0\n3,2026-06-30,Toronto Dominion Bank,0.0326,384489,3917942,-0.1456\n4,2026-06-30,"J. Goldman & Co., L.P.",0.0297,350185,3568385,0.0005\n5,2026-06-30,Polar Asset Management Partners Inc.,0.0297,350000,3566499,0.0\n6,2026-06-30,LMR Partners LLP,0.0297,350000,3566499,0.0\n7,2026-09-30,"Context Capital Management, LLC",0.0297,350000,3566499,0.0\n8,2026-06-30,"Saba Capital Management, L.P.",0.0254,300000,3056999,0.0\n9,2026-06-30,Sona Asset Management (US) LLC,0.0254,300000,3056999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0145000005,171517,1732321,0.0\n1,2026-05-31,High Income Securities Fund,0.003,35000,353500,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0027,32308,326310,0.0769\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0023,27433,277073,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund,0.0015,17805,179830,0.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,7602,76780,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0145000005,171517,1747758,0.0\n1,2026-08-31,High Income Securities Fund,0.003,35000,356649,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0027,32308,329218,0.0769\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0023,27433,279542,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund,0.0015,17805,181432,0.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,7602,77464,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,300000,3000000,,Purchase at price 10.00 per share.,"CANTOR EP HOLDINGS VI, LLC",Beneficial Owner of more than 10% of a Class of Security,,2026-02-06,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.0339\ninstitutionsPercentHeld,0.92272\ninstitutionsFloatPercentHeld,0.9551\ninstitutionsCount,76.0\n
+,Value\ninsidersPercentHeld,0.03686\ninstitutionsPercentHeld,0.92087\ninstitutionsFloatPercentHeld,0.95612\ninstitutionsCount,76.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CEPS,Cantor Equity Partners VI Inc.,Financial Services,Shell Companies,United States,148217504,10.1,13130,17098,172689.8,,,,0.0,0.0,0.0,,,25000,85768,71.066,1.269,0.158,-67009,,11800000,9687114,0.0339,0.92272,985,0.05,0.0001,126.25001,,,1262.5,,,,,,,none,,,,,,,,,2026-10-31T14:59:25.488707+00:00
+0.00,CEPS,Cantor Equity Partners VI Inc.,Financial Services,Shell Companies,United States,149538240,10.19,28250,20456,208446.63999999998,,,,0.0,0.0,0.0,,,25000,85768,71.066,1.269,0.158,-67009,,11800000,9687114,0.03686,0.92087,985,0.05,0.0001,113.22221,,,1273.7499,,,,,,,none,,,,,,,,,2026-11-10T08:43:09.373576+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-05,10.13,10.17,10.13,10.15,,,,,,,0,10.1300,1,62611,,,,
 2026-02-06,10.15,10.17,10.14,10.15,,,,,,,0,10.1300,1,2087,,,,
@@ -203,3 +203,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.20,10.27,10.12,10.15,10.12,10.16,10.29,10.25,,10.1546,0,10.1000,1,1027,236,-0.0520,-0.0572,0.0052
 2026-11-03,10.15,10.15,10.15,10.15,10.12,10.15,10.28,10.25,,10.1546,0,10.1000,1,,236,-0.0470,-0.0552,0.0082
 2026-11-04,10.15,10.15,10.15,10.15,10.12,10.15,10.28,10.25,,10.1546,0,10.1068,1,,236,-0.0426,-0.0526,0.0101
+2026-11-05,10.13,10.21,10.12,10.21,10.13,10.14,10.27,10.25,,10.0808,1,10.1133,1,1161,259,-0.0338,-0.0489,0.0151
+2026-11-06,10.21,10.21,10.21,10.21,10.14,10.14,10.27,10.25,,10.1108,1,10.1196,1,,259,-0.0266,-0.0444,0.0179
+2026-11-09,10.13,10.19,10.13,10.19,10.15,10.14,10.27,10.25,,10.1108,1,10.1200,1,21,260,-0.0222,-0.0400,0.0178
+2026-11-10,10.19,10.19,10.19,10.19,10.16,10.14,10.26,10.25,,10.1108,1,10.1260,1,,260,-0.0185,-0.0357,0.0172

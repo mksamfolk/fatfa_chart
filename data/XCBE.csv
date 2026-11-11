@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.08,1800000,18053999,0.0\n1,2026-06-30,"Meteora Capital, LLC",0.0626,1408079,14123031,-0.2956\n2,2026-06-30,Magnetar Financial LLC,0.0622,1400000,14041999,0.0\n3,2026-06-30,Linden Advisors LP,0.0622,1400000,14041999,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.044,990000,9929699,0.5231\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,749998,7522479,0.0\n6,2026-06-30,Glazer Capital LLC,0.0326,733345,7355450,0.1016\n7,2026-06-30,AQR Arbitrage LLC,0.0325,731634,7338288,0.0173\n8,2026-06-30,"Whitebox Advisors, LLC",0.0311,700000,7020999,0.0\n9,2026-06-30,Millennium Management Llc,0.028900001,650000,6519499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.08,1800000,18053999,0.0\n1,2026-06-30,"Meteora Capital, LLC",0.0626,1408079,14123031,-0.2956\n2,2026-06-30,Magnetar Financial LLC,0.0622,1400000,14041999,0.0\n3,2026-06-30,Linden Advisors LP,0.0622,1400000,14041999,0.0\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.044,990000,9929699,0.5231\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0375,842943,8454718,0.4364\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,749998,7522479,0.0\n7,2026-06-30,Glazer Capital LLC,0.0326,733345,7355450,0.1016\n8,2026-06-30,AQR Arbitrage LLC,0.0325,731634,7338288,0.0173\n9,2026-06-30,"Whitebox Advisors, LLC",0.0311,700000,7020999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0044,100000,1002999,1.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0044,100000,1002999,1.0\n2,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,9592,96207,1.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6668,66880,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0044,100000,1002999,1.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0044,100000,1002999,1.0\n2,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,9592,96207,1.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6668,66880,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.25\ninstitutionsPercentHeld,0.85347\ninstitutionsFloatPercentHeld,1.13796\ninstitutionsCount,48.0\n
+,Value\ninsidersPercentHeld,0.25156\ninstitutionsPercentHeld,0.88564\ninstitutionsFloatPercentHeld,1.18331\ninstitutionsCount,48.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XCBE,X3 Acquisition Corp. Ltd.,Financial Services,Shell Companies,United States,282093728,10.03,850,21904,219697.12,,,,0.0,0.0,0.0,,,644214,0,,0.039,,0,,22500000,18700875,0.25,0.85347,315,0.02,0.0,,,,-61.158535,,,,,,,none,,,,,,,,,2026-10-31T21:08:09.515611+00:00
+0.00,XCBE,X3 Acquisition Corp. Ltd.,Financial Services,Shell Companies,United States,282093728,10.03,14740,21375,214391.25,,,,0.0,0.0,0.0,,,644214,0,,0.039,,0,,22500000,18700875,0.25156,0.88564,315,0.02,0.0,,,,-61.158535,,,,,,,none,,,,,,,,,2026-11-10T13:57:53.119809+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-13,9.90,9.90,9.90,9.90,,,,,,,0,9.9000,0,81,,,,
 2026-03-16,9.80,9.85,9.80,9.83,,,,,,,0,9.9000,0,84,,,,
@@ -178,3 +178,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.03,10.03,10.03,10.03,10.03,10.03,10.01,,,10.0350,0,10.0300,1,,219,0.0068,0.0091,-0.0023
 2026-11-03,10.03,10.03,10.03,10.03,10.03,10.03,10.01,,,10.0345,0,10.0300,1,277,219,0.0063,0.0085,-0.0022
 2026-11-04,10.03,10.03,10.03,10.03,10.03,10.03,10.01,,,10.0341,0,10.0300,1,,199,0.0059,0.0080,-0.0021
+2026-11-05,10.02,10.02,10.02,10.02,10.03,10.03,10.01,9.94,,10.0267,0,10.0400,0,1192,223,0.0046,0.0073,-0.0027
+2026-11-06,10.02,10.02,10.02,10.02,10.03,10.03,10.01,9.94,,10.0260,0,10.0396,0,,223,0.0036,0.0066,-0.0030
+2026-11-09,10.03,10.03,10.03,10.03,10.03,10.03,10.01,9.94,,10.0216,1,10.0392,0,2,213,0.0036,0.0060,-0.0024
+2026-11-10,10.03,10.03,10.03,10.03,10.03,10.03,10.01,9.95,,10.0224,1,10.0388,0,1003,232,0.0035,0.0055,-0.0020

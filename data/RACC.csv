@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,HAMMOND MATTHEW,Chief Executive Officer,,Stock Award(Grant),2026-05-21,275000.0,1779321600.0,,\n1,RESEARCH ALLIANCE HOLDINGS III L.L.C,Beneficial Owner of more than 10% of a Class of Security,,Stock Award(Grant),2026-05-21,,,275000.0,2026-05-21\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Perceptive Advisors Llc,0.096499994,750000,7612499,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0836,650000,6597499,1.0\n2,2026-06-30,Spruce Street Capital LP,0.0643,500000,5074999,1.0\n3,2026-06-30,"Trails Edge Capital Partners, LP",0.0643,500000,5074999,1.0\n4,2026-06-30,Commodore Capital Lp,0.0643,500000,5074999,1.0\n5,2026-06-30,Balyasny Asset Management LP,0.0643,500000,5074999,1.0\n6,2026-06-30,BVF Inc.,0.0643,500000,5074999,1.0\n7,2026-06-30,"TCG Crossover Management, LLC",0.0643,500000,5074999,1.0\n8,2026-06-30,Jupiter Topco LLC,0.0514,400000,4059999,1.0\n9,2026-06-30,Braidwell LP                          ,0.0514,400000,4059999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Perceptive Advisors Llc,0.096499994,750000,7619999,1.0\n1,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0836,650000,6603999,1.0\n2,2026-06-30,Spruce Street Capital LP,0.0643,500000,5079999,1.0\n3,2026-06-30,"Trails Edge Capital Partners, LP",0.0643,500000,5079999,1.0\n4,2026-06-30,Commodore Capital Lp,0.0643,500000,5079999,1.0\n5,2026-06-30,Balyasny Asset Management LP,0.0643,500000,5079999,1.0\n6,2026-06-30,BVF Inc.,0.0643,500000,5079999,1.0\n7,2026-06-30,"TCG Crossover Management, LLC",0.0643,500000,5079999,1.0\n8,2026-06-30,Jupiter Topco LLC,0.0514,400000,4063999,1.0\n9,2026-06-30,Braidwell LP                          ,0.0514,400000,4063999,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RACC,Research Alliance Corporation III,Financial Services,Shell Companies,United States,92350064,10.15,17780,73029,741244.35,,,,0.0,0.0,0.0,,-12.90453,832812,0,,0.952,,-15835000,-10032375,7775000,1495070,0.04559,1.16225,8654,0.21,0.0014,,,,-74.63235,,,,,,,none,,,,,,,,,2026-10-31T19:32:50.463666+00:00
+0.00,RACC,Research Alliance Corporation III,Financial Services,Shell Companies,United States,92441056,10.16,17880,72593,737544.88,,,,0.0,0.0,0.0,,-12.90453,832812,0,,0.952,,-15835000,-10032375,7775000,1495070,0.04559,1.16225,8654,0.21,0.0014,,,,-74.70588,,,,,,,none,,,,,,,,,2026-11-10T12:21:38.308045+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,10.21,10.50,10.21,10.30,,,,,,,0,10.2100,1,7350,,,,
 2026-05-21,10.30,10.32,10.25,10.28,,,,,,,0,10.2100,1,595,,,,
@@ -131,3 +131,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.13,10.13,10.10,10.10,10.12,10.16,16.57,,,10.9331,0,10.1568,0,14,1181,-1.3471,-1.7100,0.3629
 2026-11-03,10.13,10.13,10.10,10.13,10.12,10.15,16.33,,,10.8603,0,10.1500,0,66,1181,-1.2595,-1.6199,0.3604
 2026-11-04,10.14,10.17,10.08,10.15,10.12,10.15,16.04,,,10.8227,0,10.0800,1,535,1169,-1.1750,-1.5309,0.3559
+2026-11-05,10.12,10.16,10.12,10.16,10.12,10.14,15.75,,,10.7800,0,10.0800,1,27,1154,-1.0945,-1.4436,0.3491
+2026-11-06,10.16,10.19,10.13,10.15,10.12,10.14,15.46,,,10.7540,0,10.0800,1,826,1154,-1.0199,-1.3589,0.3390
+2026-11-09,10.13,10.16,10.13,10.16,10.13,10.14,15.17,,,10.6886,0,10.0844,1,5,1134,-0.9489,-1.2769,0.3280
+2026-11-10,10.13,10.15,10.13,10.15,10.13,10.14,14.89,,,10.6382,0,10.0886,1,4062,1207,-0.8833,-1.1982,0.3148

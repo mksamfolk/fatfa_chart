@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0588,58846,85326,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.045900002,45934,66604,0.9414\n2,2026-06-30,UBS Group AG,0.0,8,11,-0.9969\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0588,58846,80030,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.045900002,45934,62470,0.9414\n2,2026-06-30,UBS Group AG,0.0,8,10,-0.9969\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,34,49,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,34,46,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-30 09:30:00-04:00,0.05\n2026-02-10 09:30:00-05:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.27,ATPC,Agape ATP Corporation,Consumer Defensive,Packaged Foods,Malaysia,1450907,1.45,16040,134189,194574.05,-0.934,,,0.59221,-40.23771,-0.86272,-0.05481,-0.07902,24576912,62681,0.284,8.449,8.361,-970178,1013234,1000626,433681,0.020450002,0.10903,6964,0.14,0.0069999998,,,1.102745,0.065795444,-17.529,7.456,,,,,none,,,,,,,0.504,https://www.atpc.com.my,2026-10-31T14:20:25.913389+00:00
+8.58,ATPC,Agape ATP Corporation,Consumer Defensive,Packaged Foods,Malaysia,1360851,1.36,31470,36343,49426.48,-0.934,,,0.59221,-40.23771,-0.86272,-0.05481,-0.07902,24576912,62681,0.284,8.449,8.361,-970178,1013234,1000626,433681,0.020450002,0.10903,6964,0.14,0.0069999998,,,1.034299,0.06171159,-17.597,7.486,,,,,none,,,,,,,0.537,https://www.atpc.com.my,2026-11-10T08:05:50.975481+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-11,9000.00,9000.00,9000.00,9000.00,,,,,,,0,9000.0000,0,,,,,
 2023-09-12,8100.00,8100.00,8100.00,8100.00,,,,,,,0,9000.0000,0,,,,,
@@ -806,3 +806,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.45,1.45,1.29,1.32,1.47,1.69,2.13,2.62,2.83,1.9273,0,1.7151,0,20,415,-0.2234,-0.2231,-0.0003
 2026-11-03,1.25,1.32,1.15,1.30,1.44,1.65,2.11,2.61,2.81,1.7876,0,1.6386,0,50,415,-0.2262,-0.2237,-0.0025
 2026-11-04,1.25,1.73,1.25,1.49,1.44,1.62,2.09,2.59,2.79,1.7876,0,1.1500,1,194,103,-0.2107,-0.2211,0.0104
+2026-11-05,1.44,1.44,1.23,1.29,1.43,1.58,2.07,2.56,2.77,1.7876,0,1.1500,1,27,98,-0.2121,-0.2193,0.0072
+2026-11-06,1.27,1.39,1.24,1.25,1.41,1.53,2.04,2.54,2.74,1.7876,0,1.1616,1,23,96,-0.2140,-0.2183,0.0042
+2026-11-09,1.32,1.42,1.28,1.36,1.41,1.49,2.02,2.52,2.72,1.7876,0,1.1730,1,19,86,-0.2043,-0.2155,0.0112
+2026-11-10,1.47,1.49,1.35,1.35,1.40,1.46,1.99,2.51,2.71,1.7876,0,1.1841,1,15,84,-0.1951,-0.2114,0.0163

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Empery Asset Management, LP",0.0166,761706,727581,1.0\n1,2026-06-30,Hudson Bay Capital Management Lp,0.0045,206973,197700,1.0\n2,2026-06-30,Marshall Wace LLP,0.0017,77710,74228,1.0\n3,2026-06-30,"Renaissance Technologies, LLC",0.00059999997,26600,25408,1.0\n4,2026-06-30,Millennium Management Llc,0.00059999997,26221,25046,1.0\n5,2026-06-30,"Geode Capital Management, LLC",0.0005,24929,23812,0.0796\n6,2026-06-30,UBS Group AG,0.0,2059,1966,0.21049999\n7,2026-06-30,Morgan Stanley,0.0,1000,955,-0.0403\n8,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Empery Asset Management, LP",0.0166,761706,799791,1.0\n1,2026-06-30,Hudson Bay Capital Management Lp,0.0045,206973,217321,1.0\n2,2026-06-30,Marshall Wace LLP,0.0017,77710,81595,1.0\n3,2026-06-30,"Renaissance Technologies, LLC",0.00059999997,26600,27929,1.0\n4,2026-06-30,Millennium Management Llc,0.00059999997,26221,27532,1.0\n5,2026-09-30,"Geode Capital Management, LLC",0.0005,24929,26175,0.0\n6,2026-06-30,UBS Group AG,0.0,2059,2161,0.21049999\n7,2026-06-30,Morgan Stanley,0.0,1000,1049,-0.0403\n8,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,3,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,24929,23812,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,24929,26175,0.0\n
 recommendations
 ,period,strongBuy,buy,hold,sell,strongSell\n0,0m,0,0,0,0,0\n1,-1m,0,0,0,0,0\n
 upgrades_downgrades
@@ -17,7 +17,7 @@ upgrades_downgrades
 cashflow
 ""\n
 earnings_dates
-Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-04-28 08:00:00-04:00,,,\n2026-04-28 08:00:00-04:00,,,\n
+Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-04-28 09:00:00-04:00,,,\n2026-04-28 08:00:00-04:00,,,\n
 insider_transactions
 ""\n
 major_holders
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.87,YDDL,One and one Green Technologies. Inc,Industrials,Waste Management,Philippines,53523040,0.9552,21540,602596,575599.6992,0.187,0.109,0.174,0.22361,0.1494,0.17556,0.30452,0.11322,2712933,3042152,5.368,4.245,2.677,-17931458,-19653224,45829373,10263065,0.67678,0.024600001,72969,2.03,0.0033000002,3.9800003,,0.75306123,0.9448071,0.758,4.478,,,,,none,,,,,,2026-09-29,,https://www.onepgti.com,2026-10-31T21:12:07.039291+00:00
+6.69,YDDL,One and one Green Technologies. Inc,Industrials,Waste Management,Philippines,58834996,1.05,26850,604568,634796.4,0.187,0.109,0.174,0.22361,0.1494,0.17556,0.30452,0.11322,2712933,3042152,5.368,4.245,2.677,-17931458,-19653224,45829373,10263065,0.67678,0.024600001,72969,2.03,0.0033000002,4.375,,0.8277997,1.0385755,0.832,4.919,,,,,none,,,,,,2026-09-29,,https://www.onepgti.com,2026-11-10T14:02:26.173183+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-09,5.75,6.00,4.60,5.42,,,,,,,0,4.6000,1,45351,,,,
 2025-10-10,8.15,8.89,6.41,6.56,,,,,,,0,4.6000,1,62295,,,,
@@ -284,3 +284,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.01,1.06,1.00,1.05,1.14,1.20,1.54,3.84,4.48,1.3076,0,1.1700,0,33,1666,-0.1440,-0.1433,-0.0007
 2026-11-03,1.03,1.08,1.01,1.04,1.12,1.19,1.52,3.79,4.46,1.3076,0,1.1270,0,26,1666,-0.1418,-0.1430,0.0012
 2026-11-04,1.06,1.07,1.01,1.03,1.11,1.17,1.50,3.74,4.44,1.3076,0,1.0926,0,21,1667,-0.1392,-0.1422,0.0030
+2026-11-05,1.02,1.05,0.96,1.01,1.09,1.15,1.49,3.70,4.42,1.2740,0,1.0750,0,41,1667,-0.1372,-0.1412,0.0040
+2026-11-06,1.01,1.04,1.01,1.03,1.07,1.14,1.47,3.65,4.40,1.2740,0,1.0700,0,16,1668,-0.1325,-0.1395,0.0070
+2026-11-09,1.04,1.06,1.02,1.05,1.05,1.13,1.46,3.61,4.38,1.2740,0,0.9550,1,17,1668,-0.1257,-0.1367,0.0110
+2026-11-10,1.03,1.04,1.01,1.01,1.04,1.11,1.44,3.56,4.35,1.2512,0,0.9571,1,12,1668,-0.1221,-0.1338,0.0117

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.0629,1809472,18510897,5.718\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0348,1000000,10229999,0.0\n2,2026-06-30,Governors Lane LP,0.0296,850701,8702670,0.0008\n3,2026-06-30,"Moore Capital Management, LP",0.026099999,750000,7672499,0.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.024300002,700000,7160999,0.0\n5,2026-06-30,Magnetar Financial LLC,0.024300002,700000,7160999,0.0\n6,2026-06-30,"Meteora Capital, LLC",0.024,689316,7051702,0.2449\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0224,643938,6587485,0.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0209,600000,6137999,0.0\n9,2026-09-30,"T3 Companies, LLC",0.0201,577799,5910883,-0.0007\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.0629,1809472,18528992,5.718\n1,2026-06-30,"MMCAP International, Inc. SPC",0.0348,1000000,10239999,0.0\n2,2026-06-30,Governors Lane LP,0.0296,850701,8711178,0.0008\n3,2026-06-30,"Moore Capital Management, LP",0.026099999,750000,7679999,0.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.024300002,700000,7167999,0.0\n5,2026-06-30,Magnetar Financial LLC,0.024300002,700000,7167999,0.0\n6,2026-06-30,"Meteora Capital, LLC",0.024,689316,7058595,0.2449\n7,2026-06-30,Hudson Bay Capital Management Lp,0.0224,643938,6593924,0.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0209,600000,6143999,0.0\n9,2026-09-30,"T3 Companies, LLC",0.0201,577799,5916661,-0.0007\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0083,238025,2434995,-0.21440001\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0013,36975,378254,-0.2134\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.0,144,1473,1.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0,65,664,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0083,238025,2437375,-0.21440001\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0013,36975,378623,-0.2134\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.0,144,1474,1.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0,65,665,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01043\ninstitutionsPercentHeld,0.63898\ninstitutionsFloatPercentHeld,0.64572\ninstitutionsCount,69.0\n
+,Value\ninsidersPercentHeld,0.01043\ninstitutionsPercentHeld,0.64699996\ninstitutionsFloatPercentHeld,0.65382004\ninstitutionsCount,67.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FCRS,FutureCrest Acquisition Corp.,Financial Services,Shell Companies,United States,367640608,10.23,427140,129420,1323966.6,,,,0.0,0.0,0.0,,,628302,0,,4.672,3.715,-1042593,,28750000,26940547,0.01043,0.63898,161578,1.92,0.0056,,,,-29.738369,,,,,,,none,,,,,,,,,2026-10-31T15:59:49.722950+00:00
+0.00,FCRS,FutureCrest Acquisition Corp.,Financial Services,Shell Companies,United States,368000000,10.24,269430,146439,1499535.36,,,,0.0,0.0,0.0,,,628302,0,,4.672,3.715,-1042593,,28750000,26940547,0.01043,0.64699996,161578,1.92,0.0056,,,,-29.76744,,,,,,,none,,,,,,,,,2026-11-10T09:40:53.569911+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-17,10.17,10.25,10.15,10.24,,,,,,,0,10.1500,1,1364,,,,
 2025-11-18,10.22,10.23,10.17,10.18,,,,,,,0,10.1500,1,253,,,,
@@ -257,3 +257,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.23,10.23,10.21,10.23,10.22,10.21,10.23,10.19,10.18,10.2418,0,10.2400,0,2155,1539,0.0005,-0.0034,0.0039
 2026-11-03,10.23,10.23,10.23,10.23,10.22,10.21,10.23,10.20,10.18,10.2418,0,10.2400,0,131,1541,0.0017,-0.0024,0.0040
 2026-11-04,10.24,10.24,10.24,10.24,10.22,10.21,10.23,10.20,10.18,10.2418,0,10.1800,1,13,1538,0.0029,-0.0013,0.0042
+2026-11-05,10.24,10.24,10.23,10.24,10.23,10.22,10.23,10.20,10.18,10.2418,0,10.1812,1,7451,1687,0.0039,-0.0003,0.0042
+2026-11-06,10.23,10.24,10.23,10.24,10.23,10.22,10.23,10.20,10.18,10.2418,0,10.1824,1,1812,1723,0.0046,0.0007,0.0039
+2026-11-09,10.25,10.25,10.24,10.24,10.23,10.22,10.23,10.20,10.18,10.2418,0,10.1849,1,3718,1793,0.0051,0.0016,0.0035
+2026-11-10,10.24,10.25,10.22,10.23,10.23,10.22,10.23,10.20,10.18,10.2418,0,10.1888,1,978,1800,0.0047,0.0022,0.0025

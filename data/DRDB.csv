@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.099,2276587,24450543,0.2642\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0935,2149900,23089925,0.2504\n2,2026-06-30,Mizuho Securities USA LLC,0.0683,1571027,16872829,0.571\n3,2026-06-30,Glazer Capital LLC,0.052199997,1199928,12887226,0.2626\n4,2026-06-30,AQR Arbitrage LLC,0.0513,1179039,12662878,0.08939999\n5,2026-06-30,"CrossingBridge Advisors, LLC",0.0497,1142500,12270449,0.1065\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0495,1137788,12219842,0.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,1110000,11921399,0.0\n8,2026-06-30,"Aristeia Capital, LLC",0.045,1034023,11105406,-0.16209999\n9,2026-06-30,LMR Partners LLP,0.043899998,1010174,10849268,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.099,2276587,24541607,0.2642\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0935,2149900,23175921,0.2504\n2,2026-06-30,Mizuho Securities USA LLC,0.0683,1571027,16935670,0.571\n3,2026-06-30,Glazer Capital LLC,0.052199997,1199928,12935223,0.2626\n4,2026-06-30,AQR Arbitrage LLC,0.0513,1179039,12710040,0.08939999\n5,2026-06-30,"CrossingBridge Advisors, LLC",0.0497,1142500,12316149,0.1065\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0495,1137788,12265354,0.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,1110000,11965799,0.0\n8,2026-06-30,"Aristeia Capital, LLC",0.045,1034023,11146767,-0.16209999\n9,2026-06-30,LMR Partners LLP,0.043899998,1010174,10889675,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.019,437200,4695527,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.016900001,389271,4180770,1.5495\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0163,375130,4028896,0.0\n3,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0123000005,282500,3034049,0.6377\n4,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0076,175600,1885943,0.0\n5,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.006,137200,1473527,0.0\n6,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0031,72229,775739,0.0\n7,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0017,39525,424498,0.0\n8,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.001,22089,237235,1.7294\n9,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,18824,202169,3.8628\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.019,437200,4713015,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.016900001,389271,4196341,1.5495\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0163,375130,4043901,0.0\n3,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0123000005,282500,3045349,0.6377\n4,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0076,175600,1892967,0.0\n5,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.006,137200,1479015,0.0\n6,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0031,72229,778628,0.0\n7,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0017,39525,426079,0.0\n8,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.001,22089,238119,1.7294\n9,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,18824,202922,3.8628\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.14224\ninstitutionsFloatPercentHeld,1.14224\ninstitutionsCount,64.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.15555\ninstitutionsFloatPercentHeld,1.15555\ninstitutionsCount,64.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.20,DRDB,Roman DBDR Acquisition Corp. II,Financial Services,Shell Companies,United States,329360000,10.74,60580,45265,486146.10000000003,,0.087,0.087,0.0,0.0,0.0,,,66238,580070,,0.063,0.025,-1132584,,23000000,20849960,0.0,1.14224,1742,0.04,0.0001,,,,-106.336624,,,,,,,none,,,,,,,,https://www.romandbdr.com,2026-10-31T15:36:01.164770+00:00
+57.98,DRDB,Roman DBDR Acquisition Corp. II,Financial Services,Shell Companies,United States,330586688,10.78,35750,32917,354845.25999999995,,0.087,0.087,0.0,0.0,0.0,,,66238,580070,,0.063,0.025,-1132584,,23000000,20849960,0.0,1.15555,1742,0.04,0.0001,,,,-106.732666,,,,,,,none,,,,,,,,https://www.romandbdr.com,2026-11-10T09:18:44.091196+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-03,9.87,9.91,9.87,9.91,,,,,,,0,9.8700,1,2754,,,,
 2025-02-04,9.93,9.93,9.90,9.90,,,,,,,0,9.8700,1,5225,,,,
@@ -456,3 +456,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.77,10.78,10.75,10.77,10.75,10.75,10.69,10.58,10.55,10.7122,1,10.7300,1,600,600,0.0210,0.0240,-0.0030
 2026-11-03,10.77,10.77,10.77,10.77,10.76,10.75,10.69,10.58,10.55,10.7122,1,10.7310,1,,600,0.0206,0.0233,-0.0027
 2026-11-04,10.77,10.77,10.77,10.77,10.76,10.75,10.70,10.58,10.55,10.7122,1,10.7320,1,23,600,0.0204,0.0227,-0.0023
+2026-11-05,10.76,10.77,10.76,10.76,10.76,10.75,10.70,10.58,10.55,10.7122,1,10.7329,1,1432,628,0.0193,0.0220,-0.0027
+2026-11-06,10.76,10.76,10.76,10.76,10.76,10.76,10.70,10.59,10.56,10.7122,1,10.7339,1,,628,0.0182,0.0213,-0.0031
+2026-11-09,10.78,10.78,10.78,10.78,10.76,10.76,10.70,10.59,10.56,10.7294,1,10.7348,1,13,421,0.0187,0.0207,-0.0021
+2026-11-10,10.78,10.78,10.78,10.78,10.77,10.76,10.71,10.59,10.56,10.7345,1,10.7357,1,,420,0.0189,0.0204,-0.0015

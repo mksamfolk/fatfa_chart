@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0588,1500000,14940000,0.0\n1,2026-06-30,Alberta Investment Management Corp,0.054899998,1400000,13944000,1.0\n2,2026-06-30,Millennium Management Llc,0.051799998,1320000,13147200,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0432,1100000,10956000,0.0\n4,2026-06-30,Glazer Capital LLC,0.039300002,1002386,9983764,-0.0179\n5,2026-06-30,AQR Arbitrage LLC,0.0372,948969,9451731,1.0\n6,2026-06-30,Berkley W R Corp,0.0312,795690,7925072,0.0\n7,2026-06-30,Shaolin Capital Management LLC,0.03,764800,7617408,-0.100200005\n8,2026-06-30,Hudson Bay Capital Management Lp,0.0294,750000,7470000,0.0\n9,2026-06-30,BNP Paribas Financial Markets,0.0275,701019,6982149,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0588,1500000,14940000,0.0\n1,2026-09-30,Alberta Investment Management Corp,0.054899998,1400000,13944000,0.0\n2,2026-06-30,Millennium Management Llc,0.051799998,1320000,13147200,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0432,1100000,10956000,0.0\n4,2026-06-30,Glazer Capital LLC,0.039300002,1002386,9983764,-0.0179\n5,2026-06-30,AQR Arbitrage LLC,0.0372,948969,9451731,1.0\n6,2026-06-30,Berkley W R Corp,0.0312,795690,7925072,0.0\n7,2026-06-30,Shaolin Capital Management LLC,0.03,764800,7617408,-0.100200005\n8,2026-06-30,Hudson Bay Capital Management Lp,0.0294,750000,7470000,0.0\n9,2026-06-30,BNP Paribas Financial Markets,0.0275,701019,6982149,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,3539,35248,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,3539,35248,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.84821\ninstitutionsFloatPercentHeld,0.84821\ninstitutionsCount,44.0\n
+,Value\ninsidersPercentHeld,0.00137\ninstitutionsPercentHeld,0.83185995\ninstitutionsFloatPercentHeld,0.833\ninstitutionsCount,44.0\n
 news
 [\n  {\n    "uuid": "434df644-68a5-3cd4-8379-effc4e153152",\n    "title": "Di Rezze Family Office Names Joseph Tonnos Managing Director; Tonnos Becomes CFO of Two Nasdaq-Listed SPACs",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/di-rezze-family-office-names-204600762.html",\n    "providerPublishTime": 1793047560,\n    "type": "STORY",\n    "relatedTickers": [\n      "SORN",\n      "PTOR"\n    ]\n  },\n  {\n    "uuid": "54e00dff-779f-3c34-a70d-8a34fa638a00",\n    "title": "Di Rezze Family Office Names Joseph Tonnos Managing Director; Tonnos Becomes CFO of Two Nasdaq-Listed SPACs",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/di-rezze-family-office-names-203800928.html",\n    "providerPublishTime": 1793047080,\n    "type": "STORY",\n    "relatedTickers": [\n      "SORN",\n      "PTOR"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PTOR,Praetorian Acquisition Corp.,Financial Services,Shell Companies,United States,337873920,9.96,6400,39151,389943.96,,,,0.0,0.0,0.0,,,1786759,0,,0.087,,0,,25489750,23739713,0.0,0.84821,6660,0.12,0.00029999999,,,,-49.8,,,,,,,none,,,,,,,,https://praetorianacq.com,2026-10-31T19:28:08.907438+00:00
+0.00,PTOR,Praetorian Acquisition Corp.,Financial Services,Shell Companies,United States,337873920,9.96,22310,40957,407931.72000000003,,,,0.0,0.0,0.0,,,1786759,0,,0.087,,0,,25489750,23739713,0.00137,0.83185995,6660,0.12,0.00029999999,,,,-49.8,,,,,,,none,,,,,,,,https://praetorianacq.com,2026-11-10T12:16:54.679484+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-16,9.85,9.86,9.85,9.86,,,,,,,0,9.8500,1,30,,,,
 2026-03-17,9.88,9.90,9.80,9.83,,,,,,,0,9.9000,0,3182,,,,
@@ -177,3 +177,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.97,9.97,9.97,9.97,9.97,9.97,9.97,,,9.9828,0,9.9801,0,13,345,-0.0020,-0.0011,-0.0009
 2026-11-03,9.96,9.97,9.96,9.97,9.97,9.97,9.97,,,9.9828,0,9.9793,0,314,351,-0.0018,-0.0013,-0.0006
 2026-11-04,9.97,9.97,9.97,9.97,9.97,9.97,9.97,,,9.9828,0,9.9785,0,3,343,-0.0017,-0.0013,-0.0003
+2026-11-05,9.97,9.97,9.94,9.95,9.97,9.97,9.97,,,9.9828,0,9.9777,0,1476,372,-0.0031,-0.0017,-0.0014
+2026-11-06,9.95,9.98,9.95,9.97,9.97,9.97,9.97,9.92,,9.9828,0,9.9400,1,93,370,-0.0027,-0.0019,-0.0008
+2026-11-09,9.99,9.99,9.96,9.96,9.97,9.97,9.97,9.92,,9.9828,0,9.9400,1,8,368,-0.0030,-0.0021,-0.0009
+2026-11-10,9.96,9.96,9.96,9.96,9.96,9.97,9.97,9.92,,9.9828,0,9.9420,1,,368,-0.0033,-0.0024,-0.0009

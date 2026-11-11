@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Deltec Asset Management LLC,0.0026,40000,400800,1.0\n1,2026-09-30,ABC Arbitrage SA,0.002,30000,300600,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.0256,390000,3919500,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0026,40000,402000,1.0\n2,2026-09-30,ABC Arbitrage SA,0.002,30000,301500,1.0\n3,2026-09-30,"Geode Capital Management, LLC",0.0007,10783,108369,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0004,6810,68440,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0367,558520,5596370,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,15350,153807,1.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,10783,108045,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0367,558520,5613126,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,15350,154267,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,10783,108369,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.02241\ninstitutionsPercentHeld,0.00467\ninstitutionsFloatPercentHeld,0.00478\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.02438\ninstitutionsPercentHeld,0.06741\ninstitutionsFloatPercentHeld,0.06909\ninstitutionsCount,8.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,214316192,10.02,14990,35860,359317.2,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02241,0.00467,5437,0.68,0.00059999997,,,,-55.054947,,,,,,,none,,,,,,,,,2026-10-31T13:55:40.300375+00:00
+0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,214957840,10.05,13910,35014,351890.7,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02438,0.06741,5437,0.68,0.00059999997,,,,-55.219784,,,,,,,none,,,,,,,,,2026-11-10T07:41:17.930544+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-01,9.88,9.88,9.85,9.86,,,,,,,0,9.8500,1,4199,,,,
 2026-07-02,9.86,9.87,9.86,9.87,,,,,,,0,9.8500,1,1213,,,,
@@ -103,3 +103,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.01,10.01,9.97,,,10.0056,1,9.9772,1,502,452,0.0119,0.0136,-0.0016
 2026-11-03,10.02,10.02,10.02,10.02,10.01,10.01,9.98,,,10.0070,1,9.9789,1,150,454,0.0119,0.0132,-0.0013
 2026-11-04,10.02,10.03,10.02,10.03,10.01,10.01,9.98,,,10.0103,1,9.9806,1,252,423,0.0125,0.0131,-0.0006
+2026-11-05,10.03,10.03,10.02,10.03,10.02,10.01,9.98,,,10.0103,1,9.9835,1,490,433,0.0128,0.0130,-0.0002
+2026-11-06,10.03,10.03,10.03,10.03,10.02,10.01,9.98,,,10.0154,1,9.9863,1,,431,0.0130,0.0130,-0.0001
+2026-11-09,10.05,10.05,10.05,10.05,10.02,10.02,9.98,,,10.0309,1,9.9889,1,2214,475,0.0145,0.0133,0.0012
+2026-11-10,10.06,10.06,10.06,10.06,10.03,10.02,9.99,,,10.0398,1,9.9938,1,101,477,0.0164,0.0139,0.0024

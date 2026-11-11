@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Aristeia Capital, LLC",0.0934,1950000,19519500,1.0\n1,2026-06-30,Glazer Capital LLC,0.0779,1626239,16278652,0.067\n2,2026-06-30,AQR Arbitrage LLC,0.0629,1311956,13132679,1.0\n3,2026-06-30,Magnetar Financial LLC,0.052699998,1100000,11011000,0.0\n4,2026-06-30,Berkley W R Corp,0.044099998,920190,9211102,0.0\n5,2026-06-30,"Wolverine Asset Management, LLC",0.0435,908201,9091092,1.0\n6,2026-06-30,Millennium Management Llc,0.040700004,850000,8508500,1.0\n7,2026-06-30,BNP Paribas Financial Markets,0.0306,638038,6386760,1.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.024400001,510000,5105100,0.0\n9,2026-06-30,Shaolin Capital Management LLC,0.0218,454100,4545541,-0.2432\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Aristeia Capital, LLC",0.0934,1950000,19501755,1.0\n1,2026-06-30,Glazer Capital LLC,0.0779,1626239,16263854,0.067\n2,2026-06-30,AQR Arbitrage LLC,0.0629,1311956,13120741,1.0\n3,2026-06-30,Magnetar Financial LLC,0.052699998,1100000,11000990,0.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0478,997337,9974267,0.09810001\n5,2026-06-30,Berkley W R Corp,0.044099998,920190,9202728,0.0\n6,2026-06-30,Millennium Management Llc,0.040700004,850000,8500765,1.0\n7,2026-06-30,BNP Paribas Financial Markets,0.0306,638038,6380954,1.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.024400001,510000,5100459,0.0\n9,2026-06-30,Shaolin Capital Management LLC,0.0218,454100,4541408,-0.2432\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0171,356000,3563560,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0047999998,100000,1001000,1.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0047999998,100000,1001000,1.0\n3,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0014,29000,290290,1.0\n4,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,10432,104424,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0171,356000,3560320,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0047999998,100000,1000090,1.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0047999998,100000,1000090,1.0\n3,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0014,29000,290026,1.0\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,10432,104329,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.70199996\ninstitutionsFloatPercentHeld,0.70199996\ninstitutionsCount,44.0\n
+,Value\ninsidersPercentHeld,0.00156\ninstitutionsPercentHeld,0.7035\ninstitutionsFloatPercentHeld,0.7046\ninstitutionsCount,44.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XSLL,Xsolla SPAC 1,Financial Services,Shell Companies,United States,277077216,10.01,31910,38056,380940.56,,,,0.0,0.0,0.0,,,1750553,114124,7.931,0.017,,0,,20873579,16634044,0.0,0.70199996,4460,0.08,0.00029999999,,,,192.5,,,,,,,none,,,,,,,,,2026-10-31T21:10:49.176446+00:00
+0.00,XSLL,Xsolla SPAC 1,Financial Services,Shell Companies,United States,276825344,10.0009,30790,41528,415317.3752,,,,0.0,0.0,0.0,,,1750553,114124,7.931,0.017,,0,,20873579,16634044,0.00156,0.7035,4460,0.08,0.00029999999,,,,192.325,,,,,,,none,,,,,,,,,2026-11-10T14:00:57.258453+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-18,9.83,9.85,9.81,9.81,,,,,,,0,9.8500,0,129,,,,
 2026-03-19,9.79,9.81,9.76,9.81,,,,,,,0,9.8500,0,165,,,,
@@ -175,3 +175,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.01,10.01,10.00,10.01,10.01,10.01,9.98,,,10.0183,0,10.0182,0,677,371,0.0074,0.0092,-0.0019
 2026-11-03,10.01,10.01,10.01,10.01,10.01,10.01,9.99,,,10.0183,0,10.0177,0,,371,0.0069,0.0088,-0.0019
 2026-11-04,10.01,10.01,10.01,10.01,10.01,10.01,9.99,,,10.0183,0,10.0171,0,66,372,0.0064,0.0083,-0.0019
+2026-11-05,10.01,10.03,10.01,10.02,10.01,10.01,9.99,,,9.9981,1,9.9900,1,1554,403,0.0068,0.0080,-0.0012
+2026-11-06,10.00,10.00,10.00,10.00,10.01,10.01,9.99,,,9.9981,1,9.9908,1,4,403,0.0054,0.0075,-0.0021
+2026-11-09,10.00,10.00,10.00,10.00,10.01,10.01,9.99,,,9.9981,1,9.9916,1,,403,0.0042,0.0068,-0.0026
+2026-11-10,10.01,10.01,10.01,10.01,10.01,10.01,9.99,9.92,,9.9981,1,9.9924,1,651,415,0.0041,0.0063,-0.0022

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0,1173,102074,0.36240003\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,87,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0,1173,227081,0.36240003\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,193,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,827,71965,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,827,160098,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-20 09:30:00-04:00,0.005\n2026-06-29 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.58,GIBO,GIBO Holdings Limited,,,,226661328,87.02,43200,32761,2850862.2199999997,,,,,,,,,,,,,,,,2433999,,,,,,,,,,713.2786,,,,,,,,,,,,,,,,2026-10-31T16:20:57.932405+00:00
+98.73,GIBO,GIBO Holdings Limited,Communication Services,Internet Content & Information,Hong Kong,504244640,193.59,24970,33746,6532888.14,,,,0.0,0.0,0.0,,,185899,2261370,3.649,0.575,0.064,-16522990,,2433999,366021800,0.0046200003,0.00051,8047,0.15,0.0033000002,,,,1586.8032,,-1651.154,,,,,none,,,,,,,-2.578,https://globalibo.com,2026-11-10T10:00:02.858460+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-21,50750.00,50900.00,50750.00,50900.00,,,,,,,0,50750.0000,1,8195,,,,
 2023-08-22,50900.00,51250.00,50900.00,50900.00,,,,,,,0,50750.0000,1,1171,,,,
@@ -820,3 +820,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,86.54,94.88,83.62,86.99,68.72,62.48,43.72,35.85,37.45,67.2800,1,47.4898,1,2166,1585,10.6333,8.3569,2.2765
 2026-11-03,86.99,95.99,86.99,95.99,72.80,65.06,45.06,36.24,37.65,69.0170,1,52.2288,1,1430,1613,11.9473,9.0749,2.8723
 2026-11-04,93.47,113.45,93.47,112.34,78.05,67.93,46.73,36.74,37.93,77.2403,1,57.4801,1,2539,1651,14.1448,10.0889,4.0559
+2026-11-05,117.82,127.37,105.99,126.28,84.71,71.40,48.65,37.34,38.30,86.6683,1,65.3159,1,2892,1707,16.8174,11.4346,5.3828
+2026-11-06,130.00,182.00,130.00,175.35,96.28,77.05,51.55,38.27,38.91,112.2734,1,75.2446,1,3332,1773,22.6341,13.6745,8.9596
+2026-11-09,165.60,194.90,165.60,193.59,109.39,83.84,54.83,39.31,39.63,132.1071,1,94.4606,1,2284,1814,28.3884,16.6173,11.7711
+2026-11-10,178.76,178.76,144.51,150.47,117.39,88.57,57.26,40.08,40.11,132.1071,1,114.5494,1,1851,1851,29.1335,19.1205,10.0129

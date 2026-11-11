@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,JATT VENTURES III L.P.,Beneficial Owner of more than 10% of a Class of Security,,Purchase,2026-08-27,1959000,2026-08-27\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0027,21000,215879,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0019,15000,154199,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.0067000003,51451,528947,1.0\n1,2026-09-30,ABC Arbitrage SA,0.0027,21000,215892,1.0\n2,2026-09-30,Deltec Asset Management LLC,0.0019,15000,154208,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,234000,2340000,,Purchase at price 10.00 per share.,JATT VENTURES III L.P.,Beneficial Owner of more than 10% of a Class of Security,,2026-08-27,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.20528\ninstitutionsPercentHeld,0.22687\ninstitutionsFloatPercentHeld,0.28547\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.20748\ninstitutionsPercentHeld,0.23226\ninstitutionsFloatPercentHeld,0.29307\ninstitutionsCount,7.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JTTT,JATT III Acquisition Corp,Financial Services,Shell Companies,United States,91070520,10.28,8880,29365,301872.19999999995,,,,0.0,0.0,0.0,,,,0,,,,,,8859000,,0.20528,0.22687,2,0.0,,,,,3426.6665,,,,,,,none,,,,,,,,,2026-10-31T17:52:15.517502+00:00
+0.00,JTTT,JATT III Acquisition Corp,Financial Services,Shell Companies,United States,91075832,10.2806,9400,27036,277946.3016,,,,0.0,0.0,0.0,,,,0,,,,,,8859000,,0.20748,0.23226,2,0.0,,,,,3426.8665,,,,,,,none,,,,,,,,,2026-11-10T10:42:59.706798+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-26,11.00,11.95,11.00,11.45,,,,,,,0,11.9500,0,6306,,,,
 2026-08-27,11.11,11.34,10.89,11.10,,,,,,,0,11.9500,0,1490,,,,
@@ -79,3 +79,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.28,10.31,10.28,10.30,10.32,10.44,,,,10.5576,0,10.4394,0,55,,-0.1491,-0.1546,0.0055
 2026-11-03,10.33,10.35,10.30,10.31,10.32,10.42,,,,10.5576,0,10.4114,0,95,,-0.1420,-0.1521,0.0101
 2026-11-04,10.38,10.38,10.25,10.30,10.32,10.40,10.74,,,10.5576,0,10.3863,0,56,311,-0.1356,-0.1488,0.0132
+2026-11-05,10.25,10.32,10.21,10.30,10.31,10.38,10.71,,,10.5367,0,10.3800,0,60,186,-0.1290,-0.1448,0.0158
+2026-11-06,10.30,10.30,10.30,10.30,10.30,10.37,10.70,,,10.5367,0,10.3800,0,,156,-0.1224,-0.1403,0.0180
+2026-11-09,10.30,10.30,10.28,10.28,10.30,10.35,10.68,,,10.5161,0,10.3580,0,11,146,-0.1174,-0.1357,0.0184
+2026-11-10,10.28,10.28,10.28,10.28,10.30,10.33,10.67,,,10.4835,0,10.3382,0,,130,-0.1121,-0.1310,0.0189

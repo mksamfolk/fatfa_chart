@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0017,29971,298211,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0858,1479900,14784200,1.0\n1,2026-09-30,"Context Capital Management, LLC",0.0232,400000,3995999,1.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0232,400000,3995999,1.0\n3,2026-09-30,Periscope Capital Inc.,0.014099999,243996,2437519,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0091,156951,1567940,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.0058,100000,998999,1.0\n6,2026-09-30,ABC Arbitrage SA,0.0017,29971,299410,1.0\n7,2026-09-30,First Trust Capital Management L.P.,0.0014,24800,247751,1.0\n
 mutualfund_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0029,50000,499499,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.07108\ninstitutionsFloatPercentHeld,0.07108\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.23372999\ninstitutionsFloatPercentHeld,0.23414\ninstitutionsCount,10.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TVIV,Texas Ventures Acquisition IV Corp.,Financial Services,Shell Companies,United States,228850000,9.95,1260,16750,166662.5,,,,0.0,0.0,0.0,,,1152952,0,,0.929,0.009,-495952,,17250000,16387500,0.0,0.07108,331,0.01,0.0,,,,-40.946503,,,,,,,none,,,,,,,,,2026-10-31T20:39:16.430451+00:00
+0.00,TVIV,Texas Ventures Acquisition IV Corp.,Financial Services,Shell Companies,United States,229770000,9.99,19550,19598,195784.02000000002,,,,0.0,0.0,0.0,,,1152952,0,,0.929,0.009,-495952,,17250000,16387500,0.00174,0.23372999,331,0.01,0.0,,,,-41.11111,,,,,,,none,,,,,,,,,2026-11-10T13:27:48.707732+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,9.92,9.94,9.90,9.90,,,,,,,0,9.9400,0,1409,,,,
 2026-07-14,9.91,9.91,9.90,9.90,,,,,,,0,9.9400,0,1084,,,,
@@ -96,3 +96,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.95,9.95,9.95,9.95,9.96,9.95,9.93,,,9.9592,0,9.9059,1,,103,0.0045,0.0073,-0.0027
 2026-11-03,9.99,9.99,9.95,9.96,9.96,9.95,9.93,,,9.9416,1,9.9071,1,453,112,0.0047,0.0068,-0.0020
 2026-11-04,9.96,9.96,9.96,9.96,9.96,9.95,9.93,,,9.9416,1,9.9104,1,,112,0.0048,0.0064,-0.0015
+2026-11-05,9.97,9.97,9.95,9.95,9.96,9.95,9.94,,,9.9416,1,9.9136,1,1363,140,0.0040,0.0059,-0.0019
+2026-11-06,9.99,9.99,9.99,9.99,9.96,9.96,9.94,,,9.9519,1,9.9167,1,5,140,0.0066,0.0060,0.0005
+2026-11-09,9.99,9.99,9.99,9.99,9.96,9.96,9.94,,,9.9557,1,9.9196,1,,140,0.0085,0.0065,0.0020
+2026-11-10,9.96,9.96,9.96,9.96,9.96,9.96,9.94,,,9.9557,1,9.9224,1,149,143,0.0075,0.0067,0.0008

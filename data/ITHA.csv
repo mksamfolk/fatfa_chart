@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12599999,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0543,1250000,12599999,0.0\n2,2026-06-30,"Aristeia Capital, LLC",0.0543,1250000,12599999,0.0\n3,2026-06-30,AQR Arbitrage LLC,0.0437,1004057,10120894,0.0121\n4,2026-06-30,Glazer Capital LLC,0.0375,861988,8688838,-0.0018000001\n5,2026-06-30,Wealthspring Capital LLC,0.0374,860530,8674142,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0348,800105,8065058,0.0001\n7,2026-06-30,"MMCAP International, Inc. SPC",0.0348,800000,8063999,1.0\n8,2026-06-30,Linden Advisors LP,0.0348,800000,8063999,0.0\n9,2026-06-30,Millennium Management Llc,0.0348,800000,8063999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12607624,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0543,1250000,12607624,0.0\n2,2026-06-30,"Aristeia Capital, LLC",0.0543,1250000,12607624,0.0\n3,2026-06-30,AQR Arbitrage LLC,0.0437,1004057,10127018,0.0121\n4,2026-06-30,Glazer Capital LLC,0.0375,861988,8694096,-0.0018000001\n5,2026-09-30,Wealthspring Capital LLC,0.037100002,852430,8597693,-0.0094\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0348,800105,8069938,0.0001\n7,2026-06-30,"MMCAP International, Inc. SPC",0.0348,800000,8068879,1.0\n8,2026-06-30,Linden Advisors LP,0.0348,800000,8068879,0.0\n9,2026-06-30,Millennium Management Llc,0.0348,800000,8068879,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0112,258442,2605095,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.009,205930,2075774,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,100000,1007999,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,39808,401264,0.0\n4,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,15172,152933,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,11378,114690,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0005,10929,110164,1.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,7841,79037,1.0\n8,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3967,39987,1.0\n9,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,5715,57607,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0112,258442,2606671,0.0\n1,2026-06-30,Merger Fund-The Merger Fund,0.009,205930,2077030,1.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,100000,1008609,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,39808,401507,0.0\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,15172,153026,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,11378,114759,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0005,10929,110230,1.0\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,7841,79085,1.0\n8,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,3967,40011,1.0\n9,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,5715,57642,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.86957\ninstitutionsFloatPercentHeld,0.86957\ninstitutionsCount,59.0\n
+,Value\ninsidersPercentHeld,0.00169\ninstitutionsPercentHeld,0.86670995\ninstitutionsFloatPercentHeld,0.86817\ninstitutionsCount,59.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ITHA,ITHAX Acquisition Corp III,Financial Services,Shell Companies,United States,309120000,10.08,77250,39276,395902.08,,,,0.0,0.0,0.0,,,526042,0,,9.838,7.734,-682960,,23000000,23000000,0.0,0.86957,1591,0.05,0.0001,,,,-33.939396,,,,,,,none,,,,,,,,https://ithaxacquisition.com,2026-10-31T17:46:44.282768+00:00
+0.00,ITHA,ITHAX Acquisition Corp III,Financial Services,Shell Companies,United States,309307072,10.0861,54760,42892,432613.0012,,,,0.0,0.0,0.0,,,526042,0,,9.838,7.734,-682960,,23000000,23000000,0.00169,0.86670995,1591,0.05,0.0001,,,,-33.959934,,,,,,,none,,,,,,,,https://ithaxacquisition.com,2026-11-10T10:37:38.528452+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-20,9.90,9.90,9.85,9.89,,,,,,,0,9.8500,1,299,,,,
 2026-01-21,9.87,9.89,9.87,9.88,,,,,,,0,9.8500,1,186,,,,
@@ -215,3 +215,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.09,10.09,10.09,10.09,10.08,10.08,10.05,9.98,,10.1054,0,10.0761,1,857,390,0.0089,0.0092,-0.0003
 2026-11-03,10.09,10.09,10.09,10.09,10.08,10.07,10.06,9.98,,10.1054,0,10.0789,1,,390,0.0091,0.0092,-0.0001
 2026-11-04,10.12,10.15,10.09,10.09,10.08,10.08,10.06,9.99,,10.1054,0,10.0813,1,15,389,0.0092,0.0092,0.0000
+2026-11-05,10.09,10.09,10.09,10.09,10.08,10.08,10.06,9.99,,10.1054,0,10.1500,0,1563,420,0.0088,0.0091,-0.0003
+2026-11-06,10.09,10.09,10.09,10.09,10.08,10.08,10.06,9.99,,10.1054,0,10.1500,0,,420,0.0084,0.0090,-0.0005
+2026-11-09,10.09,10.09,10.09,10.09,10.08,10.08,10.06,9.99,,10.1054,0,10.1487,0,,420,0.0080,0.0088,-0.0008
+2026-11-10,10.09,10.09,10.09,10.09,10.09,10.08,10.06,9.99,,10.1054,0,10.1474,0,,420,0.0076,0.0086,-0.0009

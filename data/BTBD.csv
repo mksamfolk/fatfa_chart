@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0113,45582,83870,1.0\n1,2026-06-30,"Susquehanna International Group, LLP",0.010299999,41628,76595,1.0\n2,2026-06-30,Vanguard Capital Management LLC,0.0075,30218,55601,0.0\n3,2026-06-30,"Geode Capital Management, LLC",0.006,24415,44923,0.120299995\n4,2026-06-30,Xtx Topco Ltd,0.0055,22130,40719,1.0\n5,2026-06-30,"Two Sigma Investments, LP",0.0049,19699,36246,0.7371\n6,2026-06-30,State Street Corporation,0.004,16149,29714,0.0\n7,2026-06-30,"Jane Street Group, LLC",0.0027,11014,20265,1.0\n8,2026-06-30,Tower Research Capital LLC (TRC),0.00090000004,3471,6386,0.8192\n9,2026-06-30,Vanguard Fiduciary Trust Co,0.0008,3410,6274,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0113,45582,74526,1.0\n1,2026-06-30,"Susquehanna International Group, LLP",0.010299999,41628,68061,1.0\n2,2026-06-30,Vanguard Capital Management LLC,0.0075,30218,49406,0.0\n3,2026-09-30,"Geode Capital Management, LLC",0.006,24317,39758,-0.004\n4,2026-06-30,Xtx Topco Ltd,0.0055,22130,36182,1.0\n5,2026-06-30,"Two Sigma Investments, LP",0.0049,19699,32207,0.7371\n6,2026-06-30,State Street Corporation,0.004,16149,26403,0.0\n7,2026-06-30,"Jane Street Group, LLC",0.0027,11014,18007,1.0\n8,2026-06-30,Tower Research Capital LLC (TRC),0.00090000004,3471,5675,0.8192\n9,2026-06-30,Vanguard Fiduciary Trust Co,0.0008,3410,5575,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0075,30218,55601,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0045,18238,33557,-0.0053\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0011,4344,7992,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0075,30218,49406,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0045,18238,29819,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0011,4344,7102,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.33801997\ninstitutionsPercentHeld,0.035720002\ninstitutionsFloatPercentHeld,0.05395\ninstitutionsCount,12.0\n
+,Value\ninsidersPercentHeld,0.33801997\ninstitutionsPercentHeld,0.03592\ninstitutionsFloatPercentHeld,0.05427\ninstitutionsCount,13.0\n
 news
 [\n  {\n    "uuid": "d8a20d8e-0dc8-3812-9f03-01723c23dca4",\n    "title": "Operating Performance Improves; Market Volatility Increased Investment Portfolio",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/operating-performance-improves-market-volatility-160800396.html",\n    "providerPublishTime": 1787069280,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/9167cb7222f4b560164030f9dc4272c6.jpg",\n          "width": 326,\n          "height": 161,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/ACC9B248239EBCB0076B8F8C95CC738122DEA7089E83B740624F9174AD00190A/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9167cb7222f4b560164030f9dc4272c6.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BTBD"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-82.93,BTBD,BT Brands Inc.,Consumer Cyclical,Restaurants,United States,11379892,1.84,13630,30115,55411.600000000006,-0.061,9.066,9.475,0.19611,0.033010002,-0.04566,-0.089490004,-0.00989,4426170,3455558,54.433,4.475,3.458,324743,1031758,6184724,3166579,0.33801997,0.035720002,27267,1.49,0.0055,,,0.8841934,1.7933723,0.809,21.727,,,,,none,,,,,,,0.518,https://itsburgertime.com,2026-10-31T14:46:02.164898+00:00
+69.80,BTBD,BT Brands Inc.,Consumer Cyclical,Restaurants,United States,10112024,1.635,10990,25842,42251.67,-0.061,9.066,9.475,0.19611,0.033010002,-0.04566,-0.089490004,-0.00989,4426170,3455558,54.433,4.475,3.458,324743,1031758,6184724,3166579,0.33801997,0.03592,27267,1.49,0.0055,,,0.7856828,1.5935673,0.71,19.081,,,,,none,,,,,,,0.519,https://itsburgertime.com,2026-11-10T08:30:20.079349+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-12,5.20,5.25,4.27,4.40,,,,,,,0,4.2700,1,1869,,,,
 2021-11-15,4.30,4.49,4.30,4.49,,,,,,,0,4.2700,1,553,,,,
@@ -1263,3 +1263,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.70,1.87,1.70,1.81,1.76,1.72,1.55,1.44,1.43,1.5206,1,1.8730,0,7,49,0.0675,0.0674,0.0001
 2026-11-03,1.64,1.84,1.64,1.74,1.76,1.73,1.56,1.44,1.43,1.5206,1,1.8700,0,10,49,0.0607,0.0661,-0.0054
 2026-11-04,1.74,1.80,1.74,1.77,1.76,1.73,1.57,1.44,1.43,1.5206,1,1.8700,0,20,44,0.0570,0.0643,-0.0073
+2026-11-05,1.67,1.68,1.57,1.59,1.75,1.73,1.58,1.44,1.43,1.5206,1,1.8632,0,14,43,0.0391,0.0592,-0.0201
+2026-11-06,1.61,1.61,1.56,1.56,1.74,1.72,1.58,1.44,1.43,1.5206,1,1.8565,0,10,43,0.0223,0.0518,-0.0296
+2026-11-09,1.60,1.63,1.59,1.63,1.74,1.72,1.59,1.44,1.43,1.5206,1,1.8500,0,3,43,0.0148,0.0444,-0.0296
+2026-11-10,1.63,1.71,1.56,1.56,1.72,1.71,1.60,1.45,1.43,1.5206,1,1.8436,0,15,41,0.0028,0.0361,-0.0333

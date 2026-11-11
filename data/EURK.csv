@@ -9,7 +9,7 @@ insider_roster_holders
 institutional_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.4303,315488,3628112,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.2338,171422,1971353,0.00059999997\n2,2026-06-30,RLH Capital LLC,0.21200001,155400,1787100,-0.4739\n3,2026-06-30,Quarry LP                          ,0.21200001,155400,1787100,0.0\n4,2026-06-30,"Cable Car Capital, LP",0.1364,100000,1150000,0.0\n5,2026-06-30,"CrossingBridge Advisors, LLC",0.100600004,73768,848332,-0.3678\n6,2026-06-30,"Yakira Capital Management, Inc.",0.0995,72951,838936,0.0\n7,2026-06-30,"Westchester Capital Management, LLC",0.0682,50000,575000,0.0\n8,2026-06-30,Clear Street Group Inc.,0.059499998,43632,501768,-0.5666\n9,2026-06-30,Goldman Sachs Group Inc,0.028499998,20858,239867,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.055999998,41046,472029,0.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0050999997,3714,42711,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0032,2338,26887,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0031,2290,26335,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0021,1571,18066,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0011,820,9430,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00059999997,418,4807,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.055999998,41046,472029,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0050999997,3714,42711,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0032,2338,26887,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0031,2290,26335,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0021,1571,18066,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0011,820,9430,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00059999997,418,4807,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,1400,15318,,Sale at price 10.89 - 11.07 per share.,"WOLVERINE ASSET MANAGEMENT, L.L.C.",Beneficial Owner of more than 10% of a Class of Security,,2025-12-10,I\n1,12,131,,Sale at price 10.89 - 10.91 per share.,"WOLVERINE ASSET MANAGEMENT, L.L.C.",Beneficial Owner of more than 10% of a Class of Security,,2025-12-05,I\n2,1042,11337,,Sale at price 10.88 per share.,"WOLVERINE ASSET MANAGEMENT, L.L.C.",Beneficial Owner of more than 10% of a Class of Security,,2025-11-07,I\n3,14,151,,Sale at price 10.82 per share.,"WOLVERINE ASSET MANAGEMENT, L.L.C.",Beneficial Owner of more than 10% of a Class of Security,,2025-07-16,I\n4,132560,1397426,,Sale at price 10.54 - 10.55 per share.,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,2025-07-07,D\n
 major_holders
-,Value\ninsidersPercentHeld,2.25822\ninstitutionsPercentHeld,2.7547698\ninstitutionsFloatPercentHeld,-2.18943\ninstitutionsCount,18.0\n
+,Value\ninsidersPercentHeld,2.25822\ninstitutionsPercentHeld,2.11923\ninstitutionsFloatPercentHeld,-1.6843201\ninstitutionsCount,15.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.49,EURK,Eureka Acquisition Corp,Financial Services,Shell Companies,Hong Kong,24961912,11.5,810,6515,74922.5,,-0.644,-0.776,0.0,0.0,0.0,,-0.01344,22727,2375000,,0.003,0.001,-826447,487790,733101,230887,2.25822,2.7547698,373,0.23,0.0002,,,,-9.192645,,,,,,,none,,,,,,,-0.061,,2026-10-31T15:53:45.963920+00:00
+55.65,EURK,Eureka Acquisition Corp,Financial Services,Shell Companies,Hong Kong,24961912,11.5,270,6328,72772.0,,-0.644,-0.776,0.0,0.0,0.0,,-0.01344,22727,2375000,,0.003,0.001,-826447,487790,733101,230887,2.25822,2.11923,373,0.23,0.0002,,,,-9.192645,,,,,,,none,,,,,,,-0.053,,2026-11-10T09:35:03.194339+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-12,10.05,10.05,10.03,10.03,,,,,,,0,10.0500,0,4801,,,,
 2024-09-13,10.03,10.04,10.03,10.03,,,,,,,0,10.0500,0,1291,,,,
@@ -553,3 +553,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,11.50,11.50,11.50,11.50,11.54,11.53,11.70,11.59,11.46,11.6058,0,11.5500,0,,61,-0.0396,-0.0485,0.0089
 2026-11-03,11.50,11.50,11.50,11.50,11.54,11.53,11.69,11.59,11.47,11.5953,0,11.5500,0,,61,-0.0395,-0.0467,0.0073
 2026-11-04,11.50,11.50,11.50,11.50,11.53,11.53,11.68,11.59,11.47,11.5857,0,11.5300,0,,58,-0.0389,-0.0452,0.0062
+2026-11-05,11.55,11.55,11.55,11.55,11.53,11.53,11.67,11.59,11.47,11.5857,0,11.3000,1,5,58,-0.0341,-0.0429,0.0089
+2026-11-06,11.55,11.55,11.55,11.55,11.53,11.54,11.66,11.59,11.48,11.5857,0,11.3050,1,,58,-0.0299,-0.0403,0.0105
+2026-11-09,11.55,11.55,11.55,11.55,11.53,11.54,11.66,11.60,11.48,11.5857,0,11.3099,1,,58,-0.0262,-0.0375,0.0113
+2026-11-10,11.59,11.59,11.59,11.59,11.53,11.54,11.65,11.60,11.48,11.5108,1,11.3147,1,1,58,-0.0199,-0.0340,0.0141

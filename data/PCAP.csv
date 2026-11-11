@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"J. Goldman & Co., L.P.",0.0554,1409073,14682540,0.0\n1,2026-06-30,"Yorkville Advisors Global, LP",0.049200002,1250000,13025000,0.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.048699997,1237500,12894750,0.6301\n3,2026-06-30,"Meteora Capital, LLC",0.0458,1165778,12147406,-0.4449\n4,2026-06-30,Governors Lane LP,0.0418,1063797,11084764,0.0\n5,2026-06-30,LMR Partners LLP,0.039300002,998177,10401004,0.0\n6,2026-06-30,Glazer Capital LLC,0.039300002,1000000,10420000,0.2499\n7,2026-06-30,Davidson Kempner Capital Management LP,0.039100002,993432,10351561,0.0\n8,2026-06-30,Linden Advisors LP,0.0374,950000,9899000,0.0\n9,2026-06-30,Magnetar Financial LLC,0.0353,896892,9345614,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"J. Goldman & Co., L.P.",0.0554,1409073,14699026,0.0\n1,2026-06-30,"Yorkville Advisors Global, LP",0.049200002,1250000,13039624,0.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.048699997,1237500,12909228,0.6301\n3,2026-06-30,"Meteora Capital, LLC",0.0458,1165778,12161046,-0.4449\n4,2026-06-30,Governors Lane LP,0.0418,1063797,11097210,0.0\n5,2026-06-30,LMR Partners LLP,0.039300002,998177,10412682,0.0\n6,2026-06-30,Glazer Capital LLC,0.039300002,1000000,10431699,0.2499\n7,2026-06-30,Davidson Kempner Capital Management LP,0.039100002,993432,10363184,0.0\n8,2026-06-30,Linden Advisors LP,0.0374,950000,9910114,0.0\n9,2026-06-30,Magnetar Financial LLC,0.0353,896892,9356108,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0473,1204096,12546680,0.8694\n1,2026-06-30,Merger Fund-The Merger Fund,0.010199999,259504,2704031,0.27989998\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0085,215276,2243175,0.0\n3,2026-07-31,CALAMOS INVESTMENT TRUST/IL-Calamos Market Neutral Income Fund,0.0050999997,128835,1342460,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,43429,452530,0.0\n5,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0016,39999,416789,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.001,24720,257582,0.095699996\n7,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,19682,205086,0.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,17328,180557,1.6556\n9,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,14444,150506,0.2805\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0473,1204096,12560767,0.8694\n1,2026-06-30,Merger Fund-The Merger Fund,0.010199999,259504,2707067,0.27989998\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0085,215276,2245694,0.0\n3,2026-07-31,CALAMOS INVESTMENT TRUST/IL-Calamos Market Neutral Income Fund,0.0050999997,128835,1343968,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,43429,453038,0.0\n5,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0016,39999,417257,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.001,24720,257871,0.095699996\n7,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,19682,205316,0.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,17328,180760,1.6556\n9,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00059999997,14444,150675,0.2805\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01691\ninstitutionsPercentHeld,1.03544\ninstitutionsFloatPercentHeld,1.05325\ninstitutionsCount,70.0\n
+,Value\ninsidersPercentHeld,0.0177\ninstitutionsPercentHeld,1.01243\ninstitutionsFloatPercentHeld,1.03066\ninstitutionsCount,69.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.95,PCAP,ProCap Acquisition Corp,Financial Services,Shell Companies,United States,330105600,10.42,13540,24089,251007.38,,0.121,1.056,0.0,0.0,0.0,,,628443,23345,,28.272,23.367,-663926,,25430000,25429853,0.01691,1.03544,27503,1.37,0.0011,37.214287,,,-31.385544,,,,,,,none,,,,,,,,,2026-10-31T19:11:54.044930+00:00
+55.31,PCAP,ProCap Acquisition Corp,Financial Services,Shell Companies,United States,330476256,10.4317,40100,28010,292191.91699999996,,0.121,1.056,0.0,0.0,0.0,,,628443,23345,,28.272,23.367,-663926,,25430000,25429853,0.0177,1.01243,27503,1.37,0.0011,37.25607,,,-31.420784,,,,,,,none,,,,,,,,,2026-11-10T12:00:42.693234+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,10.20,10.53,10.20,10.44,,,,,,,0,10.2000,1,125,,,,
 2025-07-14,11.42,11.42,10.41,10.44,,,,,,,0,10.2000,1,433,,,,
@@ -347,3 +347,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.42,10.42,10.42,10.42,10.41,10.41,10.37,10.29,10.26,10.4257,0,10.4409,0,526,246,0.0122,0.0128,-0.0006
 2026-11-03,10.42,10.43,10.42,10.42,10.41,10.41,10.38,10.29,10.26,10.4257,0,10.4399,0,38,246,0.0121,0.0126,-0.0006
 2026-11-04,10.43,10.44,10.43,10.44,10.41,10.41,10.38,10.29,10.27,10.4065,1,10.3950,1,282,252,0.0134,0.0128,0.0006
+2026-11-05,10.42,10.44,10.42,10.44,10.42,10.41,10.38,10.29,10.27,10.4065,1,10.3959,1,1017,272,0.0143,0.0131,0.0012
+2026-11-06,10.44,10.44,10.44,10.44,10.42,10.41,10.38,10.30,10.27,10.4115,1,10.3968,1,33,273,0.0149,0.0135,0.0014
+2026-11-09,10.43,10.43,10.43,10.43,10.43,10.42,10.38,10.30,10.27,10.4115,1,10.3976,1,1192,292,0.0145,0.0137,0.0008
+2026-11-10,10.45,10.45,10.42,10.42,10.43,10.41,10.39,10.30,10.27,10.4115,1,10.3985,1,10,288,0.0131,0.0136,-0.0005

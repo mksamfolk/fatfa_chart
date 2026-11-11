@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0672,1000000,10180000,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0422,628348,6396582,1.0\n2,2026-06-30,Linden Advisors LP,0.0403,600000,6108000,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0369,550000,5599000,1.0\n4,2026-06-30,"Saba Capital Management, L.P.",0.0305,454688,4628723,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.030199999,450000,4581000,1.0\n6,2026-06-30,"K2 Principal Fund, L.P.",0.0295,439328,4472359,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.0295,439784,4477001,1.0\n8,2026-06-30,Periscope Capital Inc.,0.026800001,399600,4067928,1.0\n9,2026-06-30,Kryger Capital LLC,0.026400002,392671,3997390,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0672,1000000,10159999,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0422,628348,6384015,1.0\n2,2026-06-30,Linden Advisors LP,0.0403,600000,6095999,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0369,550000,5587999,1.0\n4,2026-06-30,"Saba Capital Management, L.P.",0.0305,454688,4619630,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.030199999,450000,4571999,1.0\n6,2026-06-30,"K2 Principal Fund, L.P.",0.0295,439328,4463572,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.0295,439784,4468205,1.0\n8,2026-09-30,Periscope Capital Inc.,0.0269,400000,4063999,0.001\n9,2026-06-30,Kryger Capital LLC,0.026400002,392671,3989537,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0067000003,100000,1018000,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,94228,959241,1.0\n2,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0027,40000,407200,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,15200,154736,1.0\n4,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3177,32341,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0067000003,100000,1015999,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,94228,957356,1.0\n2,2026-08-31,High Income Securities Fund,0.0034,50000,507999,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0027,40000,406399,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,15200,154431,1.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3177,32278,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.04304\ninstitutionsFloatPercentHeld,1.04304\ninstitutionsCount,53.0\n
+,Value\ninsidersPercentHeld,0.00269\ninstitutionsPercentHeld,1.0493801\ninstitutionsFloatPercentHeld,1.0522\ninstitutionsCount,54.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WLII,Willow Lane Acquisition Corp. II,Financial Services,Shell Companies,United States,205115936,10.18,45880,31676,322461.68,,,,0.0,0.0,0.0,,,1315359,0,,0.039,,0,,14889055,13484458,0.0,1.04304,191,0.0,0.0,,,,-56.2431,,,,,,,none,,,,,,,,,2026-10-31T21:02:59.981659+00:00
+0.00,WLII,Willow Lane Acquisition Corp. II,Financial Services,Shell Companies,United States,204712944,10.16,5170,32465,329844.4,,,,0.0,0.0,0.0,,,1315359,0,,0.039,,0,,14889055,13484458,0.00269,1.0493801,191,0.0,0.0,,,,-56.1326,,,,,,,none,,,,,,,,,2026-11-10T13:52:19.285713+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-06,10.15,10.15,10.07,10.08,,,,,,,0,10.1500,0,129,,,,
 2026-04-07,9.86,9.95,9.86,9.93,,,,,,,0,10.1500,0,63,,,,
@@ -163,3 +163,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.21,10.21,10.21,10.21,10.19,10.20,10.24,,,10.2172,0,10.2223,0,5,407,-0.0154,-0.0171,0.0017
 2026-11-03,10.21,10.21,10.21,10.21,10.19,10.20,10.24,,,10.2172,0,10.2192,0,,407,-0.0129,-0.0163,0.0034
 2026-11-04,10.18,10.18,10.18,10.18,10.19,10.19,10.24,,,10.2172,0,10.2162,0,115,409,-0.0132,-0.0156,0.0024
+2026-11-05,10.17,10.17,10.16,10.16,10.19,10.19,10.23,,,10.2100,0,10.2135,0,204,413,-0.0149,-0.0155,0.0006
+2026-11-06,10.19,10.19,10.16,10.16,10.18,10.19,10.23,,,10.2100,0,10.2092,0,201,417,-0.0161,-0.0156,-0.0005
+2026-11-09,10.16,10.16,10.16,10.16,10.18,10.19,10.23,,,10.2046,0,10.2053,0,,417,-0.0168,-0.0158,-0.0009
+2026-11-10,10.19,10.19,10.15,10.15,10.18,10.18,10.23,,,10.2046,0,10.2016,0,16,417,-0.0180,-0.0163,-0.0017

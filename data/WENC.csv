@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0561,900000,9026999,1.0\n1,2026-06-30,"Wolverine Asset Management, LLC",0.0405,649651,6515999,1.0\n2,2026-06-30,Polar Asset Management Partners Inc.,0.0358,575000,5767249,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0342,549150,5507974,1.0\n4,2026-06-30,Glazer Capital LLC,0.0305,489619,4910878,1.0\n5,2026-06-30,"Karpus Management, Inc.",0.0274,439253,4405707,1.0\n6,2026-06-30,Linden Advisors LP,0.0249,400000,4011999,1.0\n7,2026-06-30,First Trust Capital Management L.P.,0.0218,350000,3510499,1.0\n8,2026-06-30,"Highbridge Capital Management, LLC.",0.0196,314450,3153933,1.0\n9,2026-06-30,Decagon Asset Management LLP,0.016900001,271780,2725953,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0561,900000,9049500,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0431,691718,6955224,0.0648\n2,2026-06-30,Polar Asset Management Partners Inc.,0.0358,575000,5781625,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0342,549150,5521703,1.0\n4,2026-09-30,Wealthspring Capital LLC,0.032899998,528800,5317084,1.0\n5,2026-06-30,Glazer Capital LLC,0.0305,489619,4923119,1.0\n6,2026-06-30,"Karpus Management, Inc.",0.0274,439253,4416689,1.0\n7,2026-06-30,Linden Advisors LP,0.0249,400000,4022000,1.0\n8,2026-09-30,First Trust Capital Management L.P.,0.0218,350000,3519250,0.0\n9,2026-06-30,"Highbridge Capital Management, LLC.",0.0196,314450,3161794,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0188,301007,3019100,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0062,100000,1002999,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0031,48993,491399,1.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,10000,100299,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0188,301007,3026625,1.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0062,100000,1005500,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0031,48993,492624,1.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,10000,100550,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.16221\ninstitutionsPercentHeld,0.49173\ninstitutionsFloatPercentHeld,0.58693004\ninstitutionsCount,36.0\n
+,Value\ninsidersPercentHeld,0.16221\ninstitutionsPercentHeld,0.53486\ninstitutionsFloatPercentHeld,0.63842\ninstitutionsCount,37.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,160977312,10.03,20170,7834,78575.01999999999,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.49173,47353,7.85,0.0038,,,,278.6111,,,,,,,none,,,,,,,,,2026-10-31T21:00:27.214410+00:00
+0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,161378560,10.055,28570,11681,117452.455,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.53486,47353,7.85,0.0038,,,,279.30557,,,,,,,none,,,,,,,,,2026-11-10T13:49:31.362464+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-13,9.86,9.89,9.86,9.88,,,,,,,0,9.8600,1,4224,,,,
 2026-05-14,9.89,9.89,9.87,9.88,,,,,,,0,9.8600,1,153,,,,
@@ -136,3 +136,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.03,10.04,10.03,10.03,10.02,10.02,10.00,,,10.0043,1,10.0442,0,355,80,0.0071,0.0073,-0.0002
 2026-11-03,10.03,10.03,10.02,10.02,10.02,10.02,10.01,,,10.0043,1,10.0432,0,352,87,0.0064,0.0071,-0.0007
 2026-11-04,10.02,10.02,10.02,10.02,10.02,10.02,10.01,,,10.0043,1,10.0421,0,,87,0.0058,0.0068,-0.0011
+2026-11-05,10.02,10.02,10.02,10.02,10.02,10.02,10.01,,,10.0043,1,10.0410,0,1138,110,0.0052,0.0065,-0.0013
+2026-11-06,10.02,10.02,10.02,10.02,10.02,10.02,10.01,,,10.0043,1,10.0400,0,,103,0.0047,0.0062,-0.0015
+2026-11-09,10.06,10.06,10.06,10.06,10.03,10.02,10.01,,,10.0279,1,9.9900,1,1006,122,0.0074,0.0064,0.0010
+2026-11-10,10.04,10.06,10.04,10.06,10.03,10.03,10.01,,,10.0279,1,9.9914,1,457,131,0.0095,0.0070,0.0025

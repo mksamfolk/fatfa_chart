@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0863,1800000,17928000,1.0\n1,2026-06-30,Glazer Capital LLC,0.0623,1300158,12949573,1.0\n2,2026-06-30,Sculptor Capital LP,0.059899997,1249999,12449990,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0484,1010025,10059849,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0479,1000000,9960000,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0475,990000,9860400,1.0\n6,2026-06-30,Linden Advisors LP,0.042,875000,8715000,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.037,772024,7689359,1.0\n8,2026-06-30,Millennium Management Llc,0.0336,700000,6972000,1.0\n9,2026-06-30,"Wolverine Asset Management, LLC",0.0309,643444,6408702,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0863,1800000,17946000,1.0\n1,2026-06-30,Glazer Capital LLC,0.0623,1300158,12962575,1.0\n2,2026-06-30,Sculptor Capital LP,0.059899997,1249999,12462490,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0484,1010025,10069949,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0479,1000000,9970000,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0475,990000,9870300,1.0\n6,2026-06-30,Linden Advisors LP,0.042,875000,8723750,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.037,772024,7697079,1.0\n8,2026-06-30,Millennium Management Llc,0.0336,700000,6979000,1.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.031,645541,6436043,0.0033000002\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.86911005\ninstitutionsFloatPercentHeld,0.86911005\ninstitutionsCount,39.0\n
+,Value\ninsidersPercentHeld,0.0014\ninstitutionsPercentHeld,0.89857\ninstitutionsFloatPercentHeld,0.89984\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259109408,9.96,330,11929,118812.84000000001,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0,0.86911005,4,0.0,0.0,,,,-23.16279,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-10-31T20:34:10.051739+00:00
+0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259369552,9.97,15000,12867,128283.99,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0014,0.89857,4,0.0,0.0,,,,-23.186047,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-11-10T13:22:56.879105+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-20,10.10,10.10,9.90,9.90,,,,,,,0,10.1000,0,76,,,,
 2026-04-21,9.90,9.90,9.82,9.83,,,,,,,0,10.1000,0,141,,,,
@@ -153,3 +153,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.96,9.96,9.96,9.96,9.96,9.97,9.95,,,9.9635,0,9.9486,1,,111,0.0018,0.0041,-0.0023
 2026-11-03,9.96,9.96,9.96,9.96,9.96,9.97,9.95,,,9.9631,0,9.9494,1,,111,0.0015,0.0036,-0.0020
 2026-11-04,9.99,9.99,9.99,9.99,9.96,9.97,9.95,,,9.9782,1,9.9503,1,499,119,0.0036,0.0036,0.0001
+2026-11-05,9.97,9.97,9.97,9.97,9.96,9.97,9.95,,,9.9866,0,9.9526,1,997,128,0.0037,0.0036,0.0001
+2026-11-06,9.97,9.97,9.97,9.97,9.97,9.97,9.95,,,9.9850,0,9.9549,1,,128,0.0037,0.0036,0.0001
+2026-11-09,9.97,9.97,9.97,9.97,9.97,9.97,9.96,,,9.9835,0,9.9570,1,,124,0.0036,0.0036,-0.0000
+2026-11-10,9.99,9.99,9.99,9.99,9.97,9.97,9.96,,,9.9719,1,9.9590,1,1001,144,0.0051,0.0039,0.0012

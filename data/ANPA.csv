@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0033000002,50173,70242,0.1238\n1,2026-06-30,Blackrock Inc.,0.0011999999,18422,25790,0.0\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0001,1500,2099,1.0\n3,2026-06-30,Morgan Stanley,0.0,26,36,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0033000002,50173,60207,0.1238\n1,2026-06-30,Blackrock Inc.,0.0011999999,18422,22106,0.0\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0001,1500,1800,1.0\n3,2026-06-30,Morgan Stanley,0.0,26,31,0.0\n4,2026-09-30,Citigroup Inc.,0.0,1,1,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,3806,5328,-0.45\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,3806,4567,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.70919\ninstitutionsPercentHeld,0.00464\ninstitutionsFloatPercentHeld,0.01597\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.70919\ninstitutionsPercentHeld,0.00464\ninstitutionsFloatPercentHeld,0.01597\ninstitutionsCount,6.0\n
 news
 [\n  {\n    "uuid": "bcd751d8-8a57-325d-a46d-2712f5a27432",\n    "title": "Rich Sparkle Holdings Limited Announces Unaudited Financial Results For The Six Months Ended March 31, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rich-sparkle-holdings-limited-announces-123000026.html",\n    "providerPublishTime": 1790771400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/44bfa5ee1a526b9da63bfe5ae91ae579.jpg",\n          "width": 150,\n          "height": 63,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/5B0484D318B97DCC9526B07C4FA1874C335FDF2C9DAD87C473B6724903E355BB/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F44bfa5ee1a526b9da63bfe5ae91ae579.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ANPA"\n    ]\n  },\n  {\n    "uuid": "309c89ca-e44c-31dc-9d12-0db48e42d080",\n    "title": "Rich Sparkle Holdings Shares Jump 22.4% in Pre-Market Trading",\n    "publisher": "InvestorsHub",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rich-sparkle-holdings-shares-jump-102246008.html",\n    "providerPublishTime": 1788517366,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/investorshub_458/77c145284b2e6a1148a702ba676bafc8.png",\n          "width": 1200,\n          "height": 659,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/957FCFD6C75876EC8BA37DB2CC36D35FB584B56BB0D87C7493F897D0D2AC9691/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F77c145284b2e6a1148a702ba676bafc8.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ANPA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.80,ANPA,Rich Sparkle Holdings Limited,Industrials,Specialty Business Services,Hong Kong,21142456,1.4,10330,104839,146774.59999999998,,,,0.0,0.0,0.0,,,,,,,,,,15101755,,0.70919,0.00464,20209,0.68,0.0046,,,,6.8965516,,,,,,,none,,,,,,,,https://anpa.com.hk,2026-10-31T14:09:59.123629+00:00
+1.90,ANPA,Rich Sparkle Holdings Limited,Industrials,Specialty Business Services,Hong Kong,18122106,1.2,13520,104829,125794.79999999999,,,,0.0,0.0,0.0,,,,,,,,,,15101755,,0.70919,0.00464,20209,0.68,0.0046,,,,5.91133,,,,,,,none,,,,,,,,https://anpa.com.hk,2026-11-10T07:55:26.771842+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-08,3.60,3.81,3.20,3.52,,,,,,,0,3.2000,1,3723,,,,
 2025-07-09,3.60,14.83,3.50,4.76,,,,,,,0,3.2000,1,24489,,,,
@@ -350,3 +350,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.37,1.37,1.14,1.22,1.54,1.72,3.05,5.29,15.84,1.9547,0,2.1434,0,21,483,-0.4756,-0.5008,0.0253
 2026-11-03,1.19,1.24,1.17,1.22,1.48,1.68,2.99,5.24,15.73,1.8529,0,2.0631,0,8,483,-0.4704,-0.4947,0.0244
 2026-11-04,1.18,1.21,1.17,1.18,1.41,1.65,2.94,5.19,15.63,1.7875,0,1.9893,0,10,483,-0.4638,-0.4886,0.0248
+2026-11-05,1.22,1.27,1.16,1.16,1.37,1.61,2.86,5.14,15.52,1.7858,0,1.9213,0,29,481,-0.4549,-0.4818,0.0269
+2026-11-06,1.20,1.20,1.15,1.19,1.32,1.57,2.79,5.09,15.41,1.7045,0,1.8588,0,14,480,-0.4404,-0.4735,0.0332
+2026-11-09,1.21,1.21,1.20,1.20,1.29,1.54,2.72,5.04,15.31,1.6871,0,1.8013,0,1,478,-0.4232,-0.4635,0.0403
+2026-11-10,1.25,1.29,1.20,1.20,1.27,1.51,2.66,4.99,15.20,1.6871,0,1.7484,0,19,477,-0.4049,-0.4518,0.0469

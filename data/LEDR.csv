@@ -1,0 +1,34 @@
+balance_sheet
+,2025-12-31\nOrdinary Shares Number,4312500.0\nShare Issued,4312500.0\nTangible Book Value,-23883.0\nInvested Capital,-23883.0\nWorking Capital,-163894.0\nNet Tangible Assets,-23883.0\nCommon Stock Equity,-23883.0\nTotal Capitalization,-23883.0\nTotal Equity Gross Minority Interest,-23883.0\nStockholders Equity,-23883.0\nRetained Earnings,-23883.0\nAdditional Paid In Capital,0.0\nCapital Stock,0.0\nCommon Stock,0.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,188369.0\nTotal Non Current Liabilities Net Minority Interest,0.0\nCurrent Liabilities,188369.0\nCurrent Deferred Liabilities,100870.0\nPayables And Accrued Expenses,87499.0\nCurrent Accrued Expenses,87499.0\nDueto Related Parties Current,0.0\nTotal Assets,164486.0\nTotal Non Current Assets,140011.0\nNon Current Deferred Assets,140011.0\nCurrent Assets,24475.0\nPrepaid Assets,24475.0\nCash Cash Equivalents And Short Term Investments,0.0\nCash And Cash Equivalents,0.0\nCash Financial,0.0\n
+dividends
+Date,Dividends\n
+income_stmt
+""\n
+insider_roster_holders
+""\n
+institutional_holders
+""\n
+mutualfund_holders
+""\n
+recommendations
+""\n
+upgrades_downgrades
+""\n
+cashflow
+,2026-06-30,2026-03-31\nFree Cash Flow,-25677.0,-6199.0\nIssuance Of Capital Stock,0.0,2949130.0\nEnd Cash Position,2801334.0,2942931.0\nBeginning Cash Position,2942931.0,0.0\nChanges In Cash,-141597.0,2942931.0\nFinancing Cash Flow,-115920.0,2949130.0\nCash Flow From Continuing Financing Activities,-115920.0,2949130.0\nNet Common Stock Issuance,0.0,2949130.0\nCommon Stock Issuance,0.0,2949130.0\nOperating Cash Flow,-25677.0,-6199.0\nCash Flow From Continuing Operating Activities,-25677.0,-6199.0\nChange In Working Capital,-3426.0,22901.0\nChange In Payables And Accrued Expense,-15450.0,15450.0\nChange In Accrued Expense,-15450.0,15450.0\nChange In Prepaid Assets,12024.0,7451.0\nNet Income From Continuing Operations,-22251.0,-29100.0\n
+earnings_dates
+""\n
+insider_transactions
+""\n
+major_holders
+""\n
+news
+[\n  {\n    "uuid": "b509c15a-9530-3bd8-953e-ee7487159dd2",\n    "title": "Leader’s Advantage Acquisition Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing November 6, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/leader-advantage-acquisition-corp-announces-222900338.html",\n    "providerPublishTime": 1793917740,\n    "type": "STORY",\n    "relatedTickers": [\n      "^IXIC",\n      "LEDR",\n      "LEDRW",\n      "LEDRU"\n    ]\n  },\n  {\n    "uuid": "9fb16a4a-5b67-3e13-b4c3-b560ed7741fb",\n    "title": "Leader’s Advantage Acquisition Corp. Announces Closing of Partial Exercise of Over-Allotment Option in Connection with its Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/leader-advantage-acquisition-corp-announces-212300355.html",\n    "providerPublishTime": 1793308980,\n    "type": "STORY",\n    "relatedTickers": [\n      "LEDR",\n      "LEDRW",\n      "LEDRU"\n    ]\n  },\n  {\n    "uuid": "61943730-04f3-3cbe-b68b-6e0a92af759c",\n    "title": "D. Boral Capital Acted as Bookrunner to Leader's Advantage Acquisition Corp. (Nasdaq:LEDRU) in Connection with its $150,000,000 Initial Public Offering",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/d-boral-capital-acted-bookrunner-173000180.html",\n    "providerPublishTime": 1790357400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/accesswire.ca/c9d1ac365e83f19970d67377572b5717.png",\n          "width": 400,\n          "height": 400,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/7E7CEE9C2E03967F40C9674066713B2426CCE377BDB355CABA7C68158B93408D/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fc9d1ac365e83f19970d67377572b5717.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LEDR",\n      "LEDRU",\n      "LEDRW"\n    ]\n  },\n  {\n    "uuid": "a5be59df-bb25-3c95-b497-2a12ac459dd5",\n    "title": "Leader’s Advantage Acquisition Corp. Announces Closing of $150,000,000 Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/leader-advantage-acquisition-corp-announces-023700157.html",\n    "providerPublishTime": 1790044620,\n    "type": "STORY",\n    "relatedTickers": [\n      "LEDR",\n      "LEDRW",\n      "LEDRU"\n    ]\n  }\n]\n
+splits
+Date,Stock Splits\n
+rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
+0.00,LEDR,Leader's Advantage Acquisition Corp.,Financial Services,Shell Companies,United States,186779200,9.86,30800,30800,303688.0,,,,0.0,0.0,0.0,,,2801334,0,,0.13,,-290148,,18943125,2887500,,,,,,,,,-758.4615,,,,,,,none,,,,,,,,,2026-11-10T10:54:46.581220+00:00
+Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
+2026-11-06,9.90,9.90,9.86,9.88,,,,,,,,9.9000,0,304,,,,
+2026-11-09,9.82,9.86,9.81,9.86,,,,,,,,9.9000,0,202,,,,
+2026-11-10,9.86,9.86,9.86,9.86,,,,,,,,9.9000,0,41,,,,

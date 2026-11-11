@@ -15,7 +15,7 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31,2025-06-30,2025-03-31\nFree Cash Flow,1.0,-4775.0,0.0,0.0\nEnd Cash Position,226.0,225.0,0.0,0.0\nBeginning Cash Position,225.0,0.0,0.0,0.0\nChanges In Cash,1.0,225.0,,\nFinancing Cash Flow,0.0,5000.0,0.0,0.0\nCash Flow From Continuing Financing Activities,0.0,5000.0,0.0,0.0\nNet Other Financing Charges,0.0,5000.0,,\nOperating Cash Flow,1.0,-4775.0,0.0,0.0\nCash Flow From Continuing Operating Activities,1.0,-4775.0,0.0,0.0\nChange In Working Capital,62157.0,-1075.0,0.0,3850.0\nChange In Payables And Accrued Expense,61175.0,-1075.0,0.0,50.0\nChange In Accrued Expense,61175.0,-1075.0,0.0,50.0\nChange In Prepaid Assets,982.0,0.0,0.0,3800.0\nNet Income From Continuing Operations,-74576.0,-3700.0,0.0,-3850.0\n
+,2026-09-30,2026-06-30,2026-03-31,2025-12-31,2025-09-30\nFree Cash Flow,-588646.0,1.0,-4775.0,0.0,0.0\nEnd Cash Position,976182.0,226.0,225.0,0.0,0.0\nBeginning Cash Position,226.0,225.0,0.0,0.0,0.0\nChanges In Cash,975956.0,1.0,225.0,,\nFinancing Cash Flow,301714602.0,0.0,5000.0,0.0,0.0\nCash Flow From Continuing Financing Activities,301714602.0,0.0,5000.0,0.0,0.0\nNet Other Financing Charges,-452697.0,0.0,5000.0,,\nOperating Cash Flow,-588646.0,1.0,-4775.0,0.0,0.0\nCash Flow From Continuing Operating Activities,-588646.0,1.0,-4775.0,0.0,0.0\nChange In Working Capital,-292734.0,62157.0,-1075.0,0.0,0.0\nChange In Payables And Accrued Expense,-53587.0,61175.0,-1075.0,0.0,0.0\nChange In Accrued Expense,-53587.0,61175.0,-1075.0,0.0,0.0\nChange In Prepaid Assets,-239147.0,982.0,0.0,0.0,0.0\nOther Non Cash Items,-1352927.0,,,,\nNet Income From Continuing Operations,1057015.0,-74576.0,-3700.0,0.0,0.0\n
 earnings_dates
 ""\n
 insider_transactions
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,374621696,9.79,5020,9305,91095.95,,,,0.0,0.0,0.0,,,226,154886,,0.083,0.001,-4774,,30762000,30314892,0.0,0.06339,1804,0.12,,,,,-890.0,,,,,,,none,,,,,,,,,2026-10-31T20:22:00.104178+00:00
+0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,375769664,9.82,43750,22307,219054.74000000002,,,,0.0,0.0,0.0,,,976182,0,,14.568,11.82,-593420,,30762000,30314892,0.0,0.06339,1804,0.12,,327.33334,,,1.2960274,,,,,,,none,,,,,,,,,2026-11-10T13:11:03.285840+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-05,10.06,11.10,9.82,9.83,,,,,,,0,11.1000,0,971,,,,
 2026-10-06,9.78,9.80,9.78,9.80,,,,,,,0,11.1000,0,121,,,,
@@ -52,3 +52,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.77,9.77,9.77,9.77,9.79,9.80,,,,9.9843,0,10.4777,0,652,,,,
 2026-11-03,9.78,9.78,9.77,9.77,9.79,9.79,,,,9.9708,0,10.4494,0,66,,,,
 2026-11-04,9.77,9.77,9.77,9.77,9.79,9.79,,,,9.9463,0,10.4222,0,11,,,,
+2026-11-05,9.77,9.79,9.76,9.79,9.79,9.79,,,,9.9426,0,10.3961,0,33,,,,
+2026-11-06,9.75,9.75,9.74,9.74,9.78,9.79,,,,9.9109,0,10.3580,0,10,,,,
+2026-11-09,9.78,9.82,9.78,9.82,9.78,9.79,,,,9.9109,0,10.3085,0,3092,,,,
+2026-11-10,9.77,9.77,9.76,9.76,9.78,9.79,,,,9.9109,0,10.2630,0,12,,,,

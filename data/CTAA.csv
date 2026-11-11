@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.0861,1104600,11068092,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0779,1000000,10020000,1.0\n2,2026-06-30,"Highbridge Capital Management, LLC.",0.0699,897253,8990475,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.060500003,776743,7782965,1.0\n4,2026-06-30,"Radcliffe Capital Management, L.P.",0.0475,610000,6112200,1.0\n5,2026-06-30,Magnetar Financial LLC,0.047199998,605000,6062100,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.039,500000,5010000,1.0\n7,2026-06-30,"RiverNorth Capital Management, LLC",0.039,500000,5010000,1.0\n8,2026-06-30,Berkley W R Corp,0.0387,497000,4979940,1.0\n9,2026-06-30,"Mangrove Partners IM, LLC",0.035099998,450000,4509000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Glazer Capital LLC,0.0861,1104600,11079137,1.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0779,1000000,10029999,1.0\n2,2026-06-30,"Highbridge Capital Management, LLC.",0.0699,897253,8999447,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.060500003,776743,7790732,1.0\n4,2026-06-30,"Radcliffe Capital Management, L.P.",0.0475,610000,6118299,1.0\n5,2026-06-30,Magnetar Financial LLC,0.047199998,605000,6068149,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.039,500000,5014999,1.0\n7,2026-06-30,"RiverNorth Capital Management, LLC",0.039,500000,5014999,1.0\n8,2026-06-30,Berkley W R Corp,0.0387,497000,4984909,1.0\n9,2026-06-30,"Mangrove Partners IM, LLC",0.035099998,450000,4513499,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0078,100000,1002000,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,5488,54989,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0078,100000,1002999,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0004,5488,55044,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.024549998\ninstitutionsPercentHeld,0.83544\ninstitutionsFloatPercentHeld,0.85647005\ninstitutionsCount,32.0\n
+,Value\ninsidersPercentHeld,0.026889998\ninstitutionsPercentHeld,0.80117995\ninstitutionsFloatPercentHeld,0.82332003\ninstitutionsCount,31.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CTAA,ClearThink 1 Acquisition Corp.,Financial Services,Shell Companies,United States,170356720,10.02,10570,15037,150670.74,,,,0.0,0.0,0.0,,,1406691,0,,0.18,,0,,12830000,8893232,0.024549998,0.83544,70,0.0,0.0,,,,108.91305,,,,,,,none,,,,,,,,,2026-10-31T15:20:20.596712+00:00
+0.00,CTAA,ClearThink 1 Acquisition Corp.,Financial Services,Shell Companies,United States,170526720,10.03,5200,15768,158153.03999999998,,,,0.0,0.0,0.0,,,1406691,0,,0.18,,0,,12830000,8893232,0.026889998,0.80117995,70,0.0,0.0,,,,109.021736,,,,,,,none,,,,,,,,,2026-11-10T09:03:39.154532+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-16,9.82,9.90,9.82,9.89,,,,,,,0,9.8200,1,135,,,,
 2026-04-17,9.83,9.85,9.83,9.83,,,,,,,0,9.8200,1,575,,,,
@@ -155,3 +155,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.03,10.02,9.97,,,10.0547,0,10.0172,1,,132,0.0147,0.0197,-0.0051
 2026-11-03,10.02,10.02,10.02,10.02,10.02,10.02,9.97,,,10.0515,0,10.0200,1,,132,0.0135,0.0185,-0.0050
 2026-11-04,10.02,10.02,10.02,10.02,10.02,10.02,9.97,,,10.0483,0,10.0200,1,,132,0.0124,0.0173,-0.0049
+2026-11-05,10.03,10.03,10.02,10.03,10.02,10.03,9.98,,,10.0483,0,10.0200,1,489,142,0.0122,0.0163,-0.0040
+2026-11-06,10.03,10.03,10.03,10.03,10.02,10.03,9.98,,,10.0483,0,10.0200,1,,142,0.0119,0.0154,-0.0035
+2026-11-09,10.03,10.03,10.03,10.03,10.02,10.03,9.98,,,10.0483,0,10.0200,1,,142,0.0116,0.0146,-0.0030
+2026-11-10,10.03,10.03,10.03,10.03,10.02,10.03,9.98,,,10.0483,0,10.0264,1,201,146,0.0112,0.0139,-0.0028

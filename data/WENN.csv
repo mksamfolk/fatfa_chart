@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"CrossingBridge Advisors, LLC",0.049200002,1475694,15428380,0.0\n1,2026-06-30,"Shaw D.E. & Co., Inc.",0.0461,1384342,14473295,0.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.04,1200000,12545999,0.0\n3,2026-06-30,LMR Partners LLP,0.04,1200000,12545999,0.0\n4,2026-06-30,"Verition Fund Management, LLC",0.0396,1189759,12438930,0.0\n5,2026-06-30,"Wolverine Asset Management, LLC",0.0369,1106466,11568101,-0.0070999996\n6,2026-06-30,Linden Advisors LP,0.0366,1100000,11500499,0.0\n7,2026-06-30,Glazer Capital LLC,0.032899998,986079,10309455,0.36009997\n8,2026-06-30,"Parallax Volatility Advisers, L.P.",0.0313,940587,9833837,0.1347\n9,2026-06-30,"Two Sigma Investments, LP",0.0278,833694,8716270,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"CrossingBridge Advisors, LLC",0.049200002,1475694,15450516,0.0\n1,2026-06-30,"Shaw D.E. & Co., Inc.",0.0461,1384342,14494061,0.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.04,1200000,12564000,0.0\n3,2026-06-30,LMR Partners LLP,0.04,1200000,12564000,0.0\n4,2026-06-30,"Verition Fund Management, LLC",0.0396,1189759,12456777,0.0\n5,2026-06-30,Linden Advisors LP,0.0366,1100000,11517000,0.0\n6,2026-06-30,Glazer Capital LLC,0.032899998,986079,10324247,0.36009997\n7,2026-06-30,"Parallax Volatility Advisers, L.P.",0.0313,940587,9847946,0.1347\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0294,883625,9251553,-0.2014\n9,2026-06-30,"Two Sigma Investments, LP",0.0278,833694,8728776,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.027,809811,8466573,0.0\n1,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.02,600000,6272999,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.0184,552730,5778792,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.015,448814,4692350,0.0\n4,2026-06-30,"Special Opportunities Fund, Inc.",0.0037,110712,1157493,0.0\n5,2026-05-31,High Income Securities Fund,0.0034999999,106000,1108229,0.0\n6,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,76154,796190,0.0\n7,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0022,65883,688806,0.0\n8,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0014,41043,429104,0.0\n9,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.001,30788,321888,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.027,809811,8478721,0.0\n1,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.02,600000,6282000,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.0184,552730,5787083,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.015,448814,4699082,0.0\n4,2026-06-30,"Special Opportunities Fund, Inc.",0.0037,110712,1159154,0.0\n5,2026-08-31,High Income Securities Fund,0.0034999999,106000,1109820,0.0\n6,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0025,76154,797332,0.0\n7,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0022,65883,689795,0.0\n8,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0014,41043,429720,0.0\n9,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.001,30788,322350,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.97613996\ninstitutionsFloatPercentHeld,0.97613996\ninstitutionsCount,77.0\n
+,Value\ninsidersPercentHeld,0.00117\ninstitutionsPercentHeld,0.96922994\ninstitutionsFloatPercentHeld,0.97037005\ninstitutionsCount,76.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.18,WENN,Wen Acquisition Corp.,Financial Services,Shell Companies,United States,392258560,10.455,261040,96967,1013789.985,,0.264,1.204,0.0,0.0,0.0,,,244770,0,,1.975,1.231,-663447,,30015000,30015000,0.0,0.97613996,389,0.0,0.0,34.85,,,-27.805851,,,,,,,none,,,,,,,,https://investorswenacquisitioncorp.com,2026-10-31T21:00:30.996912+00:00
+56.71,WENN,Wen Acquisition Corp.,Financial Services,Shell Companies,United States,392821344,10.47,28600,96407,1009381.29,,0.264,1.204,0.0,0.0,0.0,,,244770,0,,1.975,1.231,-663447,,30015000,30015000,0.00117,0.96922994,389,0.0,0.0,34.899998,,,-27.845747,,,,,,,none,,,,,,,,https://investorswenacquisitioncorp.com,2026-11-10T13:49:35.463340+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-07,10.20,10.29,10.19,10.29,,,,,,,0,10.1900,1,1300,,,,
 2025-07-08,10.25,10.32,10.23,10.29,,,,,,,0,10.1900,1,1598,,,,
@@ -351,3 +351,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.46,10.46,10.46,10.46,10.44,10.43,10.40,10.30,10.27,10.4338,1,10.4215,1,16,1174,0.0154,0.0141,0.0013
 2026-11-03,10.46,10.47,10.45,10.47,10.44,10.43,10.40,10.31,10.27,10.4338,1,10.4269,1,282,1179,0.0167,0.0146,0.0020
 2026-11-04,10.48,10.48,10.46,10.47,10.45,10.44,10.41,10.31,10.27,10.4364,1,10.4338,1,106,1159,0.0175,0.0152,0.0023
+2026-11-05,10.46,10.47,10.46,10.47,10.45,10.44,10.41,10.31,10.27,10.4364,1,10.4412,1,420,1166,0.0179,0.0157,0.0022
+2026-11-06,10.47,10.47,10.46,10.47,10.46,10.44,10.41,10.31,10.27,10.4364,1,10.4473,1,6,1166,0.0180,0.0162,0.0018
+2026-11-09,10.47,10.47,10.47,10.47,10.46,10.44,10.41,10.31,10.27,10.4422,1,10.4523,1,,1166,0.0179,0.0165,0.0014
+2026-11-10,10.47,10.47,10.46,10.47,10.46,10.45,10.41,10.32,10.28,10.4422,1,10.4564,1,2721,1220,0.0177,0.0168,0.0009

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Mizuho Securities USA LLC,0.09,373800,1764335,0.0\n1,2026-06-30,"Wolverine Asset Management, LLC",0.0797,331222,1563367,-0.028099999\n2,2026-06-30,Berkley W R Corp,0.0758,314797,1485841,0.0183\n3,2026-06-30,AQR Arbitrage LLC,0.032,133108,628269,0.0068\n4,2026-06-30,"Boothbay Fund Management, LLC",0.028900001,120000,566399,0.0\n5,2026-06-30,"Westchester Capital Management, LLC",0.024600001,102000,481439,0.0\n6,2026-06-30,"Yakira Capital Management, Inc.",0.0214,88749,418895,0.0\n7,2026-06-30,Clear Street Group Inc.,0.0196,81481,384590,0.0917\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.018099999,75000,353999,0.0\n9,2026-06-30,Warberg Asset Management LLC,0.0173,71923,339476,-0.0055\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Mizuho Securities USA LLC,0.09,373800,2061506,0.0\n1,2026-06-30,Berkley W R Corp,0.0758,314797,1736105,0.0183\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0509,211220,1164878,-0.3623\n3,2026-06-30,AQR Arbitrage LLC,0.032,133108,734090,0.0068\n4,2026-06-30,"Boothbay Fund Management, LLC",0.028900001,120000,661799,0.0\n5,2026-06-30,"Westchester Capital Management, LLC",0.024600001,102000,562529,0.0\n6,2026-06-30,"Yakira Capital Management, Inc.",0.0214,88749,489450,0.0\n7,2026-06-30,Clear Street Group Inc.,0.0196,81481,449367,0.0917\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.018099999,75000,413624,0.0\n9,2026-09-30,Warberg Asset Management LLC,0.016900001,70102,386612,-0.0253\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.024600001,102000,481439,0.0\n1,2026-07-31,CALAMOS INVESTMENT TRUST/IL-Calamos Market Neutral Income Fund,0.0058999998,24591,116069,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,566,2671,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.024600001,102000,562529,0.0\n1,2026-07-31,CALAMOS INVESTMENT TRUST/IL-Calamos Market Neutral Income Fund,0.0058999998,24591,135619,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,566,3121,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,1.0664\ninstitutionsPercentHeld,0.97283\ninstitutionsFloatPercentHeld,-14.650351\ninstitutionsCount,27.0\n
+,Value\ninsidersPercentHeld,1.0664\ninstitutionsPercentHeld,0.6743\ninstitutionsFloatPercentHeld,-10.154651\ninstitutionsCount,24.0\n
 news
 [\n  {\n    "uuid": "ed7ac504-b071-3386-967f-d7ae4dfb9743",\n    "title": "Black Hawk Acquisition Corporation Announces Redemption Results in Connection With Its Business Combination With Vesicor Therapeutics Inc.",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/black-hawk-acquisition-corporation-announces-100000451.html",\n    "providerPublishTime": 1791972000,\n    "type": "STORY",\n    "relatedTickers": [\n      "BKHA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.63,BKHA,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,United States,19604882,4.72,42450,18934,89368.48,,9.267,5.961,0.0,0.0,0.0,,-0.013150001,12052,2088499,,0.018,0.005,-560069,-329246,4153577,1366859,1.0664,0.97283,103214,3.09,0.0471,14.303029,,,-4.1622577,,,,,,,none,,,,,,,0.025,https://www.bhspac.com,2026-10-31T14:37:00.116563+00:00
+9.06,BKHA,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,United States,22906976,5.515,24550,21731,119846.465,,9.267,5.961,0.0,0.0,0.0,,-0.013150001,12052,2088499,,0.018,0.005,-560069,-329246,4153577,1578069,1.0664,0.6743,103214,3.09,0.0471,16.71212,,,-4.8633156,,,,,,,none,,,,,,,0.468,https://www.bhspac.com,2026-11-10T08:21:40.843715+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-13,10.20,10.20,10.13,10.13,,,,,,,0,10.2000,0,14,,,,
 2024-05-14,10.13,10.13,10.13,10.13,,,,,,,0,10.2000,0,,,,,
@@ -637,3 +637,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,4.41,4.99,4.10,4.70,4.81,7.37,10.08,11.24,11.29,8.2576,0,13.0070,0,157,175,-1.8190,-1.7354,-0.0836
 2026-11-03,5.07,6.86,4.75,5.58,4.95,7.03,9.95,11.20,11.27,8.2576,0,12.4485,0,594,187,-1.6891,-1.7261,0.0370
 2026-11-04,5.12,5.90,5.05,5.57,5.02,6.66,9.83,11.16,11.24,8.2576,0,11.9236,0,81,189,-1.5689,-1.6947,0.1258
+2026-11-05,5.03,5.25,4.50,4.50,5.04,6.27,9.68,11.11,11.20,8.2576,0,11.4302,0,32,189,-1.5422,-1.6642,0.1220
+2026-11-06,4.57,5.68,4.57,5.63,5.06,5.97,9.56,11.07,11.18,8.2576,0,10.9664,0,108,191,-1.4136,-1.6141,0.2005
+2026-11-09,5.67,5.67,5.02,5.51,5.07,5.60,9.43,11.03,11.15,8.2576,0,10.5304,0,63,192,-1.3058,-1.5524,0.2466
+2026-11-10,5.05,5.59,5.05,5.06,5.09,5.23,9.30,10.99,11.12,8.2576,0,10.1206,0,20,193,-1.2429,-1.4905,0.2477

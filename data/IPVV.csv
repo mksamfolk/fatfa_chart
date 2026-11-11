@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0015,30000,295200,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.00090000004,19500,191880,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0746,1542489,15178091,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0145000005,300003,2952029,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1968000,1.0\n3,2026-09-30,Periscope Capital Inc.,0.0097,199800,1966032,1.0\n4,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0023999999,49999,491990,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0015,30000,295200,1.0\n6,2026-09-30,Deltec Asset Management LLC,0.00090000004,19500,191880,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00093999994\ninstitutionsFloatPercentHeld,0.00093999994\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.00145\ninstitutionsPercentHeld,0.111870006\ninstitutionsFloatPercentHeld,0.11203\ninstitutionsCount,6.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IPVV,InterPrivate Investment Partners V Inc.,Financial Services,Shell Companies,United States,252851104,9.84,4650,21906,215555.04,,,,0.0,0.0,0.0,,,1019105,0,,0.466,0.466,0,,20665000,,0.0,0.00093999994,2963,0.07,0.0001,,,,1.3015873,,,,,,,none,,,,,,,,,2026-10-31T17:44:16.640241+00:00
+0.00,IPVV,InterPrivate Investment Partners V Inc.,Financial Services,Shell Companies,United States,252851104,9.84,19410,23150,227796.0,,,,0.0,0.0,0.0,,,1019105,0,,0.466,0.466,0,,20665000,,0.00145,0.111870006,2963,0.07,0.0001,,,,1.3015873,,,,,,,none,,,,,,,,,2026-11-10T10:35:13.159416+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.83,9.90,9.82,9.83,,,,,,,0,9.9000,0,160,,,,
 2026-07-28,9.80,9.80,9.77,9.80,,,,,,,0,9.9000,0,51,,,,
@@ -86,3 +86,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.84,9.84,9.84,9.84,9.84,9.84,9.83,,,9.8528,0,9.8241,1,,166,0.0019,0.0034,-0.0015
 2026-11-03,9.84,9.84,9.84,9.84,9.84,9.84,9.83,,,9.8516,0,9.8255,1,,160,0.0016,0.0031,-0.0015
 2026-11-04,9.84,9.84,9.83,9.84,9.84,9.84,9.84,,,9.8484,0,9.8269,1,285,165,0.0013,0.0027,-0.0014
+2026-11-05,9.87,9.87,9.84,9.85,9.84,9.84,9.84,,,9.8339,1,9.8282,1,1168,189,0.0019,0.0025,-0.0007
+2026-11-06,9.85,9.85,9.85,9.85,9.84,9.84,9.84,,,9.8339,1,9.8300,1,,189,0.0023,0.0025,-0.0002
+2026-11-09,9.85,9.85,9.85,9.85,9.85,9.84,9.84,,,9.8339,1,9.8324,1,,182,0.0026,0.0025,0.0001
+2026-11-10,9.85,9.85,9.85,9.85,9.84,9.84,9.84,,,9.8346,1,9.8347,1,,182,0.0028,0.0026,0.0002

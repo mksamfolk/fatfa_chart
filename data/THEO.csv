@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0021,30000,297600,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.0848,1237500,12362624,1.0\n1,2026-09-30,Picton Mahoney Asset Management,0.0343,500000,4994999,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0221,322320,3219976,1.0\n3,2026-09-30,Stonex Group Inc.,0.020299999,296397,2961005,1.0\n4,2026-09-30,Mizuho Securities USA LLC,0.0185,269470,2692005,1.0\n5,2026-09-30,RLH Capital LLC,0.0069,100300,1001996,1.0\n6,2026-09-30,ABC Arbitrage SA,0.0021,30000,299699,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0069,100000,992000,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,11266,111758,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0069,100000,998999,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0008,11266,112547,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.05705\ninstitutionsPercentHeld,0.0995\ninstitutionsFloatPercentHeld,0.10552\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.0591\ninstitutionsPercentHeld,0.29363\ninstitutionsFloatPercentHeld,0.31207\ninstitutionsCount,11.0\n
 news
 [\n  {\n    "uuid": "b1ca35b6-f113-3962-834a-840a1d05b39c",\n    "title": "Theolytics to Showcase its Innovative Oncolytic Immunotherapy Strategy – including THEO-260 in Advanced Ovarian Cancer – at Upcoming Investor and Scientific Events",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/theolytics-showcase-innovative-oncolytic-immunotherapy-080000700.html",\n    "providerPublishTime": 1789545600,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/3d046f3d9545ffedbc17b7861bab2bb1.jpg",\n          "width": 1760,\n          "height": 328,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/F41904D9B6562EFFDBC756884C58073A6F6BF15114C9C1B99E065044F1564DC7/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F3d046f3d9545ffedbc17b7861bab2bb1.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  },\n  {\n    "uuid": "8cec0288-d0b5-3dba-b000-bae9b75523d7",\n    "title": "BOA Acquisition Corp. II Announces the Separate Trading of Its Class A Ordinary Shares and Rights, Commencing on August 14, 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/boa-acquisition-corp-ii-announces-125300863.html",\n    "providerPublishTime": 1786625580,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/64bed01769012aad7f70bd316d556985.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/EA4C71A6F7DFE5F81A4BFB84D30A5FBB4558A8E2EF52DD8D6994DC553BA9B860/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F64bed01769012aad7f70bd316d556985.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "THEOU",\n      "THEO",\n      "THEOR"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,THEO,BOA Acquisition Corp. II,Financial Services,Shell Companies,United States,259054416,9.92,12600,155547,1543026.24,,,,0.0,0.0,0.0,,,,72218,,,,-60204,,14596500,14610257,0.05705,0.0995,280,0.01,,,,,-413.33334,,,,,,,none,,,,,,,,https://www.betonamerica2.com,2026-10-31T20:26:55.826355+00:00
+0.00,THEO,BOA Acquisition Corp. II,Financial Services,Shell Companies,United States,260882416,9.99,42960,145245,1450997.55,,,,0.0,0.0,0.0,,,,72218,,,,-60204,,14596500,14610257,0.0591,0.29363,280,0.01,,,,,-416.25,,,,,,,none,,,,,,,,https://www.betonamerica2.com,2026-11-10T13:15:49.770276+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-14,9.85,9.85,9.81,9.84,,,,,,,0,9.8100,1,9223,,,,
 2026-08-17,9.84,9.84,9.83,9.84,,,,,,,0,9.8100,1,2494,,,,
@@ -72,3 +72,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.91,9.92,9.91,9.92,9.92,9.91,,,,9.9393,0,10.0142,0,1008,,0.0118,0.0144,-0.0026
 2026-11-03,9.92,9.92,9.92,9.92,9.92,9.91,,,,9.9393,0,10.0121,0,,,0.0113,0.0138,-0.0024
 2026-11-04,9.94,9.95,9.94,9.95,9.92,9.92,,,,9.9059,1,10.0100,0,5,,0.0132,0.0137,-0.0004
+2026-11-05,9.93,9.99,9.92,9.95,9.92,9.92,,,,9.9059,1,10.0080,0,2018,,0.0146,0.0138,0.0007
+2026-11-06,9.95,9.95,9.95,9.95,9.93,9.92,,,,9.9059,1,10.0061,0,,,0.0155,0.0142,0.0013
+2026-11-09,9.95,9.95,9.95,9.95,9.93,9.92,,,,9.9059,1,10.0042,0,,,0.0160,0.0145,0.0014
+2026-11-10,10.00,10.00,9.93,9.94,9.93,9.93,,,,9.9059,1,10.0023,0,1854,,0.0154,0.0147,0.0007

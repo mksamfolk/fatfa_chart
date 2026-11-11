@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.056399997,1125000,11193749,1.0\n1,2026-06-30,Sculptor Capital LP,0.0512,1021965,10168551,1.0\n2,2026-06-30,"Wolverine Asset Management, LLC",0.0357,711905,7083454,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0225,450000,4477499,1.0\n4,2026-06-30,Decagon Asset Management LLP,0.0176,351990,3502300,1.0\n5,2026-06-30,"Two Sigma Investments, LP",0.0114,226562,2254291,1.0\n6,2026-06-30,"Verition Fund Management, LLC",0.0104,207996,2069560,1.0\n7,2026-06-30,Clear Street Group Inc.,0.0088,175926,1750463,1.0\n8,2026-09-30,Gritstone Asset Management LLC,0.0063,124988,1243630,1.0\n9,2026-09-30,Deltec Asset Management LLC,0.005,100000,994999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.056399997,1125000,11216250,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.056199998,1120906,11175433,0.5745\n2,2026-06-30,Sculptor Capital LP,0.0512,1021965,10188991,1.0\n3,2026-09-30,Wealthspring Capital LLC,0.0477,951400,9485458,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0225,450000,4486500,1.0\n5,2026-06-30,Decagon Asset Management LLP,0.0176,351990,3509340,1.0\n6,2026-06-30,"Two Sigma Investments, LP",0.0114,226562,2258823,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.0104,207996,2073720,1.0\n8,2026-09-30,Periscope Capital Inc.,0.01,200000,1994000,1.0\n9,2026-06-30,Clear Street Group Inc.,0.0088,175926,1753982,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,9873,98236,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,9873,98433,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.16367\ninstitutionsPercentHeld,0.27295\ninstitutionsFloatPercentHeld,0.32637\ninstitutionsCount,17.0\n
+,Value\ninsidersPercentHeld,0.16518\ninstitutionsPercentHeld,0.33043\ninstitutionsFloatPercentHeld,0.39581\ninstitutionsCount,20.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,APMC,AmperCap Acquisition Company,Financial Services,Shell Companies,United States,198587824,9.95,2650,27793,276540.35,,,,0.0,0.0,0.0,,,796296,0,,0.176,,-431364,,19958575,18325964,0.16367,0.27295,6466,0.46,0.0004,,,,255.12819,,,,,,,none,,,,,,,,,2026-10-31T14:11:43.391385+00:00
+0.00,APMC,AmperCap Acquisition Company,Financial Services,Shell Companies,United States,198987008,9.97,25260,29203,291153.91000000003,,,,0.0,0.0,0.0,,,796296,0,,0.176,,-431364,,19958575,18325964,0.16518,0.33043,6466,0.46,0.0004,,,,255.64102,,,,,,,none,,,,,,,,,2026-11-10T07:57:08.056338+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-29,9.91,9.91,9.89,9.91,,,,,,,0,9.8900,1,998,,,,
 2026-06-30,9.92,10.00,9.89,9.89,,,,,,,0,9.8900,1,201,,,,
@@ -105,3 +105,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.97,9.97,9.97,9.97,9.95,9.96,9.95,,,9.9576,1,9.9766,0,1500,360,0.0010,0.0019,-0.0009
 2026-11-03,9.97,9.97,9.97,9.97,9.96,9.96,9.95,,,9.9588,1,9.9760,0,249,365,0.0020,0.0019,0.0001
 2026-11-04,9.97,9.97,9.97,9.97,9.96,9.96,9.95,,,9.9599,1,9.9755,0,,336,0.0028,0.0021,0.0007
+2026-11-05,9.96,9.97,9.96,9.97,9.96,9.96,9.95,,,9.9599,1,9.9750,0,769,352,0.0034,0.0024,0.0010
+2026-11-06,9.97,9.97,9.97,9.97,9.96,9.96,9.95,,,9.9599,1,9.9745,0,,349,0.0038,0.0026,0.0011
+2026-11-09,9.97,9.97,9.97,9.97,9.96,9.96,9.95,,,9.9602,1,9.9740,0,,348,0.0040,0.0029,0.0011
+2026-11-10,9.97,9.97,9.97,9.97,9.96,9.96,9.96,,,9.9612,1,9.9735,0,,348,0.0042,0.0032,0.0010

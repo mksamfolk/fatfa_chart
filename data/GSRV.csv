@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0013,30000,297449,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.082399994,1950000,19363500,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0558,1320980,13117331,1.0\n2,2026-09-30,Stonex Group Inc.,0.0046,110000,1092300,1.0\n3,2026-09-30,ABC Arbitrage SA,0.0013,30000,297900,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.123739995\ninstitutionsFloatPercentHeld,0.123739995\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.24915001\ninstitutionsFloatPercentHeld,0.24947001\ninstitutionsCount,8.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GSRV,GSR V Acquisition Corp.,Financial Services,Shell Companies,United States,301624224,9.915,35060,59134,586313.61,,,,0.0,0.0,0.0,,,1558257,0,,7.581,,0,,23671000,21549020,0.0,0.123739995,2847,0.07,0.0001,,,,-40.30488,,,,,,,none,,,,,,,,,2026-10-31T16:32:12.277257+00:00
+0.00,GSRV,GSR V Acquisition Corp.,Financial Services,Shell Companies,United States,302080544,9.93,25990,62501,620634.9299999999,,,,0.0,0.0,0.0,,,1558257,0,,7.581,,0,,23671000,21549020,0.00127,0.24915001,2847,0.07,0.0001,,,,-40.365852,,,,,,,none,,,,,,,,,2026-11-10T10:08:51.232033+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-02,9.93,9.93,9.91,9.91,,,,,,,0,9.9300,0,137,,,,
 2026-07-06,9.85,9.87,9.85,9.87,,,,,,,0,9.9300,0,75,,,,
@@ -102,3 +102,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.93,9.93,9.93,9.93,9.93,9.94,9.90,,,9.9237,1,9.9590,0,,600,0.0074,0.0103,-0.0029
 2026-11-03,9.92,9.96,9.92,9.96,9.93,9.94,9.90,,,9.9237,1,9.9100,1,250,602,0.0093,0.0101,-0.0009
 2026-11-04,9.93,9.95,9.93,9.93,9.93,9.94,9.90,,,9.9237,1,9.9110,1,538,613,0.0082,0.0097,-0.0015
+2026-11-05,9.93,9.93,9.91,9.92,9.93,9.94,9.91,,,9.9555,0,9.9600,0,1745,648,0.0065,0.0091,-0.0026
+2026-11-06,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9590,0,47,647,0.0058,0.0084,-0.0026
+2026-11-09,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9580,0,,643,0.0053,0.0078,-0.0025
+2026-11-10,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9571,0,,633,0.0048,0.0072,-0.0024

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0789,2025000,20675250,0.0\n1,2026-06-30,Linden Advisors LP,0.063200004,1622152,16562171,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0428,1100000,11231000,1.0\n3,2026-06-30,"Harraden Circle Investments, LLC",0.040599998,1042732,10646293,0.1586\n4,2026-06-30,AQR Arbitrage LLC,0.0323,828872,8462783,0.0187\n5,2026-06-30,"Two Sigma Investments, LP",0.0318,815625,8327531,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.0312,800000,8168000,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0312,799992,8167918,0.0\n8,2026-06-30,"Moore Capital Management, LP",0.0234,600000,6126000,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.0212,545386,5568391,0.028299998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0789,2025000,20857500,0.0\n1,2026-06-30,Linden Advisors LP,0.063200004,1622152,16708165,0.0\n2,2026-09-30,Alberta Investment Management Corp,0.0428,1100000,11330000,0.0\n3,2026-06-30,"Harraden Circle Investments, LLC",0.040599998,1042732,10740139,0.1586\n4,2026-06-30,AQR Arbitrage LLC,0.0323,828872,8537381,0.0187\n5,2026-06-30,"Two Sigma Investments, LP",0.0318,815625,8400937,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.0312,800000,8240000,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0312,799992,8239917,0.0\n8,2026-06-30,"Moore Capital Management, LP",0.0234,600000,6180000,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.0212,545386,5617475,0.028299998\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0039,99999,1020989,0.0\n1,2026-05-31,High Income Securities Fund,0.003,77000,786170,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.003,77000,786170,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10283,104989,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0039,99999,1029989,0.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.003,77000,793100,0.0\n2,2026-08-31,High Income Securities Fund,0.003,77000,793100,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,10283,105914,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.020639999\ninstitutionsPercentHeld,0.70434\ninstitutionsFloatPercentHeld,0.71918\ninstitutionsCount,41.0\n
+,Value\ninsidersPercentHeld,0.02142\ninstitutionsPercentHeld,0.71055\ninstitutionsFloatPercentHeld,0.7261\ninstitutionsCount,43.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.69,TLNC,Talon Capital Corp.,Financial Services,Shell Companies,United States,346925600,10.21,55710,74912,764851.52,,,,0.0,0.0,0.0,,,2399609,0,,22.949,22.32,-697428,,25679000,23124069,0.020639999,0.70434,16398,0.14,0.0007,,,,-41.504063,,,,,,,none,,,,,,,,https://www.talon-cap.com,2026-10-31T20:29:16.343354+00:00
+54.04,TLNC,Talon Capital Corp.,Financial Services,Shell Companies,United States,349983712,10.3,27200,76103,783860.9,,,,0.0,0.0,0.0,,,2399609,0,,22.949,22.32,-697428,,25679000,23124069,0.02142,0.71055,16398,0.14,0.0007,,,,-41.86992,,,,,,,none,,,,,,,,https://www.talon-cap.com,2026-11-10T13:18:06.253455+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-08,9.94,9.94,9.87,9.90,,,,,,,0,9.8700,1,33,,,,
 2025-10-09,10.00,10.05,9.93,9.94,,,,,,,0,9.8700,1,3434,,,,
@@ -285,3 +285,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.25,10.25,10.25,10.25,10.23,10.23,10.23,10.24,10.21,10.2748,0,10.2583,0,2,737,-0.0038,-0.0052,0.0014
 2026-11-03,10.23,10.24,10.23,10.24,10.23,10.22,10.23,10.24,10.21,10.2748,0,10.2560,0,550,743,-0.0025,-0.0047,0.0022
 2026-11-04,10.25,10.25,10.23,10.25,10.23,10.22,10.23,10.24,10.21,10.2748,0,10.2537,0,49,742,-0.0007,-0.0039,0.0032
+2026-11-05,10.25,10.25,10.25,10.25,10.23,10.23,10.23,10.24,10.21,10.2748,0,10.2516,0,,742,0.0008,-0.0029,0.0037
+2026-11-06,10.30,10.30,10.25,10.27,10.24,10.23,10.23,10.25,10.21,10.2748,0,10.2000,1,2102,783,0.0035,-0.0016,0.0052
+2026-11-09,10.30,10.30,10.30,10.30,10.24,10.23,10.24,10.25,10.21,10.2286,1,10.2020,1,36,784,0.0080,0.0003,0.0077
+2026-11-10,10.28,10.28,10.27,10.27,10.25,10.24,10.24,10.25,10.21,10.2286,1,10.2040,1,108,755,0.0090,0.0020,0.0070

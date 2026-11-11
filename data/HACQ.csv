@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"MMCAP International, Inc. SPC",0.048699997,1400000,14041999,1.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.048699997,1400000,14041999,1.0\n2,2026-06-30,AQR Arbitrage LLC,0.0448,1288632,12924978,1.0\n3,2026-06-30,Linden Advisors LP,0.0435,1250000,12537499,1.0\n4,2026-06-30,Alberta Investment Management Corp,0.0348,1000000,10029999,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0348,1000000,10029999,1.0\n6,2026-06-30,Magnetar Financial LLC,0.0348,1000000,10029999,1.0\n7,2026-06-30,"Highbridge Capital Management, LLC.",0.0348,1000000,10029999,1.0\n8,2026-06-30,Millennium Management Llc,0.034,978000,9809339,1.0\n9,2026-06-30,Glazer Capital LLC,0.0308,884839,8874934,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"MMCAP International, Inc. SPC",0.048699997,1400000,14070000,1.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.048699997,1400000,14070000,1.0\n2,2026-06-30,AQR Arbitrage LLC,0.0448,1288632,12950751,1.0\n3,2026-06-30,Linden Advisors LP,0.0435,1250000,12562500,1.0\n4,2026-06-30,Alberta Investment Management Corp,0.0348,1000000,10050000,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0348,1000000,10050000,1.0\n6,2026-06-30,Magnetar Financial LLC,0.0348,1000000,10050000,1.0\n7,2026-06-30,"Highbridge Capital Management, LLC.",0.0348,1000000,10050000,1.0\n8,2026-06-30,Millennium Management Llc,0.034,978000,9828900,1.0\n9,2026-06-30,Glazer Capital LLC,0.0308,884839,8892632,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0149,428312,4295969,1.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.0034999999,100000,1002999,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0023999999,69076,692832,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0149,428312,4304535,1.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.0034999999,100000,1005000,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0023999999,69076,694213,1.0\n3,2026-08-31,High Income Securities Fund,0.0017,50000,502500,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.30348\ninstitutionsPercentHeld,0.78836\ninstitutionsFloatPercentHeld,1.13185\ninstitutionsCount,52.0\n
+,Value\ninsidersPercentHeld,0.30487\ninstitutionsPercentHeld,0.80482\ninstitutionsFloatPercentHeld,1.1578\ninstitutionsCount,52.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HACQ,HCM IV Acquisition Corp.,Financial Services,Shell Companies,United States,374871232,10.03,65140,46557,466966.70999999996,,,,0.0,0.0,0.0,,,814444,0,,0.128,,0,,28750000,28749971,0.30348,0.78836,44,0.0,0.0,,,,-21.616379,,,,,,,none,,,,,,,,,2026-10-31T16:34:48.856652+00:00
+0.00,HACQ,HCM IV Acquisition Corp.,Financial Services,Shell Companies,United States,375618752,10.05,95350,61093,613984.65,,,,0.0,0.0,0.0,,,814444,0,,0.128,,0,,28750000,28749971,0.30487,0.80482,44,0.0,0.0,,,,-21.659483,,,,,,,none,,,,,,,,,2026-11-10T10:11:03.075732+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-06,10.00,10.00,9.90,9.93,,,,,,,0,10.0000,0,197,,,,
 2026-04-07,9.90,9.91,9.86,9.88,,,,,,,0,10.0000,0,121,,,,
@@ -163,3 +163,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.03,10.03,10.03,10.03,10.02,10.02,10.05,,,10.0182,1,10.0104,1,,490,-0.0068,-0.0096,0.0028
 2026-11-03,10.03,10.03,10.02,10.03,10.02,10.02,10.05,,,10.0182,1,10.0108,1,5304,596,-0.0057,-0.0089,0.0031
 2026-11-04,10.03,10.03,10.03,10.03,10.02,10.02,10.05,,,10.0182,1,10.0112,1,251,601,-0.0048,-0.0081,0.0032
+2026-11-05,10.03,10.03,10.02,10.02,10.02,10.02,10.04,,,10.0182,1,10.0116,1,1673,634,-0.0048,-0.0074,0.0026
+2026-11-06,10.03,10.04,10.03,10.04,10.03,10.02,10.04,,,10.0182,1,10.0119,1,2103,677,-0.0032,-0.0066,0.0034
+2026-11-09,10.05,10.05,10.05,10.05,10.03,10.02,10.04,,,10.0302,1,10.0130,1,2,677,-0.0011,-0.0055,0.0044
+2026-11-10,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0538,0,10.0153,1,351,684,-0.0010,-0.0046,0.0036

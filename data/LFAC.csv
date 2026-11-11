@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0758,1125000,11362500,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0471,700000,7070000,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0404,600000,6060000,0.0\n3,2026-06-30,Linden Advisors LP,0.0404,600000,6060000,0.0\n4,2026-06-30,Picton Mahoney Asset Management,0.0337,500500,5055050,0.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0337,500000,5050000,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0335,497050,5020205,0.0119\n7,2026-06-30,"Cantor Fitzgerald, L.P.",0.029000001,430612,4349181,-0.025999999\n8,2026-06-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0269,400000,4040000,0.0\n9,2026-06-30,Alberta Investment Management Corp,0.0269,400000,4040000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0758,1125000,11362500,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0471,700000,7070000,0.0\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0404,600000,6060000,0.0\n3,2026-06-30,Linden Advisors LP,0.0404,600000,6060000,0.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0374,554707,5602540,2.0146\n5,2026-06-30,Picton Mahoney Asset Management,0.0337,500500,5055050,0.0\n6,2026-06-30,"RiverNorth Capital Management, LLC",0.0337,500000,5050000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.0335,497050,5020205,0.0119\n8,2026-06-30,"Cantor Fitzgerald, L.P.",0.029000001,430612,4349181,-0.025999999\n9,2026-06-30,Alberta Investment Management Corp,0.0269,400000,4040000,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0067000003,100000,1010000,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0058,86296,871589,0.0\n2,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0050999997,75000,757500,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,13128,132592,0.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund,0.0004,5534,55893,0.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,2374,23977,0.0\n
 recommendations
@@ -15,19 +15,19 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31,2025-12-31,2025-09-30\nFree Cash Flow,-85316.0,-385716.0,-65381.0,0.0\nEnd Cash Position,924963.0,1010279.0,1395995.0,0.0\nBeginning Cash Position,1010279.0,1395995.0,0.0,0.0\nChanges In Cash,-85316.0,-385716.0,,\nOperating Cash Flow,-85316.0,-385716.0,-65381.0,0.0\nCash Flow From Continuing Operating Activities,-85316.0,-385716.0,-65381.0,0.0\nChange In Working Capital,49185.0,-209838.0,32047.0,34889.0\nChange In Payables And Accrued Expense,4490.0,-172761.0,189911.0,34889.0\nChange In Accrued Expense,,,,34889.0\nChange In Payable,4490.0,-172761.0,,\nChange In Account Payable,8887.0,-202761.0,,\nChange In Prepaid Assets,44695.0,-37077.0,,\nOther Non Cash Items,-1259745.0,-1250472.0,-363613.0,26000.0\nNet Income From Continuing Operations,1125244.0,1074594.0,266185.0,-60889.0\n
+,2026-09-30,2026-06-30,2026-03-31,2025-12-31,2025-09-30\nFree Cash Flow,-47182.0,-85316.0,-385716.0,-65381.0,0.0\nEnd Cash Position,877781.0,924963.0,1010279.0,1395995.0,0.0\nBeginning Cash Position,924963.0,1010279.0,1395995.0,0.0,0.0\nChanges In Cash,-47182.0,-85316.0,-385716.0,,\nOperating Cash Flow,-47182.0,-85316.0,-385716.0,-65381.0,0.0\nCash Flow From Continuing Operating Activities,-47182.0,-85316.0,-385716.0,-65381.0,0.0\nChange In Working Capital,67599.0,49185.0,-209838.0,32047.0,60889.0\nChange In Payables And Accrued Expense,22904.0,4490.0,-172761.0,189911.0,34889.0\nChange In Accrued Expense,,,,,34889.0\nChange In Payable,22904.0,4490.0,-172761.0,,34889.0\nChange In Account Payable,0.0,8887.0,-202761.0,,34889.0\nChange In Prepaid Assets,44695.0,44695.0,-37077.0,,26000.0\nOther Non Cash Items,-1303187.0,-1259745.0,-1250472.0,-363613.0,26000.0\nNet Income From Continuing Operations,1188406.0,1125244.0,1074594.0,266185.0,-60889.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.77445\ninstitutionsFloatPercentHeld,0.77445\ninstitutionsCount,53.0\n
+,Value\ninsidersPercentHeld,0.00269\ninstitutionsPercentHeld,0.77921\ninstitutionsFloatPercentHeld,0.78132004\ninstitutionsCount,53.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LFAC,Leapfrog Acquisition Corporation,Financial Services,Shell Companies,United States,198355600,10.1,13920,26559,268245.89999999997,,,,0.0,0.0,0.0,,,924963,0,,6.641,6.21,-130762,,14847500,13393716,0.0,0.77445,1047,0.04,,,,,-49.753696,,,,,,,none,,,,,,,,https://www.leapfrogspac.com,2026-10-31T18:06:01.713460+00:00
+0.00,LFAC,Leapfrog Acquisition Corporation,Financial Services,Shell Companies,United States,198355600,10.1,33940,31857,321755.7,,,,0.0,0.0,0.0,,,924963,0,,6.641,6.21,-130762,,14847500,13393716,0.00269,0.77921,1047,0.04,,,,,-54.010696,,,,,,,none,,,,,,,,https://www.leapfrogspac.com,2026-11-10T10:55:40.798546+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-26,9.95,10.00,9.88,9.90,,,,,,,0,10.0000,0,578,,,,
 2026-01-27,9.91,9.91,9.88,9.88,,,,,,,0,10.0000,0,347,,,,
@@ -211,3 +211,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.10,10.10,10.10,10.10,10.10,10.09,10.07,10.00,,10.0939,1,10.0830,1,,235,0.0098,0.0108,-0.0010
 2026-11-03,10.09,10.09,10.09,10.09,10.10,10.09,10.07,10.01,,10.0985,0,10.0833,1,758,250,0.0086,0.0104,-0.0018
 2026-11-04,10.09,10.09,10.09,10.09,10.10,10.09,10.07,10.01,,10.0976,0,10.0837,1,,250,0.0075,0.0098,-0.0023
+2026-11-05,10.10,10.10,10.10,10.10,10.10,10.09,10.07,10.01,,10.0901,1,10.0840,1,1658,283,0.0074,0.0093,-0.0019
+2026-11-06,10.15,10.15,10.10,10.10,10.10,10.10,10.07,10.01,,10.1489,0,10.0843,1,1011,304,0.0072,0.0089,-0.0017
+2026-11-09,10.10,10.10,10.10,10.10,10.10,10.10,10.08,10.01,,10.1215,0,10.0869,1,,304,0.0069,0.0085,-0.0015
+2026-11-10,10.10,10.10,10.10,10.10,10.10,10.10,10.08,10.01,,10.1193,0,10.0895,1,152,306,0.0067,0.0081,-0.0014

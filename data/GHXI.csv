@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0034999999,125000,1237499,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0021,75000,742499,1.0\n2,2026-09-30,ABC Arbitrage SA,0.0008,30000,296999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0138,494500,4895549,1.0\n1,2026-09-30,Periscope Capital Inc.,0.0092,330000,3266999,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0069999998,250000,2474999,1.0\n3,2026-09-30,Gritstone Asset Management LLC,0.0034999999,125000,1237499,1.0\n4,2026-09-30,Deltec Asset Management LLC,0.0021,75000,742499,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0008,30000,296999,1.0\n
 mutualfund_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0011,41232,408196,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0062300004\ninstitutionsPercentHeld,0.0055400003\ninstitutionsFloatPercentHeld,0.00557\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.0070599997\ninstitutionsPercentHeld,0.059070002\ninstitutionsFloatPercentHeld,0.05949\ninstitutionsCount,7.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GHXI,Gores Holdings XI Inc.,Financial Services,Shell Companies,United States,446242496,9.9,196970,94021,930807.9,,,,0.0,0.0,0.0,,,1123701,0,,,,,,36105000,,0.0062300004,0.0055400003,1218,0.03,,,,,-17.647058,,,,,,,none,,,,,,,,,2026-10-31T16:20:48.154431+00:00
+0.00,GHXI,Gores Holdings XI Inc.,Financial Services,Shell Companies,United States,446242496,9.9,8020,87621,867447.9,,,,0.0,0.0,0.0,,,1123701,0,,,,,,36105000,,0.0070599997,0.059070002,1218,0.03,,,,,-17.647058,,,,,,,none,,,,,,,,,2026-11-10T09:59:54.377421+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-13,9.98,10.88,9.94,9.95,,,,,,,0,9.9400,1,119,,,,
 2026-08-14,10.08,10.08,10.08,10.08,,,,,,,0,9.9400,1,8,,,,
@@ -73,3 +73,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.90,9.91,9.90,9.90,9.90,9.94,,,,9.9512,0,10.2376,0,515,,-0.0296,-0.0275,-0.0021
 2026-11-03,9.94,9.94,9.92,9.93,9.90,9.94,,,,9.9512,0,10.2173,0,209,,-0.0261,-0.0272,0.0011
 2026-11-04,9.92,9.92,9.92,9.92,9.90,9.93,,,,9.9512,0,10.1983,0,2,,-0.0240,-0.0266,0.0026
+2026-11-05,9.90,9.90,9.90,9.90,9.90,9.93,,,,9.9512,0,10.1804,0,64,,-0.0236,-0.0260,0.0024
+2026-11-06,9.90,9.90,9.90,9.90,9.90,9.92,,,,9.9488,0,10.1636,0,,,-0.0230,-0.0254,0.0024
+2026-11-09,9.90,9.90,9.90,9.90,9.90,9.92,,,,9.9439,0,10.1478,0,,,-0.0223,-0.0248,0.0025
+2026-11-10,9.90,9.90,9.90,9.90,9.90,9.91,,,,9.9395,0,10.1329,0,,,-0.0215,-0.0241,0.0026

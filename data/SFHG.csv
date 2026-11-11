@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0124,28042,56644,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0049,10962,22143,1.0\n2,2026-06-30,UBS Group AG,0.0007,1500,3029,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,2,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0124,28042,54681,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0049,10962,21375,1.0\n2,2026-06-30,UBS Group AG,0.0007,1500,2925,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-27 09:30:00-05:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.67,SFHG,Samfine Creation Holdings Group Limited,Industrials,Specialty Business Services,Hong Kong,8201200,2.02,4290,181010,365640.2,-0.06,,,0.1889,-0.15597,-0.15896,-0.52095,-0.07779,28929438,59878624,159.956,1.071,0.662,-10742876,-4450484,2260000,1219299,0.55259,0.01792,3237,0.35,0.0027,,,0.049742088,1.71914,0.237,-2.265,,,,,none,,,,,,,1.923,https://www.1398.cn,2026-10-31T19:55:40.211767+00:00
+26.43,SFHG,Samfine Creation Holdings Group Limited,Industrials,Specialty Business Services,Hong Kong,7917000,1.95,4200,180689,352343.55,-0.06,,,0.1889,-0.15597,-0.15896,-0.52095,-0.07779,28929438,59878624,159.956,1.071,0.662,-10742876,-4450484,2260000,1219299,0.55259,0.01792,3237,0.35,0.0027,,,0.04801835,1.659566,0.236,-2.248,,,,,none,,,,,,,1.898,https://www.1398.cn,2026-11-10T12:44:16.630477+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-15,24.95,34.60,23.10,26.50,,,,,,,0,23.1000,1,10113,,,,
 2024-10-16,28.00,31.95,28.00,31.90,,,,,,,0,23.1000,1,3369,,,,
@@ -530,3 +530,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,2.04,2.04,2.03,2.03,2.05,2.07,2.24,2.38,2.64,2.2287,0,2.1236,0,3,540,-0.0563,-0.0619,0.0056
 2026-11-03,2.00,2.05,2.00,2.03,2.05,2.07,2.23,2.38,2.63,2.2144,0,2.1155,0,13,540,-0.0545,-0.0605,0.0059
 2026-11-04,2.03,2.03,2.01,2.01,2.04,2.07,2.22,2.37,2.61,2.1959,0,2.1080,0,2,540,-0.0541,-0.0592,0.0051
+2026-11-05,1.68,2.09,1.46,2.00,2.04,2.06,2.21,2.37,2.60,2.1228,0,2.1009,0,11,539,-0.0539,-0.0581,0.0042
+2026-11-06,1.99,1.99,1.98,1.99,2.03,2.05,2.21,2.37,2.59,2.1228,0,2.0900,0,1,539,-0.0544,-0.0574,0.0030
+2026-11-09,2.01,2.04,1.95,1.95,2.02,2.04,2.20,2.36,2.58,2.1228,0,2.0900,0,5,539,-0.0569,-0.0573,0.0004
+2026-11-10,2.01,2.01,1.96,1.96,2.01,2.04,2.19,2.36,2.57,2.1228,0,2.0396,0,5,539,-0.0574,-0.0573,-0.0001

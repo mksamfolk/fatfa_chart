@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18180000,0.0\n1,2026-06-30,Linden Advisors LP,0.0465,1100000,11110000,0.0\n2,2026-06-30,Picton Mahoney Asset Management,0.044,1040000,10504000,0.0146\n3,2026-06-30,AQR Arbitrage LLC,0.0373,881189,8900009,0.012\n4,2026-06-30,Kryger Capital LLC,0.0364,861748,8703655,-0.0629\n5,2026-06-30,Magnetar Financial LLC,0.033800002,800000,8080000,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.0296,700000,7070000,0.0\n7,2026-06-30,Alberta Investment Management Corp,0.0254,600000,6060000,0.0\n8,2026-06-30,"Westchester Capital Management, LLC",0.0254,600000,6060000,1.4\n9,2026-06-30,BNP Paribas Financial Markets,0.0227,536353,5417165,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18269999,0.0\n1,2026-06-30,Linden Advisors LP,0.0465,1100000,11164999,0.0\n2,2026-06-30,Picton Mahoney Asset Management,0.044,1040000,10555999,0.0146\n3,2026-06-30,AQR Arbitrage LLC,0.0373,881189,8944068,0.012\n4,2026-06-30,Kryger Capital LLC,0.0364,861748,8746741,-0.0629\n5,2026-06-30,Magnetar Financial LLC,0.033800002,800000,8119999,0.0\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0325,769361,7809013,1.1637\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.0296,700000,7104999,0.0\n8,2026-06-30,Alberta Investment Management Corp,0.0254,600000,6089999,0.0\n9,2026-06-30,"Westchester Capital Management, LLC",0.0254,600000,6089999,1.4\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0209,494562,4995076,1.3963001\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0073,172592,1743179,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,100000,1010000,0.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0042,100000,1010000,0.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0011999999,27475,277497,1.3858\n5,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0011,26254,265165,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0011,26347,266104,1.39\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0008,18311,184941,1.5108\n8,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,14388,145318,-0.040799998\n9,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,14070,142107,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0209,494562,5019804,1.3963001\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0073,172592,1751808,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,100000,1014999,0.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0042,100000,1014999,0.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0011999999,27475,278871,1.3858\n5,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0011,26254,266478,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0011,26347,267422,1.39\n7,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0008,18311,185856,1.5108\n8,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,14388,146038,-0.040799998\n9,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,14070,142810,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.86377\ninstitutionsFloatPercentHeld,0.86377\ninstitutionsCount,63.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.86747\ninstitutionsFloatPercentHeld,0.86747\ninstitutionsCount,62.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AEAQ,Activate Energy Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,316247872,10.1,106540,37307,376800.7,,,,0.0,0.0,0.0,,,412631,0,,5.703,4.184,-835958,,23645000,21460077,0.0,0.86377,818,0.02,0.0001,,,,-42.083336,,,,,,,none,,,,,,,,https://activateenergy.us,2026-10-31T13:54:13.873276+00:00
+0.00,AEAQ,Activate Energy Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,317813408,10.15,25030,39510,401026.5,,,,0.0,0.0,0.0,,,412631,0,,5.703,4.184,-835958,,23645000,21460077,0.0,0.86747,818,0.02,0.0001,,,,-42.291664,,,,,,,none,,,,,,,,https://activateenergy.us,2026-11-10T07:39:39.188305+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-26,9.94,10.00,9.91,9.91,,,,,,,0,9.9100,1,2664,,,,
 2026-01-27,10.03,10.03,9.92,9.92,,,,,,,0,9.9100,1,322,,,,
@@ -211,3 +211,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.10,10.10,10.10,10.10,10.10,10.09,10.08,10.00,,10.0842,1,10.1000,0,,295,0.0064,0.0067,-0.0003
 2026-11-03,10.10,10.10,10.10,10.10,10.10,10.09,10.08,10.00,,10.0858,1,10.1000,0,488,304,0.0061,0.0066,-0.0005
 2026-11-04,10.13,10.15,10.13,10.15,10.11,10.10,10.08,10.01,,10.1097,1,10.0800,1,48,305,0.0098,0.0072,0.0026
+2026-11-05,10.13,10.13,10.10,10.11,10.11,10.10,10.09,10.01,,10.1097,1,10.0814,1,1613,338,0.0094,0.0077,0.0018
+2026-11-06,10.11,10.11,10.11,10.11,10.11,10.10,10.09,10.01,,10.1097,1,10.0828,1,,337,0.0090,0.0079,0.0011
+2026-11-09,10.15,10.15,10.15,10.15,10.11,10.10,10.09,10.01,,10.1097,1,10.0841,1,7,323,0.0118,0.0087,0.0031
+2026-11-10,10.12,10.12,10.12,10.12,10.11,10.11,10.09,10.01,,10.1097,1,10.0854,1,405,329,0.0114,0.0092,0.0022

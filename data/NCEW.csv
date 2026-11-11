@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,300,5175,-0.025999999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,300,4953,-0.025999999\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-14 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.56,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,55200000,17.25,70,1926,33223.5,0.335,,,0.00282,-0.01846,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,8.9999994e-05,15172,40.89,0.0116,,,1.077005,11.107534,1.1,-5.922,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-10-31T18:41:02.410552+00:00
+96.70,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,52832000,16.51,60,329,5431.790000000001,0.335,,,0.00282,-0.01846,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,8.9999994e-05,15172,40.89,0.0116,,,1.0308031,10.631037,1.059,-5.704,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-11-10T11:29:59.124956+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-18,32.00,33.20,17.28,20.32,,,,,,,0,17.2800,1,3291,,,,
 2024-12-19,20.16,24.00,20.16,20.80,,,,,,,0,17.2800,1,909,,,,
@@ -485,3 +485,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,17.98,17.99,16.51,16.51,17.04,16.89,17.11,16.07,13.91,17.5807,0,18.4133,0,10,40,-0.0500,-0.0516,0.0015
 2026-11-03,16.51,16.51,16.51,16.51,17.04,16.87,17.10,16.13,13.97,17.2526,0,18.3374,0,,40,-0.0838,-0.0580,-0.0258
 2026-11-04,16.51,16.51,16.51,16.51,16.97,16.85,17.09,16.18,14.02,17.1789,0,18.2645,0,,40,-0.1093,-0.0683,-0.0410
+2026-11-05,16.51,16.51,16.51,16.51,16.90,16.84,17.08,16.23,14.08,17.1125,0,18.1945,0,,5,-0.1281,-0.0802,-0.0478
+2026-11-06,16.51,16.51,16.51,16.51,16.84,16.82,17.07,16.29,14.13,17.0527,0,18.1273,0,,5,-0.1413,-0.0924,-0.0489
+2026-11-09,16.51,16.51,16.51,16.51,16.77,16.81,17.08,16.34,14.18,16.9955,0,18.0628,0,3,5,-0.1504,-0.1040,-0.0464
+2026-11-10,16.51,16.51,16.51,16.51,16.71,16.79,17.08,16.39,14.23,16.9469,0,17.9697,0,,5,-0.1559,-0.1144,-0.0415

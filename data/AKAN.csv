@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-01-16,7816,2026-01-16\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,205,213,-0.5941\n1,2026-09-30,Hickory Point Bank & Trust                          ,0.0001,200,207,1.0\n2,2026-06-30,Morgan Stanley,0.0,2,2,1.0\n3,2026-06-30,Wells Fargo & Company,0.0,13,13,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,205,166,-0.5941\n1,2026-09-30,Hickory Point Bank & Trust                          ,0.0001,200,161,1.0\n2,2026-06-30,Morgan Stanley,0.0,2,1,1.0\n3,2026-06-30,Wells Fargo & Company,0.0,13,10,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,1,0,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-03-09 09:30:00-05:00,0.1\n2024-05-23 09:30:00-04:00,0.025\n2024-11-14 09:30:00-05:00,0.5\n2025-08-26 09:30:00-04:00,0.32\n2026-01-12 09:30:00-05:00,0.2\n2026-04-13 09:30:00-04:00,0.222\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.95,AKAN,Akanda Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,14049393,1.04,652470,1357321,1411613.84,,,,-0.119899996,-11.91479,0.0,,-0.82128996,755238,18570828,,0.224,0.193,-9548120,-7426529,13257777,709911,0.00587,0.00078,52279,0.05,0.0219,,,21.207623,-0.053694047,26.231,-2.197,,,,,none,,,,,,,14.189,https://www.akandacorp.com,2026-10-31T14:01:12.168519+00:00
+0.65,AKAN,Akanda Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,2137440,0.8098,98750,1362985,1103745.253,,,,-0.119899996,-11.91479,0.0,,-0.82128996,755238,18570828,,0.224,0.193,-9548120,-7426529,2388212,709911,0.00587,0.00078,52279,0.05,0.0219,,,3.2264755,-0.04180908,25.958,-2.174,,,,,none,,,,,,,14.257,https://www.akandacorp.com,2026-11-10T07:46:53.379986+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-15,1689189.25,1745495.50,460585.59,591216.19,,,,,,,0,460585.5938,1,14189,,,,
 2022-03-16,731081.06,1120495.50,551801.81,619932.44,,,,,,,0,460585.5938,1,81211,,,,
@@ -1180,3 +1180,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.05,1.09,1.02,1.04,1.08,1.30,3.11,9.69,8.92,1.5988,0,1.1500,0,67,5288,-0.6749,-0.8137,0.1389
 2026-11-03,1.02,1.14,1.01,1.08,1.08,1.26,3.02,9.68,8.87,1.5988,0,1.0000,1,123,5288,-0.6344,-0.7779,0.1435
 2026-11-04,1.08,1.11,0.95,1.00,1.06,1.22,2.94,9.66,8.83,1.5536,0,1.1400,0,98,5288,-0.6019,-0.7427,0.1408
+2026-11-05,1.02,1.02,0.82,0.85,1.03,1.17,2.85,9.64,8.78,1.4514,0,1.1400,0,124,5285,-0.5813,-0.7104,0.1291
+2026-11-06,0.86,0.88,0.81,0.84,1.02,1.13,2.76,9.62,8.73,1.3468,0,1.1272,0,67,5284,-0.5595,-0.6802,0.1207
+2026-11-09,0.82,0.82,0.79,0.81,0.99,1.08,2.68,9.60,8.68,1.2698,0,1.1084,0,65,5283,-0.5385,-0.6519,0.1134
+2026-11-10,0.84,0.85,0.72,0.74,0.96,1.05,2.59,9.58,8.63,1.2422,0,1.0827,0,124,5283,-0.5216,-0.6258,0.1042

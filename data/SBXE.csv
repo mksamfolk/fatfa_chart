@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.063,1750000,17692499,0.0\n1,2026-06-30,"Tenor Capital Management Co., L.p.",0.0594,1650000,16681499,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.048600003,1350000,13648499,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0378,1050000,10615499,0.0\n4,2026-06-30,Linden Advisors LP,0.036,1000000,10109999,0.0\n5,2026-06-30,Sculptor Capital LP,0.036,999999,10109989,0.0\n6,2026-06-30,Magnetar Financial LLC,0.036,999990,10109898,0.0\n7,2026-06-30,Glazer Capital LLC,0.033,918162,9282617,0.16610001\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0309,858000,8674379,0.7058\n9,2026-06-30,"Moore Capital Management, LP",0.028800001,800000,8087999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.063,1750000,17709999,0.0\n1,2026-06-30,"Tenor Capital Management Co., L.p.",0.0594,1650000,16697999,0.0\n2,2026-09-30,Alberta Investment Management Corp,0.048600003,1350000,13661999,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0378,1050000,10625999,0.0\n4,2026-06-30,Linden Advisors LP,0.036,1000000,10119999,0.0\n5,2026-06-30,Sculptor Capital LP,0.036,999999,10119989,0.0\n6,2026-06-30,Magnetar Financial LLC,0.036,999990,10119898,0.0\n7,2026-06-30,Glazer Capital LLC,0.033,918162,9291799,0.16610001\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0309,858000,8682959,0.7058\n9,2026-06-30,"Moore Capital Management, LP",0.028800001,800000,8095999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0062,172638,1745370,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,26235,265235,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0062,172638,1747096,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,26235,265498,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0070200004\ninstitutionsPercentHeld,0.82824\ninstitutionsFloatPercentHeld,0.83409\ninstitutionsCount,46.0\n
+,Value\ninsidersPercentHeld,0.008450001\ninstitutionsPercentHeld,0.81901\ninstitutionsFloatPercentHeld,0.82598996\ninstitutionsCount,46.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SBXE,SilverBox Corp V,Financial Services,Shell Companies,United States,350766432,10.11,19750,25209,254862.99,,,,0.0,0.0,0.0,,,383385,0,,10.425,9.261,-569680,,27795000,25849857,0.0070200004,0.82824,105,0.0,0.0,,,,-16.073132,,,,,,,none,,,,,,,,,2026-10-31T19:51:44.807615+00:00
+0.00,SBXE,SilverBox Corp V,Financial Services,Shell Companies,United States,351113408,10.12,51470,30285,306484.19999999995,,,,0.0,0.0,0.0,,,383385,0,,10.425,9.261,-569680,,27795000,25849857,0.008450001,0.81901,105,0.0,0.0,,,,-16.08903,,,,,,,none,,,,,,,,,2026-11-10T12:40:16.103869+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,10.00,10.05,9.88,9.96,,,,,,,0,9.8800,1,149,,,,
 2026-01-26,9.91,9.92,9.91,9.92,,,,,,,0,9.8800,1,62,,,,
@@ -212,3 +212,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.11,10.12,10.11,10.12,10.11,10.12,10.10,10.05,,10.0944,1,10.1400,0,1969,262,0.0004,0.0010,-0.0007
 2026-11-03,10.12,10.12,10.11,10.11,10.11,10.12,10.11,10.05,,10.0944,1,10.1390,0,356,268,0.0002,0.0009,-0.0007
 2026-11-04,10.11,10.11,10.11,10.11,10.11,10.12,10.11,10.05,,10.0944,1,10.1380,0,,264,0.0000,0.0007,-0.0007
+2026-11-05,10.12,10.13,10.12,10.12,10.11,10.12,10.11,10.05,,10.1015,1,10.1371,0,1215,289,0.0007,0.0007,0.0000
+2026-11-06,10.12,10.12,10.12,10.12,10.11,10.12,10.11,10.05,,10.1015,1,10.1361,0,1,289,0.0012,0.0008,0.0004
+2026-11-09,10.12,10.12,10.12,10.12,10.11,10.11,10.11,10.05,,10.1015,1,10.1352,0,,289,0.0016,0.0010,0.0007
+2026-11-10,10.12,10.12,10.12,10.12,10.11,10.11,10.11,10.05,,10.1029,1,10.1343,0,405,297,0.0019,0.0012,0.0008

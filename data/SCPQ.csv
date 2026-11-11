@@ -1,5 +1,5 @@
 balance_sheet
-,2025-12-31\nOrdinary Shares Number,3333333.0\nShare Issued,3333333.0\nTangible Book Value,97472826.0\nInvested Capital,97472826.0\nWorking Capital,913235.0\nNet Tangible Assets,97472826.0\nCommon Stock Equity,97472826.0\nTotal Capitalization,97472826.0\nTotal Equity Gross Minority Interest,97472826.0\nStockholders Equity,97472826.0\nRetained Earnings,-2587133.0\nAdditional Paid In Capital,0.0\nCapital Stock,100059959.0\nCommon Stock,100059959.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,3646629.0\nTotal Non Current Liabilities Net Minority Interest,3500000.0\nNon Current Deferred Liabilities,3500000.0\nCurrent Liabilities,146629.0\nPayables And Accrued Expenses,146629.0\nCurrent Accrued Expenses,123785.0\nPayables,22844.0\nDueto Related Parties Current,22844.0\nTotal Assets,101119455.0\nTotal Non Current Assets,100059591.0\nOther Non Current Assets,100059591.0\nCurrent Assets,1059864.0\nPrepaid Assets,33917.0\nCash Cash Equivalents And Short Term Investments,1025947.0\nCash And Cash Equivalents,1025947.0\nCash Financial,1025947.0\n
+,2025-12-31\nOrdinary Shares Number,13683333.0\nShare Issued,13683333.0\nTangible Book Value,97472826.0\nInvested Capital,97472826.0\nWorking Capital,913235.0\nNet Tangible Assets,97472826.0\nCommon Stock Equity,97472826.0\nTotal Capitalization,97472826.0\nTotal Equity Gross Minority Interest,97472826.0\nStockholders Equity,97472826.0\nRetained Earnings,-2587133.0\nAdditional Paid In Capital,0.0\nCapital Stock,100059959.0\nCommon Stock,100059959.0\nPreferred Stock,0.0\nTotal Liabilities Net Minority Interest,3646629.0\nTotal Non Current Liabilities Net Minority Interest,3500000.0\nNon Current Deferred Liabilities,3500000.0\nCurrent Liabilities,146629.0\nPayables And Accrued Expenses,146629.0\nCurrent Accrued Expenses,123785.0\nPayables,22844.0\nDueto Related Parties Current,22844.0\nTotal Assets,101119455.0\nTotal Non Current Assets,100059591.0\nOther Non Current Assets,100059591.0\nCurrent Assets,1059864.0\nPrepaid Assets,33917.0\nCash Cash Equivalents And Short Term Investments,1025947.0\nCash And Cash Equivalents,1025947.0\nCash Financial,1025947.0\n
 dividends
 Date,Dividends\n
 income_stmt
@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.079,817948,8293993,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0651,673644,6830750,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.048299998,500000,5070000,0.0\n3,2026-06-30,"RiverNorth Capital Management, LLC",0.048299998,500000,5070000,0.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,500000,5070000,0.0\n5,2026-06-30,Sona Asset Management (US) LLC,0.0462,477971,4846626,0.0\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0436,451467,4577875,0.1245\n7,2026-06-30,Millennium Management Llc,0.038599998,400000,4056000,1.0\n8,2026-06-30,"Radcliffe Capital Management, L.P.",0.038599998,399861,4054590,0.0\n9,2026-06-30,Linden Advisors LP,0.036199998,375000,3802500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.079,817948,8293993,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0651,673644,6830750,0.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0556,575000,5830500,1.0909\n3,2026-06-30,"RiverNorth Capital Management, LLC",0.048299998,500000,5070000,0.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,500000,5070000,0.0\n5,2026-09-30,Alberta Investment Management Corp,0.048299998,500000,5070000,0.0\n6,2026-06-30,Sona Asset Management (US) LLC,0.0462,477971,4846626,0.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0436,451467,4577875,0.1245\n8,2026-06-30,Millennium Management Llc,0.038599998,400000,4056000,1.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.038599998,399861,4054590,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0097,100000,1014000,0.0\n
 recommendations
@@ -15,19 +15,19 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31\nFree Cash Flow,-141532.0,-478493.0\nRepayment Of Debt,0.0,-22844.0\nEnd Cash Position,383078.0,524610.0\nBeginning Cash Position,524610.0,1025947.0\nChanges In Cash,-141532.0,-501337.0\nFinancing Cash Flow,0.0,-22844.0\nCash Flow From Continuing Financing Activities,0.0,-22844.0\nNet Issuance Payments Of Debt,0.0,-22844.0\nNet Long Term Debt Issuance,0.0,-22844.0\nLong Term Debt Payments,0.0,-22844.0\nOperating Cash Flow,-141532.0,-478493.0\nCash Flow From Continuing Operating Activities,-141532.0,-478493.0\nChange In Working Capital,24889.0,-205797.0\nChange In Other Working Capital,0.0,-33500.0\nChange In Payables And Accrued Expense,-50270.0,94559.0\nChange In Accrued Expense,-50270.0,94559.0\nChange In Prepaid Assets,75159.0,-266856.0\nOther Non Cash Items,-893459.0,-880040.0\nNet Income From Continuing Operations,727038.0,607344.0\n
+,2026-09-30,2026-06-30,2026-03-31\nFree Cash Flow,21.0,-141532.0,-478493.0\nRepayment Of Debt,0.0,0.0,-22844.0\nEnd Cash Position,349599.0,383078.0,524610.0\nBeginning Cash Position,383078.0,524610.0,1025947.0\nChanges In Cash,-33479.0,-141532.0,-501337.0\nFinancing Cash Flow,-33500.0,0.0,-22844.0\nCash Flow From Continuing Financing Activities,-33500.0,0.0,-22844.0\nNet Issuance Payments Of Debt,0.0,0.0,-22844.0\nNet Long Term Debt Issuance,0.0,0.0,-22844.0\nLong Term Debt Payments,0.0,0.0,-22844.0\nOperating Cash Flow,21.0,-141532.0,-478493.0\nCash Flow From Continuing Operating Activities,21.0,-141532.0,-478493.0\nChange In Working Capital,127517.0,24889.0,-205797.0\nChange In Other Working Capital,,0.0,-33500.0\nChange In Payables And Accrued Expense,20958.0,-50270.0,94559.0\nChange In Accrued Expense,20958.0,-50270.0,94559.0\nChange In Prepaid Assets,73059.0,75159.0,-266856.0\nOther Non Cash Items,-930488.0,-893459.0,-880040.0\nNet Income From Continuing Operations,802992.0,727038.0,607344.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.81775004\ninstitutionsFloatPercentHeld,0.81775004\ninstitutionsCount,35.0\n
+,Value\ninsidersPercentHeld,0.00386\ninstitutionsPercentHeld,0.80902\ninstitutionsFloatPercentHeld,0.81216\ninstitutionsCount,34.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SCPQ,Social Commerce Partners Corporation,Financial Services,Shell Companies,United States,138749008,10.14,20300,15018,152282.52000000002,,,,0.0,0.0,0.0,,,383078,0,,7.228,6.997,-176400,,10350000,9282089,0.0,0.81775004,39,0.0,0.0,,,,-45.882355,,,,,,,none,,,,,,,,https://socialcommercepartnerscorp.com,2026-10-31T19:52:45.015463+00:00
+0.00,SCPQ,Social Commerce Partners Corporation,Financial Services,Shell Companies,United States,138749008,10.14,10,13740,139323.6,,,,0.0,0.0,0.0,,,349599,0,,7.228,6.997,-176400,,10350000,9282089,0.00386,0.80902,39,0.0,0.0,,,,-53.650795,,,,,,,none,,,,,,,,https://socialcommercepartnerscorp.com,2026-11-10T12:41:18.029282+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,10.00,10.00,9.90,9.91,,,,,,,0,10.0000,0,68,,,,
 2026-02-13,9.86,9.87,9.85,9.87,,,,,,,0,10.0000,0,48,,,,
@@ -198,3 +198,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.14,10.14,10.14,10.14,10.13,10.10,10.05,9.98,,10.1221,1,10.0779,1,,127,0.0277,0.0245,0.0032
 2026-11-03,10.14,10.14,10.14,10.14,10.14,10.10,10.06,9.98,,10.1239,1,10.0816,1,,127,0.0271,0.0251,0.0021
 2026-11-04,10.14,10.14,10.14,10.14,10.14,10.11,10.06,9.98,,10.1255,1,10.0851,1,,127,0.0264,0.0253,0.0010
+2026-11-05,10.14,10.14,10.14,10.14,10.14,10.11,10.06,9.99,,10.1269,1,10.0884,1,,127,0.0254,0.0253,0.0001
+2026-11-06,10.14,10.14,10.14,10.14,10.14,10.11,10.07,9.99,,10.1282,1,10.0915,1,,110,0.0244,0.0252,-0.0007
+2026-11-09,10.14,10.14,10.14,10.14,10.14,10.12,10.07,9.99,,10.1294,1,10.0944,1,,110,0.0234,0.0248,-0.0014
+2026-11-10,10.14,10.14,10.14,10.14,10.14,10.12,10.07,9.99,,10.1305,1,10.0972,1,,110,0.0223,0.0243,-0.0020

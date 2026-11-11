@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0764,1575000,15781500,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0758,1562429,15655539,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0458,944550,9464391,0.0\n3,2026-06-30,AQR Arbitrage LLC,0.039,804016,8056240,1.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0388,800000,8016000,0.0\n5,2026-06-30,Sona Asset Management (US) LLC,0.0388,800000,8016000,0.0\n6,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0315,650000,6513000,1.0\n7,2026-06-30,Alberta Investment Management Corp,0.0291,600000,6012000,1.0\n8,2026-06-30,Kryger Capital LLC,0.027,557058,5581721,1.0\n9,2026-06-30,Millennium Management Llc,0.026700001,550000,5511000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0764,1575000,15781500,0.0\n1,2026-06-30,"Aristeia Capital, LLC",0.0758,1562429,15655539,1.0\n2,2026-06-30,Magnetar Financial LLC,0.0458,944550,9464391,0.0\n3,2026-09-30,"Wolverine Asset Management, LLC",0.0436,899652,9014513,1.1789\n4,2026-06-30,AQR Arbitrage LLC,0.039,804016,8056240,1.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0388,800000,8016000,0.0\n6,2026-06-30,Sona Asset Management (US) LLC,0.0388,800000,8016000,0.0\n7,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0315,650000,6513000,1.0\n8,2026-06-30,Alberta Investment Management Corp,0.0291,600000,6012000,1.0\n9,2026-06-30,Kryger Capital LLC,0.027,557058,5581721,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0105,215704,2161354,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0073,150000,1503000,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0049,100000,1002000,1.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0049,100000,1002000,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,34296,343645,0.0\n5,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2653,26583,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0105,215704,2161354,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0073,150000,1503000,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0049,100000,1002000,1.0\n3,2026-06-30,First Trust Alternative Opportunities Fund,0.0049,100000,1002000,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0017,34296,343645,0.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2653,26583,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.83548\ninstitutionsFloatPercentHeld,0.83548\ninstitutionsCount,49.0\n
+,Value\ninsidersPercentHeld,0.0019400001\ninstitutionsPercentHeld,0.84163004\ninstitutionsFloatPercentHeld,0.84327006\ninstitutionsCount,48.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MUZE,Muzero Acquisition Corp,Financial Services,Shell Companies,United States,273748512,10.02,330,26089,261411.78,,,,0.0,0.0,0.0,,,839267,0,,0.017,0.0,-159524,,20611875,17138513,0.0,0.83548,71,0.0,,,,,-44.533337,,,,,,,none,,,,,,,,https://muzerocapital.com,2026-10-31T18:37:06.065270+00:00
+0.00,MUZE,Muzero Acquisition Corp,Financial Services,Shell Companies,United States,273748512,10.02,10110,27618,276732.36,,,,0.0,0.0,0.0,,,839267,0,,0.017,0.0,-159524,,20611875,17138513,0.0019400001,0.84163004,71,0.0,,,,,-44.533337,,,,,,,none,,,,,,,,https://muzerocapital.com,2026-11-10T11:26:01.739500+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-23,9.86,9.86,9.80,9.82,,,,,,,0,9.8600,0,96,,,,
 2026-03-24,9.84,9.86,9.78,9.83,,,,,,,0,9.8600,0,1884,,,,
@@ -172,3 +172,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0088,1,10.0371,0,,225,0.0054,0.0061,-0.0006
 2026-11-03,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0099,1,10.0366,0,252,230,0.0052,0.0059,-0.0007
 2026-11-04,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0110,1,10.0360,0,,229,0.0050,0.0057,-0.0007
+2026-11-05,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0119,1,10.0355,0,752,244,0.0048,0.0055,-0.0007
+2026-11-06,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0127,1,10.0350,0,,244,0.0046,0.0053,-0.0008
+2026-11-09,10.02,10.02,10.02,10.02,10.02,10.02,10.01,,,10.0134,1,10.0345,0,,244,0.0043,0.0051,-0.0008
+2026-11-10,10.02,10.02,10.02,10.02,10.02,10.02,10.01,,,10.0141,1,10.0340,0,1002,264,0.0041,0.0049,-0.0008

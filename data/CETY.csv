@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Beacon Pointe Advisors, LLC",0.0076,92327,84248,0.0\n1,2026-06-30,"Geode Capital Management, LLC",0.006,73456,67028,-0.096499994\n2,2026-06-30,Vanguard Fiduciary Trust Co,0.0053,64794,59124,3.3806\n3,2026-06-30,Vanguard Capital Management LLC,0.0034999999,42360,38653,3.2297\n4,2026-06-30,Xtx Topco Ltd,0.0015,18348,16742,0.1319\n5,2026-06-30,HRT Financial LP,0.0011999999,14679,13394,1.0\n6,2026-06-30,Northern Trust Corporation,0.0011,13254,12094,1.0\n7,2026-06-30,UBS Group AG,0.0,358,326,-0.62240005\n8,2026-06-30,Barclays Plc,0.0,272,248,1.0\n9,2026-09-30,TD Waterhouse Canada Inc.,0.0,1,0,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Beacon Pointe Advisors, LLC",0.0076,92327,87461,0.0\n1,2026-09-30,"Geode Capital Management, LLC",0.0063,77051,72990,0.048899997\n2,2026-06-30,Vanguard Fiduciary Trust Co,0.0053,64794,61379,3.3806\n3,2026-06-30,Vanguard Capital Management LLC,0.0034999999,42360,40127,3.2297\n4,2026-06-30,Xtx Topco Ltd,0.0015,18348,17381,0.1319\n5,2026-06-30,HRT Financial LP,0.0011999999,14679,13905,1.0\n6,2026-06-30,Northern Trust Corporation,0.0011,13254,12555,1.0\n7,2026-09-30,Citigroup Inc.,0.0004,5441,5154,1.0\n8,2026-06-30,UBS Group AG,0.0,358,339,-0.62240005\n9,2026-09-30,TD Waterhouse Canada Inc.,0.0,1,0,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0044,53110,48462,-0.0053\n1,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0032,39360,35916,6.0197997\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0005,6116,5580,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0004,4848,4423,0.8783\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0044,53000,50206,-0.0021\n1,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0032,39360,37285,6.0197997\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0005,6116,5793,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0004,4848,4592,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.14445\ninstitutionsPercentHeld,0.02996\ninstitutionsFloatPercentHeld,0.03502\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.14445\ninstitutionsPercentHeld,0.03068\ninstitutionsFloatPercentHeld,0.03586\ninstitutionsCount,12.0\n
 news
-[\n  {\n    "uuid": "8a9d2838-216f-3d35-a4bd-9ae291cf6229",\n    "title": "Pulp Mill Closure Incentivizes Developing Alternative Vermont Forestry Markets",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/energy/articles/pulp-mill-closure-incentivizes-developing-124500793.html",\n    "providerPublishTime": 1785847500,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/539afcb8bc38132948e8506a28609e83",\n          "width": 638,\n          "height": 588,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/6D0118D8C4BE17C9695D8B2F3B0BCABF1F78A9AF94AA49DCB73BAE90B665FF55/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F539afcb8bc38132948e8506a28609e83",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "CETY"\n    ]\n  }\n]\n
+[]\n
 splits
 Date,Stock Splits\n2025-10-06 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.73,CETY,Clean Energy Technologies Inc.,Industrials,Specialty Industrial Machinery,United States,11101572,0.9125,9810,19279,17592.087499999998,0.574,,,-0.01375,-2.033,-2.59342,-0.99583,-0.12635,22536,3902470,65.15,0.995,0.329,-8046469,-4472363,12166106,10408712,0.14445,0.02996,15574,1.32,0.0015,,,4.2066517,1.8546748,5.677,-5.18,,,,,none,,,,,,,-1.483,https://www.cetyinc.com,2026-10-31T14:59:55.392735+00:00
+61.21,CETY,Clean Energy Technologies Inc.,Industrials,Specialty Industrial Machinery,United States,11524952,0.9473,15880,18440,17468.212,0.574,,,-0.01375,-2.033,-2.59342,-0.99583,-0.12635,22536,3902470,65.15,0.995,0.329,-8046469,-4472363,12166106,10408712,0.14445,0.03068,15574,1.32,0.0015,,,4.36708,1.9254065,5.837,-5.327,,,,,none,,,,,,,-1.471,https://www.cetyinc.com,2026-11-10T08:43:39.022353+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-19,67.05,81.68,67.05,77.25,,,,,,,0,81.6750,0,131,,,,
 2023-01-20,75.00,78.45,46.05,70.35,,,,,,,0,81.6750,0,1161,,,,
@@ -967,3 +967,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,0.90,0.95,0.88,0.88,0.91,0.94,0.97,0.88,0.85,1.0385,0,0.8267,1,4,20,-0.0227,-0.0184,-0.0044
 2026-11-03,0.88,0.95,0.85,0.89,0.90,0.94,0.96,0.88,0.85,1.0385,0,0.8300,1,55,21,-0.0229,-0.0193,-0.0036
 2026-11-04,0.90,0.96,0.86,0.86,0.89,0.93,0.96,0.88,0.85,1.0385,0,0.8332,1,5,20,-0.0260,-0.0206,-0.0054
+2026-11-05,0.86,0.90,0.83,0.86,0.89,0.92,0.96,0.88,0.85,1.0385,0,0.9900,0,17,20,-0.0277,-0.0221,-0.0057
+2026-11-06,0.89,0.89,0.84,0.89,0.89,0.92,0.96,0.88,0.85,1.0385,0,0.9868,0,10,20,-0.0266,-0.0230,-0.0036
+2026-11-09,0.89,1.00,0.82,0.95,0.90,0.92,0.96,0.88,0.85,1.0385,0,0.8300,1,45,20,-0.0206,-0.0225,0.0019
+2026-11-10,0.94,1.01,0.93,1.00,0.91,0.92,0.97,0.88,0.85,1.0385,0,0.8190,1,33,20,-0.0115,-0.0203,0.0088

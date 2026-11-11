@@ -23,11 +23,11 @@ insider_transactions
 major_holders
 ,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.066750005\ninstitutionsFloatPercentHeld,0.066750005\ninstitutionsCount,1.0\n
 news
-[\n  {\n    "uuid": "2c4a2c89-ff9f-3336-8bd0-d8d89f24cf23",\n    "title": "Pinnacle Acquisition Corporation Announces the Separate Trading of its Class A Ordinary Shares and Rights, Commencing September 25, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-acquisition-corporation-announces-separate-152300979.html",\n    "providerPublishTime": 1790349780,\n    "type": "STORY",\n    "relatedTickers": [\n      "PNAQ",\n      "PNAQ.RT"\n    ]\n  },\n  {\n    "uuid": "4f37c109-3941-3118-b431-f3644cd8cdad",\n    "title": "Pinnacle Acquisition Corporation Completes $200 Million Initial Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-acquisition-corporation-completes-200-201000053.html",\n    "providerPublishTime": 1786392600,\n    "type": "STORY",\n    "relatedTickers": [\n      "PNAQ-UN",\n      "PNAQ",\n      "PNAQ.RT"\n    ]\n  }\n]\n
+[\n  {\n    "uuid": "2c4a2c89-ff9f-3336-8bd0-d8d89f24cf23",\n    "title": "Pinnacle Acquisition Corporation Announces the Separate Trading of its Class A Ordinary Shares and Rights, Commencing September 25, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-acquisition-corporation-announces-separate-152300979.html",\n    "providerPublishTime": 1790349780,\n    "type": "STORY",\n    "relatedTickers": [\n      "PNAQ",\n      "PNAQ.RT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PNAQ,Pinnacle Acquisition Corporation,Financial Services,Shell Companies,United States,244500000,9.78,32690,19834,193976.52,,,,0.0,0.0,0.0,,,,85571,,,,,,20000000,,0.0,0.066750005,189,0.02,,,,,-1630.0,,,,,,,none,,,,,,,,,2026-10-31T19:21:16.386363+00:00
+0.00,PNAQ,Pinnacle Acquisition Corporation,Financial Services,Shell Companies,United States,245250016,9.81,30840,25500,250155.0,,,,0.0,0.0,0.0,,,,85571,,,,,,20000000,,0.0,0.066750005,189,0.02,,,,,-1635.0,,,,,,,none,,,,,,,,,2026-11-10T12:09:55.417916+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-25,9.80,10.00,9.80,9.95,,,,,,,0,10.0000,0,247,,,,
 2026-09-28,9.99,9.99,9.80,9.83,,,,,,,0,10.0000,0,63,,,,
@@ -58,3 +58,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.78,9.78,9.78,9.78,9.78,9.81,,,,9.8608,0,9.8667,0,,,,,
 2026-11-03,9.78,9.78,9.78,9.78,9.78,9.81,,,,9.8527,0,9.8597,0,,,,,
 2026-11-04,9.78,9.78,9.78,9.78,9.78,9.81,,,,9.8454,0,9.8531,0,,,,,
+2026-11-05,9.78,9.78,9.78,9.78,9.78,9.81,,,,9.8389,0,9.8469,0,,,,,
+2026-11-06,9.80,9.80,9.80,9.80,9.79,9.80,,,,9.8389,0,9.8411,0,3,,,,
+2026-11-09,9.81,9.81,9.81,9.81,9.79,9.80,,,,9.8389,0,9.8356,0,2943,,,,
+2026-11-10,9.81,9.81,9.81,9.81,9.79,9.80,,,,9.8389,0,9.8305,0,1,,,,

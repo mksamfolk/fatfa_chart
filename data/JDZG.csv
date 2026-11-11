@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0017,8629,8078,1.0\n1,2026-06-30,"Ground Swell Capital, LLC",0.00090000004,4819,4511,1.0\n2,2026-06-30,UBS Group AG,0.0008,3975,3721,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0001,339,317,83.75\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0,200,187,1.0\n5,2026-06-30,Royal Bank of Canada,0.0,100,93,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0017,8629,2154,1.0\n1,2026-06-30,"Ground Swell Capital, LLC",0.00090000004,4819,1203,1.0\n2,2026-06-30,UBS Group AG,0.0008,3975,992,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0001,339,84,83.75\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0,200,49,1.0\n5,2026-06-30,Royal Bank of Canada,0.0,100,24,1.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-12-31,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,1,0,0.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00095\ninstitutionsPercentHeld,0.00983\ninstitutionsFloatPercentHeld,0.00984\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.00095\ninstitutionsPercentHeld,0.008590001\ninstitutionsFloatPercentHeld,0.0086\ninstitutionsCount,6.0\n
 news
-[]\n
+[\n  {\n    "uuid": "73ae9317-bd1b-308e-a6a8-aeced1027789",\n    "title": "JIADE LIMITED Announces Pricing of $1.2 Million Registered Direct Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/jiade-limited-announces-pricing-1-185300641.html",\n    "providerPublishTime": 1794250380,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/4009e0f7bf9126342abea7037dffb01e.png",\n          "width": 1670,\n          "height": 719,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/6C70FC5A0C3B116C1D75670412F86C126E729B46F5518B3EEB7AC9CCC1E2C5F8/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F4009e0f7bf9126342abea7037dffb01e.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "JDZG"\n    ]\n  },\n  {\n    "uuid": "c0897dfe-5a7d-319b-a640-3ab739bb3ecf",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021871.html",\n    "providerPublishTime": 1794238221,\n    "type": "STORY",\n    "relatedTickers": [\n      "NVDA",\n      "JDZG",\n      "SHFS",\n      "HRTX",\n      "INLF",\n      "INTC",\n      "^IXIC",\n      "EDSA",\n      "IREN",\n      "GRAB",\n      "NTCL",\n      "XHLD",\n      "PLUG",\n      "ZURA",\n      "AAL"\n    ]\n  },\n  {\n    "uuid": "c0915414-eb80-37fe-9bd0-faa3933b1f5c",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153422188.html",\n    "providerPublishTime": 1793892862,\n    "type": "STORY",\n    "relatedTickers": [\n      "NVDA",\n      "INTC",\n      "NTCL",\n      "GRAB",\n      "IREN",\n      "^IXIC",\n      "PLCE",\n      "WULF",\n      "PLUG",\n      "ZNB",\n      "AMZN",\n      "CRWV",\n      "CIFR",\n      "JDZG"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-06-24 09:30:00-04:00,0.125\n2026-03-23 09:30:00-04:00,0.04\n2026-06-01 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JDZG,JIADE Limited,Consumer Defensive,Education & Training Services,China,5084981,0.9362,3287640,1145779,1072678.2998,0.662,,,0.45352,-0.44214,-0.4123,-0.10965,-0.06781,21457196,17203116,14.249,4.044,1.364,-93193,-93958056,5137303,407717,0.00095,0.00983,688109,0.58,0.134,,,0.19784755,0.0048467657,-0.144,0.33,,,,,none,,,,,,,2.029,https://www.sc-kb.cn,2026-10-31T17:49:56.679146+00:00
+0.00,JDZG,JIADE Limited,Consumer Defensive,Education & Training Services,China,1356248,0.2497,13496340,2746687,685847.7439,-0.118,,,0.42786,-6.32358,-2.30039,-0.40515,-0.23188,51837276,14635300,6.846,4.77,2.878,-5624597,-163351168,5137303,5132369,0.00095,0.008590001,688109,0.58,0.134,,,0.055149652,0.04238051,-1.455,0.627,,,,,none,,,,,,,,https://www.sc-kb.cn,2026-11-10T10:40:45.344204+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,3.14,3.35,3.00,3.01,,,,,,,0,3.0000,1,59,,,,
 2026-09-04,3.10,3.27,3.04,3.09,,,,,,,0,3.0000,1,179,,,,
@@ -57,4 +57,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-30,1.43,1.54,0.59,0.94,4.86,5.34,,,,3.6468,0,6.3000,0,15860,,,,
 2026-11-02,0.65,0.70,0.42,0.53,4.28,5.10,,,,3.0354,0,5.8434,0,2147,,,,
 2026-11-03,0.40,0.42,0.29,0.35,3.68,4.85,,,,2.6552,0,5.3010,0,784,,,,
-2026-11-04,0.33,0.37,0.30,0.30,3.06,4.59,,,,2.4267,0,4.6996,0,259,,,,
+2026-11-04,0.33,0.37,0.30,0.30,3.06,4.59,,,,2.4267,0,4.6996,0,263,,,,
+2026-11-05,0.35,0.43,0.33,0.40,2.44,4.33,,,,2.3043,0,4.1703,0,31769,,,,
+2026-11-06,0.34,0.38,0.16,0.21,1.81,4.05,,,,2.0691,0,3.7045,0,5032,,,,
+2026-11-09,0.34,0.42,0.15,0.25,1.22,3.78,,,,1.9829,0,3.2083,0,50120,,,,
+2026-11-10,0.20,0.23,0.19,0.21,0.63,3.49,,,,1.7605,0,2.7190,0,1581,,,,

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0014,23472,34738,-0.0841\n1,2026-06-30,Morgan Stanley,0.0011999999,20000,29600,1.0\n2,2026-06-30,Blackrock Inc.,0.001,17499,25898,1.0\n3,2026-06-30,Virtu Financial LLC,0.0008,13204,19541,1.0\n4,2026-06-30,Citadel Advisors Llc,0.0007,11157,16512,1.0\n5,2026-06-30,UBS Group AG,0.0,100,148,-0.48720002\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0014,23472,35442,-0.0841\n1,2026-06-30,Morgan Stanley,0.0011999999,20000,30199,1.0\n2,2026-06-30,Blackrock Inc.,0.001,17499,26423,1.0\n3,2026-06-30,Virtu Financial LLC,0.0008,13204,19938,1.0\n4,2026-06-30,Citadel Advisors Llc,0.0007,11157,16847,1.0\n5,2026-06-30,UBS Group AG,0.0,100,150,-0.48720002\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,iShares Trust-iShares Micro-Cap ETF,0.00090000004,15411,22808,-0.0396\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4082,6041,0.0\n2,2026-06-30,EQ Advisors Trust-1290 VT Micro Cap Portfolio,0.0001,1346,1992,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,iShares Trust-iShares Micro-Cap ETF,0.00090000004,15411,23270,-0.0396\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,4082,6163,0.0\n2,2026-06-30,EQ Advisors Trust-1290 VT Micro Cap Portfolio,0.0001,1346,2032,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-71.92,KMRK,K-TECH Solutions Company Limited,Consumer Cyclical,Leisure,Hong Kong,31228000,1.48,47200,101267,149875.16,-0.15,,,0.13727,0.13461,0.01061,0.034649998,0.01954,9152503,994590,14.008,3.687,3.681,847514,997257,16600000,4600011,0.72289,0.0053899996,17550,0.09,0.0038,148.0,,1.933009,4.391691,1.428,59.279,,,,,none,,,,,,,,https://www.k-mark.tech,2026-10-31T17:56:58.942416+00:00
+72.67,KMRK,K-TECH Solutions Company Limited,Consumer Cyclical,Leisure,Hong Kong,31861000,1.51,54280,94412,142562.12,-0.15,,,0.13727,0.13461,0.01061,0.034649998,0.01954,9152503,994590,14.008,3.687,3.681,847514,997257,16600000,4600011,0.72289,0.0053899996,17550,0.09,0.0038,151.0,,1.9721916,4.480712,1.467,60.905,,,,,none,,,,,,,,https://www.k-mark.tech,2026-11-10T10:47:29.188714+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-16,4.48,5.50,4.10,4.95,,,,,,,0,4.1000,1,12037,,,,
 2025-07-17,4.39,4.60,4.38,4.45,,,,,,,0,4.1000,1,846,,,,
@@ -344,3 +344,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.47,1.66,1.38,1.51,1.44,1.36,1.23,1.66,1.67,1.2065,1,1.6990,0,84,74,0.0883,0.0766,0.0117
 2026-11-03,1.55,1.60,1.45,1.51,1.45,1.38,1.24,1.65,1.67,1.2065,1,1.6990,0,71,74,0.0880,0.0789,0.0092
 2026-11-04,1.41,1.63,1.41,1.56,1.47,1.40,1.25,1.65,1.67,1.2065,1,1.6926,0,45,73,0.0909,0.0813,0.0096
+2026-11-05,1.51,1.52,1.46,1.50,1.49,1.42,1.26,1.64,1.67,1.2065,1,1.6864,0,23,67,0.0872,0.0825,0.0048
+2026-11-06,1.55,1.62,1.55,1.55,1.51,1.44,1.26,1.64,1.68,1.2065,1,1.6802,0,32,64,0.0874,0.0834,0.0040
+2026-11-09,1.54,1.54,1.49,1.51,1.52,1.45,1.27,1.64,1.68,1.2065,1,1.6742,0,12,63,0.0833,0.0834,-0.0001
+2026-11-10,1.47,1.51,1.46,1.46,1.51,1.46,1.27,1.63,1.68,1.2065,1,1.6684,0,26,62,0.0752,0.0818,-0.0066

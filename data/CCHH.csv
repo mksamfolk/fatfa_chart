@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,NG YAH LING,Director,,Purchase,2026-08-07,469987,2026-08-07\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.00059999997,11831,10520,0.4113\n1,2026-06-30,Xtx Topco Ltd,0.0004,6599,5867,0.0353\n2,2026-06-30,"Renaissance Technologies, LLC",0.0002,3581,3184,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.0002,4373,3888,0.2195\n4,2026-06-30,Stonex Group Inc.,0.0001,1759,1564,1.0\n5,2026-06-30,UBS Group AG,0.0,408,362,-0.8642\n6,2026-09-30,"Bell Investment Advisors, Inc",0.0,77,68,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.00059999997,11831,8918,0.4113\n1,2026-06-30,Xtx Topco Ltd,0.0004,6599,4974,0.0353\n2,2026-06-30,"Renaissance Technologies, LLC",0.0002,3581,2699,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.0002,4373,3296,0.2195\n4,2026-06-30,UBS Group AG,0.0,408,307,-0.8642\n5,2026-09-30,"Bell Investment Advisors, Inc",0.0,77,58,1.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1166,1036,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1166,878,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,469987,592184,,Purchase at price 1.26 per share.,NG YAH LING,Director,,2026-08-07,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.11188\ninstitutionsPercentHeld,0.0016\ninstitutionsFloatPercentHeld,0.0018000001\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.11188\ninstitutionsPercentHeld,0.0015\ninstitutionsFloatPercentHeld,0.00169\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "ab97753d-8013-3433-81a6-b2021a6ef4a4",\n    "title": "CCH Holdings Ltd Announces Subsequent Closing of US$2.5 Million Convertible Promissory Note and Warrant Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/cch-holdings-ltd-announces-subsequent-182000044.html",\n    "providerPublishTime": 1790792400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/f70cde9fd2f5dfad6a760f081cb0143a.jpg",\n          "width": 292,\n          "height": 102,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/7F991BA385A96F247A3C5CF5E0C774BAA6EDC18E9734D0220FB2A5159E76467C/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Ff70cde9fd2f5dfad6a760f081cb0143a.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "CCHH"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-07-13 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.91,CCHH,CCH Holdings Ltd,Consumer Cyclical,Restaurants,Malaysia,3417818,0.8892,24230,108323,96320.8116,0.101,,,0.19291,-0.47877,-0.27997,-0.34955,-0.10005999,684724,4960173,54.292,2.108,0.927,-527838,-1756620,3843700,1788815,0.11188,0.0016,4331,0.1,0.00029999999,,,0.35640618,0.21375,0.65,-3.171,,,,,none,,,,,,,,https://www.chickenclaypothouse.com.my,2026-10-31T14:56:11.209653+00:00
+5.41,CCHH,CCH Holdings Ltd,Consumer Cyclical,Restaurants,Malaysia,15464755,0.7538,16960,42114,31745.5332,0.101,,,0.19291,-0.47877,-0.27997,-0.34955,-0.10005999,684724,4960173,54.292,2.108,0.927,-527838,-1756620,17876727,1788815,0.11188,0.0015,4331,0.1,0.00029999999,,,1.612647,0.18120192,0.619,-3.019,,,,,none,,,,,,,,https://www.chickenclaypothouse.com.my,2026-11-10T08:40:00.057941+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-03,53.20,82.50,40.80,44.40,,,,,,,0,82.5000,0,18685,,,,
 2025-10-06,41.70,41.70,36.80,37.20,,,,,,,0,82.5000,0,1641,,,,
@@ -288,3 +288,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,0.91,0.91,0.86,0.86,0.90,0.94,1.14,3.39,4.05,1.1626,0,1.0400,0,3,155,-0.0903,-0.1073,0.0169
 2026-11-03,0.90,0.90,0.85,0.85,0.90,0.93,1.13,3.35,4.03,1.1392,0,1.0363,0,12,154,-0.0894,-0.1037,0.0143
 2026-11-04,0.85,0.89,0.85,0.85,0.89,0.93,1.12,3.31,4.01,1.1203,0,1.0289,0,10,152,-0.0877,-0.1005,0.0128
+2026-11-05,0.81,0.85,0.80,0.81,0.88,0.92,1.11,3.26,3.99,1.0658,0,1.0217,0,7,151,-0.0885,-0.0981,0.0096
+2026-11-06,0.78,0.79,0.74,0.74,0.87,0.90,1.10,3.22,3.96,1.0004,0,1.0084,0,16,150,-0.0940,-0.0973,0.0032
+2026-11-09,0.72,0.79,0.72,0.75,0.86,0.89,1.09,3.18,3.94,0.9894,0,0.9866,0,10,48,-0.0959,-0.0970,0.0011
+2026-11-10,0.73,0.78,0.73,0.78,0.85,0.88,1.08,3.14,3.91,0.9819,0,0.9600,0,22,45,-0.0941,-0.0964,0.0023

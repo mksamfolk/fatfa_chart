@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.075,1500000,15015000,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.075,1500000,15015000,1.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.075,1500000,15015000,1.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0625,1250000,12512500,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.05,1000000,10010000,1.0\n5,2026-06-30,"Highbridge Capital Management, LLC.",0.0427,853469,8543224,1.0\n6,2026-06-30,Magnetar Financial LLC,0.0375,750000,7507500,1.0\n7,2026-06-30,AQR Arbitrage LLC,0.0335,669994,6706640,1.0\n8,2026-06-30,Jain Global LLC,0.03,600000,6006000,1.0\n9,2026-06-30,BNP Paribas Financial Markets,0.026500002,530000,5305300,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.075,1500000,15030000,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.075,1500000,15030000,1.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.075,1500000,15030000,1.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0625,1250000,12525000,1.0\n4,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.05,1000000,10020000,1.0\n5,2026-06-30,"Highbridge Capital Management, LLC.",0.0427,853469,8551759,1.0\n6,2026-06-30,Magnetar Financial LLC,0.0375,750000,7515000,1.0\n7,2026-06-30,AQR Arbitrage LLC,0.0335,669994,6713340,1.0\n8,2026-06-30,Jain Global LLC,0.03,600000,6012000,1.0\n9,2026-06-30,BNP Paribas Financial Markets,0.026500002,530000,5310600,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7198,72051,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,7198,72123,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.78777003\ninstitutionsFloatPercentHeld,0.78777003\ninstitutionsCount,38.0\n
+,Value\ninsidersPercentHeld,0.001\ninstitutionsPercentHeld,0.79033\ninstitutionsFloatPercentHeld,0.79112\ninstitutionsCount,38.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QADR,QDRO Acquisition Corp.,Financial Services,Shell Companies,United States,250250000,10.01,46160,16834,168508.34,,,,0.0,0.0,0.0,,,377377,0,,0.037,,0,,20000000,13580000,0.0,0.78777003,12427,1.03,0.00059999997,,,,-31.980831,,,,,,,none,,,,,,,,,2026-10-31T19:29:47.742817+00:00
+0.00,QADR,QDRO Acquisition Corp.,Financial Services,Shell Companies,United States,250500016,10.02,7300,17907,179428.13999999998,,,,0.0,0.0,0.0,,,377377,0,,0.037,,0,,20000000,13580000,0.001,0.79033,12427,1.03,0.00059999997,,,,-32.012783,,,,,,,none,,,,,,,,,2026-11-10T12:18:37.078139+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,9.87,9.90,9.86,9.89,,,,,,,0,9.9000,0,3263,,,,
 2026-05-21,9.85,9.85,9.85,9.85,,,,,,,0,9.9000,0,2,,,,
@@ -131,3 +131,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.01,10.01,10.01,10.01,10.01,10.01,9.99,,,10.0015,1,9.9828,1,,162,0.0069,0.0080,-0.0010
 2026-11-03,10.01,10.01,10.01,10.01,10.01,10.01,9.99,,,10.0024,1,9.9850,1,,162,0.0066,0.0077,-0.0011
 2026-11-04,10.01,10.01,10.01,10.01,10.01,10.01,9.99,,,10.0031,1,9.9871,1,,161,0.0063,0.0074,-0.0011
+2026-11-05,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0108,1,9.9891,1,731,175,0.0068,0.0073,-0.0005
+2026-11-06,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0117,1,9.9909,1,,175,0.0071,0.0072,-0.0002
+2026-11-09,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0126,1,9.9927,1,,175,0.0072,0.0072,-0.0000
+2026-11-10,10.02,10.02,10.02,10.02,10.01,10.01,9.99,,,10.0133,1,9.9943,1,,175,0.0073,0.0072,0.0000

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Renaissance Technologies, LLC",0.00090000004,12329,27247,-0.1467\n1,2026-06-30,Xtx Topco Ltd,0.0004,5422,11982,-0.15\n2,2026-06-30,UBS Group AG,0.0001,1216,2687,-0.216\n3,2026-06-30,"Two Sigma Securities, LLC",0.0001,1198,2647,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Renaissance Technologies, LLC",0.00090000004,12329,28048,-0.1467\n1,2026-06-30,Xtx Topco Ltd,0.0004,5422,12335,-0.15\n2,2026-06-30,UBS Group AG,0.0001,1216,2766,-0.216\n3,2026-06-30,"Two Sigma Securities, LLC",0.0001,1198,2725,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-28 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.66,FBGL,FBS Global Limited,Industrials,Engineering & Construction,Singapore,2983500,2.21,10760,232098,512936.58,2.267,,,0.10159001,-0.121800005,-0.07874,-0.2365,-0.05545,4038181,147626,1.141,1.605,1.181,-4112965,-8022348,1350000,658436,0.51227003,0.014939999,62738,0.1,0.0953,,,0.11536809,0.29452,-0.035,0.514,,,,,none,,,,,,,,https://www.fbsglobal.com.sg,2026-10-31T15:57:59.087255+00:00
+98.61,FBGL,FBS Global Limited,Industrials,Engineering & Construction,Singapore,3071250,2.275,7430,230811,525095.025,2.267,,,0.10159001,-0.121800005,-0.07874,-0.2365,-0.05545,4038181,147626,1.141,1.605,1.181,-4112965,-8022348,1350000,658436,0.51227003,0.014939999,62738,0.1,0.0953,,,0.11876127,0.30318236,-0.032,0.464,,,,,none,,,,,,,,https://www.fbsglobal.com.sg,2026-11-10T09:39:05.956214+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-06,4.26,5.45,3.25,3.45,,,,,,,0,5.4500,0,9759,,,,
 2025-02-07,3.42,3.85,1.63,1.75,,,,,,,0,5.4500,0,5010,,,,
@@ -453,3 +453,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,2.24,2.34,2.14,2.14,2.23,2.68,1.38,0.85,0.87,2.9619,0,2.1079,1,24,309,0.1787,0.3110,-0.1323
 2026-11-03,2.19,2.21,2.12,2.19,2.20,2.61,1.42,0.87,0.87,2.8866,0,3.7370,0,12,306,0.1598,0.2807,-0.1209
 2026-11-04,2.23,2.23,2.11,2.11,2.18,2.54,1.45,0.88,0.88,2.8532,0,3.7047,0,8,301,0.1369,0.2520,-0.1151
+2026-11-05,2.14,2.29,2.10,2.16,2.17,2.47,1.48,0.89,0.89,2.8532,0,3.6409,0,36,299,0.1217,0.2259,-0.1042
+2026-11-06,2.10,2.22,2.10,2.18,2.16,2.40,1.52,0.90,0.89,2.8007,0,3.5484,0,7,299,0.1097,0.2027,-0.0930
+2026-11-09,2.15,2.29,2.07,2.28,2.17,2.34,1.55,0.91,0.90,2.8007,0,3.4615,0,23,299,0.1065,0.1834,-0.0769
+2026-11-10,2.22,2.26,2.10,2.22,2.17,2.28,1.59,0.92,0.90,2.8007,0,3.3498,0,20,298,0.0985,0.1665,-0.0680

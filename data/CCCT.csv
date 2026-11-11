@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0013,30000,296099,1.0\n1,2026-09-30,Gritstone Asset Management LLC,0.0011,25000,246749,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.019,450000,4423499,1.0\n1,2026-09-30,Periscope Capital Inc.,0.016900001,399600,3928067,1.0\n2,2026-09-30,First Trust Capital Management L.P.,0.0116,274998,2703230,1.0\n3,2026-09-30,ABC Arbitrage SA,0.0013,30000,294899,1.0\n4,2026-09-30,Gritstone Asset Management LLC,0.0011,25000,245749,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11269,111225,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0021,49998,491480,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11269,110774,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.05687\ninstitutionsFloatPercentHeld,0.05687\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.10439\ninstitutionsFloatPercentHeld,0.10453\ninstitutionsCount,7.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,309243552,9.87,2200,44489,439106.43,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.0,0.05687,299,0.01,0.0,,,,-1233.7499,,,,,,,none,,,,,,,,,2026-10-31T14:55:41.395632+00:00
+0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,307990304,9.83,18490,39293,386250.19,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.00127,0.10439,299,0.01,0.0,,,,-1228.7499,,,,,,,none,,,,,,,,,2026-11-10T08:39:38.053905+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-31,10.05,10.05,9.80,9.81,,,,,,,0,10.0500,0,167,,,,
 2026-08-03,9.80,9.83,9.80,9.80,,,,,,,0,10.0500,0,88,,,,
@@ -82,3 +82,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.85,9.85,9.85,9.85,9.86,9.86,9.84,,,9.8649,0,9.8948,0,558,407,0.0060,0.0068,-0.0009
 2026-11-03,9.85,9.85,9.83,9.84,9.86,9.86,9.85,,,9.8594,0,9.8929,0,678,418,0.0038,0.0062,-0.0024
 2026-11-04,9.83,9.84,9.83,9.84,9.86,9.86,9.85,,,9.8555,0,9.8910,0,198,422,0.0021,0.0054,-0.0033
+2026-11-05,9.83,9.83,9.83,9.83,9.86,9.86,9.85,,,9.8514,0,9.8892,0,170,347,-0.0001,0.0043,-0.0044
+2026-11-06,9.83,9.83,9.83,9.83,9.85,9.86,9.85,,,9.8493,0,9.8874,0,,331,-0.0018,0.0031,-0.0049
+2026-11-09,9.83,9.83,9.83,9.83,9.85,9.85,9.85,,,9.8474,0,9.8857,0,,330,-0.0031,0.0018,-0.0049
+2026-11-10,9.84,9.84,9.84,9.84,9.85,9.85,9.85,,,9.8474,0,9.8840,0,746,141,-0.0033,0.0008,-0.0041

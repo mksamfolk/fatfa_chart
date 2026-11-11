@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,ABC Arbitrage SA,0.0070999996,30000,303900,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0714,301121,3077456,1.0\n1,2026-09-30,"Context Capital Management, LLC",0.0652,275000,2810500,1.0\n2,2026-09-30,"Geode Capital Management, LLC",0.012,50607,517203,1.0\n3,2026-09-30,ABC Arbitrage SA,0.0070999996,30000,306600,1.0\n4,2026-09-30,Warberg Asset Management LLC,0.0064999997,27568,281744,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.059299998,250000,2532500,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.012,50607,512648,-0.0367\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0016,6744,68316,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.059299998,250000,2555000,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.012,50607,517203,0.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0016,6744,68923,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.28166\ninstitutionsPercentHeld,0.021429999\ninstitutionsFloatPercentHeld,0.02984\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.28432\ninstitutionsPercentHeld,0.14961\ninstitutionsFloatPercentHeld,0.20905\ninstitutionsCount,10.0\n
 news
 [\n  {\n    "uuid": "261a6f97-c327-3413-ba1c-791f1f28e9fd",\n    "title": "FortuneX Acquisition Corporation and WT Realty Group Inc. Announce Business Combination Agreement",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/real-estate/articles/fortunex-acquisition-corporation-wt-realty-004000149.html",\n    "providerPublishTime": 1789778400,\n    "type": "STORY",\n    "relatedTickers": [\n      "FXAC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,127961440,10.13,43740,40721,412503.73000000004,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28166,0.021429999,700,0.03,0.0001,,,,1.5203362,,,,,,,none,,,,,,,,,2026-10-31T16:15:30.866768+00:00
+0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,129098320,10.22,49150,38446,392918.12000000005,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28432,0.14961,700,0.03,0.0001,,,,1.5338436,,,,,,,none,,,,,,,,,2026-11-10T09:55:01.467989+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-07,10.00,10.03,10.00,10.00,,,,,,,0,10.0300,0,81,,,,
 2026-07-08,10.00,10.01,9.97,10.00,,,,,,,0,10.0300,0,2671,,,,
@@ -100,3 +100,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.14,10.14,10.13,10.13,10.12,10.11,10.08,,,10.0958,1,10.1827,0,528,377,0.0135,0.0126,0.0008
 2026-11-03,10.13,10.14,10.13,10.14,10.12,10.11,10.08,,,10.0958,1,10.1792,0,435,385,0.0144,0.0130,0.0014
 2026-11-04,10.14,10.14,10.14,10.14,10.12,10.11,10.08,,,10.0958,1,10.1758,0,,385,0.0150,0.0134,0.0016
+2026-11-05,10.22,10.22,10.13,10.13,10.12,10.11,10.09,,,10.1081,1,10.0100,1,598,397,0.0146,0.0136,0.0009
+2026-11-06,10.14,10.14,10.13,10.14,10.13,10.12,10.09,,,10.1081,1,10.0142,1,10,398,0.0148,0.0139,0.0009
+2026-11-09,10.22,10.22,10.22,10.22,10.14,10.12,10.09,,,10.1391,1,10.0183,1,1,337,0.0212,0.0153,0.0059
+2026-11-10,10.14,10.17,10.14,10.15,10.14,10.13,10.09,,,10.1391,1,10.0223,1,5351,440,0.0204,0.0163,0.0040

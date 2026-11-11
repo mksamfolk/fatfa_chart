@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.108,1094190,11719869,1.6980001\n1,2026-06-30,Mizuho Securities USA LLC,0.098000005,993296,10639193,0.4656\n2,2026-06-30,"Karpus Management, Inc.",0.0962,974765,10440708,-0.56810004\n3,2026-06-30,"Westchester Capital Management, LLC",0.060300004,611605,6550901,0.66830003\n4,2026-06-30,"RiverNorth Capital Management, LLC",0.0493,499664,5351901,-0.0002\n5,2026-06-30,"Wolverine Asset Management, LLC",0.048899997,495488,5307172,-0.1735\n6,2026-06-30,Polar Asset Management Partners Inc.,0.037,375000,4016625,0.0714\n7,2026-06-30,AQR Arbitrage LLC,0.035099998,356213,3815397,0.0054\n8,2026-06-30,RLH Capital LLC,0.0249,252439,2703874,5.1066\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0173,175159,1876128,0.00090000004\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.108,1094190,11751600,1.6980001\n1,2026-06-30,"Karpus Management, Inc.",0.0962,974765,10468975,-0.56810004\n2,2026-09-30,Mizuho Securities USA LLC,0.0691,700000,7517999,-0.2953\n3,2026-06-30,"Westchester Capital Management, LLC",0.060300004,611605,6568637,0.66830003\n4,2026-06-30,"RiverNorth Capital Management, LLC",0.0493,499664,5366391,-0.0002\n5,2026-09-30,"Wolverine Asset Management, LLC",0.048,486294,5222797,-0.0186\n6,2026-06-30,Polar Asset Management Partners Inc.,0.037,375000,4027499,0.0714\n7,2026-06-30,AQR Arbitrage LLC,0.035099998,356213,3825727,0.0054\n8,2026-06-30,Hudson Bay Capital Management Lp,0.0173,175159,1881207,0.00090000004\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.016900001,171612,1843112,0.0088\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0498,504953,5408551,0.78309995\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0099,100000,1071100,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0044,45000,481995,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0033000002,33242,356055,0.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0028,28869,309215,0.8222\n5,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0021,20801,222799,0.3959\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0011999999,11784,126218,0.0\n7,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,3058,32754,2.1755\n8,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,3049,32657,0.0\n9,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0002,2164,23178,-0.040799998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0498,504953,5423195,0.78309995\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0099,100000,1073999,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0044,45000,483299,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0033000002,33242,357019,0.0\n4,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0028,28869,310053,0.8222\n5,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0021,20801,223402,0.3959\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0011999999,11784,126560,0.0\n7,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,3058,32842,2.1755\n8,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,3049,32746,0.0\n9,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0002,2164,23241,-0.040799998\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.36805\ninstitutionsPercentHeld,0.67499\ninstitutionsFloatPercentHeld,1.06811\ninstitutionsCount,26.0\n
+,Value\ninsidersPercentHeld,0.36805\ninstitutionsPercentHeld,0.63162\ninstitutionsFloatPercentHeld,0.99948\ninstitutionsCount,26.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.77,QSEA,,Financial Services,Shell Companies,United States,108550824,10.711,2140,7471,80021.88100000001,,0.571,0.439,0.0,0.0,0.0,,,848,425000,,0.037,0.0,-446977,,10134518,7004573,0.36805,0.67499,358,0.03,0.0001,63.005886,,,-22.692797,,,,,,,none,,,,,,,,https://www.quartzsea.com,2026-10-31T19:31:31.092352+00:00
+59.24,QSEA,,Financial Services,Shell Companies,United States,108844720,10.74,820,5512,59198.880000000005,,0.571,0.439,0.0,0.0,0.0,,,848,425000,,0.037,0.0,-446977,,10134518,7004573,0.36805,0.63162,358,0.03,0.0001,63.176468,,,-22.754236,,,,,,,none,,,,,,,,https://www.quartzsea.com,2026-11-10T12:20:17.899933+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-12,10.00,10.02,9.96,10.00,,,,,,,0,9.9600,1,3268,,,,
 2025-05-13,9.98,9.99,9.97,9.99,,,,,,,0,9.9600,1,34301,,,,
@@ -388,3 +388,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.71,10.71,10.71,10.71,10.72,10.70,10.66,10.52,10.46,10.6705,1,10.6617,1,,62,0.0185,0.0208,-0.0023
 2026-11-03,10.78,10.79,10.73,10.76,10.72,10.70,10.66,10.53,10.46,10.6998,1,10.6670,1,60,47,0.0214,0.0209,0.0005
 2026-11-04,10.76,10.76,10.76,10.76,10.72,10.71,10.66,10.53,10.47,10.7058,1,10.6768,1,,36,0.0234,0.0214,0.0020
+2026-11-05,10.76,10.76,10.76,10.76,10.73,10.71,10.67,10.53,10.47,10.7113,1,10.6859,1,,36,0.0247,0.0221,0.0027
+2026-11-06,10.76,10.76,10.76,10.76,10.73,10.71,10.67,10.53,10.47,10.7161,1,10.6942,1,,36,0.0255,0.0228,0.0027
+2026-11-09,10.74,10.77,10.74,10.74,10.73,10.72,10.67,10.54,10.48,10.7161,1,10.7019,1,28,35,0.0242,0.0230,0.0011
+2026-11-10,10.74,10.74,10.74,10.74,10.74,10.72,10.67,10.54,10.48,10.7161,1,10.7089,1,,35,0.0229,0.0230,-0.0001

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Geode Capital Management, LLC",0.00059999997,12645,211550,0.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0,700,11710,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.00059999997,13420,241560,0.061300002\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0,700,12600,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13420,224516,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13420,241560,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.74537003\ninstitutionsPercentHeld,0.00062\ninstitutionsFloatPercentHeld,0.00243\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.74537003\ninstitutionsPercentHeld,0.00065\ninstitutionsFloatPercentHeld,0.00257\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "3df2fdd2-89ca-316b-b315-559346a6e0bf",\n    "title": "Phoenix Financial Ltd (XTAE:PHOE) (Q2 2026) Earnings Call Highlights: Record H1 Profit and ...",\n    "publisher": "GuruFocus.com",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/phoenix-financial-ltd-xtae-phoe-010226639.html",\n    "providerPublishTime": 1787878946,\n    "type": "STORY",\n    "relatedTickers": [\n      "PHOE.TA",\n      "PHOE"\n    ]\n  },\n  {\n    "uuid": "30a8ce78-2224-3814-8b07-3a55f4207080",\n    "title": "Phoenix Financial Reports Continued Strong Performance and Strategic Growth in the First Half of 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/phoenix-financial-reports-continued-strong-113000448.html",\n    "providerPublishTime": 1787657400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/a05e2e8c177b96d7bb68f93ad4ecfc1a.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/955622D303E61DC47747F53B815FA026FD1DCD4207495B57526F92AB1D6A3B16/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fa05e2e8c177b96d7bb68f93ad4ecfc1a.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "PHOE"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.71,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,361368000,16.73,1020,13382,223880.86000000002,0.032,,,0.04575,-0.38554,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00062,1112,0.18,0.0002,,,50.149956,58.70175,49.979,-304.81,,,,,none,,,,,,,,https://www.winfield.hk,2026-10-31T19:16:46.905312+00:00
+31.54,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,388800000,18.0,1030,10868,195624.0,0.032,,,0.04575,-0.38554,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00065,1112,0.18,0.0002,,,53.956917,63.157894,53.786,-328.028,,,,,none,,,,,,,,https://www.winfield.hk,2026-11-10T12:05:27.518272+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-25,7.00,7.37,3.22,3.65,,,,,,,0,7.3700,0,6101,,,,
 2025-04-28,3.13,3.95,2.52,3.00,,,,,,,0,7.3700,0,2643,,,,
@@ -399,3 +399,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,16.73,16.73,16.73,16.73,16.06,16.89,19.31,18.44,18.18,17.8346,0,17.5559,0,,304,-0.9586,-1.1035,0.1449
 2026-11-03,17.50,18.66,17.50,18.59,16.25,16.86,19.21,18.46,18.19,14.8416,1,14.1700,1,43,296,-0.7206,-1.0269,0.3064
 2026-11-04,18.59,18.59,18.59,18.59,16.43,16.89,19.15,18.47,18.20,15.6805,1,14.2598,1,,286,-0.5258,-0.9267,0.4009
+2026-11-05,17.75,18.29,17.75,18.29,16.67,16.90,19.12,18.49,18.21,15.6805,1,14.3478,1,35,273,-0.3916,-0.8197,0.4281
+2026-11-06,18.29,18.29,18.29,18.29,17.00,16.94,19.11,18.51,18.22,15.7011,1,14.4340,1,,259,-0.2820,-0.7121,0.4302
+2026-11-09,16.69,18.00,16.69,18.00,17.27,16.95,19.08,18.52,18.23,15.7011,1,14.5186,1,43,255,-0.2160,-0.6129,0.3969
+2026-11-10,18.00,18.00,18.00,18.00,17.53,16.96,19.07,18.53,18.24,15.7011,1,14.6014,1,,240,-0.1619,-0.5227,0.3608

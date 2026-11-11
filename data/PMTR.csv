@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.098400004,2440298,25569441,0.0\n1,2026-06-30,Fort Baker Capital Management LP,0.0635,1573684,16489060,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.060500003,1500000,15716999,0.0\n3,2026-06-30,Linden Advisors LP,0.060500003,1500000,15716999,0.0\n4,2026-06-30,Magnetar Financial LLC,0.060500003,1500000,15716999,0.0\n5,2026-06-30,"Moore Capital Management, LP",0.0484,1200000,12573599,0.0\n6,2026-06-30,Governors Lane LP,0.045100003,1116900,11702877,0.0\n7,2026-06-30,"Meteora Capital, LLC",0.0365,905419,9486979,0.29680002\n8,2026-06-30,Lineage Point Capital LP,0.028199999,700000,7334599,-0.045500003\n9,2026-06-30,"Saba Capital Management, L.P.",0.026199998,649940,6810071,-0.1925\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.098400004,2440298,25586523,0.0\n1,2026-06-30,Fort Baker Capital Management LP,0.0635,1573684,16500076,0.0\n2,2026-06-30,Linden Advisors LP,0.060500003,1500000,15727499,0.0\n3,2026-06-30,Magnetar Financial LLC,0.060500003,1500000,15727499,0.0\n4,2026-09-30,Alberta Investment Management Corp,0.060500003,1500000,15727499,0.0\n5,2026-06-30,"Moore Capital Management, LP",0.0484,1200000,12581999,0.0\n6,2026-06-30,Governors Lane LP,0.045100003,1116900,11710696,0.0\n7,2026-06-30,"Meteora Capital, LLC",0.0365,905419,9493317,0.29680002\n8,2026-09-30,Picton Mahoney Asset Management,0.033299997,825000,8650124,1.5385001\n9,2026-06-30,Lineage Point Capital LP,0.028199999,700000,7339499,-0.045500003\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.005,123197,1290858,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00029999999,6861,71889,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00029999999,7008,73429,0.0\n3,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,8123,85112,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0002,4671,48942,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0001,2466,25838,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,1272,13328,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0001,3123,32722,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.005,123197,1291720,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.00029999999,6861,71937,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.00029999999,7008,73478,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,8123,85169,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0002,4671,48975,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0001,2466,25856,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,1272,13336,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0001,3123,32744,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.90341\ninstitutionsFloatPercentHeld,0.90341\ninstitutionsCount,64.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.91413003\ninstitutionsFloatPercentHeld,0.91413003\ninstitutionsCount,63.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.55,PMTR,Perimeter Acquisition Corp. I,Financial Services,Shell Companies,United States,322989568,10.478,16420,58423,612156.194,,0.342,1.223,0.0,0.0,0.0,,,400309,483000,,0.598,0.443,-737796,,24788000,20773921,0.0,0.90341,11,0.0,0.0,37.42143,,,-34.695366,,,,,,,none,,,,,,,,https://www.perimeteracq.com,2026-10-31T19:20:58.536139+00:00
+54.25,PMTR,Perimeter Acquisition Corp. I,Financial Services,Shell Companies,United States,323205344,10.485,22680,61150,641157.75,,0.342,1.223,0.0,0.0,0.0,,,400309,483000,,0.598,0.443,-737796,,24788000,20773921,0.0,0.91413003,11,0.0,0.0,37.446426,,,-34.718544,,,,,,,none,,,,,,,,https://www.perimeteracq.com,2026-11-10T12:09:38.663874+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-20,11.00,11.00,10.09,10.20,,,,,,,0,10.0900,1,104,,,,
 2025-06-23,10.20,10.20,10.20,10.20,,,,,,,0,10.0900,1,,,,,
@@ -361,3 +361,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.48,10.48,10.48,10.48,10.46,10.45,10.42,10.38,10.37,10.4534,1,10.4335,1,528,375,0.0129,0.0097,0.0033
 2026-11-03,10.48,10.48,10.48,10.48,10.46,10.45,10.43,10.38,10.38,10.4583,1,10.4381,1,827,391,0.0138,0.0105,0.0033
 2026-11-04,10.49,10.50,10.49,10.49,10.46,10.45,10.43,10.38,10.38,10.4691,1,10.4423,1,31,389,0.0151,0.0114,0.0037
+2026-11-05,10.48,10.50,10.48,10.50,10.47,10.46,10.43,10.38,10.38,10.4691,1,10.4490,1,166,392,0.0167,0.0125,0.0043
+2026-11-06,10.49,10.49,10.49,10.49,10.47,10.46,10.43,10.39,10.38,10.4691,1,10.4561,1,524,403,0.0170,0.0134,0.0036
+2026-11-09,10.48,10.48,10.48,10.48,10.48,10.46,10.43,10.39,10.38,10.4691,1,10.4623,1,10,401,0.0167,0.0140,0.0026
+2026-11-10,10.48,10.48,10.48,10.48,10.48,10.46,10.44,10.39,10.38,10.4691,1,10.4675,1,56,402,0.0158,0.0144,0.0014

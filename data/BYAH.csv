@@ -5,11 +5,11 @@ Date,Dividends\n
 income_stmt
 ,2025-10-31,2024-10-31,2023-10-31,2022-10-31\nTax Effect Of Unusual Items,0.0,0.0,0.0,0.0\nTax Rate For Calcs,0.25,0.396839,0.278889,0.25\nNormalized EBITDA,-23974697.0,816107.0,1201632.0,220695.0\nNet Income From Continuing Operation Net Minority Interest,-24364753.0,478561.0,852042.0,191298.0\nReconciled Depreciation,109369.0,22686.0,20063.0,30491.0\nReconciled Cost Of Revenue,142526.0,195336.0,310989.0,509162.0\nEBITDA,-23974697.0,816107.0,1201632.0,220695.0\nEBIT,-24084066.0,793421.0,1181569.0,190204.0\nNet Interest Income,6056.0,783.0,1590.0,69.0\nInterest Expense,41.0,0.0,0.0,194.0\nInterest Income,6097.0,783.0,1590.0,263.0\nNormalized Income,-24364753.0,478561.0,852042.0,191298.0\nNet Income From Continuing And Discontinued Operation,-24364753.0,478561.0,852042.0,191298.0\nTotal Expenses,26673744.0,1588137.0,1278548.0,1722365.0\nTotal Operating Income As Reported,-24148901.0,793714.0,1180554.0,197024.0\nDiluted Average Shares,,524000.0,524000.0,524000.0\nBasic Average Shares,,524000.0,524000.0,524000.0\nDiluted EPS,,0.913284,1.626034,0.365073\nBasic EPS,,0.913284,1.626034,0.365073\nDiluted NI Availto Com Stockholders,-24364753.0,478561.0,852042.0,191298.0\nNet Income Common Stockholders,-24364753.0,478561.0,852042.0,191298.0\nNet Income,-24364753.0,478561.0,852042.0,191298.0\nNet Income Including Noncontrolling Interests,-24364753.0,478561.0,852042.0,191298.0\nNet Income Continuous Operations,-24364753.0,478561.0,852042.0,191298.0\nTax Provision,280646.0,314860.0,329527.0,-1288.0\nPretax Income,-24084107.0,793421.0,1181569.0,190010.0\nOther Income Expense,58738.0,-1076.0,-575.0,-7083.0\nOther Non Operating Income Expenses,58738.0,-1076.0,-575.0,-7083.0\nNet Non Operating Interest Income Expense,6056.0,783.0,1590.0,69.0\nInterest Expense Non Operating,41.0,0.0,0.0,194.0\nInterest Income Non Operating,6097.0,783.0,1590.0,263.0\nOperating Income,-24148901.0,793714.0,1180554.0,197024.0\nOperating Expense,26531218.0,1392801.0,967559.0,1213203.0\nProvision For Doubtful Accounts,184204.0,179903.0,152108.0,6442.0\nResearch And Development,238184.0,36714.0,30881.0,60671.0\nSelling General And Administration,26108830.0,1176184.0,784570.0,1146090.0\nSelling And Marketing Expense,625289.0,361327.0,299615.0,438603.0\nGeneral And Administrative Expense,25483541.0,814857.0,484955.0,707487.0\nOther Gand A,25483541.0,814857.0,484955.0,707487.0\nGross Profit,2382317.0,2186515.0,2148113.0,1410227.0\nCost Of Revenue,142526.0,195336.0,310989.0,509162.0\nTotal Revenue,2524843.0,2381851.0,2459102.0,1919389.0\nOperating Revenue,2524843.0,2381851.0,2459102.0,1919389.0\n
 insider_roster_holders
-""\n
+,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,ZHU XIAOYAN,Chief Financial Officer,,Stock Award(Grant),2026-08-03,112500,2026-08-03\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Virtu Financial LLC,0.0015,3555,7856,1.0\n1,2026-06-30,Morgan Stanley,0.0014,3127,6910,1562.5\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Virtu Financial LLC,0.0015,3555,7750,1.0\n1,2026-06-30,Morgan Stanley,0.0014,3127,6817,1562.5\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,338,746,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,338,736,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -19,7 +19,7 @@ cashflow
 earnings_dates
 ""\n
 insider_transactions
-""\n
+,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,112500,39892,,Stock Award(Grant) at price 0.35 per share.,ZHU XIAOYAN,Chief Financial Officer,,2026-08-03,D\n
 major_holders
 ,Value\ninsidersPercentHeld,0.30105\ninstitutionsPercentHeld,0.00198\ninstitutionsFloatPercentHeld,0.00283\ninstitutionsCount,3.0\n
 news
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-20 09:30:00-05:00,0.02\n2026-08-06 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.25,BYAH,Park Ha Biological Technology Co. Ltd.,Consumer Defensive,Household & Personal Products,China,43118956,2.21,5730,415021,917196.41,0.015,,,0.94899005,-0.76532996,-2.14169,-1.13036,-0.50738,5657495,186331,3.459,3.365,2.823,-273308,4130024,19463216,539060,0.30105,0.00198,29583,0.1,0.0015,,,16.953707,0.25254256,-1.616,0.789,,,,,none,,,,,,,,https://parkha.cn,2026-10-31T14:49:31.275639+00:00
+5.45,BYAH,Park Ha Biological Technology Co. Ltd.,Consumer Defensive,Household & Personal Products,China,42537536,2.1802,13050,141573,308657.4546,0.015,,,0.94899005,-0.76532996,-2.14169,-1.13036,-0.50738,5657495,186331,3.459,3.365,2.823,-273308,4130024,19463216,539060,0.30105,0.00198,29583,0.1,0.0015,,,16.725101,0.24913724,-1.623,0.793,,,,,none,,,,,,,,https://parkha.cn,2026-11-10T08:33:38.258218+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-27,1640.00,1784.00,1480.00,1628.00,,,,,,,0,1480.0000,1,7171,,,,
 2024-12-30,1680.00,2080.00,1568.00,1940.00,,,,,,,0,1480.0000,1,2025,,,,
@@ -479,3 +479,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,2.20,2.21,1.90,1.92,2.27,2.33,2.64,6.42,15.39,2.6825,0,3.2055,0,68,1448,-0.1695,-0.1749,0.0054
 2026-11-03,1.95,1.95,1.90,1.92,2.22,2.31,2.62,6.37,15.02,2.5030,0,3.1534,0,10,1439,-0.1830,-0.1765,-0.0065
 2026-11-04,2.05,2.26,2.05,2.26,2.20,2.29,2.61,6.32,14.66,2.5030,0,3.0782,0,97,1437,-0.1643,-0.1741,0.0097
+2026-11-05,2.35,2.35,1.96,2.09,2.17,2.27,2.60,6.27,14.32,2.5030,0,3.0075,0,25,1435,-0.1614,-0.1715,0.0101
+2026-11-06,2.30,2.30,2.10,2.16,2.16,2.26,2.58,6.22,13.99,2.5030,0,2.9411,0,9,355,-0.1518,-0.1676,0.0158
+2026-11-09,2.18,2.60,2.17,2.18,2.15,2.25,2.56,6.17,13.68,2.5030,0,2.8786,0,58,322,-0.1408,-0.1622,0.0214
+2026-11-10,2.76,3.70,1.53,1.95,2.12,2.22,2.53,6.13,13.35,2.5030,0,1.9000,1,6171,415,-0.1490,-0.1596,0.0106

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.1985,1673621,17271768,-0.1942\n1,2026-06-30,Linden Advisors LP,0.1423,1200000,12383999,0.0\n2,2026-06-30,LMR Partners LLP,0.1245,1050000,10835999,0.0\n3,2026-06-30,"Verition Fund Management, LLC",0.12109999,1021661,10543541,0.0849\n4,2026-06-30,Governors Lane LP,0.1197,1009055,10413447,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.118599996,1000000,10319999,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.118599996,1000000,10319999,0.0\n7,2026-06-30,"Highbridge Capital Management, LLC.",0.118599996,1000000,10319999,0.0\n8,2026-06-30,Magnetar Financial LLC,0.118599996,999990,10319896,0.0\n9,2026-06-30,"Two Sigma Investments, LP",0.0946,797500,8230199,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.1985,1673621,17305241,-0.1942\n1,2026-06-30,Linden Advisors LP,0.1423,1200000,12408000,0.0\n2,2026-06-30,LMR Partners LLP,0.1245,1050000,10857000,0.0\n3,2026-06-30,"Verition Fund Management, LLC",0.12109999,1021661,10563974,0.0849\n4,2026-06-30,Governors Lane LP,0.1197,1009055,10433628,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.118599996,1000000,10340000,0.0\n6,2026-06-30,"Tenor Capital Management Co., L.p.",0.118599996,1000000,10340000,0.0\n7,2026-06-30,"Highbridge Capital Management, LLC.",0.118599996,1000000,10340000,0.0\n8,2026-06-30,Magnetar Financial LLC,0.118599996,999990,10339896,0.0\n9,2026-06-30,"Two Sigma Investments, LP",0.0946,797500,8246150,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0053,44442,458641,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0053,44442,458641,0.0\n2,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0008,6667,68803,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,1421,14664,-0.95\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0053,44442,459530,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0053,44442,459530,0.0\n2,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0008,6667,68936,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,1421,14693,-0.95\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0039500003\ninstitutionsPercentHeld,0.94323\ninstitutionsFloatPercentHeld,0.94698\ninstitutionsCount,57.0\n
+,Value\ninsidersPercentHeld,0.0047400002\ninstitutionsPercentHeld,0.93878\ninstitutionsFloatPercentHeld,0.94324994\ninstitutionsCount,58.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.79,HCMA,HCM III Acquisition Corp.,Financial Services,Shell Companies,United States,348127968,10.32,134140,47507,490272.24,,,,0.0,0.0,0.0,,,670656,0,,1.637,1.527,-473684,,25300000,25225112,0.0039500003,0.94323,1986,0.04,0.0001,,,,-24.86747,,,,,,,none,,,,,,,,,2026-10-31T16:38:07.358260+00:00
+54.67,HCMA,HCM III Acquisition Corp.,Financial Services,Shell Companies,United States,348802656,10.34,78210,52303,540813.02,,,,0.0,0.0,0.0,,,670656,0,,1.637,1.527,-473684,,25300000,25225112,0.0047400002,0.93878,1986,0.04,0.0001,,,,-24.915663,,,,,,,none,,,,,,,,,2026-11-10T10:13:18.684716+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-22,10.05,10.15,10.05,10.07,,,,,,,0,10.0500,1,492,,,,
 2025-09-23,10.09,10.12,10.07,10.10,,,,,,,0,10.0500,1,5004,,,,
@@ -297,3 +297,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.33,10.33,10.31,10.32,10.30,10.30,10.30,10.23,10.21,10.2970,1,10.2824,1,196,573,0.0041,0.0015,0.0026
 2026-11-03,10.33,10.33,10.32,10.32,10.31,10.30,10.30,10.23,10.21,10.2986,1,10.2843,1,313,579,0.0048,0.0022,0.0027
 2026-11-04,10.32,10.32,10.32,10.32,10.31,10.31,10.30,10.23,10.21,10.2986,1,10.2861,1,,569,0.0054,0.0028,0.0025
+2026-11-05,10.32,10.32,10.32,10.32,10.31,10.31,10.30,10.24,10.21,10.2986,1,10.2878,1,3189,633,0.0057,0.0034,0.0023
+2026-11-06,10.32,10.32,10.32,10.32,10.31,10.31,10.30,10.24,10.21,10.3008,1,10.2895,1,,633,0.0059,0.0039,0.0020
+2026-11-09,10.32,10.34,10.32,10.34,10.32,10.31,10.30,10.24,10.21,10.3067,1,10.2911,1,84,635,0.0076,0.0046,0.0030
+2026-11-10,10.35,10.35,10.32,10.34,10.32,10.31,10.30,10.24,10.21,10.3067,1,10.2941,1,388,642,0.0088,0.0055,0.0034

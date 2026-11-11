@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0925,820275,8875375,-0.0135\n1,2026-06-30,Hudson Bay Capital Management Lp,0.0446,395572,4280088,0.0\n2,2026-06-30,Berkley W R Corp,0.027999999,248616,2690025,-0.7157\n3,2026-06-30,Mizuho Securities USA LLC,0.0231,205000,2218099,-0.72980005\n4,2026-06-30,AQR Arbitrage LLC,0.0228,201934,2184925,-0.6032\n5,2026-06-30,"Wolverine Asset Management, LLC",0.0225,200000,2163999,-0.7363\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0072000003,63673,688941,-0.020399999\n7,2026-06-30,Goldman Sachs Group Inc,0.0069999998,62177,672755,-0.605\n8,2026-06-30,Clear Street Group Inc.,0.0063,55874,604556,-0.2048\n9,2026-06-30,Shaolin Capital Management LLC,0.0047999998,42975,464989,-0.71349996\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0925,820275,8883578,-0.0135\n1,2026-06-30,Hudson Bay Capital Management Lp,0.0446,395572,4284044,0.0\n2,2026-06-30,Berkley W R Corp,0.027999999,248616,2692511,-0.7157\n3,2026-06-30,Mizuho Securities USA LLC,0.0231,205000,2220149,-0.72980005\n4,2026-06-30,AQR Arbitrage LLC,0.0228,201934,2186945,-0.6032\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0221,196142,2124217,-0.019299999\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0072000003,63673,689578,-0.020399999\n7,2026-06-30,Goldman Sachs Group Inc,0.0069999998,62177,673376,-0.605\n8,2026-06-30,Clear Street Group Inc.,0.0063,55874,605115,-0.2048\n9,2026-06-30,Shaolin Capital Management LLC,0.0047999998,42975,465419,-0.71349996\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Merger Fund-The Merger Fund,0.048,425393,4602752,0.0\n1,2026-03-31,Merger Fund VL-The Merger Fund VL,0.00059999997,5037,54500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,Merger Fund-The Merger Fund,0.048,425393,4607006,0.0\n1,2026-03-31,Merger Fund VL-The Merger Fund VL,0.00059999997,5037,54550,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.27597\ninstitutionsPercentHeld,0.91876\ninstitutionsFloatPercentHeld,1.26894\ninstitutionsCount,17.0\n
+,Value\ninsidersPercentHeld,0.27597\ninstitutionsPercentHeld,0.9171\ninstitutionsFloatPercentHeld,1.26666\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.25,PGAC,Pantages Capital Acquisition Corporation,Financial Services,Shell Companies,United States,55575912,10.82,1600,850,9197.0,,-0.223,-0.256,0.0,0.0,0.0,,,352,1208500,,0.055,0.0,-1267792,,2980156,2306760,0.27597,0.91876,640,2.04,0.0008,60.111107,,,-26.584766,,,,,,,none,,,,,,,,https://www.pantagescapital.com,2026-10-31T19:15:45.574108+00:00
+58.56,PGAC,Pantages Capital Acquisition Corporation,Financial Services,Shell Companies,United States,55627276,10.83,1900,1143,12378.69,,-0.223,-0.256,0.0,0.0,0.0,,,352,1208500,,0.055,0.0,-1267792,,2980156,2306760,0.27597,0.9171,640,2.04,0.0008,60.166664,,,-26.609337,,,,,,,none,,,,,,,,https://www.pantagescapital.com,2026-11-10T12:04:25.923952+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-28,9.89,9.91,9.89,9.91,,,,,,,0,9.8900,1,2154,,,,
 2025-01-29,9.91,9.92,9.90,9.91,,,,,,,0,9.8900,1,5631,,,,
@@ -460,3 +460,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.82,10.82,10.82,10.82,10.81,10.79,10.73,10.62,10.57,10.8017,1,10.6223,1,,11,0.0255,0.0248,0.0008
 2026-11-03,10.82,10.82,10.82,10.82,10.82,10.79,10.74,10.62,10.57,10.8035,1,10.6263,1,,11,0.0249,0.0248,0.0001
 2026-11-04,10.82,10.82,10.82,10.82,10.82,10.80,10.74,10.63,10.57,10.8052,1,10.6302,1,,11,0.0241,0.0246,-0.0005
+2026-11-05,10.83,10.83,10.82,10.83,10.82,10.80,10.74,10.63,10.58,10.8087,1,10.6340,1,204,15,0.0240,0.0245,-0.0005
+2026-11-06,10.83,10.83,10.83,10.83,10.82,10.80,10.75,10.63,10.58,10.8153,1,10.6418,1,,15,0.0237,0.0244,-0.0007
+2026-11-09,10.83,10.83,10.83,10.83,10.82,10.80,10.75,10.63,10.58,10.8168,1,10.6493,1,,15,0.0231,0.0241,-0.0010
+2026-11-10,10.83,10.83,10.83,10.83,10.82,10.81,10.75,10.64,10.58,10.8181,1,10.6566,1,,15,0.0225,0.0238,-0.0013

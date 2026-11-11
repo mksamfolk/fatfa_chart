@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.012,192250,313367,2.7966\n1,2026-06-30,HRT Financial LP,0.0074,117973,192295,1.0\n2,2026-06-30,"Ground Swell Capital, LLC",0.005,79586,129725,1.0\n3,2026-06-30,Stonex Group Inc.,0.00090000004,13736,22389,1.0\n4,2026-06-30,"Two Sigma Securities, LLC",0.0007,11187,18234,-0.3575\n5,2026-06-30,UBS Group AG,0.0005,8324,13568,-0.64\n6,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,4900,7986,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,4,2.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.012,192250,240312,2.7966\n1,2026-06-30,HRT Financial LP,0.0074,117973,147466,1.0\n2,2026-06-30,"Ground Swell Capital, LLC",0.005,79586,99482,1.0\n3,2026-09-30,Stonex Group Inc.,0.0019,30114,37642,1.1923001\n4,2026-06-30,"Two Sigma Securities, LLC",0.0007,11187,13983,-0.3575\n5,2026-06-30,UBS Group AG,0.0005,8324,10405,-0.64\n6,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,4900,6125,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,3,2.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,8773,14299,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,5,8,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,8773,10966,0.0\n1,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,5,6,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.5625\ninstitutionsPercentHeld,0.02675\ninstitutionsFloatPercentHeld,0.061139997\ninstitutionsCount,9.0\n
+,Value\ninsidersPercentHeld,0.5625\ninstitutionsPercentHeld,0.02577\ninstitutionsFloatPercentHeld,0.05889\ninstitutionsCount,9.0\n
 news
 [\n  {\n    "uuid": "4715ba14-c863-3a07-87c8-aca3606d277f",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143026463.html",\n    "providerPublishTime": 1793370626,\n    "type": "STORY",\n    "relatedTickers": [\n      "INTC",\n      "SLGB",\n      "HUBC",\n      "NVDA",\n      "ONEG",\n      "IBIT",\n      "AMZN",\n      "^IXIC",\n      "ABOS",\n      "SOFI",\n      "GOOG",\n      "RIVN",\n      "FNGR",\n      "SHFS",\n      "CIFR"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.05,ONEG,OneConstruction Group Limited,Industrials,Engineering & Construction,Hong Kong,26080000,1.63,10970230,1745087,2844491.8099999996,-0.117,,,-0.14419,-0.59459996,-0.26766002,-2.1266901,-0.18205999,2023000,23434000,8280.565,2.535,2.535,1782000,6503750,16000000,7000000,0.5625,0.02675,14615,0.39,0.0021,,,0.52838445,90.55556,0.962,-3.777,,,,,none,,,,,,,,https://www.oneconstruction.com.hk,2026-10-31T19:02:01.102703+00:00
+12.25,ONEG,OneConstruction Group Limited,Industrials,Engineering & Construction,Hong Kong,20000000,1.25,12043200,1914657,2393321.25,-0.117,,,-0.14419,-0.59459996,-0.26766002,-2.1266901,-0.18205999,2023000,23434000,8280.565,2.535,2.535,1782000,6503750,16000000,7000000,0.5625,0.02577,14615,0.39,0.0021,,,0.4052028,69.44445,0.839,-3.293,,,,,none,,,,,,,,https://www.oneconstruction.com.hk,2026-11-10T11:51:06.345426+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-31,4.00,4.05,3.00,3.00,,,,,,,0,4.0500,0,5251,,,,
 2025-01-02,3.20,3.45,3.00,3.45,,,,,,,0,4.0500,0,1153,,,,
@@ -477,3 +477,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.43,1.90,1.35,1.62,0.94,0.92,0.98,1.85,2.04,0.9896,1,0.7079,1,8140,3775,0.0618,-0.0267,0.0886
 2026-11-03,1.65,1.75,1.45,1.52,1.02,0.95,0.99,1.85,2.04,0.9896,1,0.7794,1,7057,3916,0.0953,-0.0023,0.0977
 2026-11-04,1.56,1.64,1.40,1.40,1.09,0.98,1.00,1.85,2.04,0.9896,1,0.8466,1,457,3925,0.1109,0.0203,0.0906
+2026-11-05,1.40,1.50,1.23,1.27,1.14,0.99,1.01,1.84,2.04,0.9896,1,0.9098,1,436,3933,0.1115,0.0386,0.0730
+2026-11-06,1.28,1.39,1.28,1.28,1.19,1.01,1.01,1.84,2.04,0.9896,1,0.9692,1,142,3935,0.1115,0.0532,0.0584
+2026-11-09,1.31,1.32,1.17,1.25,1.23,1.02,1.02,1.84,2.04,0.9896,1,1.0251,1,223,3935,0.1078,0.0641,0.0437
+2026-11-10,1.20,1.25,1.06,1.07,1.26,1.03,1.02,1.83,2.04,0.9896,1,1.9000,0,157,3937,0.0894,0.0691,0.0202

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0979,2546827,26334191,0.5385\n1,2026-06-30,"Harraden Circle Investments, LLC",0.0721,1875436,19392008,0.0\n2,2026-06-30,"Meteora Capital, LLC",0.0592,1541000,15933940,-0.1822\n3,2026-06-30,Linden Advisors LP,0.053600002,1394511,14419243,0.0\n4,2026-06-30,Millennium Management Llc,0.053200003,1383166,14301936,0.0018000001\n5,2026-06-30,"Centiva Capital, LP",0.0317,825000,8530500,0.0498\n6,2026-06-30,Toronto Dominion Bank,0.0299,777490,8039246,0.2873\n7,2026-06-30,"Two Sigma Investments, LP",0.028099999,731041,7558964,0.0\n8,2026-06-30,"Radcliffe Capital Management, L.P.",0.0238,618077,6390916,0.0023999999\n9,2026-06-30,Glazer Capital LLC,0.023699999,615628,6365593,0.0174\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Fort Baker Capital Management LP,0.0979,2546827,26436064,0.5385\n1,2026-06-30,"Harraden Circle Investments, LLC",0.0721,1875436,19467025,0.0\n2,2026-06-30,"Meteora Capital, LLC",0.0592,1541000,15995580,-0.1822\n3,2026-06-30,Linden Advisors LP,0.053600002,1394511,14475024,0.0\n4,2026-06-30,Millennium Management Llc,0.053200003,1383166,14357263,0.0018000001\n5,2026-06-30,"Centiva Capital, LP",0.0317,825000,8563500,0.0498\n6,2026-06-30,Toronto Dominion Bank,0.0299,777490,8070346,0.2873\n7,2026-06-30,"Two Sigma Investments, LP",0.028099999,731041,7588205,0.0\n8,2026-06-30,"Radcliffe Capital Management, L.P.",0.0238,618077,6415639,0.0023999999\n9,2026-06-30,Glazer Capital LLC,0.023699999,615628,6390218,0.0174\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,164578,1701736,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0019,50000,517000,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0014,37692,389735,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0013,34167,353286,0.0\n4,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0011,28408,293738,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,164578,1708319,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0019,50000,519000,0.0\n2,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0014,37692,391242,1.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0013,34167,354653,0.0\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0011,28408,294875,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0171\ninstitutionsPercentHeld,0.89746004\ninstitutionsFloatPercentHeld,0.91306996\ninstitutionsCount,64.0\n
+,Value\ninsidersPercentHeld,0.0171\ninstitutionsPercentHeld,0.88478994\ninstitutionsFloatPercentHeld,0.90019\ninstitutionsCount,63.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.03,CCII,Cohen Circle Acquisition Corp. II,Financial Services,Shell Companies,United States,358729056,10.34,130040,109145,1128559.3,,,,0.0,0.0,0.0,,,1227320,0,,7.178,6.229,-1445337,,26020000,21152872,0.0171,0.89746004,5073,0.03,0.0002,41.36,,,-37.463768,,,,,,,none,,,,,,,,,2026-10-31T14:56:19.669428+00:00
+53.90,CCII,Cohen Circle Acquisition Corp. II,Financial Services,Shell Companies,United States,360116800,10.38,101950,115071,1194436.98,,,,0.0,0.0,0.0,,,1227320,0,,7.178,6.229,-1445337,,26020000,21152872,0.0171,0.88478994,5073,0.03,0.0002,41.52,,,-37.608696,,,,,,,none,,,,,,,,,2026-11-10T08:40:09.872231+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-22,10.20,10.20,10.10,10.14,,,,,,,0,10.1000,1,17,,,,
 2025-08-25,10.14,10.14,10.12,10.12,,,,,,,0,10.1000,1,4,,,,
@@ -317,3 +317,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.33,10.34,10.33,10.34,10.31,10.30,10.31,10.30,10.29,10.2987,1,10.2788,1,1031,1110,0.0051,-0.0017,0.0068
 2026-11-03,10.34,10.36,10.34,10.36,10.32,10.31,10.32,10.30,10.29,10.3123,1,10.2812,1,1987,1149,0.0081,0.0003,0.0079
 2026-11-04,10.37,10.37,10.37,10.37,10.33,10.31,10.32,10.30,10.29,10.3308,1,10.2863,1,1040,1169,0.0112,0.0024,0.0088
+2026-11-05,10.37,10.38,10.35,10.36,10.33,10.31,10.32,10.30,10.29,10.3308,1,10.2930,1,2030,1162,0.0127,0.0045,0.0082
+2026-11-06,10.36,10.36,10.36,10.36,10.34,10.32,10.32,10.30,10.29,10.3308,1,10.3017,1,577,1174,0.0138,0.0064,0.0074
+2026-11-09,10.39,10.40,10.38,10.38,10.35,10.32,10.32,10.30,10.29,10.3422,1,10.3095,1,87,1170,0.0160,0.0083,0.0077
+2026-11-10,10.38,10.38,10.37,10.38,10.36,10.33,10.32,10.30,10.29,10.3422,1,10.3204,1,4205,1250,0.0176,0.0101,0.0074

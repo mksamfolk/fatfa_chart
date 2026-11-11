@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.094399996,990000,9929699,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0729,764885,7671796,1.0\n2,2026-06-30,AQR Arbitrage LLC,0.0596,625099,6269742,1.0\n3,2026-06-30,"Whitebox Advisors, LLC",0.052399997,550000,5516499,1.0\n4,2026-06-30,"Wolverine Asset Management, LLC",0.0513,538199,5398135,1.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0477,500000,5014999,1.0\n6,2026-06-30,"Westchester Capital Management, LLC",0.0429,450000,4513499,1.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0405,425000,4262749,1.0\n8,2026-06-30,"Boothbay Fund Management, LLC",0.038900003,408482,4097074,1.0\n9,2026-06-30,Shaolin Capital Management LLC,0.0287,301140,3020434,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.094399996,990000,9949500,1.0\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.0729,764885,7687094,1.0\n2,2026-06-30,AQR Arbitrage LLC,0.0596,625099,6282245,1.0\n3,2026-06-30,"Whitebox Advisors, LLC",0.052399997,550000,5527500,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0494,518199,5207900,-0.0372\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0477,500000,5025000,1.0\n6,2026-06-30,"Westchester Capital Management, LLC",0.0429,450000,4522500,1.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0405,425000,4271250,1.0\n8,2026-06-30,"Boothbay Fund Management, LLC",0.038900003,408482,4105244,1.0\n9,2026-06-30,Shaolin Capital Management LLC,0.0287,301140,3026457,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0361,378310,3794449,1.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0021,22282,223488,1.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0019,19512,195705,1.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.001,10000,100299,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,10076,101062,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0007,6941,69618,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0005,5482,54984,1.0\n7,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,3610,36208,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0361,378310,3802015,1.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0021,22282,223934,1.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0019,19512,196095,1.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.001,10000,100500,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,10076,101263,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0007,6941,69757,1.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0005,5482,55094,1.0\n7,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,3610,36280,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.013350001\ninstitutionsPercentHeld,0.78120005\ninstitutionsFloatPercentHeld,0.79177004\ninstitutionsCount,32.0\n
+,Value\ninsidersPercentHeld,0.01525\ninstitutionsPercentHeld,0.77128\ninstitutionsFloatPercentHeld,0.78323\ninstitutionsCount,30.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MYX,Maywood Acquisition Corp. 2,Financial Services,Shell Companies,United States,145741328,10.03,50,7710,77331.29999999999,,,,0.0,0.0,0.0,,,307155,99000,43.382,1.066,0.078,-15621,,10490000,8068125,0.013350001,0.78120005,388,0.35,,,,,626.87494,,,,,,,none,,,,,,,,,2026-10-31T18:38:40.397933+00:00
+0.00,MYX,Maywood Acquisition Corp. 2,Financial Services,Shell Companies,United States,146031936,10.05,18820,10651,107042.55,,,,0.0,0.0,0.0,,,307155,99000,43.382,1.066,0.078,-15621,,10490000,8068125,0.01525,0.77128,388,0.35,,,,,628.125,,,,,,,none,,,,,,,,,2026-11-10T11:27:35.525409+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-15,9.90,9.92,9.85,9.89,,,,,,,0,9.8500,1,2844,,,,
 2026-05-18,9.88,9.88,9.86,9.87,,,,,,,0,9.8500,1,120,,,,
@@ -134,3 +134,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.06,10.06,10.06,10.06,10.05,10.04,10.00,,,10.0515,1,10.0260,1,,94,0.0188,0.0185,0.0002
 2026-11-03,10.06,10.06,10.06,10.06,10.05,10.04,10.00,,,10.0524,1,10.0287,1,,94,0.0182,0.0185,-0.0002
 2026-11-04,10.06,10.06,10.06,10.06,10.06,10.04,10.00,,,10.0531,1,10.0312,1,,94,0.0176,0.0183,-0.0007
+2026-11-05,10.04,10.05,10.04,10.05,10.06,10.04,10.01,,,10.0572,0,10.0335,1,1383,121,0.0161,0.0179,-0.0017
+2026-11-06,10.06,10.06,10.06,10.06,10.06,10.05,10.01,,,10.0460,1,10.0356,1,509,131,0.0156,0.0174,-0.0018
+2026-11-09,10.06,10.06,10.06,10.06,10.06,10.05,10.01,,,10.0474,1,10.0376,1,,131,0.0150,0.0169,-0.0019
+2026-11-10,10.06,10.06,10.06,10.06,10.06,10.05,10.01,,,10.0487,1,10.0394,1,,130,0.0143,0.0164,-0.0021

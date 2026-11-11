@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Valley National Advisers Inc.,0.00059999997,1000,2299,1.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,9,20,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.012200001,20170,41348,1.0\n1,2026-09-30,Valley National Advisers Inc.,0.00059999997,1000,2049,1.0\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,9,18,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0134000005,22070,50760,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0134000005,22070,45243,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61412\ninstitutionsPercentHeld,0.01397\ninstitutionsFloatPercentHeld,0.036199998\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.61412\ninstitutionsPercentHeld,0.01282\ninstitutionsFloatPercentHeld,0.03322\ninstitutionsCount,3.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-02-20 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.95,ADVB,Advanced Biomed Inc.,Healthcare,Diagnostics & Research,Hong Kong,3799905,2.3,59330,118015,271434.5,,,,1.0,-38.56397,52.31302,-0.79487,-0.21282,385535,1078215,8.783,9.328,9.327,-1946943,-12022238,1652133,986290,0.61412,0.01397,9747,0.5,0.0112,,,29.771187,0.3095142,35.198,-0.728,,,,,none,,,,,,,,https://www.advb.ai,2026-10-31T13:54:05.474332+00:00
+3.72,ADVB,Advanced Biomed Inc.,Healthcare,Diagnostics & Research,Hong Kong,3386872,2.05,20530,110689,226912.44999999998,,,,1.0,-38.56397,52.31302,-0.79487,-0.21282,385535,1078215,8.783,9.328,9.327,-1946943,-12022238,1652133,986290,0.61412,0.01282,9747,0.5,0.0112,,,26.53519,0.27587134,31.962,-0.661,,,,,none,,,,,,,,https://www.advb.ai,2026-11-10T07:39:31.009336+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-06,80.00,82.00,72.00,73.00,,,,,,,0,82.0000,0,1918,,,,
 2025-03-07,74.60,76.80,66.20,73.00,,,,,,,0,82.0000,0,2843,,,,
@@ -434,3 +434,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,2.45,2.45,2.04,2.08,3.00,4.13,6.75,6.01,5.90,4.0927,0,3.3000,0,21,1189,-1.3781,-1.2856,-0.0925
 2026-11-03,2.01,2.26,2.01,2.20,2.84,3.92,6.64,6.00,5.87,3.8729,0,3.0480,0,36,1181,-1.3629,-1.3011,-0.0619
 2026-11-04,2.28,2.65,2.05,2.10,2.67,3.71,6.52,5.97,5.85,3.8729,0,2.8404,0,57,1168,-1.3435,-1.3096,-0.0340
+2026-11-05,2.12,2.17,1.80,1.90,2.51,3.50,6.40,5.95,5.82,3.6668,0,2.6743,0,66,1123,-1.3289,-1.3134,-0.0155
+2026-11-06,2.00,2.09,1.91,1.98,2.39,3.34,6.29,5.93,5.80,3.5706,0,2.6540,0,16,1114,-1.2960,-1.3099,0.0139
+2026-11-09,2.04,2.26,2.01,2.05,2.33,3.18,6.20,5.91,5.78,3.5706,0,2.4832,0,37,1107,-1.2498,-1.2979,0.0481
+2026-11-10,2.18,2.30,1.98,2.11,2.23,3.02,6.09,5.89,5.76,3.5706,0,2.3466,0,28,1013,-1.1946,-1.2773,0.0826

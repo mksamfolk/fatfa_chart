@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0125,120684,20733,-0.136\n1,2026-06-30,"Jane Street Group, LLC",0.0058999998,56706,9742,0.4021\n2,2026-06-30,Citadel Advisors Llc,0.002,19684,3381,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.0015,14866,2553,1.0\n4,2026-06-30,UBS Group AG,0.0014,13186,2265,-0.5945\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0125,120684,20950,-0.136\n1,2026-06-30,"Jane Street Group, LLC",0.0058999998,56706,9844,0.4021\n2,2026-09-30,Stonex Group Inc.,0.0042,40450,7022,1.0\n3,2026-06-30,Citadel Advisors Llc,0.002,19684,3417,1.0\n4,2026-06-30,"Two Sigma Securities, LLC",0.0015,14866,2580,1.0\n5,2026-06-30,UBS Group AG,0.0014,13186,2289,-0.5945\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2024-09-30,Fidelity NASDAQ Composite Index Fund,0.0004,620,106,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2024-09-30,Fidelity NASDAQ Composite Index Fund,0.0004,620,107,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.026719999\ninstitutionsPercentHeld,0.02339\ninstitutionsFloatPercentHeld,0.024030002\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.026719999\ninstitutionsPercentHeld,0.027590001\ninstitutionsFloatPercentHeld,0.028350001\ninstitutionsCount,6.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2024-04-19 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.54,GSUN,Golden Sun Technology Group Limited,Consumer Defensive,Education & Training Services,China,1722959,0.1718,425160,4362200,749425.9600000001,0.301,,,0.018339999,-0.15007,-0.09847,-2.47156,-0.12345,455030,4831587,66.144,1.024,0.212,-885307,-2735688,9625870,9368669,0.026719999,0.02339,1223239,0.22,0.1306,0.36553192,,0.042574942,0.23598902,0.151,-1.531,,,,,none,,,,,,,1.831,https://www.jtyjyjt.com,2026-10-31T16:32:16.570958+00:00
+8.92,GSUN,Golden Sun Technology Group Limited,Consumer Defensive,Education & Training Services,China,1741011,0.1736,157200,4187248,726906.2528,0.301,,,0.018339999,-0.15007,-0.09847,-2.47156,-0.12345,455030,4831587,66.144,1.024,0.212,-885307,-2735688,9625870,9368669,0.026719999,0.027590001,1223239,0.22,0.1306,0.3693617,,0.043021012,0.23846155,0.151,-1.536,,,,,none,,,,,,,1.876,https://www.jtyjyjt.com,2026-11-10T10:08:55.297160+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-22,190.00,197.99,134.10,163.00,,,,,,,0,134.1000,1,8258,,,,
 2022-06-23,192.20,296.40,170.80,205.00,,,,,,,0,134.1000,1,15176,,,,
@@ -1111,4 +1111,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-30,0.17,0.18,0.17,0.17,0.18,0.19,0.28,0.39,0.59,0.2379,0,0.2132,0,18,1036,-0.0259,-0.0292,0.0034
 2026-11-02,0.17,0.18,0.17,0.17,0.18,0.19,0.28,0.39,0.58,0.2339,0,0.2124,0,19,1014,-0.0248,-0.0284,0.0036
 2026-11-03,0.17,0.18,0.17,0.17,0.18,0.19,0.27,0.38,0.58,0.2289,0,0.2115,0,64,925,-0.0237,-0.0274,0.0037
-2026-11-04,0.17,0.19,0.17,0.18,0.18,0.19,0.27,0.38,0.57,0.2289,0,0.2097,0,31,912,-0.0220,-0.0263,0.0043
+2026-11-04,0.17,0.19,0.17,0.18,0.18,0.19,0.27,0.38,0.57,0.2289,0,0.2097,0,34,912,-0.0220,-0.0263,0.0043
+2026-11-05,0.18,0.18,0.17,0.17,0.18,0.18,0.26,0.38,0.57,0.2289,0,0.2080,0,46,902,-0.0212,-0.0253,0.0041
+2026-11-06,0.17,0.17,0.16,0.17,0.17,0.18,0.25,0.38,0.56,0.2203,0,0.2064,0,20,885,-0.0208,-0.0244,0.0036
+2026-11-09,0.17,0.18,0.16,0.17,0.17,0.18,0.24,0.38,0.56,0.2203,0,0.2037,0,73,883,-0.0195,-0.0234,0.0040
+2026-11-10,0.17,0.18,0.17,0.17,0.17,0.18,0.24,0.37,0.55,0.2203,0,0.2011,0,160,884,-0.0182,-0.0224,0.0042

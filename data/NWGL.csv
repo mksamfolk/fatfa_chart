@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.08930001,441019,32811,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0154,76029,5656,1.0\n2,2026-09-30,"Smartharvest Portfolios, LLC",0.012200001,60322,4487,2.7289002\n3,2026-06-30,UBS Group AG,0.001,5025,373,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0011,5513,15656,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0002,950,2697,1.0\n2,2026-09-30,"Smartharvest Portfolios, LLC",0.0002,754,2141,2.7326999\n3,2026-06-30,UBS Group AG,0.0,62,176,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,590,43,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,590,1675,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0129700005\ninstitutionsFloatPercentHeld,0.0129700005\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.0129700005\ninstitutionsFloatPercentHeld,0.0129700005\ninstitutionsCount,4.0\n
 news
-[\n  {\n    "uuid": "6e50b3ea-c756-394f-a60e-33152e282efc",\n    "title": "Chaince Securities, LLC to Serve as Exclusive Sales Agent for CL Workshop Group Limited’s (NASDAQ: NWGL) Up to US$200 Million At-the-Market Offering Program",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/chaince-securities-llc-serve-exclusive-154500900.html",\n    "providerPublishTime": 1792079100,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/537ed25db8ad26df1dfa45a88e375b53.png",\n          "width": 254,\n          "height": 232,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/4616FCF2C3652FCCA414AD042BA872802CEAA98BF5F348CD1D4657C3E0E00AE4/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F537ed25db8ad26df1dfa45a88e375b53.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NWGL",\n      "CD"\n    ]\n  }\n]\n
+[\n  {\n    "uuid": "a639e531-f2a1-3300-98e3-d246087733d0",\n    "title": "CL Workshop Group Limited Announces Plan to Implement ADS Ratio Change",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/cl-workshop-group-limited-announces-110500240.html",\n    "providerPublishTime": 1793790300,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/93e6de7f32db3aab8ab44ba270e04086.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/099BC13163C7E7850D4E8CC99D4D3A713B53A45AF75326266E25C236E7F9D7E8/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F93e6de7f32db3aab8ab44ba270e04086.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NWGL"\n    ]\n  },\n  {\n    "uuid": "6e50b3ea-c756-394f-a60e-33152e282efc",\n    "title": "Chaince Securities, LLC to Serve as Exclusive Sales Agent for CL Workshop Group Limited’s (NASDAQ: NWGL) Up to US$200 Million At-the-Market Offering Program",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/chaince-securities-llc-serve-exclusive-154500900.html",\n    "providerPublishTime": 1792079100,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/537ed25db8ad26df1dfa45a88e375b53.png",\n          "width": 254,\n          "height": 232,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/4616FCF2C3652FCCA414AD042BA872802CEAA98BF5F348CD1D4657C3E0E00AE4/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F537ed25db8ad26df1dfa45a88e375b53.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NWGL",\n      "CD"\n    ]\n  }\n]\n
 splits
-Date,Stock Splits\n
+Date,Stock Splits\n2026-11-06 09:30:00-05:00,0.0125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.19,NWGL,CL Workshop Group Limited,Basic Materials,Lumber & Wood Production,Macau,4205695,0.0744,73881330,18351714,1365367.5215999999,-0.636,,,-0.08359,-0.58388,-0.81422997,-1.3328799,-0.21587999,193156,4091053,223.36,1.233,0.452,120086,9931803,44911559,8147964,0.0,0.0129700005,335402,0.24,0.0078,,,0.44749057,0.67027026,0.546,-0.978,,,,,none,,,,,,,2.548,https://clworkshop.investorroom.com,2026-10-31T18:54:30.302926+00:00
+98.99,NWGL,CL Workshop Group Limited,Basic Materials,Lumber & Wood Production,Macau,2006749,2.84,379172,266025,755511.0,-0.636,,,-0.08359,-0.58388,-0.81422997,-1.3328799,-0.21587999,193156,4091053,223.36,1.233,0.452,120086,9931803,561394,99330,0.0,0.0129700005,4192,0.24,,,,0.2135203,0.3206503,0.477,-0.855,,,,,none,,,,,,,3.066,https://clworkshop.investorroom.com,2026-11-10T11:43:42.859695+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-12,13.00,14.30,7.60,9.60,,,,,,,0,14.3000,0,14818,,,,
 2023-09-13,8.00,9.86,7.02,7.80,,,,,,,0,14.3000,0,3949,,,,
@@ -802,6 +802,10 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-10-28,0.09,0.09,0.08,0.09,0.13,0.63,0.61,0.68,0.83,0.5168,0,0.9263,0,523,4611,-0.2146,-0.1419,-0.0726
 2026-10-29,0.08,0.09,0.08,0.09,0.12,0.57,0.61,0.67,0.82,0.4773,0,0.8583,0,372,4618,-0.2142,-0.1564,-0.0578
 2026-10-30,0.08,0.08,0.07,0.07,0.10,0.51,0.60,0.66,0.82,0.4348,0,0.7957,0,438,4626,-0.2125,-0.1676,-0.0449
-2026-11-02,0.06,0.07,0.06,0.06,0.10,0.45,0.60,0.65,0.81,0.3892,0,0.7234,0,307,4374,-0.2097,-0.1760,-0.0336
-2026-11-03,0.06,0.06,0.05,0.06,0.09,0.39,0.60,0.65,0.80,0.3551,0,0.6441,0,238,4372,-0.2056,-0.1819,-0.0237
-2026-11-04,0.06,0.06,0.05,0.06,0.08,0.33,0.59,0.64,0.80,0.3228,0,0.5614,0,8634,4543,-0.2001,-0.1856,-0.0145
+2026-11-02,5.20,5.36,4.96,5.04,0.59,0.70,0.70,0.69,0.83,3.2531,1,0.0730,1,307,4374,0.1874,-0.0966,0.2840
+2026-11-03,5.20,5.20,4.32,4.48,1.03,0.86,0.78,0.71,0.85,3.2531,1,0.0730,1,238,4372,0.4539,0.0135,0.4404
+2026-11-04,4.64,4.64,4.16,4.48,1.46,1.02,0.87,0.73,0.87,3.2531,1,0.1787,1,8659,4543,0.6575,0.1423,0.5152
+2026-11-05,3.04,3.36,2.64,2.72,1.72,1.10,0.92,0.74,0.87,5.2856,0,0.2824,1,759,4557,0.6691,0.2476,0.4215
+2026-11-06,2.21,2.94,2.09,2.53,1.97,1.16,0.96,0.75,0.88,4.8270,0,0.3839,1,1295,4565,0.6554,0.3292,0.3262
+2026-11-09,3.51,8.32,2.30,2.84,2.24,1.25,1.01,0.76,0.88,4.8270,0,0.4834,1,157120,7702,0.6620,0.3958,0.2662
+2026-11-10,2.40,3.00,1.81,2.53,2.49,1.32,1.06,0.77,0.89,4.8270,0,0.7969,1,7941,7855,0.6349,0.4436,0.1913

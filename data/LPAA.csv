@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,First Trust Capital Management L.P.,0.2751,2070000,22500899,0.0\n1,2026-06-30,LMR Partners LLP,0.26319999,1980000,21522599,0.0\n2,2026-06-30,Magnetar Financial LLC,0.2585,1945196,21144280,0.0\n3,2026-06-30,Berkley W R Corp,0.2226,1675043,18207717,0.12640001\n4,2026-06-30,Picton Mahoney Asset Management,0.2219,1669756,18150247,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.1967,1480000,16087599,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.18360001,1381500,15016904,-0.112399995\n7,2026-06-30,"Wolverine Asset Management, LLC",0.1344,1010877,10988232,-0.0032\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.13159999,990000,10761299,0.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.099700004,750000,8152499,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,LMR Partners LLP,0.26319999,1980000,21542400,0.0\n1,2026-06-30,Magnetar Financial LLC,0.2585,1945196,21163732,0.0\n2,2026-06-30,Berkley W R Corp,0.2226,1675043,18224468,0.12640001\n3,2026-06-30,Picton Mahoney Asset Management,0.2219,1669756,18166945,0.0\n4,2026-06-30,"MMCAP International, Inc. SPC",0.1967,1480000,16102400,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.18360001,1381500,15030720,-0.112399995\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.13159999,990000,10771200,0.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.099700004,750000,8160000,0.0\n8,2026-06-30,Alberta Investment Management Corp,0.099700004,750000,8160000,0.0\n9,2026-06-30,Goldman Sachs Group Inc,0.0832,626053,6811456,-0.0016\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.2481,1866241,20286039,0.0\n1,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0543,408519,4440601,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0254,191384,2080344,0.0\n3,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0066000004,50000,543499,0.0\n4,2026-06-30,First Trust Alternative Opportunities Fund,0.0027,20000,217399,0.0\n5,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,4329,47056,-0.040799998\n6,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1896,20609,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.2481,1866241,20304702,0.0\n1,2026-06-30,RiverPark Funds Trust-RiverPark Short Term High Yield Fund,0.0543,408519,4444686,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0254,191384,2082257,0.0\n3,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0066000004,50000,544000,0.0\n4,2026-06-30,First Trust Alternative Opportunities Fund,0.0027,20000,217600,0.0\n5,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00059999997,4329,47099,-0.040799998\n6,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1896,20628,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,2.55157\ninstitutionsFloatPercentHeld,2.55157\ninstitutionsCount,42.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.9111099\ninstitutionsFloatPercentHeld,1.9111099\ninstitutionsCount,35.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.89,LPAA,Launch One Acquisition Corp.,Financial Services,Shell Companies,United States,312512512,10.87,200,3103,33729.61,,-0.168,-0.168,0.0,0.0,0.0,,,321957,1046959,,0.216,0.152,-941783,,28749999,1773616,0.0,2.55157,4006,2.77,0.0005,43.48,,,-24.760818,,,,,,,none,,,,,,,0.001,https://www.launchoneacquisitioncorp.com,2026-10-31T18:12:05.597804+00:00
+55.49,LPAA,Launch One Acquisition Corp.,Financial Services,Shell Companies,United States,312800000,10.88,20,1131,12305.28,,-0.168,-0.168,0.0,0.0,0.0,,,321957,1046959,,0.216,0.152,-941783,,28749999,1773616,0.0,1.9111099,4006,2.77,0.0005,43.52,,,-24.783598,,,,,,,none,,,,,,,0.001,https://www.launchoneacquisitioncorp.com,2026-11-10T11:01:48.039839+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-03,9.99,9.99,9.66,9.97,,,,,,,0,9.6600,1,1870,,,,
 2024-09-04,9.96,9.97,9.96,9.97,,,,,,,0,9.6600,1,26897,,,,
@@ -560,3 +560,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.88,10.88,10.88,10.88,10.87,10.87,10.81,10.79,10.76,10.8900,0,10.8399,1,1,41,0.0171,0.0204,-0.0033
 2026-11-03,10.88,10.88,10.88,10.88,10.87,10.88,10.81,10.80,10.76,10.8900,0,10.8441,1,,20,0.0166,0.0196,-0.0030
 2026-11-04,11.02,11.02,11.02,11.02,10.89,10.88,10.81,10.80,10.76,10.9575,1,10.8481,1,1,20,0.0268,0.0210,0.0057
+2026-11-05,11.02,11.02,11.02,11.02,10.90,10.89,10.82,10.80,10.76,10.9632,1,10.8614,1,,20,0.0344,0.0237,0.0107
+2026-11-06,11.02,11.02,11.02,11.02,10.92,10.90,10.83,10.80,10.76,10.9684,1,10.8737,1,,20,0.0401,0.0270,0.0131
+2026-11-09,11.02,11.02,11.02,11.02,10.93,10.91,10.83,10.80,10.77,10.9731,1,10.8850,1,,13,0.0440,0.0304,0.0136
+2026-11-10,11.02,11.02,11.02,11.02,10.94,10.91,10.83,10.81,10.77,10.9773,1,10.8954,1,,13,0.0466,0.0336,0.0130

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Mizuho Securities USA LLC,0.08979999,655508,6994270,0.0315\n1,2026-06-30,"Wolverine Asset Management, LLC",0.0636,464847,4959917,0.0403\n2,2026-06-30,Berkley W R Corp,0.063,460136,4909651,0.0773\n3,2026-06-30,Linden Advisors LP,0.0548,400000,4268000,0.0\n4,2026-06-30,Shaolin Capital Management LLC,0.0452,330000,3521100,-0.0571\n5,2026-06-30,"Mangrove Partners IM, LLC",0.0395,288800,3081496,0.0\n6,2026-06-30,"Westchester Capital Management, LLC",0.0348,254058,2710798,0.0\n7,2026-06-30,Clear Street Group Inc.,0.032899998,240147,2562368,0.0015\n8,2026-06-30,Glazer Capital LLC,0.032899998,239990,2560693,-0.0572\n9,2026-06-30,"Whitebox Advisors, LLC",0.020499999,150000,1600500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.08979999,655508,7006331,0.0\n1,2026-06-30,Berkley W R Corp,0.063,460136,4918117,0.0773\n2,2026-06-30,Linden Advisors LP,0.0548,400000,4275360,0.0\n3,2026-06-30,Shaolin Capital Management LLC,0.0452,330000,3527172,-0.0571\n4,2026-06-30,"Mangrove Partners IM, LLC",0.0395,288800,3086809,0.0\n5,2026-06-30,"Westchester Capital Management, LLC",0.0348,254058,2715473,0.0\n6,2026-06-30,Clear Street Group Inc.,0.032899998,240147,2566787,0.0015\n7,2026-06-30,Glazer Capital LLC,0.032899998,239990,2565109,-0.0572\n8,2026-06-30,"Whitebox Advisors, LLC",0.020499999,150000,1603260,0.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.020299999,148402,1586179,-0.6808\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0287,209760,2238139,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0016,11426,121915,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,11286,120421,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0011,7939,84709,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,5245,55964,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00059999997,4037,43074,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,2106,22471,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0287,209760,2241998,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0016,11426,122125,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,11286,120629,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0011,7939,84855,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,5245,56060,0.0\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00059999997,4037,43149,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00029999999,2106,22509,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.22678\ninstitutionsPercentHeld,0.66278\ninstitutionsFloatPercentHeld,0.85718\ninstitutionsCount,32.0\n
+,Value\ninsidersPercentHeld,0.22678\ninstitutionsPercentHeld,0.67294997\ninstitutionsFloatPercentHeld,0.87033\ninstitutionsCount,33.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.87,WTG,Wintergreen Acquisition Corp.,Financial Services,Shell Companies,China,78279120,10.67,78010,59954,639709.18,,0.514,2.264,0.0,0.0,0.0,,,1028051,0,,450.84,7.788,-422108,,7336375,3756448,0.22678,0.66278,168,0.0,0.0,46.391304,,,39.66543,,,,,,,none,,,,,,,,,2026-10-31T21:06:21.288551+00:00
+59.95,WTG,Wintergreen Acquisition Corp.,Financial Services,Shell Companies,China,78414112,10.6884,13280,60003,641336.0652,,0.514,2.264,0.0,0.0,0.0,,,1028051,0,,450.84,7.788,-422108,,7336375,5250978,0.22678,0.67294997,168,0.0,0.0,46.471306,,,39.73383,,,,,,,none,,,,,,,,,2026-11-10T13:55:58.645499+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-21,10.20,10.20,9.74,10.02,,,,,,,0,9.7400,1,4362,,,,
 2025-07-22,10.01,10.01,10.01,10.01,,,,,,,0,9.7400,1,5,,,,
@@ -341,3 +341,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.67,10.67,10.67,10.67,10.69,10.67,10.58,10.43,10.37,10.6300,1,10.6493,1,,776,0.0309,0.0354,-0.0045
 2026-11-03,10.71,10.71,10.71,10.71,10.69,10.67,10.59,10.43,10.38,10.6300,1,10.6573,1,1,755,0.0311,0.0345,-0.0035
 2026-11-04,10.69,10.69,10.69,10.69,10.70,10.67,10.59,10.43,10.38,10.6300,1,10.6647,1,15,755,0.0292,0.0335,-0.0043
+2026-11-05,10.69,10.69,10.65,10.68,10.69,10.68,10.60,10.44,10.38,10.6300,1,10.7500,0,1093,777,0.0266,0.0321,-0.0055
+2026-11-06,10.68,10.68,10.68,10.68,10.69,10.68,10.60,10.44,10.38,10.6300,1,10.7479,0,5,777,0.0243,0.0305,-0.0062
+2026-11-09,10.69,10.69,10.69,10.69,10.69,10.68,10.61,10.44,10.39,10.6300,1,10.7458,0,2,777,0.0228,0.0290,-0.0062
+2026-11-10,10.69,10.69,10.69,10.69,10.69,10.68,10.61,10.45,10.39,10.6300,1,10.7438,0,,777,0.0214,0.0275,-0.0061

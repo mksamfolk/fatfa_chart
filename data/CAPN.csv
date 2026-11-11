@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,CAO YAWEI,Chief Executive Officer,,Stock Gift,2026-10-23,766905,2026-10-23\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.094,497282,5688905,0.0\n1,2026-06-30,Mizuho Securities USA LLC,0.089899994,475500,5439719,-0.0008\n2,2026-06-30,"RiverNorth Capital Management, LLC",0.0851,450000,5147999,0.0\n3,2026-06-30,"Wolverine Asset Management, LLC",0.0523,276715,3165619,0.0037\n4,2026-06-30,Polar Asset Management Partners Inc.,0.051999997,275100,3147143,0.0004\n5,2026-06-30,Shaolin Capital Management LLC,0.0423,223900,2561415,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0349,184373,2109227,0.0\n7,2026-06-30,"Heights Capital Management, Inc                          ",0.028299998,149531,1710634,-0.0031\n8,2026-06-30,Clear Street Group Inc.,0.026800001,141837,1622615,0.0\n9,2026-06-30,Goldman Sachs Group Inc,0.012,63394,725227,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.094,497282,5698851,0.0\n1,2026-06-30,Mizuho Securities USA LLC,0.089899994,475500,5449230,-0.0008\n2,2026-06-30,"RiverNorth Capital Management, LLC",0.0851,450000,5157000,0.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.051999997,275100,3152646,0.0004\n4,2026-06-30,Shaolin Capital Management LLC,0.0423,223900,2565894,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0349,184373,2112914,0.0\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.028299998,149531,1713625,-0.0031\n7,2026-06-30,Clear Street Group Inc.,0.026800001,141837,1625452,0.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0225,119188,1365894,-0.5693\n9,2026-06-30,Goldman Sachs Group Inc,0.012,63394,726495,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0111,58500,669239,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.006,31500,360359,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,2715,31059,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0111,58500,670410,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.006,31500,360990,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,2715,31113,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,2875,0,,Stock Gift at price 0.00 per share.,CAO YAWEI,Chief Executive Officer,,2026-10-23,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.47212002\ninstitutionsPercentHeld,0.60504\ninstitutionsFloatPercentHeld,1.14617\ninstitutionsCount,22.0\n
+,Value\ninsidersPercentHeld,0.47212002\ninstitutionsPercentHeld,0.57568\ninstitutionsFloatPercentHeld,1.09055\ninstitutionsCount,21.0\n
 news
-[]\n
+[\n  {\n    "uuid": "f6c15326-987d-3327-b2fa-14a6d1165264",\n    "title": "Capital Group Canada Announces Estimated 2026 Annual Capital Gains Distributions for Capital Group Canada ETFs (CAPG, CAPI, CAPM, CAPW, CAPQ, CAPN, CAPU)",\n    "publisher": "CNW Group",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-canada-announces-estimated-220000644.html",\n    "providerPublishTime": 1793656800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/cnwgroup.com/63da9a56f82ca5d9a462444b70ac739e.jpg",\n          "width": 400,\n          "height": 379,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/987D9903120E0A6D83BB551A1E5E0549682BBC10AEA235D69FB9A438FDCCDF34/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2F63da9a56f82ca5d9a462444b70ac739e.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "CAPG.TO",\n      "CAPI.TO",\n      "CAPM.TO",\n      "CAPN.TO",\n      "CAPQ.TO",\n      "CAPU.TO",\n      "CAPW.TO"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.82,CAPN,Cayson Acquisition Corp,Financial Services,Shell Companies,United States,60495772,11.44,3640,1504,17205.76,,-0.469,-0.641,0.0,0.0,0.0,,,54485,1700000,,0.055,0.03,-128933,,5288092,3496063,0.47212002,0.60504,2826,1.16,0.0008,67.29411,,,-15.844874,,,,,,,none,,,,,,,-0.067,https://www.caysonspac.com,2026-10-31T14:52:15.553047+00:00
+62.27,CAPN,Cayson Acquisition Corp,Financial Services,Shell Companies,United States,60601536,11.46,400,1543,17682.780000000002,,-0.469,-0.641,0.0,0.0,0.0,,,54485,1700000,,0.055,0.03,-128933,,5288092,3496063,0.47212002,0.57568,2826,1.16,0.0008,67.411766,,,-15.872576,,,,,,,none,,,,,,,-0.074,https://www.caysonspac.com,2026-11-10T08:36:15.928391+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-24,9.97,10.02,9.95,9.95,,,,,,,0,10.0250,0,5571,,,,
 2024-10-25,9.96,9.97,9.95,9.96,,,,,,,0,10.0250,0,2222,,,,
@@ -523,3 +523,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,11.45,11.45,11.45,11.45,11.35,11.36,11.24,11.07,10.99,11.4982,0,11.8355,0,7,11,0.0482,0.0406,0.0076
 2026-11-03,11.46,11.46,11.46,11.46,11.37,11.37,11.25,11.07,10.99,11.4982,0,11.8226,0,22,12,0.0515,0.0428,0.0087
 2026-11-04,11.46,11.46,11.46,11.46,11.39,11.38,11.26,11.08,10.99,11.4982,0,11.8099,0,,12,0.0535,0.0449,0.0086
+2026-11-05,11.46,11.46,11.46,11.46,11.40,11.39,11.26,11.08,11.00,11.4982,0,11.7975,0,,12,0.0545,0.0468,0.0077
+2026-11-06,11.46,11.46,11.46,11.46,11.42,11.39,11.27,11.09,11.00,11.4982,0,11.7854,0,,12,0.0546,0.0484,0.0062
+2026-11-09,11.46,11.46,11.46,11.46,11.44,11.39,11.28,11.09,11.01,11.4982,0,11.7735,0,,12,0.0541,0.0495,0.0046
+2026-11-10,11.46,11.46,11.46,11.46,11.45,11.39,11.28,11.10,11.01,11.4982,0,11.7618,0,,12,0.0531,0.0502,0.0029

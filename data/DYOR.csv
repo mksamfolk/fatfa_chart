@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.086899996,1499000,15244680,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13729364,0.0\n2,2026-06-30,Fort Baker Capital Management LP,0.0446,769129,7821964,0.0\n3,2026-06-30,Glazer Capital LLC,0.0402,693518,7053008,0.126\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0377,650000,6610434,0.0\n5,2026-06-30,Linden Advisors LP,0.0377,650000,6610434,0.0\n6,2026-06-30,"Verition Fund Management, LLC",0.0376,648992,6600183,-0.059699997\n7,2026-06-30,Millennium Management Llc,0.032899998,567750,5773960,0.0\n8,2026-06-30,First Trust Capital Management L.P.,0.0315,543326,5525571,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.031400003,540906,5500959,0.0007\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.086899996,1499000,15230440,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13716540,0.0\n2,2026-06-30,Fort Baker Capital Management LP,0.0446,769129,7814658,0.0\n3,2026-06-30,Glazer Capital LLC,0.0402,693518,7046420,0.126\n4,2026-09-30,First Trust Capital Management L.P.,0.0402,693326,7044469,0.2761\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0377,650000,6604260,0.0\n6,2026-06-30,Linden Advisors LP,0.0377,650000,6604260,0.0\n7,2026-06-30,"Verition Fund Management, LLC",0.0376,648992,6594018,-0.059699997\n8,2026-06-30,Millennium Management Llc,0.032899998,567750,5768567,0.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.031400003,540906,5495821,0.0007\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0272,469164,4771350,0.0\n1,2026-05-31,High Income Securities Fund,0.0058,100000,1016989,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0058,100000,1016989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0042,72164,733900,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,11085,112733,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0272,469164,4766894,0.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.0058,100000,1016040,0.0\n2,2026-08-31,High Income Securities Fund,0.0058,100000,1016040,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0042,72164,733215,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00059999997,11085,112628,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.90072\ninstitutionsFloatPercentHeld,0.90072\ninstitutionsCount,54.0\n
+,Value\ninsidersPercentHeld,0.00116\ninstitutionsPercentHeld,0.89146006\ninstitutionsFloatPercentHeld,0.8925\ninstitutionsCount,53.0\n
 news
 [\n  {\n    "uuid": "4ea4ef27-1bfc-3937-95f2-9b73c1786012",\n    "title": "SpaceX Is One of the ‘Most Hyped’ Stocks. It’s a Double-Edged Sword.",\n    "publisher": "Barrons.com",\n    "link": "https://finance.yahoo.com/m/4ea4ef27-1bfc-3937-95f2-9b73c1786012/spacex-is-one-of-the-%E2%80%98most.html",\n    "providerPublishTime": 1790254140,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/Barrons.com/d0ddd3b283987cff3dd9babc738f0c1a.jpg",\n          "width": 1280,\n          "height": 640,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/967259BB33C6B107A4DBC8E2839F3E4B0DFA77BF4DA2A6210DEBA49061B5E95C/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2Fd0ddd3b283987cff3dd9babc738f0c1a.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "SPCX",\n      "DYOR",\n      "AMD",\n      "MU",\n      "META"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DYOR,Insight Digital Partners II,Financial Services,Shell Companies,United States,233907696,10.1699,170,26229,266746.3071,,,,0.0,0.0,0.0,,,787476,0,,11.251,10.654,-678318,,17250000,14400990,0.0,0.90072,53,0.0,0.0,,,,-38.52235,,,,,,,none,,,,,,,,https://www.insightacqcorp.com,2026-10-31T15:39:56.590876+00:00
+0.00,DYOR,Insight Digital Partners II,Financial Services,Shell Companies,United States,233689216,10.1604,7930,27432,278720.0928,,,,0.0,0.0,0.0,,,787476,0,,11.251,10.654,-678318,,17250000,14400990,0.00116,0.89146006,53,0.0,0.0,,,,-38.486366,,,,,,,none,,,,,,,,https://www.insightacqcorp.com,2026-11-10T09:22:21.178638+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-18,9.95,9.96,9.94,9.96,,,,,,,0,9.9600,0,266,,,,
 2025-11-19,9.90,9.93,9.90,9.93,,,,,,,0,9.9600,0,279,,,,
@@ -256,3 +256,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.17,10.17,10.17,10.17,10.16,10.16,10.13,10.05,10.03,10.1593,1,10.1434,1,,205,0.0112,0.0109,0.0003
 2026-11-03,10.17,10.17,10.17,10.17,10.16,10.16,10.13,10.05,10.03,10.1603,1,10.1445,1,,205,0.0112,0.0110,0.0002
 2026-11-04,10.17,10.17,10.17,10.17,10.16,10.16,10.13,10.06,10.03,10.1613,1,10.1455,1,4,205,0.0111,0.0110,0.0001
+2026-11-05,10.17,10.17,10.16,10.17,10.17,10.16,10.13,10.06,10.03,10.1613,1,10.1465,1,511,215,0.0109,0.0110,-0.0001
+2026-11-06,10.18,10.18,10.18,10.18,10.17,10.16,10.13,10.06,10.03,10.1648,1,10.1474,1,279,220,0.0114,0.0111,0.0004
+2026-11-09,10.16,10.16,10.16,10.16,10.17,10.16,10.14,10.06,10.03,10.1775,0,10.1494,1,2,220,0.0101,0.0109,-0.0008
+2026-11-10,10.17,10.17,10.17,10.17,10.17,10.16,10.14,10.06,10.03,10.1775,0,10.1512,1,222,225,0.0098,0.0107,-0.0009

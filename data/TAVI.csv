@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.2163,1893627,20545853,-0.1302\n1,2026-06-30,Berkley W R Corp,0.0626,548331,5949391,1.5285001\n2,2026-06-30,Mizuho Securities USA LLC,0.0572,500642,5431965,-0.0167\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.0392,343110,3722743,0.8272\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0343,300000,3255000,-0.6875\n5,2026-06-30,AQR Arbitrage LLC,0.025,218600,2371810,-0.66620004\n6,2026-06-30,"Wolverine Asset Management, LLC",0.0121,105503,1144707,0.3168\n7,2026-06-30,Goldman Sachs Group Inc,0.0082,71525,776046,-0.6664\n8,2026-06-30,"Centiva Capital, LP",0.0057,50000,542500,0.0\n9,2026-06-30,"Meteora Capital, LLC",0.0057,49999,542489,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.2163,1893627,20583725,-0.1302\n1,2026-06-30,Berkley W R Corp,0.0626,548331,5960357,1.5285001\n2,2026-09-30,Mizuho Securities USA LLC,0.0622,544830,5922302,0.0883\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.0392,343110,3729605,0.8272\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0343,300000,3260999,-0.6875\n5,2026-06-30,AQR Arbitrage LLC,0.025,218600,2376181,-0.66620004\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0095999995,84245,915743,-0.2015\n7,2026-06-30,Goldman Sachs Group Inc,0.0082,71525,777476,-0.6664\n8,2026-06-30,"Centiva Capital, LP",0.0057,50000,543499,0.0\n9,2026-06-30,"Meteora Capital, LLC",0.0057,49999,543489,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,3737,40546,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,3737,40621,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.43791\ninstitutionsPercentHeld,0.55709\ninstitutionsFloatPercentHeld,0.99111\ninstitutionsCount,23.0\n
+,Value\ninsidersPercentHeld,0.4397\ninstitutionsPercentHeld,0.55971\ninstitutionsFloatPercentHeld,0.99894994\ninstitutionsCount,23.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.07,TAVI,Tavia Acquisition Corp.,Financial Services,Shell Companies,United States,94976648,10.85,3190,4840,52514.0,,,,0.0,0.0,0.0,,-0.014520001,213484,860000,,0.103,0.073,-483342,162999,8753608,4671188,0.43791,0.55709,43,0.01,0.0,72.333336,,,-36.046513,,,,,,,none,,,,,,,,https://tavia.co,2026-10-31T20:21:38.040909+00:00
+58.28,TAVI,Tavia Acquisition Corp.,Financial Services,Shell Companies,United States,95151720,10.87,6910,5262,57197.939999999995,,,,0.0,0.0,0.0,,-0.014520001,213484,860000,,0.103,0.073,-483342,162999,8753608,4671188,0.4397,0.55971,43,0.01,0.0,72.46666,,,-36.112957,,,,,,,none,,,,,,,,https://tavia.co,2026-11-10T13:10:40.947575+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-20,9.90,9.91,9.90,9.91,,,,,,,0,9.9100,0,6729,,,,
 2024-12-23,9.91,9.91,9.89,9.89,,,,,,,0,9.9100,0,748,,,,
@@ -483,3 +483,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.85,10.85,10.85,10.85,10.83,10.81,10.75,10.66,10.61,10.8264,1,10.6712,1,,64,0.0285,0.0273,0.0012
 2026-11-03,10.85,10.85,10.85,10.85,10.84,10.82,10.76,10.66,10.62,10.8288,1,10.6747,1,,63,0.0280,0.0274,0.0006
 2026-11-04,10.85,10.85,10.85,10.85,10.84,10.82,10.76,10.66,10.62,10.8309,1,10.6783,1,12,63,0.0273,0.0274,-0.0001
+2026-11-05,10.85,10.85,10.85,10.85,10.84,10.82,10.76,10.67,10.62,10.8328,1,10.6817,1,,63,0.0265,0.0272,-0.0008
+2026-11-06,10.85,10.85,10.85,10.85,10.85,10.83,10.76,10.67,10.62,10.8345,1,10.6851,1,49,64,0.0255,0.0269,-0.0014
+2026-11-09,10.86,10.87,10.85,10.87,10.85,10.83,10.77,10.67,10.63,10.8401,1,10.6884,1,393,70,0.0260,0.0267,-0.0007
+2026-11-10,10.87,10.87,10.87,10.87,10.85,10.84,10.77,10.67,10.63,10.8521,1,10.6956,1,,70,0.0261,0.0266,-0.0004

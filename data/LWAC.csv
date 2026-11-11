@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Shaw D.E. & Co., Inc.",0.0481,1067343,11068346,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0467,1034640,10729216,0.0089\n2,2026-06-30,Magnetar Financial LLC,0.0461,1022800,10606435,0.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.045100003,1000000,10369999,0.0\n4,2026-06-30,Linden Advisors LP,0.0429,950000,9851499,0.0\n5,2026-06-30,"Westchester Capital Management, LLC",0.037,819872,8502072,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.033800002,750000,7777499,0.0\n7,2026-06-30,"Two Sigma Investments, LP",0.0307,679687,7048354,0.0\n8,2026-06-30,"Verition Fund Management, LLC",0.0295,655013,6792484,-0.1333\n9,2026-06-30,Glazer Capital LLC,0.0274,608350,6308589,0.5592\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Shaw D.E. & Co., Inc.",0.0481,1067343,11079020,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0467,1034640,10739563,0.0089\n2,2026-06-30,Magnetar Financial LLC,0.0461,1022800,10616664,0.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.045100003,1000000,10380000,0.0\n4,2026-06-30,Linden Advisors LP,0.0429,950000,9861000,0.0\n5,2026-06-30,"Westchester Capital Management, LLC",0.037,819872,8510271,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.033800002,750000,7785000,0.0\n7,2026-06-30,"Two Sigma Investments, LP",0.0307,679687,7055151,0.0\n8,2026-06-30,"Verition Fund Management, LLC",0.0295,655013,6799035,-0.1333\n9,2026-06-30,Glazer Capital LLC,0.0274,608350,6314673,0.5592\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0276,612574,6352392,0.0\n1,2026-05-31,High Income Securities Fund,0.0045,100000,1036999,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0045,100000,1036999,0.0\n3,2026-06-30,"Special Opportunities Fund, Inc.",0.0045,100000,1036999,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0045,98911,1025707,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0015,34056,353160,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,33719,349666,0.0\n7,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,17587,182377,0.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,15438,160092,0.0\n9,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0005,12120,125684,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0276,612574,6358518,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0045,100000,1038000,0.0\n2,2026-06-30,"Special Opportunities Fund, Inc.",0.0045,100000,1038000,0.0\n3,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0045,98911,1026696,0.0\n4,2026-08-31,High Income Securities Fund,0.0045,100000,1038000,0.0\n5,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0015,34056,353501,0.0\n6,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0015,33719,350003,0.0\n7,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,17587,182553,0.0\n8,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,15438,160246,0.0\n9,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0005,12120,125805,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.87825996\ninstitutionsFloatPercentHeld,0.87825996\ninstitutionsCount,62.0\n
+,Value\ninsidersPercentHeld,0.00158\ninstitutionsPercentHeld,0.85450995\ninstitutionsFloatPercentHeld,0.85586\ninstitutionsCount,62.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.24,LWAC,LightWave Acquisition Corp.,Financial Services,Shell Companies,United States,311877760,10.37,46250,30204,313215.48,,,,0.0,0.0,0.0,,,472668,0,,0.079,0.063,-793937,,22168750,22168884,0.0,0.87825996,274,0.01,0.0,,,,-42.85124,,,,,,,none,,,,,,,,https://lightwaveacquisition.com,2026-10-31T18:15:28.787195+00:00
+57.14,LWAC,LightWave Acquisition Corp.,Financial Services,Shell Companies,United States,312178496,10.38,17320,32896,341460.48000000004,,,,0.0,0.0,0.0,,,472668,0,,0.079,0.063,-793937,,22168750,22168884,0.00158,0.85450995,274,0.01,0.0,,,,-42.892563,,,,,,,none,,,,,,,,https://lightwaveacquisition.com,2026-11-10T11:05:06.373863+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-15,10.00,10.00,9.99,9.99,,,,,,,0,10.0000,0,23,,,,
 2025-08-18,9.99,9.99,9.97,9.97,,,,,,,0,10.0000,0,501,,,,
@@ -322,3 +322,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.36,10.37,10.36,10.37,10.36,10.36,10.33,10.25,10.20,10.3679,1,10.3504,1,1038,246,0.0114,0.0107,0.0007
 2026-11-03,10.37,10.39,10.37,10.39,10.37,10.36,10.34,10.25,10.21,10.3679,1,10.3523,1,209,251,0.0128,0.0111,0.0017
 2026-11-04,10.36,10.39,10.36,10.39,10.37,10.36,10.34,10.25,10.21,10.3679,1,10.3542,1,264,256,0.0137,0.0117,0.0021
+2026-11-05,10.37,10.38,10.37,10.37,10.37,10.36,10.34,10.25,10.21,10.3679,1,10.3561,1,277,261,0.0127,0.0119,0.0009
+2026-11-06,10.37,10.37,10.37,10.37,10.37,10.36,10.34,10.25,10.21,10.3679,1,10.3578,1,,261,0.0118,0.0119,-0.0001
+2026-11-09,10.37,10.38,10.37,10.38,10.38,10.36,10.34,10.25,10.21,10.3679,1,10.3595,1,115,264,0.0117,0.0118,-0.0001
+2026-11-10,10.39,10.39,10.39,10.39,10.38,10.37,10.35,10.26,10.21,10.3679,1,10.3611,1,10,264,0.0123,0.0119,0.0004

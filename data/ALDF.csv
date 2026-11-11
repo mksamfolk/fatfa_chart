@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.0992,2351288,25393910,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0801,1899098,20510258,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.0617,1463426,15805001,-0.033\n3,2026-06-30,LMR Partners LLP,0.0506,1200000,12960000,0.0\n4,2026-06-30,"Westchester Capital Management, LLC",0.048899997,1159448,12522038,0.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0464,1100000,11880000,0.0\n6,2026-06-30,Linden Advisors LP,0.0401,950000,10260000,0.0\n7,2026-06-30,"Ghisallo Capital Management, LLC",0.038,900000,9720000,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.037100002,880057,9504615,0.0\n9,2026-06-30,Picton Mahoney Asset Management,0.0322,763000,8240400,0.0173\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Harraden Circle Investments, LLC",0.231,2351288,25276346,0.0\n1,2026-06-30,Magnetar Financial LLC,0.1866,1899098,20415303,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.1438,1463426,15731829,-0.033\n3,2026-06-30,LMR Partners LLP,0.1179,1200000,12900000,0.0\n4,2026-06-30,"Westchester Capital Management, LLC",0.113900006,1159448,12464066,0.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.108100004,1100000,11825000,0.0\n6,2026-06-30,Linden Advisors LP,0.0933,950000,10212500,0.0\n7,2026-06-30,"Ghisallo Capital Management, LLC",0.0884,900000,9675000,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0865,880057,9460612,0.0\n9,2026-06-30,Picton Mahoney Asset Management,0.075,763000,8202250,0.0173\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0464,1100357,11883855,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058999998,140000,1512000,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0025,59091,638182,0.0\n3,2026-06-30,"Special Opportunities Fund, Inc.",0.0016,38904,420163,0.0\n4,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0013,30000,324000,0.0\n5,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,12762,137829,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,8655,93474,-0.040799998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.108100004,1100357,11828837,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0138,140000,1505000,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0058,59091,635228,0.0\n3,2026-06-30,"Special Opportunities Fund, Inc.",0.0038,38904,418218,0.0\n4,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0029,30000,322500,0.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0013,12762,137191,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00090000004,8655,93041,-0.040799998\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01856\ninstitutionsPercentHeld,1.07165\ninstitutionsFloatPercentHeld,1.09192\ninstitutionsCount,59.0\n
+,Value\ninsidersPercentHeld,0.04323\ninstitutionsPercentHeld,2.45262\ninstitutionsFloatPercentHeld,2.5634298\ninstitutionsCount,57.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.89,ALDF,Aldel Financial II Inc.,Financial Services,Shell Companies,United States,322576704,10.8,330,29585,319518.0,,-0.117,-0.117,0.0,0.0,0.0,,,283112,0,,16.76,14.115,8792769,,23707500,19017092,0.01856,1.07165,604,0.05,0.0,51.428574,,,981.8182,,,,,,,none,,,,,,,,https://aldelfinancial.com,2026-10-31T14:02:02.525303+00:00
+36.25,ALDF,Aldel Financial II Inc.,Financial Services,Shell Companies,United States,109415600,10.75,1560,29776,320092.0,,,-0.117,0.0,0.0,0.0,,,209992,0,,9.033,8.627,8495549,,10178194,19017092,0.04323,2.45262,604,0.05,0.0,53.75,,,488.63635,,,,,,,none,,,,,,,,https://aldelfinancial.com,2026-11-06T11:10:13.689211+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-13,9.95,9.95,9.90,9.90,,,,,,,0,9.9500,0,3,,,,
 2024-12-16,9.90,9.90,9.90,9.90,,,,,,,0,9.9500,0,4085,,,,
@@ -488,3 +488,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.78,10.78,10.77,10.77,10.94,10.91,10.83,10.70,10.66,10.8497,0,10.9800,0,55,350,0.0183,0.0405,-0.0222
 2026-11-03,10.76,10.76,10.72,10.75,10.92,10.91,10.83,10.70,10.66,10.8223,0,10.9716,0,68,352,0.0043,0.0332,-0.0289
 2026-11-04,10.75,10.75,10.75,10.75,10.89,10.91,10.83,10.70,10.66,10.8223,0,10.9565,0,10,352,-0.0067,0.0253,-0.0320
+2026-11-05,10.71,10.79,10.71,10.75,10.87,10.90,10.83,10.71,10.66,10.8223,0,10.9423,0,26,352,-0.0152,0.0172,-0.0324
+2026-11-06,9.00,9.00,9.00,9.00,10.67,10.81,10.80,10.70,10.66,9.6066,0,10.9237,0,3,352,-0.1614,-0.0186,-0.1428

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0647,2700000,28079998,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0647,2700000,28079998,1.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.0647,2700000,28079998,1.0\n3,2026-06-30,Sculptor Capital LP,0.0551,2300000,23919999,1.0\n4,2026-06-30,Fort Baker Capital Management LP,0.0479,2000000,20799999,1.0\n5,2026-06-30,Lineage Point Capital LP,0.025,1042100,10837839,1.0\n6,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.024,1000000,10399999,1.0\n7,2026-06-30,Linden Advisors LP,0.024,1000000,10399999,1.0\n8,2026-06-30,"Moore Capital Management, LP",0.024,1000000,10399999,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.024,1000000,10399999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0647,2700000,27998999,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0647,2700000,27998999,1.0\n2,2026-06-30,"MMCAP International, Inc. SPC",0.0647,2700000,27998999,1.0\n3,2026-06-30,Sculptor Capital LP,0.0551,2300000,23850999,1.0\n4,2026-06-30,Fort Baker Capital Management LP,0.0479,2000000,20739999,1.0\n5,2026-06-30,Lineage Point Capital LP,0.025,1042100,10806576,1.0\n6,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.024,1000000,10369999,1.0\n7,2026-06-30,Linden Advisors LP,0.024,1000000,10369999,1.0\n8,2026-06-30,"Moore Capital Management, LP",0.024,1000000,10369999,1.0\n9,2026-06-30,"Shaw D.E. & Co., Inc.",0.024,1000000,10369999,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0004,15522,161428,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,11174,116209,0.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,6696,69638,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Saba Capital Income & Opportunities Fund,0.0004,15522,160963,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,11174,115874,0.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,6696,69437,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.63891\ninstitutionsFloatPercentHeld,0.63891\ninstitutionsCount,39.0\n
+,Value\ninsidersPercentHeld,0.00071999995\ninstitutionsPercentHeld,0.65237\ninstitutionsFloatPercentHeld,0.65283996\ninstitutionsCount,40.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CXII,Churchill Capital Corp XII,Financial Services,Shell Companies,United States,577720000,10.4,41260,37935,394524.0,,,,0.0,0.0,0.0,,,578224,0,,4.414,,0,,41750000,41750269,0.0,0.63891,9839,0.26,0.0002,,,,1.442041,,,,,,,none,,,,,,,,https://churchillcapital-12.com,2026-10-31T15:25:14.072550+00:00
+0.00,CXII,Churchill Capital Corp XII,Financial Services,Shell Companies,United States,576053504,10.37,7790,37118,384913.66,,,,0.0,0.0,0.0,,,578224,0,,4.414,,0,,41750000,41750269,0.00071999995,0.65237,9839,0.26,0.0002,,,,1.4378814,,,,,,,none,,,,,,,,https://churchillcapital-12.com,2026-11-10T09:08:31.350544+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-17,10.10,10.11,10.09,10.09,,,,,,,0,10.1100,0,94,,,,
 2026-06-18,10.08,10.08,10.05,10.05,,,,,,,0,10.1100,0,34,,,,
@@ -112,3 +112,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.39,10.39,10.35,10.35,10.38,10.44,10.63,,,10.5166,0,10.4344,0,36,490,-0.0789,-0.0841,0.0052
 2026-11-03,10.41,10.41,10.40,10.40,10.38,10.42,10.62,,,10.5166,0,10.4207,0,6,480,-0.0731,-0.0819,0.0088
 2026-11-04,10.35,10.35,10.35,10.35,10.38,10.41,10.61,,,10.5166,0,10.4100,0,17,479,-0.0717,-0.0799,0.0081
+2026-11-05,10.38,10.38,10.35,10.35,10.37,10.39,10.61,,,10.5166,0,10.4100,0,14,478,-0.0699,-0.0779,0.0080
+2026-11-06,10.33,10.37,10.33,10.35,10.37,10.38,10.60,,,10.5166,0,10.3992,0,29,479,-0.0676,-0.0758,0.0082
+2026-11-09,10.38,10.38,10.36,10.37,10.38,10.38,10.59,,,10.5166,0,10.3897,0,8,479,-0.0634,-0.0733,0.0099
+2026-11-10,10.38,10.50,10.38,10.48,10.39,10.38,10.59,,,10.5166,0,10.3200,1,157,482,-0.0507,-0.0688,0.0181

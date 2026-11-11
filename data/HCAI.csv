@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0002,80,202,1.0\n1,2026-06-30,Blackrock Inc.,0.0,1,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.0002,80,268,1.0\n1,2026-06-30,Blackrock Inc.,0.0,1,3,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.034679998\ninstitutionsPercentHeld,0.06519\ninstitutionsFloatPercentHeld,0.06753\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.03333\ninstitutionsPercentHeld,0.062649995\ninstitutionsFloatPercentHeld,0.06481\ninstitutionsCount,3.0\n
 news
 [\n  {\n    "uuid": "09b6bdb9-0938-3046-8da0-1476afb489f1",\n    "title": "Huachen AI Parking Management Technology Holding Co., Ltd. Announces 1-for-20 Reverse Stock Split Effective October 23, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/huachen-ai-parking-management-technology-120000705.html",\n    "providerPublishTime": 1792584000,\n    "type": "STORY",\n    "relatedTickers": [\n      "HCAI"\n    ]\n  },\n  {\n    "uuid": "bf37645a-c8c8-393d-931a-791e8653bf23",\n    "title": "Huachen AI Parking Management Technology Holding Co., Ltd Announces Closing of US$2.75 Million Public Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/huachen-ai-parking-management-technology-201500571.html",\n    "providerPublishTime": 1789589700,\n    "type": "STORY",\n    "relatedTickers": [\n      "HCAI"\n    ]\n  },\n  {\n    "uuid": "e4dff2cb-a001-3aab-a3e9-5e7388682c31",\n    "title": "Huachen AI Parking Management Technology Holding Co., Ltd. Announces Pricing of $2.75 Million Registered Direct Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/huachen-ai-parking-management-technology-132600489.html",\n    "providerPublishTime": 1789478760,\n    "type": "STORY",\n    "relatedTickers": [\n      "HCAI"\n    ]\n  },\n  {\n    "uuid": "576e127f-f150-3e0f-b28e-3e7cb10af1ae",\n    "title": "Huachen AI Parking Management Technology Holding Co., Ltd. Announces Strategic Cooperation with Beyinda Limited to Expand Precision Metal Components Market in China",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/articles/huachen-ai-parking-management-technology-200500638.html",\n    "providerPublishTime": 1788984300,\n    "type": "STORY",\n    "relatedTickers": [\n      "HCAI"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-04-13 09:30:00-04:00,0.03333333333333333\n2026-10-23 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.63,HCAI,Huachen AI Parking Management Technology Holding Co. Ltd,Industrials,Farm & Heavy Construction Machinery,China,1380529,2.53,190629,100004,253010.11999999997,,-0.941,-0.937,0.15614,0.02523,0.0,-2.06414,-0.38364,61896,31904,0.589,2.377,2.367,4200087,40403992,518998,51799,0.034679998,0.06519,41925,0.23,0.0808,,,0.15257353,0.027145049,0.013,,,,,,none,,,,,,,,https://www.hctdparking.com,2026-10-31T16:37:03.735277+00:00
+12.11,HCAI,Huachen AI Parking Management Technology Holding Co. Ltd,Industrials,Building Products & Equipment,China,1903927,3.36,50220,101672,341617.92,,-0.941,-0.937,0.15614,0.02523,0.0,-2.06414,-0.38364,61896,31904,0.589,2.377,2.367,4200087,40403992,539978,51799,0.03333,0.062649995,41925,0.23,0.0808,,,0.21041851,0.03605034,0.018,,,,,,none,,,,,,,,https://www.hctdparking.com,2026-11-10T10:12:44.732612+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-05,131.70,159.60,114.30,115.20,,,,,,,0,159.6000,0,7528,,,,
 2025-02-06,112.20,125.40,111.00,112.80,,,,,,,0,159.6000,0,2357,,,,
@@ -454,3 +454,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,2.63,2.71,2.01,2.34,3.48,1.92,3.37,6.15,6.70,4.8397,0,1.0873,1,51,808,-0.0188,-0.1913,0.1725
 2026-11-03,2.30,2.36,2.15,2.34,3.21,2.01,3.33,6.13,6.66,4.5497,0,1.1884,1,66,808,-0.0499,-0.1630,0.1131
 2026-11-04,2.36,3.04,2.25,2.63,3.02,2.12,3.28,6.11,6.62,4.5497,0,1.2874,1,120,799,-0.0505,-0.1405,0.0900
+2026-11-05,2.76,3.03,2.63,2.86,2.99,2.24,3.25,6.09,6.58,4.5497,0,1.3845,1,49,792,-0.0321,-0.1188,0.0867
+2026-11-06,2.86,3.20,2.65,2.79,2.92,2.35,3.21,6.07,6.55,4.5497,0,1.4796,1,36,788,-0.0229,-0.0997,0.0767
+2026-11-09,2.93,3.66,2.80,3.36,2.89,2.50,3.19,6.06,6.51,4.5497,0,1.5728,1,119,780,0.0300,-0.0737,0.1038
+2026-11-10,3.66,3.66,3.30,3.37,2.88,2.66,3.17,6.05,6.49,4.5497,0,1.6641,1,43,780,0.0720,-0.0446,0.1166

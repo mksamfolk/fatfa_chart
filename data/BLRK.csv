@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0464,799992,8099919,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0435,750338,7597172,0.0136\n2,2026-06-30,Linden Advisors LP,0.0435,750000,7593750,0.0\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0377,650000,6581250,0.0\n4,2026-06-30,Millennium Management Llc,0.0348,600000,6075000,1.0\n5,2026-06-30,"Aristeia Capital, LLC",0.0296,510610,5169926,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.029000001,500000,5062500,0.0\n7,2026-06-30,Picton Mahoney Asset Management,0.029000001,500000,5062500,0.0\n8,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.029000001,499998,5062479,0.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,500000,5062500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0464,799992,8103919,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0435,750338,7600924,0.0136\n2,2026-06-30,Linden Advisors LP,0.0435,750000,7597500,0.0\n3,2026-06-30,Mint Tower Capital Management B.V.,0.0377,650000,6584500,0.0\n4,2026-06-30,Millennium Management Llc,0.0348,600000,6078000,1.0\n5,2026-06-30,"Aristeia Capital, LLC",0.0296,510610,5172479,0.0\n6,2026-06-30,Alberta Investment Management Corp,0.029000001,500000,5065000,0.0\n7,2026-06-30,Picton Mahoney Asset Management,0.029000001,500000,5065000,0.0\n8,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.029000001,499998,5064979,0.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,500000,5065000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0166,286905,2904913,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1012489,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0026,44193,447454,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0166,286905,2906347,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1012989,0.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0026,44193,447675,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.88816\ninstitutionsFloatPercentHeld,0.88816\ninstitutionsCount,57.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.84486\ninstitutionsFloatPercentHeld,0.84486\ninstitutionsCount,56.0\n
 news
-[\n  {\n    "uuid": "4b04d531-2c3a-3775-ac72-e437240bf54f",\n    "title": "Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public via $550 Million Merger with Bluerock Acquisition Corp. (Nasdaq: BLRK)",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/technology/ai/articles/yellow-ai-global-leader-enterprise-120000935.html",\n    "providerPublishTime": 1785758400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/bfe4c052b2202392d2cc356fdb3ece61",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/E91040AE8F37D8B076CC97E090F47A543822DF02BB32DBEB29BF180C9E2C0CC0/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fbfe4c052b2202392d2cc356fdb3ece61",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
+[]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BLRK,Bluerock Acquisition Corp.,Financial Services,Shell Companies,United States,232875008,10.125,34480,81803,828255.375,,,,0.0,0.0,0.0,,,341068,0,,9.814,8.711,-506140,,17250000,17250000,0.0,0.88816,1135,0.03,0.0001,,,,-33.305923,,,,,,,none,,,,,,,,https://bluerock.com/bluerock-acquisition-corp.,2026-10-31T14:38:43.340424+00:00
+0.00,BLRK,Bluerock Acquisition Corp.,Financial Services,Shell Companies,United States,232990000,10.13,45780,75826,768117.38,,,,0.0,0.0,0.0,,,341068,0,,9.814,8.711,-506140,,17250000,17250000,0.0,0.84486,1135,0.03,0.0001,,,,-33.32237,,,,,,,none,,,,,,,,https://bluerock.com/bluerock-acquisition-corp.,2026-11-10T08:23:21.343725+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-02,9.95,10.00,9.87,9.95,,,,,,,0,10.0000,0,142,,,,
 2026-02-03,9.91,9.91,9.87,9.90,,,,,,,0,10.0000,0,84,,,,
@@ -206,3 +206,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.12,10.13,10.12,10.12,10.11,10.12,10.09,10.00,,10.1492,0,10.2841,0,162,986,0.0071,0.0066,0.0005
 2026-11-03,10.13,10.13,10.12,10.13,10.11,10.12,10.09,10.00,,10.1492,0,10.2794,0,140,931,0.0078,0.0068,0.0010
 2026-11-04,10.12,10.13,10.12,10.13,10.12,10.12,10.09,10.01,,10.1492,0,10.2748,0,504,918,0.0083,0.0071,0.0012
+2026-11-05,10.12,10.13,10.12,10.13,10.12,10.12,10.10,10.01,,10.1492,0,10.2703,0,598,925,0.0086,0.0074,0.0011
+2026-11-06,10.12,10.13,10.12,10.13,10.12,10.12,10.10,10.01,,10.1492,0,10.2659,0,134,906,0.0087,0.0077,0.0010
+2026-11-09,10.12,10.13,10.12,10.13,10.13,10.11,10.10,10.01,,10.1492,0,10.2616,0,133,909,0.0087,0.0079,0.0008
+2026-11-10,10.13,10.14,10.13,10.14,10.13,10.11,10.10,10.01,,10.1492,0,10.2574,0,115,910,0.0094,0.0082,0.0012

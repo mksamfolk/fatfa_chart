@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.09810001,1961501,20281920,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0925,1850000,19129000,0.0\n2,2026-06-30,"Karpus Management, Inc.",0.0624,1247903,12903317,0.15010001\n3,2026-06-30,First Trust Capital Management L.P.,0.0546,1092788,11299428,0.0\n4,2026-06-30,"CrossingBridge Advisors, LLC",0.0497,993758,10275457,0.1182\n5,2026-06-30,"Shaw D.E. & Co., Inc.",0.0495,989142,10227728,0.0\n6,2026-06-30,Glazer Capital LLC,0.0482,963103,9958485,-0.037\n7,2026-06-30,"Aristeia Capital, LLC",0.0463,925000,9564500,0.0\n8,2026-06-30,"Centiva Capital, LP",0.0416,832010,8602983,0.0\n9,2026-06-30,"Whitebox Advisors, LLC",0.041300002,825000,8530500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.09810001,1961501,20301536,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0925,1850000,19147500,0.0\n2,2026-06-30,"Karpus Management, Inc.",0.0624,1247903,12915796,0.15010001\n3,2026-09-30,First Trust Capital Management L.P.,0.0546,1092788,11310356,0.0\n4,2026-06-30,"CrossingBridge Advisors, LLC",0.0497,993758,10285395,0.1182\n5,2026-06-30,"Shaw D.E. & Co., Inc.",0.0495,989142,10237620,0.0\n6,2026-06-30,Glazer Capital LLC,0.0482,963103,9968116,-0.037\n7,2026-06-30,"Aristeia Capital, LLC",0.0463,925000,9573750,0.0\n8,2026-06-30,"Centiva Capital, LP",0.0416,832010,8611303,0.0\n9,2026-06-30,"Whitebox Advisors, LLC",0.041300002,825000,8538750,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.045,900280,9308895,0.0\n1,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.022,439635,4545825,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.021300001,425585,4400548,0.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.015,300000,3102000,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0094,188942,1953660,0.0\n5,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.009,179123,1852131,0.2185\n6,2026-05-31,High Income Securities Fund,0.005,100000,1034000,0.0\n7,2026-06-30,"Special Opportunities Fund, Inc.",0.005,100000,1034000,0.0\n8,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0044,87500,904750,0.0\n9,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0023999999,47203,488079,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.045,900280,9317898,0.0\n1,2026-09-30,Trust for Professional Managers-RiverPark Strategic Income Fund,0.022,439635,4550222,0.0\n2,2026-06-30,Merger Fund-The Merger Fund,0.021300001,425585,4404804,0.0\n3,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.015,300000,3105000,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0094,188942,1955549,0.0\n5,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.009,179123,1853923,0.2185\n6,2026-06-30,"Special Opportunities Fund, Inc.",0.005,100000,1035000,0.0\n7,2026-08-31,High Income Securities Fund,0.005,100000,1035000,0.0\n8,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0044,87500,905625,0.0\n9,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0023999999,47203,488551,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,1.0887899\ninstitutionsFloatPercentHeld,1.0887899\ninstitutionsCount,49.0\n
+,Value\ninsidersPercentHeld,0.0015\ninstitutionsPercentHeld,1.09034\ninstitutionsFloatPercentHeld,1.09197\ninstitutionsCount,49.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.68,VNME,Vendome Acquisition Corporation I,Financial Services,Shell Companies,United States,258500000,10.34,5520,26673,275798.82,,,,0.0,0.0,0.0,,,301960,120000,49.884,3.393,1.801,-858557,,20000000,16152250,0.0,1.0887899,43965,1.1,0.0022,,,,1034.0,,,,,,,none,,,,,,,,,2026-10-31T20:54:24.808594+00:00
+57.02,VNME,Vendome Acquisition Corporation I,Financial Services,Shell Companies,United States,258750016,10.35,7820,27870,288454.5,,,,0.0,0.0,0.0,,,301960,120000,49.884,3.393,1.801,-858557,,20000000,16152250,0.0015,1.09034,43965,1.1,0.0022,,,,1035.0001,,,,,,,none,,,,,,,,,2026-11-10T13:43:03.608338+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-22,9.95,9.95,9.93,9.93,,,,,,,0,9.9500,0,1712,,,,
 2025-08-25,9.93,9.93,9.93,9.93,,,,,,,0,9.9500,0,43,,,,
@@ -317,3 +317,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.34,10.34,10.34,10.34,10.32,10.32,10.28,10.20,10.17,10.3243,1,10.3136,1,,339,0.0135,0.0137,-0.0001
 2026-11-03,10.34,10.34,10.34,10.34,10.32,10.32,10.29,10.20,10.17,10.3259,1,10.3168,1,,339,0.0139,0.0137,0.0002
 2026-11-04,10.34,10.34,10.34,10.34,10.33,10.32,10.29,10.20,10.17,10.3273,1,10.3196,1,8,339,0.0140,0.0138,0.0002
+2026-11-05,10.32,10.32,10.32,10.32,10.33,10.32,10.29,10.20,10.17,10.3374,0,10.3400,0,776,355,0.0123,0.0135,-0.0011
+2026-11-06,10.33,10.35,10.33,10.35,10.33,10.33,10.29,10.21,10.17,10.3153,1,10.3200,1,12,355,0.0133,0.0134,-0.0001
+2026-11-09,10.35,10.35,10.35,10.35,10.33,10.33,10.29,10.21,10.17,10.3278,1,10.3200,1,,355,0.0139,0.0135,0.0004
+2026-11-10,10.35,10.35,10.35,10.35,10.34,10.33,10.30,10.21,10.18,10.3300,1,10.3206,1,,355,0.0142,0.0137,0.0005

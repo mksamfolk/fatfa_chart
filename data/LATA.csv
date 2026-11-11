@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13783500,0.0\n1,2026-06-30,Picton Mahoney Asset Management,0.0588,1014996,10363109,0.015\n2,2026-06-30,"Wolverine Asset Management, LLC",0.048899997,843176,8608826,0.64779997\n3,2026-06-30,Linden Advisors LP,0.0435,750000,7657500,0.0\n4,2026-06-30,Alberta Investment Management Corp,0.042,725000,7402250,0.0\n5,2026-06-30,Magnetar Financial LLC,0.040599998,699987,7146867,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0383,660783,6746594,0.0087\n7,2026-06-30,"Verition Fund Management, LLC",0.0372,641722,6551981,0.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,600000,6126000,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0336,580388,5925761,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1350000,13797000,0.0\n1,2026-06-30,Picton Mahoney Asset Management,0.0588,1014996,10373259,0.015\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0499,861331,8802803,0.0215\n3,2026-06-30,Linden Advisors LP,0.0435,750000,7665000,0.0\n4,2026-06-30,Alberta Investment Management Corp,0.042,725000,7409500,0.0\n5,2026-06-30,Magnetar Financial LLC,0.040599998,699987,7153867,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0383,660783,6753202,0.0087\n7,2026-06-30,"Verition Fund Management, LLC",0.0372,641722,6558399,0.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,600000,6132000,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0336,580388,5931565,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0084,144239,1472680,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1020989,0.0\n2,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,11565,118078,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,7980,81475,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0004,7747,79096,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,5590,57073,0.0\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,2804,28628,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,3607,36827,0.0\n8,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,1455,14855,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0084,144239,1474122,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0058,99999,1021989,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,11565,118194,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0005,7980,81555,0.0\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0004,7747,79174,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.00029999999,5590,57129,0.0\n6,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0002,2804,28656,0.0\n7,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,3607,36863,0.0\n8,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0001,1455,14870,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.91638\ninstitutionsFloatPercentHeld,0.91638\ninstitutionsCount,55.0\n
+,Value\ninsidersPercentHeld,0.00116\ninstitutionsPercentHeld,0.88708\ninstitutionsFloatPercentHeld,0.88811\ninstitutionsCount,54.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LATA,Galata Acquisition Corp. II,Financial Services,Shell Companies,United States,234830000,10.21,1160,13748,140367.08000000002,,,,0.0,0.0,0.0,,,656117,0,,12.494,11.313,-731318,,17250000,15899900,0.0,0.91638,31,0.0,0.0,,,,-44.00862,,,,,,,none,,,,,,,,,2026-10-31T18:02:57.007216+00:00
+0.00,LATA,Galata Acquisition Corp. II,Financial Services,Shell Companies,United States,235060000,10.22,23950,17260,176397.2,,,,0.0,0.0,0.0,,,656117,0,,12.494,11.313,-731318,,17250000,15899900,0.00116,0.88708,31,0.0,0.0,,,,-44.051727,,,,,,,none,,,,,,,,,2026-11-10T10:52:59.816066+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-10,10.02,10.20,10.01,10.11,,,,,,,0,10.2000,0,198,,,,
 2025-11-11,9.97,9.98,9.97,9.97,,,,,,,0,10.2000,0,787,,,,
@@ -262,3 +262,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.21,10.21,10.21,10.21,10.20,10.21,10.18,10.10,10.08,10.2017,1,10.2154,0,256,48,0.0068,0.0082,-0.0014
 2026-11-03,10.21,10.21,10.21,10.21,10.21,10.21,10.18,10.10,10.08,10.2026,1,10.2150,0,,47,0.0066,0.0079,-0.0013
 2026-11-04,10.22,10.22,10.22,10.22,10.21,10.21,10.19,10.10,10.08,10.2103,1,10.1950,1,20,47,0.0071,0.0077,-0.0006
+2026-11-05,10.22,10.22,10.22,10.22,10.21,10.21,10.19,10.11,10.08,10.2113,1,10.1955,1,2126,89,0.0074,0.0077,-0.0002
+2026-11-06,10.22,10.22,10.22,10.22,10.21,10.21,10.19,10.11,10.08,10.2121,1,10.1960,1,,89,0.0076,0.0077,-0.0001
+2026-11-09,10.22,10.22,10.22,10.22,10.21,10.21,10.19,10.11,10.08,10.2129,1,10.1965,1,,89,0.0077,0.0077,-0.0000
+2026-11-10,10.23,10.23,10.23,10.23,10.22,10.21,10.19,10.11,10.09,10.2206,1,10.1969,1,205,93,0.0084,0.0078,0.0006

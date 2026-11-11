@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0070999996,2980,10072,0.72550005\n1,2026-06-30,Xtx Topco Ltd,0.0044,1834,6198,0.4173\n2,2026-06-30,Citadel Advisors Llc,0.0023999999,989,3342,1.0\n3,2026-06-30,UBS Group AG,0.0023,980,3312,6.1533003\n4,2026-06-30,Stonex Group Inc.,0.0017,711,2403,1.0\n5,2026-06-30,"Two Sigma Investments, LP",0.0008,340,1149,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0070999996,2980,8284,0.72550005\n1,2026-06-30,Xtx Topco Ltd,0.0044,1834,5098,0.4173\n2,2026-06-30,Citadel Advisors Llc,0.0023999999,989,2749,1.0\n3,2026-06-30,UBS Group AG,0.0023,980,2724,6.1533003\n4,2026-09-30,Stonex Group Inc.,0.0022,913,2538,0.2841\n5,2026-06-30,"Two Sigma Investments, LP",0.0008,340,945,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,5510,18623,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,5510,15317,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.4179\ninstitutionsPercentHeld,0.01877\ninstitutionsFloatPercentHeld,0.03225\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.4179\ninstitutionsPercentHeld,0.01926\ninstitutionsFloatPercentHeld,0.03308\ninstitutionsCount,6.0\n
 news
-[\n  {\n    "uuid": "e19a929a-32de-33dd-a997-ebfeb02d73cd",\n    "title": "Kandal M Venture Limited Reports Significant Gross Profit Growth of 45% in Financial Results for the Six Months Ended September 30, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/kandal-m-venture-limited-reports-123000533.html",\n    "providerPublishTime": 1792067400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/4e0343f91aaa4f3709f102446c533761.jpg",\n          "width": 2653,\n          "height": 622,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BDC097D448FADE7BEE699C5DED10D6919164D2B7482CAA29BE8EEAF60E2BA0C5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F4e0343f91aaa4f3709f102446c533761.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "FMFC"\n    ]\n  },\n  {\n    "uuid": "da8189e0-9fb1-3859-a41c-96f533640f7f",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-110345639.html",\n    "providerPublishTime": 1785755025,\n    "type": "STORY",\n    "relatedTickers": [\n      "FMFC",\n      "FNGR",\n      "ZEO",\n      "INHD"\n    ]\n  }\n]\n
+[\n  {\n    "uuid": "e19a929a-32de-33dd-a997-ebfeb02d73cd",\n    "title": "Kandal M Venture Limited Reports Significant Gross Profit Growth of 45% in Financial Results for the Six Months Ended September 30, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/kandal-m-venture-limited-reports-123000533.html",\n    "providerPublishTime": 1792067400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/4e0343f91aaa4f3709f102446c533761.jpg",\n          "width": 2653,\n          "height": 622,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BDC097D448FADE7BEE699C5DED10D6919164D2B7482CAA29BE8EEAF60E2BA0C5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F4e0343f91aaa4f3709f102446c533761.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "FMFC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-10-13 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.71,FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,Cambodia,1664224,3.38,212900,84750,286455.0,0.204,,,0.19116,0.01437,0.0137600005,0.05592,0.01893,3652597,87632,1.089,2.61,1.785,-1884807,3615094,417374,208080,0.4179,0.01877,7520,0.13,0.0841,8.45,,0.09716356,0.19211096,-0.118,-3.87,,,,,none,,,,,,,,https://www.kandalmv.com,2026-10-31T16:07:14.130184+00:00
+99.23,FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,Cambodia,1368799,2.78,222190,79409,220757.02,0.204,,,0.19116,0.01437,0.0137600005,0.05592,0.01893,3652597,87632,1.089,2.61,1.785,-1884807,3615094,417374,208080,0.4179,0.01926,7520,0.13,0.0841,6.95,,0.07991555,0.15800841,-0.134,-4.397,,,,,none,,,,,,,,https://www.kandalmv.com,2026-11-10T09:47:26.477397+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-25,4.76,6.33,4.20,4.40,,,,,,,0,4.2000,1,17406,,,,
 2025-06-26,4.78,6.50,4.70,5.37,,,,,,,0,4.2000,1,8822,,,,
@@ -358,3 +358,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,3.40,3.65,3.40,3.47,3.81,4.05,1.76,0.83,0.72,5.5247,0,7.1451,0,259,705,0.5502,0.8065,-0.2563
 2026-11-03,3.46,3.83,3.45,3.67,3.71,4.23,1.83,0.85,0.73,5.5247,0,7.0674,0,82,585,0.5021,0.7457,-0.2435
 2026-11-04,3.72,3.99,3.58,3.66,3.70,4.41,1.90,0.88,0.75,5.5247,0,6.9912,0,268,574,0.4579,0.6881,-0.2302
+2026-11-05,3.80,3.80,2.93,2.96,3.64,4.30,1.95,0.89,0.76,5.2872,0,6.9166,0,193,563,0.3622,0.6229,-0.2607
+2026-11-06,3.00,3.22,2.61,2.65,3.50,4.16,2.00,0.91,0.77,4.8320,0,6.7571,0,85,562,0.2583,0.5500,-0.2917
+2026-11-09,2.60,2.93,2.40,2.78,3.38,4.05,2.05,0.92,0.79,4.5470,0,6.5083,0,379,565,0.1844,0.4769,-0.2925
+2026-11-10,2.69,2.71,1.97,2.04,3.21,3.91,2.08,0.93,0.79,4.2793,0,6.1796,0,565,533,0.0653,0.3946,-0.3292

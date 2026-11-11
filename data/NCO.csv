@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0271,399893,3986933,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0014,20650,205260,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0014,20650,205880,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.19519\ninstitutionsPercentHeld,0.06123\ninstitutionsFloatPercentHeld,0.076079994\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.19519\ninstitutionsPercentHeld,0.11270001\ninstitutionsFloatPercentHeld,0.14003\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "e18c644f-12c2-38d5-86fb-769acd8860fe",\n    "title": "UNIGRID and Hyundai Motor Group Complete Technology Validation of Sodium-Ion NCO Through ZER01NE Accelerator",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/energy/articles/unigrid-hyundai-motor-group-complete-130200758.html",\n    "providerPublishTime": 1787749320,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/286c58d7cfa72c1ed9a8800768124f3d.jpg",\n          "width": 3500,\n          "height": 2333,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/6264305AB03C2BD00C3D0D588A30030CC5D17F4E2AE7AA30389209F49A88EE6D/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F286c58d7cfa72c1ed9a8800768124f3d.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "005380.KS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NCO,Southern Cross Acquisition I Corp.,Financial Services,Shell Companies,United States,146409232,9.94,0,61629,612592.26,,,,0.0,0.0,0.0,,,203861,469300,,0.829,0.737,-64380,,14729300,11854288,0.19519,0.06123,347,0.01,,,,,-382.30768,,,,,,,none,,,,,,,,,2026-10-31T18:41:27.821056+00:00
+0.00,NCO,Southern Cross Acquisition I Corp.,Financial Services,Shell Companies,United States,146851120,9.97,540,33007,329079.79000000004,,,,0.0,0.0,0.0,,,203861,469300,,0.829,0.737,-64380,,14729300,11854288,0.19519,0.11270001,347,0.01,,,,,-383.46155,,,,,,,none,,,,,,,,,2026-11-10T11:30:24.857996+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-31,9.83,9.85,9.83,9.85,,,,,,,0,9.8300,1,106,,,,
 2026-08-03,9.84,9.86,9.84,9.85,,,,,,,0,9.8300,1,11014,,,,
@@ -82,3 +82,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,9.94,9.94,9.94,9.94,9.94,9.94,9.91,,,9.9303,1,9.9158,1,,642,0.0093,0.0128,-0.0035
 2026-11-03,9.94,9.94,9.94,9.94,9.94,9.94,9.91,,,9.9313,1,9.9176,1,,421,0.0086,0.0119,-0.0033
 2026-11-04,9.94,9.94,9.94,9.94,9.94,9.94,9.91,,,9.9321,1,9.9193,1,,415,0.0080,0.0111,-0.0032
+2026-11-05,9.94,9.94,9.94,9.94,9.94,9.94,9.91,,,9.9329,1,9.9209,1,50,372,0.0074,0.0104,-0.0030
+2026-11-06,9.95,9.96,9.95,9.96,9.94,9.94,9.91,,,9.9426,1,9.9224,1,4,362,0.0085,0.0100,-0.0015
+2026-11-09,9.97,9.97,9.97,9.97,9.94,9.94,9.92,,,9.9559,1,9.9240,1,52,282,0.0100,0.0100,-0.0000
+2026-11-10,9.97,9.97,9.97,9.97,9.95,9.94,9.92,,,9.9573,1,9.9267,1,698,259,0.0111,0.0102,0.0009

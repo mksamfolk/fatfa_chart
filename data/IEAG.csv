@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23700000,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22500000,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0573,2000000,20000000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15000000,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,14990000,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13000000,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10000000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9202850,-0.39169997\n8,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8545760,0.2208\n9,2026-06-30,BNP Paribas Financial Markets,0.023599999,822359,8223590,3.3929\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23818500,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22612500,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0573,2000000,20100000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15075000,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,15064950,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13065000,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10050000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9248864,-0.39169997\n8,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8588488,0.2208\n9,2026-06-30,BNP Paribas Financial Markets,0.023599999,822359,8264708,3.3929\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,21183,211830,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,21183,212889,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01132\ninstitutionsPercentHeld,0.80952\ninstitutionsFloatPercentHeld,0.81878996\ninstitutionsCount,57.0\n
+,Value\ninsidersPercentHeld,0.01232\ninstitutionsPercentHeld,0.80529\ninstitutionsFloatPercentHeld,0.81534\ninstitutionsCount,57.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,435200000,10.0,229440,90225,902250.0,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01132,0.80952,3681,0.04,0.0001,,,,-38.314175,,,,,,,none,,,,,,,,,2026-10-31T17:34:32.261361+00:00
+0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,437376000,10.05,5790,91075,915303.7500000001,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01232,0.80529,3681,0.04,0.0001,,,,-38.505745,,,,,,,none,,,,,,,,,2026-11-10T10:26:47.616850+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-10,10.05,10.05,10.00,10.00,,,,,,,0,10.0000,1,23,,,,
 2026-03-11,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,11,,,,
@@ -181,3 +181,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.08,10.08,10.08,10.08,10.06,10.09,10.17,10.11,,10.0881,0,10.0047,1,,870,-0.0300,-0.0364,0.0065
 2026-11-03,10.04,10.04,10.02,10.02,10.06,10.08,10.17,10.11,,10.0881,0,10.0062,1,40,871,-0.0322,-0.0356,0.0034
 2026-11-04,10.02,10.07,10.02,10.07,10.06,10.07,10.16,10.11,,10.0881,0,10.0077,1,2,871,-0.0297,-0.0344,0.0048
+2026-11-05,10.00,10.05,10.00,10.04,10.06,10.07,10.16,10.11,,10.0881,0,10.0800,0,507,881,-0.0297,-0.0335,0.0038
+2026-11-06,10.04,10.04,10.04,10.04,10.06,10.06,10.16,10.11,,10.0881,0,10.0784,0,,881,-0.0294,-0.0327,0.0033
+2026-11-09,10.01,10.05,10.01,10.05,10.06,10.06,10.15,10.11,,10.0881,0,10.0768,0,10,881,-0.0280,-0.0317,0.0037
+2026-11-10,10.04,10.04,10.04,10.04,10.06,10.05,10.15,10.11,,10.0881,0,10.0753,0,753,896,-0.0274,-0.0309,0.0034

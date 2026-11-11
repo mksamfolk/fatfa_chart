@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,IMRIE BRIAN,Director,,Conversion of Exercise of derivative security,2026-07-06,0,2026-07-06\n1,SKERRETT KATHLEEN,Director,,Conversion of Exercise of derivative security,2026-07-06,0,2026-07-06\n2,WORTZMAN JACK,Director,,Conversion of Exercise of derivative security,2026-07-16,0,2026-07-16\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vident Advisory, LLC                          ",0.015800001,565801,412468,0.64559996\n1,2026-06-30,UBS Group AG,0.0150999995,543664,396331,0.7078\n2,2026-06-30,Alps Advisors Inc.,0.0137,490930,357887,11.434\n3,2026-06-30,LPL Financial LLC,0.0069,249195,181663,0.313\n4,2026-06-30,Morgan Stanley,0.0038,135319,98647,-0.7161\n5,2026-06-30,"J.W. Cole Advisors, Inc.",0.0026,93755,68347,1.0\n6,2026-06-30,R Squared Ltd,0.001,34274,24985,0.56810004\n7,2026-09-30,"Apella Capital, LLC",0.00090000004,34000,24785,0.5455\n8,2026-06-30,Wells Fargo & Company,0.0002,7530,5489,0.0\n9,2026-06-30,Barclays Plc,0.0001,4428,3228,9.0408\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Alps Advisors Inc.,0.037,1328306,1024655,1.7057\n1,2026-06-30,"Vident Advisory, LLC                          ",0.015800001,565801,436458,0.64559996\n2,2026-06-30,UBS Group AG,0.0150999995,543664,419382,0.7078\n3,2026-09-30,LPL Financial LLC,0.0063,226649,174837,-0.090500005\n4,2026-06-30,Morgan Stanley,0.0038,135319,104385,-0.7161\n5,2026-09-30,"J.W. Cole Advisors, Inc.",0.0028,99255,76565,0.0587\n6,2026-09-30,R Squared Ltd,0.001,36074,27827,0.0525\n7,2026-09-30,"Apella Capital, LLC",0.00090000004,34000,26227,0.5455\n8,2026-09-30,Citigroup Inc.,0.0005,16881,13022,3.3722\n9,2026-06-30,Wells Fargo & Company,0.0002,7530,5808,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,SPROTT FUNDS TRUST-Sprott Junior Uranium Miners ETF,0.0137,490930,357887,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,SPROTT FUNDS TRUST-Sprott Junior Uranium Miners ETF,0.0137,490930,378703,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,8209,13340,,Conversion of Exercise of derivative security at price 1.62 per share.,WORTZMAN JACK,Director,,2026-07-16,D\n1,12259,20840,,Conversion of Exercise of derivative security at price 1.70 per share.,SKERRETT KATHLEEN,Director,,2026-07-06,D\n2,11442,19451,,Conversion of Exercise of derivative security at price 1.70 per share.,IMRIE BRIAN,Director,,2026-07-06,D\n3,7500,29313,,Conversion of Exercise of derivative security at price 3.91 per share.,WORTZMAN JACK,Director,,2026-04-10,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.00075999997\ninstitutionsPercentHeld,0.12019\ninstitutionsFloatPercentHeld,0.12028\ninstitutionsCount,28.0\n
+,Value\ninsidersPercentHeld,0.00075999997\ninstitutionsPercentHeld,0.14826\ninstitutionsFloatPercentHeld,0.14838\ninstitutionsCount,28.0\n
 news
 [\n  {\n    "uuid": "1529c4f6-6af3-32e0-ac58-8a24eca8643c",\n    "title": "Frontier Nuclear and Minerals Announces 2026 Annual General Meeting Results",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/energy/articles/frontier-nuclear-minerals-announces-2026-170100460.html",\n    "providerPublishTime": 1787763660,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/dbda1a69a6d72762ff1ac12bd379f9b1.jpg",\n          "width": 1186,\n          "height": 343,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BB400B493813F16C2420DDDFF56AB5111AF2A0E794C288944A1BF7336F2C956A/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fdbda1a69a6d72762ff1ac12bd379f9b1.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "FNUC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-05-02 09:30:00-04:00,0.07692307692307693\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.31,FNUC,Frontier Nuclear and Minerals Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,26170404,0.729,260520,336220,245104.38,,,,0.0,0.0,0.0,-0.34939998,-0.14877,19489888,0,,3.185,2.795,-9390622,-10958141,35899046,7436204,0.00075999997,0.12019,1806295,4.68,0.0504,,,,0.1356874,,1.022,,,,,none,,,,,,,0.445,https://frontiernuclear.com,2026-10-31T16:08:15.844590+00:00
+5.93,FNUC,Frontier Nuclear and Minerals Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,27692524,0.7714,205220,329042,253822.9988,,,,0.0,0.0,0.0,-0.34939998,-0.14877,19489888,0,,3.185,2.795,-9390622,-10958141,35899046,7436204,0.00075999997,0.14826,1806295,4.68,0.0504,,,,0.14357923,,0.993,,,,,none,,,,,,,0.516,https://frontiernuclear.com,2026-11-10T09:48:22.443355+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-19,149.50,239.46,139.10,169.00,,,,,,,0,239.4600,0,319471,,,,
 2021-11-22,151.06,153.66,105.04,105.04,,,,,,,0,239.4600,0,30638,,,,
@@ -1258,3 +1258,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,0.73,0.76,0.70,0.70,0.72,0.86,1.33,1.85,2.20,0.9193,0,0.6440,1,75,415,-0.1847,-0.1995,0.0148
 2026-11-03,0.71,0.75,0.69,0.71,0.71,0.84,1.31,1.83,2.18,0.9193,0,0.6513,1,52,413,-0.1770,-0.1950,0.0180
 2026-11-04,0.72,0.74,0.70,0.71,0.71,0.82,1.29,1.82,2.17,0.9193,0,0.6584,1,55,406,-0.1686,-0.1897,0.0211
+2026-11-05,0.70,0.70,0.61,0.64,0.71,0.80,1.27,1.80,2.16,0.9032,0,0.8280,0,159,404,-0.1663,-0.1850,0.0188
+2026-11-06,0.63,0.72,0.63,0.70,0.71,0.78,1.25,1.79,2.14,0.9032,0,0.8237,0,146,403,-0.1573,-0.1795,0.0222
+2026-11-09,0.70,0.79,0.70,0.77,0.73,0.76,1.23,1.78,2.13,0.9032,0,0.8195,0,93,386,-0.1429,-0.1722,0.0293
+2026-11-10,0.73,0.75,0.68,0.71,0.72,0.75,1.21,1.77,2.12,0.9032,0,0.8154,0,127,379,-0.1345,-0.1646,0.0301

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0792,1500000,15015000,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.056799997,1075000,10760750,1.0\n2,2026-06-30,CSS LLC,0.054899998,1038610,10396486,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0502,950000,9509500,1.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.044899996,850000,8508500,1.0\n5,2026-06-30,"Aristeia Capital, LLC",0.0396,750000,7507500,1.0\n6,2026-06-30,"Wolverine Asset Management, LLC",0.0357,675705,6763807,1.0\n7,2026-06-30,"Karpus Management, Inc.",0.0355,672300,6729723,1.0\n8,2026-06-30,Hudson Bay Capital Management Lp,0.033,625000,6256250,1.0\n9,2026-06-30,Toronto Dominion Bank,0.0306,578804,5793828,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.0792,1500000,15044999,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.056799997,1075000,10782249,1.0\n2,2026-06-30,CSS LLC,0.054899998,1038610,10417258,1.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0502,950000,9528499,1.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.044899996,850000,8525499,1.0\n5,2026-09-30,Stonex Group Inc.,0.0423,800633,8030348,1.017\n6,2026-06-30,"Aristeia Capital, LLC",0.0396,750000,7522499,1.0\n7,2026-06-30,"Karpus Management, Inc.",0.0355,672300,6743168,1.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0355,671435,6734492,-0.0063\n9,2026-06-30,Hudson Bay Capital Management Lp,0.033,625000,6268749,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0106,200000,2002000,1.0\n1,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3217,32202,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0106,200000,2005999,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3217,32266,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01585\ninstitutionsPercentHeld,0.87746\ninstitutionsFloatPercentHeld,0.89158994\ninstitutionsCount,33.0\n
+,Value\ninsidersPercentHeld,0.01743\ninstitutionsPercentHeld,0.95018995\ninstitutionsFloatPercentHeld,0.96704\ninstitutionsCount,37.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OHAC,Oceanhawk Acquisition Corp,Financial Services,Shell Companies,United States,250883952,10.01,950,29810,298398.1,,,,0.0,0.0,0.0,,,223887,0,,0.063,0.0,-74700,,18930000,13039450,0.01585,0.87746,672,0.02,0.0,,,,-38.060837,,,,,,,none,,,,,,,,,2026-10-31T18:59:21.447305+00:00
+0.00,OHAC,Oceanhawk Acquisition Corp,Financial Services,Shell Companies,United States,251385216,10.03,37510,34182,342845.45999999996,,,,0.0,0.0,0.0,,,223887,0,,0.063,0.0,-74700,,18930000,13039450,0.01743,0.95018995,672,0.02,0.0,,,,-38.13688,,,,,,,none,,,,,,,,,2026-11-10T11:48:28.522991+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-05,10.00,10.00,9.88,9.88,,,,,,,0,10.0000,0,1083,,,,
 2026-06-08,9.86,9.88,9.86,9.87,,,,,,,0,10.0000,0,6883,,,,
@@ -120,3 +120,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,10.01,10.01,10.00,10.00,10.00,10.00,9.97,,,10.0147,0,9.9901,1,157,249,0.0105,0.0117,-0.0012
 2026-11-03,10.01,10.01,10.00,10.00,10.00,10.00,9.97,,,10.0147,0,9.9921,1,482,259,0.0096,0.0113,-0.0017
 2026-11-04,10.00,10.00,10.00,10.00,10.00,10.00,9.97,,,10.0105,0,9.9939,1,,249,0.0087,0.0108,-0.0021
+2026-11-05,10.01,10.01,10.00,10.00,10.00,10.00,9.97,,,10.0105,0,9.9955,1,1205,273,0.0079,0.0102,-0.0023
+2026-11-06,10.01,10.02,10.01,10.02,10.01,10.00,9.98,,,9.9978,1,9.9969,1,1895,302,0.0088,0.0099,-0.0011
+2026-11-09,10.06,10.06,10.03,10.03,10.01,10.00,9.98,,,10.0175,1,9.9997,1,4,302,0.0102,0.0100,0.0002
+2026-11-10,10.03,10.03,10.03,10.03,10.01,10.01,9.98,,,10.0175,1,10.0081,1,130,305,0.0112,0.0102,0.0010

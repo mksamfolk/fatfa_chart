@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"RiverNorth Capital Management, LLC",0.0834,400000,2723999,0.0\n1,2026-06-30,"Westchester Capital Management, LLC",0.0784,375734,2558748,0.0\n2,2026-06-30,Berkley W R Corp,0.0621,297592,2026601,0.0\n3,2026-06-30,"Wolverine Asset Management, LLC",0.0617,295983,2015644,-0.016\n4,2026-06-30,Hudson Bay Capital Management Lp,0.052199997,250000,1702499,0.0\n5,2026-06-30,"Karpus Management, Inc.",0.045500003,218287,1486534,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0387,185283,1261777,0.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0313,150000,1021499,0.0\n8,2026-06-30,"Gabelli & Co. Investment Advisers, Inc.",0.029000001,139200,947951,0.0\n9,2026-06-30,Shaolin Capital Management LLC,0.0219,105000,715049,-0.125\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"RiverNorth Capital Management, LLC",0.106300004,400000,3484000,0.0\n1,2026-06-30,"Westchester Capital Management, LLC",0.0998,375734,3272643,0.0\n2,2026-06-30,Berkley W R Corp,0.0791,297592,2592026,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0664,250000,2177500,0.0\n4,2026-06-30,"Karpus Management, Inc.",0.058000002,218287,1901279,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.049200002,185283,1613814,0.0\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.0399,150000,1306500,0.0\n7,2026-06-30,"Gabelli & Co. Investment Advisers, Inc.",0.037,139200,1212432,0.0\n8,2026-06-30,Shaolin Capital Management LLC,0.0279,105000,914550,-0.125\n9,2026-06-30,"Gabelli Funds, LLC",0.0215,80797,703741,-0.23629999\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0523,250715,1707369,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0209,100000,680999,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0183,87638,596814,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0036000002,17337,118064,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0018000001,8624,58729,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0008,3979,27096,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.00059999997,2649,18039,0.0\n7,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00029999999,1475,10044,0.0\n8,2026-08-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,1002,6823,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.066599995,250715,2183727,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.026600001,100000,871000,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0233,87638,763326,0.0\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0046,17337,151005,0.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0023,8624,75115,0.0\n5,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0011,3979,34657,0.0\n6,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0007,2649,23072,0.0\n7,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.0004,1475,12847,0.0\n8,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,1002,8727,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.34633\ninstitutionsPercentHeld,0.52118\ninstitutionsFloatPercentHeld,0.79731005\ninstitutionsCount,24.0\n
+,Value\ninsidersPercentHeld,0.34633\ninstitutionsPercentHeld,0.51383996\ninstitutionsFloatPercentHeld,0.78608\ninstitutionsCount,22.0\n
 news
 [\n  {\n    "uuid": "45b53bef-fdb8-3f01-9923-5c63c3cc557c",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114030596.html",\n    "providerPublishTime": 1789040430,\n    "type": "STORY",\n    "relatedTickers": [\n      "SHOE",\n      "BHVN",\n      "NAVN",\n      "RIBB"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.53,RIBB,Ribbon Acquisition Corp.,Financial Services,Shell Companies,Japan,34141568,6.81,2610,20575,140115.75,,,,0.0,0.0,0.0,,,669,902938,,0.042,0.0,-369897,,3763446,2293451,0.34633,0.52118,809,0.06,0.0004,97.28571,,,-92.02702,,,,,,,none,,,,,,,,https://ribbonacquisitioncorp.com,2026-10-31T19:39:53.988746+00:00
+37.28,RIBB,Ribbon Acquisition Corp.,Financial Services,Shell Companies,Japan,43667116,8.71,2120,20773,180932.83000000002,,,,0.0,0.0,0.0,,,669,902938,,0.042,0.0,-369897,,3763446,2293451,0.34633,0.51383996,809,0.06,0.0004,124.42857,,,-117.702705,,,,,,,none,,,,,,,,https://ribbonacquisitioncorp.com,2026-11-10T12:28:35.556745+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-07,9.95,9.97,9.95,9.97,,,,,,,0,9.9700,0,1509,,,,
 2025-03-10,9.95,9.95,9.95,9.95,,,,,,,0,9.9700,0,13,,,,
@@ -433,3 +433,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,7.17,7.17,7.01,7.01,6.52,6.63,9.14,10.16,10.24,8.8234,0,7.5639,0,4,208,-0.7080,-0.9146,0.2066
 2026-11-03,7.01,7.25,7.01,7.22,6.65,6.66,9.07,10.14,10.23,8.8234,0,7.3366,0,12,208,-0.6213,-0.8560,0.2346
 2026-11-04,7.51,8.00,7.35,7.99,6.78,6.71,9.01,10.13,10.22,8.8234,0,5.6700,1,18,208,-0.4849,-0.7818,0.2969
+2026-11-05,7.56,7.56,7.51,7.51,6.93,6.73,8.94,10.11,10.20,8.8234,0,5.7166,1,5,209,-0.4108,-0.7076,0.2968
+2026-11-06,7.41,8.00,7.41,8.00,7.16,6.77,8.89,10.09,10.19,8.8234,0,5.7623,1,9,209,-0.3089,-0.6278,0.3189
+2026-11-09,7.71,9.69,7.71,8.71,7.36,6.85,8.84,10.08,10.18,8.8234,0,5.8070,1,56,210,-0.1690,-0.5361,0.3671
+2026-11-10,9.25,9.25,9.25,9.25,7.61,6.96,8.81,10.07,10.17,6.9602,1,5.9623,1,3,210,-0.0143,-0.4317,0.4174

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,27497,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12450,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4569,5665,3.5553\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,28162,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12752,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4569,5802,3.5553\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -23,11 +23,11 @@ insider_transactions
 major_holders
 ,Value\ninsidersPercentHeld,0.78823\ninstitutionsPercentHeld,0.00238\ninstitutionsFloatPercentHeld,0.01122\ninstitutionsCount,4.0\n
 news
-[\n  {\n    "uuid": "d753c767-1ce3-37ea-ad44-de19a2d36b5e",\n    "title": "Rectitude Holdings Ltd Declares Cash Dividend of $0.10 per Ordinary Share",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rectitude-holdings-ltd-declares-cash-120000326.html",\n    "providerPublishTime": 1785931200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/907ae0ffdd15a7afe5dd2747cc92502d",\n          "width": 3089,\n          "height": 537,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/87180BD12C059C6C490303FCBCCAD1904898176776F18030170994B5481875AC/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F907ae0ffdd15a7afe5dd2747cc92502d",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RECT"\n    ]\n  }\n]\n
+[\n  {\n    "uuid": "8de9d988-3c49-3b17-bdf2-b054750dd5ac",\n    "title": "Rectitude Holdings Ltd. Announces Acquisition of MR. BUTLER PTE. LTD. and Executes Business Migration Agreements with INOS and G & L",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rectitude-holdings-ltd-announces-acquisition-130000228.html",\n    "providerPublishTime": 1793624400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/907ae0ffdd15a7afe5dd2747cc92502d.png",\n          "width": 3089,\n          "height": 537,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/E2B480B1478B10AFE734A9637789337DF937C438665D9C6317F90726323CC9B6/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F907ae0ffdd15a7afe5dd2747cc92502d.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RECT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.51,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,19198610,1.24,10020,20014,24817.36,0.235,-0.146,-0.146,0.31414,0.05697,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,15482750,2347985,0.78823,0.00238,9378,2.89,0.0021,6.5263157,,0.3745053,0.8189069,0.411,4.264,,,,,none,,,,,,,1.039,https://www.rectitude.com.sg,2026-10-31T19:36:44.050659+00:00
+31.38,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,20933092,1.27,5620,5471,6948.17,0.235,-0.146,-0.146,0.31414,0.05697,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,16482750,2347985,0.78823,0.00238,9378,2.89,0.0021,6.6842103,,0.40833968,0.8387191,0.42,4.352,,,,,none,,,,,,,1.05,https://www.rectitude.com.sg,2026-11-10T12:25:28.685504+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-21,4.05,4.25,3.03,3.90,,,,,,,0,3.0300,1,3773,,,,
 2024-06-24,3.53,3.74,3.12,3.70,,,,,,,0,3.0300,1,1018,,,,
@@ -610,3 +610,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-02,1.26,1.42,1.20,1.24,1.27,1.27,1.27,1.29,1.37,1.4390,0,1.1310,1,32,32,-0.0060,-0.0011,-0.0049
 2026-11-03,1.26,1.30,1.18,1.26,1.28,1.27,1.27,1.29,1.37,1.4390,0,1.1368,1,7,32,-0.0057,-0.0020,-0.0037
 2026-11-04,1.33,1.33,1.27,1.27,1.27,1.27,1.27,1.29,1.37,1.4390,0,1.1424,1,2,32,-0.0046,-0.0026,-0.0021
+2026-11-05,1.29,1.30,1.25,1.27,1.27,1.27,1.27,1.29,1.36,1.4390,0,1.1480,1,3,10,-0.0037,-0.0028,-0.0009
+2026-11-06,1.30,1.30,1.26,1.26,1.26,1.27,1.27,1.29,1.36,1.4390,0,1.1534,1,5,9,-0.0038,-0.0030,-0.0008
+2026-11-09,1.21,1.38,1.21,1.27,1.25,1.26,1.27,1.29,1.36,1.4390,0,1.1588,1,3,8,-0.0030,-0.0030,0.0000
+2026-11-10,1.27,1.34,1.20,1.25,1.25,1.26,1.27,1.29,1.36,1.4390,0,1.1640,1,10,8,-0.0039,-0.0032,-0.0007
