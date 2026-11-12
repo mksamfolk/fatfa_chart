@@ -29,11 +29,11 @@ Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
 0.00,NARA,Narragansett Bancorp Inc.,Financial Services,Banks - Regional,United States,84262800,10.65,337480,337480,3594162.0,,,,0.0,0.0,0.0,,,,,,,,,,7912000,,,,,,,,,,,,,,,,,none,,,,,,,,https://baycoast.bank,2026-11-10T11:28:36.381847+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
-2026-11-02,10.80,10.90,10.55,10.80,,,,,,,,10.5500,1,10261,,,,
-2026-11-03,10.75,10.95,10.70,10.91,,,,,,,,10.5500,1,4114,,,,
-2026-11-04,11.00,11.00,10.80,10.91,,,,,,,,10.5500,1,1235,,,,
-2026-11-05,10.88,10.92,10.82,10.87,,,,,,,,10.5680,1,1542,,,,
-2026-11-06,10.87,10.87,10.81,10.84,,,,,,,,10.5853,1,1139,,,,
-2026-11-09,10.89,10.89,10.65,10.65,,,,,,,,10.6019,1,1250,,,,
-2026-11-10,10.65,10.78,10.55,10.74,,,,,,,,11.0000,0,1770,,,,
-2026-11-11,10.71,10.75,10.60,10.60,,,,,,,,10.9910,0,2120,,,,
+2026-11-02,10.80,10.90,10.55,10.80,,,,,,,,10.5500,1,10261080,,,,
+2026-11-03,10.75,10.95,10.70,10.91,,,,,,,,10.5500,1,4114161,,,,
+2026-11-04,11.00,11.00,10.80,10.91,,,,,,,,10.5500,1,1235012,,,,
+2026-11-05,10.88,10.92,10.82,10.87,,,,,,,,10.5680,1,1542453,,,,
+2026-11-06,10.87,10.87,10.81,10.84,,,,,,,,10.5853,1,1139284,,,,
+2026-11-09,10.89,10.89,10.65,10.65,,,,,,,,10.6019,1,1250310,,,,
+2026-11-10,10.65,10.78,10.55,10.74,,,,,,,,11.0000,0,1769952,,,,
+2026-11-11,10.71,10.75,10.60,10.60,,,,,,,,10.9910,0,2120000,,,,
