@@ -1245,7 +1245,7 @@
         let count = 1;
         for (let i = parsed.data.length - 2; i >= 0; i--) {
             const previous = numeric(parsed.data[i]);
-            if (previous === null || previous >= current) break;
+            if (previous === null || previous > current) break;
             count++;
             current = previous;
         }
