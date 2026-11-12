@@ -318,7 +318,19 @@
             <button id="consecutiveMa50UpDaysSortBtn" class="mt-4 w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Consecutive ma50 UP Days</button>
             <p class="mt-3 text-sm text-gray-600">Longest strictly increasing ma50 streak ending at the latest day first, including the starting day (100, 101, 102 counts as 3). Equal, decreasing, or missing values break the streak. Missing or invalid latest values sort last.</p>
             <button id="volumeWeightedConsecutive50SortBtn" class="mt-4 w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Volume Weighted Consecutive 50</button>
-            <p class="mt-3 text-sm text-gray-600">Combines the descending ranks of the latest non-decreasing ma50 streak and latest Vo50. Score = α × streak rank + β × volume rank, with α = 1 and β = 1. Lowest score first. Ranks start at 1; ties keep original list order. Missing values rank last in each intermediate sorting.</p>
+            <p class="mt-3 text-sm text-gray-600">Combines the descending ranks of the latest non-decreasing ma50 streak and latest Vo50. Score = α × streak rank + β × volume rank. Lowest score first. Ranks start at 1; ties keep original list order. Missing values rank last in each intermediate sorting.</p>
+            <form id="volumeWeightedSortForm" class="hidden mt-3 p-3 border border-gray-200 rounded bg-gray-50">
+                <div class="flex flex-wrap gap-3">
+                    <label class="text-sm text-gray-700" for="volumeWeightedAlpha">α · ma50 streak weight
+                        <input id="volumeWeightedAlpha" type="number" step="any" min="0" value="1" required class="block mt-1 w-32 border rounded p-2 text-sm">
+                    </label>
+                    <label class="text-sm text-gray-700" for="volumeWeightedBeta">β · Vo50 weight
+                        <input id="volumeWeightedBeta" type="number" step="any" min="0" value="1" required class="block mt-1 w-32 border rounded p-2 text-sm">
+                    </label>
+                </div>
+                <p class="mt-2 text-xs text-gray-500">Use non-negative weights, including decimals such as 1.2 or 0.75. A larger weight gives that ranking more influence.</p>
+                <button type="submit" class="mt-3 bg-blue-600 hover:bg-blue-700 text-white rounded px-4 py-2 text-sm font-medium">Apply weighted sorting</button>
+            </form>
             <button id="backToSortingBtn" class="mt-4 border rounded px-3 py-2 text-sm">← Back to sorting</button>
         </div>
     </div>
@@ -1318,6 +1330,7 @@
 
     const sortModal = document.getElementById('sortModal');
     function showSortPane(predefined) {
+        document.getElementById('volumeWeightedSortForm').classList.add('hidden');
         document.getElementById('customSortPane').classList.toggle('hidden', predefined);
         document.getElementById('customSortFooter').classList.toggle('hidden', predefined);
         document.getElementById('predefinedSortPane').classList.toggle('hidden', !predefined);
@@ -1445,7 +1458,20 @@
         applySorting();
     };
     document.getElementById('volumeWeightedConsecutive50SortBtn').onclick = () => {
-        draftSortRules = [{ predefined: 'volumeWeightedConsecutive50', direction: 'asc', alpha: 1, beta: 1 }];
+        const rule = draftSortRules.find(rule => rule.predefined === 'volumeWeightedConsecutive50');
+        document.getElementById('volumeWeightedAlpha').value = rule?.alpha ?? 1;
+        document.getElementById('volumeWeightedBeta').value = rule?.beta ?? 1;
+        document.getElementById('volumeWeightedSortForm').classList.remove('hidden');
+        document.getElementById('volumeWeightedAlpha').focus();
+    };
+    document.getElementById('volumeWeightedSortForm').onsubmit = event => {
+        event.preventDefault();
+        const form = document.getElementById('volumeWeightedSortForm');
+        if (!form.reportValidity()) return;
+        const alpha = document.getElementById('volumeWeightedAlpha').valueAsNumber;
+        const beta = document.getElementById('volumeWeightedBeta').valueAsNumber;
+        if (!Number.isFinite(alpha) || !Number.isFinite(beta) || alpha < 0 || beta < 0) return;
+        draftSortRules = [{ predefined: 'volumeWeightedConsecutive50', direction: 'asc', alpha, beta }];
         applySorting();
     };
     document.getElementById('applySortBtn').onclick = applySorting;
