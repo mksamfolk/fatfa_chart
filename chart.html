@@ -128,6 +128,9 @@
         <div class="flex items-center gap-2 pl-2 border-l border-gray-200">
             <span id="statusText" class="font-semibold text-lg text-gray-800">Showing sample data</span>
 
+            <!-- News Button -->
+            <button id="showNewsBtn" class="hidden px-2 py-0.5 text-xs font-medium text-blue-600 bg-blue-50 border border-blue-200 hover:bg-blue-100 rounded transition outline-none shadow-sm" title="View Ticker News" aria-haspopup="dialog" aria-controls="newsModal">News</button>
+
             <!-- Details Button -->
             <button id="showDetailsBtn" class="hidden px-2 py-0.5 text-xs font-medium text-blue-600 bg-blue-50 border border-blue-200 hover:bg-blue-100 rounded transition outline-none shadow-sm" title="View Ticker Details">Details</button>
 
@@ -189,6 +192,19 @@
     </div>
 </main>
 
+<!-- Ticker News Modal -->
+<div id="newsModal" role="dialog" aria-modal="true" aria-labelledby="newsModalTitle" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-3xl flex flex-col max-h-[90vh]">
+        <div class="flex justify-between items-center p-4 border-b">
+            <h3 class="text-lg font-bold text-gray-800" id="newsModalTitle">Ticker News</h3>
+            <button id="closeNewsModalBtn" class="text-gray-500 hover:text-gray-800" aria-label="Close news">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div id="newsContent" class="p-4 overflow-y-auto min-h-0 space-y-3 text-sm text-gray-700" aria-live="polite"></div>
+    </div>
+</div>
+
 <!-- Ticker Details Modal -->
 <div id="detailsModal" class="fixed inset-0 bg-gray-900 bg-opacity-50 hidden items-center justify-center z-50">
     <div class="bg-white rounded-lg shadow-xl w-11/12 max-w-6xl flex flex-col max-h-[90vh]">
@@ -203,7 +219,6 @@
             <div class="p-4 overflow-auto flex-grow min-w-0 text-sm text-gray-700">
                 <a id="tickerDetailsLink" href="#" class="hidden text-blue-600 underline block mb-4">Back to ticker details</a>
                 <pre id="datasetContent" class="hidden font-mono text-xs whitespace-pre"></pre>
-                <div id="newsContent" class="hidden space-y-3" aria-live="polite"></div>
                 <div id="datasetTableContent" class="hidden overflow-x-auto" aria-live="polite"></div>
                 <div id="detailsContent" class="grid grid-cols-2 gap-4">
                     <!-- Key-value pairs injected here -->
@@ -839,7 +854,15 @@
         splits: 'Splits'
     };
 
-    function renderDatasetTable(container, rawData, label) {
+    function formatCompactValue(value) {
+        const number = Number(value);
+        const magnitude = Math.abs(number);
+        const [divisor, suffix] = magnitude >= 1e9 ? [1e9, 'B'] :
+            magnitude >= 1e6 ? [1e6, 'M'] : magnitude >= 1e3 ? [1e3, 'K'] : [1, ''];
+        return (number / divisor).toLocaleString('en-US', { maximumFractionDigits: 2 }) + suffix;
+    }
+
+    function renderDatasetTable(container, rawData, label, compactValues = false) {
         container.replaceChildren();
         if (typeof rawData !== 'string' || !rawData.trim()) {
             container.textContent = `No ${label.toLowerCase()} available for this stock.`;
@@ -884,7 +907,13 @@
                 else cell.classList.add('whitespace-nowrap');
                 const value = row[column] ?? '';
                 cell.textContent = value === '' ? '—' : value;
-                if (['Shares', 'Value', 'Shares Owned Directly', 'Shares Owned Indirectly'].includes(header)) {
+                if (compactValues && column > 0) {
+                    cell.classList.add('text-right', 'tabular-nums');
+                    if (value.trim() && Number.isFinite(Number(value))) {
+                        cell.textContent = formatCompactValue(value);
+                        cell.title = value;
+                    }
+                } else if (['Shares', 'Value', 'Shares Owned Directly', 'Shares Owned Indirectly'].includes(header)) {
                     cell.classList.add('text-right', 'tabular-nums');
                     if (value.trim() && Number.isFinite(Number(value))) {
                         cell.textContent = Number(value).toLocaleString('en-US', { maximumFractionDigits: 20 });
@@ -897,6 +926,47 @@
         table.appendChild(body);
         container.appendChild(table);
     }
+
+    // News Modal Logic
+    const newsModal = document.getElementById('newsModal');
+    const showNewsBtn = document.getElementById('showNewsBtn');
+    const closeNewsModalBtn = document.getElementById('closeNewsModalBtn');
+
+    showNewsBtn.addEventListener('click', () => {
+        if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
+        const fileObj = uploadedFiles[activeIndices[currentActiveIdx]];
+        document.getElementById('newsModalTitle').textContent = `${fileObj.name} News`;
+        renderNews(document.getElementById('newsContent'), fileObj.datasets?.news);
+        newsModal.classList.remove('hidden');
+        newsModal.classList.add('flex');
+        closeNewsModalBtn.focus();
+    });
+
+    function closeNewsModal() {
+        newsModal.classList.add('hidden');
+        newsModal.classList.remove('flex');
+        showNewsBtn.focus();
+    }
+
+    closeNewsModalBtn.addEventListener('click', closeNewsModal);
+    newsModal.addEventListener('click', event => {
+        if (event.target === newsModal) closeNewsModal();
+    });
+    newsModal.addEventListener('keydown', event => {
+        if (event.key === 'Escape') closeNewsModal();
+        if (event.key === 'Tab') {
+            const controls = newsModal.querySelectorAll('button, a[href]');
+            const first = controls[0];
+            const last = controls[controls.length - 1];
+            if (event.shiftKey && document.activeElement === first) {
+                event.preventDefault();
+                last.focus();
+            } else if (!event.shiftKey && document.activeElement === last) {
+                event.preventDefault();
+                first.focus();
+            }
+        }
+    });
 
     // Details Modal Logic
     const detailsModal = document.getElementById('detailsModal');
@@ -912,7 +982,6 @@
         detailsContent.innerHTML = '';
         const menu = document.getElementById('detailsMenu');
         const datasetContent = document.getElementById('datasetContent');
-        const newsContent = document.getElementById('newsContent');
         const datasetTableContent = document.getElementById('datasetTableContent');
         const backLink = document.getElementById('tickerDetailsLink');
         menu.replaceChildren();
@@ -920,16 +989,13 @@
         function selectDetails(source = null) {
             detailsContent.classList.toggle('hidden', source !== null);
             const isTableSource = Object.prototype.hasOwnProperty.call(tableDataSources, source);
-            const isRenderedSource = source === 'news' || isTableSource;
-            datasetContent.classList.toggle('hidden', source === null || isRenderedSource);
-            newsContent.classList.toggle('hidden', source !== 'news');
+            datasetContent.classList.toggle('hidden', source === null || isTableSource);
             datasetTableContent.classList.toggle('hidden', !isTableSource);
             backLink.classList.toggle('hidden', source === null);
             detailsModalTitle.textContent = source ? `${fileObj.name} — ${source}` : `${fileObj.name} Details`;
-            datasetContent.textContent = source === null || isRenderedSource ? '' :
+            datasetContent.textContent = source === null || isTableSource ? '' :
                 (fileObj.datasets?.[source] ?? 'No data available for this stock.');
-            if (source === 'news') renderNews(newsContent, fileObj.datasets?.news);
-            if (isTableSource) renderDatasetTable(datasetTableContent, fileObj.datasets?.[source], tableDataSources[source]);
+            if (isTableSource) renderDatasetTable(datasetTableContent, fileObj.datasets?.[source], tableDataSources[source], ['balance_sheet', 'cashflow'].includes(source));
             for (const button of menu.children) {
                 const selected = button.dataset.source === (source || '');
                 button.classList.toggle('bg-blue-50', selected);
@@ -938,12 +1004,12 @@
             }
         }
 
-        for (const source of [null, ...tickerDataSources]) {
+        for (const source of [null, ...tickerDataSources.filter(source => source !== 'news')]) {
             const button = document.createElement('button');
             button.type = 'button';
             button.dataset.source = source || '';
             button.className = 'block w-full text-left text-xs p-2 rounded hover:bg-gray-100 break-words';
-            button.textContent = source === 'news' ? 'News' : source ? source.replace(/_/g, ' ') : 'Ticker details';
+            button.textContent = source ? source.replace(/_/g, ' ') : 'Ticker details';
             button.addEventListener('click', () => selectDetails(source));
             menu.appendChild(button);
         }
@@ -1592,6 +1658,7 @@
             updateFileNavUI();
             document.getElementById('statusText').innerText = isShowingPickedOnly ? "No picked stocks match current filters." : "All stocks hidden by filters.";
             document.getElementById('statusText').dataset.tooltip = '';
+            showNewsBtn.classList.add('hidden');
             document.getElementById('showDetailsBtn').classList.add('hidden');
             document.getElementById('pickBtn').classList.add('hidden');
             Papa.parse(window.generatedDataForExport, { header: true, skipEmptyLines: true, complete: function(r) { processChartData(r.data); } });
@@ -1653,6 +1720,7 @@
                 void statusText.offsetWidth;
                 statusText.classList.add('tooltip-preview');
 
+                showNewsBtn.classList.remove('hidden');
                 const showDetailsBtn = document.getElementById('showDetailsBtn');
                 const pickBtn = document.getElementById('pickBtn');
                 const pickIcon = document.getElementById('pickBtnIcon');
@@ -1690,7 +1758,7 @@
                         marketCapTextEl.classList.add('hidden');
                     }
                 } else {
-                    showDetailsBtn.classList.toggle('hidden', !Object.keys(fileObj.datasets || {}).length);
+                    showDetailsBtn.classList.toggle('hidden', !Object.keys(fileObj.datasets || {}).some(source => source !== 'news'));
                     industryTextEl.classList.add('hidden');
                     sectorTextEl.classList.add('hidden');
                     marketCapTextEl.classList.add('hidden');
