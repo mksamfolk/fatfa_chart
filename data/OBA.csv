@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.20,OBA,Oxley Bridge Acquisition Limited,Financial Services,Shell Companies,Canada,328583776,10.39,17400,16448,170894.72,,23.005,97.366,0.0,0.0,0.0,,,729941,0,,5.25,4.491,-603674,,25300000,25300000,0.0013799999,0.88379997,698,0.02,0.0,34.63333,,,-28.941505,,,,,,,none,,,,,,,,https://oxleybridgeacquisition.com,2026-11-10T11:46:00.756174+00:00
+57.23,OBA,Oxley Bridge Acquisition Limited,Financial Services,Shell Companies,Canada,328583776,10.39,17400,16448,170894.72,,23.005,97.366,0.0,0.0,0.0,,,729941,0,,5.25,4.491,-603674,,25300000,25300000,0.0013799999,0.88379997,698,0.02,0.0,34.63333,,,-28.941505,,,,,,,none,,,,,,,,https://oxleybridgeacquisition.com,2026-11-10T11:46:00.756174+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-15,9.97,9.97,9.96,9.96,,,,,,,0,9.9700,0,2409,,,,
 2025-08-18,9.94,9.95,9.94,9.95,,,,,,,0,9.9700,0,736,,,,
@@ -326,3 +326,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.39,10.39,10.39,10.39,10.38,10.39,10.35,10.25,10.22,10.3978,0,10.4206,0,992,68,0.0090,0.0109,-0.0019
 2026-11-09,10.39,10.39,10.39,10.39,10.38,10.39,10.35,10.25,10.22,10.3978,0,10.4192,0,,62,0.0091,0.0105,-0.0014
 2026-11-10,10.39,10.40,10.39,10.40,10.38,10.39,10.35,10.26,10.22,10.3722,1,10.4178,0,483,72,0.0098,0.0104,-0.0006
+2026-11-11,10.39,10.40,10.39,10.40,10.39,10.38,10.35,10.26,10.22,10.3722,1,10.4165,0,477,71,0.0103,0.0104,-0.0001

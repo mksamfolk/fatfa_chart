@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-11-25 09:30:00-05:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.22,APLM,Apollomics Inc.,Healthcare,Biotechnology,United States,53198112,18.25,29460,12010,219182.5,,,,1.0,4.31871,-1.2371601,-13.0536995,-0.5761,3276000,643000,,0.957,0.911,-10369000,-9808500,2914965,535002,0.56462,0.00423,5398,0.78,0.0029,,-28.076923,6.016525,-12.289562,4.421,-4.303,,,,,none,,,,,,,1.564,https://www.apollomicsinc.com,2026-11-10T07:57:04.140387+00:00
+72.81,APLM,Apollomics Inc.,Healthcare,Biotechnology,United States,53198112,18.25,29460,12010,219182.5,,,,1.0,4.31871,-1.2371601,-13.0536995,-0.5761,3276000,643000,,0.957,0.911,-10369000,-9808500,2914965,535002,0.56462,0.00423,5398,0.78,0.0029,,-28.076923,6.016525,-12.289562,4.421,-4.303,,,,,none,,,,,,,1.564,https://www.apollomicsinc.com,2026-11-10T07:57:04.140387+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-26,985.00,990.00,985.00,990.00,,,,,,,0,985.0000,1,3090,,,,
 2021-11-29,990.00,998.60,990.00,990.00,,,,,,,0,985.0000,1,8350,,,,
@@ -1258,3 +1258,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,18.65,19.77,18.65,19.00,19.79,20.70,22.32,18.30,18.69,21.8196,0,22.4378,0,266,289,-0.9600,-0.7046,-0.2555
 2026-11-09,19.50,19.50,18.25,18.25,19.63,20.54,22.34,18.29,18.69,21.8196,0,22.2195,0,166,290,-1.0242,-0.7685,-0.2557
 2026-11-10,18.18,20.10,17.80,18.60,19.50,20.41,22.36,18.28,18.69,21.8196,0,22.0099,0,203,292,-1.0348,-0.8218,-0.2130
+2026-11-11,18.60,18.60,18.60,18.60,19.36,20.25,22.37,18.28,18.69,21.8196,0,21.8087,0,,292,-1.0314,-0.8637,-0.1677

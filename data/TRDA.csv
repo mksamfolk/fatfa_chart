@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.85,TRDA,Entrada Therapeutics Inc.,Healthcare,Biotechnology,United States,183615072,4.69,462390,346006,1622768.1400000001,-0.439,,,0.0,-46.06519,0.0,-0.59879,-0.31125,193015008,47313000,23.856,7.847,7.526,-136324992,-80513376,39150334,23118343,0.12235,0.82824,3271781,9.53,0.1293,,-1.3968726,46.169243,0.86324316,6.416,-0.154,19.0,25.0,11.0,1.28571,strong_buy,4,0,1,1,1,2026-11-05,-0.154,https://www.entradatx.com,2026-11-10T13:22:35.886542+00:00
+22.35,TRDA,Entrada Therapeutics Inc.,Healthcare,Biotechnology,United States,183615072,4.69,462390,346006,1622768.1400000001,-0.439,,,0.0,-46.06519,0.0,-0.59879,-0.31125,193015008,47313000,23.856,7.847,7.526,-136324992,-80513376,39150334,23118343,0.12235,0.82824,3271781,9.53,0.1293,,-1.3968726,46.169243,0.86324316,6.416,-0.154,19.0,25.0,11.0,1.28571,strong_buy,4,0,1,1,1,2026-11-05,-0.154,https://www.entradatx.com,2026-11-10T13:22:35.886542+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,26.50,28.89,22.20,23.95,,,,,,,0,28.8900,0,25603,,,,
 2021-11-01,24.79,25.78,20.00,22.51,,,,,,,0,28.8900,0,9148,,,,
@@ -1277,3 +1277,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,4.60,4.91,4.53,4.89,4.73,4.75,6.07,8.13,8.92,5.8732,0,4.2951,1,2379,2053,-0.3366,-0.4394,0.1028
 2026-11-09,4.78,4.89,4.54,4.69,4.72,4.71,6.02,8.08,8.90,5.8732,0,4.3285,1,2346,2037,-0.3209,-0.4157,0.0948
 2026-11-10,4.64,5.29,4.64,5.25,4.80,4.73,5.99,8.03,8.87,5.8732,0,4.3606,1,3056,2041,-0.2603,-0.3846,0.1244
+2026-11-11,5.25,5.49,4.96,5.44,4.86,4.77,5.96,7.99,8.85,5.8732,0,4.4164,1,4139,2086,-0.1946,-0.3466,0.1520

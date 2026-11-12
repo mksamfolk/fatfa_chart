@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-15 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.07,IZM,ICZOOM Group Inc.,Technology,Electronics & Computer Distribution,China,1700562,0.7075,14480,492676,348568.27,0.072,,,0.03312,0.00475,0.0063899998,0.07756,0.015149999,1750420,15256647,98.93,1.584,1.149,2746352,-1547481,1637722,1554278,0.05096,0.03759,51657,0.05,0.0332,1.415,,0.009091548,0.109928526,0.081,14.05,,,,,none,,,,,,,0.805,https://www.iczoomex.com,2026-11-10T10:38:54.568589+00:00
+95.29,IZM,ICZOOM Group Inc.,Technology,Electronics & Computer Distribution,China,1700562,0.7075,14480,492676,348568.27,0.072,,,0.03312,0.00475,0.0063899998,0.07756,0.015149999,1750420,15256647,98.93,1.584,1.149,2746352,-1547481,1637722,1554278,0.05096,0.03759,51657,0.05,0.0332,1.415,,0.009091548,0.109928526,0.081,14.05,,,,,none,,,,,,,0.805,https://www.iczoomex.com,2026-11-10T10:38:54.568589+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-15,4.00,4.22,3.07,3.31,,,,,,,0,3.0700,1,2210,,,,
 2023-03-16,3.15,3.47,3.10,3.22,,,,,,,0,3.0700,1,614,,,,
@@ -933,3 +933,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.67,0.69,0.66,0.68,0.71,0.79,0.53,0.44,0.64,0.9448,0,1.3418,0,6,746,0.0258,0.0567,-0.0309
 2026-11-09,0.68,0.71,0.68,0.71,0.70,0.78,0.54,0.44,0.63,0.9445,0,1.3144,0,4,745,0.0234,0.0500,-0.0266
 2026-11-10,0.66,0.74,0.66,0.70,0.70,0.75,0.55,0.44,0.62,0.9445,0,1.2881,0,11,744,0.0211,0.0442,-0.0232
+2026-11-11,0.69,0.71,0.69,0.69,0.69,0.74,0.56,0.44,0.61,0.9297,0,1.2628,0,3,744,0.0178,0.0389,-0.0212

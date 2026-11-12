@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.34,SLBT,SL Science Holding Limited,Healthcare,Biotechnology,Taiwan,548647360,0.9784,37500,64542,63147.8928,-0.076,,,0.38412,-1.4255099,-0.72456,,,3373292,305669,6.462,4.899,3.837,-2954163,,560759757,,0.59545,0.00324,36588,0.47,0.0002,,,167.77689,0.7602176,0.161,-0.231,,,,,none,,,,,,,,https://www.sl-bio.com,2026-11-10T12:50:14.629126+00:00
+1.62,SLBT,SL Science Holding Limited,Healthcare,Biotechnology,Taiwan,548647360,0.9784,37500,64542,63147.8928,-0.076,,,0.38412,-1.4255099,-0.72456,,,3373292,305669,6.462,4.899,3.837,-2954163,,560759757,,0.59545,0.00324,36588,0.47,0.0002,,,167.77689,0.7602176,0.161,-0.231,,,,,none,,,,,,,,https://www.sl-bio.com,2026-11-10T12:50:14.629126+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-05,10.08,10.08,10.02,10.02,,,,,,,0,10.0800,0,348,,,,
 2025-02-06,10.02,10.02,10.02,10.02,,,,,,,0,10.0800,0,1563,,,,
@@ -458,3 +458,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.90,1.02,0.90,0.94,1.15,1.30,2.02,5.14,6.51,1.4743,0,1.4162,0,50,111,-0.2994,-0.3160,0.0166
 2026-11-09,0.91,0.99,0.90,0.98,1.12,1.28,1.99,5.08,6.47,1.4453,0,1.4027,0,10,110,-0.2933,-0.3114,0.0182
 2026-11-10,0.95,1.00,0.89,0.90,1.09,1.25,1.95,5.04,6.42,1.4278,0,1.3894,0,20,107,-0.2914,-0.3074,0.0160
+2026-11-11,0.92,0.92,0.62,0.72,1.04,1.20,1.91,4.98,6.37,1.2929,0,1.3764,0,230,109,-0.3008,-0.3061,0.0053

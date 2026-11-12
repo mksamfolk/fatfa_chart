@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.94,NAMM,Namib Minerals,Basic Materials,Gold,Cayman Islands,45854824,0.821,597520,1076320,883658.72,0.397,,,0.56823003,0.34807998,1.11541,,0.30013,1754000,7931000,,0.322,0.11,17310000,-32860124,55852406,9795449,0.87962997,0.03379,222467,0.11,,0.4125628,1.0525641,0.47249633,-1.1215847,0.535,1.304,5.27,6.5,4.04,1.0,strong_buy,2,,,,,2026-10-01,0.042,https://www.namibminerals.com,2026-11-10T11:28:23.788429+00:00
+8.90,NAMM,Namib Minerals,Basic Materials,Gold,Cayman Islands,45854824,0.821,597520,1076320,883658.72,0.397,,,0.56823003,0.34807998,1.11541,,0.30013,1754000,7931000,,0.322,0.11,17310000,-32860124,55852406,9795449,0.87962997,0.03379,222467,0.11,,0.4125628,1.0525641,0.47249633,-1.1215847,0.535,1.304,5.27,6.5,4.04,1.0,strong_buy,2,,,,,2026-10-01,0.042,https://www.namibminerals.com,2026-11-10T11:28:23.788429+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-06,17.20,55.00,17.11,31.22,,,,,,,0,17.1100,1,37664,,,,
 2025-06-09,25.07,27.78,19.09,22.55,,,,,,,0,17.1100,1,4999,,,,
@@ -374,3 +374,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.81,0.82,0.60,0.80,0.79,0.88,1.16,1.61,1.91,0.9842,0,0.9200,0,789,640,-0.1141,-0.1268,0.0126
 2026-11-09,0.82,0.88,0.81,0.82,0.80,0.87,1.15,1.60,1.91,0.9842,0,0.9136,0,340,626,-0.1066,-0.1227,0.0161
 2026-11-10,0.82,0.83,0.78,0.81,0.80,0.85,1.14,1.59,1.91,0.9842,0,0.9074,0,157,616,-0.1004,-0.1183,0.0179
+2026-11-11,0.82,0.82,0.77,0.78,0.79,0.84,1.13,1.58,1.90,0.9842,0,0.9013,0,180,611,-0.0966,-0.1139,0.0173

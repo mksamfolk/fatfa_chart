@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-07-30 09:30:00-04:00,0.1\n2025-03-17 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.26,NWTG,Newton Golf Company Inc.,Consumer Cyclical,Leisure,United States,3845610,0.6801,108490,133825,91014.3825,-0.364,,,0.53629,-1.17021,-1.244,-20.23156,-1.14084,442000,2068000,,0.35,0.19,-5204000,-2071875,5654478,4758861,0.29587,0.04073,74765,0.32,0.0143,,-5.9139132,0.5367965,-0.9080107,0.742,-0.673,4.5,6.5,2.5,,none,2,1,1,0,0,,2.453,https://www.newtongolfco.com,2026-11-10T11:44:08.471848+00:00
+30.75,NWTG,Newton Golf Company Inc.,Consumer Cyclical,Leisure,United States,3845610,0.6801,108490,133825,91014.3825,-0.364,,,0.53629,-1.17021,-1.244,-20.23156,-1.14084,442000,2068000,,0.35,0.19,-5204000,-2071875,5654478,4758861,0.29587,0.04073,74765,0.32,0.0143,,-5.9139132,0.5367965,-0.9080107,0.742,-0.673,4.5,6.5,2.5,,none,2,1,1,0,0,,2.453,https://www.newtongolfco.com,2026-11-10T11:44:08.471848+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-15,1320.00,9000.00,1260.00,8691.00,,,,,,,0,9000.0000,0,235961,,,,
 2023-08-16,6000.00,6570.00,1254.00,1341.00,,,,,,,0,9000.0000,0,52172,,,,
@@ -828,3 +828,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.79,0.88,0.69,0.71,0.96,0.96,1.13,1.14,1.25,1.2141,0,1.1645,0,70,144,-0.0803,-0.0575,-0.0228
 2026-11-09,0.70,0.78,0.63,0.68,0.91,0.93,1.12,1.14,1.25,1.1379,0,1.1360,0,77,144,-0.0928,-0.0646,-0.0283
 2026-11-10,0.70,0.71,0.68,0.69,0.88,0.92,1.11,1.13,1.24,1.0937,0,1.0956,0,21,145,-0.1008,-0.0718,-0.0290
+2026-11-11,0.82,1.03,0.75,1.03,0.87,0.93,1.11,1.13,1.24,1.0937,0,1.0584,0,1411,170,-0.0787,-0.0732,-0.0055

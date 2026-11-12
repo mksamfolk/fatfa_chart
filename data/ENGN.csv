@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.81,ENGN,enGene Therapeutics Inc.,Healthcare,Biotechnology,Canada,118618880,1.77,892960,805445,1425637.65,,,,0.0,0.0,0.0,-0.60497004,-0.31995,266320000,33271000,14.447,10.214,9.894,-103309000,-60850752,67016316,33033012,0.0011100001,0.83553004,1502316,1.91,0.0276,,-1.1719371,,0.51513386,,0.842,3.28571,5.0,2.0,2.44444,buy,7,2,2,5,5,2026-12-22,-0.238,https://www.engene.com,2026-11-10T09:29:18.785621+00:00
+13.94,ENGN,enGene Therapeutics Inc.,Healthcare,Biotechnology,Canada,118618880,1.77,892960,805445,1425637.65,,,,0.0,0.0,0.0,-0.60497004,-0.31995,266320000,33271000,14.447,10.214,9.894,-103309000,-60850752,67016316,33033012,0.0011100001,0.83553004,1502316,1.91,0.0276,,-1.1719371,,0.51513386,,0.842,3.28571,5.0,2.0,2.44444,buy,7,2,2,5,5,2026-12-22,-0.238,https://www.engene.com,2026-11-10T09:29:18.785621+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-01,9.89,9.90,9.86,9.86,,,,,,,0,9.9000,0,2219,,,,
 2022-02-02,9.86,9.86,9.86,9.86,,,,,,,0,9.9000,0,,,,,
@@ -1213,3 +1213,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.68,1.77,1.63,1.75,1.60,1.61,1.73,3.14,4.70,1.7681,0,1.4620,1,2497,1409,-0.0245,-0.0491,0.0246
 2026-11-09,1.75,1.80,1.70,1.77,1.62,1.62,1.73,3.10,4.66,1.4324,1,1.4808,1,1502,1427,-0.0118,-0.0416,0.0298
 2026-11-10,1.76,1.76,1.63,1.67,1.63,1.62,1.73,3.06,4.62,1.4324,1,1.5063,1,1238,1435,-0.0097,-0.0353,0.0255
+2026-11-11,1.70,1.81,1.63,1.80,1.65,1.63,1.73,3.03,4.59,1.4324,1,1.5298,1,4929,1481,0.0024,-0.0277,0.0301

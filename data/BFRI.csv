@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-07-05 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.50,BFRI,Biofrontera Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,13181468,0.8875,149040,492428,437029.85,0.329,,,0.79253,-0.04366,-0.13785,-9.88354,-0.1745,4667000,7504000,125.991,1.18,0.999,-7927000,-7597750,14852359,10319865,0.11993,0.24351999,103148,0.25,0.0072000003,,2.0639534,0.28546762,2.1181383,0.347,-2.684,6.0,9.0,3.0,,none,2,1,1,0,0,2026-11-13,0.961,https://www.biofrontera-us.com,2026-11-10T08:18:09.894319+00:00
+42.21,BFRI,Biofrontera Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,13181468,0.8875,149040,492428,437029.85,0.329,,,0.79253,-0.04366,-0.13785,-9.88354,-0.1745,4667000,7504000,125.991,1.18,0.999,-7927000,-7597750,14852359,10319865,0.11993,0.24351999,103148,0.25,0.0072000003,,2.0639534,0.28546762,2.1181383,0.347,-2.684,6.0,9.0,3.0,,none,2,1,1,0,0,2026-11-13,0.961,https://www.biofrontera-us.com,2026-11-10T08:18:09.894319+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,81.80,94.00,78.00,88.20,,,,,,,0,78.0000,1,26080,,,,
 2021-11-01,96.10,99.80,81.00,82.80,,,,,,,0,78.0000,1,21897,,,,
@@ -1277,3 +1277,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.82,0.84,0.81,0.83,0.87,0.85,1.15,1.06,1.01,1.0366,0,0.7994,1,172,601,-0.0766,-0.0948,0.0182
 2026-11-09,0.84,0.91,0.81,0.89,0.87,0.85,1.15,1.06,1.01,1.0366,0,0.8000,1,204,598,-0.0691,-0.0896,0.0205
 2026-11-10,0.90,0.94,0.89,0.93,0.88,0.85,1.14,1.06,1.01,1.0366,0,0.8030,1,145,590,-0.0592,-0.0835,0.0243
+2026-11-11,0.94,0.94,0.90,0.94,0.89,0.85,1.13,1.06,1.01,1.0366,0,0.8059,1,99,584,-0.0500,-0.0768,0.0268

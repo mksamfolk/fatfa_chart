@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.73,SIMA,SIM Acquisition Corp. I,Financial Services,Shell Companies,United States,90170488,10.9704,2640,3232,35456.3328,,-0.706,-0.834,0.0,0.0,0.0,,-0.00678,260436,731731,,0.296,0.231,-817464,-494217,3552768,552757,0.84441,0.45299,84,0.02,0.0,45.71,,,-130.6,,,,,,,none,,,,,,,0.006,https://www.simspacs.io/spacs/sim-acquisition-corp,2026-11-10T12:48:05.060740+00:00
+56.10,SIMA,SIM Acquisition Corp. I,Financial Services,Shell Companies,United States,90170488,10.9704,2640,3232,35456.3328,,-0.706,-0.834,0.0,0.0,0.0,,-0.00678,260436,731731,,0.296,0.231,-817464,-494217,3552768,552757,0.84441,0.45299,84,0.02,0.0,45.71,,,-130.6,,,,,,,none,,,,,,,0.006,https://www.simspacs.io/spacs/sim-acquisition-corp,2026-11-10T12:48:05.060740+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-30,9.97,9.98,9.95,9.96,,,,,,,0,9.9500,1,14959,,,,
 2024-09-03,9.97,9.99,9.97,9.98,,,,,,,0,9.9500,1,1015,,,,
@@ -565,3 +565,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.97,10.97,10.97,10.97,10.91,10.94,11.01,10.90,10.84,10.8541,1,11.3215,0,,32,-0.0309,-0.0338,0.0029
 2026-11-09,10.97,10.97,10.97,10.97,10.92,10.94,11.01,10.90,10.84,10.8541,1,11.2838,0,,32,-0.0263,-0.0323,0.0060
 2026-11-10,10.97,10.97,10.97,10.97,10.93,10.94,11.01,10.90,10.85,10.8541,1,11.2491,0,,32,-0.0224,-0.0303,0.0079
+2026-11-11,10.97,10.97,10.97,10.97,10.93,10.94,11.01,10.91,10.85,10.8541,1,11.2171,0,,32,-0.0191,-0.0281,0.0089

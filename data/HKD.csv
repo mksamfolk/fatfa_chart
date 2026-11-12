@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.83,HKD,AMTD Digital Inc.,Technology,Software - Application,France,443133888,1.41,147710,126460,178308.59999999998,-0.128,-0.136,-0.128,0.76233,0.60164,0.40416,0.14920999,0.04603,49660000,295444000,46.854,2.194,0.661,,,197023250,108662473,0.0,0.00271,511149,3.47,0.0026,8.8125,,3.4957116,1.5950226,8.201,11.877,,,,,none,,,,,,2026-11-18,1.952,https://www.amtdigital.net,2026-11-10T10:15:55.142374+00:00
+39.58,HKD,AMTD Digital Inc.,Technology,Software - Application,France,443133888,1.41,147710,126460,178308.59999999998,-0.128,-0.136,-0.128,0.76233,0.60164,0.40416,0.14920999,0.04603,49660000,295444000,46.854,2.194,0.661,,,197023250,108662473,0.0,0.00271,511149,3.47,0.0026,8.8125,,3.4957116,1.5950226,8.201,11.877,,,,,none,,,,,,2026-11-18,1.952,https://www.amtdigital.net,2026-11-10T10:15:55.142374+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-15,13.00,19.70,12.05,16.21,,,,,,,0,12.0500,1,5069,,,,
 2022-07-18,22.44,29.50,22.10,27.80,,,,,,,0,12.0500,1,22432,,,,
@@ -1100,3 +1100,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.39,1.42,1.38,1.40,1.60,1.65,1.68,1.67,1.63,1.6262,0,1.7204,0,184,209,-0.0569,-0.0210,-0.0359
 2026-11-09,1.39,1.45,1.39,1.41,1.57,1.64,1.67,1.66,1.63,1.6262,0,1.6864,0,173,207,-0.0661,-0.0300,-0.0361
 2026-11-10,1.41,1.42,1.40,1.41,1.55,1.62,1.67,1.66,1.63,1.6155,0,1.6557,0,65,205,-0.0725,-0.0385,-0.0341
+2026-11-11,1.40,1.45,1.39,1.45,1.52,1.61,1.67,1.66,1.63,1.6155,0,1.6282,0,123,202,-0.0736,-0.0455,-0.0281

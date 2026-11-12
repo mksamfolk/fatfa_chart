@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-48.69,UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,United States,9688350720,49.94,397512,321972,16079281.68,0.031,0.306,0.295,0.28428,0.14917,0.01544,0.012250001,0.01387,999862016,8267726848,107.125,1.02,0.76,1653554048,-1524198272,174790336,106067504,0.43219003,0.37127,915192,3.14,0.0092,161.09677,22.699999,1.5773603,1.2310802,2.739,21.206,,,,,none,,0,0,0,0,2027-02-03,1.07,https://uhaul.com,2026-11-10T13:31:35.955298+00:00
+46.25,UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,United States,9688350720,49.94,397512,321972,16079281.68,0.031,0.306,0.295,0.28428,0.14917,0.01544,0.012250001,0.01387,999862016,8267726848,107.125,1.02,0.76,1653554048,-1524198272,174790336,106067504,0.43219003,0.37127,915192,3.14,0.0092,161.09677,22.699999,1.5773603,1.2310802,2.739,21.206,,,,,none,,0,0,0,0,2027-02-03,1.07,https://uhaul.com,2026-11-10T13:31:35.955298+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-10,64.08,64.08,50.47,51.40,,,,,,,0,50.4704,1,18070,,,,
 2022-11-11,52.28,56.97,51.22,55.20,,,,,,,0,50.4704,1,21436,,,,
@@ -1031,4 +1031,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,50.13,54.96,50.13,51.98,50.73,50.40,53.62,54.50,52.44,48.8939,1,48.6401,1,26237,16452,-0.4199,-1.0518,0.6319
 2026-11-06,51.20,52.64,49.59,50.08,50.81,50.38,53.42,54.54,52.42,48.8939,1,49.0193,1,23470,16666,-0.4841,-0.9382,0.4542
 2026-11-09,50.44,50.87,49.44,49.94,50.87,50.40,53.21,54.57,52.40,48.8939,1,49.3758,1,17642,16751,-0.5400,-0.8586,0.3186
-2026-11-10,49.41,50.37,48.81,50.21,51.01,50.45,53.02,54.59,52.39,48.8939,1,54.9600,0,22082,16889,-0.5561,-0.7981,0.2420
+2026-11-10,49.41,50.37,48.81,50.21,51.01,50.45,53.02,54.59,52.39,48.8939,1,54.9600,0,22083,16889,-0.5561,-0.7981,0.2420
+2026-11-11,49.59,50.78,49.27,49.91,51.14,50.45,52.83,54.62,52.39,48.8939,1,54.8370,0,15657,16884,-0.5864,-0.7558,0.1694

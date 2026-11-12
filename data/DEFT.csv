@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.41,DEFT,DeFi Technologies Inc.,Financial Services,Capital Markets,Canada,129467904,0.3336,1675520,2357409,786431.6424,-0.407,,,1.0,-0.10869,0.38499,0.22288,0.013990001,86633256,0,,1.142,0.216,-81509376,-95322352,388093225,380998881,0.02349,0.09119,21685503,9.04,0.056999996,5.5600004,-46.84867,2.1151602,0.929248,0.752,2.731,2.0823498,6.83748,0.60853076,,none,7,0,1,0,0,2026-11-12,3.8,https://defi.tech,2026-11-10T09:12:52.353107+00:00
+12.48,DEFT,DeFi Technologies Inc.,Financial Services,Capital Markets,Canada,129467904,0.3336,1675520,2357409,786431.6424,-0.407,,,1.0,-0.10869,0.38499,0.22288,0.013990001,86633256,0,,1.142,0.216,-81509376,-95322352,388093225,380998881,0.02349,0.09119,21685503,9.04,0.056999996,5.5600004,-46.84867,2.1151602,0.929248,0.752,2.731,2.0823498,6.83748,0.60853076,,none,7,0,1,0,0,2026-11-12,3.8,https://defi.tech,2026-11-10T09:12:52.353107+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-15,1.56,1.80,1.56,1.70,,,,,,,0,1.5600,1,3030,,,,
 2024-08-16,1.72,1.83,1.70,1.79,,,,,,,0,1.5600,1,1831,,,,
@@ -575,4 +575,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.39,0.40,0.34,0.34,0.38,0.41,0.49,0.57,0.63,0.4486,0,0.4000,0,844,1160,-0.0405,-0.0385,-0.0020
 2026-11-06,0.34,0.35,0.33,0.34,0.37,0.40,0.49,0.57,0.63,0.4396,0,0.4000,0,646,1155,-0.0416,-0.0391,-0.0025
 2026-11-09,0.33,0.34,0.32,0.33,0.37,0.40,0.49,0.57,0.63,0.4287,0,0.4000,0,688,1151,-0.0423,-0.0398,-0.0025
-2026-11-10,0.32,0.33,0.30,0.31,0.36,0.39,0.49,0.57,0.62,0.4135,0,0.3952,0,939,1157,-0.0445,-0.0407,-0.0038
+2026-11-10,0.32,0.33,0.30,0.31,0.36,0.39,0.49,0.57,0.62,0.4135,0,0.3952,0,953,1157,-0.0445,-0.0407,-0.0038
+2026-11-11,0.33,0.34,0.31,0.33,0.35,0.38,0.48,0.56,0.62,0.4135,0,0.3877,0,453,1160,-0.0437,-0.0413,-0.0024

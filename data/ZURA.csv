@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.17,ZURA,Zura Bio Limited,Healthcare,Biotechnology,United States,119443504,1.24,9434840,3838139,4759292.36,,,,0.0,0.0,0.0,-0.63172,-0.37660998,187652000,0,,11.291,11.059,-81600000,-55604500,96325411,45575405,0.18826,0.87967,7019394,2.08,0.097200006,,-1.7971015,,0.6720867,,0.669,16.6,26.0,10.0,1.14286,strong_buy,5,3,3,2,1,2026-10-27,0.023,https://zurabio.com,2026-11-10T14:07:50.022927+00:00
+4.85,ZURA,Zura Bio Limited,Healthcare,Biotechnology,United States,119443504,1.24,9434840,3838139,4759292.36,,,,0.0,0.0,0.0,-0.63172,-0.37660998,187652000,0,,11.291,11.059,-81600000,-55604500,96325411,45575405,0.18826,0.87967,7019394,2.08,0.097200006,,-1.7971015,,0.6720867,,0.669,16.6,26.0,10.0,1.14286,strong_buy,5,3,3,2,1,2026-10-27,0.023,https://zurabio.com,2026-11-10T14:07:50.022927+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-21,7.94,8.02,6.85,7.24,,,,,,,0,6.8500,1,241,,,,
 2023-03-22,7.16,37.00,7.00,30.00,,,,,,,0,6.8500,1,127122,,,,
@@ -943,4 +943,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,4.00,4.01,3.70,3.72,3.91,3.97,4.49,4.86,5.21,4.6824,0,3.4218,1,9877,13335,-0.1365,-0.1705,0.0340
 2026-11-06,3.80,4.24,3.76,4.09,3.98,3.97,4.45,4.85,5.20,4.6824,0,3.4454,1,12281,13452,-0.1145,-0.1593,0.0448
 2026-11-09,1.27,1.27,0.93,1.24,3.75,3.84,4.36,4.82,5.17,3.2162,0,4.6000,0,79782,14831,-0.3233,-0.1921,-0.1312
-2026-11-10,1.17,1.53,1.16,1.40,3.46,3.69,4.28,4.79,5.15,3.2162,0,4.5267,0,23829,15155,-0.4700,-0.2477,-0.2223
+2026-11-10,1.17,1.53,1.16,1.40,3.46,3.69,4.28,4.79,5.15,3.2162,0,4.5267,0,23861,15156,-0.4700,-0.2477,-0.2223
+2026-11-11,1.40,1.58,1.35,1.43,3.17,3.54,4.20,4.76,5.12,3.2162,0,4.4548,0,9846,15229,-0.5776,-0.3137,-0.2640

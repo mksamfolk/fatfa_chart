@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.51,SYNX,Silynxcom Ltd.,Technology,Communication Equipment,Israel,5986219,0.9023,29200,33362,30102.5326,1.741,,,0.498,-0.11324,-0.22156,-0.37229002,-0.15215999,2697000,1206000,24.12,3.112,1.848,-793000,-97625,6634400,2707897,0.61922,0.014939999,8650,0.27,0.0032,,,0.6140342,1.1966844,0.461,-2.111,,,,,none,,,,,,,1.07,https://www.silynxcom.com,2026-11-10T13:09:05.696130+00:00
+22.94,SYNX,Silynxcom Ltd.,Technology,Communication Equipment,Israel,5986219,0.9023,29200,33362,30102.5326,1.741,,,0.498,-0.11324,-0.22156,-0.37229002,-0.15215999,2697000,1206000,24.12,3.112,1.848,-793000,-97625,6634400,2707897,0.61922,0.014939999,8650,0.27,0.0032,,,0.6140342,1.1966844,0.461,-2.111,,,,,none,,,,,,,1.07,https://www.silynxcom.com,2026-11-10T13:09:05.696130+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-12,3.99,4.00,3.26,3.61,,,,,,,0,3.2600,1,2570,,,,
 2024-01-16,3.49,3.80,3.40,3.65,,,,,,,0,3.2600,1,214,,,,
@@ -724,3 +724,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.97,0.97,0.90,0.90,0.87,0.81,0.90,1.04,1.05,0.7499,1,0.7441,1,19,24,0.0191,-0.0093,0.0284
 2026-11-09,0.93,0.96,0.89,0.90,0.88,0.82,0.89,1.04,1.05,0.7499,1,0.7618,1,7,22,0.0195,-0.0036,0.0230
 2026-11-10,0.92,0.92,0.86,0.88,0.90,0.82,0.89,1.04,1.05,0.7499,1,0.7785,1,13,22,0.0179,0.0007,0.0171
+2026-11-11,0.88,0.88,0.79,0.82,0.91,0.82,0.89,1.04,1.05,0.7499,1,1.0400,0,3,22,0.0119,0.0030,0.0090

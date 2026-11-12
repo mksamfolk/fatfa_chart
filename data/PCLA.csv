@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-01-26 09:30:00-05:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-89.95,PCLA,PicoCELA Inc.,Communication Services,Telecom Services,Japan,61576424,6.405,3126730,810167,5189119.635,0.455,,,0.54433995,-7.05938,0.0,-8.90307,-2.30599,187399008,74166000,36.702,1.765,0.877,-432928000,612168640,9613805,340529,0.338,0.00017000001,55080,1.4,0.0084,,,0.093368486,20.822409,-0.131,0.03,,,,,none,,,,,,,,https://picocela.com,2026-11-10T12:01:00.970478+00:00
+92.36,PCLA,PicoCELA Inc.,Communication Services,Telecom Services,Japan,61576424,6.405,3126730,810167,5189119.635,0.455,,,0.54433995,-7.05938,0.0,-8.90307,-2.30599,187399008,74166000,36.702,1.765,0.877,-432928000,612168640,9613805,340529,0.338,0.00017000001,55080,1.4,0.0084,,,0.093368486,20.822409,-0.131,0.03,,,,,none,,,,,,,,https://picocela.com,2026-11-10T12:01:00.970478+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-16,120.00,123.00,84.63,85.20,,,,,,,0,123.0000,0,2785,,,,
 2025-01-17,84.60,84.60,70.50,77.40,,,,,,,0,123.0000,0,242,,,,
@@ -471,3 +471,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,6.00,6.28,5.82,6.10,7.09,6.65,6.97,4.99,5.11,9.3959,0,12.2707,0,106,11288,0.0153,0.0882,-0.0729
 2026-11-09,6.11,6.72,6.11,6.41,7.13,6.67,6.94,5.01,5.10,9.3959,0,12.0127,0,222,11237,-0.0196,0.0666,-0.0863
 2026-11-10,6.39,6.41,6.05,6.15,7.15,6.67,6.88,5.04,5.08,9.2086,0,11.7650,0,104,10454,-0.0671,0.0399,-0.1070
+2026-11-11,6.53,6.53,6.05,6.37,7.19,6.70,6.87,5.07,5.07,9.1186,0,11.5272,0,740,10435,-0.0860,0.0147,-0.1007

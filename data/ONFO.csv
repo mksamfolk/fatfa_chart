@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-10 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.77,ONFO,Onfolio Holdings Inc.,Communication Services,Internet Content & Information,United States,930220,0.3722,50880,1824032,678904.7104,-0.524,,,0.5452,-0.64472,-1.01856,-6.2611103,-0.21221,250733,2350095,,0.09,0.068,-1817620,4355242,2499248,2421759,0.0128999995,0.006,215457,0.43,0.0871,,,0.1143551,-0.017996326,0.53,-2.317,,,,,none,,,,,,2026-11-12,2.51,https://www.onfolio.com,2026-11-10T11:51:19.455279+00:00
+94.25,ONFO,Onfolio Holdings Inc.,Communication Services,Internet Content & Information,United States,930220,0.3722,50880,1824032,678904.7104,-0.524,,,0.5452,-0.64472,-1.01856,-6.2611103,-0.21221,250733,2350095,,0.09,0.068,-1817620,4355242,2499248,2421759,0.0128999995,0.006,215457,0.43,0.0871,,,0.1143551,-0.017996326,0.53,-2.317,,,,,none,,,,,,2026-11-12,2.51,https://www.onfolio.com,2026-11-10T11:51:19.455279+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-26,3.35,3.66,2.16,2.40,,,,,,,0,3.6600,0,13014,,,,
 2022-08-29,2.22,2.54,2.09,2.20,,,,,,,0,3.6600,0,3474,,,,
@@ -1070,3 +1070,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.37,0.38,0.35,0.36,0.45,0.51,1.06,0.92,0.85,0.5973,0,0.4940,0,20,5373,-0.1542,-0.1694,0.0152
 2026-11-09,0.38,0.38,0.35,0.37,0.44,0.50,1.07,0.92,0.84,0.5853,0,0.4905,0,32,5336,-0.1505,-0.1656,0.0151
 2026-11-10,0.37,0.41,0.32,0.36,0.43,0.48,1.03,0.92,0.84,0.5853,0,0.4870,0,38,5227,-0.1471,-0.1619,0.0148
+2026-11-11,0.37,0.37,0.35,0.35,0.42,0.47,0.99,0.92,0.84,0.5637,0,0.4802,0,31,5118,-0.1433,-0.1582,0.0149

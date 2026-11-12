@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.88,TTRX,Turn Therapeutics Inc.,Healthcare,Biotechnology,United States,297299808,9.79,110890,112660,1102941.4,,,,0.0,0.0,0.0,-4.12274,-0.56147,10363975,6231409,109.473,3.186,2.979,-5281841,-3624844,30367704,11411262,0.52898,0.043720003,431200,2.85,,,-65.26666,,52.634407,,-32.027,25.0,26.0,24.0,,none,2,0.0,1.0,1.0,0.0,2026-11-09,,https://turntherapeutics.com,2026-11-10T13:26:56.730075+00:00
+97.34,TTRX,Turn Therapeutics Inc.,Healthcare,Biotechnology,United States,297299808,9.79,110890,112660,1102941.4,,,,0.0,0.0,0.0,-4.12274,-0.56147,10363975,6231409,109.473,3.186,2.979,-5281841,-3624844,30367704,11411262,0.52898,0.043720003,431200,2.85,,,-65.26666,,52.634407,,-32.027,25.0,26.0,24.0,,none,2,0.0,1.0,1.0,0.0,2026-11-09,,https://turntherapeutics.com,2026-11-10T13:26:56.730075+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-08,10.00,10.00,6.23,7.00,,,,,,,0,6.2300,1,2817,,,,
 2025-10-09,24.72,26.50,8.18,9.20,,,,,,,0,6.2300,1,176130,,,,
@@ -289,3 +289,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,9.13,9.69,8.78,9.48,10.07,10.37,10.53,7.24,6.43,12.1197,0,11.1853,0,930,974,-0.3378,-0.1575,-0.1803
 2026-11-09,9.27,9.95,8.45,9.79,9.99,10.31,10.51,7.28,6.46,12.1197,0,10.8271,0,1331,982,-0.3285,-0.1917,-0.1368
 2026-11-10,9.72,10.33,9.52,9.92,9.94,10.27,10.52,7.32,6.49,12.1197,0,10.5118,0,874,996,-0.3071,-0.2148,-0.0923
+2026-11-11,10.11,11.18,9.93,10.57,9.88,10.25,10.53,7.37,6.52,12.1197,0,8.2000,1,602,994,-0.2350,-0.2188,-0.0162

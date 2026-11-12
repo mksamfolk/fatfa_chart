@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-22 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-48.16,AAUC,Allied Gold Corporation,Basic Materials,Gold,Canada,3305967616,23.53,504600,485921,11433721.13,0.172,,,0.48946,0.31084,-0.01008,0.03165,0.15099,379143008,181652992,19.027,0.786,0.508,190328000,104425504,140500115,101526705,0.14321,0.69795,4418420,9.03,0.0366,,,2.137986,3.8751647,2.076,5.576,,,,,none,,,,,,2026-11-04,0.852,https://alliedgold.com,2026-11-10T07:32:59.825467+00:00
+44.58,AAUC,Allied Gold Corporation,Basic Materials,Gold,Canada,3305967616,23.53,504600,485921,11433721.13,0.172,,,0.48946,0.31084,-0.01008,0.03165,0.15099,379143008,181652992,19.027,0.786,0.508,190328000,104425504,140500115,101526705,0.14321,0.69795,4418420,9.03,0.0366,,,2.137986,3.8751647,2.076,5.576,,,,,none,,,,,,2026-11-04,0.852,https://alliedgold.com,2026-11-10T07:32:59.825467+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-15,6.89,6.89,6.89,6.89,,,,,,,0,6.8850,1,8,,,,
 2024-08-16,7.26,7.51,7.26,7.51,,,,,,,0,6.8850,1,132,,,,
@@ -591,3 +591,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,21.53,23.18,21.52,23.10,20.25,20.28,21.23,24.10,25.90,19.0063,1,18.3851,1,15419,9678,0.0202,-0.3182,0.3384
 2026-11-09,23.75,23.95,23.18,23.53,20.61,20.44,21.23,24.04,25.87,20.3006,1,18.5769,1,14464,9833,0.2536,-0.2038,0.4574
 2026-11-10,22.76,23.11,22.05,22.41,20.82,20.55,21.21,23.98,25.82,20.3006,1,18.8993,1,9244,9780,0.3442,-0.0942,0.4384
+2026-11-11,22.43,22.47,21.65,21.67,20.97,20.66,21.18,23.92,25.77,20.3006,1,19.2023,1,6763,9760,0.3522,-0.0049,0.3571

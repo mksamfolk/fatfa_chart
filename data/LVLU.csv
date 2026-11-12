@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-07 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.93,LVLU,Lulu's Fashion Lounge Holdings Inc.,Consumer Cyclical,Apparel Retail,United States,30955588,10.78,9250,32606,351492.68,-0.168,,,0.45118,-0.01835,-0.031659998,-6.0290804,-0.04448,4123000,25445000,,0.545,0.09,1899000,3108500,2871576,1322533,0.124350004,0.67714,6199,0.33,0.0085,,-39.925922,0.118175,-20.57252,0.2,-13.522,,,,,none,,,,,,2026-11-12,0.293,https://www.lulus.com,2026-11-10T11:04:45.517011+00:00
+67.67,LVLU,Lulu's Fashion Lounge Holdings Inc.,Consumer Cyclical,Apparel Retail,United States,30955588,10.78,9250,32606,351492.68,-0.168,,,0.45118,-0.01835,-0.031659998,-6.0290804,-0.04448,4123000,25445000,,0.545,0.09,1899000,3108500,2871576,1322533,0.124350004,0.67714,6199,0.33,0.0085,,-39.925922,0.118175,-20.57252,0.2,-13.522,,,,,none,,,,,,2026-11-12,0.293,https://www.lulus.com,2026-11-10T11:04:45.517011+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-11,210.75,212.85,183.75,195.90,,,,,,,0,183.7500,1,35706,,,,
 2021-11-12,195.00,212.25,195.00,206.25,,,,,,,0,183.7500,1,14361,,,,
@@ -1268,3 +1268,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.48,10.58,10.30,10.58,10.83,11.72,12.97,11.66,12.43,13.4497,0,12.5570,0,97,468,-0.6130,-0.5964,-0.0166
 2026-11-09,10.88,11.51,10.73,10.78,10.81,11.61,12.83,11.64,12.46,13.4497,0,12.3898,0,31,451,-0.5888,-0.5949,0.0061
 2026-11-10,11.00,11.85,10.06,11.55,10.92,11.52,12.68,11.62,12.49,13.4497,0,12.2326,0,415,452,-0.5017,-0.5762,0.0745
+2026-11-11,11.31,11.86,10.93,11.41,10.98,11.41,12.52,11.59,12.52,13.4497,0,12.0848,0,50,451,-0.4390,-0.5488,0.1098

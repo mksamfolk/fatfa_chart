@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-09-08 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.34,GLXG,Galaxy Payroll Group Limited,Industrials,Staffing & Employment Services,Hong Kong,4610959,0.686,139950,108493,74426.198,0.079,,,0.36411,-0.65190005,-0.36875,-0.41404998,-0.17292999,28089852,2288748,9.447,2.456,2.049,-8136095,-2950484,6361515,5241543,0.06427,0.01492,37133,0.3,0.0062,,,0.16001582,1.3245283,-0.753,1.98,,,,,none,,,,,,,-2.313,https://www.galaxyapac.com,2026-11-10T10:02:27.305883+00:00
+14.04,GLXG,Galaxy Payroll Group Limited,Industrials,Staffing & Employment Services,Hong Kong,4610959,0.686,139950,108493,74426.198,0.079,,,0.36411,-0.65190005,-0.36875,-0.41404998,-0.17292999,28089852,2288748,9.447,2.456,2.049,-8136095,-2950484,6361515,5241543,0.06427,0.01492,37133,0.3,0.0062,,,0.16001582,1.3245283,-0.753,1.98,,,,,none,,,,,,,-2.313,https://www.galaxyapac.com,2026-11-10T10:02:27.305883+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-12,44.40,53.90,42.00,44.50,,,,,,,0,42.0000,1,11482,,,,
 2024-09-13,45.00,49.80,42.90,44.50,,,,,,,0,42.0000,1,3060,,,,
@@ -557,3 +557,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.65,0.72,0.65,0.71,0.74,0.83,0.96,1.29,1.48,0.9838,0,0.8802,0,7,225,-0.0830,-0.0720,-0.0111
 2026-11-09,0.71,0.75,0.56,0.69,0.72,0.81,0.95,1.28,1.47,0.9838,0,0.8453,0,55,117,-0.0823,-0.0740,-0.0083
 2026-11-10,0.64,0.69,0.64,0.69,0.71,0.79,0.94,1.27,1.47,0.9838,0,0.8138,0,25,111,-0.0807,-0.0754,-0.0053
+2026-11-11,0.71,0.72,0.68,0.72,0.69,0.78,0.93,1.26,1.46,0.9838,0,0.7856,0,4,102,-0.0759,-0.0755,-0.0004

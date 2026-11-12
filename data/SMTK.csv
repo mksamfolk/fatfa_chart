@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-21 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.07,SMTK,SmartKem Inc.,Technology,Semiconductor Equipment & Materials,United Kingdom,279665,0.27,946140,615905,166294.35,,,,0.62689,-82.97885,0.0,-5.9872303,-4.6908703,3689000,0,,15.342,14.853,-5008000,-39566876,1035799,546875,0.18177,0.05289,99473,0.14,0.1046,,,0.42245468,0.014325888,-5.342,0.065,,,,,none,,,,,,,2.717,https://www.smartkem.com,2026-11-10T12:53:43.080972+00:00
+0.13,SMTK,SmartKem Inc.,Technology,Semiconductor Equipment & Materials,United Kingdom,279665,0.27,946140,615905,166294.35,,,,0.62689,-82.97885,0.0,-5.9872303,-4.6908703,3689000,0,,15.342,14.853,-5008000,-39566876,1035799,546875,0.18177,0.05289,99473,0.14,0.1046,,,0.42245468,0.014325888,-5.342,0.065,,,,,none,,,,,,,2.717,https://www.smartkem.com,2026-11-10T12:53:43.080972+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-31,650.00,650.00,425.00,431.60,,,,,,,0,650.0000,0,132,,,,
 2024-06-03,412.50,412.50,375.00,400.00,,,,,,,0,650.0000,0,125,,,,
@@ -628,3 +628,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.29,0.30,0.27,0.30,0.36,0.48,2.37,9.68,14.94,0.7006,0,0.3480,0,85,1274,-0.6254,-0.7917,0.1663
 2026-11-09,0.29,0.30,0.26,0.27,0.34,0.44,2.22,9.59,14.68,0.6643,0,0.3480,0,87,1263,-0.5914,-0.7516,0.1602
 2026-11-10,0.28,0.28,0.25,0.26,0.32,0.41,2.07,9.51,14.38,0.6168,0,0.3246,0,38,1251,-0.5586,-0.7130,0.1544
+2026-11-11,0.26,0.59,0.23,0.26,0.31,0.40,1.93,9.43,14.08,0.6168,0,0.2310,1,7945,1405,-0.5268,-0.6758,0.1490

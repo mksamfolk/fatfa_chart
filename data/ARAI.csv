@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.83,ARAI,Arrive AI Inc.,Technology,Scientific & Technical Instruments,United States,6533487,0.095,1960480,4790226,455071.47000000003,-0.838,,,1.0,-302.90857,0.0,-6.72291,-0.81651,5137489,5436587,114.707,0.916,0.835,-10711697,1749424,68773551,27201290,0.57558995,0.055219997,423387,0.04,0.0168,,,125.282585,1.043956,100.237,-0.387,1.0,1.0,1.0,,none,1,1,1,0,0,2026-11-13,,https://www.arriveai.com,2026-11-10T07:58:48.274685+00:00
+0.93,ARAI,Arrive AI Inc.,Technology,Scientific & Technical Instruments,United States,6533487,0.095,1960480,4790226,455071.47000000003,-0.838,,,1.0,-302.90857,0.0,-6.72291,-0.81651,5137489,5436587,114.707,0.916,0.835,-10711697,1749424,68773551,27201290,0.57558995,0.055219997,423387,0.04,0.0168,,,125.282585,1.043956,100.237,-0.387,1.0,1.0,1.0,,none,1,1,1,0,0,2026-11-13,,https://www.arriveai.com,2026-11-10T07:58:48.274685+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-15,40.00,40.00,11.10,13.25,,,,,,,0,40.0000,0,2704,,,,
 2025-05-16,13.00,13.45,9.60,10.21,,,,,,,0,40.0000,0,3570,,,,
@@ -388,4 +388,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.10,0.10,0.09,0.09,0.11,0.12,0.19,0.47,0.81,0.1361,0,0.1240,0,157,1069,-0.0284,-0.0303,0.0019
 2026-11-06,0.08,0.10,0.08,0.10,0.11,0.12,0.19,0.47,0.80,0.1324,0,0.1218,0,116,1070,-0.0276,-0.0297,0.0022
 2026-11-09,0.10,0.10,0.09,0.09,0.10,0.11,0.18,0.46,0.78,0.1324,0,0.1187,0,71,1066,-0.0267,-0.0291,0.0025
-2026-11-10,0.09,0.09,0.05,0.05,0.10,0.11,0.18,0.45,0.77,0.1215,0,0.1158,0,727,1078,-0.0290,-0.0291,0.0001
+2026-11-10,0.09,0.09,0.05,0.05,0.10,0.11,0.18,0.45,0.77,0.1215,0,0.1158,0,748,1079,-0.0290,-0.0291,0.0001
+2026-11-11,0.05,0.06,0.05,0.06,0.09,0.11,0.18,0.45,0.75,0.1012,0,0.1094,0,3437,1146,-0.0300,-0.0293,-0.0007

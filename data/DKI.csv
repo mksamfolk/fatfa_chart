@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-22 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.30,DKI,Darkiris Inc.,Communication Services,Electronic Gaming & Multimedia,Hong Kong,92292,1.54,5877880,1221027,1880381.58,0.139,,,0.25976,-0.32338002,-1.0598301,-3.13278,-1.3358,472948,0,,1.191,0.899,-1681022,3083665,51333,12671,0.06397,0.013459999,34310,0.08,0.6846,,,0.008543397,0.007936017,-0.04,0.039,,,,,none,,,,,,,,https://www.darkiris.com,2026-11-10T09:15:31.654910+00:00
+93.85,DKI,Darkiris Inc.,Communication Services,Electronic Gaming & Multimedia,Hong Kong,92292,1.54,5877880,1221027,1880381.58,0.139,,,0.25976,-0.32338002,-1.0598301,-3.13278,-1.3358,472948,0,,1.191,0.899,-1681022,3083665,51333,12671,0.06397,0.013459999,34310,0.08,0.6846,,,0.008543397,0.007936017,-0.04,0.039,,,,,none,,,,,,,,https://www.darkiris.com,2026-11-10T09:15:31.654910+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-08,8.80,15.00,4.90,5.48,,,,,,,0,15.0000,0,10933,,,,
 2025-08-11,4.26,4.79,3.70,3.92,,,,,,,0,15.0000,0,3514,,,,
@@ -331,3 +331,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.59,1.72,1.46,1.47,1.75,1.59,2.54,3.04,2.39,0.7547,1,0.8044,1,411,7399,-0.1846,-0.2323,0.0477
 2026-11-09,1.43,1.74,1.43,1.54,1.71,1.66,2.50,3.04,2.39,0.7547,1,0.8503,1,370,7405,-0.1855,-0.2230,0.0374
 2026-11-10,1.55,1.62,1.36,1.43,1.67,1.73,2.44,3.05,2.40,0.7547,1,0.8953,1,285,6366,-0.1929,-0.2170,0.0240
+2026-11-11,1.47,1.60,1.41,1.47,1.63,1.80,2.39,3.06,2.40,0.7547,1,0.9394,1,277,6359,-0.1933,-0.2122,0.0189

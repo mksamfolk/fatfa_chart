@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-41.94,JBS,JBS N.V.,Consumer Defensive,Packaged Foods,Netherlands,43156451328,13.12,7362510,5995243,78657588.16,0.006,-0.714,-0.717,0.11166,0.02271,0.00765,0.08234,0.03498,4148762112,26660470784,290.515,1.563,0.73,2505694976,210240880,776405057,327828201,0.57752997,0.29032,42145317,7.25,0.1775,12.261682,9.460949,0.47264156,1.7083334,0.41,7.488,17.21133,20.987125,13.851714,1.6,buy,15,3,5,0,0,2026-11-09,,https://jbsglobal.com,2026-11-10T10:40:10.788922+00:00
+41.27,JBS,JBS N.V.,Consumer Defensive,Packaged Foods,Netherlands,43156451328,13.12,7362510,5995243,78657588.16,0.006,-0.714,-0.717,0.11166,0.02271,0.00765,0.08234,0.03498,4148762112,26660470784,290.515,1.563,0.73,2505694976,210240880,776405057,327828201,0.57752997,0.29032,42145317,7.25,0.1775,12.261682,9.460949,0.47264156,1.7083334,0.41,7.488,17.21133,20.987125,13.851714,1.6,buy,15,3,5,0,0,2026-11-09,,https://jbsglobal.com,2026-11-10T10:40:10.788922+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-13,12.64,13.50,12.54,12.84,,,,,,,0,12.5448,1,165783,,,,
 2025-06-16,13.30,13.60,13.01,13.42,,,,,,,0,12.5448,1,206534,,,,
@@ -384,3 +384,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,12.45,12.51,12.24,12.48,12.38,12.56,12.40,13.14,13.56,13.0596,0,11.6188,1,93878,72642,0.0397,0.0117,0.0279
 2026-11-09,12.59,13.24,12.54,13.12,12.45,12.57,12.39,13.12,13.56,11.4864,1,11.6765,1,117694,73788,0.0870,0.0268,0.0602
 2026-11-10,12.34,12.95,12.25,12.40,12.49,12.55,12.37,13.09,13.55,11.4864,1,11.7703,1,196292,75823,0.0657,0.0346,0.0311
+2026-11-11,12.39,12.61,12.09,12.45,12.55,12.52,12.35,13.06,13.54,11.4864,1,11.8585,1,70431,76153,0.0523,0.0381,0.0142

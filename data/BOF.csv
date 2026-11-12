@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.95,BOF,BranchOut Food Inc.,Consumer Defensive,Packaged Foods,United States,33195082,1.69,106720,65014,109873.66,0.361,,,0.099029996,-0.50735,-0.56578,-2.02596,-0.29949,211985,8928494,199.793,1.031,0.522,-7920660,-6206180,19642060,12390821,0.08929,0.32632,69402,1.25,0.0050999997,,,2.3142428,5.7876716,2.412,-5.229,6.0,6.0,6.0,,none,1,0,0,1,1,,0.934,https://branchoutfood.com,2026-11-10T08:26:06.399696+00:00
+9.91,BOF,BranchOut Food Inc.,Consumer Defensive,Packaged Foods,United States,33195082,1.69,106720,65014,109873.66,0.361,,,0.099029996,-0.50735,-0.56578,-2.02596,-0.29949,211985,8928494,199.793,1.031,0.522,-7920660,-6206180,19642060,12390821,0.08929,0.32632,69402,1.25,0.0050999997,,,2.3142428,5.7876716,2.412,-5.229,6.0,6.0,6.0,,none,1,0,0,1,1,,0.934,https://branchoutfood.com,2026-11-10T08:26:06.399696+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-16,5.69,5.75,4.27,4.43,,,,,,,0,4.2700,1,4249,,,,
 2023-06-20,5.83,6.20,4.30,4.48,,,,,,,0,4.2700,1,34202,,,,
@@ -868,3 +868,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.75,1.83,1.68,1.68,1.72,2.00,3.17,3.63,3.58,2.3176,0,1.5900,1,66,194,-0.4491,-0.4832,0.0341
 2026-11-09,1.69,1.82,1.69,1.69,1.72,1.93,3.12,3.62,3.57,2.3176,0,1.5948,1,106,195,-0.4290,-0.4724,0.0433
 2026-11-10,1.67,1.77,1.65,1.66,1.71,1.89,3.07,3.60,3.57,2.2793,0,1.5996,1,380,202,-0.4108,-0.4601,0.0492
+2026-11-11,1.66,1.76,1.58,1.60,1.69,1.86,3.02,3.59,3.56,2.2299,0,1.8320,0,134,202,-0.3967,-0.4474,0.0507

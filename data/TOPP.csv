@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.74,TOPP,Toppoint Holdings Inc.,Industrials,Trucking,United States,2815800,0.114,472560,10606609,1209153.426,0.169,,,0.03574,-0.073410004,-0.35654998,-0.58586,-0.30753002,4698480,1274169,10.806,5.649,4.36,-1560351,-570721,24700000,12699999,0.53441,0.00727,206531,0.01,0.0137,,,0.16076311,0.23899372,-0.035,0.099,,,,,none,,,,,,,,https://toppointtrucking.com,2026-11-10T13:20:51.131755+00:00
+1.60,TOPP,Toppoint Holdings Inc.,Industrials,Trucking,United States,2815800,0.114,472560,10606609,1209153.426,0.169,,,0.03574,-0.073410004,-0.35654998,-0.58586,-0.30753002,4698480,1274169,10.806,5.649,4.36,-1560351,-570721,24700000,12699999,0.53441,0.00727,206531,0.01,0.0137,,,0.16076311,0.23899372,-0.035,0.099,,,,,none,,,,,,,,https://toppointtrucking.com,2026-11-10T13:20:51.131755+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-22,3.88,3.90,3.75,3.76,,,,,,,0,3.7500,1,1406,,,,
 2025-01-23,3.80,4.50,3.16,3.69,,,,,,,0,4.5000,0,2418,,,,
@@ -468,3 +468,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.11,0.12,0.11,0.11,0.11,0.12,0.17,0.69,0.73,0.1601,0,0.1607,0,13,2251,-0.0227,-0.0293,0.0066
 2026-11-09,0.11,0.12,0.11,0.11,0.11,0.12,0.16,0.69,0.72,0.1592,0,0.1557,0,44,2251,-0.0213,-0.0277,0.0063
 2026-11-10,0.11,0.12,0.05,0.11,0.11,0.12,0.16,0.69,0.72,0.1424,0,0.1511,0,105,2172,-0.0205,-0.0262,0.0057
+2026-11-11,0.11,0.11,0.11,0.11,0.11,0.12,0.15,0.68,0.71,0.1424,0,0.1413,0,,2152,-0.0196,-0.0249,0.0053

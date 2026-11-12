@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.73,LOAR,Loar Holdings Inc.,Industrials,Aerospace & Defense,United States,7361260544,78.57,1834400,869295,68300508.14999999,0.39,-0.31,-0.291,0.53609,0.27053,0.09437,0.05037,0.05303,159320992,963883008,78.905,5.38,3.531,136558000,96002248,93690471,43389931,0.19317,0.85958,7478001,9.9,0.16950001,124.71429,46.929874,11.58183,6.026231,12.848,34.476,88.8,102.0,80.0,1.6,buy,5,0,0,1,1,2026-11-05,0.633,https://www.loargroup.com,2026-11-10T11:00:39.877228+00:00
+74.05,LOAR,Loar Holdings Inc.,Industrials,Aerospace & Defense,United States,7361260544,78.57,1834400,869295,68300508.14999999,0.39,-0.31,-0.291,0.53609,0.27053,0.09437,0.05037,0.05303,159320992,963883008,78.905,5.38,3.531,136558000,96002248,93690471,43389931,0.19317,0.85958,7478001,9.9,0.16950001,124.71429,46.929874,11.58183,6.026231,12.848,34.476,88.8,102.0,80.0,1.6,buy,5,0,0,1,1,2026-11-05,0.633,https://www.loargroup.com,2026-11-10T11:00:39.877228+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-25,45.00,52.85,42.57,48.80,,,,,,,0,42.5700,1,339897,,,,
 2024-04-26,48.25,50.15,44.95,49.71,,,,,,,0,42.5700,1,43278,,,,
@@ -668,3 +668,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,72.39,76.08,71.52,75.30,66.70,64.55,64.75,66.76,66.45,62.9563,1,62.7131,1,82371,61632,1.9576,0.4602,1.4974
 2026-11-09,77.82,79.00,75.09,78.57,68.25,65.36,64.88,66.89,66.48,66.1118,1,63.7905,1,113062,63025,2.6846,0.9051,1.7796
 2026-11-10,77.39,79.72,76.66,79.61,70.07,66.25,65.07,67.00,66.52,67.4321,1,65.3114,1,44717,62842,3.3067,1.3854,1.9213
+2026-11-11,79.53,79.53,78.04,79.24,71.87,67.14,65.28,67.10,66.56,68.6279,1,67.0405,1,51561,62662,3.7268,1.8537,1.8731

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-36.52,OTF,Blue Owl Technology Finance Corp.,Financial Services,Asset Management,United States,4449177088,9.83,2939540,2395039,23543233.37,0.058,-0.228,-0.235,1.0,0.73323995,0.28695,0.04832,0.042940002,213506000,7157528064,94.929,0.167,0.147,-1561968000,423166112,452612089,,0.00053,0.43783,6189766,2.89,0.0135,12.766234,7.074742,3.4037573,0.56725717,8.744,,13.38889,17.0,11.0,2.0,buy,9,0,4,0,0,2026-11-04,,https://www.blueowltechnologyfinance.com,2026-11-10T11:55:32.507119+00:00
+35.91,OTF,Blue Owl Technology Finance Corp.,Financial Services,Asset Management,United States,4449177088,9.83,2939540,2395039,23543233.37,0.058,-0.228,-0.235,1.0,0.73323995,0.28695,0.04832,0.042940002,213506000,7157528064,94.929,0.167,0.147,-1561968000,423166112,452612089,,0.00053,0.43783,6189766,2.89,0.0135,12.766234,7.074742,3.4037573,0.56725717,8.744,,13.38889,17.0,11.0,2.0,buy,9,0,4,0,0,2026-11-04,,https://www.blueowltechnologyfinance.com,2026-11-10T11:55:32.507119+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-12,14.77,18.62,13.99,14.26,,,,,,,0,18.6187,0,5155,,,,
 2025-06-13,14.12,14.21,13.69,13.78,,,,,,,0,18.6187,0,2136,,,,
@@ -385,3 +385,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,9.36,9.56,9.30,9.51,9.50,9.31,9.98,10.44,10.70,9.0760,1,9.2349,1,19116,23100,-0.0539,-0.1483,0.0944
 2026-11-09,9.60,9.84,9.47,9.83,9.58,9.34,9.95,10.43,10.69,9.0760,1,9.3000,1,22429,23042,-0.0225,-0.1231,0.1006
 2026-11-10,9.81,9.87,9.65,9.70,9.62,9.36,9.91,10.43,10.67,9.0760,1,9.3000,1,27795,22914,-0.0081,-0.1001,0.0920
+2026-11-11,9.65,9.67,9.51,9.59,9.65,9.39,9.87,10.42,10.66,9.0760,1,9.4128,1,36169,23002,-0.0055,-0.0812,0.0757

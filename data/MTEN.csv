@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-01-26 09:30:00-05:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.00,MTEN,Mingteng International Corporation Inc.,Industrials,Metal Fabrication,China,2997982,0.3919,224460,2645092,1036611.5548,0.17,,,0.22512,-0.06628,-0.1532,-0.11715999,-0.01169,1630974,2867288,13.001,1.187,0.8,-104082,92404,7639410,4024135,0.20028,0.0060900003,358693,0.09,0.047,,,0.25700825,0.00198546,0.275,17.416,,,,,none,,,,,,,-0.38,https://ir.wxmtmj.cn,2026-11-10T11:24:29.599830+00:00
+3.48,MTEN,Mingteng International Corporation Inc.,Industrials,Metal Fabrication,China,2997982,0.3919,224460,2645092,1036611.5548,0.17,,,0.22512,-0.06628,-0.1532,-0.11715999,-0.01169,1630974,2867288,13.001,1.187,0.8,-104082,92404,7639410,4024135,0.20028,0.0060900003,358693,0.09,0.047,,,0.25700825,0.00198546,0.275,17.416,,,,,none,,,,,,,-0.38,https://ir.wxmtmj.cn,2026-11-10T11:24:29.599830+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,656.00,800.00,654.00,740.00,,,,,,,0,654.0000,1,1493,,,,
 2024-04-22,706.60,740.00,684.00,710.00,,,,,,,0,654.0000,1,168,,,,
@@ -657,3 +657,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.36,0.36,0.33,0.33,0.65,0.78,0.96,1.20,6.68,0.6644,0,0.8583,0,42,3464,-0.1599,-0.1019,-0.0580
 2026-11-09,0.34,0.41,0.33,0.39,0.59,0.76,0.95,1.19,5.85,0.6644,0,0.7877,0,76,3458,-0.1657,-0.1146,-0.0511
 2026-11-10,0.39,0.41,0.37,0.38,0.54,0.73,0.93,1.18,5.01,0.6644,0,0.7256,0,34,2568,-0.1697,-0.1256,-0.0441
+2026-11-11,0.38,0.40,0.36,0.36,0.48,0.70,0.91,1.17,4.18,0.6544,0,0.6709,0,21,2023,-0.1721,-0.1349,-0.0372

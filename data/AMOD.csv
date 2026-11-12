@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-15 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.31,AMOD,Alpha Modus Holdings Inc.,Technology,Software - Application,United States,56365468,0.98,986550,6447492,6318542.16,,,,1.0,-1275.3618,0.0,,-2.7923002,2001007,6235651,,0.345,0.21,-4497837,-4486846,57515785,1089174,0.06057,0.09956,97261,0.01,0.0018000001,,,7896.535,-0.7890499,1275.165,,60.0,60.0,60.0,,none,1,0,0,0,0,,0.629,https://alphamodus.com,2026-11-10T07:52:34.730864+00:00
+1.40,AMOD,Alpha Modus Holdings Inc.,Technology,Software - Application,United States,56365468,0.98,986550,6447492,6318542.16,,,,1.0,-1275.3618,0.0,,-2.7923002,2001007,6235651,,0.345,0.21,-4497837,-4486846,57515785,1089174,0.06057,0.09956,97261,0.01,0.0018000001,,,7896.535,-0.7890499,1275.165,,60.0,60.0,60.0,,none,1,0,0,0,0,,0.629,https://alphamodus.com,2026-11-10T07:52:34.730864+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,389.60,391.20,389.20,390.00,,,,,,,0,391.2000,0,60,,,,
 2021-11-01,390.00,390.80,388.40,390.40,,,,,,,0,391.2000,0,99,,,,
@@ -1277,3 +1277,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.94,0.98,0.91,0.93,1.05,1.19,2.48,6.65,11.70,1.7203,0,1.1100,0,150,6468,-0.4046,-0.4673,0.0627
 2026-11-09,0.95,1.04,0.93,0.98,1.04,1.14,2.41,6.53,11.61,1.7203,0,1.0600,0,179,6469,-0.3845,-0.4508,0.0663
 2026-11-10,1.00,1.03,0.94,0.94,1.02,1.11,2.34,6.41,11.52,1.6724,0,1.0450,0,99,6470,-0.3672,-0.4340,0.0668
+2026-11-11,0.95,1.02,0.94,0.95,1.00,1.09,2.26,6.32,11.44,1.6218,0,1.0450,0,144,6472,-0.3490,-0.4170,0.0680

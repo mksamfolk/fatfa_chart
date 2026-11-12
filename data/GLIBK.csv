@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-43.25,GLIBK,Liberty Capital Corporation,Communication Services,Telecom Services,United States,1091800576,27.36,398170,389704,10662301.44,0.039,,,0.48661998,0.13858,0.07361,0.048410002,0.02606,387000000,1210000000,67.56,2.85,2.528,311000000,48250000,35853250,32514988,0.08185001,0.91919,2990722,7.31,0.08930001,13.411765,,1.0437864,0.6159665,1.853,5.459,,,,,none,,,,,,2026-11-05,,https://www.libertycapitalcorp.com,2026-11-10T10:01:45.899602+00:00
+49.34,GLIBK,Liberty Capital Corporation,Communication Services,Telecom Services,United States,1091800576,27.36,398170,389704,10662301.44,0.039,,,0.48661998,0.13858,0.07361,0.048410002,0.02606,387000000,1210000000,67.56,2.85,2.528,311000000,48250000,35853250,32514988,0.08185001,0.91919,2990722,7.31,0.08930001,13.411765,,1.0437864,0.6159665,1.853,5.459,,,,,none,,,,,,2026-11-05,,https://www.libertycapitalcorp.com,2026-11-10T10:01:45.899602+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,29.00,32.50,29.00,31.10,,,,,,,0,29.0000,1,8633,,,,
 2025-07-14,31.10,33.00,30.68,30.85,,,,,,,0,29.0000,1,15095,,,,
@@ -366,3 +366,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,24.33,26.72,23.85,26.63,22.88,21.71,23.37,25.16,28.31,21.3168,1,20.9169,1,13776,8804,0.4601,-0.1905,0.6506
 2026-11-09,26.78,27.64,25.47,27.36,23.50,22.09,23.40,25.10,28.26,22.3309,1,21.6126,1,11800,8919,0.7600,-0.0004,0.7604
 2026-11-10,27.00,27.76,26.99,27.62,24.12,22.46,23.43,25.04,28.21,23.3405,1,22.4565,1,18284,9057,1.0071,0.2011,0.8060
+2026-11-11,27.44,28.48,27.28,28.41,24.85,22.88,23.48,24.99,28.17,23.8912,1,23.3050,1,12117,9174,1.2522,0.4113,0.8409

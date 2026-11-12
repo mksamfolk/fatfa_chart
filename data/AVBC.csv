@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-79.38,AVBC,Avidia Bancorp Inc.,Financial Services,Banks - Regional,United States,404808416,22.82,120970,146843,3350957.2600000002,0.171,,,0.0,0.38638002,0.24048,0.07338,0.00974,60300000,137914000,,,,,,17739194,16915334,0.14709,0.36997002,523276,3.9,0.0306,15.523809,14.866449,3.5924215,1.135945,4.384,,27.25,27.5,27.0,1.0,strong_buy,2,1,1,0,0,2026-11-11,,https://www.avidiabank.com,2026-11-10T08:07:59.119409+00:00
+78.55,AVBC,Avidia Bancorp Inc.,Financial Services,Banks - Regional,United States,404808416,22.82,120970,146843,3350957.2600000002,0.171,,,0.0,0.38638002,0.24048,0.07338,0.00974,60300000,137914000,,,,,,17739194,16915334,0.14709,0.36997002,523276,3.9,0.0306,15.523809,14.866449,3.5924215,1.135945,4.384,,27.25,27.5,27.0,1.0,strong_buy,2,1,1,0,0,2026-11-11,,https://www.avidiabank.com,2026-11-10T08:07:59.119409+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-01,13.89,14.83,13.89,14.52,,,,,,,0,13.8892,1,59346,,,,
 2025-08-04,14.51,14.58,14.30,14.40,,,,,,,0,13.8892,1,2259,,,,
@@ -336,3 +336,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,22.47,22.82,22.41,22.42,23.12,22.61,22.20,20.79,20.10,22.4077,1,23.9690,0,1805,3153,0.2591,0.3082,-0.0492
 2026-11-09,22.66,23.08,22.35,22.82,23.10,22.64,22.23,20.81,20.13,22.4077,1,23.9066,0,5255,3204,0.2386,0.2943,-0.0557
 2026-11-10,22.79,22.88,22.55,22.83,23.06,22.69,22.26,20.84,20.16,22.4077,1,23.8132,0,1550,3145,0.2207,0.2796,-0.0589
+2026-11-11,22.97,22.97,22.56,22.66,23.00,22.73,22.28,20.86,20.19,22.4077,1,23.7254,0,1668,3114,0.1906,0.2618,-0.0712

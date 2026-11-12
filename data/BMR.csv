@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.59,BMR,Beamr Imaging Ltd.,Technology,Software - Application,Israel,16461645,1.06,61070,55664,59003.840000000004,-0.172,,,0.89449996,-5.02149,-2.48763,-0.48400003,-0.29135,7736000,0,,8.078,7.774,-5968000,-3434250,15529854,10827570,0.30279,0.01903,323744,5.38,0.0272,,-2.8648646,5.656923,1.4095744,2.999,-1.206,5.0,5.0,5.0,,none,1,,,,,,3.786,https://beamr.com,2026-11-10T08:24:38.252465+00:00
+15.33,BMR,Beamr Imaging Ltd.,Technology,Software - Application,Israel,16461645,1.06,61070,55664,59003.840000000004,-0.172,,,0.89449996,-5.02149,-2.48763,-0.48400003,-0.29135,7736000,0,,8.078,7.774,-5968000,-3434250,15529854,10827570,0.30279,0.01903,323744,5.38,0.0272,,-2.8648646,5.656923,1.4095744,2.999,-1.206,5.0,5.0,5.0,,none,1,,,,,,3.786,https://beamr.com,2026-11-10T08:24:38.252465+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-28,3.94,3.96,3.40,3.65,,,,,,,0,3.9600,0,3000,,,,
 2023-03-01,3.69,3.69,3.03,3.30,,,,,,,0,3.9600,0,261,,,,
@@ -944,3 +944,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.07,1.08,1.02,1.03,1.17,1.39,1.35,1.53,1.60,1.3608,0,1.2733,0,49,91,-0.1083,-0.0559,-0.0524
 2026-11-09,1.07,1.09,1.03,1.06,1.15,1.35,1.35,1.52,1.60,1.3577,0,1.2186,0,52,90,-0.1112,-0.0670,-0.0442
 2026-11-10,1.03,1.05,0.96,0.96,1.11,1.32,1.34,1.52,1.59,1.3034,0,1.1749,0,57,90,-0.1197,-0.0775,-0.0422
+2026-11-11,0.97,1.00,0.94,0.96,1.07,1.28,1.33,1.51,1.59,1.2550,0,1.1323,0,40,89,-0.1253,-0.0871,-0.0383

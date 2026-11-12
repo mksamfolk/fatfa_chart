@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.67,RAC,Rithm Acquisition Corp.,Financial Services,Shell Companies,United States,312037184,10.6099,13690,51206,543290.5394,,-0.129,-0.129,0.0,0.0,0.0,,,8764,0,,7.72,0.366,-824396,,23660000,22886862,0.0279,0.96322995,162,0.0,0.0,,,,-39.58918,,,,,,,none,,,,,,,,https://www.rithmacquisitioncorp1.com/,2026-11-10T12:21:34.053012+00:00
+55.18,RAC,Rithm Acquisition Corp.,Financial Services,Shell Companies,United States,312037184,10.6099,13690,51206,543290.5394,,-0.129,-0.129,0.0,0.0,0.0,,,8764,0,,7.72,0.366,-824396,,23660000,22886862,0.0279,0.96322995,162,0.0,0.0,,,,-39.58918,,,,,,,none,,,,,,,,https://www.rithmacquisitioncorp1.com/,2026-11-10T12:21:34.053012+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-21,9.95,9.95,9.87,9.89,,,,,,,0,9.8700,1,10301,,,,
 2025-04-22,9.95,9.95,9.88,9.92,,,,,,,0,9.8700,1,12,,,,
@@ -407,3 +407,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.59,10.60,10.57,10.60,10.58,10.57,10.55,10.47,10.45,10.5559,1,10.5452,1,249,652,0.0112,0.0097,0.0015
 2026-11-09,10.61,10.61,10.61,10.61,10.59,10.57,10.55,10.47,10.46,10.5706,1,10.5474,1,4,651,0.0127,0.0103,0.0024
 2026-11-10,10.59,10.60,10.59,10.60,10.59,10.57,10.56,10.48,10.46,10.5706,1,10.5512,1,494,660,0.0130,0.0109,0.0021
+2026-11-11,10.59,10.60,10.59,10.60,10.59,10.58,10.56,10.48,10.46,10.5706,1,10.5547,1,2100,702,0.0131,0.0113,0.0018

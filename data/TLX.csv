@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.78,TLX,Telix Pharmaceuticals Limited,Healthcare,Biotechnology,Australia,3350505216,9.89,302060,341665,3379066.85,0.223,,,0.47566003,0.09712,0.0376,0.073649995,0.02707,251910000,579860992,118.903,2.014,1.743,-12006000,-62596000,338777049,297960245,0.00118,0.0113,352936,0.76,0.0011,98.9,-370.27582,3.7612948,6.8919864,4.141,52.838,20.176401,21.643192,17.669151,1.0,strong_buy,4,1,1,0,0,,0.634,https://telixpharma.com,2026-11-10T13:18:31.082347+00:00
+58.09,TLX,Telix Pharmaceuticals Limited,Healthcare,Biotechnology,Australia,3350505216,9.89,302060,341665,3379066.85,0.223,,,0.47566003,0.09712,0.0376,0.073649995,0.02707,251910000,579860992,118.903,2.014,1.743,-12006000,-62596000,338777049,297960245,0.00118,0.0113,352936,0.76,0.0011,98.9,-370.27582,3.7612948,6.8919864,4.141,52.838,20.176401,21.643192,17.669151,1.0,strong_buy,4,1,1,0,0,,0.634,https://telixpharma.com,2026-11-10T13:18:31.082347+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-14,15.99,19.99,14.81,15.15,,,,,,,0,14.8100,1,515,,,,
 2024-11-15,14.90,15.90,14.85,14.85,,,,,,,0,14.8100,1,597,,,,
@@ -512,3 +512,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,9.42,9.71,9.42,9.63,9.27,9.87,10.90,10.42,9.65,10.0759,0,8.9634,1,3003,2886,-0.4557,-0.4885,0.0328
 2026-11-09,9.75,9.96,9.64,9.89,9.36,9.80,10.87,10.43,9.66,10.0759,0,8.9996,1,3947,2916,-0.3946,-0.4697,0.0752
 2026-11-10,9.57,9.57,9.36,9.45,9.40,9.73,10.82,10.44,9.67,10.0759,0,9.0573,1,1525,2927,-0.3773,-0.4512,0.0739
+2026-11-11,9.63,9.77,9.56,9.73,9.45,9.68,10.78,10.45,9.68,10.0759,0,9.1114,1,2671,2961,-0.3375,-0.4285,0.0910

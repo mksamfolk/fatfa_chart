@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.19,CTM,Castellum Inc.,Technology,Information Technology Services,United States,35633924,0.375,648350,575884,215956.5,-0.011,,,0.35304,-0.07891,-0.041279998,-0.06752,-0.040120002,16865160,958908,2.672,4.71,4.512,2690894,2828416,95023801,83320333,0.12092,0.083859995,6042817,14.66,0.0701,,18.75,0.6439767,0.9920635,0.524,-21.65,2.0,2.0,2.0,2.0,buy,1,0,0,1,1,,-4.287,https://www.castellumus.com,2026-11-10T09:04:06.019720+00:00
+18.78,CTM,Castellum Inc.,Technology,Information Technology Services,United States,35633924,0.375,648350,575884,215956.5,-0.011,,,0.35304,-0.07891,-0.041279998,-0.06752,-0.040120002,16865160,958908,2.672,4.71,4.512,2690894,2828416,95023801,83320333,0.12092,0.083859995,6042817,14.66,0.0701,,18.75,0.6439767,0.9920635,0.524,-21.65,2.0,2.0,2.0,2.0,buy,1,0,0,1,1,,-4.287,https://www.castellumus.com,2026-11-10T09:04:06.019720+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-10-13,1.36,1.80,1.16,1.20,,,,,,,0,1.1600,1,1967,,,,
 2022-10-14,1.60,1.69,1.30,1.47,,,,,,,0,1.1600,1,6067,,,,
@@ -1036,4 +1036,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.50,0.50,0.47,0.47,0.50,0.54,0.59,0.67,0.73,0.5729,0,0.5129,0,481,434,-0.0354,-0.0300,-0.0055
 2026-11-06,0.40,0.42,0.34,0.38,0.48,0.53,0.58,0.66,0.73,0.4990,0,0.5043,0,839,423,-0.0432,-0.0326,-0.0106
 2026-11-09,0.38,0.39,0.36,0.38,0.47,0.52,0.58,0.66,0.73,0.4904,0,0.5030,0,367,364,-0.0491,-0.0359,-0.0132
-2026-11-10,0.39,0.50,0.39,0.45,0.46,0.51,0.57,0.66,0.73,0.4904,0,0.3400,1,829,365,-0.0472,-0.0382,-0.0090
+2026-11-10,0.39,0.50,0.39,0.45,0.46,0.51,0.57,0.66,0.73,0.4904,0,0.3400,1,857,366,-0.0472,-0.0382,-0.0090
+2026-11-11,0.52,0.53,0.48,0.50,0.46,0.51,0.57,0.66,0.72,0.3552,1,0.3432,1,618,361,-0.0412,-0.0388,-0.0024

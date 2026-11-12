@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.23,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22021698,10.658,1000,4779,50934.581999999995,,,,0.0,0.0,0.0,,,1006248,0,,5.945,5.578,-372844,,691213,414214,0.40074003,0.03475,3964,2.73,0.0057,62.69412,,,24.671295,,,,,,,none,,,,,,,,,2026-11-10T08:29:33.965849+00:00
+50.62,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22021698,10.658,1000,4779,50934.581999999995,,,,0.0,0.0,0.0,,,1006248,0,,5.945,5.578,-372844,,691213,414214,0.40074003,0.03475,3964,2.73,0.0057,62.69412,,,24.671295,,,,,,,none,,,,,,,,,2026-11-10T08:29:33.965849+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-07,10.32,10.32,9.82,10.01,,,,,,,0,9.8200,1,1534,,,,
 2025-08-08,10.00,10.01,10.00,10.01,,,,,,,0,9.8200,1,12,,,,
@@ -332,3 +332,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.66,10.66,10.66,10.66,10.70,10.78,11.05,11.21,10.96,10.8663,0,11.0769,0,,65,-0.1289,-0.1334,0.0045
 2026-11-09,10.66,10.66,10.66,10.66,10.67,10.77,11.04,11.21,10.96,10.8455,0,11.0322,0,,64,-0.1241,-0.1315,0.0075
 2026-11-10,10.50,10.67,10.50,10.67,10.67,10.75,11.02,11.22,10.96,10.8048,0,10.9920,0,14,64,-0.1180,-0.1288,0.0109
+2026-11-11,10.50,10.66,10.50,10.66,10.66,10.73,11.01,11.22,10.96,10.8048,0,10.9330,0,4,63,-0.1126,-0.1256,0.0130

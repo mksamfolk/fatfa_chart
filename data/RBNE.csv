@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-24 09:30:00-05:00,0.2\n2026-07-09 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.13,RBNE,Robin Energy Ltd.,Energy,Oil & Gas Midstream,Cyprus,6179985,0.1281,72113390,16777440,2149190.064,0.292,0.772,9.807,0.55235,-0.14969,0.39361,0.0924,0.01363,35739252,0,,13.184,12.29,1900037,-41218564,48243450,579140,0.0055299997,0.00022,18566,0.67,0.0139,,,0.43277413,0.0015093316,-0.685,-3.412,,,,,none,,,,,,,,https://www.robinenergy.com,2026-11-10T12:23:03.376443+00:00
+0.11,RBNE,Robin Energy Ltd.,Energy,Oil & Gas Midstream,Cyprus,6179985,0.1281,72113390,16777440,2149190.064,0.292,0.772,9.807,0.55235,-0.14969,0.39361,0.0924,0.01363,35739252,0,,13.184,12.29,1900037,-41218564,48243450,579140,0.0055299997,0.00022,18566,0.67,0.0139,,,0.43277413,0.0015093316,-0.685,-3.412,,,,,none,,,,,,,,https://www.robinenergy.com,2026-11-10T12:23:03.376443+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-11,99.00,1848.75,99.00,637.50,,,,,,,0,99.0000,1,350,,,,
 2025-04-14,1124.25,1219.20,398.25,435.00,,,,,,,0,99.0000,1,812,,,,
@@ -411,4 +411,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.14,0.14,0.13,0.14,0.16,0.70,1.83,12.22,22.62,0.5417,0,0.3498,0,4983,3558,-0.6095,-0.6579,0.0484
 2026-11-06,0.14,0.14,0.13,0.13,0.15,0.60,1.79,12.07,22.40,0.5020,0,0.3044,0,2637,3608,-0.5813,-0.6426,0.0613
 2026-11-09,0.14,0.14,0.11,0.13,0.15,0.50,1.74,11.92,22.18,0.4606,0,0.2681,0,4040,3687,-0.5529,-0.6247,0.0718
-2026-11-10,0.12,0.13,0.12,0.13,0.14,0.40,1.70,11.78,21.94,0.4315,0,0.2365,0,2271,3728,-0.5242,-0.6046,0.0804
+2026-11-10,0.12,0.13,0.12,0.13,0.14,0.40,1.70,11.78,21.94,0.4315,0,0.2365,0,2442,3732,-0.5242,-0.6046,0.0804
+2026-11-11,0.12,0.13,0.12,0.12,0.14,0.31,1.65,11.64,21.68,0.4009,0,0.2112,0,1697,3763,-0.4962,-0.5829,0.0867

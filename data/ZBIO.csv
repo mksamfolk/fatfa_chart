@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.22,ZBIO,Zenas BioPharma Inc.,Healthcare,Biotechnology,United States,1937554304,28.57,549090,666931,19054218.67,,,,0.0,-7.5909004,0.0,-2.6511402,-0.37884,585312000,300894016,141.725,9.423,9.139,-242831008,-256185376,67817793,49764018,0.20459999,0.99002,12538549,17.28,0.2667,,-6.1309013,176.1413,6.428893,150.285,-5.47,47.875,59.0,32.0,1.25,strong_buy,8,0,0,2,2,2026-11-05,-0.862,https://zenasbio.com,2026-11-10T14:05:05.173170+00:00
+59.32,ZBIO,Zenas BioPharma Inc.,Healthcare,Biotechnology,United States,1937554304,28.57,549090,666931,19054218.67,,,,0.0,-7.5909004,0.0,-2.6511402,-0.37884,585312000,300894016,141.725,9.423,9.139,-242831008,-256185376,67817793,49764018,0.20459999,0.99002,12538549,17.28,0.2667,,-6.1309013,176.1413,6.428893,150.285,-5.47,47.875,59.0,32.0,1.25,strong_buy,8,0,0,2,2,2026-11-05,-0.862,https://zenasbio.com,2026-11-10T14:05:05.173170+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-13,18.35,18.99,17.02,18.15,,,,,,,0,17.0200,1,34937,,,,
 2024-09-16,17.88,18.42,17.50,17.97,,,,,,,0,17.0200,1,4665,,,,
@@ -571,3 +571,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,26.21,28.44,25.83,28.26,27.91,27.19,28.98,25.84,25.14,30.7628,0,25.6955,1,15373,17863,-0.1394,-0.2827,0.1433
 2026-11-09,28.75,30.02,27.80,28.57,28.04,27.30,28.93,25.88,25.19,30.7628,0,25.7900,1,18139,17951,-0.0603,-0.2382,0.1779
 2026-11-10,28.22,29.89,28.10,28.58,28.17,27.47,28.85,25.93,25.23,30.7628,0,25.8300,1,8708,17784,0.0032,-0.1899,0.1932
+2026-11-11,28.95,29.50,28.50,28.70,28.16,27.66,28.79,25.98,25.28,30.7628,0,26.0814,1,8791,17684,0.0625,-0.1394,0.2020

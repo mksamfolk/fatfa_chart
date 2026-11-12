@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.49,FTRE,Fortrea Holdings Inc.,Healthcare,Biotechnology,United States,2146160000,22.24,2353670,1645578,36597654.72,-0.014,,,0.20002002,0.0227,-0.02576,-0.12344,0.01033,220600000,1118499968,210.126,0.969,0.876,201800000,250687504,96500000,95383495,0.01212,1.08817,7675846,4.32,0.0932,,19.877375,0.8047999,4.031907,1.142,25.775,23.625,29.0,13.5,2.23077,buy,12,0,0,5,5,2026-10-29,1.863,https://www.fortrea.com,2026-11-10T09:53:09.544735+00:00
+91.52,FTRE,Fortrea Holdings Inc.,Healthcare,Biotechnology,United States,2146160000,22.24,2353670,1645578,36597654.72,-0.014,,,0.20002002,0.0227,-0.02576,-0.12344,0.01033,220600000,1118499968,210.126,0.969,0.876,201800000,250687504,96500000,95383495,0.01212,1.08817,7675846,4.32,0.0932,,19.877375,0.8047999,4.031907,1.142,25.775,23.625,29.0,13.5,2.23077,buy,12,0,0,5,5,2026-10-29,1.863,https://www.fortrea.com,2026-11-10T09:53:09.544735+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-16,30.10,30.10,30.10,30.10,,,,,,,0,30.1000,1,24,,,,
 2023-06-20,33.11,35.00,32.00,32.00,,,,,,,0,30.1000,1,310,,,,
@@ -883,3 +883,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,20.46,22.12,20.14,21.96,22.28,22.40,20.52,17.25,15.80,24.9613,0,24.7586,0,42642,37344,0.1710,0.5620,-0.3910
 2026-11-09,22.60,23.04,22.15,22.24,22.12,22.47,20.58,17.33,15.83,24.9613,0,24.4527,0,30289,37521,0.1885,0.4873,-0.2988
 2026-11-10,22.01,22.04,20.86,21.39,21.82,22.49,20.64,17.41,15.85,24.9613,0,24.1651,0,28562,37537,0.1323,0.4163,-0.2840
+2026-11-11,20.94,21.58,20.36,20.38,21.27,22.44,20.70,17.48,15.87,24.9613,0,23.8948,0,30941,37736,0.0062,0.3343,-0.3281

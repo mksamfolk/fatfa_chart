@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-20 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.04,CVKD,Cadrenal Therapeutics Inc.,Healthcare,Biotechnology,United States,4245071,1.37,78020,474492,650054.04,,,,0.0,0.0,0.0,-2.7516,-1.25932,2388135,0,,3.73,3.392,-10162480,-8537432,3098592,3220358,0.09658,0.11344,281405,1.37,0.088,,-0.4023495,,1.0370932,,-0.215,14.0,17.0,12.0,,none,3,0,1,1,0,,1.956,https://www.cadrenal.com,2026-11-10T09:06:45.347616+00:00
+7.78,CVKD,Cadrenal Therapeutics Inc.,Healthcare,Biotechnology,United States,4245071,1.37,78020,474492,650054.04,,,,0.0,0.0,0.0,-2.7516,-1.25932,2388135,0,,3.73,3.392,-10162480,-8537432,3098592,3220358,0.09658,0.11344,281405,1.37,0.088,,-0.4023495,,1.0370932,,-0.215,14.0,17.0,12.0,,none,3,0,1,1,0,,1.956,https://www.cadrenal.com,2026-11-10T09:06:45.347616+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-20,85.65,101.25,57.45,61.80,,,,,,,0,101.2500,0,7988,,,,
 2023-01-23,81.15,91.50,54.60,58.80,,,,,,,0,101.2500,0,27677,,,,
@@ -970,3 +970,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.02,1.09,0.98,0.98,0.99,1.00,1.28,3.29,4.28,1.2750,0,0.8887,1,28,925,-0.0710,-0.1032,0.0323
 2026-11-09,0.98,1.38,0.96,1.37,1.04,1.02,1.27,3.25,4.25,0.7449,1,0.8955,1,513,934,-0.0371,-0.0900,0.0529
 2026-11-10,1.36,1.49,1.28,1.44,1.09,1.04,1.26,3.21,4.22,0.9295,1,0.9149,1,277,939,-0.0045,-0.0729,0.0684
+2026-11-11,1.47,1.48,1.30,1.45,1.14,1.07,1.25,3.17,4.19,0.9295,1,0.9494,1,129,940,0.0219,-0.0539,0.0758

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.14,RR,Richtech Robotics Inc.,Industrials,Specialty Industrial Machinery,United States,213104000,0.9467,6943800,5341146,5056462.9182,0.167,,,0.58935,-2.7669299,-0.81778,-0.01872,-0.07369,339595008,629000,0.17,93.615,92.456,-7202000,-27231376,185167097,183156447,0.01086,0.42246,37528992,8.6,0.2049,,,39.54426,0.5744539,-23.355,4.891,2.0,2.0,2.0,,none,1,0,0,2,0,2026-12-07,-0.182,https://richtechrobotics.com,2026-11-10T12:33:28.672966+00:00
+8.50,RR,Richtech Robotics Inc.,Industrials,Specialty Industrial Machinery,United States,213104000,0.9467,6943800,5341146,5056462.9182,0.167,,,0.58935,-2.7669299,-0.81778,-0.01872,-0.07369,339595008,629000,0.17,93.615,92.456,-7202000,-27231376,185167097,183156447,0.01086,0.42246,37528992,8.6,0.2049,,,39.54426,0.5744539,-23.355,4.891,2.0,2.0,2.0,,none,1,0,0,2,0,2026-12-07,-0.182,https://richtechrobotics.com,2026-11-10T12:33:28.672966+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-17,5.00,6.33,4.50,5.25,,,,,,,0,4.5000,1,10796,,,,
 2023-11-20,4.96,6.00,4.79,5.66,,,,,,,0,4.5000,1,6958,,,,
@@ -775,4 +775,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.90,0.92,0.80,0.84,0.99,1.18,1.49,1.92,2.15,1.1726,0,1.0200,0,4707,7551,-0.1860,-0.1628,-0.0232
 2026-11-06,0.88,0.90,0.83,0.89,0.96,1.14,1.47,1.91,2.13,1.1726,0,0.9950,0,3207,7245,-0.1830,-0.1669,-0.0161
 2026-11-09,0.92,0.97,0.91,0.95,0.95,1.11,1.45,1.91,2.12,1.1726,0,0.8020,1,3216,7103,-0.1739,-0.1683,-0.0057
-2026-11-10,0.93,0.95,0.90,0.91,0.93,1.08,1.43,1.90,2.10,1.1726,0,0.8053,1,2125,6782,-0.1679,-0.1682,0.0003
+2026-11-10,0.93,0.95,0.90,0.91,0.93,1.08,1.43,1.90,2.10,1.1726,0,0.8053,1,2136,6782,-0.1679,-0.1682,0.0003
+2026-11-11,0.94,1.03,0.93,0.95,0.92,1.06,1.41,1.89,2.08,1.1726,0,0.8086,1,4372,6625,-0.1582,-0.1662,0.0080

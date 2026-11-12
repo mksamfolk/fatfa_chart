@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.22,ZOOZ,ZOOZ Strategy Ltd.,Industrials,Electrical Equipment & Parts,Israel,41900596,5.16,17710,21245,109624.2,,,,0.0,0.0,0.0,-2.24226,-0.4327,23271000,622000,0.73,12.931,12.267,-11676000,-121623504,8120271,4791428,0.13852,0.37704,8018,0.64,0.0011,,4.8224297,Infinity,0.48487124,,-0.579,10.0,10.0,10.0,,none,1,,,,,,0.719,https://www.zoozpower.com,2026-11-10T14:07:14.617755+00:00
+32.25,ZOOZ,ZOOZ Strategy Ltd.,Industrials,Electrical Equipment & Parts,Israel,41900596,5.16,17710,21245,109624.2,,,,0.0,0.0,0.0,-2.24226,-0.4327,23271000,622000,0.73,12.931,12.267,-11676000,-121623504,8120271,4791428,0.13852,0.37704,8018,0.64,0.0011,,4.8224297,Infinity,0.48487124,,-0.579,10.0,10.0,10.0,,none,1,,,,,,0.719,https://www.zoozpower.com,2026-11-10T14:07:14.617755+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-05,71.60,92.00,62.00,82.00,,,,,,,0,62.0000,1,1487,,,,
 2024-04-08,71.60,80.00,71.60,72.80,,,,,,,0,62.0000,1,1048,,,,
@@ -667,3 +667,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,5.53,5.76,5.28,5.28,5.84,6.11,6.24,5.99,6.64,6.9571,0,6.6724,0,16,158,-0.2777,-0.1551,-0.1226
 2026-11-09,5.01,5.16,5.01,5.16,5.73,6.02,6.24,5.97,6.62,6.7836,0,6.5387,0,29,158,-0.3084,-0.1858,-0.1226
 2026-11-10,5.55,5.55,5.43,5.43,5.62,5.96,6.24,5.95,6.60,6.7836,0,6.4156,0,32,159,-0.3074,-0.2101,-0.0973
+2026-11-11,5.36,5.41,5.36,5.41,5.51,5.91,6.24,5.93,6.58,6.7836,0,6.3023,0,8,158,-0.3047,-0.2290,-0.0757

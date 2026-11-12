@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-26 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.00,MEDS,DataMEDS AI Inc.,Healthcare,Medical Distribution,United States,5102200,0.9845,313630,6524609,6423477.560500001,-0.772,,,-0.90645,-4.12676,0.0,,-0.82927,2456373,32622248,,0.143,0.093,-13735910,2370213,5182529,1455606,0.44474,0.0156,476294,0.03,0.115200005,,,0.63594866,-0.14317918,4.136,-0.599,,,,,none,,,,,,,,https://datamedsai.com,2026-11-10T11:12:21.376255+00:00
+2.22,MEDS,DataMEDS AI Inc.,Healthcare,Medical Distribution,United States,5102200,0.9845,313630,6524609,6423477.560500001,-0.772,,,-0.90645,-4.12676,0.0,,-0.82927,2456373,32622248,,0.143,0.093,-13735910,2370213,5182529,1455606,0.44474,0.0156,476294,0.03,0.115200005,,,0.63594866,-0.14317918,4.136,-0.599,,,,,none,,,,,,,,https://datamedsai.com,2026-11-10T11:12:21.376255+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-21,217.50,219.00,165.00,190.50,,,,,,,0,219.0000,0,1509,,,,
 2025-02-24,175.00,192.50,151.50,151.50,,,,,,,0,219.0000,0,367,,,,
@@ -447,3 +447,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.20,1.24,1.13,1.18,1.79,2.25,1.83,3.67,6.66,2.0718,0,2.4817,0,137,3277,-0.2029,-0.0445,-0.1585
 2026-11-09,1.16,1.16,0.95,0.99,1.67,2.15,1.81,3.62,6.57,1.9221,0,2.2384,0,836,3286,-0.2527,-0.0861,-0.1666
 2026-11-10,1.04,1.04,0.85,0.90,1.56,2.04,1.80,3.57,6.46,1.7824,0,1.9807,0,298,3286,-0.2960,-0.1281,-0.1679
+2026-11-11,0.89,0.99,0.89,0.95,1.43,1.95,1.79,3.53,6.37,1.7246,0,1.7546,0,157,3267,-0.3219,-0.1669,-0.1551

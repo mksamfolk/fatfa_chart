@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-02-18 09:30:00-05:00,0.043478260869565216\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-67.67,FEAM,5E Advanced Materials Inc.,Basic Materials,Specialty Chemicals,United States,96291656,1.94,428450,890029,1726656.26,,,,0.0,0.0,0.0,-0.67420995,-0.39036998,19450000,90000,0.14,7.125,6.9,-19040000,-13858625,49634871,16141272,0.12843001,0.58878,824826,0.64,0.036199998,,-3.8039217,,1.2564766,,-3.034,5.875,6.75,5.0,,none,2,0,0,1,1,,1.853,https://5eadvancedmaterials.com,2026-11-10T09:41:42.075116+00:00
+67.39,FEAM,5E Advanced Materials Inc.,Basic Materials,Specialty Chemicals,United States,96291656,1.94,428450,890029,1726656.26,,,,0.0,0.0,0.0,-0.67420995,-0.39036998,19450000,90000,0.14,7.125,6.9,-19040000,-13858625,49634871,16141272,0.12843001,0.58878,824826,0.64,0.036199998,,-3.8039217,,1.2564766,,-3.034,5.875,6.75,5.0,,none,2,0,0,1,1,,1.853,https://5eadvancedmaterials.com,2026-11-10T09:41:42.075116+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-15,690.00,999.35,690.00,759.23,,,,,,,0,690.0000,1,69,,,,
 2022-03-16,1138.50,1138.50,635.67,666.36,,,,,,,0,1138.5000,0,177,,,,
@@ -1184,3 +1184,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.91,2.00,1.70,1.91,2.28,2.55,2.19,1.76,1.97,2.7492,0,3.0075,0,2469,1913,-0.0726,0.0384,-0.1110
 2026-11-09,1.93,2.11,1.85,1.94,2.24,2.48,2.20,1.76,1.96,2.7492,0,2.8245,0,654,1799,-0.0945,0.0118,-0.1063
 2026-11-10,1.90,1.98,1.78,1.81,2.17,2.41,2.20,1.76,1.95,2.7386,0,2.6670,0,311,1308,-0.1209,-0.0147,-0.1061
+2026-11-11,1.91,1.95,1.85,1.87,2.11,2.35,2.20,1.76,1.94,2.7147,0,2.5316,0,186,1248,-0.1354,-0.0388,-0.0965

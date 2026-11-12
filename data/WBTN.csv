@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-38.21,WBTN,WEBTOON Entertainment Inc.,Communication Services,Internet Content & Information,United States,1347611008,9.93,426460,454362,4511814.66,-0.04,,,0.25449,-0.02543,-0.2518,-0.25768,-0.01599,548438016,25198000,1.975,2.523,2.245,-4254000,-22827750,135711070,22965111,0.83088,0.24055,4340168,9.29,0.1877,,38.941177,0.99616575,1.1572077,0.655,-56.171,11.28571,13.0,10.0,2.5,buy,7,0,0,1,1,2026-11-09,,https://www.about.webtoon.com,2026-11-10T13:48:22.431962+00:00
+38.24,WBTN,WEBTOON Entertainment Inc.,Communication Services,Internet Content & Information,United States,1347611008,9.93,426460,454362,4511814.66,-0.04,,,0.25449,-0.02543,-0.2518,-0.25768,-0.01599,548438016,25198000,1.975,2.523,2.245,-4254000,-22827750,135711070,22965111,0.83088,0.24055,4340168,9.29,0.1877,,38.941177,0.99616575,1.1572077,0.655,-56.171,11.28571,13.0,10.0,2.5,buy,7,0,0,1,1,2026-11-09,,https://www.about.webtoon.com,2026-11-10T13:48:22.431962+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-27,21.30,24.00,21.30,23.00,,,,,,,0,21.3000,1,147690,,,,
 2024-06-28,24.93,25.66,22.50,22.83,,,,,,,0,21.3000,1,61593,,,,
@@ -610,3 +610,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,9.41,9.72,9.20,9.67,9.28,9.39,9.51,10.55,10.86,10.3553,0,8.6704,1,3114,4653,-0.1016,-0.1373,0.0357
 2026-11-09,9.85,10.22,9.58,9.93,9.36,9.36,9.53,10.55,10.85,10.3553,0,8.7236,1,5552,4677,-0.0503,-0.1199,0.0696
 2026-11-10,10.67,10.67,9.69,9.92,9.42,9.36,9.54,10.56,10.83,10.3553,0,8.8132,1,6271,4675,-0.0103,-0.0980,0.0876
+2026-11-11,10.05,10.16,8.94,10.03,9.47,9.40,9.57,10.57,10.81,10.3553,0,10.6700,0,11842,4806,0.0299,-0.0724,0.1023

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-23 09:30:00-04:00,0.1111111111111111\n2026-05-11 09:30:00-04:00,0.05\n2026-09-08 09:30:00-04:00,0.14285714285714285\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.10,AIXI,Xiao-I Corporation,Technology,Software - Application,China,1339550,2.37,259690,5859889,13887936.93,-0.91,,,-0.98450994,-11.60649,0.0,,-1.11968,3452133,53507920,,0.058,0.018,-811057,21847420,565211,557400,0.0,0.081709996,307987,0.03,,,-4.3888884,0.7233206,-0.011806493,25.414,-0.592,,,,,none,,,,,,,14.225,https://www.xiaoi.com,2026-11-10T07:46:32.565370+00:00
+36.63,AIXI,Xiao-I Corporation,Technology,Software - Application,China,1339550,2.37,259690,5859889,13887936.93,-0.91,,,-0.98450994,-11.60649,0.0,,-1.11968,3452133,53507920,,0.058,0.018,-811057,21847420,565211,557400,0.0,0.081709996,307987,0.03,,,-4.3888884,0.7233206,-0.011806493,25.414,-0.592,,,,,none,,,,,,,14.225,https://www.xiaoi.com,2026-11-10T07:46:32.565370+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-09,1224.00,1440.00,1002.60,1045.80,,,,,,,0,1002.6000,1,17112,,,,
 2023-03-10,1152.00,1206.00,1081.80,1168.20,,,,,,,0,1002.6000,1,6614,,,,
@@ -937,3 +937,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.53,2.61,2.31,2.50,2.82,2.79,1.84,6.39,6.18,3.1402,0,3.8142,0,448,18690,0.1993,0.2848,-0.0855
 2026-11-09,2.52,2.60,2.35,2.37,2.75,2.79,1.86,6.38,6.15,3.1402,0,3.7541,0,230,18562,0.1567,0.2592,-0.1025
 2026-11-10,2.36,2.45,2.00,2.08,2.67,2.74,1.88,6.37,6.11,3.1402,0,3.6963,0,273,18555,0.0984,0.2270,-0.1286
+2026-11-11,2.19,2.34,2.04,2.06,2.58,2.70,1.90,6.36,6.08,3.1402,0,3.5946,0,332,18554,0.0500,0.1916,-0.1416

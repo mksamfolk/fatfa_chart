@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.31,BALY,Bally's Corporation,Consumer Cyclical,Resorts & Casinos,United States,605129536,11.99,60000,115398,1383622.02,0.205,,,0.57679003,-0.00827,-0.25834,-0.56638,-0.00059,390256992,6905019904,318.203,0.912,0.602,-335748992,-681015360,50469522,11674105,0.124960005,0.75561994,1202941,9.13,0.1021,,-3.4804063,0.20457962,0.9109558,2.923,24.405,9.66667,12.0,7.0,,none,3,1,1,0,0,2026-11-09,,https://www.ballys.com,2026-11-10T08:12:12.187750+00:00
+34.94,BALY,Bally's Corporation,Consumer Cyclical,Resorts & Casinos,United States,605129536,11.99,60000,115398,1383622.02,0.205,,,0.57679003,-0.00827,-0.25834,-0.56638,-0.00059,390256992,6905019904,318.203,0.912,0.602,-335748992,-681015360,50469522,11674105,0.124960005,0.75561994,1202941,9.13,0.1021,,-3.4804063,0.20457962,0.9109558,2.923,24.405,9.66667,12.0,7.0,,none,3,1,1,0,0,2026-11-09,,https://www.ballys.com,2026-11-10T08:12:12.187750+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-06,17.61,17.61,17.61,17.61,,,,,,,0,17.6100,0,,,,,
 2024-12-09,17.61,17.61,17.61,17.61,,,,,,,0,17.6100,0,,,,,
@@ -497,3 +497,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,12.97,12.97,12.09,12.38,13.25,13.44,11.94,12.56,13.16,11.5989,1,14.3100,0,461,1166,0.2097,0.4148,-0.2050
 2026-11-09,12.60,12.83,11.91,11.99,13.10,13.34,11.91,12.56,13.14,11.5989,1,14.2656,0,951,1175,0.1029,0.3524,-0.2495
 2026-11-10,12.11,12.53,10.48,12.02,12.95,13.25,11.89,12.55,13.12,11.5989,1,14.1714,0,935,1184,0.0204,0.2860,-0.2656
+2026-11-11,11.78,12.48,11.78,12.44,12.85,13.19,11.88,12.55,13.09,11.5989,1,13.9502,0,680,1190,-0.0109,0.2266,-0.2375

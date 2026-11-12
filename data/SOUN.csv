@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.47,SOUN,SoundHound AI Inc.,Technology,Software - Application,United States,1980187392,4.05,19479950,19566285,79243454.25,0.485,,,0.39943,-1.11516,-0.33168,-0.12303001,-0.15811,207579008,8462000,1.05,2.027,1.861,-117872000,-1732250,456399737,445894184,0.019019999,0.38633,170799103,10.08,0.3772,,-40.5,8.856887,2.456034,7.966,-10.44,11.0,17.0,5.0,1.57143,buy,6,0,0,1,1,2026-11-05,2.933,https://www.soundhound.com,2026-11-10T12:57:18.753102+00:00
+10.57,SOUN,SoundHound AI Inc.,Technology,Software - Application,United States,1980187392,4.05,19479950,19566285,79243454.25,0.485,,,0.39943,-1.11516,-0.33168,-0.12303001,-0.15811,207579008,8462000,1.05,2.027,1.861,-117872000,-1732250,456399737,445894184,0.019019999,0.38633,170799103,10.08,0.3772,,-40.5,8.856887,2.456034,7.966,-10.44,11.0,17.0,5.0,1.57143,buy,6,0,0,1,1,2026-11-05,2.933,https://www.soundhound.com,2026-11-10T12:57:18.753102+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-28,8.72,10.80,7.34,7.50,,,,,,,0,10.8000,0,1403,,,,
 2022-04-29,8.49,8.49,5.75,6.50,,,,,,,0,10.8000,0,654,,,,
@@ -1167,4 +1167,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,4.29,4.30,3.88,4.26,4.28,4.53,5.56,6.76,7.05,4.8622,0,4.4300,0,123958,104025,-0.3977,-0.4289,0.0312
 2026-11-06,4.14,4.18,3.88,4.11,4.25,4.47,5.50,6.74,7.02,4.8622,0,4.4300,0,120109,102344,-0.3901,-0.4212,0.0311
 2026-11-09,4.09,4.26,3.98,4.05,4.23,4.42,5.44,6.73,6.99,4.8622,0,4.4190,0,111322,101073,-0.3845,-0.4138,0.0293
-2026-11-10,3.96,4.00,3.71,3.87,4.18,4.37,5.37,6.71,6.96,4.7116,0,4.4082,0,91957,99738,-0.3901,-0.4091,0.0190
+2026-11-10,3.96,4.00,3.71,3.87,4.18,4.37,5.37,6.71,6.96,4.7116,0,4.4082,0,92334,99745,-0.3901,-0.4091,0.0190
+2026-11-11,3.96,4.02,3.82,3.91,4.13,4.34,5.31,6.69,6.93,4.7116,0,4.3803,0,75743,97637,-0.3869,-0.4046,0.0178

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.03,CINT,CI&T Inc.,Technology,Software - Infrastructure,Brazil,408283904,3.19,44710,75293,240184.66999999998,0.219,-0.353,-0.41,0.31158,0.08446,0.06792,0.11721,0.06823,53496000,143330000,44.136,1.315,1.28,49945000,20203500,17378235,16252003,0.0214,0.31906,16864,0.27,0.0011,11.392858,6.936743,0.75466,1.2573906,0.921,6.884,5.62,8.0,4.0,1.7,buy,10,0,0,3,4,2026-11-11,0.821,https://ciandt.com,2026-11-10T08:48:09.280948+00:00
+36.17,CINT,CI&T Inc.,Technology,Software - Infrastructure,Brazil,408283904,3.19,44710,75293,240184.66999999998,0.219,-0.353,-0.41,0.31158,0.08446,0.06792,0.11721,0.06823,53496000,143330000,44.136,1.315,1.28,49945000,20203500,17378235,16252003,0.0214,0.31906,16864,0.27,0.0011,11.392858,6.936743,0.75466,1.2573906,0.921,6.884,5.62,8.0,4.0,1.7,buy,10,0,0,3,4,2026-11-11,0.821,https://ciandt.com,2026-11-10T08:48:09.280948+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-10,17.55,22.50,15.61,18.12,,,,,,,0,15.6100,1,145478,,,,
 2021-11-11,18.00,19.86,17.47,18.89,,,,,,,0,15.6100,1,21886,,,,
@@ -1269,3 +1269,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.07,3.12,3.06,3.08,3.06,3.07,3.29,3.75,4.03,3.4843,0,2.8768,1,186,272,-0.0429,-0.0622,0.0193
 2026-11-09,3.11,3.23,3.04,3.19,3.09,3.07,3.29,3.73,4.02,3.4843,0,2.8837,1,93,271,-0.0313,-0.0561,0.0247
 2026-11-10,3.17,3.25,3.13,3.22,3.10,3.08,3.28,3.71,4.02,3.4843,0,2.8975,1,154,269,-0.0195,-0.0487,0.0293
+2026-11-11,3.23,3.43,3.23,3.33,3.12,3.09,3.27,3.70,4.01,3.4843,0,2.9187,1,338,270,-0.0012,-0.0392,0.0380

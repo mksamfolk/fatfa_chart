@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-12-20 09:30:00-05:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.63,SIDU,Sidus Space Inc.,Industrials,Aerospace & Defense,United States,116409128,1.15,3551440,3926287,4515230.05,-0.538,,,-1.66856,-9.76211,0.0,-0.27001,-0.12804,166520688,1149039,0.608,33.295,32.47,-19418488,-21984174,101125324,101027937,0.00035,0.31544,19914628,4.75,0.19690001,,-4.7916665,41.18011,0.6162915,-17.321,2.515,10.0,10.0,10.0,,none,1,,,,,2026-11-13,-0.727,https://www.sidusspace.com,2026-11-10T12:47:18.091465+00:00
+16.29,SIDU,Sidus Space Inc.,Industrials,Aerospace & Defense,United States,116409128,1.15,3551440,3926287,4515230.05,-0.538,,,-1.66856,-9.76211,0.0,-0.27001,-0.12804,166520688,1149039,0.608,33.295,32.47,-19418488,-21984174,101125324,101027937,0.00035,0.31544,19914628,4.75,0.19690001,,-4.7916665,41.18011,0.6162915,-17.321,2.515,10.0,10.0,10.0,,none,1,,,,,2026-11-13,-0.727,https://www.sidusspace.com,2026-11-10T12:47:18.091465+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-14,2700.00,2970.00,1050.00,1219.00,,,,,,,0,2970.0000,0,32284,,,,
 2021-12-15,1014.00,1366.00,825.00,1186.00,,,,,,,0,2970.0000,0,45861,,,,
@@ -1246,3 +1246,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.94,1.00,0.88,0.99,1.07,1.14,1.76,2.72,2.74,1.2442,0,1.1773,0,3381,7407,-0.2073,-0.2240,0.0167
 2026-11-09,0.99,1.21,0.97,1.15,1.07,1.13,1.74,2.71,2.73,1.2442,0,0.8780,1,5494,7149,-0.1873,-0.2166,0.0293
 2026-11-10,1.12,1.14,1.06,1.14,1.08,1.12,1.72,2.71,2.72,1.2442,0,0.8800,1,3548,6935,-0.1703,-0.2074,0.0370
+2026-11-11,1.17,1.24,1.07,1.10,1.07,1.11,1.69,2.70,2.70,1.2442,0,0.8866,1,6205,6617,-0.1583,-0.1975,0.0393

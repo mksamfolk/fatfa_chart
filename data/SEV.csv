@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.61,SEV,Aptera Motors Corp.,,,,93326088,2.28,283680,285553,651060.84,,,,,,,,,,,,,,,,28949488,,,,,,,,,,3.4969325,,,6.33333,10.0,4.0,,none,3,1,1,0,0,2026-11-16,,,2026-11-10T12:43:46.623122+00:00
+25.63,SEV,Aptera Motors Corp.,,,,93326088,2.28,283680,285553,651060.84,,,,,,,,,,,,,,,,28949488,,,,,,,,,,3.4969325,,,6.33333,10.0,4.0,,none,3,1,1,0,0,2026-11-16,,,2026-11-10T12:43:46.623122+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-16,19.99,22.43,3.55,8.00,,,,,,,0,3.5500,1,27826,,,,
 2025-10-17,7.79,7.85,5.05,5.84,,,,,,,0,3.5500,1,8723,,,,
@@ -283,3 +283,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.99,2.19,1.99,2.11,1.79,1.63,1.95,2.26,2.37,1.6109,1,1.6105,1,355,543,0.0261,-0.0588,0.0848
 2026-11-09,2.17,2.29,2.12,2.28,1.86,1.66,1.96,2.26,2.36,1.7198,1,1.6800,1,540,541,0.0616,-0.0347,0.0963
 2026-11-10,1.73,1.75,1.58,1.62,1.86,1.67,1.95,2.25,2.34,2.3117,0,2.2900,0,2443,584,0.0360,-0.0205,0.0566
+2026-11-11,1.67,1.67,1.54,1.56,1.86,1.67,1.93,2.24,2.33,2.2270,0,2.2900,0,1077,596,0.0108,-0.0143,0.0251

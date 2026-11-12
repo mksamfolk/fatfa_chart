@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-24 09:30:00-04:00,0.1\n2026-07-22 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.08,MSS,Maison Solutions Inc.,Consumer Defensive,Grocery Stores,United States,867056,0.996,72090,3370189,3356708.244,-0.086,,,0.20072001,-0.09538999,-0.10119,-1.27033,-0.0762,1518958,47597544,629.58,0.669,0.183,-718223,-2379841,810539,389834,0.34304002,0.21153,54671,0.01,0.096099995,,0.3984,0.0073044607,0.06763088,0.392,-5.461,,,,0.0,strong_buy,,0,0,1,1,,4.174,https://maisonsolutionsinc.com,2026-11-10T11:23:39.638771+00:00
+4.29,MSS,Maison Solutions Inc.,Consumer Defensive,Grocery Stores,United States,867056,0.996,72090,3370189,3356708.244,-0.086,,,0.20072001,-0.09538999,-0.10119,-1.27033,-0.0762,1518958,47597544,629.58,0.669,0.183,-718223,-2379841,810539,389834,0.34304002,0.21153,54671,0.01,0.096099995,,0.3984,0.0073044607,0.06763088,0.392,-5.461,,,,0.0,strong_buy,,0,0,1,1,,4.174,https://maisonsolutionsinc.com,2026-11-10T11:23:39.638771+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-05,200.00,574.00,188.00,448.00,,,,,,,0,188.0000,1,83444,,,,
 2023-10-06,352.50,548.00,330.00,366.00,,,,,,,0,188.0000,1,41030,,,,
@@ -792,3 +792,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.02,1.11,0.85,1.06,1.10,1.22,1.42,3.81,6.28,1.2961,0,1.3051,0,213,3994,-0.1426,-0.1387,-0.0039
 2026-11-09,1.08,1.08,0.99,1.00,1.07,1.19,1.41,3.75,6.21,1.2961,0,1.2232,0,54,3987,-0.1424,-0.1394,-0.0030
 2026-11-10,0.93,1.05,0.85,0.93,1.05,1.16,1.40,3.69,6.14,1.2961,0,1.1560,0,139,3978,-0.1459,-0.1407,-0.0052
+2026-11-11,0.97,1.00,0.93,0.99,1.03,1.14,1.39,3.65,6.06,1.2961,0,1.1009,0,52,3974,-0.1425,-0.1411,-0.0015

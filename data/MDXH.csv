@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.10,MDXH,MDxHealth SA,Healthcare,Diagnostics & Research,Belgium,15066405,0.1579,783970,6225601,983022.3979000001,0.023,,,0.62858003,-0.1874,-0.32744998,,-0.09834,19207000,105846000,,1.15,0.913,-5300000,-17405124,95417382,42511845,0.2214,0.43627998,1192520,4.87,0.014400001,,-0.41552633,0.13213363,-0.26672298,0.831,-6.347,0.83333,1.0,0.5,,none,3,0,5,0,0,2026-11-12,-528250.94,https://mdxhealth.com,2026-11-10T11:12:05.240271+00:00
+2.12,MDXH,MDxHealth SA,Healthcare,Diagnostics & Research,Belgium,15066405,0.1579,783970,6225601,983022.3979000001,0.023,,,0.62858003,-0.1874,-0.32744998,,-0.09834,19207000,105846000,,1.15,0.913,-5300000,-17405124,95417382,42511845,0.2214,0.43627998,1192520,4.87,0.014400001,,-0.41552633,0.13213363,-0.26672298,0.831,-6.347,0.83333,1.0,0.5,,none,3,0,5,0,0,2026-11-12,-528250.94,https://mdxhealth.com,2026-11-10T11:12:05.240271+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-04,12.15,13.17,11.91,12.00,,,,,,,0,11.9100,1,10438,,,,
 2021-11-05,12.03,12.27,11.99,12.00,,,,,,,0,11.9100,1,1128,,,,
@@ -1272,4 +1272,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.16,0.17,0.14,0.15,0.17,0.29,0.51,1.05,1.67,0.2677,0,0.2512,0,133,5848,-0.1145,-0.1139,-0.0006
 2026-11-06,0.15,0.16,0.15,0.16,0.17,0.27,0.51,1.03,1.65,0.2603,0,0.2319,0,70,5848,-0.1101,-0.1131,0.0031
 2026-11-09,0.16,0.17,0.16,0.16,0.17,0.25,0.50,1.01,1.64,0.2603,0,0.2161,0,143,5846,-0.1052,-0.1116,0.0063
-2026-11-10,0.16,0.16,0.14,0.14,0.16,0.22,0.50,0.99,1.62,0.2474,0,0.2031,0,214,5849,-0.1018,-0.1096,0.0078
+2026-11-10,0.16,0.16,0.14,0.14,0.16,0.22,0.50,0.99,1.62,0.2474,0,0.2031,0,221,5849,-0.1018,-0.1096,0.0078
+2026-11-11,0.14,0.15,0.14,0.15,0.16,0.20,0.49,0.97,1.60,0.2377,0,0.1903,0,179,5849,-0.0973,-0.1071,0.0099

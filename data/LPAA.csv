@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.49,LPAA,Launch One Acquisition Corp.,Financial Services,Shell Companies,United States,312800000,10.88,20,1131,12305.28,,-0.168,-0.168,0.0,0.0,0.0,,,321957,1046959,,0.216,0.152,-941783,,28749999,1773616,0.0,1.9111099,4006,2.77,0.0005,43.52,,,-24.783598,,,,,,,none,,,,,,,0.001,https://www.launchoneacquisitioncorp.com,2026-11-10T11:01:48.039839+00:00
+55.10,LPAA,Launch One Acquisition Corp.,Financial Services,Shell Companies,United States,312800000,10.88,20,1131,12305.28,,-0.168,-0.168,0.0,0.0,0.0,,,321957,1046959,,0.216,0.152,-941783,,28749999,1773616,0.0,1.9111099,4006,2.77,0.0005,43.52,,,-24.783598,,,,,,,none,,,,,,,0.001,https://www.launchoneacquisitioncorp.com,2026-11-10T11:01:48.039839+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-03,9.99,9.99,9.66,9.97,,,,,,,0,9.6600,1,1870,,,,
 2024-09-04,9.96,9.97,9.96,9.97,,,,,,,0,9.6600,1,26897,,,,
@@ -564,3 +564,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,11.02,11.02,11.02,11.02,10.92,10.90,10.83,10.80,10.76,10.9684,1,10.8737,1,,20,0.0401,0.0270,0.0131
 2026-11-09,11.02,11.02,11.02,11.02,10.93,10.91,10.83,10.80,10.77,10.9731,1,10.8850,1,,13,0.0440,0.0304,0.0136
 2026-11-10,11.02,11.02,11.02,11.02,10.94,10.91,10.83,10.81,10.77,10.9773,1,10.8954,1,,13,0.0466,0.0336,0.0130
+2026-11-11,11.02,11.02,11.02,11.02,10.96,10.92,10.84,10.81,10.77,10.9810,1,10.9050,1,,13,0.0481,0.0365,0.0116

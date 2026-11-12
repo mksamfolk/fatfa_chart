@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.66,SKYX,SKYX Platforms Corp.,Industrials,Electrical Equipment & Parts,United States,117355272,0.7315,1080830,930973,681006.7495,0.096,,,0.30193,-0.27985,-0.34341,-2.71395,-0.26267,25661472,34640832,185.687,1.464,1.209,-16667336,-3112372,160430994,101031522,0.30364,0.19594,3972713,6.3,0.0299,,-6.65,1.2199188,16.625,1.255,-4.488,4.0,5.0,2.5,1.16667,strong_buy,7,1,1,3,3,2026-11-12,-3685.74,https://www.skyx.com,2026-11-10T12:50:00.988568+00:00
+13.38,SKYX,SKYX Platforms Corp.,Industrials,Electrical Equipment & Parts,United States,117355272,0.7315,1080830,930973,681006.7495,0.096,,,0.30193,-0.27985,-0.34341,-2.71395,-0.26267,25661472,34640832,185.687,1.464,1.209,-16667336,-3112372,160430994,101031522,0.30364,0.19594,3972713,6.3,0.0299,,-6.65,1.2199188,16.625,1.255,-4.488,4.0,5.0,2.5,1.16667,strong_buy,7,1,1,3,3,2026-11-12,-3685.74,https://www.skyx.com,2026-11-10T12:50:00.988568+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-10,14.00,14.00,10.30,11.85,,,,,,,0,10.3000,1,13040,,,,
 2022-02-11,11.49,11.70,10.50,10.50,,,,,,,0,10.3000,1,3049,,,,
@@ -1206,3 +1206,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.69,0.74,0.68,0.73,0.76,0.86,1.08,1.14,1.41,0.9099,0,0.7640,0,571,1052,-0.1127,-0.1061,-0.0065
 2026-11-09,0.73,0.75,0.72,0.73,0.75,0.85,1.07,1.13,1.40,0.9099,0,0.6730,1,272,1045,-0.1087,-0.1067,-0.0020
 2026-11-10,0.72,0.74,0.69,0.69,0.74,0.82,1.06,1.13,1.39,0.9010,0,0.6745,1,697,1034,-0.1073,-0.1068,-0.0005
+2026-11-11,0.71,0.75,0.69,0.71,0.73,0.81,1.05,1.12,1.39,0.9010,0,0.6759,1,364,1025,-0.1034,-0.1061,0.0027

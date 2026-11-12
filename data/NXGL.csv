@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-12 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.05,NXGL,NEXGEL Inc.,Healthcare,Medical Instruments & Supplies,United States,1776511,3.645,31820,113672,414334.44,0.278,,,0.35079,-0.6796,-0.51264,-1.15065,-0.18675,492000,7458000,136.443,0.427,0.109,-3205000,8448625,487383,383887,0.14015001,0.1362,104742,0.5,0.25,,-0.8284091,0.1472206,0.35721284,0.767,-2.178,,,,,none,,0,0,1,1,2026-11-10,0.803,https://nexgel.com,2026-11-10T11:44:39.204711+00:00
+99.21,NXGL,NEXGEL Inc.,Healthcare,Medical Instruments & Supplies,United States,1776511,3.645,31820,113672,414334.44,0.278,,,0.35079,-0.6796,-0.51264,-1.15065,-0.18675,492000,7458000,136.443,0.427,0.109,-3205000,8448625,487383,383887,0.14015001,0.1362,104742,0.5,0.25,,-0.8284091,0.1472206,0.35721284,0.767,-2.178,,,,,none,,0,0,1,1,2026-11-10,0.803,https://nexgel.com,2026-11-10T11:44:39.204711+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-22,4.40,4.66,3.07,3.52,,,,,,,0,3.0700,1,8202,,,,
 2021-12-23,3.30,3.50,3.08,3.12,,,,,,,0,3.0700,1,1645,,,,
@@ -1238,3 +1238,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.80,3.80,3.60,3.60,3.96,4.50,2.21,1.12,1.19,3.2137,1,5.9007,0,50,800,0.4355,0.6692,-0.2338
 2026-11-09,3.37,3.84,3.34,3.64,3.93,4.49,2.27,1.14,1.20,3.2137,1,5.7567,0,83,801,0.3718,0.6097,-0.2379
 2026-11-10,3.54,3.77,3.31,3.58,3.86,4.46,2.34,1.16,1.21,3.2137,1,5.5632,0,316,805,0.3125,0.5503,-0.2378
+2026-11-11,3.62,4.30,3.62,4.24,3.89,4.40,2.42,1.18,1.22,3.2137,1,5.3379,0,145,806,0.3152,0.5033,-0.1881

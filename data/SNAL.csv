@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-06 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.05,SNAL,Snail Inc.,Communication Services,Electronic Gaming & Multimedia,United States,18538528,2.07,29290,71256,147499.91999999998,-0.113,,,0.33728,-0.13052,-0.11214,,-0.11603,13293820,12873749,,0.55,0.396,8122608,17569344,3206095,3129160,0.04928,0.096599996,80525,3.95,0.025799999,,14.785714,0.21581496,-1.5935334,0.147,-1.341,17.5,17.5,17.5,,none,1,1,1,0,0,2026-11-11,1.277,https://snail.com,2026-11-10T12:54:12.637537+00:00
+13.74,SNAL,Snail Inc.,Communication Services,Electronic Gaming & Multimedia,United States,18538528,2.07,29290,71256,147499.91999999998,-0.113,,,0.33728,-0.13052,-0.11214,,-0.11603,13293820,12873749,,0.55,0.396,8122608,17569344,3206095,3129160,0.04928,0.096599996,80525,3.95,0.025799999,,14.785714,0.21581496,-1.5935334,0.147,-1.341,17.5,17.5,17.5,,none,1,1,1,0,0,2026-11-11,1.277,https://snail.com,2026-11-10T12:54:12.637537+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-10,11.00,14.05,8.20,11.25,,,,,,,0,8.2000,1,8130,,,,
 2022-11-11,21.00,21.80,14.60,15.00,,,,,,,0,8.2000,1,60218,,,,
@@ -1017,3 +1017,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.90,1.98,1.82,1.95,2.21,2.17,2.63,3.37,3.42,2.5433,0,2.4293,0,34,267,-0.1611,-0.1642,0.0030
 2026-11-09,1.96,2.18,1.96,2.07,2.17,2.16,2.57,3.37,3.41,2.5433,0,2.4041,0,43,255,-0.1551,-0.1623,0.0073
 2026-11-10,2.03,2.15,2.03,2.15,2.15,2.16,2.53,3.36,3.40,2.5433,0,2.3800,0,36,237,-0.1422,-0.1583,0.0161
+2026-11-11,2.15,2.33,2.08,2.30,2.15,2.17,2.48,3.36,3.39,2.5433,0,2.3568,0,149,209,-0.1185,-0.1504,0.0318

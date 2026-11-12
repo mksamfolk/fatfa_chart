@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.56,SUPX,SuperX AI Technology Limited,Technology,Software - Infrastructure,Singapore,251860832,5.7,263280,528412,3011948.4,,,,-0.053790003,-5.00177,0.0,-1.0381501,-0.49927,98936512,4457274,2.328,19.73,10.616,-73798744,-107313896,44186112,31730755,0.33481997,0.18292,993388,1.48,0.028299998,,,12.382017,1.3118527,7.677,-1.556,,,,,none,,,,,,,0.181,https://www.superx.sg,2026-11-10T13:06:30.311547+00:00
+12.80,SUPX,SuperX AI Technology Limited,Technology,Software - Infrastructure,Singapore,251860832,5.7,263280,528412,3011948.4,,,,-0.053790003,-5.00177,0.0,-1.0381501,-0.49927,98936512,4457274,2.328,19.73,10.616,-73798744,-107313896,44186112,31730755,0.33481997,0.18292,993388,1.48,0.028299998,,,12.382017,1.3118527,7.677,-1.556,,,,,none,,,,,,,0.181,https://www.superx.sg,2026-11-10T13:06:30.311547+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-17,4.00,4.20,3.60,4.06,,,,,,,0,3.6000,1,9073,,,,
 2024-04-18,3.94,4.60,3.85,4.10,,,,,,,0,3.6000,1,2408,,,,
@@ -659,3 +659,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,4.75,4.92,4.65,4.90,5.63,6.15,7.13,7.94,9.40,6.7007,0,5.5494,0,866,3523,-0.6393,-0.4998,-0.1396
 2026-11-09,4.90,5.83,4.84,5.70,5.56,6.10,7.11,7.92,9.35,6.7007,0,4.1100,1,2084,3530,-0.5833,-0.5165,-0.0668
 2026-11-10,5.59,5.59,4.96,5.15,5.42,6.01,7.08,7.90,9.30,6.7007,0,4.1444,1,1137,3524,-0.5765,-0.5285,-0.0481
+2026-11-11,5.21,5.63,5.10,5.21,5.31,5.92,7.05,7.88,9.25,6.7007,0,4.1781,1,3156,3578,-0.5599,-0.5348,-0.0252

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-41.76,MPTI,M-tron Industries Inc.,Technology,Electronic Components,United States,277957152,63.95,103280,97862,6258274.9,0.138,-0.189,0.199,0.4428,0.11377,0.16349001,0.123950005,0.08123,97000000,132000,0.111,16.63,14.845,12019000,5390750,4346476,4089773,0.05723,0.69484,414934,5.0,0.1004,25.078432,21.938251,4.77606,2.3411188,3.112,15.164,89.0,90.0,88.0,3.0,hold,2,0,0,0,0,2026-11-12,0.812,https://www.mtron.com,2026-11-10T11:20:54.254234+00:00
+45.14,MPTI,M-tron Industries Inc.,Technology,Electronic Components,United States,277957152,63.95,103280,97862,6258274.9,0.138,-0.189,0.199,0.4428,0.11377,0.16349001,0.123950005,0.08123,97000000,132000,0.111,16.63,14.845,12019000,5390750,4346476,4089773,0.05723,0.69484,414934,5.0,0.1004,25.078432,21.938251,4.77606,2.3411188,3.112,15.164,89.0,90.0,88.0,3.0,hold,2,0,0,0,0,2026-11-12,0.812,https://www.mtron.com,2026-11-10T11:20:54.254234+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-10-03,8.00,13.70,8.00,13.10,,,,,,,0,8.0000,1,26,,,,
 2022-10-04,13.10,13.10,13.10,13.10,,,,,,,0,8.0000,1,1,,,,
@@ -1060,3 +1060,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,57.74,60.72,56.68,60.34,65.11,66.31,71.76,78.39,75.01,69.3629,0,67.9542,0,6740,6134,-3.1162,-2.5497,-0.5666
 2026-11-09,60.72,64.67,57.42,63.95,64.74,66.01,71.50,78.38,75.02,69.3629,0,66.8265,0,4931,6088,-2.9261,-2.6249,-0.3011
 2026-11-10,62.86,65.37,62.86,64.44,64.28,65.78,71.26,78.35,75.03,69.3629,0,65.8115,0,3112,6042,-2.7047,-2.6409,-0.0638
+2026-11-11,65.85,68.67,65.51,67.22,64.07,65.81,71.11,78.34,75.05,69.3629,0,56.6770,1,4484,6009,-2.2786,-2.5684,0.2898

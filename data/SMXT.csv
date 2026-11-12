@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-13 09:30:00-04:00,0.08333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.47,SMXT,SolarMax Technology Inc.,Technology,Solar,United States,19205778,4.05,20650,111020,449631.0,0.488,,,0.074990004,-0.019,-0.07915,,-0.029159999,2158233,36031448,,0.976,0.83,-4277924,-23060952,4742167,3265598,0.31066,0.03142,179872,0.67,0.0464,,,0.18783839,-1.1929308,0.519,-15.521,,,,,none,,,,,,,-0.314,https://www.solarmaxtech.com,2026-11-10T12:53:56.484627+00:00
+99.49,SMXT,SolarMax Technology Inc.,Technology,Solar,United States,19205778,4.05,20650,111020,449631.0,0.488,,,0.074990004,-0.019,-0.07915,,-0.029159999,2158233,36031448,,0.976,0.83,-4277924,-23060952,4742167,3265598,0.31066,0.03142,179872,0.67,0.0464,,,0.18783839,-1.1929308,0.519,-15.521,,,,,none,,,,,,,-0.314,https://www.solarmaxtech.com,2026-11-10T12:53:56.484627+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-27,3.50,9.35,3.50,8.00,,,,,,,0,3.5000,1,22723,,,,
 2024-02-28,6.42,7.24,5.60,5.86,,,,,,,0,3.5000,1,1425,,,,
@@ -694,3 +694,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.79,3.98,3.79,3.80,4.28,4.56,3.71,1.70,1.48,3.4038,1,5.4581,0,18,512,0.1188,0.2790,-0.1602
 2026-11-09,3.95,4.30,3.86,4.05,4.26,4.52,3.78,1.73,1.49,3.4038,1,5.3550,0,136,514,0.0959,0.2424,-0.1464
 2026-11-10,4.21,4.49,4.09,4.43,4.27,4.48,3.86,1.75,1.51,3.4038,1,5.2581,0,97,515,0.1072,0.2153,-0.1081
+2026-11-11,4.22,4.60,4.22,4.43,4.28,4.42,3.87,1.78,1.53,3.4038,1,5.1670,0,132,516,0.1149,0.1952,-0.0804

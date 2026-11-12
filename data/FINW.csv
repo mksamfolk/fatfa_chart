@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-43.79,FINW,FinWise Bancorp,Financial Services,Banks - Regional,United States,198181184,14.42,68350,38656,557419.52,1.076,1.154,1.054,0.0,0.13718,0.13214,0.09703,0.020669999,92572000,0,,,,,,13743494,9028926,0.31871998,0.28455,117002,3.12,0.0105,10.449275,15.561095,1.3909307,0.9525697,0.741,,16.66667,19.0,15.0,2.33333,buy,3,0,0,1,1,2027-01-28,0.699,https://investors.finwisebancorp.com,2026-11-10T09:44:21.836082+00:00
+41.37,FINW,FinWise Bancorp,Financial Services,Banks - Regional,United States,198181184,14.42,68350,38656,557419.52,1.076,1.154,1.054,0.0,0.13718,0.13214,0.09703,0.020669999,92572000,0,,,,,,13743494,9028926,0.31871998,0.28455,117002,3.12,0.0105,10.449275,15.561095,1.3909307,0.9525697,0.741,,16.66667,19.0,15.0,2.33333,buy,3,0,0,1,1,2027-01-28,0.699,https://investors.finwisebancorp.com,2026-11-10T09:44:21.836082+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-19,12.50,13.89,11.90,12.73,,,,,,,0,11.9000,1,19883,,,,
 2021-11-22,12.73,14.60,12.73,13.50,,,,,,,0,11.9000,1,3567,,,,
@@ -1262,3 +1262,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,13.67,14.00,13.51,13.68,12.56,11.62,12.69,14.05,14.88,11.5353,1,11.7414,1,622,462,0.3460,-0.0670,0.4130
 2026-11-09,13.68,14.45,13.68,14.42,12.96,11.80,12.69,14.04,14.86,11.8323,1,12.0576,1,632,472,0.4624,0.0388,0.4235
 2026-11-10,14.48,14.82,14.26,14.71,13.38,11.99,12.71,14.03,14.85,12.3648,1,12.4404,1,672,469,0.5714,0.1454,0.4260
+2026-11-11,14.79,14.79,14.39,14.53,13.75,12.18,12.73,14.02,14.83,12.5123,1,12.8687,1,296,467,0.6359,0.2435,0.3925

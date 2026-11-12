@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-08-30 09:30:00-04:00,0.05\n2026-02-10 09:30:00-05:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.58,ATPC,Agape ATP Corporation,Consumer Defensive,Packaged Foods,Malaysia,1360851,1.36,31470,36343,49426.48,-0.934,,,0.59221,-40.23771,-0.86272,-0.05481,-0.07902,24576912,62681,0.284,8.449,8.361,-970178,1013234,1000626,433681,0.020450002,0.10903,6964,0.14,0.0069999998,,,1.034299,0.06171159,-17.597,7.486,,,,,none,,,,,,,0.537,https://www.atpc.com.my,2026-11-10T08:05:50.975481+00:00
+8.36,ATPC,Agape ATP Corporation,Consumer Defensive,Packaged Foods,Malaysia,1360851,1.36,31470,36343,49426.48,-0.934,,,0.59221,-40.23771,-0.86272,-0.05481,-0.07902,24576912,62681,0.284,8.449,8.361,-970178,1013234,1000626,433681,0.020450002,0.10903,6964,0.14,0.0069999998,,,1.034299,0.06171159,-17.597,7.486,,,,,none,,,,,,,0.537,https://www.atpc.com.my,2026-11-10T08:05:50.975481+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-11,9000.00,9000.00,9000.00,9000.00,,,,,,,0,9000.0000,0,,,,,
 2023-09-12,8100.00,8100.00,8100.00,8100.00,,,,,,,0,9000.0000,0,,,,,
@@ -810,3 +810,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.27,1.39,1.24,1.25,1.41,1.53,2.04,2.54,2.74,1.7876,0,1.1616,1,23,96,-0.2140,-0.2183,0.0042
 2026-11-09,1.32,1.42,1.28,1.36,1.41,1.49,2.02,2.52,2.72,1.7876,0,1.1730,1,19,86,-0.2043,-0.2155,0.0112
 2026-11-10,1.47,1.49,1.35,1.35,1.40,1.46,1.99,2.51,2.71,1.7876,0,1.1841,1,15,84,-0.1951,-0.2114,0.0163
+2026-11-11,1.35,1.40,1.29,1.35,1.38,1.44,1.97,2.50,2.69,1.7876,0,1.1950,1,16,82,-0.1857,-0.2063,0.0205

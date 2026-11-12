@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.09,VENU,,Consumer Cyclical,Restaurants,United States,66688340,1.18,365080,436278,514808.04,0.069,,,0.2408,-2.7815201,-2.50608,-0.2515,-0.08126,16283650,183640144,73.67,0.246,0.2,9731995,-206333152,56210552,37286708,0.25011,0.39036,5088638,10.66,0.113000005,,0.62765956,3.61307,0.48901778,18.797,-8.503,6.85,8.7,5.0,,none,2,0,0,1,1,2026-11-16,,https://venu.live,2026-11-10T13:38:37.827445+00:00
+7.14,VENU,,Consumer Cyclical,Restaurants,United States,66688340,1.18,365080,436278,514808.04,0.069,,,0.2408,-2.7815201,-2.50608,-0.2515,-0.08126,16283650,183640144,73.67,0.246,0.2,9731995,-206333152,56210552,37286708,0.25011,0.39036,5088638,10.66,0.113000005,,0.62765956,3.61307,0.48901778,18.797,-8.503,6.85,8.7,5.0,,none,2,0,0,1,1,2026-11-16,,https://venu.live,2026-11-10T13:38:37.827445+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-27,10.00,10.80,10.00,10.12,,,,,,,0,10.0000,1,2983,,,,
 2024-11-29,10.50,10.89,10.40,10.80,,,,,,,0,10.0000,1,542,,,,
@@ -503,3 +503,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.30,1.39,1.26,1.30,1.32,1.27,1.61,2.69,3.62,1.4977,0,1.2243,1,362,674,-0.0803,-0.1111,0.0308
 2026-11-09,1.35,1.35,1.18,1.18,1.31,1.27,1.59,2.68,3.58,1.4977,0,1.4500,0,443,667,-0.0853,-0.1059,0.0206
 2026-11-10,1.20,1.25,1.18,1.19,1.30,1.27,1.57,2.66,3.55,1.4977,0,1.4446,0,251,656,-0.0874,-0.1022,0.0148
+2026-11-11,1.21,1.30,1.19,1.30,1.29,1.28,1.56,2.65,3.52,1.4977,0,1.4393,0,280,640,-0.0793,-0.0976,0.0183

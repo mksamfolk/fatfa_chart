@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.67,DXYZ,Destiny Tech100 Inc.,Financial Services,Asset Management,United States,1214308864,25.48,864950,996062,25379659.76,,,,0.0,0.0,0.0,,,,,,,,,,47657338,,0.01612,0.15192,224633,0.26,0.0047999998,3.1652172,,,,,,,,,,none,,,,,,,,,2026-11-10T09:22:04.077433+00:00
+34.76,DXYZ,Destiny Tech100 Inc.,Financial Services,Asset Management,United States,1214308864,25.48,864950,996062,25379659.76,,,,0.0,0.0,0.0,,,,,,,,,,47657338,,0.01612,0.15192,224633,0.26,0.0047999998,3.1652172,,,,,,,,,,none,,,,,,,,,2026-11-10T09:22:04.077433+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-26,8.25,32.00,8.25,9.00,,,,,,,0,8.2500,1,5553,,,,
 2024-03-27,11.00,17.60,10.12,17.60,,,,,,,0,8.2500,1,25830,,,,
@@ -689,3 +689,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,23.60,25.06,23.31,24.37,26.31,27.51,29.90,32.47,31.50,29.4321,0,27.6800,0,18236,25745,-1.4432,-1.1381,-0.3051
 2026-11-09,24.48,26.37,24.23,25.48,26.04,27.27,29.72,32.46,31.48,29.4321,0,27.5814,0,19984,25126,-1.4016,-1.1908,-0.2108
 2026-11-10,25.80,27.01,25.28,26.25,25.86,27.08,29.60,32.44,31.46,29.4321,0,27.4848,0,23363,24517,-1.2917,-1.2110,-0.0807
+2026-11-11,27.00,27.00,25.80,25.97,25.69,26.88,29.49,32.43,31.45,29.4321,0,27.3901,0,26066,24335,-1.2131,-1.2114,-0.0017

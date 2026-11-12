@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.08,ECO,Okeanis Eco Tankers Corp.,Industrials,Marine Shipping,Greece,3209861120,82.21,978340,779046,64045371.66,2.394,6.063,7.566,0.72326,0.74973,0.56922,0.61592,0.20149,222591472,722493760,82.334,4.434,3.72,360911488,-123911808,39044655,20795183,0.46168998,0.30725,1257218,1.35,0.060700003,7.6120367,13.863406,4.5435104,3.657842,5.251,7.741,100.0,100.0,100.0,,none,1,1,1,0,0,2026-11-11,-0.057,https://www.okeanisecotankers.com,2026-11-10T09:23:34.373148+00:00
+96.16,ECO,Okeanis Eco Tankers Corp.,Industrials,Marine Shipping,Greece,3209861120,82.21,978340,779046,64045371.66,2.394,6.063,7.566,0.72326,0.74973,0.56922,0.61592,0.20149,222591472,722493760,82.334,4.434,3.72,360911488,-123911808,39044655,20795183,0.46168998,0.30725,1257218,1.35,0.060700003,7.6120367,13.863406,4.5435104,3.657842,5.251,7.741,100.0,100.0,100.0,,none,1,1,1,0,0,2026-11-11,-0.057,https://www.okeanisecotankers.com,2026-11-10T09:23:34.373148+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-14,17.85,17.85,17.68,17.68,,,,,,,0,17.8481,0,157,,,,
 2023-08-15,17.33,17.33,15.79,17.33,,,,,,,0,17.8481,0,53,,,,
@@ -844,3 +844,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,83.21,84.35,81.33,83.26,92.56,92.56,84.61,61.78,56.39,98.2551,0,101.3494,0,64352,71771,0.6822,2.8287,-2.1465
 2026-11-09,84.11,85.89,81.41,82.21,91.10,91.74,84.92,62.03,56.64,98.2551,0,100.5341,0,67388,72414,0.0092,2.2648,-2.2556
 2026-11-10,79.82,82.62,78.50,81.67,89.97,90.86,85.22,62.27,56.88,95.4927,0,99.7513,0,76860,73331,-0.5613,1.6996,-2.2609
+2026-11-11,84.65,86.24,83.79,85.75,88.64,90.37,85.57,62.55,57.14,95.4927,0,98.4762,0,73856,74204,-0.6764,1.2244,-1.9008

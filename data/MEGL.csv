@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.81,MEGL,Magic Empire Global Limited,Financial Services,Capital Markets,Hong Kong,9612493,0.1365,5244080,829807,113268.65550000001,0.267,,,0.72389,-0.8695,-0.72067,-0.06627,-0.06343,120729816,3063509,2.527,38.865,38.551,-6781871,,69421194,4828470,0.01402,0.00084,48930,3.27,0.0007,,,0.8337664,0.044742215,-10.146,,,,,,none,,,,,,,2.61,https://meglmagic.com,2026-11-10T11:12:25.447057+00:00
+0.87,MEGL,Magic Empire Global Limited,Financial Services,Capital Markets,Hong Kong,9612493,0.1365,5244080,829807,113268.65550000001,0.267,,,0.72389,-0.8695,-0.72067,-0.06627,-0.06343,120729816,3063509,2.527,38.865,38.551,-6781871,,69421194,4828470,0.01402,0.00084,48930,3.27,0.0007,,,0.8337664,0.044742215,-10.146,,,,,,none,,,,,,,2.61,https://meglmagic.com,2026-11-10T11:12:25.447057+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-05,49.50,233.59,48.76,96.03,,,,,,,0,48.7575,1,64447,,,,
 2022-08-08,231.89,247.44,85.44,115.83,,,,,,,0,48.7575,1,110998,,,,
@@ -1085,3 +1085,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.11,0.12,0.11,0.12,0.23,0.48,0.87,1.07,1.07,0.3399,0,0.3432,0,33,309,-0.2252,-0.1985,-0.0267
 2026-11-09,0.12,0.14,0.12,0.14,0.17,0.45,0.85,1.06,1.07,0.3338,0,0.2948,0,60,310,-0.2209,-0.2030,-0.0179
 2026-11-10,0.13,0.14,0.11,0.11,0.15,0.42,0.82,1.05,1.06,0.3159,0,0.2560,0,28,310,-0.2170,-0.2058,-0.0112
+2026-11-11,0.12,0.14,0.11,0.13,0.14,0.39,0.80,1.05,1.06,0.3114,0,0.2250,0,342,317,-0.2103,-0.2067,-0.0036

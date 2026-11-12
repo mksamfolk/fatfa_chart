@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-01-26 09:30:00-05:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.15,MKDW,Landvision Technology Limited,Consumer Cyclical,Auto Parts,Taiwan,5274855,0.1462,4750790,887929,129815.21979999999,0.129,,,0.17701,-4.08214,-0.92605,,,38252,9932777,,0.304,0.095,,,36079719,33146156,0.07285,0.0007,6823,0.02,0.0002,,,2.212244,-0.24489112,5.788,-6.752,,,,,none,,,,,,,-0.534,https://www.mkd.com.tw,2026-11-10T11:16:19.595725+00:00
+0.19,MKDW,Landvision Technology Limited,Consumer Cyclical,Auto Parts,Taiwan,5274855,0.1462,4750790,887929,129815.21979999999,0.129,,,0.17701,-4.08214,-0.92605,,,38252,9932777,,0.304,0.095,,,36079719,33146156,0.07285,0.0007,6823,0.02,0.0002,,,2.212244,-0.24489112,5.788,-6.752,,,,,none,,,,,,,-0.534,https://www.mkd.com.tw,2026-11-10T11:16:19.595725+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-28,303.00,303.00,303.00,303.00,,,,,,,0,303.0000,1,5299,,,,
 2023-03-29,303.60,303.60,302.70,303.00,,,,,,,0,303.6000,0,18132,,,,
@@ -923,4 +923,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.16,0.18,0.16,0.17,0.22,0.51,5.89,7.58,6.50,0.9448,0,0.3703,0,329,589,-1.5414,-1.8789,0.3375
 2026-11-06,0.17,0.18,0.16,0.16,0.20,0.46,5.67,7.57,6.47,0.8728,0,0.3250,0,28,589,-1.4508,-1.7933,0.3424
 2026-11-09,0.17,0.33,0.11,0.15,0.17,0.42,5.44,7.55,6.45,0.8728,0,0.1440,1,5614,701,-1.3648,-1.7076,0.3428
-2026-11-10,0.13,0.14,0.13,0.14,0.16,0.39,5.21,7.54,6.43,0.7699,0,0.1110,1,468,710,-1.2825,-1.6226,0.3401
+2026-11-10,0.13,0.14,0.13,0.14,0.16,0.39,5.21,7.54,6.43,0.7699,0,0.1110,1,479,710,-1.2825,-1.6226,0.3401
+2026-11-11,0.14,0.18,0.13,0.15,0.16,0.35,5.00,7.53,6.40,0.7378,0,0.1110,1,425,718,-1.2025,-1.5386,0.3361

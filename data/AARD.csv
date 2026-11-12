@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.64,AARD,Aardvark Therapeutics Inc.,Healthcare,Biotechnology,United States,29544542,1.35,1409430,605331,817196.8500000001,,,,0.0,0.0,0.0,-0.66019994,-0.4038,73870000,677000,0.905,12.629,11.566,-69408000,-46898876,21884846,11008078,0.15771,0.52731,553262,4.62,0.0378,,-0.5866734,,0.39496782,,0.591,4.57143,10.0,1.5,2.36364,buy,7,1,1,0,0,2026-11-12,,https://aardvarktherapeutics.com,2026-11-10T07:32:50.530796+00:00
+2.98,AARD,Aardvark Therapeutics Inc.,Healthcare,Biotechnology,United States,29544542,1.35,1409430,605331,817196.8500000001,,,,0.0,0.0,0.0,-0.66019994,-0.4038,73870000,677000,0.905,12.629,11.566,-69408000,-46898876,21884846,11008078,0.15771,0.52731,553262,4.62,0.0378,,-0.5866734,,0.39496782,,0.591,4.57143,10.0,1.5,2.36364,buy,7,1,1,0,0,2026-11-12,,https://aardvarktherapeutics.com,2026-11-10T07:32:50.530796+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-13,15.18,15.18,11.55,14.31,,,,,,,0,11.5500,1,24484,,,,
 2025-02-14,14.34,14.43,12.90,13.30,,,,,,,0,11.5500,1,2430,,,,
@@ -452,3 +452,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.10,1.18,1.09,1.17,1.27,2.50,4.64,4.90,6.65,2.2525,0,3.3864,0,259,1527,-1.0622,-1.0301,-0.0320
 2026-11-09,1.21,1.42,1.17,1.35,1.29,2.35,4.51,4.87,6.59,2.2525,0,3.2882,0,922,1534,-1.0135,-1.0268,0.0133
 2026-11-10,1.32,1.44,1.29,1.37,1.30,2.21,4.39,4.85,6.53,2.2525,0,3.1938,0,332,1526,-0.9621,-1.0139,0.0517
+2026-11-11,1.35,1.68,1.34,1.59,1.31,2.10,4.27,4.83,6.48,2.2525,0,3.1033,0,616,1513,-0.8934,-0.9898,0.0963

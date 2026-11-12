@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-68.60,CV,CapsoVision Inc.,Healthcare,Medical Devices,United States,342674688,6.44,137360,168751,1086756.4400000002,0.099,,,0.50882,-2.0807002,-2.1473598,-3.3506298,-1.3247399,9077000,687000,5.218,3.35,2.199,-27821000,-16277125,53210357,27981730,0.33737,0.10208999,2181775,8.75,0.0535,,,24.668827,24.48669,22.598,-10.614,9.5,10.0,9.0,,none,2,0,0,1,1,2026-11-12,,https://capsovision.com,2026-11-10T09:06:15.539629+00:00
+65.54,CV,CapsoVision Inc.,Healthcare,Medical Devices,United States,342674688,6.44,137360,168751,1086756.4400000002,0.099,,,0.50882,-2.0807002,-2.1473598,-3.3506298,-1.3247399,9077000,687000,5.218,3.35,2.199,-27821000,-16277125,53210357,27981730,0.33737,0.10208999,2181775,8.75,0.0535,,,24.668827,24.48669,22.598,-10.614,9.5,10.0,9.0,,none,2,0,0,1,1,2026-11-12,,https://capsovision.com,2026-11-10T09:06:15.539629+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-02,5.00,5.72,3.49,3.50,,,,,,,0,3.4900,1,13245,,,,
 2025-07-03,4.96,4.96,4.05,4.40,,,,,,,0,3.4900,1,29630,,,,
@@ -357,3 +357,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,6.22,6.44,6.17,6.32,6.73,6.72,6.47,6.64,6.42,6.1409,1,7.1523,0,758,760,0.0150,0.0856,-0.0706
 2026-11-09,6.32,6.55,6.31,6.44,6.68,6.70,6.45,6.65,6.39,6.1409,1,7.1108,0,428,752,-0.0022,0.0681,-0.0703
 2026-11-10,6.40,6.56,6.27,6.37,6.64,6.68,6.45,6.66,6.37,6.1409,1,7.0710,0,415,748,-0.0212,0.0502,-0.0714
+2026-11-11,6.42,6.58,6.27,6.27,6.56,6.66,6.44,6.66,6.36,6.1409,1,7.0328,0,367,745,-0.0438,0.0314,-0.0752

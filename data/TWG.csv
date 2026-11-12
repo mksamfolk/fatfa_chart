@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-21 09:30:00-04:00,0.011111111111111112\n2026-10-26 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.22,TWG,Top Wealth Group Holding Limited,Consumer Defensive,Food Distribution,Hong Kong,2070634,3.3,136280,126228,416552.39999999997,0.48,-0.968,0.169,0.72519,0.45661998,0.32329,0.06309,0.03838,295256,194934,0.21,17.44,7.79,-8633235,-21647554,595798,160989,0.25463,0.00198,16233,0.14,0.031400003,0.00835147,,0.1861536,0.008073651,0.058,0.178,,,,,none,,,,,,,1.046,https://www.imperialcristalcaviar.com,2026-11-10T13:28:12.765979+00:00
+30.55,TWG,Top Wealth Group Holding Limited,Consumer Defensive,Food Distribution,Hong Kong,2070634,3.3,136280,126228,416552.39999999997,0.48,-0.968,0.169,0.72519,0.45661998,0.32329,0.06309,0.03838,295256,194934,0.21,17.44,7.79,-8633235,-21647554,595798,160989,0.25463,0.00198,16233,0.14,0.031400003,0.00835147,,0.1861536,0.008073651,0.058,0.178,,,,,none,,,,,,,1.046,https://www.imperialcristalcaviar.com,2026-11-10T13:28:12.765979+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-17,166.50,197.46,139.50,155.70,,,,,,,0,139.5000,1,5434,,,,
 2024-04-18,175.50,193.50,157.50,166.50,,,,,,,0,139.5000,1,3504,,,,
@@ -659,3 +659,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.66,3.20,2.40,3.08,3.18,2.39,1.35,2.40,2.76,4.7605,0,1.4844,1,424,1804,0.5721,0.6220,-0.0499
 2026-11-09,3.01,3.63,2.95,3.30,3.11,2.55,1.39,2.39,2.76,4.7605,0,1.5987,1,167,1807,0.5637,0.6103,-0.0466
 2026-11-10,3.69,4.13,2.51,2.64,3.04,2.68,1.41,2.39,2.75,4.7605,0,1.7107,1,767,1822,0.4980,0.5878,-0.0898
+2026-11-11,2.76,2.80,2.53,2.70,2.98,2.81,1.44,2.38,2.75,4.7605,0,1.8205,1,77,1822,0.4457,0.5594,-0.1137

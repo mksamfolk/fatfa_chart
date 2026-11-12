@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.41,CMDB,Costamare Bulkers Holdings Limited,Industrials,Marine Shipping,Monaco,457840064,18.84,62570,66887,1260151.08,-0.284,,,0.1195,0.06398,0.00642,0.00629,0.00391,229931008,172202000,25.222,3.327,2.586,78554000,34770376,24301490,11930087,0.65663004,0.21384001,289131,4.58,0.0345,628.0,,0.6890253,0.670582,0.602,9.42,,,,,none,,,,,,2026-11-12,,https://www.costamarebulkers.com,2026-11-10T08:51:48.677341+00:00
+80.01,CMDB,Costamare Bulkers Holdings Limited,Industrials,Marine Shipping,Monaco,457840064,18.84,62570,66887,1260151.08,-0.284,,,0.1195,0.06398,0.00642,0.00629,0.00391,229931008,172202000,25.222,3.327,2.586,78554000,34770376,24301490,11930087,0.65663004,0.21384001,289131,4.58,0.0345,628.0,,0.6890253,0.670582,0.602,9.42,,,,,none,,,,,,2026-11-12,,https://www.costamarebulkers.com,2026-11-10T08:51:48.677341+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-01,16.00,16.00,13.50,13.50,,,,,,,0,16.0000,0,22,,,,
 2025-05-02,13.50,13.50,13.50,13.50,,,,,,,0,16.0000,0,,,,,
@@ -399,3 +399,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,17.98,18.73,17.98,18.48,19.15,19.57,20.15,18.43,18.10,20.9732,0,20.2721,0,1053,1401,-0.6245,-0.4208,-0.2037
 2026-11-09,18.58,19.21,18.57,18.84,19.02,19.48,20.18,18.45,18.12,20.9732,0,20.1141,0,765,1390,-0.5954,-0.4557,-0.1397
 2026-11-10,18.65,19.53,18.65,19.26,18.92,19.38,20.21,18.47,18.14,20.9732,0,19.9657,0,1017,1391,-0.5322,-0.4710,-0.0612
+2026-11-11,19.31,20.24,19.31,19.79,18.89,19.35,20.26,18.50,18.16,20.9732,0,17.6400,1,940,1383,-0.4344,-0.4637,0.0292

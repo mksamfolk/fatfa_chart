@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.33,UPB,Upstream Bio Inc.,Healthcare,Biotechnology,United States,196080320,3.58,1197720,893576,3199002.08,-0.175,,,1.0,-54.80983,0.0,-0.4605,-0.30281,261307008,954000,0.352,27.994,26.377,-136344000,-86616000,54771041,42809593,0.1478,0.92667997,4480785,5.02,0.1257,,-1.2780465,62.09003,0.7236709,-20.352,0.379,29.83333,75.0,9.0,,none,6,4,4,3,3,2026-11-10,1.608,https://upstreambio.com,2026-11-10T13:33:38.128405+00:00
+5.63,UPB,Upstream Bio Inc.,Healthcare,Biotechnology,United States,196080320,3.58,1197720,893576,3199002.08,-0.175,,,1.0,-54.80983,0.0,-0.4605,-0.30281,261307008,954000,0.352,27.994,26.377,-136344000,-86616000,54771041,42809593,0.1478,0.92667997,4480785,5.02,0.1257,,-1.2780465,62.09003,0.7236709,-20.352,0.379,29.83333,75.0,9.0,,none,6,4,4,3,3,2026-11-10,1.608,https://upstreambio.com,2026-11-10T13:33:38.128405+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-11,21.50,23.88,21.00,22.00,,,,,,,0,23.8800,0,78676,,,,
 2024-10-14,21.32,23.57,20.74,23.38,,,,,,,0,23.8800,0,10140,,,,
@@ -536,3 +536,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.24,3.28,3.02,3.23,3.21,3.18,5.09,7.09,10.40,3.8588,0,3.0000,1,3682,4295,-0.4659,-0.6298,0.1638
 2026-11-09,3.23,3.60,3.17,3.58,3.29,3.15,5.02,7.05,10.28,3.8588,0,3.0000,1,7101,4346,-0.4098,-0.5858,0.1759
 2026-11-10,3.52,3.65,3.24,3.38,3.35,3.14,4.94,7.01,10.16,3.8588,0,3.0200,1,3972,4297,-0.3772,-0.5440,0.1669
+2026-11-11,3.38,3.46,3.13,3.20,3.37,3.13,4.86,6.97,10.05,3.8588,0,3.1188,1,4218,4292,-0.3616,-0.5076,0.1459

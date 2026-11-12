@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.18,LHAI,Linkhome Holdings Inc.,Real Estate,Real Estate Services,United States,14272002,0.8634,258950,1795637,1550352.9858,0.128,,,0.03587,-0.036459997,-0.01362,-0.055999998,-0.04954,5361474,353248,4.664,10.157,9.554,-2138931,-842390,16530000,12797691,0.46098,0.01528,241734,1.31,0.025,,,0.68600184,1.8851528,0.445,-23.312,,,,,none,,,,,,,,https://www.linkhomeai.com,2026-11-10T10:57:07.430913+00:00
+20.17,LHAI,Linkhome Holdings Inc.,Real Estate,Real Estate Services,United States,14272002,0.8634,258950,1795637,1550352.9858,0.128,,,0.03587,-0.036459997,-0.01362,-0.055999998,-0.04954,5361474,353248,4.664,10.157,9.554,-2138931,-842390,16530000,12797691,0.46098,0.01528,241734,1.31,0.025,,,0.68600184,1.8851528,0.445,-23.312,,,,,none,,,,,,,,https://www.linkhomeai.com,2026-11-10T10:57:07.430913+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-24,6.01,22.33,4.20,5.63,,,,,,,0,4.2000,1,73041,,,,
 2025-07-25,11.77,13.00,8.60,10.31,,,,,,,0,4.2000,1,345332,,,,
@@ -342,3 +342,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.91,0.94,0.88,0.91,0.94,0.92,0.93,1.01,1.45,1.2140,0,0.8107,1,39,2447,-0.0083,-0.0065,-0.0018
 2026-11-09,0.90,0.95,0.86,0.86,0.93,0.91,0.93,1.00,1.41,1.2140,0,0.8223,1,63,2447,-0.0133,-0.0079,-0.0055
 2026-11-10,0.88,0.94,0.86,0.91,0.92,0.91,0.93,1.00,1.38,1.2140,0,0.8334,1,37,2445,-0.0134,-0.0090,-0.0044
+2026-11-11,0.86,0.94,0.84,0.84,0.92,0.91,0.93,1.00,1.34,1.2140,0,1.1000,0,136,2446,-0.0187,-0.0109,-0.0078

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-10-10 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.19,CLIK,Click Holdings Limited,Consumer Cyclical,Personal Services,Hong Kong,5728669,0.669,148690,452903,302992.107,0.657,,,0.15978,-0.02409,0.1079,0.08217,0.00262,7306123,4405676,1.879,5.05,3.493,-2821405,-25139548,7435986,694804,0.80382,0.01328,15830,0.16,0.0021,2.7875001,,0.04236133,0.20935982,0.167,5.996,,,,,none,,,,,,,2.834,https://clickholdings.com.hk,2026-11-10T08:49:43.820000+00:00
+4.55,CLIK,Click Holdings Limited,Consumer Cyclical,Personal Services,Hong Kong,5728669,0.669,148690,452903,302992.107,0.657,,,0.15978,-0.02409,0.1079,0.08217,0.00262,7306123,4405676,1.879,5.05,3.493,-2821405,-25139548,7435986,694804,0.80382,0.01328,15830,0.16,0.0021,2.7875001,,0.04236133,0.20935982,0.167,5.996,,,,,none,,,,,,,2.834,https://clickholdings.com.hk,2026-11-10T08:49:43.820000+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-09,120.00,131.70,60.00,79.20,,,,,,,0,131.7000,0,6861,,,,
 2024-10-10,66.00,73.20,40.50,43.80,,,,,,,0,131.7000,0,1830,,,,
@@ -538,3 +538,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.70,0.73,0.67,0.68,0.70,0.91,1.15,1.66,2.29,1.0840,0,1.2185,0,23,572,-0.1475,-0.1379,-0.0096
 2026-11-09,0.66,0.73,0.66,0.67,0.69,0.89,1.14,1.64,2.27,1.0599,0,1.1814,0,58,573,-0.1454,-0.1394,-0.0060
 2026-11-10,0.68,0.68,0.65,0.66,0.69,0.87,1.12,1.63,2.24,1.0044,0,1.1465,0,45,573,-0.1425,-0.1400,-0.0025
+2026-11-11,0.68,0.74,0.65,0.71,0.69,0.85,1.11,1.61,2.22,1.0044,0,1.1138,0,58,574,-0.1346,-0.1389,0.0043

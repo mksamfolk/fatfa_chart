@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.87,MB,MasterBeef Group,Consumer Cyclical,Restaurants,Hong Kong,64159700,3.74,4680,42696,159683.04,-0.12,,,0.27024,-0.04572,-0.11441,-1.38292,-0.06508,159485376,211161328,445.271,1.553,1.334,-12626408,-308588,17155000,4690005,0.72661,0.0028600001,54328,1.35,0.0116,,,0.1397504,10.617553,0.252,-27.233,,,,,none,,,,,,,,https://www.masterbeefgroup.com,2026-11-10T11:08:43.673835+00:00
+22.62,MB,MasterBeef Group,Consumer Cyclical,Restaurants,Hong Kong,64159700,3.74,4680,42696,159683.04,-0.12,,,0.27024,-0.04572,-0.11441,-1.38292,-0.06508,159485376,211161328,445.271,1.553,1.334,-12626408,-308588,17155000,4690005,0.72661,0.0028600001,54328,1.35,0.0116,,,0.1397504,10.617553,0.252,-27.233,,,,,none,,,,,,,,https://www.masterbeefgroup.com,2026-11-10T11:08:43.673835+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-10,3.80,4.67,3.20,4.10,,,,,,,0,4.6680,0,19900,,,,
 2025-04-11,3.65,3.90,3.01,3.20,,,,,,,0,4.6680,0,7872,,,,
@@ -413,3 +413,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.66,3.68,3.66,3.68,3.93,3.95,4.49,5.32,5.48,4.6865,0,5.9860,0,4,5982,-0.1159,-0.1113,-0.0046
 2026-11-09,3.70,3.89,3.70,3.74,3.89,3.95,4.39,5.31,5.46,4.6865,0,5.8398,0,14,273,-0.1203,-0.1131,-0.0072
 2026-11-10,3.68,3.80,3.62,3.80,3.86,3.96,4.33,5.29,5.45,4.6417,0,5.7024,0,13,196,-0.1179,-0.1140,-0.0038
+2026-11-11,3.60,3.62,3.60,3.62,3.81,3.95,4.27,5.28,5.43,4.5089,0,5.5733,0,4,183,-0.1287,-0.1170,-0.0117

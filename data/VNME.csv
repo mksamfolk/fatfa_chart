@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.02,VNME,Vendome Acquisition Corporation I,Financial Services,Shell Companies,United States,258750016,10.35,7820,27870,288454.5,,,,0.0,0.0,0.0,,,301960,120000,49.884,3.393,1.801,-858557,,20000000,16152250,0.0015,1.09034,43965,1.1,0.0022,,,,1035.0001,,,,,,,none,,,,,,,,,2026-11-10T13:43:03.608338+00:00
+57.63,VNME,Vendome Acquisition Corporation I,Financial Services,Shell Companies,United States,258750016,10.35,7820,27870,288454.5,,,,0.0,0.0,0.0,,,301960,120000,49.884,3.393,1.801,-858557,,20000000,16152250,0.0015,1.09034,43965,1.1,0.0022,,,,1035.0001,,,,,,,none,,,,,,,,,2026-11-10T13:43:03.608338+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-22,9.95,9.95,9.93,9.93,,,,,,,0,9.9500,0,1712,,,,
 2025-08-25,9.93,9.93,9.93,9.93,,,,,,,0,9.9500,0,43,,,,
@@ -321,3 +321,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.33,10.35,10.33,10.35,10.33,10.33,10.29,10.21,10.17,10.3153,1,10.3200,1,12,355,0.0133,0.0134,-0.0001
 2026-11-09,10.35,10.35,10.35,10.35,10.33,10.33,10.29,10.21,10.17,10.3278,1,10.3200,1,,355,0.0139,0.0135,0.0004
 2026-11-10,10.35,10.35,10.35,10.35,10.34,10.33,10.30,10.21,10.18,10.3300,1,10.3206,1,,355,0.0142,0.0137,0.0005
+2026-11-11,10.33,10.37,10.33,10.37,10.34,10.33,10.30,10.21,10.18,10.3300,1,10.3212,1,133,349,0.0159,0.0141,0.0018

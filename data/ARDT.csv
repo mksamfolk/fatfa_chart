@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.33,ARDT,Ardent Health Inc.,Healthcare,Medical Care Facilities,United States,2532626944,17.97,968760,507051,9111706.469999999,0.031,,,0.59143,0.05868,0.02266,0.13524,0.04006,766238016,2265144064,127.135,2.133,1.404,481875008,185765504,140936393,21648505,0.23858,0.77078,3752879,7.62,0.1216,17.446602,13.180961,0.39240897,1.813869,0.684,8.778,15.20833,21.0,12.0,2.07692,buy,12,0,0,3,3,2026-11-04,0.584,https://www.ardenthealth.com,2026-11-10T07:59:28.413973+00:00
+95.41,ARDT,Ardent Health Inc.,Healthcare,Medical Care Facilities,United States,2532626944,17.97,968760,507051,9111706.469999999,0.031,,,0.59143,0.05868,0.02266,0.13524,0.04006,766238016,2265144064,127.135,2.133,1.404,481875008,185765504,140936393,21648505,0.23858,0.77078,3752879,7.62,0.1216,17.446602,13.180961,0.39240897,1.813869,0.684,8.778,15.20833,21.0,12.0,2.07692,buy,12,0,0,3,3,2026-11-04,0.584,https://www.ardenthealth.com,2026-11-10T07:59:28.413973+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-18,15.00,16.69,15.00,16.06,,,,,,,0,15.0000,1,72398,,,,
 2024-07-19,15.93,17.60,15.73,17.30,,,,,,,0,15.0000,1,23289,,,,
@@ -601,3 +601,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,15.84,17.67,15.58,17.30,12.99,12.49,11.53,10.36,10.03,13.8005,1,11.7372,1,59955,6817,0.9048,0.4537,0.4511
 2026-11-09,17.83,18.57,17.17,17.97,13.57,12.81,11.67,10.43,10.07,14.9097,1,12.0935,1,28553,7333,1.2047,0.6039,0.6008
 2026-11-10,18.08,18.08,17.51,17.93,14.18,13.12,11.81,10.49,10.12,14.9575,1,12.6116,1,13397,7553,1.4228,0.7677,0.6551
+2026-11-11,17.92,18.34,17.76,18.19,14.80,13.43,11.96,10.55,10.16,15.3262,1,13.0883,1,11083,7715,1.5981,0.9338,0.6643

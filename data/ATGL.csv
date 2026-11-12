@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.28,ATGL,Alpha Technology Group Limited,Technology,Software - Infrastructure,Hong Kong,134992496,8.2,13630,53734,440618.8,0.484,,,0.59556997,-2.17888,0.0,-2.47424,-0.92811996,19086304,5495621,37.954,1.928,1.85,-18205200,3649927,15262500,14864979,0.82473,0.0,4913,0.51,0.0018000001,,,15.209971,73.117615,13.679,-1.965,,,,,none,,,,,,,3.473,https://atgl.io,2026-11-10T08:04:43.780581+00:00
+21.99,ATGL,Alpha Technology Group Limited,Technology,Software - Infrastructure,Hong Kong,134992496,8.2,13630,53734,440618.8,0.484,,,0.59556997,-2.17888,0.0,-2.47424,-0.92811996,19086304,5495621,37.954,1.928,1.85,-18205200,3649927,15262500,14864979,0.82473,0.0,4913,0.51,0.0018000001,,,15.209971,73.117615,13.679,-1.965,,,,,none,,,,,,,3.473,https://atgl.io,2026-11-10T08:04:43.780581+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-31,4.00,7.27,3.85,4.40,,,,,,,0,7.2700,0,20425,,,,
 2023-11-01,3.81,5.18,3.73,4.24,,,,,,,0,7.2700,0,3892,,,,
@@ -774,3 +774,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.82,8.90,8.38,8.39,9.91,8.01,7.17,11.40,13.49,7.0479,1,11.0962,0,76,610,0.8262,0.8312,-0.0050
 2026-11-09,8.75,8.75,7.80,8.20,9.75,8.20,7.17,11.32,13.42,7.0479,1,10.9875,0,66,496,0.6980,0.8046,-0.1066
 2026-11-10,8.41,11.00,8.40,9.69,9.66,8.44,7.17,11.26,13.37,7.0479,1,7.8000,1,211,487,0.7085,0.7854,-0.0769
+2026-11-11,9.69,9.69,9.01,9.25,9.51,8.68,7.19,11.19,13.32,7.0479,1,7.8000,1,29,484,0.6735,0.7630,-0.0895

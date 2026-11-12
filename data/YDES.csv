@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.84,YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan,475278336,6.71,108420,309717,2078201.07,3.149,,,0.29601,-3.8212,0.24672002,,,2662004,5002,0.112,5.231,2.699,-7256446,,70831346,16193257,0.80176,0.00364,192222,0.4,0.0117,,,383.50208,106.507935,381.42,-74.535,,,,,none,,,,,,,-0.125,https://www.ydesgroup.com,2026-11-10T14:02:30.631952+00:00
+93.08,YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan,475278336,6.71,108420,309717,2078201.07,3.149,,,0.29601,-3.8212,0.24672002,,,2662004,5002,0.112,5.231,2.699,-7256446,,70831346,16193257,0.80176,0.00364,192222,0.4,0.0117,,,383.50208,106.507935,381.42,-74.535,,,,,none,,,,,,,-0.125,https://www.ydesgroup.com,2026-11-10T14:02:30.631952+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-26,11.00,13.36,11.00,13.36,,,,,,,0,11.0000,1,29,,,,
 2025-08-27,12.00,12.00,12.00,12.00,,,,,,,0,11.0000,1,13,,,,
@@ -319,3 +319,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.01,7.45,5.87,5.97,6.19,6.01,4.91,4.44,5.91,7.6657,0,4.3185,1,1239,904,0.4245,0.4163,0.0083
 2026-11-09,5.95,6.94,5.95,6.71,6.33,6.03,5.00,4.43,5.88,7.6657,0,4.5064,1,270,908,0.4357,0.4202,0.0156
 2026-11-10,6.50,6.95,5.89,6.03,6.33,6.03,5.07,4.43,5.85,7.6657,0,4.6830,1,628,919,0.3853,0.4132,-0.0279
+2026-11-11,6.22,6.29,6.01,6.15,6.32,6.02,5.14,4.42,5.82,7.6657,0,4.8490,1,82,919,0.3510,0.4007,-0.0498

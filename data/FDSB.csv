@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-72.91,FDSB,Fifth District Bancorp Inc.,Financial Services,Banks - Regional,United States,91990512,17.57,1630,5550,97513.5,-0.424,-0.87,-0.877,0.0,0.13603,0.117510006,0.01274,0.0030899998,19161000,0,,,,1972000,,5235658,4791360,0.08755,0.33808,7894,0.98,0.0017,51.676468,,6.5315614,0.7130682,5.171,,,,,,none,,,,,,,0.244,https://www.fifthdistrict.com,2026-11-10T09:41:25.240773+00:00
+71.66,FDSB,Fifth District Bancorp Inc.,Financial Services,Banks - Regional,United States,91990512,17.57,1630,5550,97513.5,-0.424,-0.87,-0.877,0.0,0.13603,0.117510006,0.01274,0.0030899998,19161000,0,,,,1972000,,5235658,4791360,0.08755,0.33808,7894,0.98,0.0017,51.676468,,6.5315614,0.7130682,5.171,,,,,,none,,,,,,,0.244,https://www.fifthdistrict.com,2026-11-10T09:41:25.240773+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-01,10.75,10.80,10.10,10.25,,,,,,,0,10.8000,0,6347,,,,
 2024-08-02,10.25,10.25,9.85,10.15,,,,,,,0,10.8000,0,1534,,,,
@@ -586,3 +586,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,17.67,17.75,17.67,17.69,17.54,17.32,17.81,16.43,16.07,17.2191,1,17.0137,1,19,90,-0.0034,-0.0789,0.0756
 2026-11-09,17.69,17.69,17.57,17.57,17.55,17.33,17.80,16.44,16.08,17.2191,1,17.0726,1,104,89,-0.0003,-0.0632,0.0629
 2026-11-10,17.57,17.67,17.57,17.57,17.58,17.35,17.79,16.46,16.09,17.2191,1,17.1268,1,130,89,0.0022,-0.0501,0.0523
+2026-11-11,17.60,17.64,17.57,17.57,17.60,17.39,17.79,16.48,16.11,17.2191,1,17.1766,1,23,86,0.0040,-0.0393,0.0433

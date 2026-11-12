@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.03,HXHX,Haoxin Holdings Limited,Industrials,Integrated Freight & Logistics,China,2234496,0.1518,6437250,2973914,451440.14519999997,-0.065,-0.021,0.123,0.25106,0.23278,0.12009,0.17252001,0.11781,1404626,11668722,42.239,2.374,0.549,-9546215,-12345349,9920000,2470050,0.4379,0.00986,181505,0.06,0.026800001,0.506,,0.06763,0.07555998,0.374,1.492,,,,,none,,,,,,,,https://www.haoxinholdings.com,2026-11-10T10:23:09.675245+00:00
+5.85,HXHX,Haoxin Holdings Limited,Industrials,Integrated Freight & Logistics,China,2234496,0.1518,6437250,2973914,451440.14519999997,-0.065,-0.021,0.123,0.25106,0.23278,0.12009,0.17252001,0.11781,1404626,11668722,42.239,2.374,0.549,-9546215,-12345349,9920000,2470050,0.4379,0.00986,181505,0.06,0.026800001,0.506,,0.06763,0.07555998,0.374,1.492,,,,,none,,,,,,,,https://www.haoxinholdings.com,2026-11-10T10:23:09.675245+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-15,4.75,6.29,2.51,3.11,,,,,,,0,6.2900,0,26507,,,,
 2025-04-16,2.31,3.17,2.31,2.68,,,,,,,0,6.2900,0,6930,,,,
@@ -410,3 +410,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.14,0.15,0.14,0.15,0.17,0.21,0.37,0.46,0.47,0.2557,0,0.2347,0,78,1090,-0.0596,-0.0639,0.0043
 2026-11-09,0.15,0.16,0.14,0.15,0.17,0.20,0.36,0.46,0.47,0.2557,0,0.2324,0,26,1091,-0.0578,-0.0627,0.0048
 2026-11-10,0.15,0.16,0.15,0.15,0.17,0.19,0.36,0.46,0.47,0.2557,0,0.2302,0,9,1091,-0.0556,-0.0613,0.0056
+2026-11-11,0.15,0.17,0.15,0.16,0.17,0.19,0.35,0.45,0.46,0.2557,0,0.2281,0,53,981,-0.0524,-0.0595,0.0070

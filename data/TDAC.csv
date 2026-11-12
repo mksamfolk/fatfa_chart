@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.52,TDAC,Translational Development Acquisition Corp.,Financial Services,Shell Companies,United States,209886704,10.87,13610,19081,207410.46999999997,,-0.406,-0.417,0.0,0.0,0.0,,-0.00491,85877,1100000,,0.06,0.049,-849378,-355048,19308802,14982859,0.0,0.7593,1985,0.32,0.0001,41.807693,,,-27.311558,,,,,,,none,,,,,,,,https://www.translational-development.com,2026-11-10T13:12:20.361680+00:00
+57.61,TDAC,Translational Development Acquisition Corp.,Financial Services,Shell Companies,United States,209886704,10.87,13610,19081,207410.46999999997,,-0.406,-0.417,0.0,0.0,0.0,,-0.00491,85877,1100000,,0.06,0.049,-849378,-355048,19308802,14982859,0.0,0.7593,1985,0.32,0.0001,41.807693,,,-27.311558,,,,,,,none,,,,,,,,https://www.translational-development.com,2026-11-10T13:12:20.361680+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-13,10.00,10.01,10.00,10.01,,,,,,,0,10.0100,0,5109,,,,
 2025-02-14,10.01,10.01,10.00,10.00,,,,,,,0,10.0100,0,8799,,,,
@@ -452,3 +452,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.86,10.88,10.85,10.86,10.85,10.84,10.84,10.73,10.68,10.9125,0,10.8044,1,99,263,0.0092,0.0043,0.0049
 2026-11-09,10.88,10.88,10.85,10.87,10.86,10.84,10.84,10.74,10.68,10.9125,0,10.8065,1,85,256,0.0099,0.0054,0.0045
 2026-11-10,10.91,10.91,10.85,10.88,10.86,10.84,10.84,10.74,10.68,10.9125,0,10.8085,1,29,248,0.0108,0.0065,0.0043
+2026-11-11,10.88,10.88,10.85,10.88,10.86,10.84,10.84,10.74,10.69,10.9125,0,10.8128,1,132,245,0.0118,0.0076,0.0042

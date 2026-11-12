@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-89.39,ARX,Accelerant Holdings,Financial Services,Insurance Brokers,Cayman Islands,4317708288,19.88,948450,3259717,64803173.95999999,0.572,8.0,7.943,0.65065,0.15601,-1.27536,-2.22003,0.00538,1658400000,120100000,16.142,11.33,11.063,45800000,-1481612544,118548679,62969477,0.48736998,0.60798,3164055,1.62,0.0509,,21.224123,4.0288405,6.011491,2.618,25.649,20.25,20.25,20.25,,none,3,3,3,1,1,2026-11-12,,https://www.accelerant.ai,2026-11-10T08:01:48.460367+00:00
+88.17,ARX,Accelerant Holdings,Financial Services,Insurance Brokers,Cayman Islands,4317708288,19.88,948450,3259717,64803173.95999999,0.572,8.0,7.943,0.65065,0.15601,-1.27536,-2.22003,0.00538,1658400000,120100000,16.142,11.33,11.063,45800000,-1481612544,118548679,62969477,0.48736998,0.60798,3164055,1.62,0.0509,,21.224123,4.0288405,6.011491,2.618,25.649,20.25,20.25,20.25,,none,3,3,3,1,1,2026-11-12,,https://www.accelerant.ai,2026-11-10T08:01:48.460367+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-24,28.50,29.45,25.94,26.50,,,,,,,0,25.9400,1,595924,,,,
 2025-07-25,26.24,31.18,26.12,29.79,,,,,,,0,25.9400,1,177304,,,,
@@ -357,3 +357,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,19.87,19.89,19.86,19.89,19.83,19.80,19.78,16.18,15.11,19.7069,1,19.8131,1,6806,30382,0.0901,0.1095,-0.0194
 2026-11-09,19.89,19.89,19.88,19.88,19.84,19.80,19.78,16.22,15.14,19.7267,1,19.8254,1,5769,29829,0.0875,0.1051,-0.0176
 2026-11-10,19.89,19.91,19.87,19.91,19.85,19.81,19.79,16.27,15.17,19.7378,1,19.8357,1,23691,29748,0.0869,0.1015,-0.0146
+2026-11-11,19.88,19.90,19.87,19.87,19.85,19.82,19.79,16.31,15.20,19.7378,1,19.8491,1,11423,29387,0.0823,0.0976,-0.0154

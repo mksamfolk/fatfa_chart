@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.26,GTEN,Gores Holdings X Inc.,Financial Services,Shell Companies,United States,470582976,10.44,115310,39092,408120.48,,,,0.0,0.0,0.0,,,194541,0,,0.126,0.053,-1195695,,36105000,32533332,0.07224,0.95707,840,0.03,0.0,21.306122,,,-15.1744175,,,,,,,none,,,,,,,,,2026-11-10T10:09:15.894672+00:00
+53.23,GTEN,Gores Holdings X Inc.,Financial Services,Shell Companies,United States,470582976,10.44,115310,39092,408120.48,,,,0.0,0.0,0.0,,,194541,0,,0.126,0.053,-1195695,,36105000,32533332,0.07224,0.95707,840,0.03,0.0,21.306122,,,-15.1744175,,,,,,,none,,,,,,,,,2026-11-10T10:09:15.894672+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-23,10.50,10.50,10.15,10.26,,,,,,,0,10.1500,1,69,,,,
 2025-06-24,10.50,10.53,10.23,10.26,,,,,,,0,10.1500,1,94,,,,
@@ -364,3 +364,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.44,10.44,10.43,10.44,10.44,10.43,10.53,10.43,10.40,10.4748,0,10.4029,1,4153,523,-0.0190,-0.0278,0.0088
 2026-11-09,10.44,10.44,10.44,10.44,10.44,10.43,10.53,10.43,10.40,10.4748,0,10.4039,1,,518,-0.0174,-0.0257,0.0083
 2026-11-10,10.43,10.44,10.43,10.44,10.44,10.43,10.53,10.43,10.40,10.4748,0,10.4048,1,681,532,-0.0160,-0.0238,0.0078
+2026-11-11,10.43,10.45,10.43,10.44,10.44,10.43,10.52,10.43,10.40,10.4748,0,10.4057,1,5,531,-0.0147,-0.0220,0.0073

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.44,BZAI,Blaize Holdings Inc.,Technology,Software - Application,United States,28959180,0.1997,2043060,4337646,866227.9062,5.047,,,0.13561,-2.55353,-1.60855,-4.26625,-0.91795,36847000,0,,3.717,2.548,-82675000,-60434624,145013417,100189011,0.16363001,0.40256,16968773,4.99,0.1272,,-0.6886207,0.5749748,0.66566664,-0.157,0.082,1.75,2.5,1.0,,none,2,0,0,1,1,2026-11-12,0.174,https://www.blaize.com,2026-11-10T08:34:07.970338+00:00
+1.74,BZAI,Blaize Holdings Inc.,Technology,Software - Application,United States,28959180,0.1997,2043060,4337646,866227.9062,5.047,,,0.13561,-2.55353,-1.60855,-4.26625,-0.91795,36847000,0,,3.717,2.548,-82675000,-60434624,145013417,100189011,0.16363001,0.40256,16968773,4.99,0.1272,,-0.6886207,0.5749748,0.66566664,-0.157,0.082,1.75,2.5,1.0,,none,2,0,0,1,1,2026-11-12,0.174,https://www.blaize.com,2026-11-10T08:34:07.970338+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-31,9.80,9.80,9.80,9.80,,,,,,,0,9.8000,1,5,,,,
 2022-02-01,9.80,9.82,9.80,9.82,,,,,,,0,9.8000,1,604,,,,
@@ -1214,3 +1214,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.20,0.20,0.19,0.20,0.20,0.23,0.43,1.16,1.25,0.2834,0,0.2489,0,279,2410,-0.0662,-0.0809,0.0148
 2026-11-09,0.20,0.21,0.20,0.20,0.20,0.22,0.42,1.15,1.24,0.2821,0,0.2396,0,197,2351,-0.0626,-0.0773,0.0146
 2026-11-10,0.19,0.20,0.17,0.18,0.20,0.22,0.40,1.15,1.23,0.2705,0,0.2315,0,296,2283,-0.0609,-0.0740,0.0131
+2026-11-11,0.19,0.19,0.19,0.19,0.20,0.22,0.38,1.14,1.22,0.2642,0,0.2244,0,112,2243,-0.0580,-0.0708,0.0128

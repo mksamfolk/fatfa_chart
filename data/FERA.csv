@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.64,FERA,Fifth Era Acquisition Corp I,Financial Services,Shell Companies,Cayman Islands,331423552,10.5999,27790,54221,574737.1779,,0.469,0.469,0.0,0.0,0.0,,,157686,0,,0.073,0.037,-693232,,23600000,14395486,0.0161,1.02424,715,0.01,0.0,62.352352,,,-22.175524,,,,,,,none,,,,,,,,https://www.feac1.com,2026-11-10T09:42:20.911450+00:00
+57.45,FERA,Fifth Era Acquisition Corp I,Financial Services,Shell Companies,Cayman Islands,331423552,10.5999,27790,54221,574737.1779,,0.469,0.469,0.0,0.0,0.0,,,157686,0,,0.073,0.037,-693232,,23600000,14395486,0.0161,1.02424,715,0.01,0.0,62.352352,,,-22.175524,,,,,,,none,,,,,,,,https://www.feac1.com,2026-11-10T09:42:20.911450+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-21,10.10,10.10,9.87,9.87,,,,,,,0,9.8700,1,233,,,,
 2025-04-22,9.89,9.90,9.89,9.90,,,,,,,0,9.8700,1,552,,,,
@@ -407,3 +407,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.59,10.59,10.59,10.59,10.58,10.57,10.53,10.43,10.39,10.5710,1,10.5526,1,51,688,0.0153,0.0161,-0.0008
 2026-11-09,10.60,10.60,10.60,10.60,10.58,10.57,10.53,10.43,10.40,10.5799,1,10.5541,1,2,681,0.0161,0.0161,0.0000
 2026-11-10,10.60,10.62,10.60,10.61,10.58,10.57,10.54,10.43,10.40,10.5859,1,10.5568,1,1990,696,0.0174,0.0163,0.0010
+2026-11-11,10.61,10.61,10.61,10.61,10.59,10.58,10.54,10.44,10.40,10.5883,1,10.5619,1,17,675,0.0182,0.0167,0.0015

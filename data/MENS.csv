@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.22,MENS,Jyong Biotech Ltd.,Healthcare,Biotechnology,Taiwan,140651184,1.85,38640,42168,78010.8,,,,0.0,0.0,0.0,,-0.12005,1175000,18549000,,0.446,0.034,-3041000,4385750,74233667,26944500,0.62203,0.0081,213264,4.46,0.0052,,,,-5.5059524,,-61.71,,,,,none,,,,,,2026-11-12,,https://jyongbio.com,2026-11-10T11:12:38.340002+00:00
+16.25,MENS,Jyong Biotech Ltd.,Healthcare,Biotechnology,Taiwan,140651184,1.85,38640,42168,78010.8,,,,0.0,0.0,0.0,,-0.12005,1175000,18549000,,0.446,0.034,-3041000,4385750,74233667,26944500,0.62203,0.0081,213264,4.46,0.0052,,,,-5.5059524,,-61.71,,,,,none,,,,,,2026-11-12,,https://jyongbio.com,2026-11-10T11:12:38.340002+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-17,15.00,19.99,7.63,10.11,,,,,,,0,7.6300,1,14759,,,,
 2025-06-18,8.83,9.11,7.70,8.00,,,,,,,0,7.6300,1,3662,,,,
@@ -367,3 +367,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.67,1.82,1.67,1.80,1.83,1.88,2.03,2.10,2.23,2.2131,0,2.0806,0,70,80,-0.0826,-0.0755,-0.0070
 2026-11-09,1.95,2.00,1.75,1.85,1.84,1.86,2.03,2.10,2.22,2.2131,0,2.0714,0,139,81,-0.0744,-0.0753,0.0009
 2026-11-10,1.94,1.94,1.77,1.79,1.83,1.85,2.02,2.10,2.21,2.2131,0,2.0624,0,28,80,-0.0720,-0.0747,0.0027
+2026-11-11,1.77,1.83,1.66,1.74,1.80,1.84,2.02,2.10,2.20,2.2131,0,2.0535,0,23,79,-0.0732,-0.0744,0.0011

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-02 09:30:00-04:00,0.04\n2026-09-17 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.91,NCT,Intercont (Cayman) Limited,Industrials,Marine Shipping,Singapore,13796588,0.8609,149720,589298,507326.6482,0.093,,,0.21919,-0.39914,-0.4195,-0.50084,-0.06527,3404900,14586053,82.051,0.241,0.144,-5329173,-6901897,16017510,,0.00179,3.0000001e-05,59548,0.06,0.060900003,,,0.54246694,0.0127902655,0.449,-3.964,,,,,none,,,,,,2026-11-10,,https://www.intercontcayman.com,2026-11-10T11:30:38.203601+00:00
+2.26,NCT,Intercont (Cayman) Limited,Industrials,Marine Shipping,Singapore,13796588,0.8609,149720,589298,507326.6482,0.093,,,0.21919,-0.39914,-0.4195,-0.50084,-0.06527,3404900,14586053,82.051,0.241,0.144,-5329173,-6901897,16017510,,0.00179,3.0000001e-05,59548,0.06,0.060900003,,,0.54246694,0.0127902655,0.449,-3.964,,,,,none,,,,,,2026-11-10,,https://www.intercontcayman.com,2026-11-10T11:30:38.203601+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-28,162.50,175.00,150.00,171.25,,,,,,,0,175.0000,0,1176,,,,
 2025-03-31,170.00,173.75,139.00,143.00,,,,,,,0,175.0000,0,541,,,,
@@ -422,3 +422,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.39,1.41,0.98,1.04,1.44,1.40,2.35,2.64,3.23,1.9261,0,2.0660,0,596,4456,-0.2099,-0.2574,0.0476
 2026-11-09,1.05,1.08,0.70,0.86,1.38,1.37,2.30,2.62,3.21,1.6616,0,1.9938,0,596,4315,-0.2367,-0.2533,0.0166
 2026-11-10,0.82,0.89,0.34,0.41,1.26,1.32,2.23,2.60,3.18,1.4751,0,1.9244,0,424,4249,-0.2910,-0.2608,-0.0302
+2026-11-11,0.40,1.11,0.40,0.72,1.18,1.29,2.18,2.58,3.16,1.4751,0,1.8578,0,69006,5544,-0.3055,-0.2698,-0.0357

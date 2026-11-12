@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.46,INTR,Inter & Co Inc.,Financial Services,Banks - Regional,Brazil,1766053888,4.0,18656690,8976726,35906904.0,0.238,0.324,0.336,0.0,0.29732,0.22915001,0.16198999,0.017280001,6268523008,20300652544,,,,-8015183872,,325792797,246209988,0.24573,0.42009,15906625,1.89,0.06,6.1538463,4.264938,0.2651002,0.8434061,2.388,,8.912,12.4,5.0,2.0,buy,10,0,1,2,1,2026-11-12,1.023,https://inter.co,2026-11-10T10:32:59.153757+00:00
+17.74,INTR,Inter & Co Inc.,Financial Services,Banks - Regional,Brazil,1766053888,4.0,18656690,8976726,35906904.0,0.238,0.324,0.336,0.0,0.29732,0.22915001,0.16198999,0.017280001,6268523008,20300652544,,,,-8015183872,,325792797,246209988,0.24573,0.42009,15906625,1.89,0.06,6.1538463,4.264938,0.2651002,0.8434061,2.388,,8.912,12.4,5.0,2.0,buy,10,0,1,2,1,2026-11-12,1.023,https://inter.co,2026-11-10T10:32:59.153757+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-23,3.85,3.87,3.36,3.37,,,,,,,0,3.8695,0,242,,,,
 2022-06-24,3.54,3.54,2.96,3.28,,,,,,,0,3.8695,0,5302,,,,
@@ -1130,3 +1130,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.93,4.01,3.84,3.86,4.09,5.59,5.68,6.01,6.66,5.1501,0,4.8974,0,26360,56111,-0.6599,-0.4169,-0.2430
 2026-11-09,3.94,4.04,3.87,4.00,4.03,5.40,5.65,5.99,6.63,5.1116,0,4.6680,0,28758,56354,-0.6544,-0.4644,-0.1900
 2026-11-10,3.96,3.97,3.85,3.96,3.98,5.23,5.62,5.96,6.61,4.9974,0,4.4844,0,47244,56911,-0.6459,-0.5007,-0.1452
+2026-11-11,4.05,4.05,3.91,4.03,3.97,5.08,5.59,5.93,6.58,4.9974,0,4.3375,0,47250,57492,-0.6263,-0.5258,-0.1005

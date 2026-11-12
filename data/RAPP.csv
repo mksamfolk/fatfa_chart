@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.56,RAPP,Rapport Therapeutics Inc.,Healthcare,Biotechnology,United States,1545420032,26.07,1615270,753590,19646091.3,,,,-1.494,-8.3808,0.0,-0.33334,-0.21965,395028992,9391000,2.401,20.066,19.466,-120850000,-75277000,59279630,44865788,0.03165,0.89205,3051500,6.7,0.1003,,-6.288883,77.271,3.2046711,57.989,-6.957,64.21429,89.0,47.0,1.0625,strong_buy,14,1,1,4,4,2026-11-04,1.402,https://www.rapportrx.com,2026-11-10T12:22:17.242828+00:00
+26.25,RAPP,Rapport Therapeutics Inc.,Healthcare,Biotechnology,United States,1545420032,26.07,1615270,753590,19646091.3,,,,-1.494,-8.3808,0.0,-0.33334,-0.21965,395028992,9391000,2.401,20.066,19.466,-120850000,-75277000,59279630,44865788,0.03165,0.89205,3051500,6.7,0.1003,,-6.288883,77.271,3.2046711,57.989,-6.957,64.21429,89.0,47.0,1.0625,strong_buy,14,1,1,4,4,2026-11-04,1.402,https://www.rapportrx.com,2026-11-10T12:22:17.242828+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-07,18.00,22.28,18.00,20.80,,,,,,,0,18.0000,1,36978,,,,
 2024-06-10,20.22,26.44,20.22,26.19,,,,,,,0,18.0000,1,7325,,,,
@@ -638,3 +638,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,23.72,24.53,22.95,24.44,24.93,26.47,34.16,37.95,35.60,30.6254,0,28.6250,0,21175,25960,-2.5924,-2.9340,0.3416
 2026-11-09,24.50,26.34,24.06,26.07,25.00,26.27,33.70,37.90,35.60,30.6254,0,28.3624,0,20580,26047,-2.3553,-2.8183,0.4630
 2026-11-10,25.83,26.90,25.30,25.96,24.84,26.11,33.25,37.85,35.59,30.6254,0,28.1103,0,17136,26175,-2.1514,-2.6849,0.5334
+2026-11-11,26.06,27.10,25.77,27.02,25.30,26.05,32.82,37.80,35.59,30.6254,0,27.8684,0,16925,26369,-1.8827,-2.5245,0.6418

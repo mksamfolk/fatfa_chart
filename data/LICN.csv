@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.17,LICN,Lichen International Limited,Industrials,Specialty Business Services,China,4979681,0.305,45310,25360,7734.8,-0.28,,,0.31327,-0.84976995,-1.1770301,-0.38606998,-0.16869,19600000,621000,1.02,5.809,5.08,-21803000,-4674625,16216825,16215313,8.9999994e-05,0.01089,140743,7.44,0.0087,0.011034733,,0.24265087,0.08179136,-0.682,0.848,,,,,none,,,,,,,-0.837,https://www.lichenzx.com,2026-11-10T10:57:24.712424+00:00
+0.15,LICN,Lichen International Limited,Industrials,Specialty Business Services,China,4979681,0.305,45310,25360,7734.8,-0.28,,,0.31327,-0.84976995,-1.1770301,-0.38606998,-0.16869,19600000,621000,1.02,5.809,5.08,-21803000,-4674625,16216825,16215313,8.9999994e-05,0.01089,140743,7.44,0.0087,0.011034733,,0.24265087,0.08179136,-0.682,0.848,,,,,none,,,,,,,-0.837,https://www.lichenzx.com,2026-11-10T10:57:24.712424+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-06,3.90,4.25,3.08,3.50,,,,,,,0,4.2500,0,16550,,,,
 2023-02-07,3.22,3.55,2.82,3.45,,,,,,,0,4.2500,0,2351,,,,
@@ -958,4 +958,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.57,0.63,0.50,0.59,0.75,0.83,1.04,2.45,2.60,0.8892,0,0.9624,0,30,31,-0.1224,-0.1026,-0.0197
 2026-11-06,0.51,0.61,0.47,0.51,0.70,0.81,1.03,2.43,2.59,0.8792,0,0.9254,0,43,29,-0.1310,-0.1083,-0.0227
 2026-11-09,0.29,0.38,0.29,0.31,0.63,0.77,1.01,2.42,2.57,0.7051,0,0.8798,0,249,32,-0.1526,-0.1172,-0.0354
-2026-11-10,0.05,0.05,0.04,0.04,0.55,0.72,0.99,2.40,2.56,0.4579,0,0.8094,0,2556,82,-0.1887,-0.1315,-0.0573
+2026-11-10,0.05,0.05,0.04,0.04,0.55,0.72,0.99,2.40,2.56,0.4579,0,0.8094,0,3322,97,-0.1887,-0.1315,-0.0573
+2026-11-11,0.04,0.05,0.04,0.04,0.47,0.68,0.96,2.38,2.54,0.4132,0,0.7018,0,5154,198,-0.2150,-0.1482,-0.0668

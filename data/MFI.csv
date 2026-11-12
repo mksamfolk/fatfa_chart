@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-10 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.87,MFI,mF International Limited,Technology,Software - Application,Hong Kong,268544544,5.352,2440,13325,71315.40000000001,-0.204,,,0.43857,-2.17032,0.0,-2.13664,-0.02991,385965952,3327501,0.177,254.007,51.927,-37790752,-1522841984,49045623,49045507,0.0,0.01026,25188,5.14,0.0005,2.5485716,-22.115704,8.732217,1.1184294,-3.71,2.479,14.0,14.0,14.0,,none,1,,,,,,7.146,https://www.m-finance.com,2026-11-10T11:13:36.081007+00:00
+13.54,MFI,mF International Limited,Technology,Software - Application,Hong Kong,268544544,5.352,2440,13325,71315.40000000001,-0.204,,,0.43857,-2.17032,0.0,-2.13664,-0.02991,385965952,3327501,0.177,254.007,51.927,-37790752,-1522841984,49045623,49045507,0.0,0.01026,25188,5.14,0.0005,2.5485716,-22.115704,8.732217,1.1184294,-3.71,2.479,14.0,14.0,14.0,,none,1,,,,,,7.146,https://www.m-finance.com,2026-11-10T11:13:36.081007+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-22,60.80,101.44,60.80,98.32,,,,,,,0,60.8000,1,41899,,,,
 2024-04-23,81.44,115.92,62.54,80.00,,,,,,,0,60.8000,1,11357,,,,
@@ -656,3 +656,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,5.51,5.51,4.60,5.10,7.35,7.72,8.43,9.33,10.67,6.6764,0,8.1236,0,29,144,-0.6386,-0.3539,-0.2848
 2026-11-09,6.95,6.95,5.35,5.35,7.05,7.56,8.37,9.29,10.61,6.6764,0,7.5598,0,86,145,-0.7352,-0.4301,-0.3051
 2026-11-10,5.70,5.72,5.70,5.72,6.78,7.44,8.33,9.25,10.54,6.6764,0,7.0862,0,10,144,-0.7731,-0.4987,-0.2744
+2026-11-11,6.20,6.35,6.20,6.20,6.60,7.36,8.30,9.22,10.48,6.6764,0,6.9500,0,6,144,-0.7557,-0.5501,-0.2056

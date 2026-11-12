@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.45,STUB,StubHub Holdings Inc.,Communication Services,Internet Content & Information,United States,2235226112,5.85,6380310,6372189,37277305.65,0.332,,,0.82089996,0.03395,-0.91266,-1.02948,-0.15032,1715032960,1396270976,67.198,1.044,1.02,635203008,1090585728,357339966,304758778,0.03767,0.80757004,29503376,4.62,0.1091,,9.60528,1.1543211,1.369382,1.224,-1.848,10.25,15.0,7.0,1.92857,buy,12,0,0,1,1,2026-11-10,,https://www.stubhub.com,2026-11-10T13:05:16.117234+00:00
+18.16,STUB,StubHub Holdings Inc.,Communication Services,Internet Content & Information,United States,2235226112,5.85,6380310,6372189,37277305.65,0.332,,,0.82089996,0.03395,-0.91266,-1.02948,-0.15032,1715032960,1396270976,67.198,1.044,1.02,635203008,1090585728,357339966,304758778,0.03767,0.80757004,29503376,4.62,0.1091,,9.60528,1.1543211,1.369382,1.224,-1.848,10.25,15.0,7.0,1.92857,buy,12,0,0,1,1,2026-11-10,,https://www.stubhub.com,2026-11-10T13:05:16.117234+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-17,27.89,27.89,22.00,22.00,,,,,,,0,27.8900,0,883161,,,,
 2025-09-18,21.75,21.80,20.00,20.50,,,,,,,0,27.8900,0,322565,,,,
@@ -318,4 +318,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,6.56,6.68,6.09,6.28,5.92,5.91,5.91,7.97,8.32,5.5431,1,5.4438,1,45254,34594,0.0524,-0.0352,0.0876
 2026-11-06,6.18,6.29,6.03,6.14,5.95,5.91,5.90,7.97,8.27,5.5431,1,5.4932,1,41740,34667,0.0584,-0.0165,0.0749
 2026-11-09,6.29,6.29,5.75,5.85,5.97,5.91,5.89,7.96,8.23,5.5431,1,5.5407,1,37056,34847,0.0394,-0.0053,0.0447
-2026-11-10,5.76,5.81,5.46,5.65,5.98,5.90,5.87,7.96,8.19,5.5431,1,6.6800,0,59730,34799,0.0080,-0.0027,0.0107
+2026-11-10,5.76,5.81,5.46,5.65,5.98,5.90,5.87,7.96,8.19,5.5431,1,6.6800,0,59808,34800,0.0080,-0.0027,0.0107
+2026-11-11,5.35,5.64,5.07,5.58,5.98,5.90,5.86,7.96,8.15,5.5431,1,6.6556,0,70896,35512,-0.0222,-0.0066,-0.0156

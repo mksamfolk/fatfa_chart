@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.66,INAC,Indigo Acquisition Corp.,Financial Services,Shell Companies,United States,153747104,10.42,26770,9500,98990.0,,-0.143,-0.062,0.0,0.0,0.0,,0.0,188753,0,,22.584,14.59,-453298,-27491,14755000,11033346,0.21484,0.68255997,36,0.0,0.0,38.59259,,,-46.31111,,,,,,,none,,,,,,,,https://www.indigoacquisitioncorp.com,2026-11-10T10:30:09.945085+00:00
+57.71,INAC,Indigo Acquisition Corp.,Financial Services,Shell Companies,United States,153747104,10.42,26770,9500,98990.0,,-0.143,-0.062,0.0,0.0,0.0,,0.0,188753,0,,22.584,14.59,-453298,-27491,14755000,11033346,0.21484,0.68255997,36,0.0,0.0,38.59259,,,-46.31111,,,,,,,none,,,,,,,,https://www.indigoacquisitioncorp.com,2026-11-10T10:30:09.945085+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-30,9.95,9.96,9.92,9.92,,,,,,,0,9.9200,1,1108,,,,
 2025-07-31,9.93,9.95,9.93,9.94,,,,,,,0,9.9200,1,143,,,,
@@ -338,3 +338,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.43,10.43,10.43,10.43,10.42,10.41,10.36,10.26,10.22,10.4388,0,10.4492,0,1309,62,0.0187,0.0217,-0.0030
 2026-11-09,10.42,10.42,10.42,10.42,10.42,10.41,10.36,10.26,10.22,10.4388,0,10.4484,0,3,62,0.0175,0.0209,-0.0034
 2026-11-10,10.42,10.42,10.42,10.42,10.42,10.42,10.37,10.26,10.23,10.4388,0,10.4476,0,,62,0.0163,0.0199,-0.0036
+2026-11-11,10.44,10.44,10.44,10.44,10.42,10.42,10.37,10.27,10.23,10.4116,1,10.4469,0,15,61,0.0168,0.0193,-0.0025

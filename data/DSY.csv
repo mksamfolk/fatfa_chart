@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-23 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.27,DSY,Big Tree Cloud Holdings Limited,Consumer Defensive,Household & Personal Products,China,14635768,3.08,5960,22343,68816.44,-0.173,2.12,2.242,0.66924006,-0.15285,0.087460004,,-0.00156,859848,1901310,,0.276,0.181,-1513072,1988842,1251873,11139269,0.0,0.0008,33539,2.32,0.026800001,,,1.9985056,-1.9201995,24.149,194.3,,,,,none,,,,,,,0.662,https://ir.bigtreeclouds.com/Overview,2026-11-10T09:20:04.398118+00:00
+30.73,DSY,Big Tree Cloud Holdings Limited,Consumer Defensive,Household & Personal Products,China,14635768,3.08,5960,22343,68816.44,-0.173,2.12,2.242,0.66924006,-0.15285,0.087460004,,-0.00156,859848,1901310,,0.276,0.181,-1513072,1988842,1251873,11139269,0.0,0.0008,33539,2.32,0.026800001,,,1.9985056,-1.9201995,24.149,194.3,,,,,none,,,,,,,0.662,https://ir.bigtreeclouds.com/Overview,2026-11-10T09:20:04.398118+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-11,240.00,240.00,201.00,201.20,,,,,,,0,201.0000,1,672,,,,
 2023-01-12,201.60,202.80,201.40,202.80,,,,,,,0,201.0000,1,1349,,,,
@@ -976,3 +976,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.26,3.26,3.18,3.18,3.30,3.31,3.72,3.15,3.51,3.6687,0,3.9726,0,7,2547,-0.1026,-0.1066,0.0040
 2026-11-09,3.19,3.20,3.06,3.08,3.29,3.30,3.69,3.15,3.49,3.6447,0,3.9564,0,22,98,-0.1122,-0.1077,-0.0045
 2026-11-10,3.08,3.10,3.06,3.06,3.26,3.28,3.65,3.15,3.48,3.5552,0,3.9205,0,11,63,-0.1200,-0.1102,-0.0098
+2026-11-11,3.05,3.05,3.05,3.05,3.20,3.27,3.62,3.15,3.46,3.4807,0,3.8861,0,9,56,-0.1256,-0.1133,-0.0123

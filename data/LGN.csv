@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.04,LGN,Legence Corp.,Industrials,Engineering & Construction,United States,5283403776,32.16,2198270,1296448,41693767.67999999,1.107,,,0.1874,0.02747,-0.01203,-0.12427,0.02338,295444000,1195687040,122.316,1.346,1.304,388824992,370284256,76904346,57334497,0.0025,1.12799,2664306,2.53,0.0463,,12.932282,1.4105371,4.117798,1.001,14.546,94.35294,130.0,60.0,1.23529,strong_buy,17,6,6,2,2,2026-11-12,,https://www.wearelegence.com,2026-11-10T10:56:42.647071+00:00
+16.43,LGN,Legence Corp.,Industrials,Engineering & Construction,United States,5283403776,32.16,2198270,1296448,41693767.67999999,1.107,,,0.1874,0.02747,-0.01203,-0.12427,0.02338,295444000,1195687040,122.316,1.346,1.304,388824992,370284256,76904346,57334497,0.0025,1.12799,2664306,2.53,0.0463,,12.932282,1.4105371,4.117798,1.001,14.546,94.35294,130.0,60.0,1.23529,strong_buy,17,6,6,2,2,2026-11-12,,https://www.wearelegence.com,2026-11-10T10:56:42.647071+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-12,27.00,31.41,26.96,30.50,,,,,,,0,26.9600,1,299254,,,,
 2025-09-15,29.31,34.40,28.51,30.55,,,,,,,0,26.9600,1,74588,,,,
@@ -322,3 +322,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,26.60,28.62,26.15,27.91,35.77,39.39,47.92,66.69,63.02,39.3468,0,42.0063,0,117080,59157,-5.3222,-4.3843,-0.9379
 2026-11-09,29.11,32.56,28.38,32.16,35.28,38.56,47.48,66.54,62.93,39.3468,0,41.2820,0,90794,60134,-5.1987,-4.5472,-0.6515
 2026-11-10,32.01,33.13,30.50,32.05,34.68,37.78,47.05,66.37,62.84,39.3468,0,40.5867,0,41585,59914,-5.0514,-4.6480,-0.4034
+2026-11-11,34.49,37.72,33.50,37.09,34.31,37.39,46.76,66.22,62.77,39.3468,0,39.9193,0,113826,61332,-4.4764,-4.6137,0.1373

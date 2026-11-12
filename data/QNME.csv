@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.66,QNME,Quanome Technologies Inc.,Industrials,Integrated Freight & Logistics,United States,11058133,0.3212,2176720,11029621,3542714.2652,-0.637,,,0.17929001,-5.30241,-1.62101,-2.05825,-0.35172,670281,698568,9.971,2.456,0.403,-4734734,-10495890,34427559,28776964,0.32971,0.021189999,831323,0.03,0.0241,,,1.8900591,1.5822661,1.895,-1.541,,,,,none,,,,,,,1.561,https://quanometech.com,2026-11-10T12:19:41.882213+00:00
+21.83,QNME,Quanome Technologies Inc.,Industrials,Integrated Freight & Logistics,United States,11058133,0.3212,2176720,11029621,3542714.2652,-0.637,,,0.17929001,-5.30241,-1.62101,-2.05825,-0.35172,670281,698568,9.971,2.456,0.403,-4734734,-10495890,34427559,28776964,0.32971,0.021189999,831323,0.03,0.0241,,,1.8900591,1.5822661,1.895,-1.541,,,,,none,,,,,,,1.561,https://quanometech.com,2026-11-10T12:19:41.882213+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-28,5.15,5.37,4.01,4.01,,,,,,,0,5.3700,0,4173,,,,
 2024-07-01,4.10,4.25,3.85,3.91,,,,,,,0,5.3700,0,687,,,,
@@ -608,4 +608,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.39,0.39,0.34,0.34,0.41,0.48,0.44,0.54,0.60,0.5653,0,0.6328,0,138,2848,-0.0221,-0.0061,-0.0159
 2026-11-06,0.36,0.39,0.36,0.37,0.40,0.46,0.44,0.54,0.60,0.5653,0,0.6035,0,61,2838,-0.0243,-0.0098,-0.0145
 2026-11-09,0.39,0.40,0.32,0.32,0.39,0.45,0.44,0.53,0.60,0.5581,0,0.5771,0,96,1923,-0.0299,-0.0138,-0.0161
-2026-11-10,0.33,0.36,0.33,0.34,0.39,0.44,0.43,0.53,0.59,0.5340,0,0.5463,0,30,1909,-0.0325,-0.0175,-0.0150
+2026-11-10,0.33,0.36,0.33,0.34,0.39,0.44,0.43,0.53,0.59,0.5340,0,0.5463,0,38,1910,-0.0325,-0.0175,-0.0150
+2026-11-11,0.34,0.36,0.34,0.34,0.38,0.42,0.43,0.53,0.59,0.5262,0,0.5191,0,80,1901,-0.0340,-0.0208,-0.0131

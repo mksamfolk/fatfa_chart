@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-02 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.32,ARBB,ARB IOT Group Limited,Technology,Information Technology Services,Singapore,6487315,3.675,8620,7243,26618.024999999998,-0.259,,,-0.04006,-0.33609,-0.35619998,-0.57106,-0.16958,72556168,139107,0.135,7.93,7.916,-1428579,56065044,1765256,1138714,0.44057,0.00011,2080,0.55,0.0022,,,0.027562434,0.25617662,-0.28,4.767,,,,,none,,,,,,,1.311,https://www.arbiotgroup.com,2026-11-10T07:58:56.584686+00:00
+27.49,ARBB,ARB IOT Group Limited,Technology,Information Technology Services,Singapore,6487315,3.675,8620,7243,26618.024999999998,-0.259,,,-0.04006,-0.33609,-0.35619998,-0.57106,-0.16958,72556168,139107,0.135,7.93,7.916,-1428579,56065044,1765256,1138714,0.44057,0.00011,2080,0.55,0.0022,,,0.027562434,0.25617662,-0.28,4.767,,,,,none,,,,,,,1.311,https://www.arbiotgroup.com,2026-11-10T07:58:56.584686+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-05,54.00,60.00,51.00,57.75,,,,,,,0,51.0000,1,4293,,,,
 2023-04-06,52.50,61.50,51.00,58.95,,,,,,,0,51.0000,1,2317,,,,
@@ -918,3 +918,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,3.50,3.61,3.43,3.43,3.73,3.91,4.19,4.47,4.71,4.2656,0,4.1850,0,26,39,-0.1873,-0.1483,-0.0391
 2026-11-09,3.55,3.67,3.48,3.67,3.70,3.88,4.18,4.46,4.70,4.2656,0,4.1440,0,10,39,-0.1797,-0.1546,-0.0252
 2026-11-10,3.79,3.80,3.38,3.76,3.67,3.86,4.17,4.46,4.69,4.2656,0,4.1047,0,17,39,-0.1649,-0.1566,-0.0083
+2026-11-11,3.73,3.73,3.57,3.57,3.64,3.84,4.16,4.45,4.68,4.2656,0,4.0669,0,10,39,-0.1666,-0.1586,-0.0080

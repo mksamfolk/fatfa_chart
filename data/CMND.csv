@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-11-28 09:30:00-05:00,0.03333333333333333\n2025-12-15 09:30:00-05:00,0.025\n2026-05-21 09:30:00-04:00,0.1\n2026-10-05 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.56,CMND,Clearmind Medicine Inc.,Healthcare,Biotechnology,Canada,2790722,5.5,6850,57461,316035.5,,,,0.0,0.0,0.0,-1.06979,-0.53081,15929436,1798264,13.885,4.309,4.282,-7069326,-4784443,507404,393867,0.0502,0.01207,3861,0.11,0.0076,,,,0.113878705,,1.334,,,,,none,,,,,,,0.508,https://www.clearmindmedicine.com,2026-11-10T08:52:10.013458+00:00
+90.35,CMND,Clearmind Medicine Inc.,Healthcare,Biotechnology,Canada,2790722,5.5,6850,57461,316035.5,,,,0.0,0.0,0.0,-1.06979,-0.53081,15929436,1798264,13.885,4.309,4.282,-7069326,-4784443,507404,393867,0.0502,0.01207,3861,0.11,0.0076,,,,0.113878705,,1.334,,,,,none,,,,,,,0.508,https://www.clearmindmedicine.com,2026-11-10T08:52:10.013458+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-15,65040.00,73200.00,61800.00,70800.00,,,,,,,0,73200.0000,0,1982,,,,
 2022-11-16,69960.00,69960.00,60720.00,66600.00,,,,,,,0,73200.0000,0,599,,,,
@@ -1014,3 +1014,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,5.71,5.71,5.40,5.58,5.96,6.06,3.87,4.57,7.78,4.8731,1,7.1600,0,75,605,0.4969,0.6962,-0.1993
 2026-11-09,5.70,5.77,5.40,5.50,5.90,6.01,3.95,4.56,7.72,4.8731,1,7.1248,0,29,603,0.4304,0.6430,-0.2127
 2026-11-10,5.76,5.76,5.09,5.09,5.81,5.96,4.02,4.54,7.65,4.8731,1,7.0903,0,35,603,0.3407,0.5826,-0.2419
+2026-11-11,5.41,5.58,4.93,4.95,5.70,5.89,4.08,4.53,7.55,4.8731,1,7.0103,0,28,601,0.2553,0.5171,-0.2618

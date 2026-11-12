@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-20 09:30:00-04:00,0.0625\n2026-10-21 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.33,EHGO,Eshallgo Inc.,Industrials,Business Equipment & Supplies,China,1888824,1.6,2413080,665125,1064200.0,0.262,,,0.15142,-0.48082,-0.69385004,-0.7768,-0.32896,5089321,2190781,15.12,3.23,1.583,-5675011,-3847330,1107315,338775,0.00903,0.077309996,28723,0.18,0.026199998,,,0.115744404,0.07326679,0.209,-0.29,,,,,none,,,,,,,-1.202,https://www.eshallgo.com,2026-11-10T09:26:14.345142+00:00
+18.08,EHGO,Eshallgo Inc.,Industrials,Business Equipment & Supplies,China,1888824,1.6,2413080,665125,1064200.0,0.262,,,0.15142,-0.48082,-0.69385004,-0.7768,-0.32896,5089321,2190781,15.12,3.23,1.583,-5675011,-3847330,1107315,338775,0.00903,0.077309996,28723,0.18,0.026199998,,,0.115744404,0.07326679,0.209,-0.29,,,,,none,,,,,,,-1.202,https://www.eshallgo.com,2026-11-10T09:26:14.345142+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-02,64.00,70.40,41.60,52.16,,,,,,,0,70.4000,0,2779,,,,
 2024-07-03,47.68,48.00,40.80,41.76,,,,,,,0,70.4000,0,240,,,,
@@ -607,3 +607,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.68,1.75,1.60,1.73,2.10,2.08,1.59,2.07,2.42,2.7682,0,3.0670,0,75,3179,0.1369,0.2120,-0.0752
 2026-11-09,1.75,1.79,1.57,1.60,2.01,2.13,1.58,2.06,2.41,2.7429,0,3.0357,0,114,3179,0.0914,0.1879,-0.0965
 2026-11-10,1.60,1.68,1.55,1.60,1.95,2.18,1.58,2.05,2.40,2.6102,0,3.0050,0,68,3176,0.0548,0.1613,-0.1065
+2026-11-11,1.63,1.73,1.56,1.69,1.91,2.24,1.57,2.04,2.39,2.5941,0,2.9749,0,98,3175,0.0326,0.1356,-0.1029

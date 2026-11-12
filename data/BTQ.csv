@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.13,BTQ,BTQ Technologies Corp.,Technology,Software - Infrastructure,Canada,276511648,1.88,1564090,2029353,3815183.6399999997,,,,0.0,0.0,0.0,-4.89153,-2.29201,9786750,1078551,6.013,1.935,1.741,-25315416,-2986856,147080677,95668626,0.34467998,0.27827,11146481,5.39,,,-24.001389,Infinity,20.953592,,-4.706,5.988423,6.0132217,5.9636245,,none,2,0,0,1,1,,-7.096,https://www.btq.com,2026-11-10T08:31:09.418343+00:00
+11.37,BTQ,BTQ Technologies Corp.,Technology,Software - Infrastructure,Canada,276511648,1.88,1564090,2029353,3815183.6399999997,,,,0.0,0.0,0.0,-4.89153,-2.29201,9786750,1078551,6.013,1.935,1.741,-25315416,-2986856,147080677,95668626,0.34467998,0.27827,11146481,5.39,,,-24.001389,Infinity,20.953592,,-4.706,5.988423,6.0132217,5.9636245,,none,2,0,0,1,1,,-7.096,https://www.btq.com,2026-11-10T08:31:09.418343+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-26,6.60,6.80,4.94,5.26,,,,,,,0,4.9400,1,31967,,,,
 2025-09-29,6.05,7.07,5.90,6.26,,,,,,,0,4.9400,1,43650,,,,
@@ -311,4 +311,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,1.91,1.92,1.65,1.67,2.02,2.16,2.63,3.39,3.29,2.3474,0,2.2900,0,4739,5628,-0.2445,-0.2259,-0.0186
 2026-11-06,1.75,1.87,1.71,1.87,2.00,2.12,2.59,3.38,3.27,2.3474,0,2.2772,0,3022,5452,-0.2400,-0.2287,-0.0113
 2026-11-09,1.87,1.98,1.84,1.88,1.98,2.09,2.56,3.38,3.26,2.3474,0,2.2647,0,2916,5337,-0.2325,-0.2295,-0.0030
-2026-11-10,1.83,1.85,1.67,1.77,1.94,2.06,2.54,3.38,3.25,2.3194,0,2.2524,0,2927,5230,-0.2328,-0.2301,-0.0026
+2026-11-10,1.83,1.85,1.67,1.77,1.94,2.06,2.54,3.38,3.25,2.3194,0,2.2524,0,2957,5230,-0.2328,-0.2301,-0.0026
+2026-11-11,1.82,1.82,1.68,1.74,1.89,2.03,2.51,3.37,3.24,2.2965,0,2.2403,0,2881,5162,-0.2327,-0.2306,-0.0021

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.20,NVCT,Nuvectis Pharma Inc.,Healthcare,Biotechnology,United States,722854848,21.02,233690,202293,4252198.86,,,,0.0,0.0,0.0,-0.66978997,-0.3693,140707008,0,,9.923,9.914,-40294000,-22523876,34388908,23010650,0.32623002,0.32531,2400867,11.54,0.1024,,-21.895834,,5.814661,,,35.4,40.0,30.0,1.33333,strong_buy,5,1,2,0,1,2026-11-04,-0.211,https://www.nuvectis.com,2026-11-10T11:42:17.395887+00:00
+97.00,NVCT,Nuvectis Pharma Inc.,Healthcare,Biotechnology,United States,722854848,21.02,233690,202293,4252198.86,,,,0.0,0.0,0.0,-0.66978997,-0.3693,140707008,0,,9.923,9.914,-40294000,-22523876,34388908,23010650,0.32623002,0.32531,2400867,11.54,0.1024,,-21.895834,,5.814661,,,35.4,40.0,30.0,1.33333,strong_buy,5,1,2,0,1,2026-11-04,-0.211,https://www.nuvectis.com,2026-11-10T11:42:17.395887+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-04,3.95,4.39,3.08,3.25,,,,,,,0,3.0800,1,4802,,,,
 2022-02-07,3.45,10.35,3.41,7.95,,,,,,,0,3.0800,1,344543,,,,
@@ -1225,3 +1225,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,18.01,21.05,17.80,20.91,18.80,19.13,20.89,16.99,14.88,22.2743,0,17.1000,1,5389,4064,-0.4237,-0.5680,0.1443
 2026-11-09,21.09,22.18,19.72,21.02,19.05,19.19,20.84,17.08,14.94,22.2743,0,17.1790,1,8095,4160,-0.2457,-0.5035,0.2578
 2026-11-10,20.75,21.30,19.98,21.08,19.32,19.34,20.80,17.17,15.00,22.2743,0,17.3790,1,4252,4158,-0.0987,-0.4226,0.3239
+2026-11-11,21.31,21.78,20.60,21.00,19.58,19.49,20.76,17.25,15.06,22.2743,0,17.5710,1,3215,4141,0.0113,-0.3358,0.3471

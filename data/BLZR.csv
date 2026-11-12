@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.11,BLZR,Trailblazer Acquisition Corp.,Financial Services,Shell Companies,United States,352687520,10.26,26480,54410,558246.6,,,,0.0,0.0,0.0,,,951192,0,,10.331,9.663,-540782,,27500000,25367375,0.00072999997,0.83659,71,0.0,0.0,,,,-32.67516,,,,,,,none,,,,,,,,,2026-11-10T08:23:53.242584+00:00
+54.94,BLZR,Trailblazer Acquisition Corp.,Financial Services,Shell Companies,United States,352687520,10.26,26480,54410,558246.6,,,,0.0,0.0,0.0,,,951192,0,,10.331,9.663,-540782,,27500000,25367375,0.00072999997,0.83659,71,0.0,0.0,,,,-32.67516,,,,,,,none,,,,,,,,,2026-11-10T08:23:53.242584+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-03,10.14,10.16,10.14,10.15,,,,,,,0,10.1400,1,5850,,,,
 2025-11-04,10.17,10.17,10.14,10.14,,,,,,,0,10.1700,0,2243,,,,
@@ -271,3 +271,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.26,10.26,10.25,10.25,10.25,10.24,10.22,10.14,10.12,10.2349,1,10.2396,1,332,643,0.0130,0.0127,0.0003
 2026-11-09,10.26,10.26,10.26,10.26,10.26,10.24,10.22,10.14,10.12,10.2349,1,10.2427,1,15,642,0.0128,0.0127,0.0001
 2026-11-10,10.26,10.27,10.26,10.26,10.26,10.24,10.22,10.14,10.12,10.2349,1,10.2454,1,780,655,0.0125,0.0126,-0.0002
+2026-11-11,10.27,10.27,10.27,10.27,10.26,10.25,10.22,10.14,10.12,10.2394,1,10.2479,1,11,655,0.0129,0.0127,0.0002

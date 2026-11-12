@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.89,UCFI,CN Healthy Food Tech Group Corp.,Consumer Defensive,Packaged Foods,China,287867008,5.511,0,0,0.0,-0.689,,,0.72670996,0.17712,0.15984,0.19266,0.12442,21524462,3589190,15.234,2.896,2.493,-16102237,-13600082,52234983,4545488,0.96911,0.01191,220964,1.0,0.048600003,29.005264,,11.562947,12.219512,10.84,28.343,,,,,none,,,,,,,-0.298,,2026-11-10T13:30:25.534702+00:00
+52.76,UCFI,CN Healthy Food Tech Group Corp.,Consumer Defensive,Packaged Foods,China,287867008,5.511,0,0,0.0,-0.689,,,0.72670996,0.17712,0.15984,0.19266,0.12442,21524462,3589190,15.234,2.896,2.493,-16102237,-13600082,52234983,4545488,0.96911,0.01191,220964,1.0,0.048600003,29.005264,,11.562947,12.219512,10.84,28.343,,,,,none,,,,,,,-0.298,,2026-11-10T13:30:25.534702+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-16,10.05,10.05,10.01,10.01,,,,,,,0,10.0100,1,167,,,,
 2024-02-20,10.02,10.02,10.02,10.02,,,,,,,0,10.0100,1,52,,,,
@@ -715,3 +715,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.5100,0,5.5100,0,,0,-0.0000,-0.0000,0.0000
 2026-11-09,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.5100,0,5.5100,0,,0,-0.0000,-0.0000,0.0000
 2026-11-10,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.5100,0,5.5100,0,,0,-0.0000,-0.0000,0.0000
+2026-11-11,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.51,5.5100,0,5.5100,0,,0,-0.0000,-0.0000,0.0000

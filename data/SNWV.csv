@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.42,SNWV,SANUWAVE Health Inc.,Healthcare,Medical Devices,United States,15914272,1.85,183740,76543,141604.55000000002,-0.031,,,0.7633,-0.02875,0.34662,,0.05508,9376000,20706000,742.949,1.277,0.835,5222000,-2825625,8602309,6186006,0.013049999,0.37493,236233,3.99,0.0414,7.7083335,-185.0,0.36150724,5.7098765,0.619,6.392,,,,,none,,,,,,2026-11-10,1.476,https://sanuwave.com,2026-11-10T12:55:41.535211+00:00
+2.02,SNWV,SANUWAVE Health Inc.,Healthcare,Medical Devices,United States,15914272,1.85,183740,76543,141604.55000000002,-0.031,,,0.7633,-0.02875,0.34662,,0.05508,9376000,20706000,742.949,1.277,0.835,5222000,-2825625,8602309,6186006,0.013049999,0.37493,236233,3.99,0.0414,7.7083335,-185.0,0.36150724,5.7098765,0.619,6.392,,,,,none,,,,,,2026-11-10,1.476,https://sanuwave.com,2026-11-10T12:55:41.535211+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-18,10.00,13.50,10.00,13.02,,,,,,,0,10.0000,1,120,,,,
 2024-10-21,13.10,14.50,11.95,13.75,,,,,,,0,10.0000,1,171,,,,
@@ -531,3 +531,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.34,2.65,2.11,2.19,4.78,5.03,4.93,11.01,14.74,4.5044,0,6.1800,0,795,354,-0.3546,-0.0732,-0.2814
 2026-11-09,2.21,2.23,1.75,1.85,4.46,4.83,4.85,10.88,14.60,4.0458,0,6.0952,0,297,313,-0.5417,-0.1669,-0.3748
 2026-11-10,1.82,1.99,1.82,1.88,4.14,4.64,4.77,10.74,14.47,3.8051,0,5.9214,0,174,309,-0.6798,-0.2695,-0.4103
+2026-11-11,2.00,2.06,1.58,1.78,3.79,4.47,4.70,10.62,14.33,3.6741,0,5.7545,0,491,312,-0.7881,-0.3732,-0.4149

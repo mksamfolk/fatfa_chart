@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.10,BRBI,BRBI BR Partners S.A.,Financial Services,Capital Markets,Brazil,191879648,7.31,8710,2237,16352.47,,-0.826,-0.443,0.0,0.29572,0.0,0.17169,0.0080699995,14907251712,16785756160,2019.12,1.318,1.318,-18474000,,26248926,84057143,0.0,0.00427,1001,1.08,,20.885714,,-0.028612494,3.7144802,-0.372,,,,,,none,,,,,,,,https://brpartners.com.br,2026-11-10T08:27:40.154631+00:00
+14.79,BRBI,BRBI BR Partners S.A.,Financial Services,Capital Markets,Brazil,191879648,7.31,8710,2237,16352.47,,-0.826,-0.443,0.0,0.29572,0.0,0.17169,0.0080699995,14907251712,16785756160,2019.12,1.318,1.318,-18474000,,26248926,84057143,0.0,0.00427,1001,1.08,,20.885714,,-0.028612494,3.7144802,-0.372,,,,,,none,,,,,,,,https://brpartners.com.br,2026-11-10T08:27:40.154631+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-19,22.24,22.24,22.24,22.24,,,,,,,0,22.2416,0,5,,,,
 2025-09-22,22.24,22.24,22.24,22.24,,,,,,,0,22.2416,0,,,,,
@@ -302,3 +302,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.31,7.31,7.31,7.31,7.85,11.34,11.01,12.30,12.75,9.4626,0,10.7471,0,2,28,-1.5030,-0.9001,-0.6029
 2026-11-09,7.31,7.31,7.31,7.31,7.59,10.94,10.95,12.25,12.72,9.2473,0,10.2818,0,,28,-1.5127,-1.0227,-0.4901
 2026-11-10,7.31,7.31,7.31,7.31,7.41,10.53,10.90,12.20,12.69,9.0536,0,9.8724,0,,28,-1.5031,-1.1187,-0.3843
+2026-11-11,7.31,7.31,7.31,7.31,7.31,10.13,10.85,12.16,12.66,8.8792,0,9.5121,0,,27,-1.4784,-1.1907,-0.2877

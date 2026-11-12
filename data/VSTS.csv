@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.04,VSTS,Vestis Corporation,Industrials,Rental & Leasing Services,United States,1913678208,14.48,1123910,1395106,20201134.88,-0.018,,,0.26297,0.058709998,-0.00196,-0.00602,0.02451,57659000,1338840960,152.545,2.166,0.522,191800000,69159872,132160105,111084533,0.16567,1.00851,9739376,6.16,0.1195,,18.630743,0.70969,2.1803944,1.185,12.685,13.0,17.0,9.3,,none,7,6,6,0,0,2026-11-19,0.993,https://www.vestis.com,2026-11-10T13:45:43.927171+00:00
+92.60,VSTS,Vestis Corporation,Industrials,Rental & Leasing Services,United States,1913678208,14.48,1123910,1395106,20201134.88,-0.018,,,0.26297,0.058709998,-0.00196,-0.00602,0.02451,57659000,1338840960,152.545,2.166,0.522,191800000,69159872,132160105,111084533,0.16567,1.00851,9739376,6.16,0.1195,,18.630743,0.70969,2.1803944,1.185,12.685,13.0,17.0,9.3,,none,7,6,6,0,0,2026-11-19,0.993,https://www.vestis.com,2026-11-10T13:45:43.927171+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-27,19.97,19.97,18.99,18.99,,,,,,,0,19.9727,0,3053,,,,
 2023-09-28,19.00,19.23,18.93,19.23,,,,,,,0,19.9727,0,3374,,,,
@@ -813,3 +813,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,13.91,14.43,13.64,14.20,14.78,14.57,13.90,13.00,11.63,13.6763,1,15.2167,0,11925,19843,0.1539,0.2551,-0.1011
 2026-11-09,14.47,14.63,14.35,14.48,14.73,14.58,13.94,13.05,11.67,13.6763,1,15.0590,0,9586,19749,0.1352,0.2311,-0.0959
 2026-11-10,14.31,14.41,14.06,14.37,14.65,14.59,13.98,13.09,11.71,13.6763,1,14.9171,0,9440,19564,0.1102,0.2069,-0.0967
+2026-11-11,14.47,14.58,14.09,14.35,14.56,14.61,14.02,13.13,11.75,13.6763,1,14.7894,0,13658,19535,0.0877,0.1831,-0.0953

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.06,OYSE,Oyster Enterprises II Acquisition Corp,Financial Services,Shell Companies,United States,354064768,10.44,13800,53279,556232.76,,0.456,1.615,0.0,0.0,0.0,,,574249,0,,6.38,5.023,-501115,,26008000,25553031,0.01846,1.00218,452,0.01,0.0,40.153847,,,-44.615383,,,,,,,none,,,,,,,,https://www.oysteracquisition.com,2026-11-10T11:56:48.792275+00:00
+56.97,OYSE,Oyster Enterprises II Acquisition Corp,Financial Services,Shell Companies,United States,354064768,10.44,13800,53279,556232.76,,0.456,1.615,0.0,0.0,0.0,,,574249,0,,6.38,5.023,-501115,,26008000,25553031,0.01846,1.00218,452,0.01,0.0,40.153847,,,-44.615383,,,,,,,none,,,,,,,,https://www.oysteracquisition.com,2026-11-10T11:56:48.792275+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,9.95,10.00,9.90,9.96,,,,,,,0,9.9000,1,7397,,,,
 2025-07-14,9.98,9.98,9.96,9.97,,,,,,,0,9.9000,1,454,,,,
@@ -351,3 +351,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.44,10.44,10.44,10.44,10.44,10.42,10.39,10.30,10.26,10.4362,1,10.4315,1,783,555,0.0150,0.0148,0.0002
 2026-11-09,10.44,10.44,10.44,10.44,10.44,10.43,10.40,10.30,10.27,10.4362,1,10.4345,1,,555,0.0143,0.0147,-0.0004
 2026-11-10,10.43,10.45,10.43,10.45,10.44,10.43,10.40,10.30,10.27,10.4362,1,10.4500,0,586,564,0.0144,0.0146,-0.0002
+2026-11-11,10.45,10.45,10.45,10.45,10.44,10.43,10.40,10.30,10.27,10.4362,1,10.4500,0,269,569,0.0143,0.0146,-0.0003

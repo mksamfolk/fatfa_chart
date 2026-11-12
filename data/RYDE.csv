@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.27,RYDE,,Technology,Software - Application,Singapore,160221184,0.889,425490,446539,396973.17100000003,-0.022,,,0.26844,-3.91596,-1.94886,-0.96769,-0.50805,39679000,20000,0.039,9.598,9.566,-24179000,-8276625,150049131,96306101,0.31349,0.00179,803529,0.87,0.0054,,-16.306805,11.8743925,3.747386,8.253,-4.351,,,,,none,,,,,,,3.114,https://rydesharing.com,2026-11-10T12:36:15.411458+00:00
+95.77,RYDE,,Technology,Software - Application,Singapore,160221184,0.889,425490,446539,396973.17100000003,-0.022,,,0.26844,-3.91596,-1.94886,-0.96769,-0.50805,39679000,20000,0.039,9.598,9.566,-24179000,-8276625,150049131,96306101,0.31349,0.00179,803529,0.87,0.0054,,-16.306805,11.8743925,3.747386,8.253,-4.351,,,,,none,,,,,,,3.114,https://rydesharing.com,2026-11-10T12:36:15.411458+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-06,3.70,5.00,3.55,4.00,,,,,,,0,3.5500,1,10758,,,,
 2024-03-07,4.12,4.69,4.05,4.50,,,,,,,0,3.5500,1,1736,,,,
@@ -688,3 +688,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.66,0.74,0.66,0.74,0.64,0.66,0.71,0.81,0.70,0.8327,0,0.7942,0,1278,143,-0.0055,-0.0179,0.0124
 2026-11-09,0.76,1.04,0.76,0.89,0.67,0.67,0.71,0.81,0.70,0.5940,1,0.5510,1,1445,170,0.0129,-0.0117,0.0247
 2026-11-10,0.88,0.91,0.87,0.87,0.69,0.68,0.72,0.81,0.70,0.6010,1,0.5608,1,172,171,0.0257,-0.0042,0.0300
+2026-11-11,0.87,0.96,0.84,0.94,0.73,0.69,0.72,0.82,0.71,0.6056,1,0.5704,1,287,176,0.0407,0.0047,0.0359

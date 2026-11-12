@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.53,LFS,Leifras Co. Ltd.,Communication Services,Entertainment,Japan,48658752,1.86,31380,608982,1132706.52,0.079,,,0.32637,-0.02017,0.0378,0.30601,0.08427,2591813888,1153732736,59.972,1.505,1.414,408199840,278474272,26160619,5794054,0.52323,0.00243,153513,0.78,0.0123000005,15.5,,0.0039824233,4.0001655,-0.114,-1.792,,,,,none,,,,,,,,https://leifras.co.jp,2026-11-10T10:55:53.338854+00:00
+32.31,LFS,Leifras Co. Ltd.,Communication Services,Entertainment,Japan,48658752,1.86,31380,608982,1132706.52,0.079,,,0.32637,-0.02017,0.0378,0.30601,0.08427,2591813888,1153732736,59.972,1.505,1.414,408199840,278474272,26160619,5794054,0.52323,0.00243,153513,0.78,0.0123000005,15.5,,0.0039824233,4.0001655,-0.114,-1.792,,,,,none,,,,,,,,https://leifras.co.jp,2026-11-10T10:55:53.338854+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-09,3.50,3.75,2.75,3.11,,,,,,,0,2.7500,1,13495,,,,
 2025-10-10,4.60,5.73,3.10,4.20,,,,,,,0,2.7500,1,39023,,,,
@@ -288,3 +288,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.92,1.92,1.87,1.88,2.04,2.13,2.21,2.24,2.34,2.1677,0,2.3361,0,120,1700,-0.0709,-0.0436,-0.0273
 2026-11-09,1.89,1.90,1.86,1.86,2.02,2.11,2.20,2.24,2.34,2.1375,0,2.2988,0,37,1695,-0.0811,-0.0511,-0.0301
 2026-11-10,1.85,1.88,1.81,1.85,2.00,2.10,2.19,2.23,2.33,2.0957,0,2.2549,0,23,1683,-0.0890,-0.0587,-0.0304
+2026-11-11,1.86,1.89,1.82,1.85,1.97,2.09,2.18,2.23,2.33,2.0957,0,2.2013,0,16,1677,-0.0942,-0.0658,-0.0284

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.06,OSTX,OS Therapies Incorporated,Healthcare,Biotechnology,United States,43065492,0.9201,832450,674565,620667.2565,,,,0.0,0.0,0.0,,-2.32652,205035,0,,0.176,0.16,-18532848,-1689954,46805230,40150224,0.21117,0.06431,2820664,3.41,0.0647,,2.6288571,,-3.498479,,-1.167,8.25,13.0,6.0,1.25,strong_buy,4,0,3,0,0,2026-11-16,-0.475,https://ostherapies.com,2026-11-10T11:55:09.906077+00:00
+14.24,OSTX,OS Therapies Incorporated,Healthcare,Biotechnology,United States,43065492,0.9201,832450,674565,620667.2565,,,,0.0,0.0,0.0,,-2.32652,205035,0,,0.176,0.16,-18532848,-1689954,46805230,40150224,0.21117,0.06431,2820664,3.41,0.0647,,2.6288571,,-3.498479,,-1.167,8.25,13.0,6.0,1.25,strong_buy,4,0,3,0,0,2026-11-16,-0.475,https://ostherapies.com,2026-11-10T11:55:09.906077+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-01,4.00,4.00,2.51,2.51,,,,,,,0,2.5100,1,1046,,,,
 2024-08-02,2.97,4.90,2.79,4.00,,,,,,,0,2.5100,1,20552,,,,
@@ -586,3 +586,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.98,1.00,0.84,1.00,1.17,1.25,1.49,1.58,1.54,1.2314,0,1.2690,0,985,960,-0.1285,-0.1100,-0.0186
 2026-11-09,0.99,1.08,0.90,0.92,1.14,1.22,1.47,1.58,1.54,1.2314,0,1.2277,0,649,964,-0.1391,-0.1158,-0.0233
 2026-11-10,0.96,0.98,0.86,0.89,1.10,1.19,1.46,1.57,1.53,1.2314,0,1.1888,0,358,966,-0.1482,-0.1223,-0.0259
+2026-11-11,0.90,0.94,0.86,0.87,1.07,1.17,1.44,1.57,1.53,1.2314,0,1.1523,0,285,967,-0.1550,-0.1288,-0.0262

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.79,AIIR,AIR Global PLC,Consumer Defensive,Tobacco,United Arab Emirates,1152990592,7.42,9440,22232,164961.44,,,,0.0,0.0,0.0,,,,,,,,,,155389572,,0.77828,0.12567,37922,0.95,0.0007,,15.127421,,,,,10.75,11.5,10.0,,none,2,0,0,0,0,2026-11-12,,https://air.global,2026-11-10T07:45:09.740101+00:00
+46.21,AIIR,AIR Global PLC,Consumer Defensive,Tobacco,United Arab Emirates,1152990592,7.42,9440,22232,164961.44,,,,0.0,0.0,0.0,,,,,,,,,,155389572,,0.77828,0.12567,37922,0.95,0.0007,,15.127421,,,,,10.75,11.5,10.0,,none,2,0,0,0,0,2026-11-12,,https://air.global,2026-11-10T07:45:09.740101+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-26,10.65,10.71,10.50,10.50,,,,,,,0,10.7100,0,114823,,,,
 2025-06-27,10.51,10.59,10.47,10.53,,,,,,,0,10.7100,0,7067,,,,
@@ -361,3 +361,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.47,7.47,7.47,7.47,7.48,7.50,7.42,8.16,8.68,6.4045,1,8.3661,0,7,112,0.0176,0.0457,-0.0281
 2026-11-09,7.50,7.75,7.40,7.42,7.46,7.50,7.44,8.14,8.67,6.5111,1,8.3390,0,27,112,0.0117,0.0389,-0.0272
 2026-11-10,7.57,7.57,7.57,7.57,7.46,7.50,7.46,8.13,8.65,6.5675,1,8.3125,0,17,112,0.0190,0.0349,-0.0159
+2026-11-11,7.63,7.63,7.45,7.58,7.46,7.51,7.46,8.11,8.64,6.5851,1,8.2864,0,19,112,0.0252,0.0330,-0.0077

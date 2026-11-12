@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.33,RTAC,Renatus Tactical Acquisition Corp I,Financial Services,Shell Companies,United States,326570272,10.48,306670,205585,2154530.8000000003,,0.826,3.326,0.0,0.0,0.0,,,477,630000,,2.898,0.005,-968152,,24150000,22492218,0.0,0.56092,80148,0.68,0.0033000002,40.307693,,,-30.643272,,,,,,,none,,,,,,,,https://www.RTAC1.com,2026-11-10T12:34:21.822908+00:00
+51.39,RTAC,Renatus Tactical Acquisition Corp I,Financial Services,Shell Companies,United States,326570272,10.48,306670,205585,2154530.8000000003,,0.826,3.326,0.0,0.0,0.0,,,477,630000,,2.898,0.005,-968152,,24150000,22492218,0.0,0.56092,80148,0.68,0.0033000002,40.307693,,,-30.643272,,,,,,,none,,,,,,,,https://www.RTAC1.com,2026-11-10T12:34:21.822908+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-09,12.00,12.00,11.20,11.36,,,,,,,0,11.2000,1,6080,,,,
 2025-06-10,11.40,11.43,11.26,11.30,,,,,,,0,11.2000,1,2914,,,,
@@ -373,3 +373,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.47,10.49,10.47,10.47,10.47,10.46,10.46,10.43,10.48,10.4053,1,10.5316,0,3950,1990,0.0026,0.0004,0.0022
 2026-11-09,10.47,10.48,10.47,10.48,10.47,10.46,10.46,10.43,10.48,10.4053,1,10.5294,0,16976,2326,0.0035,0.0010,0.0025
 2026-11-10,10.48,10.49,10.47,10.48,10.47,10.46,10.46,10.43,10.48,10.4095,1,10.5272,0,8997,2496,0.0042,0.0016,0.0025
+2026-11-11,10.48,10.49,10.48,10.48,10.47,10.46,10.46,10.43,10.48,10.4185,1,10.5251,0,1120,2515,0.0046,0.0022,0.0024

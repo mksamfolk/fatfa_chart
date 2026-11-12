@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.42,CRGY,Crescent Energy Company,Energy,Oil & Gas E&P,United States,5330307584,10.98,7743860,7977490,87592840.2,0.559,,,0.64996004,0.05291,0.012949999,0.01726,0.0292,6126000,4722796032,91.953,0.668,0.569,2095490048,538590976,422456708,348623949,0.039979998,0.84065,36216437,3.63,0.096499994,73.2,3.45079,1.1118606,0.7076566,1.953,4.709,18.6875,23.0,12.0,1.64706,buy,16,4,8,4,4,2026-11-02,0.906,https://crescentenergyco.com,2026-11-10T09:00:39.612984+00:00
+58.71,CRGY,Crescent Energy Company,Energy,Oil & Gas E&P,United States,5330307584,10.98,7743860,7977490,87592840.2,0.559,,,0.64996004,0.05291,0.012949999,0.01726,0.0292,6126000,4722796032,91.953,0.668,0.569,2095490048,538590976,422456708,348623949,0.039979998,0.84065,36216437,3.63,0.096499994,73.2,3.45079,1.1118606,0.7076566,1.953,4.709,18.6875,23.0,12.0,1.64706,buy,16,4,8,4,4,2026-11-02,0.906,https://crescentenergyco.com,2026-11-10T09:00:39.612984+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-08,12.26,13.75,12.26,13.65,,,,,,,0,12.2583,1,2964,,,,
 2021-12-09,13.54,13.80,13.04,13.30,,,,,,,0,12.2583,1,7212,,,,
@@ -1265,3 +1265,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,11.15,11.49,11.04,11.22,12.98,13.13,13.47,12.29,11.96,13.0692,0,13.9335,0,78238,116310,-0.3620,-0.0803,-0.2818
 2026-11-09,11.03,11.20,10.82,10.98,12.69,13.04,13.42,12.28,11.98,12.7548,0,13.7020,0,65396,116625,-0.4701,-0.1583,-0.3119
 2026-11-10,10.72,11.17,10.56,11.14,12.44,12.95,13.37,12.27,11.99,12.6161,0,13.4143,0,60329,116818,-0.5367,-0.2339,-0.3028
+2026-11-11,11.32,11.64,11.18,11.61,12.23,12.89,13.32,12.26,12.00,12.6161,0,13.0718,0,83061,116716,-0.5453,-0.2962,-0.2491

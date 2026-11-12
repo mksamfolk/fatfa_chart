@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.36,DXF,Eason Technology Limited,Financial Services,Credit Services,Hong Kong,875973,0.2707,192580,1238775,335336.3925,-0.532,,,0.49885,-0.76403,-1.0852101,-0.21515,-0.10362001,3339000,6050000,12.968,0.77,0.532,-3398000,,3227419,,0.11089,0.46668,38965,0.06,0.0128,,,0.1182948,0.06082937,0.484,,,,,,none,,,,,,,3.355,https://hbctxed.com,2026-11-10T09:21:46.682857+00:00
+9.67,DXF,Eason Technology Limited,Financial Services,Credit Services,Hong Kong,875973,0.2707,192580,1238775,335336.3925,-0.532,,,0.49885,-0.76403,-1.0852101,-0.21515,-0.10362001,3339000,6050000,12.968,0.77,0.532,-3398000,,3227419,,0.11089,0.46668,38965,0.06,0.0128,,,0.1182948,0.06082937,0.484,,,,,,none,,,,,,,3.355,https://hbctxed.com,2026-11-10T09:21:46.682857+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-24,29.00,29.00,29.00,29.00,,,,,,,0,29.0000,0,,,,,
 2025-01-27,7.75,7.75,7.75,7.75,,,,,,,0,29.0000,0,,,,,
@@ -465,4 +465,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.25,0.25,0.22,0.23,0.26,0.34,0.43,0.59,0.77,0.3504,0,0.2600,0,15,602,-0.0606,-0.0555,-0.0051
 2026-11-06,0.23,0.28,0.22,0.26,0.26,0.32,0.43,0.58,0.76,0.3504,0,0.1200,1,84,602,-0.0578,-0.0560,-0.0018
 2026-11-09,0.25,0.28,0.25,0.27,0.26,0.31,0.42,0.58,0.76,0.3504,0,0.1232,1,15,601,-0.0541,-0.0556,0.0015
-2026-11-10,0.28,0.29,0.27,0.28,0.26,0.30,0.42,0.57,0.75,0.3504,0,0.1263,1,31,435,-0.0499,-0.0544,0.0046
+2026-11-10,0.28,0.29,0.27,0.28,0.26,0.30,0.42,0.57,0.75,0.3504,0,0.1263,1,36,435,-0.0499,-0.0544,0.0046
+2026-11-11,0.27,0.31,0.25,0.30,0.26,0.29,0.41,0.57,0.74,0.3504,0,0.1329,1,84,211,-0.0444,-0.0524,0.0081

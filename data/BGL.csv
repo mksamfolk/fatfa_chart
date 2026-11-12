@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.00,BGL,Blue Gold Limited,Basic Materials,Gold,Cayman Islands,5305501,0.1166,612940,931817,108649.86219999999,,,,0.0,0.0,0.0,,-0.34467998,591641,8248415,,0.216,0.038,-11688193,-6063747,45501723,22587911,0.37045,0.10351,300126,0.16,0.0089,,0.583,,-0.22083333,,-0.701,10.0,10.0,10.0,,none,1,,,,,,3.039,https://bluegoldmine.com,2026-11-10T08:18:38.578099+00:00
+3.14,BGL,Blue Gold Limited,Basic Materials,Gold,Cayman Islands,5305501,0.1166,612940,931817,108649.86219999999,,,,0.0,0.0,0.0,,-0.34467998,591641,8248415,,0.216,0.038,-11688193,-6063747,45501723,22587911,0.37045,0.10351,300126,0.16,0.0089,,0.583,,-0.22083333,,-0.701,10.0,10.0,10.0,,none,1,,,,,,3.039,https://bluegoldmine.com,2026-11-10T08:18:38.578099+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-26,20.00,30.00,17.00,20.11,,,,,,,0,17.0000,1,646,,,,
 2025-06-27,77.65,114.99,50.00,62.50,,,,,,,0,17.0000,1,24475,,,,
@@ -361,3 +361,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.11,0.15,0.10,0.12,0.13,0.13,0.17,0.54,1.01,0.1687,0,0.1960,0,465,159,-0.0177,-0.0178,0.0002
 2026-11-09,0.12,0.12,0.11,0.12,0.12,0.13,0.17,0.53,1.00,0.1687,0,0.1866,0,71,159,-0.0171,-0.0177,0.0006
 2026-11-10,0.11,0.11,0.08,0.09,0.12,0.13,0.17,0.52,0.99,0.1597,0,0.1781,0,60,160,-0.0184,-0.0178,-0.0006
+2026-11-11,0.10,0.13,0.09,0.10,0.11,0.13,0.17,0.51,0.98,0.1597,0,0.1668,0,1005,179,-0.0185,-0.0180,-0.0005

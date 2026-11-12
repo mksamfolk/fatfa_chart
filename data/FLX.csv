@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.26,FLX,BingEx Limited,Industrials,Integrated Freight & Logistics,China,109694864,1.5,186490,182742,274113.0,-0.082,,,0.10847,0.0077100005,-0.00269,-0.0134000005,0.01868,853257024,19176000,2.595,2.408,2.313,,,57937317,35234133,0.05256,0.13505,70223,0.34,,,3.6677852,0.028255124,0.9161603,-0.188,-19.977,,,,,none,,,,,,2026-11-19,0.534,https://www.ishansong.com,2026-11-10T09:46:42.622448+00:00
+13.00,FLX,BingEx Limited,Industrials,Integrated Freight & Logistics,China,109694864,1.5,186490,182742,274113.0,-0.082,,,0.10847,0.0077100005,-0.00269,-0.0134000005,0.01868,853257024,19176000,2.595,2.408,2.313,,,57937317,35234133,0.05256,0.13505,70223,0.34,,,3.6677852,0.028255124,0.9161603,-0.188,-19.977,,,,,none,,,,,,2026-11-19,0.534,https://www.ishansong.com,2026-11-10T09:46:42.622448+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-04,16.50,21.95,16.50,18.01,,,,,,,0,21.9500,0,24829,,,,
 2024-10-07,16.86,17.31,16.00,16.49,,,,,,,0,21.9500,0,6731,,,,
@@ -541,3 +541,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.52,1.54,1.48,1.48,1.49,1.49,1.71,2.17,2.36,1.7637,0,1.4184,1,342,291,-0.0540,-0.0737,0.0197
 2026-11-09,1.47,1.53,1.40,1.50,1.49,1.49,1.70,2.16,2.35,1.7343,0,1.6400,0,58,289,-0.0499,-0.0689,0.0191
 2026-11-10,1.45,1.52,1.45,1.52,1.50,1.49,1.68,2.15,2.34,1.7343,0,1.6352,0,307,290,-0.0445,-0.0641,0.0196
+2026-11-11,1.51,1.52,1.26,1.40,1.49,1.49,1.67,2.15,2.33,1.7050,0,1.6305,0,336,289,-0.0493,-0.0611,0.0118

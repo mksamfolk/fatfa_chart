@@ -146,6 +146,9 @@
             <!-- Market Cap Display -->
             <span id="marketCapText" class="hidden text-sm text-gray-700 font-medium px-2.5 py-1 bg-gray-100 border border-gray-200 rounded shadow-sm"></span>
 
+            <!-- Active ma50 Sorting Info -->
+            <span id="ma50UpDaysText" class="hidden text-sm text-gray-700 font-medium px-2.5 py-1 bg-gray-100 border border-gray-200 rounded shadow-sm"></span>
+
             <!-- As of Date Display -->
             <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
         </div>
@@ -312,6 +315,8 @@
         <div id="predefinedSortPane" class="hidden p-4 overflow-y-auto">
             <button id="companyBuyBackSortBtn" class="w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Company Buy Back</button>
             <p class="mt-3 text-sm text-gray-600">Largest buyback percentage first: absolute repurchases in the first cashflow period divided by (shares outstanding × current price). Missing or invalid figures sort last.</p>
+            <button id="consecutiveMa50UpDaysSortBtn" class="mt-4 w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Consecutive ma50 UP Days</button>
+            <p class="mt-3 text-sm text-gray-600">Longest strictly increasing ma50 streak ending at the latest day first, including the starting day (100, 101, 102 counts as 3). Equal, decreasing, or missing values break the streak. Missing or invalid latest values sort last.</p>
             <button id="backToSortingBtn" class="mt-4 border rounded px-3 py-2 text-sm">← Back to sorting</button>
         </div>
     </div>
@@ -1224,6 +1229,29 @@
         return Number.isFinite(ratio) ? ratio : null;
     }
 
+    function consecutiveMa50UpDays(file) {
+        const parsed = Papa.parse(file.text, { header: true, skipEmptyLines: 'greedy' });
+        const field = parsed.meta.fields?.find(name => name.split(':')[0].trim().toLowerCase() === 'ma50');
+        if (!field || !parsed.data.length) return null;
+        const numeric = row => {
+            const value = row[field];
+            if (value == null || String(value).trim() === '') return null;
+            const number = Number(value);
+            return Number.isFinite(number) ? number : null;
+        };
+        let current = numeric(parsed.data[parsed.data.length - 1]);
+        if (current === null) return null;
+        // Count the starting day as well as each subsequent increase.
+        let count = 1;
+        for (let i = parsed.data.length - 2; i >= 0; i--) {
+            const previous = numeric(parsed.data[i]);
+            if (previous === null || previous >= current) break;
+            count++;
+            current = previous;
+        }
+        return count;
+    }
+
     function sortStockIndices(indices) {
         if (!sortRules.length) return [...indices];
         const compiled = sortRules.map(rule => ({ ...rule, evaluate: rule.predefined ? null : compileSortFormula(rule.formula) }));
@@ -1232,6 +1260,7 @@
             const keys = compiled.map(rule => {
                 try {
                     if (rule.predefined === 'companyBuyBack') return companyBuyBackRatio(uploadedFiles[index]);
+                    if (rule.predefined === 'consecutiveMa50UpDays') return consecutiveMa50UpDays(uploadedFiles[index]);
                     const values = sources[rule.source] ||= sortFieldValues(uploadedFiles[index], rule.source);
                     const result = rule.evaluate(field => {
                         if (values[field] == null) throw new Error('Missing field');
@@ -1285,9 +1314,9 @@
         draftSortRules.forEach((rule, index) => {
             const row = document.createElement('div');
             row.className = 'border border-gray-200 bg-gray-50 rounded p-3 flex flex-col gap-2';
-            if (rule.predefined === 'companyBuyBack') {
+            if (rule.predefined) {
                 const label = document.createElement('strong');
-                label.textContent = `${index + 1}. Company Buy Back · Largest percentage first`;
+                label.textContent = `${index + 1}. ${rule.predefined === 'companyBuyBack' ? 'Company Buy Back · Largest percentage first' : 'Consecutive ma50 UP Days · Longest streak first'}`;
                 const remove = document.createElement('button');
                 remove.className = 'text-red-600 text-sm self-start';
                 remove.textContent = 'Remove';
@@ -1377,6 +1406,10 @@
         draftSortRules = [{ predefined: 'companyBuyBack', direction: 'desc' }];
         applySorting();
     };
+    document.getElementById('consecutiveMa50UpDaysSortBtn').onclick = () => {
+        draftSortRules = [{ predefined: 'consecutiveMa50UpDays', direction: 'desc' }];
+        applySorting();
+    };
     document.getElementById('applySortBtn').onclick = applySorting;
     function applySorting() {
         for (let i = 0; i < draftSortRules.length; i++) {
@@ -1398,7 +1431,7 @@
         currentActiveIdx = -1;
         applyFilters(false);
         closeSortModal();
-        showToast(sortRules[0]?.predefined === 'companyBuyBack' ? 'Applied Company Buy Back sorting.' : sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
+        showToast(sortRules[0]?.predefined === 'companyBuyBack' ? 'Applied Company Buy Back sorting.' : sortRules[0]?.predefined === 'consecutiveMa50UpDays' ? 'Applied Consecutive ma50 UP Days sorting.' : sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
     };
 
     function getPassingStockFilters(fileObj) {
@@ -1485,6 +1518,7 @@
 
         if (activeIndices.length === 0) {
             currentActiveIdx = -1;
+            document.getElementById('ma50UpDaysText').classList.add('hidden');
             updateFileNavUI();
             document.getElementById('statusText').innerText = isShowingPickedOnly ? "No picked stocks match current filters." : "All stocks hidden by filters.";
             document.getElementById('statusText').dataset.tooltip = '';
@@ -1556,6 +1590,11 @@
                 const industryTextEl = document.getElementById('industryText');
                 const sectorTextEl = document.getElementById('sectorText');
                 const marketCapTextEl = document.getElementById('marketCapText');
+                const ma50UpDaysTextEl = document.getElementById('ma50UpDaysText');
+                const ma50UpDays = sortRules.some(rule => rule.predefined === 'consecutiveMa50UpDays')
+                    ? consecutiveMa50UpDays(fileObj) : null;
+                ma50UpDaysTextEl.textContent = ma50UpDays === null ? '' : `Ma50 up ${ma50UpDays} ${ma50UpDays === 1 ? 'day' : 'days'}`;
+                ma50UpDaysTextEl.classList.toggle('hidden', ma50UpDays === null);
 
                 if (fileObj.metadata && Object.keys(fileObj.metadata).length > 0) {
                     showDetailsBtn.classList.remove('hidden');

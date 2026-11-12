@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-23 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.97,EUDA,EUDA Health Holdings Limited,Real Estate,Real Estate Services,Singapore,42459528,14.18,56990,31035,440076.3,0.134,,,0.47566003,-0.21959999,-0.32689998,-2.11359,-0.21923,365904,339985,5.702,2.528,0.302,-2417153,-8796983,2994325,1761681,0.48217,1.0000001e-05,1616,0.06,0.0008,,8.8625,5.872057,7.1042085,5.867,-23.024,55.0,55.0,55.0,,none,1,,,,,,0.546,https://eudahealth.com,2026-11-10T09:34:58.784365+00:00
+25.73,EUDA,EUDA Health Holdings Limited,Real Estate,Real Estate Services,Singapore,42459528,14.18,56990,31035,440076.3,0.134,,,0.47566003,-0.21959999,-0.32689998,-2.11359,-0.21923,365904,339985,5.702,2.528,0.302,-2417153,-8796983,2994325,1761681,0.48217,1.0000001e-05,1616,0.06,0.0008,,8.8625,5.872057,7.1042085,5.867,-23.024,55.0,55.0,55.0,,none,1,,,,,,0.546,https://eudahealth.com,2026-11-10T09:34:58.784365+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-14,193.00,193.00,193.00,193.00,,,,,,,0,193.0000,1,11281,,,,
 2021-12-15,193.00,193.60,193.00,193.20,,,,,,,0,193.0000,1,4249,,,,
@@ -1246,3 +1246,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,15.35,16.01,13.51,13.51,15.35,15.18,15.01,13.83,16.85,18.3555,0,13.2815,1,390,498,-0.0842,0.0166,-0.1008
 2026-11-09,13.61,14.45,13.61,14.18,15.33,15.07,14.97,13.85,16.69,18.3555,0,13.3759,1,411,505,-0.1557,-0.0178,-0.1379
 2026-11-10,14.53,15.50,14.38,14.66,15.32,14.96,14.97,13.88,16.51,18.3555,0,13.4684,1,406,513,-0.1717,-0.0486,-0.1231
+2026-11-11,15.27,15.69,15.17,15.65,15.35,14.97,14.98,13.92,16.36,18.3555,0,13.5590,1,335,519,-0.1033,-0.0596,-0.0438

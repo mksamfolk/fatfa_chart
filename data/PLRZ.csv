@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-05-27 09:30:00-04:00,0.004\n2025-11-28 09:30:00-05:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.21,PLRZ,Polyrizon Ltd.,Healthcare,Biotechnology,Israel,26836074,11.05,19830,49042,541914.1,,,,0.0,0.0,0.0,-0.21417,-0.23296,16072000,0,,36.371,35.875,-4662000,-2086750,2428604,1866222,0.00756,0.09345,68324,2.37,0.028499998,,,,0.9621245,,-0.948,,,,,none,,,,,,,-1.115,https://www.polyrizon-biotech.com,2026-11-10T12:08:10.179879+00:00
+49.32,PLRZ,Polyrizon Ltd.,Healthcare,Biotechnology,Israel,26836074,11.05,19830,49042,541914.1,,,,0.0,0.0,0.0,-0.21417,-0.23296,16072000,0,,36.371,35.875,-4662000,-2086750,2428604,1866222,0.00756,0.09345,68324,2.37,0.028499998,,,,0.9621245,,-0.948,,,,,none,,,,,,,-1.115,https://www.polyrizon-biotech.com,2026-11-10T12:08:10.179879+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-29,2460.00,2955.00,1665.00,2325.00,,,,,,,0,1665.0000,1,2504,,,,
 2024-10-30,2400.00,2625.00,2100.00,2520.00,,,,,,,0,1665.0000,1,7608,,,,
@@ -524,3 +524,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,11.59,11.59,11.00,11.05,10.23,9.85,10.59,12.44,12.75,8.5260,1,8.6874,1,88,616,0.1606,-0.1737,0.3343
 2026-11-09,11.31,11.31,10.81,11.05,10.44,9.95,10.58,12.42,12.76,8.5260,1,8.7605,1,75,615,0.1961,-0.0997,0.2959
 2026-11-10,10.81,11.12,10.57,10.93,10.68,10.01,10.57,12.40,12.76,8.5260,1,8.8321,1,43,614,0.2122,-0.0374,0.2495
+2026-11-11,10.75,11.22,10.29,11.02,10.92,10.04,10.59,12.38,12.75,8.5260,1,8.9022,1,89,607,0.2292,0.0160,0.2133

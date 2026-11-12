@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-27 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.92,CUPR,Cuprina Holdings (Cayman) Limited,Healthcare,Medical Instruments & Supplies,Singapore,14156443,1.85,152670,116195,214960.75,2.674,,,-0.01293,-105.68346,0.0,-15.690551,-0.58902,3204308,3413235,67.516,2.353,1.035,-9133948,-5995453,5891506,2007237,0.0,0.01285,14383,0.08,0.0023999999,,,283.73038,1.2535155,103.604,-1.078,,,,,none,,,,,,,,https://www.cuprina.com.sg,2026-11-10T09:05:43.043382+00:00
+11.63,CUPR,Cuprina Holdings (Cayman) Limited,Healthcare,Medical Instruments & Supplies,Singapore,14156443,1.85,152670,116195,214960.75,2.674,,,-0.01293,-105.68346,0.0,-15.690551,-0.58902,3204308,3413235,67.516,2.353,1.035,-9133948,-5995453,5891506,2007237,0.0,0.01285,14383,0.08,0.0023999999,,,283.73038,1.2535155,103.604,-1.078,,,,,none,,,,,,,,https://www.cuprina.com.sg,2026-11-10T09:05:43.043382+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-10,35.04,38.32,28.08,33.20,,,,,,,0,28.0800,1,9239,,,,
 2025-04-11,32.48,36.00,32.16,35.84,,,,,,,0,28.0800,1,2251,,,,
@@ -413,3 +413,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.74,1.82,1.74,1.80,1.83,1.89,2.45,2.98,3.09,2.2719,0,1.6682,1,80,168,-0.1854,-0.2232,0.0378
 2026-11-09,1.66,1.87,1.66,1.85,1.84,1.88,2.42,2.98,3.08,2.2707,0,1.9300,0,33,168,-0.1729,-0.2132,0.0403
 2026-11-10,1.78,1.78,1.60,1.76,1.83,1.87,2.39,2.97,3.07,2.2227,0,1.9246,0,76,168,-0.1683,-0.2042,0.0359
+2026-11-11,1.76,1.79,1.71,1.72,1.81,1.86,2.37,2.96,3.06,2.2227,0,1.9116,0,39,168,-0.1660,-0.1965,0.0306

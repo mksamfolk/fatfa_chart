@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-21 09:30:00-04:00,0.0078125\n2026-08-14 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.85,HAO,Haoxi Health Technology Limited,Communication Services,Advertising Agencies,China,761542,2.08,135250,176905,367962.4,1.373,,,0.011469999,-0.118140005,-0.17392999,-0.54128,-0.23629999,10933108,1612121,9.027,4.531,2.983,-2568457,262978,350232,621655,0.00014,0.00486,31829,0.31,0.090900004,,,0.013889444,0.012942244,-0.146,1.018,,,,,none,,,,,,,-0.99,https://www.haoximedia.com,2026-11-10T10:11:33.607580+00:00
+98.71,HAO,Haoxi Health Technology Limited,Communication Services,Advertising Agencies,China,761542,2.08,135250,176905,367962.4,1.373,,,0.011469999,-0.118140005,-0.17392999,-0.54128,-0.23629999,10933108,1612121,9.027,4.531,2.983,-2568457,262978,350232,621655,0.00014,0.00486,31829,0.31,0.090900004,,,0.013889444,0.012942244,-0.146,1.018,,,,,none,,,,,,,-0.99,https://www.haoximedia.com,2026-11-10T10:11:33.607580+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-26,544.00,796.16,544.00,675.84,,,,,,,0,544.0000,1,16770,,,,
 2024-01-29,679.68,697.60,606.72,609.28,,,,,,,0,544.0000,1,1416,,,,
@@ -715,3 +715,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.84,1.93,1.83,1.92,1.91,2.04,2.62,36.09,67.88,2.5008,0,1.6538,1,7,670,-0.1945,-0.2128,0.0183
 2026-11-09,1.92,2.10,1.92,2.08,1.93,2.02,2.66,35.17,67.21,2.5008,0,1.6639,1,634,680,-0.1720,-0.2046,0.0326
 2026-11-10,1.99,2.01,1.90,1.93,1.96,2.00,2.69,34.21,66.55,2.5008,0,1.6738,1,33,676,-0.1645,-0.1966,0.0321
+2026-11-11,1.80,1.92,1.79,1.86,1.94,1.99,2.67,33.23,65.90,2.5008,0,1.6836,1,14,662,-0.1627,-0.1898,0.0271

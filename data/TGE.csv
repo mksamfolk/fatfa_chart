@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.40,TGE,The Generation Essentials Group,Financial Services,Asset Management,France,73049864,0.36,4787450,4076315,1467473.4,-0.247,3.486,4.014,0.51378,0.50356996,0.18049999,0.0090499995,0.00684,21057000,452907008,48.571,1.413,0.31,4890000,42873624,198630381,7450890,0.75767,0.0253,213543,0.02,0.0199,1.2857144,,0.95166576,0.026676549,9.481,21.972,,,,,none,,,,,,,-1.229,https://www.thegenerationessentials.com,2026-11-10T13:15:02.461310+00:00
+4.03,TGE,The Generation Essentials Group,Financial Services,Asset Management,France,73049864,0.36,4787450,4076315,1467473.4,-0.247,3.486,4.014,0.51378,0.50356996,0.18049999,0.0090499995,0.00684,21057000,452907008,48.571,1.413,0.31,4890000,42873624,198630381,7450890,0.75767,0.0253,213543,0.02,0.0199,1.2857144,,0.95166576,0.026676549,9.481,21.972,,,,,none,,,,,,,-1.229,https://www.thegenerationessentials.com,2026-11-10T13:15:02.461310+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-05,16.91,37.02,9.80,10.04,,,,,,,0,9.8000,1,12571,,,,
 2025-06-06,12.10,15.00,10.75,12.00,,,,,,,0,9.8000,1,34087,,,,
@@ -374,4 +374,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,0.47,0.47,0.33,0.35,0.51,0.68,0.84,0.98,1.08,0.6723,0,0.7097,0,271,170,-0.1338,-0.1042,-0.0296
 2026-11-06,0.36,0.38,0.36,0.36,0.48,0.65,0.83,0.98,1.08,0.6273,0,0.6408,0,5711,283,-0.1388,-0.1111,-0.0277
 2026-11-09,0.44,0.55,0.22,0.36,0.45,0.62,0.82,0.97,1.07,0.6273,0,0.5843,0,10950,502,-0.1415,-0.1172,-0.0243
-2026-11-10,0.31,0.40,0.24,0.25,0.43,0.60,0.81,0.96,1.07,0.6273,0,0.5470,0,459,510,-0.1503,-0.1238,-0.0265
+2026-11-10,0.31,0.40,0.24,0.25,0.43,0.60,0.81,0.96,1.07,0.6273,0,0.5470,0,464,510,-0.1503,-0.1238,-0.0265
+2026-11-11,0.26,0.29,0.24,0.28,0.41,0.57,0.79,0.96,1.07,0.5867,0,0.5470,0,284,515,-0.1539,-0.1299,-0.0241

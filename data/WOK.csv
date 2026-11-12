@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-10-21 09:30:00-04:00,0.01\n2025-12-29 09:30:00-05:00,0.01\n2026-06-18 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.52,WOK,WORK Medical Technology Group LTD,Healthcare,Medical Devices,China,5584472,1.25,167590,211923,264903.75,0.191,,,0.16969,-0.65348,-0.41952,-0.19225,-0.06725,3253520,6622803,20.392,1.365,0.331,-865760,-2161685,4416569,15400,0.0,0.00797,139363,2.96,0.031600002,,,0.5210422,0.0006737978,0.536,-1.705,,,,,none,,,,,,,1.886,https://www.workmedtech.com,2026-11-10T13:53:24.817942+00:00
+4.97,WOK,WORK Medical Technology Group LTD,Healthcare,Medical Devices,China,5584472,1.25,167590,211923,264903.75,0.191,,,0.16969,-0.65348,-0.41952,-0.19225,-0.06725,3253520,6622803,20.392,1.365,0.331,-865760,-2161685,4416569,15400,0.0,0.00797,139363,2.96,0.031600002,,,0.5210422,0.0006737978,0.536,-1.705,,,,,none,,,,,,,1.886,https://www.workmedtech.com,2026-11-10T13:53:24.817942+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-23,3600000.00,4200000.00,3500000.00,3600000.00,,,,,,,0,3500000.0000,1,3600,,,,
 2024-08-26,3610000.00,3990000.00,3550000.00,3700000.00,,,,,,,0,3500000.0000,1,,,,,
@@ -570,3 +570,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.96,0.98,0.93,0.94,1.05,1.14,1.69,44.10,74.41,1.2301,0,1.1650,0,26,508,-0.2637,-0.3042,0.0405
 2026-11-09,0.96,1.50,0.91,1.25,1.06,1.13,1.67,43.32,73.32,0.8106,1,0.9200,1,1774,541,-0.2300,-0.2894,0.0594
 2026-11-10,1.26,1.26,1.13,1.16,1.06,1.12,1.66,42.56,72.17,0.8106,1,0.9100,1,139,536,-0.2081,-0.2731,0.0651
+2026-11-11,1.18,1.48,1.17,1.37,1.08,1.12,1.64,41.80,71.09,0.8511,1,0.9100,1,229,377,-0.1718,-0.2528,0.0811

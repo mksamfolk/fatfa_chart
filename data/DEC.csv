@@ -27,9 +27,8 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-46.70,DEC,Diversified Energy Company,Energy,Oil & Gas Integrated,United States,912982272,12.91,912220,797492,10295621.72,0.253,,,0.58689,-0.51937,0.03887,,,5794000,3151356928,429.554,0.529,0.399,575545024,,70719000,68830803,0.04636,0.8748,7193338,8.72,0.1043,12.91,1.6923379,0.44719177,1.2624682,1.993,6.743,20.23254,29.0,15.0,1.2,strong_buy,8,0,1,0,0,2026-11-04,0.315,https://www.div.energy,2026-11-10T09:12:44.041249+00:00
+50.98,DEC,Diversified Energy Company,Energy,Oil & Gas Integrated,United States,912982272,12.91,912220,797492,10295621.72,0.253,,,0.58689,-0.51937,0.03887,,,5794000,3151356928,429.554,0.529,0.399,575545024,,70719000,68830803,0.04636,0.8748,7193338,8.72,0.1043,12.91,1.6923379,0.44719177,1.2624682,1.993,6.743,20.23254,29.0,15.0,1.2,strong_buy,8,0,1,0,0,2026-11-04,0.315,https://www.div.energy,2026-11-10T09:12:44.041249+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
-2021-11-17,,,,,,,,,,,0,0.0000,0,52,,,,
 2021-11-18,,,,,,,,,,,0,0.0000,0,24,,,,
 2021-11-19,,,,,,,,,,,0,0.0000,0,25,,,,
 2021-11-22,,,,,,,,,,,0,0.0000,0,29,,,,
@@ -38,7 +37,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2021-11-26,,,,,,,,,,,0,0.0000,0,45,,,,
 2021-11-29,,,,,,,,,,,0,0.0000,0,63,,,,
 2021-11-30,,,,,,,,,,,0,0.0000,0,273,,,,
-2021-12-01,,,,,,,,,,0.0000,0,0.0000,0,8,,,,
+2021-12-01,,,,,,,,,,,0,0.0000,0,8,,,,
 2021-12-02,,,,,,,,,,0.0000,0,0.0000,0,88,,,,
 2021-12-03,,,,,,,,,,0.0000,0,0.0000,0,8,,,,
 2021-12-06,,,,,,,,,,0.0000,0,0.0000,0,55,,,,
@@ -62,7 +61,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2021-12-31,,,,,,,,,,0.0000,0,0.0000,0,60,,,,
 2022-01-03,,,,,,,,,,0.0000,0,0.0000,0,14,,,,
 2022-01-04,,,,,,,,,,0.0000,0,0.0000,0,35,,,,
-2022-01-05,,,,,,,,,,0.0000,0,0.0000,0,10,,0.0000,0.0000,0.0000
+2022-01-05,,,,,,,,,,0.0000,0,0.0000,0,10,,,,
 2022-01-06,,,,,,,,,,0.0000,0,0.0000,0,1,,0.0000,0.0000,0.0000
 2022-01-07,,,,,,,,,,0.0000,0,0.0000,0,10,,0.0000,0.0000,0.0000
 2022-01-10,,,,,,,,,,0.0000,0,0.0000,0,3,,0.0000,0.0000,0.0000
@@ -78,7 +77,7 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2022-01-25,,,,,,,,,,0.0000,0,0.0000,0,3,,0.0000,0.0000,0.0000
 2022-01-26,,,,,,,,,,0.0000,0,0.0000,0,6,,0.0000,0.0000,0.0000
 2022-01-27,,,,,,,,,,0.0000,0,0.0000,0,2,,0.0000,0.0000,0.0000
-2022-01-28,,,,,,,,,,0.0000,0,0.0000,0,7,24,0.0000,0.0000,0.0000
+2022-01-28,,,,,,,,,,0.0000,0,0.0000,0,7,,0.0000,0.0000,0.0000
 2022-01-31,,,,,,,,,,0.0000,0,0.0000,0,83,25,0.0000,0.0000,0.0000
 2022-02-01,,,,,,,,,,0.0000,0,0.0000,0,13,25,0.0000,0.0000,0.0000
 2022-02-02,,,,,,,,,,0.0000,0,0.0000,0,40,25,0.0000,0.0000,0.0000
@@ -1279,3 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,12.82,13.04,12.69,12.70,13.90,14.21,14.27,14.18,14.09,14.1967,0,14.4569,0,13741,11268,-0.2664,-0.0580,-0.2084
 2026-11-09,12.71,12.95,12.64,12.91,13.74,14.14,14.24,14.16,14.09,14.0932,0,14.2443,0,13842,11394,-0.3116,-0.1087,-0.2028
 2026-11-10,12.84,13.41,12.80,13.40,13.62,14.07,14.21,14.14,14.10,14.0932,0,14.0197,0,11977,11372,-0.3043,-0.1478,-0.1565
+2026-11-11,13.70,13.90,13.50,13.75,13.53,14.03,14.18,14.13,14.10,14.0932,0,12.6400,1,14212,11329,-0.2672,-0.1717,-0.0955

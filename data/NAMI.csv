@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-25 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.05,NAMI,Jinxin Technology Holding Company,Communication Services,Internet Content & Information,China,6299358,1.66,34660,1521776,2526148.1599999997,-0.319,,,0.122370005,-0.10205,-0.23883,-0.70701,-0.27488002,58592000,13633000,13.23,1.498,1.299,-41542000,8835250,3794794,1088592,0.097349994,0.0,94100,0.02,,0.8601036,,0.018173829,0.45000237,-0.042,0.248,,,,,none,,,,,,,,https://www.namibox.com,2026-11-10T11:28:19.388400+00:00
+4.95,NAMI,Jinxin Technology Holding Company,Communication Services,Internet Content & Information,China,6299358,1.66,34660,1521776,2526148.1599999997,-0.319,,,0.122370005,-0.10205,-0.23883,-0.70701,-0.27488002,58592000,13633000,13.23,1.498,1.299,-41542000,8835250,3794794,1088592,0.097349994,0.0,94100,0.02,,0.8601036,,0.018173829,0.45000237,-0.042,0.248,,,,,none,,,,,,,,https://www.namibox.com,2026-11-10T11:28:19.388400+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-06,106.25,193.75,100.25,111.00,,,,,,,0,193.7500,0,11934,,,,
 2024-12-09,100.00,118.00,97.50,108.00,,,,,,,0,193.7500,0,2301,,,,
@@ -497,3 +497,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.76,1.82,1.75,1.75,1.82,1.86,2.28,6.53,8.50,2.2082,0,1.8821,0,8,4601,-0.1316,-0.1566,0.0250
 2026-11-09,1.70,1.74,1.65,1.66,1.80,1.83,2.23,6.46,8.41,2.1071,0,1.8746,0,6,200,-0.1351,-0.1523,0.0172
 2026-11-10,1.66,1.71,1.65,1.66,1.79,1.81,2.20,6.38,8.32,2.0698,0,1.8673,0,4,157,-0.1364,-0.1491,0.0128
+2026-11-11,1.66,1.67,1.58,1.60,1.76,1.79,2.17,6.30,8.24,2.0068,0,1.8602,0,11,148,-0.1406,-0.1474,0.0068

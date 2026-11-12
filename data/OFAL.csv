@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-31 09:30:00-04:00,0.1\n2026-11-10 09:30:00-05:00,10.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.71,OFAL,,Industrials,Engineering & Construction,United States,2281730,0.2535,37020,1196270,303254.445,-0.215,,,0.23637,-127.980576,0.0,-1.49584,-0.27855,178057,1110697,9.843,0.397,0.025,7144435,-12806712,9000910,3330193,0.32086,0.00564,54018,0.03,0.1047,,,3.2010398,0.54633623,76.425,-9.629,,,,,none,,,,,,,,https://ofagroup.com,2026-11-10T11:47:38.314422+00:00
+99.61,OFAL,,Industrials,Engineering & Construction,United States,2281730,0.2535,37020,1196270,303254.445,-0.215,,,0.23637,-127.980576,0.0,-1.49584,-0.27855,178057,1110697,9.843,0.397,0.025,7144435,-12806712,9000910,3330193,0.32086,0.00564,54018,0.03,0.1047,,,3.2010398,0.54633623,76.425,-9.629,,,,,none,,,,,,,,https://ofagroup.com,2026-11-10T11:47:38.314422+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-21,4.00,9.79,3.75,4.68,,,,,,,0,3.7500,1,36994,,,,
 2025-05-22,4.68,5.75,4.45,4.79,,,,,,,0,3.7500,1,5904,,,,
@@ -383,4 +383,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,2.78,2.78,2.25,2.35,0.76,0.57,0.71,0.53,0.52,1.9120,1,0.2310,1,110,12797,0.2424,0.0081,0.2343
 2026-11-06,2.40,2.62,2.28,2.30,0.96,0.66,0.74,0.55,0.53,1.9120,1,0.3004,1,29,12796,0.3310,0.0727,0.2583
 2026-11-09,2.33,2.61,2.27,2.54,1.18,0.77,0.78,0.56,0.54,1.9120,1,0.3684,1,79,12796,0.4158,0.1413,0.2745
-2026-11-10,2.53,3.09,1.82,2.34,1.38,0.86,0.81,0.57,0.55,1.9120,1,0.4350,1,2995,12688,0.4615,0.2054,0.2562
+2026-11-10,2.53,3.09,1.82,2.34,1.38,0.86,0.81,0.57,0.55,1.9120,1,0.4350,1,3032,12689,0.4615,0.2054,0.2562
+2026-11-11,2.23,2.23,2.06,2.17,1.57,0.95,0.84,0.59,0.55,1.9120,1,0.5003,1,128,12679,0.4785,0.2600,0.2185

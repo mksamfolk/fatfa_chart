@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.93,RYET,Ruanyun Edai Technology Inc.,Consumer Defensive,Education & Training Services,China,20116290,0.5396,14640,228554,123327.73839999999,1.762,,,0.2518,-0.50732,-1.04962,-3.31389,-0.4511,4082622,4276602,81.017,1.36,0.583,-9151533,-5859845,37280004,16495656,0.55752,0.00303,46124,0.77,0.0023999999,,,2.6888363,3.3725002,2.662,-2.743,,,,,none,,,,,,,,https://www.ruanyuntech.com,2026-11-10T12:36:19.440318+00:00
+11.51,RYET,Ruanyun Edai Technology Inc.,Consumer Defensive,Education & Training Services,China,20116290,0.5396,14640,228554,123327.73839999999,1.762,,,0.2518,-0.50732,-1.04962,-3.31389,-0.4511,4082622,4276602,81.017,1.36,0.583,-9151533,-5859845,37280004,16495656,0.55752,0.00303,46124,0.77,0.0023999999,,,2.6888363,3.3725002,2.662,-2.743,,,,,none,,,,,,,,https://www.ruanyuntech.com,2026-11-10T12:36:19.440318+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-08,7.30,8.03,4.00,4.51,,,,,,,0,4.0000,1,17312,,,,
 2025-04-09,4.07,4.35,4.05,4.24,,,,,,,0,4.0000,1,1709,,,,
@@ -415,3 +415,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.61,0.62,0.51,0.52,0.66,0.72,0.86,0.97,1.00,0.7646,0,0.7200,0,9,259,-0.0722,-0.0619,-0.0104
 2026-11-09,0.60,0.60,0.53,0.54,0.65,0.71,0.85,0.97,1.00,0.7646,0,0.6822,0,8,259,-0.0771,-0.0649,-0.0121
 2026-11-10,0.51,0.54,0.47,0.51,0.63,0.69,0.84,0.97,1.00,0.7105,0,0.6512,0,4,259,-0.0819,-0.0683,-0.0136
+2026-11-11,0.55,0.55,0.53,0.53,0.61,0.67,0.83,0.96,0.99,0.7105,0,0.6150,0,1,258,-0.0839,-0.0714,-0.0125

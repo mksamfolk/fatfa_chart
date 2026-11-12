@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-72.99,NATL,NCR Atleos Corporation,Technology,Software - Application,United States,3542459648,47.91,903760,793876,38034599.16,-0.02,2.735,2.731,0.25745,0.17561,0.06072,0.60179,0.07406,311000000,2696999936,479.041,0.905,0.455,450000000,507624992,73939883,73401601,0.013250001,0.98915,3046722,3.32,0.055,13.649572,9.033947,0.80565375,6.277516,1.348,6.299,50.2,50.4,50.0,,none,2,0,0,1,1,2026-11-04,0.572,https://www.ncratleos.com,2026-11-10T11:28:44.644001+00:00
+71.82,NATL,NCR Atleos Corporation,Technology,Software - Application,United States,3542459648,47.91,903760,793876,38034599.16,-0.02,2.735,2.731,0.25745,0.17561,0.06072,0.60179,0.07406,311000000,2696999936,479.041,0.905,0.455,450000000,507624992,73939883,73401601,0.013250001,0.98915,3046722,3.32,0.055,13.649572,9.033947,0.80565375,6.277516,1.348,6.299,50.2,50.4,50.0,,none,2,0,0,1,1,2026-11-04,0.572,https://www.ncratleos.com,2026-11-10T11:28:44.644001+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-11,18.00,26.00,18.00,23.00,,,,,,,0,18.0000,1,179,,,,
 2023-10-12,22.00,22.00,19.58,20.72,,,,,,,0,18.0000,1,1645,,,,
@@ -803,3 +803,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,46.96,47.28,46.44,47.18,46.51,46.39,46.06,45.50,44.65,47.4975,0,45.2482,1,51907,38220,0.2623,0.1705,0.0918
 2026-11-09,47.53,48.08,46.92,47.91,46.60,46.50,46.09,45.53,44.71,45.1726,1,45.3152,1,35267,38578,0.3450,0.2054,0.1396
 2026-11-10,47.98,48.45,47.59,48.20,46.78,46.61,46.14,45.55,44.76,45.2617,1,45.3809,1,36333,38369,0.4290,0.2501,0.1789
+2026-11-11,48.01,48.20,47.84,48.20,47.07,46.74,46.18,45.58,44.82,45.4295,1,45.4453,1,19405,38191,0.4899,0.2981,0.1919

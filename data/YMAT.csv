@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-10 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.45,YMAT,J-Star Holding Co. Ltd.,Basic Materials,Specialty Chemicals,Taiwan,5334673,1.18,2173560,5677651,6699628.18,-0.361,,,0.57001,-0.28801,0.0,-2.75897,-0.59349,595013,7539215,271.97,1.257,0.91,-2586548,-5952781,3301474,1489933,0.48171002,0.00247,91749,0.01,0.0295,,,0.87378097,1.8582677,1.981,-0.538,,,,,none,,,,,,,,https://j-starholding.com,2026-11-10T14:03:25.617500+00:00
+19.95,YMAT,J-Star Holding Co. Ltd.,Basic Materials,Specialty Chemicals,Taiwan,5334673,1.18,2173560,5677651,6699628.18,-0.361,,,0.57001,-0.28801,0.0,-2.75897,-0.59349,595013,7539215,271.97,1.257,0.91,-2586548,-5952781,3301474,1489933,0.48171002,0.00247,91749,0.01,0.0295,,,0.87378097,1.8582677,1.981,-0.538,,,,,none,,,,,,,,https://j-starholding.com,2026-11-10T14:03:25.617500+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-30,22.45,24.40,20.00,20.40,,,,,,,0,20.0000,1,4536,,,,
 2025-07-31,21.50,22.60,20.10,22.60,,,,,,,0,20.0000,1,18445,,,,
@@ -338,3 +338,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.13,1.13,1.05,1.05,1.67,1.80,1.80,2.34,2.33,2.3613,0,2.8398,0,75,13462,-0.1610,-0.0522,-0.1088
 2026-11-09,1.18,1.38,0.84,1.18,1.55,1.71,1.79,2.34,2.32,2.3613,0,2.7312,0,19151,13844,-0.1772,-0.0772,-0.1000
 2026-11-10,1.17,1.17,1.00,1.00,1.44,1.67,1.77,2.33,2.31,2.3145,0,2.5799,0,518,13854,-0.2023,-0.1022,-0.1001
+2026-11-11,1.45,1.49,1.10,1.30,1.35,1.65,1.75,2.33,2.31,2.3145,0,2.4407,0,34485,14542,-0.1957,-0.1209,-0.0748

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.89,SVIA,Silvia Inc.,Financial Services,Capital Markets,United States,232570576,2.93,874010,1595900,4675987.0,,,,1.0,-405.13516,0.0,,,15338000,93313000,35.508,0.181,0.163,-22598424,,79375625,72483377,0.28359,0.34972,7372544,2.9,0.1096,,,1890.8177,0.9875295,2739.007,,,,,,none,,,,,,,,https://www.cfosilvia.com,2026-11-10T13:07:05.523917+00:00
+81.30,SVIA,Silvia Inc.,Financial Services,Capital Markets,United States,232570576,2.93,874010,1595900,4675987.0,,,,1.0,-405.13516,0.0,,,15338000,93313000,35.508,0.181,0.163,-22598424,,79375625,72483377,0.28359,0.34972,7372544,2.9,0.1096,,,1890.8177,0.9875295,2739.007,,,,,,none,,,,,,,,https://www.cfosilvia.com,2026-11-10T13:07:05.523917+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-09,10.76,10.76,10.10,10.14,,,,,,,0,10.1000,1,1326,,,,
 2025-06-10,10.14,10.18,10.13,10.15,,,,,,,0,10.1000,1,1858,,,,
@@ -388,3 +388,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.95,3.05,2.87,3.01,3.19,3.47,3.45,2.37,2.41,3.8264,0,3.8799,0,1476,6509,-0.1585,-0.0725,-0.0860
 2026-11-09,2.94,2.98,2.83,2.93,3.14,3.42,3.46,2.38,2.41,3.7383,0,3.8157,0,2597,6538,-0.1707,-0.0921,-0.0785
 2026-11-10,2.89,2.89,2.70,2.79,3.06,3.36,3.48,2.38,2.41,3.6128,0,3.7554,0,1461,6522,-0.1894,-0.1116,-0.0778
+2026-11-11,2.79,3.04,2.79,2.87,3.00,3.32,3.49,2.39,2.41,3.6128,0,3.6709,0,1403,6516,-0.1955,-0.1284,-0.0672

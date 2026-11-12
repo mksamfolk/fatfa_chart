@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.51,CCG,Cheche Group Inc.,Communication Services,Internet Content & Information,China,23976926,9.57,21140,31331,299837.67,-0.344,,,0.06345,-0.05708,-0.014249999,-0.11229,-0.02414,131956000,155252992,50.952,1.303,1.153,-34229000,-61320376,1974098,668360,0.48150003,0.0051599997,28962,0.91,0.0184,,-16.997435,0.009416597,0.4975388,0.018,-1.097,57.268486,57.268486,57.268486,,none,1,,,,,2026-09-04,0.228,https://www.chechegroup.com,2026-11-10T08:39:55.801292+00:00
+99.63,CCG,Cheche Group Inc.,Communication Services,Internet Content & Information,China,23976926,9.57,21140,31331,299837.67,-0.344,,,0.06345,-0.05708,-0.014249999,-0.11229,-0.02414,131956000,155252992,50.952,1.303,1.153,-34229000,-61320376,1974098,668360,0.48150003,0.0051599997,28962,0.91,0.0184,,-16.997435,0.009416597,0.4975388,0.018,-1.097,57.268486,57.268486,57.268486,,none,1,,,,,2026-09-04,0.228,https://www.chechegroup.com,2026-11-10T08:39:55.801292+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-18,11.47,200.00,11.47,75.00,,,,,,,0,11.4700,1,38858,,,,
 2023-09-19,56.00,84.70,28.11,32.37,,,,,,,0,11.4700,1,15253,,,,
@@ -805,3 +805,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.51,9.07,8.22,8.51,7.92,6.73,10.93,5.23,4.12,9.1996,0,6.4222,1,106,320,-0.3692,-0.8317,0.4625
 2026-11-09,8.61,9.71,8.61,9.57,8.07,6.98,10.84,5.29,4.17,5.9400,1,6.6340,1,120,317,-0.2004,-0.7054,0.5050
 2026-11-10,9.57,12.19,9.57,11.59,8.42,7.34,10.81,5.36,4.22,7.1960,1,6.9416,1,316,319,0.0952,-0.5453,0.6405
+2026-11-11,12.99,14.55,12.48,12.65,8.90,7.73,10.78,5.44,4.28,9.3114,1,7.5714,1,200,321,0.4103,-0.3542,0.7645

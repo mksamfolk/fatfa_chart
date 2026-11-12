@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.62,EXOZ,eXoZymes Inc.,Healthcare,Biotechnology,United States,39777596,4.275,10110,8587,36709.425,,,,0.0,0.0,0.0,-1.87164,-0.74738,5652696,1085035,29.694,3.813,3.63,-6995227,-3252423,9304701,7168922,0.65356004,0.01258,17654,1.92,0.0042,,,,10.850254,,-3.421,,,,,none,,,,,,,,https://www.exozymes.com,2026-11-10T09:37:12.578750+00:00
+14.40,EXOZ,eXoZymes Inc.,Healthcare,Biotechnology,United States,39777596,4.275,10110,8587,36709.425,,,,0.0,0.0,0.0,-1.87164,-0.74738,5652696,1085035,29.694,3.813,3.63,-6995227,-3252423,9304701,7168922,0.65356004,0.01258,17654,1.92,0.0042,,,,10.850254,,-3.421,,,,,none,,,,,,,,https://www.exozymes.com,2026-11-10T09:37:12.578750+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-13,11.10,12.00,8.50,8.65,,,,,,,0,8.5000,1,496,,,,
 2024-11-14,8.93,10.43,8.75,10.36,,,,,,,0,8.5000,1,583,,,,
@@ -513,3 +513,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,4.19,4.59,4.11,4.40,4.21,4.22,5.46,7.33,7.93,5.6090,0,3.6278,1,48,43,-0.3152,-0.4239,0.1086
 2026-11-09,4.30,4.43,3.90,4.28,4.26,4.18,5.45,7.31,7.89,5.6090,0,3.7288,1,112,44,-0.2948,-0.3981,0.1032
 2026-11-10,4.07,4.24,3.82,4.04,4.29,4.15,5.42,7.29,7.86,5.6090,0,4.8900,0,74,46,-0.2942,-0.3773,0.0830
+2026-11-11,4.16,4.16,3.91,4.00,4.26,4.12,5.39,7.27,7.83,5.6090,0,4.8686,0,38,46,-0.2936,-0.3606,0.0669

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-30.98,CTNM,Contineum Therapeutics Inc.,Healthcare,Biotechnology,United States,404437856,10.3,526900,848064,8735059.200000001,,,,0.0,0.0,0.0,-0.29803,-0.20212,244484000,6266000,2.553,31.109,30.454,-51869000,-32552124,35353313,30097638,0.00064000004,0.94728994,3655234,2.9,0.103999995,,-5.013898,,1.6472094,,-2.308,21.42857,30.0,14.0,1.625,buy,7,1,1,0,2,2026-11-03,1.07,https://www.contineum-tx.com,2026-11-10T09:04:13.990218+00:00
+29.70,CTNM,Contineum Therapeutics Inc.,Healthcare,Biotechnology,United States,404437856,10.3,526900,848064,8735059.200000001,,,,0.0,0.0,0.0,-0.29803,-0.20212,244484000,6266000,2.553,31.109,30.454,-51869000,-32552124,35353313,30097638,0.00064000004,0.94728994,3655234,2.9,0.103999995,,-5.013898,,1.6472094,,-2.308,21.42857,30.0,14.0,1.625,buy,7,1,1,0,2,2026-11-03,1.07,https://www.contineum-tx.com,2026-11-10T09:04:13.990218+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-05,14.50,15.99,13.90,15.40,,,,,,,0,13.9000,1,24378,,,,
 2024-04-08,15.69,15.76,15.20,15.25,,,,,,,0,13.9000,1,2699,,,,
@@ -682,3 +682,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.96,9.79,8.59,9.52,9.24,8.67,11.95,13.27,13.49,10.5972,0,7.7652,1,3270,9665,-0.6379,-0.9321,0.2942
 2026-11-09,9.74,10.50,9.32,10.30,9.45,8.76,11.81,13.25,13.48,10.5972,0,7.9696,1,2725,9557,-0.5097,-0.8476,0.3379
 2026-11-10,10.24,10.65,10.01,10.56,9.61,8.87,11.70,13.24,13.46,10.5972,0,8.2225,1,2637,9493,-0.3827,-0.7546,0.3719
+2026-11-11,10.68,10.90,10.57,10.77,9.77,9.00,11.58,13.22,13.45,8.2205,1,8.5138,1,3097,9484,-0.2621,-0.6561,0.3940

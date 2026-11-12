@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.72,NAVN,Navan Inc.,Technology,Software - Application,United States,6791505920,26.08,1913270,3137045,81814133.6,0.354,,,0.72594,-0.11693,-0.42110002,-0.49388,-0.086689994,820044032,170218000,12.938,4.375,3.883,47275000,114024624,245330797,145009583,0.20526,0.67617995,12792453,3.58,0.36110002,,65.157646,8.223426,5.152114,7.437,-38.142,30.8,38.0,26.0,,none,15,4,4,3,3,2026-12-14,,https://navan.com,2026-11-10T11:29:01.214233+00:00
+93.53,NAVN,Navan Inc.,Technology,Software - Application,United States,6791505920,26.08,1913270,3137045,81814133.6,0.354,,,0.72594,-0.11693,-0.42110002,-0.49388,-0.086689994,820044032,170218000,12.938,4.375,3.883,47275000,114024624,245330797,145009583,0.20526,0.67617995,12792453,3.58,0.36110002,,65.157646,8.223426,5.152114,7.437,-38.142,30.8,38.0,26.0,,none,15,4,4,3,3,2026-12-14,,https://navan.com,2026-11-10T11:29:01.214233+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-30,22.00,22.75,19.74,20.00,,,,,,,0,19.7400,1,354846,,,,
 2025-10-31,20.00,21.00,19.75,20.27,,,,,,,0,19.7400,1,64620,,,,
@@ -288,3 +288,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,25.01,25.64,24.72,25.48,26.21,25.79,24.09,22.77,19.75,24.2748,1,24.6300,1,46188,79658,0.5742,0.7173,-0.1432
 2026-11-09,25.01,26.24,24.80,26.08,26.10,25.91,24.04,22.86,19.81,24.2748,1,24.6848,1,52288,79376,0.5532,0.6845,-0.1313
 2026-11-10,25.94,26.16,24.06,24.68,25.86,25.95,23.95,22.94,19.86,24.2748,1,27.3700,0,88263,79108,0.4187,0.6313,-0.2126
+2026-11-11,25.05,26.78,24.81,26.40,25.80,26.07,23.93,23.03,19.92,24.2748,1,27.3038,0,65765,79289,0.4458,0.5942,-0.1484

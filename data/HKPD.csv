@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-26 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.18,HKPD,Cellyan Biotechnology Co. Ltd,Healthcare,Medical Distribution,Hong Kong,3760456,1.525,41990,181363,276578.575,-0.317,,,0.103199996,-0.19319001,-0.08456001,-0.1559,-0.05643,221841,1258164,13.129,3.859,1.694,-751602,-6506908,2108373,816577,0.17336,0.00695,9786,0.15,0.0058999998,,,0.27993107,0.1869789,0.211,-3.08,,,,,none,,,,,,,,https://www.9zt.hk,2026-11-10T10:15:59.233323+00:00
+98.14,HKPD,Cellyan Biotechnology Co. Ltd,Healthcare,Medical Distribution,Hong Kong,3760456,1.525,41990,181363,276578.575,-0.317,,,0.103199996,-0.19319001,-0.08456001,-0.1559,-0.05643,221841,1258164,13.129,3.859,1.694,-751602,-6506908,2108373,816577,0.17336,0.00695,9786,0.15,0.0058999998,,,0.27993107,0.1869789,0.211,-3.08,,,,,none,,,,,,,,https://www.9zt.hk,2026-11-10T10:15:59.233323+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-15,3.50,3.79,2.75,2.82,,,,,,,0,3.7900,0,3696,,,,
 2025-01-16,2.66,3.20,2.53,2.69,,,,,,,0,3.7900,0,964,,,,
@@ -472,3 +472,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.42,1.60,1.36,1.45,1.91,1.29,0.68,0.58,0.62,2.3288,0,1.2924,1,71,629,0.3625,0.4049,-0.0424
 2026-11-09,1.54,1.77,1.43,1.52,1.84,1.36,0.71,0.58,0.62,2.3288,0,1.3400,1,19,629,0.3288,0.3896,-0.0609
 2026-11-10,1.64,1.74,1.57,1.58,1.79,1.44,0.73,0.59,0.63,2.3288,0,1.3600,1,28,629,0.3026,0.3722,-0.0697
+2026-11-11,1.58,1.65,1.58,1.63,1.73,1.51,0.75,0.60,0.63,2.3288,0,1.4310,1,22,630,0.2830,0.3544,-0.0714

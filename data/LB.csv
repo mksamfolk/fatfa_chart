@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-50.71,LB,LandBridge Corporation,Energy,Oil & Gas E&P,United States,5110601728,65.24,542330,308020,20095224.799999997,0.395,0.673,0.598,0.9867,0.68059,0.17114,0.1293,0.071339995,16775000,755545984,87.193,2.785,2.547,170170000,125108752,29654484,29398269,0.01081,0.96711,3897338,16.32,0.1329,49.80153,28.65941,20.816013,4.9619713,12.83,18.234,89.57143,98.0,75.0,2.14286,buy,7,1,1,0,0,2026-11-04,0.196,https://www.landbridgeco.com,2026-11-10T10:53:20.094758+00:00
+68.93,LB,LandBridge Corporation,Energy,Oil & Gas E&P,United States,5110601728,65.24,542330,308020,20095224.799999997,0.395,0.673,0.598,0.9867,0.68059,0.17114,0.1293,0.071339995,16775000,755545984,87.193,2.785,2.547,170170000,125108752,29654484,29398269,0.01081,0.96711,3897338,16.32,0.1329,49.80153,28.65941,20.816013,4.9619713,12.83,18.234,89.57143,98.0,75.0,2.14286,buy,7,1,1,0,0,2026-11-04,0.196,https://www.landbridgeco.com,2026-11-10T10:53:20.094758+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-28,18.77,23.22,18.52,22.86,,,,,,,0,18.5186,1,74159,,,,
 2024-07-01,21.69,23.45,20.74,22.68,,,,,,,0,18.5186,1,19879,,,,
@@ -604,3 +604,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,62.08,66.93,62.08,65.10,76.20,78.93,81.34,74.29,70.44,78.9836,0,83.0295,0,52991,27686,-3.6240,-1.6963,-1.9277
 2026-11-09,65.20,69.27,64.68,65.24,74.76,77.82,81.10,74.24,70.50,78.9836,0,82.1579,0,47169,28229,-4.1158,-2.1802,-1.9356
 2026-11-10,64.01,67.77,63.01,66.24,73.46,76.76,80.93,74.21,70.57,78.9836,0,81.3212,0,37234,28654,-4.3744,-2.6190,-1.7553
+2026-11-11,67.39,73.06,67.00,72.90,72.54,76.27,80.91,74.22,70.67,78.9836,0,80.5180,0,47888,29224,-3.9958,-2.8944,-1.1014

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.98,FRMI,Fermi Inc.,Real Estate,REIT - Specialty,United States,1064491072,1.66,25148870,20905642,34703365.72,,,,0.0,0.0,0.0,,,62536000,576387968,55.87,1.102,0.411,-87549000,,641259703,349464604,0.43862998,0.28573,63402170,2.99,0.16479999,,7.465371,,1.0265925,,,16.625,35.0,6.0,1.625,buy,8,0,0,1,1,2026-11-12,,https://www.fermiamerica.com,2026-11-10T09:50:22.943769+00:00
+3.58,FRMI,Fermi Inc.,Real Estate,REIT - Specialty,United States,1064491072,1.66,25148870,20905642,34703365.72,,,,0.0,0.0,0.0,,,62536000,576387968,55.87,1.102,0.411,-87549000,,641259703,349464604,0.43862998,0.28573,63402170,2.99,0.16479999,,7.465371,,1.0265925,,,16.625,35.0,6.0,1.625,buy,8,0,0,1,1,2026-11-12,,https://www.fermiamerica.com,2026-11-10T09:50:22.943769+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-01,25.13,33.46,24.50,32.53,,,,,,,0,24.5000,1,1338496,,,,
 2025-10-02,36.09,36.99,27.39,28.78,,,,,,,0,24.5000,1,680233,,,,
@@ -308,4 +308,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-05,1.77,1.80,1.44,1.53,2.38,2.77,3.95,5.60,6.31,2.5520,0,2.9022,0,63629,77480,-0.6027,-0.5436,-0.0592
 2026-11-06,1.60,1.62,1.44,1.57,2.28,2.68,3.88,5.57,6.27,2.4228,0,2.7852,0,45110,76629,-0.6241,-0.5597,-0.0644
 2026-11-09,1.59,1.72,1.46,1.66,2.19,2.60,3.81,5.55,6.23,2.4228,0,2.6776,0,38452,75545,-0.6266,-0.5731,-0.0535
-2026-11-10,1.60,1.65,1.50,1.54,2.08,2.49,3.74,5.53,6.20,2.4150,0,2.5786,0,30052,74505,-0.6309,-0.5846,-0.0463
+2026-11-10,1.60,1.65,1.50,1.54,2.08,2.49,3.74,5.53,6.20,2.4150,0,2.5786,0,30129,74507,-0.6309,-0.5846,-0.0463
+2026-11-11,1.66,1.95,1.63,1.81,1.96,2.42,3.68,5.51,6.16,2.4150,0,2.4875,0,53634,74058,-0.6056,-0.5888,-0.0168

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.82,LGCY,Legacy Education Inc.,Consumer Defensive,Education & Training Services,United States,110596408,8.63,57700,52312,451452.56000000006,0.12,0.664,0.533,0.46386,0.12998,0.11416,0.19485001,0.09992,22731160,15617491,29.598,3.705,3.524,4026948,1149451,12815343,8864070,0.24766001,0.55889,105491,1.47,0.01,13.075757,17.26,1.3814847,2.093136,1.292,8.307,15.2,16.0,14.5,1.25,strong_buy,4,0,0,0,0,2026-11-12,1.16,https://www.legacyed.com,2026-11-10T10:56:25.964822+00:00
+31.85,LGCY,Legacy Education Inc.,Consumer Defensive,Education & Training Services,United States,110596408,8.63,57700,52312,451452.56000000006,0.12,0.664,0.533,0.46386,0.12998,0.11416,0.19485001,0.09992,22731160,15617491,29.598,3.705,3.524,4026948,1149451,12815343,8864070,0.24766001,0.55889,105491,1.47,0.01,13.075757,17.26,1.3814847,2.093136,1.292,8.307,15.2,16.0,14.5,1.25,strong_buy,4,0,0,0,0,2026-11-12,1.16,https://www.legacyed.com,2026-11-10T10:56:25.964822+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-26,4.00,4.41,3.60,4.02,,,,,,,0,3.6000,1,3537,,,,
 2024-09-27,4.54,4.79,4.12,4.39,,,,,,,0,3.6000,1,1224,,,,
@@ -547,3 +547,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.84,8.87,8.62,8.62,9.61,9.95,10.31,11.40,11.42,9.8638,0,10.2271,0,338,429,-0.3880,-0.2481,-0.1400
 2026-11-09,8.64,8.79,8.52,8.63,9.43,9.86,10.25,11.37,11.41,9.7461,0,10.0664,0,351,425,-0.4300,-0.2845,-0.1455
 2026-11-10,8.66,8.72,8.59,8.59,9.26,9.77,10.20,11.33,11.40,9.6742,0,9.8808,0,100,402,-0.4611,-0.3198,-0.1413
+2026-11-11,8.66,8.75,8.42,8.60,9.10,9.69,10.16,11.30,11.39,9.6013,0,9.7175,0,435,381,-0.4795,-0.3517,-0.1277

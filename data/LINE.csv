@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-42.82,LINE,Lineage Inc.,Real Estate,REIT - Industrial,United States,9865013248,39.66,996280,943632,37424445.12,-0.012,,,0.31447,0.02131,-0.04164,-0.027780002,0.00612,59000000,8560000000,99.373,1.048,0.731,747000000,906625024,227710012,57607192,0.68463,0.33006,7127881,6.5,0.0995,,-59.639095,1.8422061,1.1801815,3.452,16.402,42.75,55.0,35.0,2.57143,hold,20,0,1,0,1,2026-11-09,,https://www.onelineage.com/,2026-11-10T10:58:15.542737+00:00
+43.11,LINE,Lineage Inc.,Real Estate,REIT - Industrial,United States,9865013248,39.66,996280,943632,37424445.12,-0.012,,,0.31447,0.02131,-0.04164,-0.027780002,0.00612,59000000,8560000000,99.373,1.048,0.731,747000000,906625024,227710012,57607192,0.68463,0.33006,7127881,6.5,0.0995,,-59.639095,1.8422061,1.1801815,3.452,16.402,42.75,55.0,35.0,2.57143,hold,20,0,1,0,1,2026-11-09,,https://www.onelineage.com/,2026-11-10T10:58:15.542737+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-25,74.77,74.95,73.08,73.66,,,,,,,0,73.0828,1,1150550,,,,
 2024-07-26,73.09,75.65,73.08,75.57,,,,,,,0,73.0828,1,399266,,,,
@@ -606,3 +606,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,38.83,39.54,38.61,39.13,36.93,35.59,36.25,39.10,38.34,36.0696,1,35.9152,1,48862,36624,0.7148,0.1056,0.6092
 2026-11-09,39.44,40.12,39.32,39.66,37.33,35.85,36.25,39.15,38.36,36.5998,1,36.5192,1,63587,37453,0.8732,0.2591,0.6141
 2026-11-10,36.60,37.03,34.35,34.88,37.28,35.87,36.17,39.15,38.36,40.0922,0,40.1200,0,123329,38698,0.6061,0.3285,0.2776
+2026-11-11,34.62,35.68,34.36,35.40,37.28,35.95,36.10,39.16,38.36,39.3757,0,40.1200,0,42183,39002,0.4313,0.3491,0.0823

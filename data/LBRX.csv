@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.77,LBRX,LB Pharmaceuticals Inc,Healthcare,Biotechnology,United States,1460220288,45.12,345670,359265,16210036.799999999,,,,0.0,0.0,0.0,-0.38797,-0.24106,403760000,5157000,1.235,14.781,13.347,-143314000,-98006000,32363040,26545460,0.00239,1.032,5564315,12.64,0.2029,,-7.8428645,,3.4863234,,-7.13,58.0,80.0,35.0,1.36364,strong_buy,11,0,0,0,0,2026-11-12,,https://lbpharma.us,2026-11-10T10:53:32.446570+00:00
+94.37,LBRX,LB Pharmaceuticals Inc,Healthcare,Biotechnology,United States,1460220288,45.12,345670,359265,16210036.799999999,,,,0.0,0.0,0.0,-0.38797,-0.24106,403760000,5157000,1.235,14.781,13.347,-143314000,-98006000,32363040,26545460,0.00239,1.032,5564315,12.64,0.2029,,-7.8428645,,3.4863234,,-7.13,58.0,80.0,35.0,1.36364,strong_buy,11,0,0,0,0,2026-11-12,,https://lbpharma.us,2026-11-10T10:53:32.446570+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-11,19.00,20.25,16.50,17.30,,,,,,,0,20.2500,0,69885,,,,
 2025-09-12,17.60,18.21,15.79,16.80,,,,,,,0,20.2500,0,7691,,,,
@@ -323,3 +323,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,38.53,42.29,38.04,42.01,39.90,38.72,40.57,36.08,33.04,33.4707,1,37.9850,1,20173,15027,0.3423,-0.0243,0.3666
 2026-11-09,43.05,45.78,41.54,45.12,40.48,39.18,40.52,36.21,33.14,35.2911,1,37.9850,1,21310,15233,0.7507,0.1307,0.6199
 2026-11-10,44.38,45.68,43.40,44.94,41.01,39.68,40.47,36.34,33.25,36.3240,1,38.0400,1,16983,15207,1.0477,0.3141,0.7336
+2026-11-11,45.21,45.46,44.30,44.71,41.49,40.22,40.42,36.46,33.37,37.1382,1,38.3496,1,15282,15323,1.2501,0.5013,0.7488

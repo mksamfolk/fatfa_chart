@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.19,HVMC,Highview Merger Corp.,Financial Services,Shell Companies,United States,302923008,10.3,19630,42018,432785.4,,,,0.0,0.0,0.0,,,646331,0,,6.11,5.323,-760290,,23660000,21859865,0.00148,0.88291,3916,0.14,0.0002,,,,-34.448162,,,,,,,none,,,,,,,,https://www.highviewmerger.com,2026-11-10T10:22:39.553657+00:00
+55.98,HVMC,Highview Merger Corp.,Financial Services,Shell Companies,United States,302923008,10.3,19630,42018,432785.4,,,,0.0,0.0,0.0,,,646331,0,,6.11,5.323,-760290,,23660000,21859865,0.00148,0.88291,3916,0.14,0.0002,,,,-34.448162,,,,,,,none,,,,,,,,https://www.highviewmerger.com,2026-11-10T10:22:39.553657+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-03,9.97,9.97,9.95,9.95,,,,,,,0,9.9700,0,92,,,,
 2025-10-06,9.95,9.97,9.95,9.95,,,,,,,0,9.9700,0,318,,,,
@@ -292,3 +292,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.30,10.30,10.30,10.30,10.30,10.29,10.26,10.17,10.15,10.2852,1,10.2997,1,,423,0.0097,0.0110,-0.0013
 2026-11-09,10.30,10.30,10.30,10.30,10.30,10.29,10.27,10.18,10.15,10.2852,1,10.3000,1,,423,0.0094,0.0107,-0.0013
 2026-11-10,10.30,10.30,10.30,10.30,10.30,10.29,10.27,10.18,10.15,10.2852,1,10.3000,1,,423,0.0090,0.0103,-0.0013
+2026-11-11,10.30,10.30,10.30,10.30,10.30,10.29,10.27,10.18,10.15,10.2852,1,10.3000,1,,423,0.0086,0.0100,-0.0014

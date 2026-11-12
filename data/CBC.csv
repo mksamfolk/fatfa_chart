@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-90.19,CBC,Central Bancompany Inc.,Financial Services,Banks - Regional,United States,9223388160,38.53,1100750,1133565,43676259.45,0.115,0.103,0.197,0.0,0.53491,0.40783,0.12597999,0.022769999,188916000,932323008,,,,,,239382000,79594515,0.66962,0.34991002,8822356,5.97,0.1191,20.827026,18.72206,8.383397,2.402719,9.059,,36.3,40.0,32.0,2.8,hold,5,1,1,2,1,2027-01-26,0.057,https://www.centralbank.net,2026-11-10T08:38:03.652864+00:00
+89.83,CBC,Central Bancompany Inc.,Financial Services,Banks - Regional,United States,9223388160,38.53,1100750,1133565,43676259.45,0.115,0.103,0.197,0.0,0.53491,0.40783,0.12597999,0.022769999,188916000,932323008,,,,,,239382000,79594515,0.66962,0.34991002,8822356,5.97,0.1191,20.827026,18.72206,8.383397,2.402719,9.059,,36.3,40.0,32.0,2.8,hold,5,1,1,2,1,2027-01-26,0.057,https://www.centralbank.net,2026-11-10T08:38:03.652864+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-21,22.51,24.16,22.26,23.27,,,,,,,0,22.2643,1,25533,,,,
 2025-11-24,23.38,24.37,22.91,24.12,,,,,,,0,22.2643,1,10229,,,,
@@ -272,3 +272,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,37.24,37.86,37.24,37.75,36.33,34.79,33.12,30.49,28.87,34.9793,1,36.5619,1,36497,40483,1.3555,1.0414,0.3140
 2026-11-09,38.26,38.77,38.11,38.53,36.70,35.09,33.24,30.59,28.94,35.5624,1,37.0015,1,47673,41054,1.4446,1.1221,0.3225
 2026-11-10,38.48,38.63,38.17,38.57,37.09,35.40,33.37,30.68,29.01,35.6731,1,37.2400,1,18895,41002,1.5011,1.1979,0.3033
+2026-11-11,38.51,38.51,38.22,38.42,37.41,35.69,33.51,30.77,29.08,35.8036,1,37.5460,1,21388,41027,1.5164,1.2616,0.2548

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-03 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.78,TOP,TOP Financial Group Limited,Financial Services,Capital Markets,United States,1954562816,15.8,237940,139876,2210040.8000000003,0.439,-0.813,1.623,0.70658994,0.124139994,-0.2335,-0.015829999,-0.01023,10176804,1911036,1.629,3.219,2.664,307108,,121706506,100878944,0.17113,0.00067000004,255710,2.16,0.0022,,,380.15448,16.701902,378.605,,,,,,none,,,,,,,-0.772,https://www.zyfgl.com,2026-11-10T13:20:46.922507+00:00
+97.82,TOP,TOP Financial Group Limited,Financial Services,Capital Markets,United States,1954562816,15.8,237940,139876,2210040.8000000003,0.439,-0.813,1.623,0.70658994,0.124139994,-0.2335,-0.015829999,-0.01023,10176804,1911036,1.629,3.219,2.664,307108,,121706506,100878944,0.17113,0.00067000004,255710,2.16,0.0022,,,380.15448,16.701902,378.605,,,,,,none,,,,,,,-0.772,https://www.zyfgl.com,2026-11-10T13:20:46.922507+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-01,125.00,137.50,63.00,84.95,,,,,,,0,63.0000,1,19907,,,,
 2022-06-02,81.15,94.15,66.70,80.95,,,,,,,0,63.0000,1,8354,,,,
@@ -1130,3 +1130,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,12.99,13.67,11.17,13.25,12.94,13.90,14.04,8.89,7.94,14.4754,0,15.0441,0,1847,2057,-0.6791,-0.3422,-0.3370
 2026-11-09,13.97,16.20,13.47,15.80,13.00,13.93,14.13,8.96,8.00,9.3692,1,6.3400,1,6590,2170,-0.3991,-0.3536,-0.0455
 2026-11-10,15.31,16.03,14.00,14.69,12.92,13.91,14.19,9.03,8.04,9.4870,1,6.5372,1,4395,2229,-0.2636,-0.3356,0.0719
+2026-11-11,14.63,15.54,14.12,14.61,12.82,13.89,14.25,9.10,8.09,9.4870,1,6.7305,1,1378,2232,-0.1609,-0.3006,0.1397

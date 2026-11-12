@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-04-18 09:30:00-04:00,0.0125\n2025-12-15 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.60,BENF,Beneficient,Financial Services,Asset Management,United States,10516855,0.679,339550,9765459,6630746.661,,,,0.0,0.34467998,0.0,,-0.10705,5582000,97784000,,0.059,0.059,-31986000,-197497120,15458833,3944455,0.74439,0.040939998,516945,0.02,0.2215,,0.112790704,-0.73354644,-0.047756366,-15.312,-4.372,9.0,9.0,9.0,,none,1,1,1,0,0,,1.348,https://www.trustben.com,2026-11-10T08:17:20.030124+00:00
+2.42,BENF,Beneficient,Financial Services,Asset Management,United States,10516855,0.679,339550,9765459,6630746.661,,,,0.0,0.34467998,0.0,,-0.10705,5582000,97784000,,0.059,0.059,-31986000,-197497120,15458833,3944455,0.74439,0.040939998,516945,0.02,0.2215,,0.112790704,-0.73354644,-0.047756366,-15.312,-4.372,9.0,9.0,9.0,,none,1,1,1,0,0,,1.348,https://www.trustben.com,2026-11-10T08:17:20.030124+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-03,6316.80,6316.80,6316.80,6316.80,,,,,,,0,6316.7998,0,13474,,,,
 2021-12-06,6310.40,6310.40,6304.00,6310.40,,,,,,,0,6316.7998,0,11409,,,,
@@ -1253,3 +1253,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.73,0.73,0.69,0.71,0.76,0.85,1.55,2.81,3.25,1.0881,0,0.8470,0,46,581,-0.2357,-0.2767,0.0410
 2026-11-09,0.73,0.75,0.68,0.68,0.75,0.83,1.51,2.79,3.22,1.0770,0,0.8096,0,70,580,-0.2278,-0.2669,0.0391
 2026-11-10,0.71,0.75,0.68,0.70,0.74,0.82,1.46,2.77,3.19,1.0609,0,0.7797,0,90,582,-0.2170,-0.2569,0.0399
+2026-11-11,0.69,0.72,0.65,0.68,0.73,0.82,1.42,2.75,3.16,1.0189,0,0.7558,0,64,581,-0.2080,-0.2471,0.0392

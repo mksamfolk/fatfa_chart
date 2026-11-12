@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.07,MPLT,MapLight Therapeutics Inc.,Healthcare,Biotechnology,United States,404591264,7.28,347940,482290,3511071.2,,,,0.0,0.0,0.0,-1.1155,-0.67112,304724992,1987000,0.57,16.523,15.794,-174668000,-95213000,52848208,15801391,0.52194,0.49106,3322654,6.85,0.1031,,-2.1293712,,0.94964784,,-0.144,26.53846,43.0,13.0,,none,13,0,4,0,0,2026-11-12,,https://www.maplightrx.com,2026-11-10T11:20:45.933218+00:00
+12.52,MPLT,MapLight Therapeutics Inc.,Healthcare,Biotechnology,United States,404591264,7.28,347940,482290,3511071.2,,,,0.0,0.0,0.0,-1.1155,-0.67112,304724992,1987000,0.57,16.523,15.794,-174668000,-95213000,52848208,15801391,0.52194,0.49106,3322654,6.85,0.1031,,-2.1293712,,0.94964784,,-0.144,26.53846,43.0,13.0,,none,13,0,4,0,0,2026-11-12,,https://www.maplightrx.com,2026-11-10T11:20:45.933218+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-27,19.00,20.86,18.00,18.34,,,,,,,0,20.8560,0,60293,,,,
 2025-10-28,17.75,19.39,16.75,16.75,,,,,,,0,20.8560,0,11001,,,,
@@ -291,3 +291,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,6.24,6.93,6.06,6.93,7.26,7.66,9.91,20.92,20.24,8.1966,0,7.7537,0,3477,4649,-0.9193,-0.9419,0.0226
 2026-11-09,7.08,7.62,6.85,7.28,7.22,7.59,9.81,20.81,20.19,8.1966,0,6.0600,1,3340,4621,-0.8512,-0.9238,0.0726
 2026-11-10,7.25,7.68,7.10,7.44,7.14,7.57,9.70,20.70,20.14,8.1966,0,6.0600,1,3426,4575,-0.7754,-0.8941,0.1187
+2026-11-11,7.48,7.80,7.41,7.48,7.09,7.55,9.58,20.55,20.08,8.1966,0,6.1248,1,2183,4464,-0.7039,-0.8561,0.1522

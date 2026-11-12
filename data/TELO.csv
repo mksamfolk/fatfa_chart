@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.13,TELO,Telomir Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,50836236,0.69,114960,93615,64594.35,,,,0.0,0.0,0.0,-2.13102,-1.22814,5170286,136898,2.72,16.142,15.553,-4914453,-3069583,73675706,39218919,0.42975,0.04131,769992,5.45,0.015700001,,-2.4642856,,9.452055,,,4.0,4.0,4.0,,none,1,0,0,0,0,,-0.186,https://telomirpharma.com,2026-11-10T13:13:47.752151+00:00
+9.79,TELO,Telomir Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,50836236,0.69,114960,93615,64594.35,,,,0.0,0.0,0.0,-2.13102,-1.22814,5170286,136898,2.72,16.142,15.553,-4914453,-3069583,73675706,39218919,0.42975,0.04131,769992,5.45,0.015700001,,-2.4642856,,9.452055,,,4.0,4.0,4.0,,none,1,0,0,0,0,,-0.186,https://telomirpharma.com,2026-11-10T13:13:47.752151+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-09,7.00,7.03,4.77,5.00,,,,,,,0,4.7700,1,1684,,,,
 2024-02-12,5.17,7.00,5.01,6.25,,,,,,,0,4.7700,1,506,,,,
@@ -705,3 +705,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.77,0.85,0.69,0.71,0.91,0.98,1.08,1.21,1.22,1.0295,0,0.9300,0,109,99,-0.0818,-0.0570,-0.0248
 2026-11-09,0.71,0.73,0.67,0.69,0.88,0.96,1.07,1.20,1.22,0.9502,0,0.8826,0,118,101,-0.0926,-0.0641,-0.0285
 2026-11-10,0.69,0.70,0.55,0.57,0.84,0.93,1.06,1.20,1.22,0.8934,0,0.8500,0,247,105,-0.1095,-0.0732,-0.0363
+2026-11-11,0.59,0.71,0.57,0.60,0.79,0.91,1.05,1.19,1.21,0.8934,0,0.7890,0,192,109,-0.1196,-0.0825,-0.0371

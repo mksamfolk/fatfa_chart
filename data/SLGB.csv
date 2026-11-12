@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.82,SLGB,Smart Logistics Global Limited,Industrials,Integrated Freight & Logistics,Hong Kong,8543250,0.18985,39598760,8160687,1549306.42695,-0.221,,,0.04671,-0.077589996,-0.02894,-0.14713,-0.0476,20982390,35005804,25.699,2.33,1.37,-40659808,-5989393,45000000,4777730,1.6,0.02071,140324,0.04,0.028099999,,,0.013592905,0.40020704,0.035,-1.78,,,,,none,,,,,,,,https://www.smartlogisticsglobal.com,2026-11-10T12:50:47.903851+00:00
+3.30,SLGB,Smart Logistics Global Limited,Industrials,Integrated Freight & Logistics,Hong Kong,8543250,0.18985,39598760,8160687,1549306.42695,-0.221,,,0.04671,-0.077589996,-0.02894,-0.14713,-0.0476,20982390,35005804,25.699,2.33,1.37,-40659808,-5989393,45000000,4777730,1.6,0.02071,140324,0.04,0.028099999,,,0.013592905,0.40020704,0.035,-1.78,,,,,none,,,,,,,,https://www.smartlogisticsglobal.com,2026-11-10T12:50:47.903851+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-15,5.40,5.46,5.10,5.28,,,,,,,0,5.1000,1,12268,,,,
 2025-10-16,4.74,5.50,3.05,3.52,,,,,,,0,5.5000,0,4587,,,,
@@ -284,3 +284,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.20,0.20,0.19,0.20,0.24,0.23,0.37,0.58,0.80,0.1893,1,0.4112,0,50,3881,-0.0363,-0.0438,0.0076
 2026-11-09,0.20,0.20,0.15,0.19,0.24,0.23,0.37,0.57,0.80,0.1893,1,0.4064,0,139,2718,-0.0375,-0.0426,0.0051
 2026-11-10,0.20,0.21,0.17,0.18,0.23,0.23,0.36,0.57,0.79,0.3539,0,0.3963,0,103,2671,-0.0391,-0.0419,0.0028
+2026-11-11,0.18,0.20,0.18,0.20,0.23,0.23,0.35,0.56,0.78,0.3481,0,0.3866,0,161,2664,-0.0382,-0.0411,0.0029

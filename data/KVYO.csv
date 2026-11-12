@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-71.37,KVYO,Klaviyo Inc.,Technology,Software - Application,United States,5862128640,20.82,5073370,5868698,122186292.36,0.246,,,0.73543,-0.00565,0.0054,0.00789,-0.00694,705438976,134334000,15.516,2.804,2.477,273967008,260491376,130150680,128750029,0.01978,1.02852,20161862,3.4,0.1555,694.0,19.05459,3.99877,4.3447413,3.609,-1607.725,27.075,38.0,22.5,1.43478,strong_buy,20,0,0,1,1,2026-11-04,0.498,https://www.klaviyo.com,2026-11-10T10:51:16.115311+00:00
+76.22,KVYO,Klaviyo Inc.,Technology,Software - Application,United States,5862128640,20.82,5073370,5868698,122186292.36,0.246,,,0.73543,-0.00565,0.0054,0.00789,-0.00694,705438976,134334000,15.516,2.804,2.477,273967008,260491376,130150680,128750029,0.01978,1.02852,20161862,3.4,0.1555,694.0,19.05459,3.99877,4.3447413,3.609,-1607.725,27.075,38.0,22.5,1.43478,strong_buy,20,0,0,1,1,2026-11-04,0.498,https://www.klaviyo.com,2026-11-10T10:51:16.115311+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-20,36.75,39.47,30.26,32.76,,,,,,,0,30.2600,1,559669,,,,
 2023-09-21,32.06,34.87,31.30,33.72,,,,,,,0,30.2600,1,173695,,,,
@@ -818,3 +818,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,20.40,20.85,20.08,20.71,20.80,19.66,18.10,17.34,17.93,18.3467,1,19.9753,1,77070,106405,1.0066,0.9692,0.0373
 2026-11-09,20.75,21.26,20.65,20.82,20.81,19.85,18.12,17.36,17.91,18.3467,1,20.0800,1,119988,106370,0.9587,0.9671,-0.0085
 2026-11-10,19.77,20.59,19.00,20.43,20.84,20.02,18.11,17.37,17.88,18.3467,1,22.2000,0,146922,106377,0.8791,0.9495,-0.0704
+2026-11-11,20.44,21.29,20.25,21.23,20.91,20.23,18.13,17.40,17.86,18.3467,1,22.1360,0,70823,103368,0.8706,0.9337,-0.0632

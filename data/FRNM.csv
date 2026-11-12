@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-44.05,FRNM,Freenome Inc.,Healthcare,Diagnostics & Research,United States,1135712768,10.57,815440,868335,9178300.950000001,1.065,,,0.0,-28.67502,0.0,,,102024000,311452992,,1.053,0.982,-108133000,,107446814,49784407,0.25952998,0.46668997,4483175,4.91,,,-4.404166,32.073223,-0.19972035,76.496,-13.149,18.0,21.0,17.0,,none,5,0,0,0,0,,0.596,https://www.freenome.com,2026-11-10T09:50:31.773575+00:00
+47.27,FRNM,Freenome Inc.,Healthcare,Diagnostics & Research,United States,1135712768,10.57,815440,868335,9178300.950000001,1.065,,,0.0,-28.67502,0.0,,,102024000,311452992,,1.053,0.982,-108133000,,107446814,49784407,0.25952998,0.46668997,4483175,4.91,,,-4.404166,32.073223,-0.19972035,76.496,-13.149,18.0,21.0,17.0,,none,5,0,0,0,0,,0.596,https://www.freenome.com,2026-11-10T09:50:31.773575+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-12,10.06,10.12,10.05,10.05,,,,,,,0,10.1200,0,19202,,,,
 2024-06-13,10.06,10.09,10.04,10.08,,,,,,,0,10.1200,0,1049,,,,
@@ -635,3 +635,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,10.61,10.61,9.71,10.18,11.96,12.41,14.44,12.45,12.45,13.3092,0,13.4608,0,25014,12558,-0.9894,-0.7504,-0.2390
 2026-11-09,10.29,11.01,10.00,10.57,11.74,12.28,14.36,12.45,12.43,13.3092,0,13.0107,0,11151,12274,-1.0199,-0.8043,-0.2156
 2026-11-10,10.47,10.82,10.05,10.77,11.51,12.18,14.28,12.45,12.42,13.3092,0,12.6146,0,7576,12198,-1.0162,-0.8467,-0.1695
+2026-11-11,11.06,11.67,10.93,11.56,11.33,12.15,14.20,12.45,12.41,13.3092,0,12.2661,0,12425,11853,-0.9388,-0.8651,-0.0736

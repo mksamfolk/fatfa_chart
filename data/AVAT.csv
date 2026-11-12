@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-90.30,AVAT,Avalanche Treasury Corporation,Financial Services,Asset Management,United States,34855080,0.9193,272670,1145881,1053408.4033000001,,,,1.0,-24.374432,0.0,,,3370858,23000000,27.457,0.21,0.079,-3500238,,37914805,25546730,0.40291,0.34366,611087,0.27,,,,7.6967807,0.44027779,13.21,,,,,,none,,,,,,,,https://www.avat.com,2026-11-10T08:07:50.683694+00:00
+92.42,AVAT,Avalanche Treasury Corporation,Financial Services,Asset Management,United States,34855080,0.9193,272670,1145881,1053408.4033000001,,,,1.0,-24.374432,0.0,,,3370858,23000000,27.457,0.21,0.079,-3500238,,37914805,25546730,0.40291,0.34366,611087,0.27,,,,7.6967807,0.44027779,13.21,,,,,,none,,,,,,,,https://www.avat.com,2026-11-10T08:07:50.683694+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-03,9.94,9.98,9.94,9.95,,,,,,,0,9.9400,1,2011,,,,
 2025-02-04,9.96,9.96,9.96,9.96,,,,,,,0,9.9400,1,2316,,,,
@@ -460,3 +460,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.80,0.83,0.72,0.82,0.98,1.13,0.91,4.61,6.07,1.2348,0,1.0400,0,178,583,-0.0540,0.0080,-0.0620
 2026-11-09,0.90,1.02,0.85,0.92,0.96,1.11,0.92,4.55,6.03,1.2348,0,0.7230,1,457,592,-0.0557,-0.0047,-0.0510
 2026-11-10,0.91,1.19,0.89,1.05,0.96,1.09,0.93,4.48,5.98,1.2348,0,0.7230,1,1509,621,-0.0459,-0.0130,-0.0330
+2026-11-11,1.05,1.20,1.05,1.14,0.95,1.09,0.95,4.42,5.93,1.2348,0,0.7417,1,735,635,-0.0302,-0.0164,-0.0138

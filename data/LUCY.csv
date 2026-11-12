@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-07-18 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.83,LUCY,Lucyd Inc,Healthcare,Medical Instruments & Supplies,United States,7276482,0.8352,104410,3507001,2929047.2352,0.511,,,0.22740999,-2.3159199,-2.16791,-0.92353,-0.57486,4496932,0,,9.121,5.955,-7252814,-5505990,8712263,7757225,0.17033,0.08989,145869,0.83,0.0182,,-1.9885715,1.9385414,0.7754875,0.741,-0.316,,,,,none,,,,,,2026-11-09,,https://lucyd.co,2026-11-10T11:04:12.321836+00:00
+35.63,LUCY,Lucyd Inc,Healthcare,Medical Instruments & Supplies,United States,7276482,0.8352,104410,3507001,2929047.2352,0.511,,,0.22740999,-2.3159199,-2.16791,-0.92353,-0.57486,4496932,0,,9.121,5.955,-7252814,-5505990,8712263,7757225,0.17033,0.08989,145869,0.83,0.0182,,-1.9885715,1.9385414,0.7754875,0.741,-0.316,,,,,none,,,,,,2026-11-09,,https://lucyd.co,2026-11-10T11:04:12.321836+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-15,130.00,140.00,101.20,117.80,,,,,,,0,101.2000,1,21817,,,,
 2022-08-16,108.80,117.80,105.00,110.80,,,,,,,0,101.2000,1,7288,,,,
@@ -1079,3 +1079,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.81,0.83,0.80,0.82,0.83,0.84,0.85,0.92,0.99,0.9729,0,0.8939,0,48,4897,-0.0077,-0.0065,-0.0013
 2026-11-09,0.83,0.86,0.81,0.83,0.84,0.83,0.85,0.92,0.99,0.9729,0,0.8783,0,467,4906,-0.0072,-0.0066,-0.0006
 2026-11-10,0.84,0.86,0.83,0.86,0.84,0.83,0.85,0.92,0.99,0.9729,0,0.8643,0,56,4905,-0.0048,-0.0062,0.0015
+2026-11-11,0.85,0.86,0.83,0.84,0.84,0.84,0.85,0.91,0.99,0.9729,0,0.8620,0,48,4905,-0.0040,-0.0058,0.0018

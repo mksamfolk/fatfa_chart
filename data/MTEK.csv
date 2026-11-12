@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.26,MTEK,Maris-Tech Ltd.,Technology,Electronic Components,Israel,2966107,0.2809,241000,904943,254198.4887,1.938,,,0.15823,-1.00755,-2.15272,-1.744,-0.39658,2363403,2529536,79.463,1.69,0.87,-4856663,-3488895,10559300,4991276,0.4286,0.060850002,217402,0.09,0.0547,,,1.0938014,0.9332226,1.155,-0.636,,,,,none,,,,,,,0.843,https://www.maris-tech.com,2026-11-10T11:24:25.286058+00:00
+3.18,MTEK,Maris-Tech Ltd.,Technology,Electronic Components,Israel,2966107,0.2809,241000,904943,254198.4887,1.938,,,0.15823,-1.00755,-2.15272,-1.744,-0.39658,2363403,2529536,79.463,1.69,0.87,-4856663,-3488895,10559300,4991276,0.4286,0.060850002,217402,0.09,0.0547,,,1.0938014,0.9332226,1.155,-0.636,,,,,none,,,,,,,0.843,https://www.maris-tech.com,2026-11-10T11:24:25.286058+00:00
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-02,3.00,3.48,2.71,3.15,,,,,,,0,2.7100,1,24126,,,,
 2022-02-03,2.85,3.83,2.57,2.59,,,,,,,0,3.8300,0,27059,,,,
@@ -1212,3 +1212,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.26,0.28,0.24,0.27,0.34,0.39,0.79,1.09,1.22,0.4337,0,0.3640,0,30,91,-0.1389,-0.1474,0.0085
 2026-11-09,0.27,0.30,0.26,0.28,0.32,0.38,0.77,1.08,1.21,0.4337,0,0.3455,0,538,100,-0.1340,-0.1447,0.0107
 2026-11-10,0.29,0.29,0.26,0.27,0.31,0.37,0.75,1.07,1.21,0.4337,0,0.3293,0,38,99,-0.1297,-0.1417,0.0120
+2026-11-11,0.27,0.28,0.25,0.28,0.30,0.36,0.73,1.06,1.21,0.4202,0,0.3149,0,1510,126,-0.1241,-0.1382,0.0141
