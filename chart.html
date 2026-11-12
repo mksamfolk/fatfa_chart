@@ -317,6 +317,8 @@
             <p class="mt-3 text-sm text-gray-600">Largest buyback percentage first: absolute repurchases in the first cashflow period divided by (shares outstanding × current price). Missing or invalid figures sort last.</p>
             <button id="consecutiveMa50UpDaysSortBtn" class="mt-4 w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Consecutive ma50 UP Days</button>
             <p class="mt-3 text-sm text-gray-600">Longest strictly increasing ma50 streak ending at the latest day first, including the starting day (100, 101, 102 counts as 3). Equal, decreasing, or missing values break the streak. Missing or invalid latest values sort last.</p>
+            <button id="volumeWeightedConsecutive50SortBtn" class="mt-4 w-full text-left border border-blue-200 bg-blue-50 text-blue-700 rounded p-4 font-medium">Volume Weighted Consecutive 50</button>
+            <p class="mt-3 text-sm text-gray-600">Combines the descending ranks of the latest non-decreasing ma50 streak and latest Vo50. Score = α × streak rank + β × volume rank, with α = 1 and β = 1. Lowest score first. Ranks start at 1; ties keep original list order. Missing values rank last in each intermediate sorting.</p>
             <button id="backToSortingBtn" class="mt-4 border rounded px-3 py-2 text-sm">← Back to sorting</button>
         </div>
     </div>
@@ -1252,15 +1254,42 @@
         return count;
     }
 
+    function volumeWeightedConsecutive50Scores(indices, alpha = 1, beta = 1) {
+        const values = indices.map(index => {
+            const file = uploadedFiles[index];
+            const volume = sortFieldValues(file, 'price').vo50;
+            return {
+                index,
+                streak: consecutiveMa50UpDays(file),
+                volume: typeof volume === 'number' && Number.isFinite(volume) ? volume : null
+            };
+        });
+        const ranks = field => new Map([...values].sort((a, b) => {
+            if (a[field] === null && b[field] === null) return a.index - b.index;
+            if (a[field] === null) return 1;
+            if (b[field] === null) return -1;
+            return b[field] - a[field] || a.index - b.index;
+        }).map((item, position) => [item.index, position + 1]));
+        const p1 = ranks('streak');
+        const p2 = ranks('volume');
+        return new Map(indices.map(index => [index, alpha * p1.get(index) + beta * p2.get(index)]));
+    }
+
     function sortStockIndices(indices) {
         if (!sortRules.length) return [...indices];
-        const compiled = sortRules.map(rule => ({ ...rule, evaluate: rule.predefined ? null : compileSortFormula(rule.formula) }));
+        const compiled = sortRules.map(rule => ({
+            ...rule,
+            evaluate: rule.predefined ? null : compileSortFormula(rule.formula),
+            scores: rule.predefined === 'volumeWeightedConsecutive50'
+                ? volumeWeightedConsecutive50Scores(indices, rule.alpha, rule.beta) : null
+        }));
         const ranked = indices.map(index => {
             const sources = {};
             const keys = compiled.map(rule => {
                 try {
                     if (rule.predefined === 'companyBuyBack') return companyBuyBackRatio(uploadedFiles[index]);
                     if (rule.predefined === 'consecutiveMa50UpDays') return consecutiveMa50UpDays(uploadedFiles[index]);
+                    if (rule.predefined === 'volumeWeightedConsecutive50') return rule.scores.get(index);
                     const values = sources[rule.source] ||= sortFieldValues(uploadedFiles[index], rule.source);
                     const result = rule.evaluate(field => {
                         if (values[field] == null) throw new Error('Missing field');
@@ -1316,7 +1345,12 @@
             row.className = 'border border-gray-200 bg-gray-50 rounded p-3 flex flex-col gap-2';
             if (rule.predefined) {
                 const label = document.createElement('strong');
-                label.textContent = `${index + 1}. ${rule.predefined === 'companyBuyBack' ? 'Company Buy Back · Largest percentage first' : 'Consecutive ma50 UP Days · Longest streak first'}`;
+                const labels = {
+                    companyBuyBack: 'Company Buy Back · Largest percentage first',
+                    consecutiveMa50UpDays: 'Consecutive ma50 UP Days · Longest streak first',
+                    volumeWeightedConsecutive50: `Volume Weighted Consecutive 50 · Lowest rank score first (α = ${rule.alpha ?? 1}, β = ${rule.beta ?? 1})`
+                };
+                label.textContent = `${index + 1}. ${labels[rule.predefined]}`;
                 const remove = document.createElement('button');
                 remove.className = 'text-red-600 text-sm self-start';
                 remove.textContent = 'Remove';
@@ -1410,6 +1444,10 @@
         draftSortRules = [{ predefined: 'consecutiveMa50UpDays', direction: 'desc' }];
         applySorting();
     };
+    document.getElementById('volumeWeightedConsecutive50SortBtn').onclick = () => {
+        draftSortRules = [{ predefined: 'volumeWeightedConsecutive50', direction: 'asc', alpha: 1, beta: 1 }];
+        applySorting();
+    };
     document.getElementById('applySortBtn').onclick = applySorting;
     function applySorting() {
         for (let i = 0; i < draftSortRules.length; i++) {
@@ -1431,7 +1469,13 @@
         currentActiveIdx = -1;
         applyFilters(false);
         closeSortModal();
-        showToast(sortRules[0]?.predefined === 'companyBuyBack' ? 'Applied Company Buy Back sorting.' : sortRules[0]?.predefined === 'consecutiveMa50UpDays' ? 'Applied Consecutive ma50 UP Days sorting.' : sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
+        const predefinedNames = {
+            companyBuyBack: 'Company Buy Back',
+            consecutiveMa50UpDays: 'Consecutive ma50 UP Days',
+            volumeWeightedConsecutive50: 'Volume Weighted Consecutive 50'
+        };
+        const predefinedName = predefinedNames[sortRules[0]?.predefined];
+        showToast(predefinedName ? `Applied ${predefinedName} sorting.` : sortRules.length ? `Applied ${sortRules.length} sorting rule(s).` : 'Original list order restored.', 'success');
     };
 
     function getPassingStockFilters(fileObj) {
@@ -1591,7 +1635,7 @@
                 const sectorTextEl = document.getElementById('sectorText');
                 const marketCapTextEl = document.getElementById('marketCapText');
                 const ma50UpDaysTextEl = document.getElementById('ma50UpDaysText');
-                const ma50UpDays = sortRules.some(rule => rule.predefined === 'consecutiveMa50UpDays')
+                const ma50UpDays = sortRules.some(rule => ['consecutiveMa50UpDays', 'volumeWeightedConsecutive50'].includes(rule.predefined))
                     ? consecutiveMa50UpDays(fileObj) : null;
                 ma50UpDaysTextEl.textContent = ma50UpDays === null ? '' : `Ma50 up ${ma50UpDays} ${ma50UpDays === 1 ? 'day' : 'days'}`;
                 ma50UpDaysTextEl.classList.toggle('hidden', ma50UpDays === null);
