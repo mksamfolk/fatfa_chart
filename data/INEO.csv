@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-40.16,INEO,INNEOVA Holdings Limited,Consumer Cyclical,Auto Parts,Singapore,9233426,0.571,23090,89182,50922.922,-0.162,0.128,0.128,0.20071,0.0276,-0.00685,-0.04479,-0.00551,9924000,21185000,409.135,1.038,0.604,6163000,6598625,12170624,8619428,0.83846,0.00527,514,0.01,0.0001,,,0.17275208,1.784375,0.383,-853.934,,,,,none,,,,,,,1.156,https://www.inneova.co,2026-11-10T10:30:52.708833+00:00
+38.20,INEO,INNEOVA Holdings Limited,Consumer Cyclical,Auto Parts,Singapore,9233426,0.571,23090,89182,50922.922,-0.162,0.128,0.128,0.20071,0.0276,-0.00685,-0.04479,-0.00551,9924000,21185000,409.135,1.038,0.604,6163000,6598625,12170624,8619428,0.83846,0.00527,514,0.01,0.0001,,,0.17275208,1.784375,0.383,-853.934,,,,,none,,,,,,,1.156,https://www.inneova.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,6.01,6.61,5.40,6.36,,,,,,,0,5.4000,1,7036704,,,,
 2024-10-24,7.30,8.27,4.05,5.46,,,,,,,0,8.2700,0,15157506,,,,
@@ -529,3 +529,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.60,0.60,0.57,0.57,0.56,0.56,0.57,0.59,0.58,0.6640,0,0.5100,1,1656,47647,0.0018,-0.0034,0.0052
 2026-11-10,0.59,0.59,0.54,0.59,0.56,0.56,0.57,0.59,0.58,0.6640,0,0.5135,1,946,47558,0.0037,-0.0020,0.0057
 2026-11-11,0.58,0.59,0.56,0.59,0.57,0.56,0.57,0.59,0.58,0.6640,0,0.5168,1,2131,47585,0.0053,-0.0005,0.0059
+2026-11-12,0.60,0.60,0.53,0.54,0.57,0.56,0.56,0.59,0.58,0.6640,0,0.5200,1,2666,47256,0.0027,0.0001,0.0026

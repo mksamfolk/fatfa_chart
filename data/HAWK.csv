@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HAWK,HawkEye 360 Inc.,Industrials,Aerospace & Defense,United States,1475361280,15.06,1961530,1401823,21111454.38,0.871,,,0.74494004,-0.2318,-0.12893,,,503355008,16675000,2.098,9.796,9.609,-6103000,,97965552,67395401,0.20375,0.50623,3706290,2.52,0.0383,,93.291214,8.800771,1.8560512,5.898,185.528,28.4,41.0,21.0,1.27273,strong_buy,10,0,0,0,0,2026-11-12,,https://www.he360.com,2026-11-10T10:11:54.361813+00:00
+0.00,HAWK,HawkEye 360 Inc.,Industrials,Aerospace & Defense,United States,1475361280,15.06,1961530,1401823,21111454.38,0.871,,,0.74494004,-0.2318,-0.12893,,,503355008,16675000,2.098,9.796,9.609,-6103000,,97965552,67395401,0.20375,0.50623,3706290,2.52,0.0383,,93.291214,8.800771,1.8560512,5.898,185.528,28.4,41.0,21.0,1.27273,strong_buy,10,0,0,0,0,2026-11-12,,https://www.he360.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-07,33.80,34.49,32.50,34.00,,,,,,,0,34.4900,0,389126600,,,,
 2026-05-08,33.05,33.68,32.01,33.20,,,,,,,0,34.4900,0,85490002,,,,
@@ -160,3 +160,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.00,15.45,14.66,15.06,13.88,13.10,14.82,,,11.9316,1,12.4100,1,31627507,23270899,-0.1484,-0.5205,0.3722
 2026-11-10,14.65,15.20,14.65,14.97,14.02,13.20,14.74,,,11.9490,1,12.5300,1,15173592,23094872,-0.0431,-0.4250,0.3820
 2026-11-11,15.39,15.76,15.00,15.26,14.22,13.34,14.68,,,12.4646,1,12.6468,1,24567074,23099674,0.0631,-0.3274,0.3905
+2026-11-12,15.64,15.79,14.62,14.67,14.27,13.43,14.62,,,12.4646,1,12.8336,1,23257818,22644771,0.0984,-0.2422,0.3407

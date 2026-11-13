@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.68,GFUZ,General Fusion Group Ltd.,Industrials,Specialty Industrial Machinery,Canada,350153472,5.51,132740,167115,920803.6499999999,,,,0.0,0.0,0.0,,,31975000,4265000,,0.36,0.189,-38599000,,53132058,38770439,0.22530001,0.42073002,946687,5.47,,,-6.054945,,-0.34809527,,-9.462,7.0,7.0,7.0,3.0,hold,1,,,,,2026-11-16,,https://generalfusion.com,2026-11-10T09:59:15.441897+00:00
+15.60,GFUZ,General Fusion Group Ltd.,Industrials,Specialty Industrial Machinery,Canada,350153472,5.51,132740,167115,920803.6499999999,,,,0.0,0.0,0.0,,,31975000,4265000,,0.36,0.189,-38599000,,53132058,38770439,0.22530001,0.42073002,946687,5.47,,,-6.054945,,-0.34809527,,-9.462,7.0,7.0,7.0,3.0,hold,1,,,,,2026-11-16,,https://generalfusion.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-30,10.05,10.14,10.03,10.10,,,,,,,0,10.0300,1,237350,,,,
 2025-10-01,10.08,10.15,10.07,10.13,,,,,,,0,10.0300,1,55704,,,,
@@ -296,3 +296,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.31,5.74,5.31,5.51,5.79,6.18,7.18,9.08,9.42,6.8824,0,5.7546,0,495349,1408558,-0.5646,-0.5228,-0.0418
 2026-11-10,5.69,5.80,5.59,5.79,5.78,6.10,7.12,9.05,9.40,6.8824,0,5.0000,1,395457,1373181,-0.5269,-0.5236,-0.0033
 2026-11-11,6.14,6.14,5.70,5.79,5.75,6.03,7.05,9.02,9.38,6.8824,0,5.0160,1,248391,1364621,-0.4913,-0.5171,0.0258
+2026-11-12,5.72,5.80,5.36,5.44,5.64,5.95,7.00,8.99,9.36,6.8824,0,5.0610,1,314432,1336194,-0.4858,-0.5109,0.0251

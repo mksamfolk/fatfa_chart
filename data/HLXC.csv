@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,226776800,10.28,32520,37178,382189.83999999997,,,,0.0,0.0,0.0,,,2183741,0,,0.163,0.075,0,,17747500,10524605,0.00169,0.99039,100,0.0,0.0,,,,-77.29323,,,,,,,none,,,,,,,,,2026-11-10T10:16:55.684135+00:00
+0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,226776800,10.28,32520,37178,382189.83999999997,,,,0.0,0.0,0.0,,,2183741,0,,0.163,0.075,0,,17747500,10524605,0.00169,0.99039,100,0.0,0.0,,,,-77.29323,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,10.24,10.35,10.17,10.25,,,,,,,0,10.1700,1,55789725,,,,
 2026-01-26,10.22,10.28,10.22,10.22,,,,,,,0,10.1700,1,4274004,,,,
@@ -217,3 +217,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.27,10.29,10.25,10.28,10.29,10.31,10.57,10.41,,10.4124,0,10.1654,1,340268,327001,-0.0716,-0.0857,0.0141
 2026-11-10,10.27,10.29,10.27,10.28,10.29,10.30,10.56,10.41,,10.4124,0,10.1683,1,898472,339707,-0.0683,-0.0822,0.0139
 2026-11-11,10.27,10.28,10.27,10.28,10.29,10.29,10.56,10.41,,10.3988,0,10.1711,1,9252,339680,-0.0649,-0.0787,0.0139
+2026-11-12,10.28,10.28,10.28,10.28,10.29,10.29,10.55,10.41,,10.3914,0,10.1739,1,,325918,-0.0615,-0.0753,0.0138

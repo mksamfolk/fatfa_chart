@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-23 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.37,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,3809261,1.35,137180,183022,247079.7,-0.474,,,0.092709996,0.05603,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,2821675,1866402,0.12060001,0.00265,9257,0.4,0.0037,,,0.14931706,0.36069483,0.3,-0.726,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-11-10T11:58:44.078507+00:00
+99.53,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,3809261,1.35,137180,183022,247079.7,-0.474,,,0.092709996,0.05603,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,2821675,1866402,0.12060001,0.00265,9257,0.4,0.0037,,,0.14931706,0.36069483,0.3,-0.726,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-18,5.39,5.40,2.55,3.30,,,,,,,0,2.5450,1,15917880,,,,
 2025-07-21,2.96,3.17,2.61,2.90,,,,,,,0,2.5450,1,3051960,,,,
@@ -347,3 +347,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.31,1.55,1.10,1.35,3.68,3.04,1.29,0.53,0.46,4.6551,0,5.6786,0,246240,1261086,0.3986,0.8493,-0.4507
 2026-11-10,1.47,1.50,1.10,1.10,3.31,3.09,1.31,0.54,0.46,4.4171,0,5.4021,0,143000,1261471,0.2228,0.7240,-0.5012
 2026-11-11,1.14,1.47,1.12,1.36,2.94,3.15,1.34,0.55,0.46,4.2114,0,5.1422,0,164696,1260385,0.1033,0.5999,-0.4966
+2026-11-12,1.35,1.91,1.27,1.57,2.60,3.22,1.37,0.56,0.47,4.2114,0,4.8978,0,128174,1262657,0.0248,0.4849,-0.4601

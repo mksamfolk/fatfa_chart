@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ILLU,Illumination Acquisition Corp I,Financial Services,Shell Companies,United States,312603744,9.99,71290,67301,672336.99,,,,0.0,0.0,0.0,,,819260,0,,,,,,23625000,,0.00127,0.69961,130,0.0,0.0,,,,1.377931,,,,,,,none,,,,,,,,https://www.illuminationspac.com,2026-11-10T10:28:16.217651+00:00
+0.00,ILLU,Illumination Acquisition Corp I,Financial Services,Shell Companies,United States,312603744,9.99,71290,67301,672336.99,,,,0.0,0.0,0.0,,,819260,0,,,,,,23625000,,0.00127,0.69961,130,0.0,0.0,,,,1.377931,,,,,,,none,,,,,,,,https://www.illuminationspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-21,9.86,9.89,9.82,9.83,,,,,,,0,9.8200,1,84538,,,,
 2026-04-22,9.89,9.92,9.83,9.83,,,,,,,0,9.8200,1,58980,,,,
@@ -157,3 +157,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.98,9.99,9.98,9.99,9.98,9.98,9.97,,,9.9769,1,10.0000,0,901098,577208,0.0039,0.0041,-0.0002
 2026-11-10,9.99,9.99,9.99,9.99,9.98,9.98,9.97,,,9.9769,1,9.9994,0,,577208,0.0043,0.0041,0.0001
 2026-11-11,10.00,10.00,9.99,9.99,9.98,9.98,9.97,,,9.9779,1,9.9700,1,1448550,606179,0.0045,0.0042,0.0003
+2026-11-12,10.00,10.00,10.00,10.00,9.98,9.98,9.97,,,9.9816,1,9.9706,1,350000,613179,0.0055,0.0045,0.0010

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRBG,Turbogen Ltd,Industrials,Specialty Industrial Machinery,Israel,91687816,3.92,37650,47731,187105.52,,,,0.0,0.0,0.0,,-1.37815,7196000,543000,33.333,1.243,1.175,-6637256,-7898025,23389747,15431594,0.35581002,0.01239,50763,0.84,,,,,54.444447,,-6.719,,,,,none,,,,,,,-0.011,https://www.turbogenchp.com,2026-11-10T13:22:27.160731+00:00
+0.00,TRBG,Turbogen Ltd,Industrials,Specialty Industrial Machinery,Israel,91687816,3.92,37650,47731,187105.52,,,,0.0,0.0,0.0,,-1.37815,7196000,543000,33.333,1.243,1.175,-6637256,-7898025,23389747,15431594,0.35581002,0.01239,50763,0.84,,,,,54.444447,,-6.719,,,,,none,,,,,,,-0.011,https://www.turbogenchp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-30,3.57,3.83,3.49,3.73,,,,,,,0,3.4900,1,380460,,,,
 2026-10-01,3.72,4.07,3.66,3.85,,,,,,,0,3.4900,1,1088780,,,,
@@ -60,3 +60,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.56,4.07,3.47,3.92,3.54,3.49,,,,4.0504,0,2.9800,1,553112,,,,
 2026-11-10,3.99,4.30,3.50,3.58,3.56,3.50,,,,4.0504,0,3.0018,1,1298824,,,,
 2026-11-11,3.68,3.77,3.60,3.69,3.58,3.52,,,,4.0504,0,3.0537,1,65682,,,,
+2026-11-12,3.68,3.68,3.16,3.41,3.57,3.53,,,,4.0504,0,3.1036,1,325996,,,,

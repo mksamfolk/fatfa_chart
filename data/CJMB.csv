@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.78,CJMB,Callan JMB Inc.,Industrials,Integrated Freight & Logistics,United States,2108764,0.301,7215240,3797518,1143052.918,-0.174,,,0.39937,-0.97844005,-1.9197301,-3.00327,-0.64242995,860273,2143042,314.292,1.301,0.807,-4497697,-2409570,7005862,3086203,0.56449,0.13427,99608,1.34,0.0292,,,0.41429883,2.5083334,0.592,-0.447,,,,,none,,,,,,,,https://callanjmb.com,2026-11-10T08:48:39.486506+00:00
+2.96,CJMB,Callan JMB Inc.,Industrials,Integrated Freight & Logistics,United States,2108764,0.301,7215240,3797518,1143052.918,-0.174,,,0.39937,-0.97844005,-1.9197301,-3.00327,-0.64242995,860273,2143042,314.292,1.301,0.807,-4497697,-2409570,7005862,3086203,0.56449,0.13427,99608,1.34,0.0292,,,0.41429883,2.5083334,0.592,-0.447,,,,,none,,,,,,,,https://callanjmb.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-05,4.00,4.85,3.91,4.10,,,,,,,0,3.9100,1,1200070,,,,
 2025-02-06,5.94,7.76,4.17,6.32,,,,,,,0,3.9100,1,48348633,,,,
@@ -459,3 +459,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.28,0.33,0.28,0.30,0.38,0.87,1.71,1.32,1.45,0.6973,0,0.9151,0,84461,2711183,-0.4426,-0.4280,-0.0146
 2026-11-10,0.29,0.32,0.28,0.29,0.35,0.78,1.67,1.31,1.45,0.6679,0,0.8496,0,75194,2679169,-0.4281,-0.4280,-0.0001
 2026-11-11,0.29,0.32,0.29,0.31,0.34,0.68,1.64,1.30,1.44,0.6433,0,0.7906,0,65044,2646290,-0.4101,-0.4244,0.0143
+2026-11-12,0.30,0.40,0.29,0.38,0.33,0.58,1.60,1.29,1.44,0.6433,0,0.7376,0,20875621,3053671,-0.3860,-0.4167,0.0308

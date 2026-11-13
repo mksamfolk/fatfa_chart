@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CAST,FreeCast Inc.,Communication Services,Broadcasting,United States,64500016,1.27,305730,4112781,5223231.87,0.68,,,0.82057,-7.49716,0.0,,-1.40499,8919833,4067763,180.628,1.263,1.227,-10029873,-5496481,36861774,27793412,0.246,0.1232,1291176,2.7,0.0462,,10.583333,90.73238,24.423077,83.908,-4.711,6.0,6.0,6.0,,none,1,1,1,0,0,,,https://www.freecast.com,2026-11-10T08:37:16.103737+00:00
+0.00,CAST,FreeCast Inc.,Communication Services,Broadcasting,United States,64500016,1.27,305730,4112781,5223231.87,0.68,,,0.82057,-7.49716,0.0,,-1.40499,8919833,4067763,180.628,1.263,1.227,-10029873,-5496481,36861774,27793412,0.246,0.1232,1291176,2.7,0.0462,,10.583333,90.73238,24.423077,83.908,-4.711,6.0,6.0,6.0,,none,1,1,1,0,0,,,https://www.freecast.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-10,33.00,33.00,7.30,9.13,,,,,,,0,7.3000,1,4930200,,,,
 2026-03-11,9.14,9.31,7.44,8.00,,,,,,,0,7.3000,1,1495200,,,,
@@ -186,3 +186,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.31,1.36,1.25,1.27,1.28,1.16,1.27,2.33,,0.9271,1,1.1057,1,290830,9586189,0.0057,-0.0311,0.0368
 2026-11-10,1.27,1.40,1.23,1.38,1.30,1.17,1.27,2.32,,0.9271,1,1.1233,1,344862,9582752,0.0156,-0.0217,0.0374
 2026-11-11,1.31,1.33,1.23,1.24,1.30,1.18,1.27,2.31,,0.9271,1,1.1399,1,153884,9507619,0.0121,-0.0150,0.0271
+2026-11-12,1.23,1.25,1.09,1.10,1.28,1.18,1.27,2.30,,0.9271,1,1.4000,0,310530,9494447,-0.0020,-0.0124,0.0104

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.84,AMCI,AMC Robotics Corporation,Technology,Computer Hardware,United States,25084142,1.05,128220,114317,120032.85,-0.329,,,0.78763,-0.16699,0.0,,,4544353,81810,0.794,11.387,8.996,-7710664,,23889661,3670299,0.7924,0.01732,34885,0.37,0.014199999,,,5.105833,2.3026314,3.922,,,,,,none,,,,,,,0.457,https://www.amcx.ai,2026-11-10T07:51:44.358864+00:00
+2.06,AMCI,AMC Robotics Corporation,Technology,Computer Hardware,United States,25084142,1.05,128220,114317,120032.85,-0.329,,,0.78763,-0.16699,0.0,,,4544353,81810,0.794,11.387,8.996,-7710664,,23889661,3670299,0.7924,0.01732,34885,0.37,0.014199999,,,5.105833,2.3026314,3.922,,,,,,none,,,,,,,0.457,https://www.amcx.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-25,10.20,10.20,10.10,10.10,,,,,,,0,10.1000,1,1525100,,,,
 2023-01-26,10.24,10.24,10.24,10.24,,,,,,,0,10.1000,1,2048,,,,
@@ -968,3 +968,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.10,1.18,1.01,1.05,1.80,2.04,3.26,4.73,5.23,2.0545,0,2.3136,0,258615,392302,-0.5326,-0.4789,-0.0537
 2026-11-10,1.04,1.10,0.96,0.99,1.69,1.96,3.19,4.69,5.20,1.9356,0,2.1833,0,241659,382163,-0.5515,-0.4934,-0.0581
 2026-11-11,1.00,1.05,0.84,0.89,1.55,1.87,3.12,4.65,5.17,1.8228,0,2.0365,0,173533,372891,-0.5681,-0.5084,-0.0597
+2026-11-12,0.87,1.03,0.87,0.95,1.40,1.80,3.04,4.60,5.14,1.7875,0,1.8688,0,124925,362011,-0.5698,-0.5207,-0.0491

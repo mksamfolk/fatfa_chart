@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.16,MCRP,Micropolis AI Robotics,Technology,Computer Hardware,United Arab Emirates,13432052,0.385,535910,437156,168305.06,0.8,,,0.14703,-198.73756,0.0,,-0.75448996,15565708,1199333,15.027,7.25,6.687,-17128192,-27462428,34888447,11886494,0.85893995,0.00457,43708,0.18,0.0027,,-1.2857248,85.94258,6.1759706,-5.978,0.046,8.001415,8.001415,8.001415,,none,1,,,,,,,https://www.micropolis.ai,2026-11-10T11:10:45.286248+00:00
+2.70,MCRP,Micropolis AI Robotics,Technology,Computer Hardware,United Arab Emirates,13432052,0.385,535910,437156,168305.06,0.8,,,0.14703,-198.73756,0.0,,-0.75448996,15565708,1199333,15.027,7.25,6.687,-17128192,-27462428,34888447,11886494,0.85893995,0.00457,43708,0.18,0.0027,,-1.2857248,85.94258,6.1759706,-5.978,0.046,8.001415,8.001415,8.001415,,none,1,,,,,,,https://www.micropolis.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-07,3.90,4.00,3.06,3.55,,,,,,,0,4.0000,0,2330575,,,,
 2025-03-10,3.39,3.50,2.96,3.17,,,,,,,0,4.0000,0,322580,,,,
@@ -438,3 +438,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.36,0.41,0.36,0.38,0.43,0.42,0.75,1.69,2.05,0.5692,0,0.5671,0,12743,454979,-0.0971,-0.1138,0.0167
 2026-11-10,0.38,0.39,0.36,0.37,0.42,0.42,0.73,1.67,2.04,0.5658,0,0.5581,0,23051,452387,-0.0937,-0.1098,0.0161
 2026-11-11,0.39,0.41,0.36,0.38,0.40,0.42,0.71,1.65,2.04,0.5658,0,0.5495,0,67063,447061,-0.0889,-0.1056,0.0167
+2026-11-12,0.39,0.39,0.33,0.34,0.39,0.41,0.70,1.63,2.03,0.5434,0,0.5413,0,17578,441587,-0.0875,-0.1020,0.0144

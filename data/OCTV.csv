@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OCTV,Octave Intelligence plc,Technology,Software - Application,United States,5653299712,21.06,1708410,2316417,48783742.019999996,-0.036,,,0.76438004,0.16656,-1.11261,,,304147008,697782016,13.736,1.029,0.899,458239008,,257412788,210004250,0.19678,0.13249,4386871,1.73,,18.313044,14.086578,3.4753861,1.1128725,3.717,12.608,22.92857,30.0,17.0,2.28571,buy,7,0,1,2,1,2026-11-12,,https://www.octave.com,2026-11-10T11:47:00.332022+00:00
+0.00,OCTV,Octave Intelligence plc,Technology,Software - Application,United States,5653299712,21.06,1708410,2316417,48783742.019999996,-0.036,,,0.76438004,0.16656,-1.11261,,,304147008,697782016,13.736,1.029,0.899,458239008,,257412788,210004250,0.19678,0.13249,4386871,1.73,,18.313044,14.086578,3.4753861,1.1128725,3.717,12.608,22.92857,30.0,17.0,2.28571,buy,7,0,1,2,1,2026-11-12,,https://www.octave.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-21,28.00,30.00,21.96,21.96,,,,,,,0,30.0000,0,169092,,,,
 2026-05-22,25.00,25.00,21.36,21.75,,,,,,,0,30.0000,0,950475,,,,
@@ -150,3 +150,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,21.11,21.18,20.64,21.06,21.42,21.04,19.89,,,19.7402,1,21.8895,0,52603667,44160408,0.3902,0.5110,-0.1208
 2026-11-10,20.91,21.25,20.64,20.94,21.34,21.09,19.90,,,19.7402,1,21.8315,0,35321593,44022680,0.3440,0.4776,-0.1336
 2026-11-11,21.00,21.28,20.64,21.23,21.25,21.16,19.94,,,19.7402,1,21.7759,0,35307612,43738037,0.3270,0.4475,-0.1205
+2026-11-12,21.22,21.91,20.33,21.29,21.21,21.19,19.99,,,19.7402,1,20.4400,1,65845715,44048635,0.3148,0.4209,-0.1062

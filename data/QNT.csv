@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QNT,Quantinuum Inc.,Technology,Software - Application,United States,10799891456,40.04,2369490,2045823,81914752.92,2.333,,,0.46703997,-14.67569,0.0,,,1936114048,29137000,0.998,24.932,24.333,-293326016,,43313266,37844533,0.06142,0.85213995,5854854,2.55,,,-23.118317,368.49637,3.819153,78.239,-2.882,72.08333,155.0,50.0,1.23077,strong_buy,12,4,4,4,4,2026-11-05,,https://www.quantinuum.com,2026-11-10T12:19:55.549374+00:00
+0.00,QNT,Quantinuum Inc.,Technology,Software - Application,United States,10799891456,40.04,2369490,2045823,81914752.92,2.333,,,0.46703997,-14.67569,0.0,,,1936114048,29137000,0.998,24.932,24.333,-293326016,,43313266,37844533,0.06142,0.85213995,5854854,2.55,,,-23.118317,368.49637,3.819153,78.239,-2.882,72.08333,155.0,50.0,1.23077,strong_buy,12,4,4,4,4,2026-11-05,,https://www.quantinuum.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,68.00,71.35,59.89,60.38,,,,,,,0,71.3500,0,1787972592,,,,
 2026-06-05,59.80,59.89,51.15,56.26,,,,,,,0,71.3500,0,600322312,,,,
@@ -140,4 +140,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,31.64,38.05,30.11,37.57,35.08,35.75,43.41,,,39.1599,0,38.4952,0,189277658,89976111,-2.9848,-3.2146,0.2299
 2026-11-09,37.99,40.56,36.37,40.04,35.33,35.78,43.21,,,27.6959,1,28.3100,1,104212110,90584818,-2.3634,-3.0444,0.6810
 2026-11-10,39.18,43.85,39.18,43.00,35.61,36.09,43.07,,,30.4218,1,28.5550,1,179034800,92994877,-1.6134,-2.7582,1.1447
-2026-11-11,44.00,44.30,40.09,40.57,35.84,36.47,42.93,,,30.9482,1,29.1668,1,123125892,94341103,-1.2014,-2.4468,1.2455
+2026-11-11,44.00,44.30,40.09,40.57,35.84,36.47,42.93,,,30.9482,1,29.1668,1,124213168,94362848,-1.2014,-2.4468,1.2455
+2026-11-12,38.72,40.21,37.06,37.46,35.83,36.51,42.71,,,30.9482,1,30.0748,1,66405340,93647499,-1.1129,-2.1800,1.0671

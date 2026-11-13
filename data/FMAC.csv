@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FMAC,Future Money Acquisition Corporation,Financial Services,Shell Companies,United States,159380800,10.1,3370,8154,82355.4,,,,0.0,0.0,0.0,,,151000,500,0.098,0.62,,-293844,,15780276,9723964,0.35151002,0.6012,52800,44.04,0.0045,,,,315.625,,,,,,,none,,,,,,,,,2026-11-10T09:47:08.524545+00:00
+0.00,FMAC,Future Money Acquisition Corporation,Financial Services,Shell Companies,United States,159380800,10.1,3370,8154,82355.4,,,,0.0,0.0,0.0,,,151000,500,0.098,0.62,,-293844,,15780276,9723964,0.35151002,0.6012,52800,44.04,0.0045,,,,315.625,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-18,9.90,9.95,9.90,9.93,,,,,,,0,9.9000,1,141999,,,,
 2026-05-19,9.92,9.94,9.91,9.94,,,,,,,0,9.9000,1,3298092,,,,
@@ -138,3 +138,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.14,10.14,10.14,10.14,10.12,10.11,10.08,,,10.0821,1,10.0981,1,,99873,0.0143,0.0125,0.0018
 2026-11-10,10.14,10.14,10.13,10.13,10.12,10.11,10.09,,,10.0821,1,10.1019,1,8613539,272144,0.0138,0.0128,0.0011
 2026-11-11,10.13,10.13,10.13,10.13,10.13,10.12,10.09,,,10.0821,1,10.1053,1,,272144,0.0134,0.0129,0.0005
+2026-11-12,10.13,10.13,10.13,10.13,10.12,10.12,10.09,,,10.0835,1,10.1086,1,,272144,0.0128,0.0129,-0.0000

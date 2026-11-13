@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BPAC,Blueport Acquisition Ltd,,,,75545992,10.23,15270,8501,86965.23000000001,,,,,,,,,,,,,,,,5947250,,,,,,,102.299995,,,20.41916,,,,,,,none,,,,,,,,,2026-11-10T08:27:12.188308+00:00
+0.00,BPAC,Blueport Acquisition Ltd,,,,75545992,10.23,15270,8501,86965.23000000001,,,,,,,,,,,,,,,,5947250,,,,,,,102.299995,,,20.41916,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-06,9.91,9.92,9.87,9.91,,,,,,,0,9.8700,1,534149,,,,
 2026-01-07,9.91,9.93,9.90,9.92,,,,,,,0,9.8700,1,3622784,,,,
@@ -229,3 +229,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.23,10.23,10.23,10.23,10.24,10.23,10.21,10.12,,10.2470,0,10.2476,0,,100948,0.0075,0.0106,-0.0032
 2026-11-10,10.23,10.23,10.23,10.23,10.24,10.23,10.21,10.13,,10.2453,0,10.2465,0,,98873,0.0066,0.0098,-0.0032
 2026-11-11,10.23,10.23,10.23,10.23,10.23,10.23,10.21,10.13,10.09,10.2437,0,10.2455,0,,97836,0.0058,0.0090,-0.0032
+2026-11-12,10.23,10.23,10.23,10.23,10.23,10.23,10.21,10.13,10.09,10.2424,0,10.2445,0,,96880,0.0052,0.0083,-0.0031

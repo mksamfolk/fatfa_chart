@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MWC,Micware Co. Ltd.,Consumer Cyclical,Auto Parts,Japan,69520712,1.17,195710,206953,242135.00999999998,0.004,0.325,0.419,0.36765,0.13572,0.073189996,0.21691,0.062329996,8259659776,9631105024,117.145,1.657,1.537,2074456960,2959049984,59419414,21574595,0.59736,0.12186,89390,0.58,,6.4999995,,0.003175072,1.297143,0.076,0.592,,,,,none,,,,,,2026-11-10,,https://www.micware.co.jp,2026-11-10T11:26:23.212006+00:00
+0.00,MWC,Micware Co. Ltd.,Consumer Cyclical,Auto Parts,Japan,69520712,1.17,195710,206953,242135.00999999998,0.004,0.325,0.419,0.36765,0.13572,0.073189996,0.21691,0.062329996,8259659776,9631105024,117.145,1.657,1.537,2074456960,2959049984,59419414,21574595,0.59736,0.12186,89390,0.58,,6.4999995,,0.003175072,1.297143,0.076,0.592,,,,,none,,,,,,2026-11-10,,https://www.micware.co.jp,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-14,8.10,10.45,7.79,8.20,,,,,,,0,7.7900,1,6207400,,,,
 2026-05-15,8.00,8.09,7.97,8.00,,,,,,,0,7.7900,1,2200800,,,,
@@ -140,3 +140,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.17,1.25,1.14,1.17,1.38,1.48,1.47,,,1.6138,0,1.7155,0,104598,299424,-0.0916,-0.0501,-0.0415
 2026-11-10,1.26,1.33,1.21,1.32,1.36,1.46,1.47,,,1.6138,0,1.6725,0,189156,290382,-0.0876,-0.0576,-0.0300
 2026-11-11,1.35,1.40,1.30,1.37,1.35,1.45,1.46,,,1.6138,0,1.6322,0,123574,289598,-0.0795,-0.0620,-0.0175
+2026-11-12,1.37,1.41,1.24,1.29,1.33,1.43,1.46,,,1.6138,0,1.5942,0,304440,288433,-0.0786,-0.0653,-0.0133

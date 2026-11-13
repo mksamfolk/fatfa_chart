@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.43,HUHU,HUHUTECH International Group Inc.,Industrials,Specialty Industrial Machinery,China,9329511,0.3483,3352380,653173,227500.1559,0.086,,,0.32821998,-1.5778,-1.13399,-3.50421,-0.70429003,3728666,5566524,74.438,1.312,1.156,65323,8803247,26785848,8245755,0.69216,0.0034400001,31398,0.14,0.0038,,,0.41874406,1.2483871,0.501,-0.446,,,,,none,,,,,,,-0.266,https://ir.huhutech.com.cn,2026-11-10T10:21:58.699064+00:00
+0.43,HUHU,HUHUTECH International Group Inc.,Industrials,Specialty Industrial Machinery,China,9329511,0.3483,3352380,653173,227500.1559,0.086,,,0.32821998,-1.5778,-1.13399,-3.50421,-0.70429003,3728666,5566524,74.438,1.312,1.156,65323,8803247,26785848,8245755,0.69216,0.0034400001,31398,0.14,0.0038,,,0.41874406,1.2483871,0.501,-0.446,,,,,none,,,,,,,-0.266,https://ir.huhutech.com.cn,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-22,4.00,4.96,3.52,4.11,,,,,,,0,3.5200,1,6731769,,,,
 2024-10-23,4.20,4.45,3.90,4.03,,,,,,,0,3.5200,1,1331915,,,,
@@ -529,4 +529,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.46,0.51,0.43,0.47,0.57,1.34,3.17,6.64,6.81,1.3477,0,0.7200,0,681991,762600,-0.8700,-0.8841,0.0140
 2026-11-09,0.43,0.46,0.32,0.35,0.50,1.23,3.07,6.60,6.76,1.2460,0,0.7200,0,308537,766408,-0.8445,-0.8761,0.0316
 2026-11-10,0.28,0.41,0.28,0.40,0.44,1.12,2.97,6.56,6.71,1.1585,0,0.6400,0,17071573,1106684,-0.8109,-0.8631,0.0522
-2026-11-11,0.46,0.59,0.25,0.33,0.41,1.03,2.88,6.52,6.67,1.1585,0,0.2760,1,29043165,1685643,-0.7807,-0.8466,0.0659
+2026-11-11,0.46,0.59,0.25,0.33,0.41,1.03,2.88,6.52,6.67,1.1585,0,0.2760,1,29332724,1691434,-0.7807,-0.8466,0.0659
+2026-11-12,0.32,0.32,0.28,0.30,0.39,0.93,2.79,6.47,6.62,1.0679,0,0.2500,1,845758,1699742,-0.7503,-0.8273,0.0771

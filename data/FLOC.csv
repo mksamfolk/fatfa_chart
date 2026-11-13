@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-46.97,FLOC,,Energy,Oil & Gas Equipment & Services,United States,1905068928,20.85,752230,602220,12556287.0,0.462,0.217,0.608,0.53876996,0.18696,0.0636,0.10524999,0.05805,137815008,414839008,30.086,3.192,1.8,364216992,146950000,44989672,11006723,0.03378,0.99951,3718189,6.16,0.0937,15.330882,12.535547,2.1138685,1.7176044,2.273,5.812,29.88889,33.0,25.0,1.55556,buy,9,0,2,0,0,2026-11-04,,https://www.flowco-inc.com,2026-11-10T09:46:12.367350+00:00
+50.85,FLOC,,Energy,Oil & Gas Equipment & Services,United States,1905068928,20.85,752230,602220,12556287.0,0.462,0.217,0.608,0.53876996,0.18696,0.0636,0.10524999,0.05805,137815008,414839008,30.086,3.192,1.8,364216992,146950000,44989672,11006723,0.03378,0.99951,3718189,6.16,0.0937,15.330882,12.535547,2.1138685,1.7176044,2.273,5.812,29.88889,33.0,25.0,1.55556,buy,9,0,2,0,0,2026-11-04,,https://www.flowco-inc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-16,28.11,29.08,27.39,28.79,,,,,,,0,27.3859,1,191339285,,,,
 2025-01-17,28.60,29.08,27.43,29.08,,,,,,,0,27.3859,1,34734000,,,,
@@ -487,3 +487,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,20.21,21.58,19.95,20.85,19.82,19.44,19.69,21.61,21.67,17.9779,1,18.6700,1,10487550,11728218,0.1424,0.0177,0.1247
 2026-11-10,21.00,21.03,19.96,20.67,19.90,19.50,19.66,21.61,21.67,17.9779,1,18.7282,1,19458738,11780438,0.2067,0.0555,0.1512
 2026-11-11,21.05,21.47,20.80,20.89,19.95,19.62,19.64,21.60,21.67,17.9779,1,18.7852,1,11944902,11875595,0.2724,0.0989,0.1735
+2026-11-12,20.82,21.38,20.52,21.09,20.05,19.76,19.63,21.59,21.68,17.9779,1,18.8411,1,12390375,11971649,0.3366,0.1464,0.1902

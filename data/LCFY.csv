@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2022-12-08 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.57,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,2132576,0.95,11930,68629,65197.549999999996,0.47,,,0.23781,-0.67239,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00037,2807,0.02,0.0015,,,0.5413418,0.6570553,0.248,-0.352,,,,,none,,,,,,,1.782,https://www.locafy.com,2026-11-10T10:53:52.735780+00:00
+6.28,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,2132576,0.95,11930,68629,65197.549999999996,0.47,,,0.23781,-0.67239,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00037,2807,0.02,0.0015,,,0.5413418,0.6570553,0.248,-0.352,,,,,none,,,,,,,1.782,https://www.locafy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-25,66.80,66.80,44.60,66.80,,,,,,,0,44.6000,1,8438510,,,,
 2022-03-28,66.00,90.00,52.60,66.00,,,,,,,0,44.6000,1,37341810,,,,
@@ -1177,3 +1177,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.05,1.07,0.93,0.95,1.10,1.20,1.91,3.16,3.29,1.3469,0,1.2012,0,15865,168907,-0.2522,-0.2724,0.0202
 2026-11-10,0.90,0.90,0.85,0.85,1.07,1.17,1.88,3.13,3.28,1.2172,0,1.1849,0,7820,168113,-0.2560,-0.2691,0.0131
 2026-11-11,0.87,0.90,0.87,0.87,1.04,1.14,1.84,3.11,3.27,1.2064,0,1.1581,0,7150,167776,-0.2543,-0.2661,0.0119
+2026-11-12,0.88,1.12,0.88,1.00,1.02,1.12,1.81,3.09,3.26,1.2064,0,1.1334,0,227073,170821,-0.2399,-0.2609,0.0210

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,94988640,10.44,10710,7010,73184.4,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.28296,167,0.04,0.0,,,,-869.99994,,,,,,,none,,,,,,,,,2026-11-10T12:21:42.534848+00:00
+0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,94988640,10.44,10710,7010,73184.4,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.28296,167,0.04,0.0,,,,-869.99994,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,10.35,10.50,10.31,10.34,,,,,,,0,10.3100,1,6943310,,,,
 2026-07-14,10.34,10.68,10.34,10.42,,,,,,,0,10.3100,1,623116,,,,
@@ -101,3 +101,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.35,10.99,10.34,10.44,10.35,10.66,11.49,,,10.9105,0,11.0410,0,158688,82417,-0.3303,-0.3501,0.0198
 2026-11-10,10.44,10.44,10.44,10.44,10.35,10.59,11.46,,,10.9105,0,10.9900,0,,81842,-0.3078,-0.3416,0.0338
 2026-11-11,10.35,10.36,10.35,10.36,10.34,10.51,11.44,,,10.9105,0,10.9900,0,2072,81746,-0.2930,-0.3319,0.0389
+2026-11-12,10.36,10.36,10.36,10.36,10.34,10.45,11.42,,,10.9105,0,10.9244,0,,81541,-0.2781,-0.3211,0.0430

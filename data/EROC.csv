@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,EROC,ERock Inc.,Industrials,Specialty Industrial Machinery,United States,2280839168,8.25,3162160,3071900,25343175.0,-0.417,,,0.20653999,-0.44787,-0.66673,,,626636032,30168000,11.758,1.421,1.19,385004000,,48174023,19014769,0.20216998,1.18285,11486308,3.9,2.8089,29.464285,16.252954,14.062501,8.072408,0.051,-0.177,22.125,28.0,18.0,,none,8,1,1,2,2,2026-11-12,,https://erock.com,2026-11-10T09:32:55.244974+00:00
+0.00,EROC,ERock Inc.,Industrials,Specialty Industrial Machinery,United States,2280839168,8.25,3162160,3071900,25343175.0,-0.417,,,0.20653999,-0.44787,-0.66673,,,626636032,30168000,11.758,1.421,1.19,385004000,,48174023,19014769,0.20216998,1.18285,11486308,3.9,2.8089,29.464285,16.252954,14.062501,8.072408,0.051,-0.177,22.125,28.0,18.0,,none,8,1,1,2,2,2026-11-12,,https://erock.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-10,20.10,20.70,17.89,18.75,,,,,,,0,20.7000,0,338797500,,,,
 2026-06-11,18.15,19.40,17.56,17.92,,,,,,,0,20.7000,0,83645184,,,,
@@ -137,3 +137,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.35,8.33,7.30,8.25,8.24,8.74,10.88,,,10.1327,0,8.8609,0,16464525,31000262,-1.0038,-0.9865,-0.0173
 2026-11-10,7.90,8.24,7.74,7.87,8.10,8.55,10.80,,,10.1327,0,8.7139,0,12165446,30848649,-0.9616,-0.9815,0.0199
 2026-11-11,8.40,8.92,8.23,8.83,8.08,8.50,10.75,,,10.1327,0,6.4100,1,31867470,31192145,-0.8410,-0.9534,0.1124
+2026-11-12,7.60,8.73,7.30,8.34,8.02,8.42,10.70,,,10.1327,0,6.4602,1,36969553,31541944,-0.7760,-0.9179,0.1419

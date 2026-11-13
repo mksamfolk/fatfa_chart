@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BIXI,Bitcoin Infrastructure Acquisition Corp Ltd.,Financial Services,Shell Companies,United States,305247808,10.14,29070,30401,308266.14,,,,0.0,0.0,0.0,,,2166003,0,,12.07,11.494,,,22770000,21017846,0.00154,0.81358004,367,0.01,0.0,,,,-45.67568,,,,,,,none,,,,,,,,https://bixispac.com,2026-11-10T08:21:08.435831+00:00
+0.00,BIXI,Bitcoin Infrastructure Acquisition Corp Ltd.,Financial Services,Shell Companies,United States,305247808,10.14,29070,30401,308266.14,,,,0.0,0.0,0.0,,,2166003,0,,12.07,11.494,,,22770000,21017846,0.00154,0.81358004,367,0.01,0.0,,,,-45.67568,,,,,,,none,,,,,,,,https://bixispac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-19,9.86,9.88,9.85,9.86,,,,,,,0,9.8800,0,80852,,,,
 2025-12-22,9.85,9.86,9.85,9.85,,,,,,,0,9.8800,0,33490,,,,
@@ -239,3 +239,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.11,10.14,10.11,10.14,10.11,10.10,10.09,10.01,9.98,10.0915,1,10.0683,1,2089854,335111,0.0086,0.0072,0.0014
 2026-11-10,10.14,10.14,10.12,10.13,10.11,10.11,10.09,10.01,9.98,10.0915,1,10.0712,1,3759243,408651,0.0096,0.0077,0.0018
 2026-11-11,10.13,10.13,10.13,10.13,10.12,10.11,10.09,10.01,9.99,10.0938,1,10.0739,1,,388491,0.0102,0.0082,0.0020
+2026-11-12,10.13,10.17,10.13,10.17,10.12,10.11,10.10,10.02,9.99,10.1054,1,10.0766,1,100683,389520,0.0137,0.0093,0.0044

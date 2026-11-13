@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AGMB,AgomAb Therapeutics NV,Healthcare,Biotechnology,Belgium,371822240,7.55,220720,156693,1183032.15,,,,0.0,0.0,0.0,,,251976992,1139000,0.429,12.878,12.554,-56726000,,49247975,17358287,0.05989,0.53739,941904,5.88,0.0231,,-3.7262423,,2.9645123,,-3.506,37.66667,60.0,28.0,,none,6,1,1,0,0,,,https://www.agomab.com,2026-11-10T07:43:07.922432+00:00
+0.00,AGMB,AgomAb Therapeutics NV,Healthcare,Biotechnology,Belgium,371822240,7.55,220720,156693,1183032.15,,,,0.0,0.0,0.0,,,251976992,1139000,0.429,12.878,12.554,-56726000,,49247975,17358287,0.05989,0.53739,941904,5.88,0.0231,,-3.7262423,,2.9645123,,-3.506,37.66667,60.0,28.0,,none,6,1,1,0,0,,,https://www.agomab.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-06,14.70,15.49,12.66,14.65,,,,,,,0,12.6600,1,34604764,,,,
 2026-02-09,14.55,16.01,14.51,15.61,,,,,,,0,12.6600,1,9771860,,,,
@@ -207,3 +207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.72,8.24,7.32,7.55,7.44,8.07,11.00,11.51,,9.4779,0,6.4600,1,4995080,1705027,-1.0331,-1.1257,0.0926
 2026-11-10,7.54,7.75,6.80,6.99,7.30,7.98,10.84,11.46,,9.4779,0,6.4956,1,3125229,1741311,-1.0121,-1.1030,0.0908
 2026-11-11,7.07,7.23,6.84,6.99,7.20,7.90,10.68,11.42,,9.4779,0,6.5305,1,3028767,1783770,-0.9842,-1.0792,0.0950
+2026-11-12,6.90,6.98,6.19,6.36,7.04,7.80,10.53,11.37,,9.1285,0,8.2400,0,9653844,1934121,-1.0014,-1.0636,0.0622

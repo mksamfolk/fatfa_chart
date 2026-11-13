@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FPS,Forgent Power Solutions Inc.,Industrials,Electrical Equipment & Parts,United States,7209056768,22.6,11030600,9093134,205504828.4,0.943,,,0.35027,0.19863,0.05763,0.17038,0.06048,97477000,703771008,104.821,1.54,0.842,109081000,-87482752,274527094,170615844,0.0016300001,0.97196996,12778081,1.18,0.0668,75.33333,11.178877,5.0765896,10.409949,4.871,27.761,52.84615,76.0,36.0,1.38462,strong_buy,13,1,1,1,2,2026-11-12,,https://www.forgentpower.com,2026-11-10T09:49:43.135428+00:00
+0.00,FPS,Forgent Power Solutions Inc.,Industrials,Electrical Equipment & Parts,United States,7209056768,22.6,11030600,9093134,205504828.4,0.943,,,0.35027,0.19863,0.05763,0.17038,0.06048,97477000,703771008,104.821,1.54,0.842,109081000,-87482752,274527094,170615844,0.0016300001,0.97196996,12778081,1.18,0.0668,75.33333,11.178877,5.0765896,10.409949,4.871,27.761,52.84615,76.0,36.0,1.38462,strong_buy,13,1,1,1,2,2026-11-12,,https://www.forgentpower.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-05,26.00,29.70,25.95,29.00,,,,,,,0,25.9500,1,915260300,,,,
 2026-02-06,29.98,33.76,29.75,33.76,,,,,,,0,25.9500,1,433451370,,,,
@@ -222,4 +222,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,19.65,19.88,17.67,19.48,24.74,28.00,32.44,39.59,,27.7459,0,26.5584,0,288878653,325122824,-3.6970,-2.8509,-0.8461
 2026-11-09,20.48,22.73,20.20,22.60,24.48,27.28,32.29,39.54,,27.7459,0,25.1362,0,256076084,326874262,-3.6046,-3.0016,-0.6030
 2026-11-10,21.57,22.87,20.90,21.48,23.93,26.54,32.10,39.47,,27.7459,0,23.9416,0,140315949,326617114,-3.5805,-3.1174,-0.4631
-2026-11-11,23.06,24.75,22.71,24.57,23.46,26.14,32.01,39.43,,27.7459,0,17.6700,1,294864566,330032485,-3.2743,-3.1488,-0.1255
+2026-11-11,23.06,24.75,22.71,24.57,23.46,26.14,32.01,39.43,,27.7459,0,17.6700,1,297451787,330084229,-3.2743,-3.1488,-0.1255
+2026-11-12,21.25,23.74,20.40,22.15,22.84,25.62,31.86,39.36,,27.7459,0,17.8116,1,357819954,334671144,-3.1901,-3.1570,-0.0331

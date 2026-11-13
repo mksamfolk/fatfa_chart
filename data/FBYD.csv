@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-12-10 09:30:00-05:00,1.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.26,FBYD,Falcon's Beyond Global Inc.,Industrials,Conglomerates,United States,331012512,6.83,94000,108515,741157.45,1.204,,,0.64929,-0.75863,-0.08598,-0.3182,-0.11829001,2567000,18614000,62.242,0.656,0.377,-17991000,-40158876,48464498,39646383,0.19594999,0.08274999,1912064,15.63,0.059299998,,,15.301276,21.961414,16.729,-26.044,,,,,none,,,,,,2026-11-13,-0.959,https://www.falconsbeyond.com,2026-11-10T09:39:51.132169+00:00
+14.90,FBYD,Falcon's Beyond Global Inc.,Industrials,Conglomerates,United States,331012512,6.83,94000,108515,741157.45,1.204,,,0.64929,-0.75863,-0.08598,-0.3182,-0.11829001,2567000,18614000,62.242,0.656,0.377,-17991000,-40158876,48464498,39646383,0.19594999,0.08274999,1912064,15.63,0.059299998,,,15.301276,21.961414,16.729,-26.044,,,,,none,,,,,,2026-11-13,-0.959,https://www.falconsbeyond.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-06,22.54,33.37,12.50,14.50,,,,,,,0,33.3667,0,5646300,,,,
 2023-10-09,12.67,12.67,8.34,12.45,,,,,,,0,33.3667,0,2133432,,,,
@@ -792,3 +792,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.00,7.25,6.26,6.83,7.21,7.71,8.58,11.60,10.44,8.6918,0,8.5190,0,778620,784668,-0.4961,-0.4565,-0.0397
 2026-11-10,6.74,7.08,6.47,6.65,7.10,7.63,8.53,11.59,10.40,8.6918,0,8.3383,0,306565,782401,-0.5108,-0.4673,-0.0435
 2026-11-11,6.84,6.84,6.31,6.33,6.97,7.53,8.45,11.59,10.36,8.5921,0,8.1720,0,256998,778159,-0.5420,-0.4823,-0.0598
+2026-11-12,6.68,6.68,5.45,5.59,6.76,7.39,8.37,11.59,10.32,8.2504,0,8.0191,0,1199055,793160,-0.6194,-0.5097,-0.1097

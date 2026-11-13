@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,APXT,Apex Treasury Corporation,Financial Services,Shell Companies,United States,467413216,10.17,91030,118529,1205439.93,,,,0.0,0.0,0.0,,,568601,0,,12.849,11.875,-739326,,34470000,34470000,0.0,0.87781996,13794,0.11,0.0004,,,,-31.880877,,,,,,,none,,,,,,,,https://apextreasurycorp.com,2026-11-10T07:58:18.811317+00:00
+0.00,APXT,Apex Treasury Corporation,Financial Services,Shell Companies,United States,467413216,10.17,91030,118529,1205439.93,,,,0.0,0.0,0.0,,,568601,0,,12.849,11.875,-739326,,34470000,34470000,0.0,0.87781996,13794,0.11,0.0004,,,,-31.880877,,,,,,,none,,,,,,,,https://apextreasurycorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-17,9.96,9.96,9.90,9.92,,,,,,,0,9.9600,0,306528,,,,
 2025-11-18,9.90,9.94,9.90,9.92,,,,,,,0,9.9600,0,348192,,,,
@@ -262,3 +262,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.17,10.17,10.17,10.17,10.16,10.15,10.14,10.06,10.03,10.1400,1,10.1274,1,265437,1130923,0.0098,0.0082,0.0016
 2026-11-10,10.17,10.18,10.17,10.18,10.17,10.15,10.14,10.07,10.04,10.1401,1,10.1299,1,1639193,1141276,0.0101,0.0086,0.0015
 2026-11-11,10.18,10.21,10.18,10.20,10.17,10.16,10.14,10.07,10.04,10.1529,1,10.1323,1,2022660,1181607,0.0123,0.0093,0.0029
+2026-11-12,10.21,10.21,10.21,10.21,10.18,10.16,10.14,10.07,10.04,10.1708,1,10.1370,1,1534563,1211874,0.0146,0.0104,0.0042

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SPCX,Space Exploration Technologies Corp.,Industrials,Aerospace & Defense,United States,1929461891072,142.07,107514650,96946090,13773131006.3,1.614,,,0.56755,0.27575,-0.08613,,,89855000576,39217999872,22.186,3.084,2.945,15761999872,,8246541218,3047047454,0.12487,0.47734,167294863,1.79,0.024400001,617.6957,53.33939,60.21477,10.913352,58.634,160.091,255.0627,800.0,70.0,1.7,buy,37,4,5,13,8,2026-10-20,,https://www.spacex.com,2026-11-10T12:57:45.302147+00:00
+0.00,SPCX,Space Exploration Technologies Corp.,Industrials,Aerospace & Defense,United States,1929461891072,142.07,107514650,96946090,13773131006.3,1.614,,,0.56755,0.27575,-0.08613,,,89855000576,39217999872,22.186,3.084,2.945,15761999872,,8246541218,3047047454,0.12487,0.47734,167294863,1.79,0.024400001,617.6957,53.33939,60.21477,10.913352,58.634,160.091,255.0627,800.0,70.0,1.7,buy,37,4,5,13,8,2026-10-20,,https://www.spacex.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-12,150.00,176.52,149.34,160.95,,,,,,,0,149.3400,1,83570839475,,,,
 2026-06-15,171.74,193.00,168.35,192.50,,,,,,,0,149.3400,1,49323620500,,,,
@@ -134,4 +134,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,130.94,135.32,128.57,134.27,139.08,145.24,149.18,,,150.9656,0,152.7014,0,15507514143,14627139011,-5.1490,-3.1388,-2.0101
 2026-11-09,136.51,143.20,135.37,142.07,138.60,144.18,149.19,,,150.9656,0,149.4703,0,14700438282,14765183081,-4.5460,-3.4203,-1.1258
 2026-11-10,139.16,144.89,137.65,143.09,138.05,143.50,149.18,,,150.9656,0,146.5622,0,11752625304,14818769483,-3.9404,-3.5243,-0.4161
-2026-11-11,143.38,145.16,138.62,139.75,137.50,142.88,149.13,,,150.9656,0,120.3900,1,15761731700,14980941600,-3.6875,-3.5569,-0.1306
+2026-11-11,143.38,145.16,138.62,139.75,137.50,142.88,149.13,,,150.9656,0,120.3900,1,15960721725,14984921401,-3.6875,-3.5569,-0.1306
+2026-11-12,137.85,147.60,137.75,139.94,137.11,142.45,149.12,,,150.9656,0,120.8854,1,13327382049,15111030042,-3.4322,-3.5320,0.0998

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,375769664,9.82,43750,22307,219054.74000000002,,,,0.0,0.0,0.0,,,976182,0,,14.568,11.82,-593420,,30762000,30314892,0.0,0.06339,1804,0.12,,327.33334,,,1.2960274,,,,,,,none,,,,,,,,,2026-11-10T13:11:03.285840+00:00
+0.00,TBCV,Thunder Bridge Capital Partners V Ltd.,Financial Services,Shell Companies,United States,375769664,9.82,43750,22307,219054.74000000002,,,,0.0,0.0,0.0,,,976182,0,,14.568,11.82,-593420,,30762000,30314892,0.0,0.06339,1804,0.12,,327.33334,,,1.2960274,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-05,10.06,11.10,9.82,9.83,,,,,,,0,11.1000,0,971204,,,,
 2026-10-06,9.78,9.80,9.78,9.80,,,,,,,0,11.1000,0,120540,,,,
@@ -57,3 +57,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.78,9.82,9.78,9.82,9.78,9.79,,,,9.9109,0,10.3085,0,3092318,,,,
 2026-11-10,9.77,9.77,9.76,9.76,9.78,9.79,,,,9.9109,0,10.2630,0,11712,,,,
 2026-11-11,9.78,9.81,9.74,9.74,9.77,9.79,,,,9.9109,0,10.2212,0,58440,,,,
+2026-11-12,9.78,9.81,9.78,9.80,9.78,9.79,,,,9.9109,0,10.1827,0,295960,,,,

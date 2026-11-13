@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.33,BTTC,Black Titan Corporation,,,,4784031,0.319,138460,11922776,3803365.544,,,,,,,,,,,,,,,,14996962,,,,,,,,,,0.18418014,,,,,,,none,,,,,,,,,2026-11-10T08:31:17.477347+00:00
+4.51,BTTC,Black Titan Corporation,,,,4784031,0.319,138460,11922776,3803365.544,,,,,,,,,,,,,,,,14996962,,,,,,,,,,0.18418014,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-02,6.00,39.00,5.48,23.98,,,,,,,0,5.4800,1,92004064,,,,
 2025-10-03,17.50,23.48,8.80,9.25,,,,,,,0,5.4800,1,26454075,,,,
@@ -294,3 +294,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.29,0.34,0.28,0.32,0.32,0.35,0.46,0.87,1.08,0.4057,0,0.3725,0,136851,1357708,-0.0483,-0.0500,0.0017
 2026-11-10,0.31,0.32,0.30,0.30,0.31,0.34,0.45,0.86,1.07,0.4057,0,0.3540,0,9655,1357845,-0.0469,-0.0494,0.0024
 2026-11-11,0.30,0.33,0.30,0.32,0.31,0.34,0.44,0.85,1.07,0.4057,0,0.3400,0,54910,1358702,-0.0433,-0.0482,0.0048
+2026-11-12,0.33,0.33,0.30,0.30,0.31,0.33,0.43,0.85,1.06,0.4057,0,0.3280,0,18998,1358839,-0.0416,-0.0469,0.0052

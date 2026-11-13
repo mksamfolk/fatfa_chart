@@ -1707,6 +1707,10 @@
 
         const realIndex = activeIndices[currentActiveIdx];
         const fileObj = uploadedFiles[realIndex];
+        const asofDate = fileObj.metadata?.retrievedAt || '';
+        const asofEl = document.getElementById('asofDateDisplay');
+        asofEl.innerText = asofDate ? ` (As of: ${asofDate})` : '';
+        asofEl.classList.toggle('hidden', !asofDate);
 
         Papa.parse(fileObj.text, {
             header: true, skipEmptyLines: true,
@@ -2131,15 +2135,9 @@
 
             const jsonPayload = await listResponse.json();
             let stockList = [];
-            let asofDate = "";
 
             if (Array.isArray(jsonPayload)) { stockList = jsonPayload; }
-            else { stockList = jsonPayload.stocks || []; asofDate = jsonPayload.asof || ""; }
-
-            if (asofDate) {
-                const asofEl = document.getElementById('asofDateDisplay');
-                if (asofEl) { asofEl.innerText = ` (As of: ${asofDate})`; asofEl.classList.remove('hidden'); }
-            }
+            else { stockList = jsonPayload.stocks || []; }
 
             uploadedFiles = []; activeIndices = [];
 

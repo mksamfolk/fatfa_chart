@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.51,CHAR,Charlton Aria Acquisition Corporation,Financial Services,Shell Companies,United States,120177496,10.9601,1680,25623,280830.6423,,-0.27,-0.27,0.0,0.0,0.0,,-0.0043200003,7194,1235558,,0.04,0.005,-426995,-194297,8840000,7947322,0.03563,0.98127997,3213,0.05,,43.8404,,,-63.72151,,,,,,,none,,,,,,,,https://www.charltonaria.com,2026-11-10T08:45:10.190788+00:00
+60.11,CHAR,Charlton Aria Acquisition Corporation,Financial Services,Shell Companies,United States,120177496,10.9601,1680,25623,280830.6423,,-0.27,-0.27,0.0,0.0,0.0,,-0.0043200003,7194,1235558,,0.04,0.005,-426995,-194297,8840000,7947322,0.03563,0.98127997,3213,0.05,,43.8404,,,-63.72151,,,,,,,none,,,,,,,,https://www.charltonaria.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-26,9.95,9.95,9.88,9.90,,,,,,,0,9.8800,1,2548260,,,,
 2024-11-27,9.89,9.91,9.89,9.91,,,,,,,0,9.8800,1,8633592,,,,
@@ -505,3 +505,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.97,10.97,10.97,10.97,10.98,10.98,10.96,10.81,10.74,11.0286,0,11.3824,0,,308877,0.0035,0.0077,-0.0042
 2026-11-10,10.97,10.97,10.97,10.97,10.98,10.98,10.96,10.82,10.74,11.0286,0,11.3655,0,,308877,0.0026,0.0067,-0.0041
 2026-11-11,11.00,11.00,10.98,11.00,10.98,10.98,10.96,10.82,10.75,11.0286,0,11.3493,0,17600,305232,0.0043,0.0062,-0.0019
+2026-11-12,11.00,11.00,11.00,11.00,10.98,10.98,10.97,10.82,10.75,11.0286,0,11.3337,0,,301174,0.0055,0.0061,-0.0005

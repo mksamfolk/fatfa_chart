@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SWMR,Swarmer Inc,Technology,Software - Infrastructure,United States,128218272,8.97,574360,701714,6294374.58,0.566,,,0.48551998,-33.63741,0.0,,,25289260,435406,1.395,12.282,11.171,-14328281,,14294121,3527726,0.65795,0.06937,868641,0.78,0.0934,,33.22222,430.6268,3.2429502,265.973,-5.175,60.0,60.0,60.0,1.0,strong_buy,1,0,0,0,0,2026-11-10,,https://swarmer.com,2026-11-10T13:08:00.102661+00:00
+0.00,SWMR,Swarmer Inc,Technology,Software - Infrastructure,United States,128218272,8.97,574360,701714,6294374.58,0.566,,,0.48551998,-33.63741,0.0,,,25289260,435406,1.395,12.282,11.171,-14328281,,14294121,3527726,0.65795,0.06937,868641,0.78,0.0934,,33.22222,430.6268,3.2429502,265.973,-5.175,60.0,60.0,60.0,1.0,strong_buy,1,0,0,0,0,2026-11-10,,https://swarmer.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-17,12.50,40.00,11.25,31.00,,,,,,,0,11.2500,1,380112700,,,,
 2026-03-18,40.00,65.04,38.55,55.00,,,,,,,0,11.2500,1,1213542000,,,,
@@ -196,3 +196,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.25,9.19,7.20,8.97,8.82,9.10,17.88,33.62,,10.5933,0,10.6841,0,6339996,14871866,-2.6513,-3.1921,0.5408
 2026-11-10,8.99,9.05,8.40,8.77,8.74,9.01,17.39,33.40,,10.5933,0,10.5171,0,4176274,14786178,-2.4609,-3.0458,0.5850
 2026-11-11,8.33,9.50,8.05,9.43,8.76,8.98,16.93,33.18,,10.5933,0,10.3569,0,5475058,14724504,-2.2310,-2.8829,0.6519
+2026-11-12,9.15,9.50,8.63,8.73,8.59,8.92,16.47,32.97,,10.5933,0,10.2030,0,2683602,14594563,-2.0813,-2.7226,0.6412

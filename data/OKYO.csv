@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.50,OKYO,OKYO Pharma Limited,Healthcare,Biotechnology,United Kingdom,67173792,1.28,63850,65660,84044.8,,,,0.0,0.0,0.0,-2.63784,-0.43095002,20594268,0,,2.427,2.403,-5935900,-2104482,52479527,27935377,0.31131,0.20099,76652,1.26,0.0018000001,,-1.9393939,,5.4468083,,-5.481,8.33333,13.0,5.0,,none,3,0,0,0,0,,-0.139,https://okyopharma.com,2026-11-10T11:49:17.885338+00:00
+28.23,OKYO,OKYO Pharma Limited,Healthcare,Biotechnology,United Kingdom,67173792,1.28,63850,65660,84044.8,,,,0.0,0.0,0.0,-2.63784,-0.43095002,20594268,0,,2.427,2.403,-5935900,-2104482,52479527,27935377,0.31131,0.20099,76652,1.26,0.0018000001,,-1.9393939,,5.4468083,,-5.481,8.33333,13.0,5.0,,none,3,0,0,0,0,,-0.139,https://okyopharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-17,4.50,6.11,3.52,3.62,,,,,,,0,6.1100,0,7533944,,,,
 2022-05-18,3.59,3.69,2.87,3.04,,,,,,,0,6.1100,0,1405696,,,,
@@ -1141,3 +1141,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.40,1.42,1.28,1.28,1.44,1.44,1.48,1.55,1.67,1.6303,0,1.6013,0,151808,96420,-0.0240,-0.0137,-0.0102
 2026-11-10,1.29,1.41,1.29,1.38,1.43,1.43,1.47,1.55,1.67,1.6303,0,1.5756,0,143934,93298,-0.0253,-0.0161,-0.0093
 2026-11-11,1.36,1.45,1.31,1.42,1.42,1.43,1.47,1.55,1.66,1.6303,0,1.5519,0,85058,93266,-0.0229,-0.0174,-0.0055
+2026-11-12,1.39,1.42,1.33,1.40,1.41,1.43,1.47,1.55,1.66,1.6303,0,1.5302,0,167160,96173,-0.0223,-0.0184,-0.0039

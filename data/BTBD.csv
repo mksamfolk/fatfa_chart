@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.17,BTBD,BT Brands Inc.,Consumer Cyclical,Restaurants,United States,10112024,1.635,10990,25842,42251.67,-0.061,9.066,9.475,0.19611,0.033010002,-0.04566,-0.089490004,-0.00989,4426170,3455558,54.433,4.475,3.458,324743,1031758,6184724,3166579,0.33801997,0.03592,27267,1.49,0.0055,,,0.7856828,1.5935673,0.71,19.081,,,,,none,,,,,,,0.519,https://itsburgertime.com,2026-11-10T08:30:20.079349+00:00
+70.18,BTBD,BT Brands Inc.,Consumer Cyclical,Restaurants,United States,10112024,1.635,10990,25842,42251.67,-0.061,9.066,9.475,0.19611,0.033010002,-0.04566,-0.089490004,-0.00989,4426170,3455558,54.433,4.475,3.458,324743,1031758,6184724,3166579,0.33801997,0.03592,27267,1.49,0.0055,,,0.7856828,1.5935673,0.71,19.081,,,,,none,,,,,,,0.519,https://itsburgertime.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-12,5.20,5.25,4.27,4.40,,,,,,,0,4.2700,1,1868680,,,,
 2021-11-15,4.30,4.49,4.30,4.49,,,,,,,0,4.2700,1,553168,,,,
@@ -1268,3 +1268,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.60,1.63,1.59,1.63,1.74,1.72,1.59,1.44,1.43,1.5206,1,1.8500,0,2943,42846,0.0148,0.0444,-0.0296
 2026-11-10,1.63,1.71,1.56,1.56,1.72,1.71,1.60,1.45,1.43,1.5206,1,1.8436,0,15132,41074,0.0028,0.0361,-0.0333
 2026-11-11,1.60,1.66,1.30,1.46,1.68,1.70,1.60,1.45,1.43,1.9605,0,1.8373,0,29200,40114,-0.0146,0.0260,-0.0406
+2026-11-12,1.45,1.61,1.32,1.55,1.65,1.69,1.61,1.45,1.43,1.9605,0,1.8158,0,27745,38433,-0.0209,0.0166,-0.0375

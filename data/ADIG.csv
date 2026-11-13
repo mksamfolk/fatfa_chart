@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ADIG,ADI Global Distribution Inc.,Technology,Computer Hardware,United States,1469873152,19.36,524010,819759,15870534.24,0.007,,,0.21893999,0.02333,0.00861,,,131000000,1248000000,50.835,2.796,0.978,-630000000,,75923198,75882959,8.9999994e-05,0.53442,3695830,5.13,,,10.489416,0.301327,0.59873205,0.53,10.105,26.4,35.0,20.0,,none,5,0,0,2,0,2026-11-12,,https://www.adiglobal.com,2026-11-10T07:38:23.959452+00:00
+0.00,ADIG,ADI Global Distribution Inc.,Technology,Computer Hardware,United States,1469873152,19.36,524010,819759,15870534.24,0.007,,,0.21893999,0.02333,0.00861,,,131000000,1248000000,50.835,2.796,0.978,-630000000,,75923198,75882959,8.9999994e-05,0.53442,3695830,5.13,,,10.489416,0.301327,0.59873205,0.53,10.105,26.4,35.0,20.0,,none,5,0,0,2,0,2026-11-12,,https://www.adiglobal.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-30,22.00,22.00,21.00,21.00,,,,,,,0,22.0000,0,23100,,,,
 2026-07-31,19.90,20.12,19.90,20.12,,,,,,,0,22.0000,0,8048,,,,
@@ -103,3 +103,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,18.83,19.70,18.75,19.36,18.20,17.10,18.64,,,16.0826,1,17.5854,1,6669520,12175066,0.1319,-0.2675,0.3993
 2026-11-10,19.28,19.73,18.99,19.07,18.37,17.23,18.58,,,16.3099,1,17.9238,1,7202739,11821841,0.2012,-0.1737,0.3749
 2026-11-11,19.43,19.84,19.18,19.58,18.60,17.43,18.57,,,16.5339,1,18.2489,1,8924564,11534668,0.2939,-0.0802,0.3741
+2026-11-12,15.46,15.72,9.79,9.82,17.81,17.14,18.34,,,18.3705,0,19.8400,0,55929808,12225153,-0.4154,-0.1472,-0.2682

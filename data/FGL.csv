@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-10 09:30:00-05:00,0.01\n2026-09-01 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.03,FGL,Founder Group Limited,Industrials,Engineering & Construction,Malaysia,105025,1.39,274210,339172,471449.07999999996,0.089,,,0.11581001,-0.025209999,-0.06432,-0.32771,-0.00874,80243160,128219904,423.778,1.155,1.015,-41034816,-45684188,73693,32046,0.01396,0.01877,10661,0.11,0.1452,,,0.0008701498,0.008048958,0.398,293.709,,,,,none,,,,,,,1.359,https://www.founderenergy.com.my,2026-11-10T09:43:25.119405+00:00
+0.03,FGL,Founder Group Limited,Industrials,Engineering & Construction,Malaysia,105025,1.39,274210,339172,471449.07999999996,0.089,,,0.11581001,-0.025209999,-0.06432,-0.32771,-0.00874,80243160,128219904,423.778,1.155,1.015,-41034816,-45684188,73693,32046,0.01396,0.01877,10661,0.11,0.1452,,,0.0008701498,0.008048958,0.398,293.709,,,,,none,,,,,,,1.359,https://www.founderenergy.com.my,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,50000.00,50400.00,30300.00,31600.00,,,,,,,0,50400.0000,0,1706400,,,,
 2024-10-24,29600.00,35000.00,26300.00,33300.00,,,,,,,0,50400.0000,0,666000,,,,
@@ -528,4 +528,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.26,1.26,1.11,1.15,1.41,2.37,16.93,133.59,416.65,3.5192,0,1.7100,0,51750,2334772,-4.9010,-6.5071,1.6061
 2026-11-09,1.17,1.40,1.17,1.39,1.37,2.21,15.26,130.79,408.56,3.4640,0,1.6860,0,9621163,2520665,-4.5749,-6.1207,1.5458
 2026-11-10,1.07,1.17,0.90,1.06,1.32,2.05,13.69,128.26,400.41,3.1438,0,1.6630,0,761610,2523424,-4.2935,-5.7552,1.4617
-2026-11-11,0.96,1.40,0.91,1.15,1.29,1.89,12.20,125.44,391.82,3.1438,0,1.6172,0,1075710,2542866,-4.0170,-5.4076,1.3906
+2026-11-11,0.96,1.40,0.91,1.15,1.29,1.89,12.20,125.44,391.82,3.1438,0,1.6172,0,1087785,2543107,-4.0170,-5.4076,1.3906
+2026-11-12,1.02,1.30,0.98,1.10,1.25,1.72,10.65,122.50,383.17,3.0734,0,1.5742,0,251900,2374710,-3.7586,-5.0778,1.3192

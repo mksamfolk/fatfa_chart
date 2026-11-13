@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-17.38,DTI,Drilling Tools International Corporation,Energy,Oil & Gas Equipment & Services,United States,55745916,1.58,211410,215834,341017.72000000003,0.047,,,0.7235,-0.039219998,-0.0306,-0.03968,0.00191,2965000,74597000,63.199,2.084,1.377,1319000,-1019500,35282224,14049029,0.12401,0.31098,312864,1.27,0.016,,6.5833335,0.35922465,0.47234678,0.821,4.484,4.4,6.0,2.8,,none,2,0.0,0.0,1.0,1.0,2026-11-05,,https://www.drillingtools.com,2026-11-10T09:20:21.733540+00:00
+21.28,DTI,Drilling Tools International Corporation,Energy,Oil & Gas Equipment & Services,United States,55745916,1.58,211410,215834,341017.72000000003,0.047,,,0.7235,-0.039219998,-0.0306,-0.03968,0.00191,2965000,74597000,63.199,2.084,1.377,1319000,-1019500,35282224,14049029,0.12401,0.31098,312864,1.27,0.016,,6.5833335,0.35922465,0.47234678,0.821,4.484,4.4,6.0,2.8,,none,2,0.0,0.0,1.0,1.0,2026-11-05,,https://www.drillingtools.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-29,9.85,9.90,9.82,9.85,,,,,,,0,9.9000,0,2702840,,,,
 2021-12-30,9.85,9.87,9.82,9.82,,,,,,,0,9.9000,0,2707374,,,,
@@ -1237,3 +1237,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.48,1.69,1.46,1.58,1.56,1.68,2.15,2.63,2.86,1.8251,0,1.3500,1,1026052,468727,-0.1949,-0.1973,0.0024
 2026-11-10,1.56,1.62,1.47,1.48,1.54,1.65,2.14,2.62,2.86,1.8251,0,1.3500,1,115884,451961,-0.1893,-0.1957,0.0064
 2026-11-11,1.55,1.70,1.55,1.61,1.53,1.64,2.12,2.60,2.85,1.8251,0,1.3568,1,239085,440225,-0.1724,-0.1910,0.0186
+2026-11-12,1.62,1.80,1.60,1.72,1.53,1.65,2.11,2.59,2.85,1.8251,0,1.3705,1,413832,443124,-0.1484,-0.1825,0.0341

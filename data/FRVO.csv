@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FRVO,Fervo Energy Company,Utilities,Utilities - Renewable,United States,3354405376,11.38,7644130,7695642,87576405.96000001,,,,-1.45513,-254.35399,0.0,,,2106370944,338284992,11.349,8.616,8.493,-81751000,,286977787,183752431,0.22893,0.60196996,23603475,2.84,,,-35.526974,10751.299,-0.42415208,3458.743,-14.061,32.4,51.0,16.0,1.375,strong_buy,15,0,1,1,1,2026-11-09,,https://fervoenergy.com,2026-11-10T09:51:15.688700+00:00
+0.00,FRVO,Fervo Energy Company,Utilities,Utilities - Renewable,United States,3354405376,11.38,7644130,7695642,87576405.96000001,,,,-1.45513,-254.35399,0.0,,,2106370944,338284992,11.349,8.616,8.493,-81751000,,286977787,183752431,0.22893,0.60196996,23603475,2.84,,,-35.526974,10751.299,-0.42415208,3458.743,-14.061,32.4,51.0,16.0,1.375,strong_buy,15,0,1,1,1,2026-11-09,,https://fervoenergy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-13,36.00,38.41,36.00,36.54,,,,,,,0,36.0000,1,1284903554,,,,
 2026-05-14,35.88,40.95,35.50,40.63,,,,,,,0,40.9500,0,461979364,,,,
@@ -155,4 +155,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.26,9.09,7.99,9.03,8.55,9.25,13.12,,,10.6025,0,9.5900,0,81752200,115754817,-1.4058,-1.6573,0.2515
 2026-11-09,9.04,11.46,8.92,11.38,8.89,9.17,13.05,,,6.8146,1,7.6400,1,272914025,120008515,-1.1051,-1.5469,0.4418
 2026-11-10,11.44,12.11,10.92,11.38,9.16,9.14,12.97,,,8.1201,1,7.7164,1,170365430,122029932,-0.8570,-1.4089,0.5519
-2026-11-11,11.92,13.28,11.66,12.94,9.63,9.24,12.83,,,8.8446,1,7.8921,1,169385889,111500812,-0.5283,-1.2328,0.7044
+2026-11-11,11.92,13.28,11.66,12.94,9.63,9.24,12.83,,,8.8446,1,7.8921,1,169679626,111506687,-0.5283,-1.2328,0.7044
+2026-11-12,12.33,12.57,11.64,11.65,9.89,9.31,12.71,,,8.8446,1,8.2154,1,99680892,106436682,-0.3677,-1.0598,0.6920

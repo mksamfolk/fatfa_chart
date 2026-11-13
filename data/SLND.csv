@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.73,SLND,Southland Holdings Inc.,Industrials,Engineering & Construction,United States,36689364,0.674,124000,4307878,2903509.7720000003,-0.474,,,-0.43896,-0.77611,-0.67047,,-0.20808001,34878000,267994000,,1.274,1.139,-156304992,-109948496,54435257,14350222,0.73638,0.119969994,365226,0.03,0.025,,3.964706,0.060843606,-0.1446973,0.456,-0.901,3.0,3.0,3.0,,none,2,1,1,0,1,2026-11-12,0.318,https://www.southlandholdings.com,2026-11-10T12:51:20.725635+00:00
+18.79,SLND,Southland Holdings Inc.,Industrials,Engineering & Construction,United States,36689364,0.674,124000,4307878,2903509.7720000003,-0.474,,,-0.43896,-0.77611,-0.67047,,-0.20808001,34878000,267994000,,1.274,1.139,-156304992,-109948496,54435257,14350222,0.73638,0.119969994,365226,0.03,0.025,,3.964706,0.060843606,-0.1446973,0.456,-0.901,3.0,3.0,3.0,,none,2,1,1,0,1,2026-11-12,0.318,https://www.southlandholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-23,9.73,10.01,9.73,9.75,,,,,,,0,9.7300,1,168675,,,,
 2021-12-27,9.75,9.75,9.75,9.75,,,,,,,0,9.7300,1,97500,,,,
@@ -1240,3 +1240,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.69,0.69,0.66,0.67,0.75,0.75,0.70,0.90,1.15,0.6146,1,0.8995,0,42732,239096,-0.0032,0.0121,-0.0152
 2026-11-10,0.66,0.68,0.65,0.66,0.73,0.75,0.70,0.90,1.14,0.6146,1,0.8756,0,64444,236652,-0.0083,0.0080,-0.0162
 2026-11-11,0.68,0.68,0.60,0.63,0.71,0.74,0.70,0.89,1.13,0.6146,1,0.8490,0,95356,228806,-0.0148,0.0034,-0.0183
+2026-11-12,0.61,0.65,0.61,0.63,0.69,0.73,0.70,0.89,1.12,0.6146,1,0.8142,0,727020,237781,-0.0198,-0.0012,-0.0186

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.75,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,33143376,1.115,32910,472865,527244.475,0.046,0.042,0.067,0.24858,0.09134,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61797,0.01204,25920,0.63,0.0062,27.875,,1.6383945,2.654762,1.499,21.835,,,,,none,,,,,,2026-12-08,,,2026-11-10T07:43:58.230963+00:00
+15.86,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,33143376,1.115,32910,472865,527244.475,0.046,0.042,0.067,0.24858,0.09134,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61797,0.01204,25920,0.63,0.0062,27.875,,1.6383945,2.654762,1.499,21.835,,,,,none,,,,,,2026-12-08,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-21,4.00,5.40,4.00,4.65,,,,,,,0,4.0000,1,13632870,,,,
 2025-10-22,4.25,4.49,4.13,4.39,,,,,,,0,4.0000,1,4655116,,,,
@@ -281,3 +281,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.15,1.15,1.06,1.12,1.11,1.13,1.32,1.49,4.28,1.4010,0,1.1726,0,31666,1026686,-0.0596,-0.0731,0.0135
 2026-11-10,1.14,1.27,1.12,1.24,1.12,1.13,1.31,1.47,4.26,1.4010,0,1.0300,1,63984,1026536,-0.0457,-0.0676,0.0219
 2026-11-11,1.24,1.24,1.16,1.22,1.13,1.13,1.30,1.44,4.24,1.4010,0,1.0348,1,15552,1024829,-0.0362,-0.0613,0.0251
+2026-11-12,1.17,1.21,1.15,1.17,1.14,1.13,1.29,1.42,4.22,1.4010,0,1.0395,1,27612,1024536,-0.0320,-0.0555,0.0234

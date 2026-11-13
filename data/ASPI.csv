@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.98,ASPI,ASP Isotopes Inc.,Basic Materials,Specialty Chemicals,United States,328082080,2.14,4027460,4107334,8789694.76,3.276,,,0.1832,-6.6748,0.0,-0.90348,-0.17013,254896000,269544000,98.091,3.873,3.692,-67803000,-28586018,153309380,133049545,0.1046,0.47122002,29048703,5.78,0.207,,-2.5628746,10.634062,1.0521141,11.436,-3.856,13.0,15.0,11.0,,none,3,0,1,0,0,2026-11-12,3.785,https://aspisotopes.com,2026-11-10T08:03:09.298216+00:00
+7.90,ASPI,ASP Isotopes Inc.,Basic Materials,Specialty Chemicals,United States,328082080,2.14,4027460,4107334,8789694.76,3.276,,,0.1832,-6.6748,0.0,-0.90348,-0.17013,254896000,269544000,98.091,3.873,3.692,-67803000,-28586018,153309380,133049545,0.1046,0.47122002,29048703,5.78,0.207,,-2.5628746,10.634062,1.0521141,11.436,-3.856,13.0,15.0,11.0,,none,3,0,1,0,0,2026-11-12,3.785,https://aspisotopes.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-10,3.22,3.75,2.12,2.67,,,,,,,0,2.1200,1,3913686,,,,
 2022-11-11,2.47,2.94,2.15,2.80,,,,,,,0,2.1200,1,835240,,,,
@@ -1032,4 +1032,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.84,2.08,1.74,2.08,1.97,2.06,2.77,4.45,4.71,2.3804,0,1.6600,1,7593048,12101211,-0.2456,-0.2788,0.0332
 2026-11-09,2.08,2.19,2.02,2.14,1.98,2.04,2.73,4.44,4.68,2.3804,0,1.6600,1,8721570,12061800,-0.2164,-0.2663,0.0500
 2026-11-10,2.14,2.17,1.97,1.98,1.98,2.03,2.69,4.42,4.65,2.3804,0,1.6812,1,6166710,11963801,-0.2038,-0.2538,0.0501
-2026-11-11,2.07,2.08,1.95,1.96,1.97,2.02,2.66,4.41,4.62,2.3804,0,1.7016,1,4305924,11756161,-0.1932,-0.2417,0.0485
+2026-11-11,2.07,2.08,1.95,1.96,1.97,2.02,2.66,4.41,4.62,2.3804,0,1.7016,1,4329052,11756623,-0.1932,-0.2417,0.0485
+2026-11-12,1.90,1.93,1.82,1.87,1.94,2.00,2.62,4.39,4.59,2.3804,0,1.7211,1,5799992,11635212,-0.1898,-0.2313,0.0415

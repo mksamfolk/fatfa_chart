@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JONE,Jones Ventures INTL Acquisition1 Corp,Financial Services,Shell Companies,United States,358282272,9.85,15370,41136,405189.6,,,,0.0,0.0,0.0,,,192683,370657,,0.244,0.219,-95590,,21040500,21040631,0.0,0.06945,342,0.01,,,,,-615.625,,,,,,,none,,,,,,,,,2026-11-10T10:42:27.058102+00:00
+0.00,JONE,Jones Ventures INTL Acquisition1 Corp,Financial Services,Shell Companies,United States,358282272,9.85,15370,41136,405189.6,,,,0.0,0.0,0.0,,,192683,370657,,0.244,0.219,-95590,,21040500,21040631,0.0,0.06945,342,0.01,,,,,-615.625,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,10.00,10.00,9.78,9.84,,,,,,,0,9.7800,1,911184,,,,
 2026-09-04,9.81,9.82,9.81,9.82,,,,,,,0,9.7800,1,1516208,,,,
@@ -78,3 +78,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.85,9.85,9.85,9.85,9.83,9.82,,,,9.9110,0,9.8024,1,10835,,0.0088,0.0010,0.0078
 2026-11-10,9.85,9.85,9.85,9.85,9.84,9.82,,,,9.9049,0,9.8048,1,,,0.0092,0.0026,0.0066
 2026-11-11,9.85,9.85,9.85,9.85,9.84,9.82,,,,9.8994,0,9.8071,1,,,0.0094,0.0040,0.0055
+2026-11-12,9.83,9.84,9.83,9.84,9.84,9.83,9.83,,,9.8854,0,9.8093,1,3542400,442651,0.0087,0.0049,0.0038

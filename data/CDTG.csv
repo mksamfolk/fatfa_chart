@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.99,CDTG,CDT Environmental Technology Investment Holdings Limited,Industrials,Waste Management,China,2991119,0.9901,98260,4283401,4240995.3301,-0.361,,,0.41474,-0.96401,-0.55949,-0.30454,-0.0817,66686,6129135,20.004,1.456,1.445,-1490957,-5753700,3021027,2766994,0.06057,0.05178,186771,0.68,0.065799996,,,0.16411437,0.017497571,0.498,-0.796,,,,,none,,,,,,,-1.871,https://www.cdthb.cn,2026-11-10T08:41:51.857566+00:00
+13.21,CDTG,CDT Environmental Technology Investment Holdings Limited,Industrials,Waste Management,China,2991119,0.9901,98260,4283401,4240995.3301,-0.361,,,0.41474,-0.96401,-0.55949,-0.30454,-0.0817,66686,6129135,20.004,1.456,1.445,-1490957,-5753700,3021027,2766994,0.06057,0.05178,186771,0.68,0.065799996,,,0.16411437,0.017497571,0.498,-0.796,,,,,none,,,,,,,-1.871,https://www.cdthb.cn,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,81.00,115.00,80.38,93.75,,,,,,,0,80.3750,1,897375,,,,
 2024-04-22,98.50,111.00,93.75,101.00,,,,,,,0,80.3750,1,200384,,,,
@@ -658,3 +658,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.98,1.06,0.90,0.99,0.98,1.04,1.27,4.05,5.11,1.4117,0,1.2130,0,44946,10208299,-0.0801,-0.0826,0.0026
 2026-11-10,0.98,1.08,0.94,1.00,0.97,1.04,1.26,3.99,5.08,1.4117,0,1.1848,0,44600,10207762,-0.0742,-0.0810,0.0067
 2026-11-11,0.99,1.06,0.97,1.03,0.98,1.04,1.26,3.93,5.03,1.4117,0,1.1588,0,49852,10204804,-0.0664,-0.0780,0.0117
+2026-11-12,1.07,1.15,0.95,1.06,0.99,1.04,1.26,3.88,5.00,1.4117,0,0.8600,1,97414,10205276,-0.0571,-0.0739,0.0167

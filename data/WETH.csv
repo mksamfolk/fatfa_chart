@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.84,WETH,Wetouch Technology Inc.,Technology,Electronic Components,China,10994269,0.8216,106490,67387,55365.1592,0.127,-0.061,-0.035,0.32099,0.22604999,0.17567,0.05978,0.04818,127516512,215718,0.145,35.991,35.724,8183548,9825276,13381534,3788312,0.01815,0.01819,6996,0.09,0.0005,1.1737143,,0.2302887,0.06921068,-2.436,-10.379,,,,,none,,,,,,,1.001,https://www.wetouchinc.com,2026-11-10T13:49:48.456915+00:00
+13.29,WETH,Wetouch Technology Inc.,Technology,Electronic Components,China,10994269,0.8216,106490,67387,55365.1592,0.127,-0.061,-0.035,0.32099,0.22604999,0.17567,0.05978,0.04818,127516512,215718,0.145,35.991,35.724,8183548,9825276,13381534,3788312,0.01815,0.01819,6996,0.09,0.0005,1.1737143,,0.2302887,0.06921068,-2.436,-10.379,,,,,none,,,,,,,1.001,https://www.wetouchinc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-21,3.87,4.35,2.53,2.95,,,,,,,0,2.5271,1,1744600,,,,
 2024-02-22,3.47,4.60,3.30,3.87,,,,,,,0,2.5271,1,2580400,,,,
@@ -699,3 +699,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.77,0.83,0.76,0.82,0.85,0.91,1.05,1.27,1.36,1.0599,0,0.9140,0,33538,60948,-0.0668,-0.0625,-0.0043
 2026-11-10,0.81,0.84,0.79,0.80,0.84,0.90,1.05,1.27,1.35,1.0599,0,0.8910,0,34185,59943,-0.0672,-0.0635,-0.0037
 2026-11-11,0.84,0.90,0.82,0.86,0.84,0.89,1.04,1.27,1.35,1.0599,0,0.7230,1,78174,60391,-0.0616,-0.0631,0.0015
+2026-11-12,0.86,0.90,0.80,0.81,0.83,0.88,1.04,1.26,1.35,1.0599,0,0.7265,1,139673,59602,-0.0602,-0.0625,0.0023

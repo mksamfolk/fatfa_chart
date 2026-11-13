@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.26,MAMO,Massimo Group,Consumer Cyclical,Recreational Vehicles,United States,39504772,0.9487,23120,32278,30622.1386,-0.211,15.086,17.697,0.42983,0.11137,0.060399998,0.17929001,0.06823,4637858,8389356,34.847,1.85,0.6,4564056,6146143,41640950,8870772,0.78696996,0.0135699995,56374,1.36,0.006,9.4869995,,0.60180414,1.6413494,0.659,8.029,,,,,none,,,,,,,0.337,https://www.massimomotor.com,2026-11-10T11:07:26.169724+00:00
+31.27,MAMO,Massimo Group,Consumer Cyclical,Recreational Vehicles,United States,39504772,0.9487,23120,32278,30622.1386,-0.211,15.086,17.697,0.42983,0.11137,0.060399998,0.17929001,0.06823,4637858,8389356,34.847,1.85,0.6,4564056,6146143,41640950,8870772,0.78696996,0.0135699995,56374,1.36,0.006,9.4869995,,0.60180414,1.6413494,0.659,8.029,,,,,none,,,,,,,0.337,https://www.massimomotor.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-02,3.50,3.80,2.90,3.01,,,,,,,0,2.9000,1,2906757,,,,
 2024-04-03,3.15,3.62,3.15,3.42,,,,,,,0,2.9000,1,808146,,,,
@@ -671,3 +671,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.95,0.98,0.93,0.95,0.97,0.96,0.98,0.99,1.27,0.8641,1,1.0468,0,28280,23837,-0.0030,-0.0035,0.0006
 2026-11-10,0.96,0.99,0.90,0.95,0.97,0.96,0.98,0.99,1.25,0.8641,1,1.0437,0,14155,23238,-0.0037,-0.0036,-0.0002
 2026-11-11,0.96,0.99,0.96,0.99,0.96,0.96,0.98,0.99,1.24,0.8641,1,1.0406,0,8712,22994,-0.0011,-0.0031,0.0020
+2026-11-12,0.96,0.99,0.96,0.98,0.96,0.96,0.98,0.99,1.22,0.8641,1,1.0376,0,5978,22877,0.0002,-0.0024,0.0026

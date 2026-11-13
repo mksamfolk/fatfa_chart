@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.60,VTS,Vitesse Energy Inc.,Energy,Oil & Gas E&P,United States,624813376,14.83,630010,499848,7412745.84,0.233,,,0.74333,-0.56004,-0.16947001,-0.075830005,-0.03133,650000,190838000,33.425,0.649,0.605,126283000,-2121500,42131715,31633756,0.17996,0.69698,5645221,11.43,0.1518,,61.791668,2.2870934,1.1117775,2.983,9.469,21.5,22.5,20.5,1.5,strong_buy,4,0,0,0,1,2026-11-02,0.595,https://vitesse-vts.com,2026-11-10T13:46:25.016025+00:00
+36.99,VTS,Vitesse Energy Inc.,Energy,Oil & Gas E&P,United States,624813376,14.83,630010,499848,7412745.84,0.233,,,0.74333,-0.56004,-0.16947001,-0.075830005,-0.03133,650000,190838000,33.425,0.649,0.605,126283000,-2121500,42131715,31633756,0.17996,0.69698,5645221,11.43,0.1518,,61.791668,2.2870934,1.1117775,2.983,9.469,21.5,22.5,20.5,1.5,strong_buy,4,0,0,0,1,2026-11-02,0.595,https://vitesse-vts.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-10,13.07,13.07,11.62,12.71,,,,,,,0,11.6192,1,119000,,,,
 2023-01-11,12.76,13.07,12.18,12.89,,,,,,,0,11.6192,1,275125,,,,
@@ -993,3 +993,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.65,14.94,14.51,14.83,16.52,17.24,17.31,16.94,17.54,16.5534,0,17.6949,0,8562842,8921605,-0.6113,-0.1953,-0.4160
 2026-11-10,14.64,14.98,14.47,14.86,16.17,17.10,17.26,16.93,17.52,16.5271,0,17.4975,0,6688486,8887505,-0.6755,-0.2913,-0.3842
 2026-11-11,15.02,15.29,14.85,15.23,15.87,16.99,17.21,16.91,17.50,16.5271,0,17.3120,0,6321973,8829713,-0.6886,-0.3708,-0.3178
+2026-11-12,15.32,15.61,15.09,15.42,15.58,16.89,17.17,16.90,17.48,16.5271,0,17.1376,0,7713084,8757592,-0.6758,-0.4318,-0.2441

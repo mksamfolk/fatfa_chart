@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-62.15,WTG,Wintergreen Acquisition Corp.,Financial Services,Shell Companies,China,78414112,10.6884,13280,60003,641336.0652,,0.514,2.264,0.0,0.0,0.0,,,1028051,0,,450.84,7.788,-422108,,7336375,5250978,0.22678,0.67294997,168,0.0,0.0,46.471306,,,39.73383,,,,,,,none,,,,,,,,,2026-11-10T13:55:58.645499+00:00
+63.65,WTG,Wintergreen Acquisition Corp.,Financial Services,Shell Companies,China,78414112,10.6884,13280,60003,641336.0652,,0.514,2.264,0.0,0.0,0.0,,,1028051,0,,450.84,7.788,-422108,,7336375,5250978,0.22678,0.67294997,168,0.0,0.0,46.471306,,,39.73383,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-21,10.20,10.20,9.74,10.02,,,,,,,0,9.7400,1,4361706,,,,
 2025-07-22,10.01,10.01,10.01,10.01,,,,,,,0,9.7400,1,5003,,,,
@@ -346,3 +346,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.69,10.69,10.69,10.69,10.69,10.68,10.61,10.44,10.39,10.6300,1,10.7458,0,2138,777071,0.0228,0.0290,-0.0062
 2026-11-10,10.69,10.69,10.69,10.69,10.69,10.68,10.61,10.45,10.39,10.6300,1,10.7438,0,,777071,0.0214,0.0275,-0.0061
 2026-11-11,10.84,10.84,10.84,10.84,10.70,10.69,10.62,10.45,10.39,10.7272,1,10.6450,1,2168,777114,0.0322,0.0284,0.0038
+2026-11-12,10.84,10.84,10.84,10.84,10.72,10.70,10.62,10.45,10.40,10.7385,1,10.6489,1,,777072,0.0403,0.0308,0.0095

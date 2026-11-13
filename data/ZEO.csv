@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.89,ZEO,Zeo Energy Corp.,Technology,Solar,United States,20623002,0.2151,607340,11203842,2409946.4142,-0.107,,,0.51102,-0.18485,-0.15427,-0.31074,-0.13561,2451981,1541109,3.731,1.562,1.299,-5455775,-7564670,46516341,18109124,0.25837,0.24585,1413016,0.05,0.045500003,,,0.28715357,0.8209924,0.548,-3.902,,,,,none,,,,,,,0.594,https://zeoenergy.com,2026-11-10T14:05:38.773439+00:00
+6.24,ZEO,Zeo Energy Corp.,Technology,Solar,United States,20623002,0.2151,607340,11203842,2409946.4142,-0.107,,,0.51102,-0.18485,-0.15427,-0.31074,-0.13561,2451981,1541109,3.731,1.562,1.299,-5455775,-7564670,46516341,18109124,0.25837,0.24585,1413016,0.05,0.045500003,,,0.28715357,0.8209924,0.548,-3.902,,,,,none,,,,,,,0.594,https://zeoenergy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-16,9.85,9.85,9.85,9.85,,,,,,,0,9.8500,1,20685,,,,
 2021-12-17,9.89,9.89,9.89,9.89,,,,,,,0,9.8500,1,1977,,,,
@@ -1245,3 +1245,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.22,0.23,0.21,0.22,0.24,0.25,0.32,0.59,0.71,0.3100,0,0.2869,0,62866,262024,-0.0246,-0.0247,0.0000
 2026-11-10,0.22,0.22,0.19,0.19,0.23,0.25,0.31,0.59,0.70,0.2992,0,0.2837,0,70189,260429,-0.0264,-0.0250,-0.0014
 2026-11-11,0.22,0.22,0.20,0.22,0.23,0.25,0.30,0.58,0.70,0.2992,0,0.2782,0,96975,260157,-0.0253,-0.0251,-0.0003
+2026-11-12,0.23,0.26,0.22,0.25,0.23,0.25,0.30,0.58,0.69,0.2992,0,0.2731,0,169065,261890,-0.0215,-0.0244,0.0029

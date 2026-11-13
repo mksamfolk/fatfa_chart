@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-19 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.51,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,10485591,1.25,4710,22662,28327.5,-0.64,,,-0.21504,-2.46328,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00031,25243,2.57,0.0034999999,,,1.1735384,0.7739938,1.643,-1.217,,,,,none,,,,,,,2.461,https://primegaghl.com,2026-11-10T14:05:25.037268+00:00
+14.25,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,10485591,1.25,4710,22662,28327.5,-0.64,,,-0.21504,-2.46328,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00031,25243,2.57,0.0034999999,,,1.1735384,0.7739938,1.643,-1.217,,,,,none,,,,,,,2.461,https://primegaghl.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-23,89.60,152.80,58.56,67.52,,,,,,,0,152.8000,0,14419773,,,,
 2024-07-24,65.60,78.88,57.60,61.44,,,,,,,0,152.8000,0,4687135,,,,
@@ -594,3 +594,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.31,1.36,1.25,1.25,1.26,1.27,1.47,2.18,3.17,1.5313,0,1.1440,1,7000,45555,-0.0494,-0.0730,0.0236
 2026-11-10,1.40,1.43,1.35,1.43,1.29,1.27,1.46,2.16,3.16,1.5313,0,1.1594,1,9581,44854,-0.0339,-0.0652,0.0313
 2026-11-11,1.47,1.57,1.35,1.55,1.32,1.28,1.45,2.14,3.15,1.0350,1,1.1811,1,15190,16524,-0.0118,-0.0545,0.0427
+2026-11-12,1.47,1.53,1.45,1.45,1.33,1.29,1.45,2.13,3.14,1.0628,1,1.2199,1,3045,13611,-0.0023,-0.0441,0.0417

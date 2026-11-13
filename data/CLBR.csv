@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CLBR,Colombier Acquisition Corp. III,Financial Services,Shell Companies,United States,401767360,10.04,87510,125453,1259548.1199999999,,,,0.0,0.0,0.0,,,1131577,0,,,,0,,30050000,29900053,0.00116,0.72273004,392922,3.09,0.013099999,,,,-239.04762,,,,,,,none,,,,,,,,https://www.colombierspac.com,2026-11-10T08:49:05.762984+00:00
+0.00,CLBR,Colombier Acquisition Corp. III,Financial Services,Shell Companies,United States,401767360,10.04,87510,125453,1259548.1199999999,,,,0.0,0.0,0.0,,,1131577,0,,,,0,,30050000,29900053,0.00116,0.72273004,392922,3.09,0.013099999,,,,-239.04762,,,,,,,none,,,,,,,,https://www.colombierspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-27,10.07,10.16,10.01,10.07,,,,,,,0,10.0100,1,766327,,,,
 2026-03-30,10.08,10.08,10.03,10.03,,,,,,,0,10.0100,1,123369,,,,
@@ -173,3 +173,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.08,10.08,10.02,10.04,10.08,10.09,10.18,,,10.1728,0,10.1345,0,1306204,1320100,-0.0348,-0.0335,-0.0013
 2026-11-10,10.03,10.05,10.03,10.05,10.08,10.09,10.17,,,10.1616,0,10.1318,0,1098465,1341946,-0.0344,-0.0337,-0.0008
 2026-11-11,10.07,10.07,10.07,10.07,10.07,10.08,10.17,,,10.1616,0,10.1291,0,2014,1341986,-0.0322,-0.0334,0.0012
+2026-11-12,10.08,10.08,10.05,10.05,10.07,10.08,10.16,,,10.1616,0,10.1265,0,282405,1347634,-0.0316,-0.0330,0.0014

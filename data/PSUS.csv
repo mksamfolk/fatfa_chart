@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PSUS,Pershing Square USA Ltd.,Financial Services,Asset Management,United States,3674000128,36.74,736570,357943,13150825.82,,,,0.0,0.0,0.0,,,,,,,,,,100000000,,0.056799997,0.38637,295644,1.04,,,5.060606,,,,,42.0,42.0,42.0,,none,1,0,0,0,0,,,https://www.pershingsquareusa.com,2026-11-10T12:16:00.306316+00:00
+0.00,PSUS,Pershing Square USA Ltd.,Financial Services,Asset Management,United States,3674000128,36.74,736570,357943,13150825.82,,,,0.0,0.0,0.0,,,,,,,,,,100000000,,0.056799997,0.38637,295644,1.04,,,5.060606,,,,,42.0,42.0,42.0,,none,1,0,0,0,0,,,https://www.pershingsquareusa.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-29,42.00,42.71,40.33,40.90,,,,,,,0,40.3300,1,372345434,,,,
 2026-04-30,42.48,43.93,42.00,42.71,,,,,,,0,40.3300,1,194484252,,,,
@@ -151,3 +151,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,36.90,36.90,35.64,36.74,37.73,37.51,38.32,,,39.0940,0,39.2836,0,133601342,14028787,-0.1933,-0.1417,-0.0516
 2026-11-10,36.26,36.89,36.26,36.64,37.61,37.45,38.27,,,39.0940,0,39.0650,0,29594128,14420974,-0.2474,-0.1628,-0.0846
 2026-11-11,36.80,37.10,36.70,36.85,37.49,37.44,38.22,,,39.0940,0,38.8595,0,9805785,14467770,-0.2703,-0.1843,-0.0860
+2026-11-12,36.65,37.34,36.65,37.01,37.35,37.41,38.18,,,39.0940,0,38.6663,0,15625621,14580090,-0.2724,-0.2020,-0.0704

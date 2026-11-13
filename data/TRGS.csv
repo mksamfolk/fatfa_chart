@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259369552,9.97,15000,12867,128283.99,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0014,0.89857,4,0.0,0.0,,,,-23.186047,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-11-10T13:22:56.879105+00:00
+0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259369552,9.97,15000,12867,128283.99,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0014,0.89857,4,0.0,0.0,,,,-23.186047,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-20,10.10,10.10,9.90,9.90,,,,,,,0,10.1000,0,76230,,,,
 2026-04-21,9.90,9.90,9.82,9.83,,,,,,,0,10.1000,0,140569,,,,
@@ -158,3 +158,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.97,9.97,9.97,9.97,9.97,9.97,9.96,,,9.9835,0,9.9570,1,,124031,0.0036,0.0036,-0.0000
 2026-11-10,9.99,9.99,9.99,9.99,9.97,9.97,9.96,,,9.9719,1,9.9590,1,1000998,143575,0.0051,0.0039,0.0012
 2026-11-11,10.00,10.00,10.00,10.00,9.97,9.97,9.96,,,9.9807,1,9.9608,1,64000,144855,0.0070,0.0045,0.0025
+2026-11-12,10.03,10.03,10.03,10.03,9.98,9.97,9.96,,,10.0036,1,9.9640,1,6018,144658,0.0109,0.0058,0.0051

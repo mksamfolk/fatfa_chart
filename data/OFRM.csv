@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OFRM,Once Upon A Farm PBC,Consumer Defensive,Packaged Foods,United States,424945408,10.12,1528330,561250,5679850.0,0.423,,,0.41179,-0.06604,-0.03299,-0.16012,-0.07839,93541000,166000,0.107,4.008,2.796,-30593000,-28295750,41990653,15659994,0.20818001,0.86003,5616331,14.27,0.2759,,30.33937,1.4746192,2.7358747,1.151,-20.059,16.16667,24.5,10.0,2.2,buy,9,0,0,1,5,2026-11-12,,https://onceuponafarmorganics.com,2026-11-10T11:47:55.093309+00:00
+0.00,OFRM,Once Upon A Farm PBC,Consumer Defensive,Packaged Foods,United States,424945408,10.12,1528330,561250,5679850.0,0.423,,,0.41179,-0.06604,-0.03299,-0.16012,-0.07839,93541000,166000,0.107,4.008,2.796,-30593000,-28295750,41990653,15659994,0.20818001,0.86003,5616331,14.27,0.2759,,30.33937,1.4746192,2.7358747,1.151,-20.059,16.16667,24.5,10.0,2.2,buy,9,0,0,1,5,2026-11-12,,https://onceuponafarmorganics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-06,21.00,22.00,20.11,21.05,,,,,,,0,20.1100,1,142535860,,,,
 2026-02-09,23.01,26.04,20.95,21.00,,,,,,,0,20.1100,1,73575600,,,,
@@ -222,3 +222,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.42,10.45,9.35,10.12,12.07,14.36,15.70,16.46,,12.7093,0,14.7785,0,7044532,8089483,-1.8579,-1.1850,-0.6729
 2026-11-10,10.25,10.33,9.75,10.02,11.47,14.04,15.55,16.42,,12.7093,0,14.3026,0,5274528,8083884,-1.8777,-1.3235,-0.5542
 2026-11-11,10.05,10.33,9.94,10.08,10.85,13.72,15.41,16.38,,12.7093,0,13.8648,0,4169088,8081805,-1.8670,-1.4322,-0.4348
+2026-11-12,10.10,10.44,9.97,10.18,10.27,13.36,15.26,16.34,,12.7093,0,13.4620,0,5753736,8067014,-1.8294,-1.5117,-0.3177

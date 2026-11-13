@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QNC,Quantum eMotion Corp.,Technology,Software - Infrastructure,Canada,192847936,0.8789,565220,877184,770957.0176,,,,1.0,-3189.4253,0.0,-0.45016,-0.25154,34004956,159868,0.419,33.333,32.617,-6181634,-1927527,219419670,212448707,0.032309998,0.28687,8360387,6.9,,,,8300.962,7.093514,6844.131,-11.286,5.0,5.0,5.0,,none,1,,,,,2026-11-26,-3.063,https://quantumemotion.com,2026-11-10T12:19:37.810934+00:00
+0.00,QNC,Quantum eMotion Corp.,Technology,Software - Infrastructure,Canada,192847936,0.8789,565220,877184,770957.0176,,,,1.0,-3189.4253,0.0,-0.45016,-0.25154,34004956,159868,0.419,33.333,32.617,-6181634,-1927527,219419670,212448707,0.032309998,0.28687,8360387,6.9,,,,8300.962,7.093514,6844.131,-11.286,5.0,5.0,5.0,,none,1,,,,,2026-11-26,-3.063,https://quantumemotion.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-24,4.44,4.44,3.67,3.79,,,,,,,0,3.6700,1,3834343,,,,
 2026-02-25,3.92,4.09,3.71,3.73,,,,,,,0,3.6700,1,2109315,,,,
@@ -196,3 +196,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.87,0.92,0.87,0.88,0.99,1.11,1.62,2.34,,1.1946,0,1.0784,0,511720,907461,-0.2047,-0.2092,0.0045
 2026-11-10,0.89,0.98,0.86,0.98,0.98,1.08,1.59,2.33,,1.1946,0,1.0556,0,553210,905565,-0.1919,-0.2058,0.0139
 2026-11-11,0.99,1.08,0.93,1.01,0.97,1.07,1.57,2.31,,1.1946,0,0.8500,1,1379862,913958,-0.1773,-0.2001,0.0227
+2026-11-12,0.97,1.04,0.91,0.94,0.95,1.05,1.54,2.30,,1.1946,0,0.8546,1,755854,904387,-0.1695,-0.1939,0.0245

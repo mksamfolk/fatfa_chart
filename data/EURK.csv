@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.20,EURK,Eureka Acquisition Corp,Financial Services,Shell Companies,Hong Kong,24961912,11.5,270,6328,72772.0,,-0.644,-0.776,0.0,0.0,0.0,,-0.01344,22727,2375000,,0.003,0.001,-826447,487790,733101,230887,2.25822,2.11923,373,0.23,0.0002,,,,-9.192645,,,,,,,none,,,,,,,-0.053,,2026-11-10T09:35:03.194339+00:00
+55.68,EURK,Eureka Acquisition Corp,Financial Services,Shell Companies,Hong Kong,24961912,11.5,270,6328,72772.0,,-0.644,-0.776,0.0,0.0,0.0,,-0.01344,22727,2375000,,0.003,0.001,-826447,487790,733101,230887,2.25822,2.11923,373,0.23,0.0002,,,,-9.192645,,,,,,,none,,,,,,,-0.053,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-12,10.05,10.05,10.03,10.03,,,,,,,0,10.0500,0,4801361,,,,
 2024-09-13,10.03,10.04,10.03,10.03,,,,,,,0,10.0500,0,1290861,,,,
@@ -558,3 +558,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.55,11.55,11.55,11.55,11.53,11.54,11.66,11.60,11.48,11.5857,0,11.3099,1,,58358,-0.0262,-0.0375,0.0113
 2026-11-10,11.59,11.59,11.59,11.59,11.53,11.54,11.65,11.60,11.48,11.5108,1,11.3147,1,1159,58381,-0.0199,-0.0340,0.0141
 2026-11-11,11.59,11.59,11.59,11.59,11.54,11.54,11.64,11.60,11.49,11.5187,1,11.3257,1,,58381,-0.0147,-0.0301,0.0154
+2026-11-12,11.59,11.59,11.59,11.59,11.54,11.55,11.63,11.60,11.49,11.5259,1,11.3363,1,,58381,-0.0105,-0.0262,0.0157

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.29,SDHI,Siddhi Acquisition Corp.,Financial Services,Shell Companies,United States,370327936,10.63,26450,37479,398401.77,,,,0.0,0.0,0.0,,,168230,0,,0.002,0.002,-119834,,27938000,25867912,0.012990001,0.97710997,153,0.0,0.0,35.43333,,,-22.713676,,,,,,,none,,,,,,,,,2026-11-10T12:42:04.768417+00:00
+58.89,SDHI,Siddhi Acquisition Corp.,Financial Services,Shell Companies,United States,370327936,10.63,26450,37479,398401.77,,,,0.0,0.0,0.0,,,168230,0,,0.002,0.002,-119834,,27938000,25867912,0.012990001,0.97710997,153,0.0,0.0,35.43333,,,-22.713676,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-04,10.02,10.13,10.00,10.06,,,,,,,0,10.0000,1,10538856,,,,
 2025-06-05,10.06,10.08,10.06,10.06,,,,,,,0,10.0000,1,173032,,,,
@@ -377,3 +377,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.63,10.63,10.63,10.63,10.59,10.58,10.54,10.45,10.40,10.5977,1,10.5497,1,,361556,0.0200,0.0163,0.0038
 2026-11-10,10.60,10.60,10.60,10.60,10.60,10.58,10.55,10.45,10.41,10.5977,1,10.5551,1,1749000,396515,0.0190,0.0168,0.0021
 2026-11-11,10.60,10.60,10.60,10.60,10.60,10.58,10.55,10.45,10.41,10.5977,1,10.5602,1,,395425,0.0179,0.0170,0.0009
+2026-11-12,10.60,10.60,10.60,10.60,10.60,10.58,10.55,10.45,10.41,10.5977,1,10.5650,1,,395425,0.0169,0.0170,-0.0001

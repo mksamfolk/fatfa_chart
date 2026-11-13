@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CSQR,Csquare Inc.,Technology,Information Technology Services,United States,2544500992,15.27,2306610,1610003,24584745.81,0.145,,,0.50367,0.07988,-0.17527,,,120843000,5760858112,,1.67,0.89,140075008,,166633984,165639179,0.00597,0.79103,5538676,2.89,,,-15.042408,2.399832,-4.0817966,7.719,19.278,28.2,46.0,24.0,1.5,strong_buy,10,0,0,0,0,2026-11-09,,https://www.csquare.com,2026-11-10T09:03:03.591587+00:00
+0.00,CSQR,Csquare Inc.,Technology,Information Technology Services,United States,2544500992,15.27,2306610,1610003,24584745.81,0.145,,,0.50367,0.07988,-0.17527,,,120843000,5760858112,,1.67,0.89,140075008,,166633984,165639179,0.00597,0.79103,5538676,2.89,,,-15.042408,2.399832,-4.0817966,7.719,19.278,28.2,46.0,24.0,1.5,strong_buy,10,0,0,0,0,2026-11-09,,https://www.csquare.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-16,20.90,20.90,20.02,20.67,,,,,,,0,20.9000,0,233748763,,,,
 2026-07-17,20.35,20.66,19.75,20.40,,,,,,,0,20.9000,0,57321959,,,,
@@ -113,3 +113,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.64,15.58,14.47,15.27,14.40,15.25,16.68,,,16.8446,0,12.3496,1,31928044,30819483,-0.8000,-0.8593,0.0592
 2026-11-10,17.10,18.34,16.86,17.52,14.62,15.26,16.64,,,13.5097,1,12.4788,1,116131323,32907792,-0.5146,-0.7904,0.2758
 2026-11-11,18.15,18.26,16.81,17.04,14.79,15.27,16.61,,,13.5097,1,12.8305,1,44619242,33372475,-0.3234,-0.6970,0.3736
+2026-11-12,17.36,17.72,16.78,17.22,15.01,15.28,16.60,,,13.5097,1,13.1611,1,38020036,33707356,-0.1555,-0.5887,0.4332

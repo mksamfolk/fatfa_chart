@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.05,POLE,Andretti Acquisition Corp. II,Financial Services,Shell Companies,United States,147638464,10.75,760,58359,627359.25,,-0.121,-0.121,0.0,0.0,0.0,,,225380,1240000,,43.936,33.765,-1474057,,13733809,18009953,0.03277,1.4543201,1032,0.51,0.0001,41.346157,,,-29.532969,,,,,,,none,,,,,,,0.031,https://andrettiacquisition.com,2026-11-10T12:10:56.326933+00:00
+55.01,POLE,Andretti Acquisition Corp. II,Financial Services,Shell Companies,United States,147638464,10.75,760,58359,627359.25,,-0.121,-0.121,0.0,0.0,0.0,,,225380,1240000,,43.936,33.765,-1474057,,13733809,18009953,0.03277,1.4543201,1032,0.51,0.0001,41.346157,,,-29.532969,,,,,,,none,,,,,,,0.031,https://andrettiacquisition.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-28,9.95,10.02,9.95,9.95,,,,,,,0,10.0220,0,4437700,,,,
 2024-10-29,9.95,9.95,9.95,9.95,,,,,,,0,10.0220,0,2985,,,,
@@ -526,3 +526,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.74,10.74,10.74,10.74,10.74,10.73,10.77,10.74,10.70,10.7845,0,11.4384,0,,793844,-0.0052,-0.0090,0.0038
 2026-11-10,10.74,10.74,10.74,10.74,10.74,10.73,10.77,10.74,10.70,10.7801,0,11.4236,0,,792246,-0.0046,-0.0081,0.0035
 2026-11-11,10.74,10.74,10.74,10.74,10.74,10.73,10.76,10.74,10.70,10.7761,0,11.4091,0,,670975,-0.0041,-0.0073,0.0032
+2026-11-12,10.76,10.76,10.76,10.76,10.74,10.73,10.76,10.74,10.70,10.7761,0,11.3949,0,1076,666993,-0.0020,-0.0063,0.0042

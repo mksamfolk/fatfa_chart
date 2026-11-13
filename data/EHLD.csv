@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.28,EHLD,Euroholdings Ltd.,Industrials,Marine Shipping,Greece,32024912,11.37,1800,7575,86127.75,1.95,4.154,4.214,0.56746,0.53031,0.40208998,0.43267,0.1839,10592694,19071148,73.409,3.099,2.757,10569468,-25396184,2816615,1207708,0.61442,0.01253,2058,0.32,0.0016,3.3738873,,1.3523344,1.232654,1.71,3.581,,,,,none,,,,,,,,https://www.euroholdings.gr,2026-11-10T09:26:18.757959+00:00
+94.32,EHLD,Euroholdings Ltd.,Industrials,Marine Shipping,Greece,32024912,11.37,1800,7575,86127.75,1.95,4.154,4.214,0.56746,0.53031,0.40208998,0.43267,0.1839,10592694,19071148,73.409,3.099,2.757,10569468,-25396184,2816615,1207708,0.61442,0.01253,2058,0.32,0.0016,3.3738873,,1.3523344,1.232654,1.71,3.581,,,,,none,,,,,,,,https://www.euroholdings.gr,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-07,15.98,27.40,4.57,15.98,,,,,,,0,4.5666,1,,,,,
 2025-03-10,15.98,15.98,15.98,15.98,,,,,,,0,4.5666,1,,,,,
@@ -438,3 +438,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.60,11.63,11.37,11.37,11.63,11.74,11.36,9.16,8.51,13.0120,0,12.1890,0,20466,96160,-0.0045,0.0937,-0.0982
 2026-11-10,11.64,11.64,11.64,11.64,11.66,11.72,11.43,9.20,8.54,13.0120,0,12.0763,0,5820,95434,-0.0077,0.0734,-0.0811
 2026-11-11,11.35,11.35,11.35,11.35,11.64,11.68,11.49,9.22,8.56,12.7346,0,11.9771,0,7945,94564,-0.0332,0.0521,-0.0853
+2026-11-12,11.32,11.40,11.30,11.30,11.60,11.65,11.53,9.25,8.58,12.6262,0,11.8899,0,20340,90720,-0.0568,0.0303,-0.0871

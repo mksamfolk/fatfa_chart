@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-07 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.70,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,12571951,2.14,10540,156114,334083.96,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00695,14522,0.53,0.003,2.326087,,0.08814437,0.35319042,-0.357,-2.787,,,,,none,,,,,,,-2.404,https://www.raytech.com.hk,2026-11-10T08:06:20.969012+00:00
+24.52,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,12571951,2.14,10540,156114,334083.96,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00695,14522,0.53,0.003,2.326087,,0.08814437,0.35319042,-0.357,-2.787,,,,,none,,,,,,,-2.404,https://www.raytech.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-15,80.80,96.64,64.32,67.68,,,,,,,0,64.3200,1,10064422,,,,
 2024-05-16,70.40,92.32,67.68,70.08,,,,,,,0,64.3200,1,4778125,,,,
@@ -645,3 +645,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.91,2.14,1.85,2.14,2.28,2.39,2.59,2.96,3.25,2.4627,0,2.4586,0,44726,620131,-0.1423,-0.1117,-0.0306
 2026-11-10,2.07,2.20,2.00,2.20,2.25,2.37,2.58,2.95,3.24,2.4627,0,2.3612,0,19800,620300,-0.1369,-0.1168,-0.0201
 2026-11-11,2.08,2.20,2.08,2.20,2.22,2.35,2.57,2.94,3.24,2.4627,0,2.2794,0,17380,620488,-0.1311,-0.1196,-0.0115
+2026-11-12,2.20,2.20,2.00,2.19,2.19,2.33,2.56,2.93,3.24,2.4627,0,2.2107,0,9194,620672,-0.1259,-0.1209,-0.0050

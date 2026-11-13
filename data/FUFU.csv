@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.93,FUFU,BitFuFu Inc.,Financial Services,Capital Markets,Singapore,159195296,0.955,151440,1008543,963158.565,-0.629,,,0.0739,-0.117869996,-0.29291,-0.78834,-0.01406,23510000,99086000,104.997,4.215,1.983,-89400000,103573000,31696634,16921375,0.46617,0.04407,249232,3.4,0.0082,,13.642857,0.39847338,1.7717997,0.599,19.433,3.5,4.0,3.0,,none,2,0,0,0,0,2026-11-20,0.472,https://www.bitfufu.com,2026-11-10T09:53:30.551280+00:00
+11.08,FUFU,BitFuFu Inc.,Financial Services,Capital Markets,Singapore,159195296,0.955,151440,1008543,963158.565,-0.629,,,0.0739,-0.117869996,-0.29291,-0.78834,-0.01406,23510000,99086000,104.997,4.215,1.983,-89400000,103573000,31696634,16921375,0.46617,0.04407,249232,3.4,0.0082,,13.642857,0.39847338,1.7717997,0.599,19.433,3.5,4.0,3.0,,none,2,0,0,0,0,2026-11-20,0.472,https://www.bitfufu.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-09,9.82,9.82,9.71,9.71,,,,,,,0,9.8200,0,3946144,,,,
 2021-12-10,9.70,9.72,9.70,9.70,,,,,,,0,9.8200,0,5363130,,,,
@@ -1250,3 +1250,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.97,0.97,0.88,0.95,1.04,1.09,1.25,1.62,1.90,1.3164,0,0.8699,1,48418,1517400,-0.0881,-0.0766,-0.0115
 2026-11-10,0.96,0.96,0.84,0.84,1.00,1.06,1.24,1.61,1.89,1.2878,0,1.5700,0,40957,1513513,-0.0964,-0.0805,-0.0159
 2026-11-11,0.84,0.90,0.83,0.86,0.97,1.04,1.23,1.60,1.88,1.2366,0,1.5554,0,50885,1511927,-0.1003,-0.0845,-0.0158
+2026-11-12,0.87,0.91,0.85,0.91,0.95,1.02,1.22,1.60,1.87,1.2306,0,1.5264,0,58994,1502920,-0.0983,-0.0872,-0.0111

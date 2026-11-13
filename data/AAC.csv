@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AAC,Ares Acquisition Corporation III,Financial Services,Shell Companies,United States,491716576,9.95,29030,54145,538742.75,,,,0.0,0.0,0.0,,,3300000,10347977,,,,,,39500000,,0.0,0.087919995,70649,1.57,,,,,,,,,,,,none,,,,,,,,,2026-11-10T07:31:49.099772+00:00
+0.00,AAC,Ares Acquisition Corporation III,Financial Services,Shell Companies,United States,491716576,9.95,29030,54145,538742.75,,,,0.0,0.0,0.0,,,3300000,10347977,,,,,,39500000,,0.0,0.087919995,70649,1.57,,,,,,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-27,10.00,10.20,10.00,10.15,,,,,,,0,10.0000,1,58870,,,,
 2026-08-28,10.08,10.10,10.06,10.06,,,,,,,0,10.0000,1,22132,,,,
@@ -83,3 +83,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.89,10.07,9.89,9.95,9.94,9.95,10.03,,,9.9864,0,9.9000,1,21890,551456,-0.0315,-0.0324,0.0009
 2026-11-10,9.90,9.95,9.90,9.95,9.94,9.95,10.03,,,9.9864,0,9.8900,1,19900,551532,-0.0285,-0.0316,0.0031
 2026-11-11,9.95,9.95,9.92,9.92,9.93,9.95,10.03,,,9.9864,0,9.8900,1,1096160,572992,-0.0283,-0.0309,0.0026
+2026-11-12,9.92,9.92,9.92,9.92,9.93,9.94,10.02,,,9.9864,0,9.8936,1,,456905,-0.0278,-0.0303,0.0025

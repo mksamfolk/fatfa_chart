@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LMRI,Lumexa Imaging Holdings Inc.,Healthcare,Medical Devices,United States,1342167424,13.97,399420,419787,5864424.390000001,0.051,,,0.14806,0.03198,-0.02658,,,69705000,975352000,158.578,1.438,1.356,64696000,,96074976,22110695,0.8079,0.36466,1918493,4.6,0.0744,,15.694338,1.2863686,2.1821306,2.154,28.754,17.66667,23.0,13.0,,none,9,1,1,2,2,2026-11-10,,https://www.lumexaimaging.com,2026-11-10T10:59:43.228351+00:00
+0.00,LMRI,Lumexa Imaging Holdings Inc.,Healthcare,Medical Devices,United States,1342167424,13.97,399420,419787,5864424.390000001,0.051,,,0.14806,0.03198,-0.02658,,,69705000,975352000,158.578,1.438,1.356,64696000,,96074976,22110695,0.8079,0.36466,1918493,4.6,0.0744,,15.694338,1.2863686,2.1821306,2.154,28.754,17.66667,23.0,13.0,,none,9,1,1,2,2,2026-11-10,,https://www.lumexaimaging.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-11,18.65,19.25,18.03,18.52,,,,,,,0,18.0300,1,130901215,,,,
 2025-12-12,18.30,18.87,18.29,18.53,,,,,,,0,18.0300,1,14649819,,,,
@@ -255,3 +255,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.62,14.17,13.56,13.97,12.25,11.59,11.36,10.45,11.15,11.9159,1,11.2593,1,5106035,4119668,0.5909,0.2951,0.2958
 2026-11-10,13.93,14.11,13.44,13.92,12.48,11.75,11.40,10.48,11.14,11.9159,1,11.4340,1,5355024,4176027,0.6726,0.3706,0.3020
 2026-11-11,15.25,16.62,14.73,15.95,12.91,12.02,11.48,10.52,11.14,13.1041,1,11.5981,1,14481005,4382388,0.8909,0.4747,0.4162
+2026-11-12,15.71,15.75,14.82,14.94,13.23,12.23,11.54,10.56,11.14,13.1041,1,11.9999,1,5941638,4448884,0.9711,0.5740,0.3972

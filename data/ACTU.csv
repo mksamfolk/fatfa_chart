@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.70,ACTU,Actuate Therapeutics Inc. Common stock,Healthcare,Biotechnology,United States,17253532,0.3137,642010,427976,134256.07119999998,,,,0.0,0.0,0.0,,-2.13398,4425841,0,,1.248,1.163,-19836202,-12478303,55000102,19005320,0.14667,0.24510999,1867593,5.84,0.1768,,-0.47291693,,7.651219,,,11.68333,15.05,8.0,,none,3,1,1,0,0,2026-11-12,1.532,https://actuatetherapeutics.com,2026-11-10T07:37:14.230811+00:00
+1.74,ACTU,Actuate Therapeutics Inc. Common stock,Healthcare,Biotechnology,United States,17253532,0.3137,642010,427976,134256.07119999998,,,,0.0,0.0,0.0,,-2.13398,4425841,0,,1.248,1.163,-19836202,-12478303,55000102,19005320,0.14667,0.24510999,1867593,5.84,0.1768,,-0.47291693,,7.651219,,,11.68333,15.05,8.0,,none,3,1,1,0,0,2026-11-12,1.532,https://actuatetherapeutics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-13,9.88,9.88,7.50,8.61,,,,,,,0,7.5000,1,790398,,,,
 2024-08-14,8.62,9.45,8.61,9.15,,,,,,,0,7.5000,1,540765,,,,
@@ -579,3 +579,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.34,0.35,0.30,0.31,0.35,0.44,0.87,1.66,2.38,0.5815,0,0.5907,0,94200,442120,-0.1617,-0.1760,0.0143
 2026-11-10,0.32,0.35,0.29,0.30,0.34,0.43,0.86,1.65,2.35,0.5689,0,0.5616,0,51767,438761,-0.1573,-0.1722,0.0149
 2026-11-11,0.30,0.33,0.30,0.30,0.33,0.43,0.85,1.63,2.32,0.5489,0,0.5290,0,28599,432946,-0.1517,-0.1681,0.0165
+2026-11-12,0.33,0.35,0.29,0.30,0.33,0.42,0.83,1.62,2.29,0.5485,0,0.5003,0,46117,429862,-0.1460,-0.1637,0.0177

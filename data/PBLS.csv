@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PBLS,Parabilis Medicines Inc.,Healthcare,Biotechnology,United States,3751704576,30.37,919370,929289,28222506.93,,,,0.0,-343.82434,0.0,,,1120696960,47512000,4.535,17.909,17.834,-111291000,,121952030,82074249,0.07027,0.83379,9250099,7.03,0.0759,,-13.888699,25349.355,3.5805235,18098.105,-15.839,41.0,45.0,39.0,1.0,strong_buy,6,0,0,0,0,2026-11-12,,https://parabilismed.com,2026-11-10T12:00:20.812324+00:00
+0.00,PBLS,Parabilis Medicines Inc.,Healthcare,Biotechnology,United States,3751704576,30.37,919370,929289,28222506.93,,,,0.0,-343.82434,0.0,,,1120696960,47512000,4.535,17.909,17.834,-111291000,,121952030,82074249,0.07027,0.83379,9250099,7.03,0.0759,,-13.888699,25349.355,3.5805235,18098.105,-15.839,41.0,45.0,39.0,1.0,strong_buy,6,0,0,0,0,2026-11-12,,https://parabilismed.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-10,33.35,34.02,26.61,31.60,,,,,,,0,26.6100,1,173695722,,,,
 2026-06-11,30.00,34.47,29.65,30.31,,,,,,,0,26.6100,1,48502061,,,,
@@ -137,3 +137,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,29.21,30.91,28.36,30.37,28.53,27.13,31.74,,,31.8502,0,25.3286,1,28872760,35120585,-0.3739,-1.0318,0.6579
 2026-11-10,30.49,31.49,29.54,30.02,28.89,27.29,31.56,,,31.8502,0,25.7751,1,15082048,35008798,-0.2192,-0.8693,0.6501
 2026-11-11,30.40,30.98,29.29,29.65,29.03,27.48,31.36,,,31.8502,0,26.3466,1,16188900,34937718,-0.1250,-0.7204,0.5954
+2026-11-12,29.54,29.88,27.47,27.69,28.93,27.61,31.11,,,31.8502,0,26.8609,1,22320909,35092215,-0.2061,-0.6176,0.4114

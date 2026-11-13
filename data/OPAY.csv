@@ -27,9 +27,10 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OPAY,OPay Limited,Technology,Software - Infrastructure,Singapore,4003529728,19.0,0,0,0.0,1.182,,3.185,0.92498,0.39745998,0.24865,,,385771008,1479000,0.389,0.815,0.532,313092000,,210712089,34624797,,,,,,,,7.0286813,-1.3884829,,,,,,,none,,,,,,,,https://www.opay.ltd,2026-11-10T11:52:01.159991+00:00
+0.00,OPAY,OPay Limited,Technology,Software - Infrastructure,Singapore,4003529728,19.0,0,0,0.0,1.182,,3.185,0.92498,0.39745998,0.24865,,,385771008,1479000,0.389,0.815,0.532,313092000,,210712089,34624797,,,,,,,,7.0286813,-1.3884829,,,,,,,none,,,,,,,,https://www.opay.ltd,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-11-06,,,,19.00,,,,,,,,0.0000,0,,,,,
 2026-11-09,,,,19.00,,,,,,,,0.0000,0,,,,,
 2026-11-10,,,,19.00,,,,,,,,0.0000,0,,,,,
 2026-11-11,,,,19.00,,,,,,,,0.0000,0,,,,,
+2026-11-12,,,,19.00,,,,,,,,0.0000,0,,,,,

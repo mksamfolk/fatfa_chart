@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PLYX,Polaryx Therapeutics Inc.,Healthcare,Biotechnology,United States,91846000,1.94,25860,51981,100843.14,,,,0.0,0.0,0.0,-0.96559995,-0.42519,11542000,0,,13.53,13.221,-5809000,-2086375,47343297,7168352,0.69921994,0.04335,118300,3.53,0.0055,,,,8.858448,,,7.5,10.0,6.0,,none,4,0,0,0,0,,,https://polaryx.com,2026-11-10T12:09:00.634502+00:00
+0.00,PLYX,Polaryx Therapeutics Inc.,Healthcare,Biotechnology,United States,91846000,1.94,25860,51981,100843.14,,,,0.0,0.0,0.0,-0.96559995,-0.42519,11542000,0,,13.53,13.221,-5809000,-2086375,47343297,7168352,0.69921994,0.04335,118300,3.53,0.0055,,,,8.858448,,,7.5,10.0,6.0,,none,4,0,0,0,0,,,https://polaryx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-02,45.00,48.91,20.00,35.00,,,,,,,0,48.9100,0,906500,,,,
 2026-02-03,33.90,33.90,16.70,21.95,,,,,,,0,48.9100,0,1299440,,,,
@@ -211,3 +211,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.82,1.95,1.80,1.94,1.81,1.86,2.00,3.16,,2.0736,0,1.6936,1,59946,124476,-0.0566,-0.0662,0.0096
 2026-11-10,1.98,1.98,1.87,1.87,1.81,1.86,1.99,3.14,,2.0736,0,1.7039,1,27676,119369,-0.0497,-0.0629,0.0132
 2026-11-11,1.85,1.95,1.85,1.95,1.82,1.86,1.99,3.11,,2.0736,0,1.7204,1,13845,117319,-0.0373,-0.0578,0.0205
+2026-11-12,1.91,1.95,1.85,1.88,1.82,1.86,1.98,3.09,,2.0736,0,1.7360,1,18612,115724,-0.0328,-0.0528,0.0200

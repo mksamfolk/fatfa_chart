@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MDA,MDA Space Ltd.,Industrials,Aerospace & Defense,Canada,4985251840,30.74,1313780,1453767,44688797.58,0.215,-0.095,0.144,0.28471002,0.07047,0.05429,0.04859,0.02142,2153799936,959400000,31.456,2.104,2.037,128600000,-47275000,162174747,144966385,0.17027001,0.62365,5093102,2.75,,54.892857,23.151178,2.5436256,2.295385,1.934,19.04,43.941303,49.26653,37.643543,1.57143,buy,3,0,0,0,2,2026-11-05,0.112,https://mda.space,2026-11-10T11:11:06.076746+00:00
+0.00,MDA,MDA Space Ltd.,Industrials,Aerospace & Defense,Canada,4985251840,30.74,1313780,1453767,44688797.58,0.215,-0.095,0.144,0.28471002,0.07047,0.05429,0.04859,0.02142,2153799936,959400000,31.456,2.104,2.037,128600000,-47275000,162174747,144966385,0.17027001,0.62365,5093102,2.75,,54.892857,23.151178,2.5436256,2.295385,1.934,19.04,43.941303,49.26653,37.643543,1.57143,buy,3,0,0,0,2,2026-11-05,0.112,https://mda.space,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-12,32.00,32.26,30.44,30.80,,,,,,,0,32.2600,0,71209598,,,,
 2026-03-13,31.00,31.80,29.90,29.99,,,,,,,0,32.2600,0,25908361,,,,
@@ -199,3 +199,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,29.00,30.95,28.86,30.74,28.06,28.04,28.95,33.16,,31.1744,0,25.6400,1,46149962,44653287,-0.2527,-0.4901,0.2374
 2026-11-10,30.08,31.10,29.97,30.88,28.22,28.16,28.99,33.17,,31.1744,0,25.7462,1,25624223,44250825,-0.0154,-0.3952,0.3797
 2026-11-11,31.23,31.75,30.79,30.94,28.39,28.33,29.04,33.17,,31.1744,0,25.9604,1,18146310,43784780,0.1754,-0.2811,0.4565
+2026-11-12,30.34,30.85,29.14,29.16,28.39,28.35,29.06,33.16,,31.1744,0,26.3077,1,15553944,43361006,0.1810,-0.1887,0.3696

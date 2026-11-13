@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AACO,Abony Acquisition Corp. I,Financial Services,Shell Companies,United States,315027968,10.045,750,22970,230733.65,,,,0.0,0.0,0.0,,,1174280,0,,0.086,,0,,23695000,19479986,0.02131,0.76462,20880,0.44,0.00090000004,,,,-45.452488,,,,,,,none,,,,,,,,https://www.abonyacquisitioncorp.com,2026-11-10T07:32:01.121054+00:00
+0.00,AACO,Abony Acquisition Corp. I,Financial Services,Shell Companies,United States,315027968,10.045,750,22970,230733.65,,,,0.0,0.0,0.0,,,1174280,0,,0.086,,0,,23695000,19479986,0.02131,0.76462,20880,0.44,0.00090000004,,,,-45.452488,,,,,,,none,,,,,,,,https://www.abonyacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,9.85,9.88,9.85,9.87,,,,,,,0,9.8500,1,92778,,,,
 2026-04-15,9.87,9.87,9.87,9.87,,,,,,,0,9.8500,1,33558,,,,
@@ -162,3 +162,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.00,10.05,10.00,10.05,10.01,10.00,9.99,,,10.0109,1,9.9860,1,4020,280534,0.0127,0.0096,0.0031
 2026-11-10,10.05,10.05,10.05,10.05,10.02,10.01,9.99,,,10.0291,1,9.9911,1,,280534,0.0145,0.0106,0.0039
 2026-11-11,10.05,10.05,10.05,10.05,10.02,10.01,9.99,,,10.0312,1,9.9958,1,,275564,0.0158,0.0116,0.0041
+2026-11-12,10.05,10.05,10.05,10.05,10.03,10.01,9.99,,,10.0331,1,10.0001,1,,272360,0.0166,0.0126,0.0040

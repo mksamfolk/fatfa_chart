@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AACP,Apogee Acquisition Corp,Financial Services,Shell Companies,United States,237516400,10.12,34420,49820,504178.39999999997,,,,0.0,0.0,0.0,,,390951,44851,,0.227,,-107592,,17720000,11836156,0.00113,0.88884,1975,0.05,0.0001,,,,-43.063828,,,,,,,none,,,,,,,,https://apogeeacquisitioncorp.com,2026-11-10T07:32:05.321065+00:00
+0.00,AACP,Apogee Acquisition Corp,Financial Services,Shell Companies,United States,237516400,10.12,34420,49820,504178.39999999997,,,,0.0,0.0,0.0,,,390951,44851,,0.227,,-107592,,17720000,11836156,0.00113,0.88884,1975,0.05,0.0001,,,,-43.063828,,,,,,,none,,,,,,,,https://apogeeacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-28,9.95,9.95,9.93,9.95,,,,,,,0,9.9300,1,11936020,,,,
 2026-05-29,9.94,9.95,9.94,9.95,,,,,,,0,9.9300,1,1365140,,,,
@@ -131,3 +131,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.12,10.12,10.12,10.12,10.10,10.09,10.07,,,10.1046,1,10.1013,1,,564021,0.0143,0.0119,0.0023
 2026-11-10,10.12,10.12,10.12,10.12,10.11,10.09,10.07,,,10.1061,1,10.1047,1,,394021,0.0146,0.0125,0.0021
 2026-11-11,10.12,10.12,10.12,10.12,10.11,10.09,10.07,,,10.1075,1,10.1074,1,,288711,0.0147,0.0129,0.0018
+2026-11-12,10.12,10.12,10.11,10.11,10.11,10.10,10.08,,,10.1075,1,10.1097,1,83913,289328,0.0138,0.0131,0.0007

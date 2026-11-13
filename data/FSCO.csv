@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.73,FSCO,FS Credit Opportunities Corp.,Financial Services,Asset Management,United States,1059892928,5.24,1085600,967548,5069951.5200000005,,,,0.0,0.0,0.0,,,,,,,,,,202269645,,0.0030899998,0.36993,2430062,2.19,0.0121,8.590163,,,,,,,,,,none,,,,,,,,https://www.fsco.futurestandard.com,2026-11-10T09:51:28.798825+00:00
+52.14,FSCO,FS Credit Opportunities Corp.,Financial Services,Asset Management,United States,1059892928,5.24,1085600,967548,5069951.5200000005,,,,0.0,0.0,0.0,,,,,,,,,,202269645,,0.0030899998,0.36993,2430062,2.19,0.0121,8.590163,,,,,,,,,,none,,,,,,,,https://www.fsco.futurestandard.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-14,3.13,3.38,2.38,2.80,,,,,,,0,2.3752,1,4614848,,,,
 2022-11-15,2.70,3.08,2.63,2.69,,,,,,,0,2.3752,1,7251520,,,,
@@ -1016,3 +1016,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.16,5.29,5.14,5.24,5.07,5.05,5.09,4.90,5.01,4.8774,1,4.9434,1,5685924,4779034,0.0161,-0.0023,0.0184
 2026-11-10,5.18,5.23,5.10,5.20,5.08,5.07,5.09,4.90,5.00,4.8774,1,4.9711,1,3124680,4783883,0.0240,0.0030,0.0210
 2026-11-11,5.21,5.24,5.17,5.17,5.09,5.07,5.09,4.91,5.00,4.8774,1,4.9966,1,4207863,4802792,0.0276,0.0079,0.0197
+2026-11-12,5.19,5.22,5.09,5.09,5.10,5.07,5.10,4.91,5.00,4.8774,1,5.0201,1,4554532,4789720,0.0237,0.0111,0.0126

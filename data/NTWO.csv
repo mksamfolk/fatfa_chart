@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.34,NTWO,Newbury Street II Acquisition Corp,Financial Services,Shell Companies,United States,108942864,10.99,129260,417468,4587973.32,,-0.815,-0.815,0.0,0.0,0.0,,,396294,0,,0.398,0.337,-669000,,3794909,14613800,0.026919998,0.98980004,2079,0.01,0.0001,64.64706,,,-50.182648,,,,,,,none,,,,,,,,,2026-11-10T11:41:22.751298+00:00
+61.32,NTWO,Newbury Street II Acquisition Corp,Financial Services,Shell Companies,United States,108942864,10.99,129260,417468,4587973.32,,-0.815,-0.815,0.0,0.0,0.0,,,396294,0,,0.398,0.337,-669000,,3794909,14613800,0.026919998,0.98980004,2079,0.01,0.0001,64.64706,,,-50.182648,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-27,9.88,9.94,9.88,9.90,,,,,,,0,9.8800,1,12812580,,,,
 2024-12-30,9.90,9.90,9.90,9.90,,,,,,,0,9.8800,1,1248390,,,,
@@ -484,3 +484,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.91,11.00,10.91,10.99,10.92,10.87,10.94,10.73,10.67,10.7934,1,10.7981,1,958328,5135459,0.0278,0.0033,0.0246
 2026-11-10,10.92,10.96,10.90,10.92,10.93,10.88,10.94,10.73,10.67,10.7934,1,10.8118,1,621348,5146430,0.0247,0.0076,0.0172
 2026-11-11,10.96,11.00,10.89,10.94,10.94,10.89,10.95,10.74,10.68,10.7934,1,10.8249,1,373054,5153891,0.0236,0.0108,0.0129
+2026-11-12,10.94,10.97,10.91,10.97,10.95,10.89,10.95,10.74,10.68,10.7934,1,10.8375,1,253407,5158959,0.0249,0.0136,0.0113

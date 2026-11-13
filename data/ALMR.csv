@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALMR,Alamar Biosciences Inc.,Healthcare,Medical Devices,United States,2212295680,31.84,834180,606315,19305069.6,0.685,,,0.59321,-0.45130002,-0.48224998,,,226584992,42350000,13.944,9.488,7.413,-60920000,,69481651,41983593,0.22208,0.5669,2676396,3.53,0.0624,,-42.6147,19.397255,7.2827077,17.782,-45.784,37.0,45.0,34.0,1.6,buy,5,1,1,0,0,2026-11-03,,https://alamarbio.com,2026-11-10T07:49:18.995059+00:00
+0.00,ALMR,Alamar Biosciences Inc.,Healthcare,Medical Devices,United States,2212295680,31.84,834180,606315,19305069.6,0.685,,,0.59321,-0.45130002,-0.48224998,,,226584992,42350000,13.944,9.488,7.413,-60920000,,69481651,41983593,0.22208,0.5669,2676396,3.53,0.0624,,-42.6147,19.397255,7.2827077,17.782,-45.784,37.0,45.0,34.0,1.6,buy,5,1,1,0,0,2026-11-03,,https://alamarbio.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-17,22.60,24.50,21.50,22.00,,,,,,,0,21.5000,1,107701000,,,,
 2026-04-20,22.34,24.50,21.80,22.00,,,,,,,0,21.5000,1,23529000,,,,
@@ -174,3 +174,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,28.64,31.98,28.39,31.84,30.42,29.13,30.16,,,34.7689,0,34.7407,0,21421952,19975082,-0.1011,-0.0918,-0.0093
 2026-11-10,31.85,31.85,30.70,31.50,30.38,29.53,30.18,,,34.7689,0,34.5521,0,14773500,20071614,0.0526,-0.0629,0.1155
 2026-11-11,31.10,32.50,29.32,31.61,30.11,29.84,30.22,,,34.7689,0,34.3673,0,23710661,20437137,0.1811,-0.0141,0.1952
+2026-11-12,30.52,31.93,29.07,31.76,29.88,30.05,30.25,,,34.7689,0,34.1861,0,13669504,20563504,0.2917,0.0471,0.2446

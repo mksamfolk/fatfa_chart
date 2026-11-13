@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-11-14 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.36,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,52832000,16.51,60,329,5431.790000000001,0.335,,,0.00282,-0.01846,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,8.9999994e-05,15172,40.89,0.0116,,,1.0308031,10.631037,1.059,-5.704,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-11-10T11:29:59.124956+00:00
+96.55,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,52832000,16.51,60,329,5431.790000000001,0.335,,,0.00282,-0.01846,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,8.9999994e-05,15172,40.89,0.0116,,,1.0308031,10.631037,1.059,-5.704,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-18,32.00,33.20,17.28,20.32,,,,,,,0,17.2800,1,3290824,,,,
 2024-12-19,20.16,24.00,20.16,20.80,,,,,,,0,17.2800,1,908710,,,,
@@ -490,3 +490,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.51,16.51,16.51,16.51,16.77,16.81,17.08,16.34,14.18,16.9955,0,18.0628,0,3302,5055,-0.1504,-0.1040,-0.0464
 2026-11-10,16.51,16.51,16.51,16.51,16.71,16.79,17.08,16.39,14.23,16.9469,0,17.9697,0,,4627,-0.1559,-0.1144,-0.0415
 2026-11-11,16.51,16.51,16.51,16.51,16.64,16.78,17.07,16.44,14.28,16.9032,0,17.8821,0,,4491,-0.1584,-0.1232,-0.0352
+2026-11-12,16.51,16.51,16.51,16.51,16.58,16.78,17.07,16.48,14.33,16.8639,0,17.7998,0,,4424,-0.1585,-0.1303,-0.0283

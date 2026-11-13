@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KARD,Kardigan Inc.,Healthcare,Biotechnology,United States,1419386112,15.18,461770,580381,8810183.58,,,,0.0,0.0,0.0,,,597595008,13347000,2.168,8.716,8.537,-205608000,,93503699,51758973,0.15583,0.79219,5303130,5.75,0.0665,,-3.6869092,,2.3052392,,-3.143,41.125,50.0,25.0,1.11111,strong_buy,8,0,0,1,2,2026-11-10,,https://www.kardigan.bio,2026-11-10T10:43:57.342090+00:00
+0.00,KARD,Kardigan Inc.,Healthcare,Biotechnology,United States,1419386112,15.18,461770,580381,8810183.58,,,,0.0,0.0,0.0,,,597595008,13347000,2.168,8.716,8.537,-205608000,,93503699,51758973,0.15583,0.79219,5303130,5.75,0.0665,,-3.6869092,,2.3052392,,-3.143,41.125,50.0,25.0,1.11111,strong_buy,8,0,0,1,2,2026-11-10,,https://www.kardigan.bio,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-18,16.25,23.75,16.25,22.00,,,,,,,0,16.2500,1,128576800,,,,
 2026-06-22,21.29,24.00,20.07,22.77,,,,,,,0,16.2500,1,20996217,,,,
@@ -131,3 +131,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.56,16.59,15.11,15.18,14.44,13.76,15.62,,,16.1345,0,12.9048,1,6392298,10511221,-0.0801,-0.4465,0.3664
 2026-11-10,15.47,15.94,14.93,15.18,14.60,13.88,15.52,,,16.1345,0,13.1996,1,11684046,10670350,-0.0131,-0.3598,0.3467
 2026-11-11,15.35,16.12,15.02,15.68,14.80,13.98,15.44,,,16.1345,0,13.4708,1,6776896,10677704,0.0794,-0.2720,0.3514
+2026-11-12,15.42,15.85,14.11,14.12,14.78,14.00,15.28,,,16.1345,0,13.7204,1,4882696,10619770,0.0265,-0.2123,0.2388

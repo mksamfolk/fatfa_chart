@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.52,WENN,Wen Acquisition Corp.,Financial Services,Shell Companies,United States,392821344,10.47,28600,96407,1009381.29,,0.264,1.204,0.0,0.0,0.0,,,244770,0,,1.975,1.231,-663447,,30015000,30015000,0.00117,0.96922994,389,0.0,0.0,34.899998,,,-27.845747,,,,,,,none,,,,,,,,https://investorswenacquisitioncorp.com,2026-11-10T13:49:35.463340+00:00
+58.09,WENN,Wen Acquisition Corp.,Financial Services,Shell Companies,United States,392821344,10.47,28600,96407,1009381.29,,0.264,1.204,0.0,0.0,0.0,,,244770,0,,1.975,1.231,-663447,,30015000,30015000,0.00117,0.96922994,389,0.0,0.0,34.899998,,,-27.845747,,,,,,,none,,,,,,,,https://investorswenacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-07,10.20,10.29,10.19,10.29,,,,,,,0,10.1900,1,1299627,,,,
 2025-07-08,10.25,10.32,10.23,10.29,,,,,,,0,10.1900,1,1598037,,,,
@@ -356,3 +356,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.47,10.47,10.47,10.47,10.46,10.44,10.41,10.31,10.27,10.4422,1,10.4523,1,,1166022,0.0179,0.0165,0.0014
 2026-11-10,10.47,10.47,10.46,10.47,10.46,10.45,10.41,10.32,10.28,10.4422,1,10.4564,1,2721153,1220445,0.0177,0.0168,0.0009
 2026-11-11,10.47,10.47,10.47,10.47,10.47,10.45,10.42,10.32,10.28,10.4448,1,10.4597,1,1047,1219388,0.0172,0.0169,0.0004
+2026-11-12,10.47,10.47,10.47,10.47,10.47,10.45,10.42,10.32,10.28,10.4473,1,10.4600,1,3151470,1282418,0.0167,0.0168,-0.0001

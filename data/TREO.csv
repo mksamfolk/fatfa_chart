@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TREO,Tactical Resources Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,26815708,1.97,55380,57733,113734.01,,,,0.0,0.0,0.0,,-2.01632,282146,458197,,0.074,0.056,-849848,1326506,13612034,10979194,0.24851999,0.0,42272,0.96,,,,,-2.5159643,,-19.361,,,,,none,,,,,,,,https://tacticalresources.com,2026-11-10T13:22:44.684885+00:00
+0.00,TREO,Tactical Resources Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,26815708,1.97,55380,57733,113734.01,,,,0.0,0.0,0.0,,-2.01632,282146,458197,,0.074,0.056,-849848,1326506,13612034,10979194,0.24851999,0.0,42272,0.96,,,,,-2.5159643,,-19.361,,,,,none,,,,,,,,https://tacticalresources.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-20,8.35,9.20,6.20,7.17,,,,,,,0,6.2000,1,389331,,,,
 2026-08-21,7.10,7.70,6.25,7.10,,,,,,,0,6.2000,1,287550,,,,
@@ -88,3 +88,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.73,2.00,1.56,1.97,1.76,1.78,3.05,,,2.3766,0,1.5108,1,163313,208415,-0.3681,-0.4808,0.1127
 2026-11-10,2.04,2.83,2.00,2.59,1.85,1.81,2.99,,,1.2962,1,1.5254,1,1585339,236982,-0.2770,-0.4401,0.1630
 2026-11-11,2.89,2.98,2.67,2.86,1.94,1.84,2.95,,,1.7011,1,1.5600,1,517088,245191,-0.1810,-0.3883,0.2073
+2026-11-12,2.81,3.30,2.77,3.30,2.08,1.91,2.92,,,1.8645,1,1.6452,1,883740,195882,-0.0685,-0.3243,0.2558

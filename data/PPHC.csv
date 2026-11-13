@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PPHC,Public Policy Holding Company Inc.,Industrials,Consulting Services,United States,338468768,11.07,121940,172170,1905921.9000000001,0.132,,,0.13604,-0.10366,-0.14571,-0.30274,-0.0458,18440000,71239000,60.339,1.17,0.869,-1739000,32136000,30575318,17118250,0.40238997,0.27025,525329,1.94,0.0202,,7.9203243,1.6325281,2.8501544,1.878,-38.072,17.0,18.0,16.0,1.0,strong_buy,2,2.0,2.0,0.0,0.0,2026-11-09,,https://pphcompany.com,2026-11-10T12:11:56.669190+00:00
+0.00,PPHC,Public Policy Holding Company Inc.,Industrials,Consulting Services,United States,338468768,11.07,121940,172170,1905921.9000000001,0.132,,,0.13604,-0.10366,-0.14571,-0.30274,-0.0458,18440000,71239000,60.339,1.17,0.869,-1739000,32136000,30575318,17118250,0.40238997,0.27025,525329,1.94,0.0202,,7.9203243,1.6325281,2.8501544,1.878,-38.072,17.0,18.0,16.0,1.0,strong_buy,2,2.0,2.0,0.0,0.0,2026-11-09,,https://pphcompany.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-28,11.99,12.19,11.09,11.09,,,,,,,0,11.0910,1,14741832,,,,
 2026-01-29,11.80,12.06,11.36,12.04,,,,,,,0,11.0910,1,5927775,,,,
@@ -214,3 +214,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.54,11.54,10.85,11.07,10.89,10.47,10.71,11.02,,9.8958,1,10.7950,1,1031724,1193925,0.1971,0.0529,0.1442
 2026-11-10,11.20,11.34,10.11,10.96,10.98,10.49,10.72,11.00,,9.8958,1,13.1000,0,1604544,1214407,0.1868,0.0797,0.1071
 2026-11-11,11.00,11.13,10.76,11.11,11.06,10.52,10.72,10.99,,9.8958,1,13.0402,0,893244,1205940,0.1885,0.1015,0.0870
+2026-11-12,11.13,11.44,10.23,10.70,11.11,10.53,10.71,10.98,,9.8958,1,12.9816,0,972630,1219570,0.1550,0.1122,0.0428

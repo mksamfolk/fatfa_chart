@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,THEO,BOA Acquisition Corp. II,Financial Services,Shell Companies,United States,260882416,9.99,42960,145245,1450997.55,,,,0.0,0.0,0.0,,,,72218,,,,-60204,,14596500,14610257,0.0591,0.29363,280,0.01,,,,,-416.25,,,,,,,none,,,,,,,,https://www.betonamerica2.com,2026-11-10T13:15:49.770276+00:00
+0.00,THEO,BOA Acquisition Corp. II,Financial Services,Shell Companies,United States,260882416,9.99,42960,145245,1450997.55,,,,0.0,0.0,0.0,,,,72218,,,,-60204,,14596500,14610257,0.0591,0.29363,280,0.01,,,,,-416.25,,,,,,,none,,,,,,,,https://www.betonamerica2.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-14,9.85,9.85,9.81,9.84,,,,,,,0,9.8100,1,9223032,,,,
 2026-08-17,9.84,9.84,9.83,9.84,,,,,,,0,9.8100,1,2494440,,,,
@@ -77,3 +77,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.95,9.95,9.95,9.95,9.93,9.92,,,,9.9059,1,10.0042,0,,,0.0160,0.0145,0.0014
 2026-11-10,10.00,10.00,9.93,9.94,9.93,9.93,,,,9.9059,1,10.0023,0,1853810,,0.0154,0.0147,0.0007
 2026-11-11,9.99,10.01,9.94,9.94,9.94,9.93,,,,9.9059,1,9.9100,1,500976,,0.0148,0.0147,0.0000
+2026-11-12,9.94,9.94,9.94,9.94,9.94,9.93,,,,9.9059,1,9.9120,1,,,0.0141,0.0146,-0.0005

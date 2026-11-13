@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.92,OWLS,Obook Holdings Inc.,Technology,Software - Infrastructure,Taiwan,221275200,2.505,57700,38384,96151.92,0.008,,,-0.00401,-4.41519,0.0,,-1.15978,10190162,8877449,,0.554,0.314,-16308602,9867581,37825411,14463940,0.54971004,0.00701,66532,3.07,,,-6.7702703,28.044294,-16.7,25.814,-4.769,11.0,11.0,11.0,,none,1,,,,,2026-08-21,,https://www.owlting.com,2026-11-10T11:56:27.493533+00:00
+7.06,OWLS,Obook Holdings Inc.,Technology,Software - Infrastructure,Taiwan,221275200,2.505,57700,38384,96151.92,0.008,,,-0.00401,-4.41519,0.0,,-1.15978,10190162,8877449,,0.554,0.314,-16308602,9867581,37825411,14463940,0.54971004,0.00701,66532,3.07,,,-6.7702703,28.044294,-16.7,25.814,-4.769,11.0,11.0,11.0,,none,1,,,,,2026-08-21,,https://www.owlting.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-16,68.00,90.00,18.40,55.55,,,,,,,0,18.4030,1,12348765,,,,
 2025-10-17,35.00,43.20,27.12,39.50,,,,,,,0,18.4030,1,7497100,,,,
@@ -284,3 +284,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.18,2.89,2.07,2.51,2.40,3.15,4.50,5.33,5.52,3.1375,0,1.3600,1,139779,166671,-0.7223,-0.7258,0.0035
 2026-11-10,2.41,2.56,2.10,2.22,2.36,3.00,4.44,5.31,5.50,3.1375,0,1.3906,1,47952,166014,-0.7009,-0.7208,0.0199
 2026-11-11,2.26,2.33,2.13,2.20,2.31,2.85,4.38,5.28,5.47,3.1375,0,1.4206,1,40920,165255,-0.6777,-0.7122,0.0345
+2026-11-12,2.20,2.30,2.00,2.26,2.29,2.73,4.31,5.26,5.45,3.1375,0,1.4500,1,86784,166408,-0.6470,-0.6992,0.0521

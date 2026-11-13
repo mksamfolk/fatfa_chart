@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-09 09:30:00-05:00,0.013333333333333334\n2026-07-07 09:30:00-04:00,0.04\n2026-08-17 09:30:00-04:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.52,PFSA,Profusa Inc.,Healthcare,Medical Devices,United States,332984,0.5498,202730,3529174,1940339.8652,,,,0.0,0.0,0.0,,-7.25255,719000,14104000,,0.03,0.026,-20330000,-19129250,605647,518167,0.49960998,0.03805,77845,0.02,0.1512,0.0006127544,,,-0.0026815718,,,,,,,none,,,,,,,0.59,https://profusa.com,2026-11-10T12:04:08.509920+00:00
+2.42,PFSA,Profusa Inc.,Healthcare,Medical Devices,United States,332984,0.5498,202730,3529174,1940339.8652,,,,0.0,0.0,0.0,,-7.25255,719000,14104000,,0.03,0.026,-20330000,-19129250,605647,518167,0.49960998,0.03805,77845,0.02,0.1512,0.0006127544,,,-0.0026815718,,,,,,,none,,,,,,,0.59,https://profusa.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-11,7518.75,10312.50,4537.50,4687.50,,,,,,,0,10312.5000,0,131250,,,,
 2025-07-14,4162.50,4500.00,3375.00,3787.50,,,,,,,0,10312.5000,0,3628425,,,,
@@ -352,3 +352,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.54,0.55,0.53,0.55,0.66,0.82,2.91,7.44,32.19,1.1523,0,0.6702,0,23870,31951370,-0.5113,-0.6020,0.0906
 2026-11-10,0.54,0.59,0.54,0.55,0.63,0.78,2.90,7.31,31.26,1.1297,0,0.6382,0,79385,31952235,-0.4869,-0.5789,0.0921
 2026-11-11,0.54,0.65,0.53,0.55,0.61,0.75,2.83,7.19,30.47,1.1297,0,0.5100,1,385440,31958994,-0.4621,-0.5556,0.0935
+2026-11-12,0.48,0.54,0.42,0.46,0.58,0.72,2.77,7.10,29.52,1.0104,0,0.6500,0,2353498,32005458,-0.4446,-0.5334,0.0888

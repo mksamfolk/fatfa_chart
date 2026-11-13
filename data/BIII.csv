@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BIII,,Financial Services,Shell Companies,Hong Kong,234140000,10.18,192390,175221,1783749.78,,,,0.0,0.0,0.0,,,638930,0,,0.88,0.88,12774,,17250000,15324900,0.0,0.88538,1659,0.04,0.0001,,,,-848.3334,,,,,,,none,,,,,,,,https://www.bsaiii.com,2026-11-10T08:20:19.446531+00:00
+0.00,BIII,,Financial Services,Shell Companies,Hong Kong,234140000,10.18,192390,175221,1783749.78,,,,0.0,0.0,0.0,,,638930,0,,0.88,0.88,12774,,17250000,15324900,0.0,0.88538,1659,0.04,0.0001,,,,-848.3334,,,,,,,none,,,,,,,,https://www.bsaiii.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-29,9.98,10.02,9.92,9.98,,,,,,,0,9.9200,1,212574,,,,
 2026-01-30,9.95,9.95,9.95,9.95,,,,,,,0,9.9200,1,46765,,,,
@@ -213,3 +213,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.12,10.18,10.12,10.18,10.11,10.10,10.06,9.96,,10.0990,1,10.0606,1,963028,2228140,0.0218,0.0174,0.0045
 2026-11-10,10.14,10.14,10.14,10.14,10.12,10.10,10.06,9.97,,10.0990,1,10.0640,1,23322,2228606,0.0224,0.0184,0.0040
 2026-11-11,10.22,10.22,10.14,10.14,10.12,10.10,10.07,9.97,,10.0990,1,10.0673,1,1327326,2252142,0.0225,0.0192,0.0033
+2026-11-12,10.18,10.18,10.14,10.14,10.13,10.11,10.07,9.97,,10.0990,1,10.0705,1,335634,2258675,0.0224,0.0198,0.0025

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,227240000,9.88,10570,25481,251752.28000000003,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.00174,0.107130006,1538,0.05,,,,,-705.7143,,,,,,,none,,,,,,,,,2026-11-10T11:21:18.471156+00:00
+0.00,MRCO,Mercator Acquisition Corp.,Financial Services,Shell Companies,United States,227240000,9.88,10570,25481,251752.28000000003,,,,0.0,0.0,0.0,,,,200575,,0.169,,0,,17250000,17250000,0.00174,0.107130006,1538,0.05,,,,,-705.7143,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-17,9.83,9.93,9.83,9.89,,,,,,,0,9.8300,1,457907,,,,
 2026-08-18,9.88,9.88,9.86,9.86,,,,,,,0,9.8300,1,5916,,,,
@@ -91,3 +91,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.88,9.88,9.88,9.88,9.87,9.87,9.87,,,9.8661,1,9.9586,0,,255009,0.0036,0.0015,0.0021
 2026-11-10,9.88,9.88,9.88,9.88,9.88,9.87,9.87,,,9.8675,1,9.9565,0,3952,244981,0.0038,0.0019,0.0018
 2026-11-11,9.88,9.88,9.88,9.88,9.88,9.87,9.87,,,9.8687,1,9.9543,0,,244863,0.0039,0.0023,0.0015
+2026-11-12,9.88,9.88,9.88,9.88,9.88,9.87,9.87,,,9.8699,1,9.9522,0,,244863,0.0039,0.0026,0.0013

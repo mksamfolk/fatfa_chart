@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378721824,9.8797,27290,60175,594510.9475,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0013,0.14265999,217,0.01,,,,,1.7051604,,,,,,,none,,,,,,,,,2026-11-10T14:03:16.827661+00:00
+0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378721824,9.8797,27290,60175,594510.9475,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0013,0.14265999,217,0.01,,,,,1.7051604,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,9.88,9.93,9.84,9.93,,,,,,,0,9.8400,1,205551,,,,
 2026-07-14,9.85,9.85,9.85,9.85,,,,,,,0,9.8400,1,152675,,,,
@@ -101,3 +101,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.87,9.88,9.86,9.88,9.87,9.88,9.91,,,9.8902,0,9.8827,0,242060,629022,-0.0117,-0.0120,0.0003
 2026-11-10,9.87,9.88,9.86,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,1734159,663706,-0.0110,-0.0118,0.0008
 2026-11-11,9.87,9.87,9.87,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,,663706,-0.0104,-0.0115,0.0011
+2026-11-12,9.86,9.87,9.86,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,626745,636641,-0.0098,-0.0112,0.0014

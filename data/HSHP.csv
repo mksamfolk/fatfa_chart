@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-85.60,HSHP,Himalaya Shipping Ltd.,Industrials,Marine Shipping,Bermuda,738682176,15.66,439760,451859,7076111.94,0.796,25.0,21.364,0.81589997,0.68343,0.31441,0.32619998,0.07381,34800000,677500032,415.135,1.185,0.997,87100000,65250000,47170000,34312602,0.28404,0.54784,1661343,3.03,0.0505,13.858407,,4.4153147,4.535187,8.257,10.537,16.9,16.9,16.9,,none,1,,,,,2026-11-11,0.982,https://himalaya-shipping.com,2026-11-10T10:20:15.288633+00:00
+84.58,HSHP,Himalaya Shipping Ltd.,Industrials,Marine Shipping,Bermuda,738682176,15.66,439760,451859,7076111.94,0.796,25.0,21.364,0.81589997,0.68343,0.31441,0.32619998,0.07381,34800000,677500032,415.135,1.185,0.997,87100000,65250000,47170000,34312602,0.28404,0.54784,1661343,3.03,0.0505,13.858407,,4.4153147,4.535187,8.257,10.537,16.9,16.9,16.9,,none,1,,,,,2026-11-11,0.982,https://himalaya-shipping.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-31,5.10,5.16,4.89,4.89,,,,,,,0,4.8857,1,1785820,,,,
 2023-04-03,4.89,5.48,4.89,5.14,,,,,,,0,4.8857,1,517890,,,,
@@ -937,3 +937,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.63,15.88,15.53,15.66,15.89,16.21,17.27,15.37,14.50,17.0902,0,16.5165,0,4643190,8496217,-0.5060,-0.4103,-0.0957
 2026-11-10,15.48,15.95,15.34,15.93,15.81,16.13,17.25,15.39,14.53,17.0902,0,16.3226,0,4634037,8489696,-0.4649,-0.4212,-0.0437
 2026-11-11,16.41,16.59,16.07,16.45,15.76,16.14,17.24,15.41,14.57,17.0902,0,14.9000,1,6524070,8526486,-0.3858,-0.4141,0.0283
+2026-11-12,15.90,16.19,15.74,16.13,15.70,16.15,17.21,15.44,14.60,17.0902,0,14.9338,1,8863435,8575369,-0.3451,-0.4003,0.0552
+2026-11-13,16.07,16.09,15.74,15.84,15.66,16.13,17.17,15.46,14.63,17.0902,0,14.9669,1,1409633,8420425,-0.3323,-0.3867,0.0544

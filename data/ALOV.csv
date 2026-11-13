@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,376313088,10.03,86320,54420,545832.6,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.00133,0.77038,2672,0.07,0.0001,,,,-31.640377,,,,,,,none,,,,,,,,https://aldabra4.com,2026-11-10T07:49:39.476322+00:00
+0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,376313088,10.03,86320,54420,545832.6,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.00133,0.77038,2672,0.07,0.0001,,,,-31.640377,,,,,,,none,,,,,,,,https://aldabra4.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-16,9.90,9.90,9.82,9.82,,,,,,,0,9.9000,0,23568,,,,
 2026-03-17,9.82,9.82,9.82,9.82,,,,,,,0,9.9000,0,,,,,
@@ -182,3 +182,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.03,10.03,10.03,10.03,10.01,10.01,10.00,9.94,,10.0028,1,9.9900,1,33099,542028,0.0055,0.0040,0.0015
 2026-11-10,10.03,10.04,10.03,10.03,10.01,10.01,10.00,9.94,,10.0075,1,9.9908,1,710124,556231,0.0066,0.0045,0.0021
 2026-11-11,10.03,10.03,10.03,10.03,10.02,10.01,10.00,9.94,,10.0075,1,9.9928,1,,556231,0.0073,0.0051,0.0022
+2026-11-12,10.03,10.03,10.03,10.03,10.02,10.01,10.00,9.94,,10.0077,1,9.9947,1,,556231,0.0078,0.0056,0.0022

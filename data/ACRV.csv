@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.52,ACRV,Acrivon Therapeutics Inc.,Healthcare,Biotechnology,United States,67708312,1.58,200570,291979,461326.82,,,,0.0,0.0,0.0,-0.64627,-0.38019,89959000,2115000,2.44,7.993,7.859,-62920000,-39823124,42853362,25826007,0.15396,0.50457,1737689,5.46,0.060500003,,-0.96243465,,0.7810183,,0.262,11.5,19.0,7.0,1.42857,strong_buy,6,0,0,0,0,,1.978,https://acrivon.com,2026-11-10T07:36:59.471414+00:00
+36.39,ACRV,Acrivon Therapeutics Inc.,Healthcare,Biotechnology,United States,67708312,1.58,200570,291979,461326.82,,,,0.0,0.0,0.0,-0.64627,-0.38019,89959000,2115000,2.44,7.993,7.859,-62920000,-39823124,42853362,25826007,0.15396,0.50457,1737689,5.46,0.060500003,,-0.96243465,,0.7810183,,0.262,11.5,19.0,7.0,1.42857,strong_buy,6,0,0,0,0,,1.978,https://acrivon.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-11-15,13.35,17.09,12.71,16.64,,,,,,,0,12.7080,1,8785920,,,,
 2022-11-16,15.90,20.70,15.06,16.75,,,,,,,0,12.7080,1,3731900,,,,
@@ -1015,3 +1015,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.61,1.70,1.56,1.58,1.67,1.71,1.89,1.76,1.77,1.9849,0,1.7828,0,362610,535548,-0.0739,-0.0649,-0.0090
 2026-11-10,1.57,1.65,1.55,1.57,1.66,1.70,1.89,1.76,1.76,1.9849,0,1.7586,0,127484,530132,-0.0765,-0.0672,-0.0093
 2026-11-11,1.57,1.65,1.55,1.57,1.63,1.69,1.89,1.76,1.76,1.9849,0,1.7363,0,342731,531295,-0.0777,-0.0693,-0.0084
+2026-11-12,1.60,1.60,1.44,1.46,1.60,1.67,1.88,1.76,1.75,1.9181,0,1.7158,0,488370,535830,-0.0866,-0.0728,-0.0138

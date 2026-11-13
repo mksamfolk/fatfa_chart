@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.87,CHPG,ChampionsGate Acquisition Corporation,Financial Services,Shell Companies,United States,105166120,10.53,13280,5692,59936.759999999995,,,,0.0,0.0,0.0,,,16618,334815,,0.198,0.047,-274426,,8617125,7597129,0.09284,0.90432,8166,3.62,0.0013,37.607143,,,-59.1573,,,,,,,none,,,,,,,,https://championsgatecorp.com,2026-11-10T08:46:25.389767+00:00
+58.39,CHPG,ChampionsGate Acquisition Corporation,Financial Services,Shell Companies,United States,105166120,10.53,13280,5692,59936.759999999995,,,,0.0,0.0,0.0,,,16618,334815,,0.198,0.047,-274426,,8617125,7597129,0.09284,0.90432,8166,3.62,0.0013,37.607143,,,-59.1573,,,,,,,none,,,,,,,,https://championsgatecorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-20,10.24,10.24,9.81,9.99,,,,,,,0,9.8100,1,947052,,,,
 2025-06-23,9.99,9.99,9.99,9.99,,,,,,,0,9.8100,1,,,,,
@@ -366,3 +366,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.53,10.53,10.53,10.53,10.52,10.52,10.49,10.40,10.37,10.5051,1,10.4960,1,20007,69917,0.0127,0.0123,0.0004
 2026-11-10,10.53,10.54,10.53,10.54,10.53,10.52,10.49,10.40,10.37,10.5051,1,10.4992,1,23188,67162,0.0130,0.0124,0.0006
 2026-11-11,10.55,10.55,10.53,10.55,10.54,10.52,10.49,10.40,10.37,10.5062,1,10.5023,1,4595580,159073,0.0139,0.0127,0.0012
+2026-11-12,10.55,10.55,10.55,10.55,10.54,10.52,10.50,10.40,10.37,10.5196,1,10.5051,1,1214305,183360,0.0144,0.0130,0.0013

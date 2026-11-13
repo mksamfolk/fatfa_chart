@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.96,FIGX,FIGX Capital Acquisition Corp.,Financial Services,Shell Companies,United States,201028544,10.37,13520,28440,294922.8,,,,0.0,0.0,0.0,,,664186,0,,5.35,4.588,-1062600,,15508470,15195975,0.00193,0.84723,120,0.0,0.0,,,,-36.514084,,,,,,,none,,,,,,,,,2026-11-10T09:44:12.922397+00:00
+58.05,FIGX,FIGX Capital Acquisition Corp.,Financial Services,Shell Companies,United States,201028544,10.37,13520,28440,294922.8,,,,0.0,0.0,0.0,,,664186,0,,5.35,4.588,-1062600,,15508470,15195975,0.00193,0.84723,120,0.0,0.0,,,,-36.514084,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-18,9.96,9.96,9.95,9.95,,,,,,,0,9.9600,0,132335,,,,
 2025-08-19,9.95,9.96,9.95,9.96,,,,,,,0,9.9600,0,160356,,,,
@@ -326,3 +326,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.37,10.37,10.37,10.37,10.36,10.35,10.33,10.25,10.22,10.3607,1,10.3450,1,3111,263914,0.0124,0.0112,0.0012
 2026-11-10,10.38,10.39,10.38,10.39,10.37,10.36,10.33,10.25,10.22,10.3607,1,10.3478,1,1406806,291824,0.0137,0.0117,0.0020
 2026-11-11,10.39,10.39,10.39,10.39,10.37,10.36,10.34,10.25,10.22,10.3681,1,10.3520,1,,291824,0.0146,0.0123,0.0023
+2026-11-12,10.39,10.39,10.39,10.39,10.37,10.36,10.34,10.25,10.22,10.3703,1,10.3558,1,,291763,0.0151,0.0128,0.0023

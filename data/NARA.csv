@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NARA,Narragansett Bancorp Inc.,Financial Services,Banks - Regional,United States,84262800,10.65,337480,337480,3594162.0,,,,0.0,0.0,0.0,,,,,,,,,,7912000,,,,,,,,,,,,,,,,,none,,,,,,,,https://baycoast.bank,2026-11-10T11:28:36.381847+00:00
+0.00,NARA,Narragansett Bancorp Inc.,Financial Services,Banks - Regional,United States,84262800,10.65,337480,337480,3594162.0,,,,0.0,0.0,0.0,,,,,,,,,,7912000,,,,,,,,,,,,,,,,,none,,,,,,,,https://baycoast.bank,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-11-02,10.80,10.90,10.55,10.80,,,,,,,,10.5500,1,10261080,,,,
 2026-11-03,10.75,10.95,10.70,10.91,,,,,,,,10.5500,1,4114161,,,,
@@ -37,3 +37,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.89,10.89,10.65,10.65,,,,,,,,10.6019,1,1250310,,,,
 2026-11-10,10.65,10.78,10.55,10.74,,,,,,,,11.0000,0,1769952,,,,
 2026-11-11,10.71,10.75,10.60,10.60,,,,,,,,10.9910,0,2120000,,,,
+2026-11-12,10.60,10.70,10.52,10.57,,,,,,,,10.9822,0,1740879,,,,

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PARK,Park Dental Partners Inc.,Healthcare,Medical Care Facilities,United States,99860920,21.0,56970,38221,802641.0,0.051,-0.848,-0.475,0.14228,0.01898,-0.01406,-0.24159999,-0.02602,24398000,60099000,201.532,1.123,0.996,18113000,11479500,4755282,3888061,0.20886,0.24084,22928,0.81,0.0053,,13.291139,0.39727297,3.313348,0.539,54.399,28.5,30.0,27.0,,none,2,1,1,1,1,,,https://www.parkdentalpartners.com,2026-11-10T11:58:31.236364+00:00
+0.00,PARK,Park Dental Partners Inc.,Healthcare,Medical Care Facilities,United States,99860920,21.0,56970,38221,802641.0,0.051,-0.848,-0.475,0.14228,0.01898,-0.01406,-0.24159999,-0.02602,24398000,60099000,201.532,1.123,0.996,18113000,11479500,4755282,3888061,0.20886,0.24084,22928,0.81,0.0053,,13.291139,0.39727297,3.313348,0.539,54.399,28.5,30.0,27.0,,none,2,1,1,1,1,,,https://www.parkdentalpartners.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-03,13.00,13.44,9.53,10.25,,,,,,,0,9.5300,1,4939475,,,,
 2025-12-04,10.35,12.13,10.35,11.54,,,,,,,0,9.5300,1,793952,,,,
@@ -251,3 +251,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,17.89,21.82,17.89,21.00,20.44,19.97,20.64,19.16,18.74,18.4852,1,21.6880,0,289800,837917,0.0837,-0.0150,0.0987
 2026-11-10,20.84,21.89,20.31,21.50,20.66,20.07,20.64,19.19,18.78,18.4852,1,17.8900,1,408500,834884,0.1672,0.0215,0.1457
 2026-11-11,21.34,22.07,21.01,22.07,20.80,20.22,20.66,19.23,18.81,18.4852,1,17.8900,1,275875,831000,0.2761,0.0724,0.2037
+2026-11-12,22.09,22.10,20.66,21.19,20.92,20.32,20.67,19.27,18.85,18.4852,1,18.0572,1,139854,826653,0.2881,0.1155,0.1726

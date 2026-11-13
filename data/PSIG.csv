@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-10-13 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.92,PSIG,PS International Group Ltd.,Industrials,Integrated Freight & Logistics,Hong Kong,82441208,5.36,1555230,1188132,6368387.5200000005,0.144,,,0.01683,-0.0461,-0.44007,-1.6139301,-0.02158,13875712,4225542,21.365,2.368,2.099,-3664826,-5814365,15380822,7788387,0.57388,0.01715,40800,0.03,0.0031,,,1.4592171,4.190774,1.29,-110.837,,,,,none,,,,,,,,https://www.profitsail.com,2026-11-10T12:15:18.063722+00:00
+97.88,PSIG,PS International Group Ltd.,Industrials,Integrated Freight & Logistics,Hong Kong,82441208,5.36,1555230,1188132,6368387.5200000005,0.144,,,0.01683,-0.0461,-0.44007,-1.6139301,-0.02158,13875712,4225542,21.365,2.368,2.099,-3664826,-5814365,15380822,7788387,0.57388,0.01715,40800,0.03,0.0031,,,1.4592171,4.190774,1.29,-110.837,,,,,none,,,,,,,,https://www.profitsail.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-19,27.92,33.60,18.00,27.28,,,,,,,0,33.6000,0,2012937,,,,
 2024-07-22,26.32,26.32,18.00,21.60,,,,,,,0,33.6000,0,1252001,,,,
@@ -596,3 +596,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.12,5.45,5.08,5.36,5.01,4.73,3.31,4.86,4.96,4.0820,1,4.4198,1,2094688,3798567,0.4927,0.5220,-0.0293
 2026-11-10,5.37,5.39,5.14,5.36,5.07,4.78,3.39,4.86,4.96,4.1253,1,4.5228,1,1276216,3821372,0.4898,0.5156,-0.0257
 2026-11-11,5.37,5.39,5.18,5.34,5.12,4.83,3.47,4.86,4.97,4.1959,1,4.6155,1,869886,3837888,0.4804,0.5086,-0.0281
+2026-11-12,5.30,5.33,5.19,5.29,5.16,4.88,3.56,4.86,4.97,4.2357,1,4.6990,1,400453,3845035,0.4636,0.4996,-0.0360

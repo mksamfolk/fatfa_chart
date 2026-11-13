@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GENB,Generate Biomedicines Inc.,Healthcare,Biotechnology,United States,1820037504,14.18,1200970,1206890,17113700.2,-0.377,,,0.0,-11.342099,0.0,,,457415008,62628000,13.733,8.303,8.076,-237022000,,128352436,60460415,0.14039999,0.79172,8930609,7.37,0.119399995,,-6.2192984,68.72475,3.9887483,53.818,-5.711,27.0,30.0,22.0,1.33333,strong_buy,5,0,1,0,2,2026-11-10,,https://generatebiomedicines.com,2026-11-10T09:58:11.169330+00:00
+0.00,GENB,Generate Biomedicines Inc.,Healthcare,Biotechnology,United States,1820037504,14.18,1200970,1206890,17113700.2,-0.377,,,0.0,-11.342099,0.0,,,457415008,62628000,13.733,8.303,8.076,-237022000,,128352436,60460415,0.14039999,0.79172,8930609,7.37,0.119399995,,-6.2192984,68.72475,3.9887483,53.818,-5.711,27.0,30.0,22.0,1.33333,strong_buy,5,0,1,0,2,2026-11-10,,https://generatebiomedicines.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-27,15.00,15.32,11.44,12.65,,,,,,,0,11.4400,1,78667818,,,,
 2026-03-02,12.01,13.95,12.01,12.17,,,,,,,0,11.4400,1,17751162,,,,
@@ -208,3 +208,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.25,14.43,12.93,14.18,13.99,13.30,14.59,14.37,,16.0638,0,16.3016,0,9479330,16263998,-0.1680,-0.2636,0.0956
 2026-11-10,14.00,14.55,13.60,13.78,14.04,13.37,14.56,14.38,,16.0638,0,16.2248,0,7300644,15936061,-0.1443,-0.2397,0.0955
 2026-11-11,14.00,14.00,13.48,13.49,13.85,13.42,14.51,14.39,,16.0638,0,16.1495,0,6147393,15727798,-0.1472,-0.2212,0.0740
+2026-11-12,12.60,13.33,11.50,12.57,13.53,13.40,14.44,14.40,,15.8396,0,16.0757,0,20215074,15841501,-0.2212,-0.2212,0.0000

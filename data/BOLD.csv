@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-93.40,BOLD,Boundless Bio Inc.,Healthcare,Biotechnology,United States,57043908,2.46,95200,146701,360884.46,,,,0.0,0.0,0.0,-0.67857003,-0.32773,72626000,0,,9.481,9.349,-56247000,-30552000,23188581,15784482,0.12345,0.66968,788477,4.53,0.0558,,-2.510204,,0.83787465,,0.26,4.0,4.0,4.0,,none,1,0,0,1,1,,0.458,https://boundlessbio.com,2026-11-10T08:26:19.007718+00:00
+93.80,BOLD,Boundless Bio Inc.,Healthcare,Biotechnology,United States,57043908,2.46,95200,146701,360884.46,,,,0.0,0.0,0.0,-0.67857003,-0.32773,72626000,0,,9.481,9.349,-56247000,-30552000,23188581,15784482,0.12345,0.66968,788477,4.53,0.0558,,-2.510204,,0.83787465,,0.26,4.0,4.0,4.0,,none,1,0,0,1,1,,0.458,https://boundlessbio.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-28,14.25,15.24,14.10,14.25,,,,,,,0,15.2400,0,24997350,,,,
 2024-04-01,14.58,14.72,13.30,13.54,,,,,,,0,15.2400,0,8082026,,,,
@@ -673,3 +673,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.43,2.50,2.43,2.46,2.44,2.42,2.65,2.06,1.84,2.7621,0,2.3800,1,73800,365485,-0.0476,-0.0625,0.0150
 2026-11-10,2.46,2.50,2.40,2.45,2.45,2.42,2.64,2.07,1.84,2.7621,0,2.3800,1,292040,346820,-0.0433,-0.0587,0.0154
 2026-11-11,2.46,2.46,2.39,2.46,2.44,2.42,2.63,2.08,1.85,2.7549,0,2.3888,1,26568,331006,-0.0386,-0.0547,0.0160
+2026-11-12,2.45,2.47,2.41,2.46,2.44,2.43,2.63,2.08,1.86,2.7549,0,2.3900,1,82656,318614,-0.0345,-0.0506,0.0161
+2026-11-13,2.46,2.50,2.39,2.47,2.44,2.43,2.62,2.09,1.86,2.7549,0,2.3900,1,98862,311723,-0.0301,-0.0465,0.0164

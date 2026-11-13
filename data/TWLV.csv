@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TWLV,Twelve Seas Investment Company III,Financial Services,Shell Companies,United States,236250000,10.08,32910,40659,409842.72000000003,,,,0.0,0.0,0.0,,,391972,0,,3.036,2.367,-530341,,17745000,16095000,0.00225,0.8578,1247,0.05,0.0001,72.0,,,-36.38989,,,,,,,none,,,,,,,,https://twelveseasspac.com,2026-11-10T13:28:29.918024+00:00
+0.00,TWLV,Twelve Seas Investment Company III,Financial Services,Shell Companies,United States,236250000,10.08,32910,40659,409842.72000000003,,,,0.0,0.0,0.0,,,391972,0,,3.036,2.367,-530341,,17745000,16095000,0.00225,0.8578,1247,0.05,0.0001,72.0,,,-36.38989,,,,,,,none,,,,,,,,https://twelveseasspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-09,9.87,9.99,9.85,9.87,,,,,,,0,9.9900,0,892248,,,,
 2026-01-12,9.86,9.86,9.84,9.84,,,,,,,0,9.9900,0,406392,,,,
@@ -226,3 +226,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.08,10.08,10.08,10.08,10.09,10.08,10.07,10.00,,10.0759,1,10.0668,1,,460132,0.0068,0.0082,-0.0014
 2026-11-10,10.09,10.09,10.09,10.09,10.09,10.08,10.07,10.00,,10.0759,1,10.0679,1,302700,466186,0.0067,0.0079,-0.0012
 2026-11-11,10.10,10.10,10.10,10.10,10.09,10.08,10.07,10.00,,10.0769,1,10.0690,1,310070,470902,0.0074,0.0078,-0.0004
+2026-11-12,10.10,10.10,10.10,10.10,10.09,10.08,10.07,10.00,,10.0792,1,10.0700,1,,438051,0.0078,0.0078,0.0000

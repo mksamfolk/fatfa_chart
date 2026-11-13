@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VTIX,Virtuix Holdings Inc.,Technology,Computer Hardware,United States,18378500,0.541,234200,352779,190853.439,-0.257,,,0.27526,-5.08533,0.0,,-0.8485,7443869,11423975,,0.71,0.567,-11308087,-4841678,29971349,17840054,0.16266,0.09581,1177263,4.66,0.2165,,-0.73108107,4.6086736,-5.7553196,5.607,-1.933,8.5,9.0,8.0,,none,2,0,0,0,2,2026-11-16,,https://virtuix.com,2026-11-10T13:46:01.850313+00:00
+0.00,VTIX,Virtuix Holdings Inc.,Technology,Computer Hardware,United States,18378500,0.541,234200,352779,190853.439,-0.257,,,0.27526,-5.08533,0.0,,-0.8485,7443869,11423975,,0.71,0.567,-11308087,-4841678,29971349,17840054,0.16266,0.09581,1177263,4.66,0.2165,,-0.73108107,4.6086736,-5.7553196,5.607,-1.933,8.5,9.0,8.0,,none,2,0,0,0,2,2026-11-16,,https://virtuix.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-27,20.05,92.74,13.16,24.39,,,,,,,0,92.7400,0,10087704,,,,
 2026-01-28,22.00,25.50,10.44,10.67,,,,,,,0,92.7400,0,13704548,,,,
@@ -215,3 +215,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.54,0.58,0.54,0.54,0.57,0.67,1.08,3.09,,0.7560,0,0.4690,1,93485,464057,-0.1719,-0.1877,0.0157
 2026-11-10,0.54,0.58,0.51,0.57,0.56,0.65,1.05,3.05,,0.7560,0,0.4713,1,114162,458004,-0.1623,-0.1826,0.0203
 2026-11-11,0.59,0.68,0.57,0.63,0.56,0.64,1.03,2.99,,0.7560,0,0.4736,1,256603,456104,-0.1473,-0.1755,0.0282
+2026-11-12,0.64,0.68,0.57,0.61,0.56,0.63,1.01,2.94,,0.7560,0,0.4818,1,413318,450100,-0.1361,-0.1676,0.0315

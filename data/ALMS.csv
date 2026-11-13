@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.52,ALMS,Alumis Inc.,Healthcare,Biotechnology,United States,847800832,6.55,2030610,2731876,17893787.8,-0.377,,,1.0,-64.39892,0.0,-0.93646,-0.45344,502292992,36427000,8.056,6.744,6.64,-351398016,-208637632,129435239,91347626,0.00524,0.93937,11079936,4.15,0.1427,,-2.279585,114.598656,1.8613243,51.627,-0.906,31.125,46.0,15.0,,none,8,0,0,2,2,2026-11-12,-0.268,https://www.alumis.com,2026-11-10T07:49:22.949627+00:00
+6.68,ALMS,Alumis Inc.,Healthcare,Biotechnology,United States,847800832,6.55,2030610,2731876,17893787.8,-0.377,,,1.0,-64.39892,0.0,-0.93646,-0.45344,502292992,36427000,8.056,6.744,6.64,-351398016,-208637632,129435239,91347626,0.00524,0.93937,11079936,4.15,0.1427,,-2.279585,114.598656,1.8613243,51.627,-0.906,31.125,46.0,15.0,,none,8,0,0,2,2,2026-11-12,-0.268,https://www.alumis.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-28,13.50,13.53,12.02,13.30,,,,,,,0,12.0200,1,23509080,,,,
 2024-07-01,12.82,13.50,12.42,12.54,,,,,,,0,12.0200,1,4145724,,,,
@@ -625,3 +625,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.14,6.60,5.99,6.55,6.53,6.51,7.81,19.09,20.85,7.3499,0,6.9835,0,15756025,27766409,-0.6440,-0.8259,0.1819
 2026-11-10,6.56,6.67,6.28,6.40,6.50,6.51,7.50,18.98,20.75,7.3499,0,6.9095,0,9869440,27364938,-0.6022,-0.7812,0.1790
 2026-11-11,6.47,6.72,6.43,6.62,6.45,6.53,7.44,18.87,20.65,7.3499,0,6.8399,0,8494784,22156063,-0.5450,-0.7339,0.1889
+2026-11-12,6.50,6.61,6.13,6.13,6.37,6.52,7.36,18.76,20.55,7.3499,0,6.7745,0,11426933,20236563,-0.5331,-0.6938,0.1607

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SUJA,Suja Life Inc.,Consumer Defensive,Beverages - Non-Alcoholic,United States,402472640,10.42,185400,476250,4962525.0,0.116,,,0.48648,0.05407,-0.10408,,,20585000,191584992,101.41,1.532,0.847,6180000,,38625012,5592010,0.21271999,0.90358,1246995,4.05,0.0388,,25.007801,1.1336938,2.107179,1.381,9.975,18.4,27.0,8.0,,none,5,0,0,1,1,2026-11-10,,https://www.sujalife.com,2026-11-10T13:06:00.460176+00:00
+0.00,SUJA,Suja Life Inc.,Consumer Defensive,Beverages - Non-Alcoholic,United States,402472640,10.42,185400,476250,4962525.0,0.116,,,0.48648,0.05407,-0.10408,,,20585000,191584992,101.41,1.532,0.847,6180000,,38625012,5592010,0.21271999,0.90358,1246995,4.05,0.0388,,25.007801,1.1336938,2.107179,1.381,9.975,18.4,27.0,8.0,,none,5,0,0,1,1,2026-11-10,,https://www.sujalife.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-07,18.00,18.48,17.43,17.85,,,,,,,0,17.4300,1,69666766,,,,
 2026-05-08,17.85,17.98,17.70,17.80,,,,,,,0,17.4300,1,7940580,,,,
@@ -160,3 +160,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.99,10.82,9.60,10.42,10.35,10.53,9.88,,,11.7448,0,11.0000,0,4071094,2823116,0.1044,0.1735,-0.0691
 2026-11-10,10.51,10.51,9.85,9.97,10.35,10.46,9.88,,,11.7448,0,10.9720,0,2380836,2706713,0.0688,0.1526,-0.0837
 2026-11-11,8.00,9.33,8.00,8.68,10.21,10.30,9.84,,,11.1204,0,10.9446,0,6280848,2698409,-0.0628,0.1095,-0.1723
+2026-11-12,8.30,8.86,7.96,7.99,9.93,10.11,9.80,,,10.8898,0,10.8268,0,1910409,2636645,-0.2202,0.0436,-0.2638

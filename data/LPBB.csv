@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.40,LPBB,Launch Two Acquisition Corp.,Financial Services,Shell Companies,United States,311074976,10.82,2760,39165,423765.3,,-0.509,-0.509,0.0,0.0,0.0,,,23197,0,,0.105,0.021,-521090,,28749999,15269988,0.0,0.7489,6914,0.08,0.0002,41.615383,,,-26.009615,,,,,,,none,,,,,,,,https://launchtwoacquisitioncorp.com,2026-11-10T11:01:52.223599+00:00
+57.58,LPBB,Launch Two Acquisition Corp.,Financial Services,Shell Companies,United States,311074976,10.82,2760,39165,423765.3,,-0.509,-0.509,0.0,0.0,0.0,,,23197,0,,0.105,0.021,-521090,,28749999,15269988,0.0,0.7489,6914,0.08,0.0002,41.615383,,,-26.009615,,,,,,,none,,,,,,,,https://launchtwoacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-29,9.95,9.95,9.94,9.94,,,,,,,0,9.9500,0,29820,,,,
 2024-12-02,9.94,9.94,9.94,9.94,,,,,,,0,9.9500,0,,,,,
@@ -503,3 +503,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.82,10.82,10.82,10.82,10.81,10.80,10.80,10.72,10.67,10.8026,1,10.7870,1,15148,222236,0.0058,0.0044,0.0014
 2026-11-10,10.82,10.82,10.82,10.82,10.81,10.80,10.80,10.72,10.68,10.8037,1,10.7884,1,,221590,0.0062,0.0047,0.0014
 2026-11-11,10.82,10.82,10.82,10.82,10.81,10.80,10.80,10.72,10.68,10.8053,1,10.7896,1,,174374,0.0065,0.0051,0.0014
+2026-11-12,10.82,10.83,10.82,10.83,10.82,10.81,10.80,10.72,10.68,10.8088,1,10.7908,1,60648,173453,0.0074,0.0055,0.0018

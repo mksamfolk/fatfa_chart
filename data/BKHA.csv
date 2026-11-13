@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.08,BKHA,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,United States,22906976,5.515,24550,21731,119846.465,,9.267,5.961,0.0,0.0,0.0,,-0.013150001,12052,2088499,,0.018,0.005,-560069,-329246,4153577,1578069,1.0664,0.6743,103214,3.09,0.0471,16.71212,,,-4.8633156,,,,,,,none,,,,,,,0.468,https://www.bhspac.com,2026-11-10T08:21:40.843715+00:00
+10.66,BKHA,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,United States,22906976,5.515,24550,21731,119846.465,,9.267,5.961,0.0,0.0,0.0,,-0.013150001,12052,2088499,,0.018,0.005,-560069,-329246,4153577,1578069,1.0664,0.6743,103214,3.09,0.0471,16.71212,,,-4.8633156,,,,,,,none,,,,,,,0.468,https://www.bhspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-13,10.20,10.20,10.13,10.13,,,,,,,0,10.2000,0,14182,,,,
 2024-05-14,10.13,10.13,10.13,10.13,,,,,,,0,10.2000,0,,,,,
@@ -642,3 +642,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.67,5.67,5.02,5.51,5.07,5.60,9.43,11.03,11.15,8.2576,0,10.5304,0,63422,192263,-1.3058,-1.5524,0.2466
 2026-11-10,5.05,5.59,5.05,5.06,5.09,5.23,9.30,10.99,11.12,8.2576,0,10.1206,0,19734,192657,-1.2429,-1.4905,0.2477
 2026-11-11,5.07,5.25,4.90,5.20,5.15,5.10,9.17,10.94,11.09,8.2221,0,9.7354,0,23400,193125,-1.1682,-1.4260,0.2579
+2026-11-12,5.19,5.38,5.11,5.38,5.18,5.03,9.04,10.90,11.06,8.1544,0,9.3732,0,2246750,238060,-1.0824,-1.3573,0.2749

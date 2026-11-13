@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,356375968,9.82,11770,27493,269981.26,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.10175,521,0.01,,,,,-4909.9995,,,,,,,none,,,,,,,,https://amrresources.us,2026-11-10T07:51:00.744919+00:00
+0.00,AMAC,AMR Resources Acquisition Corp,Financial Services,Shell Companies,Cayman Islands,356375968,9.82,11770,27493,269981.26,,,,0.0,0.0,0.0,,,,229145,,0.064,,0,,26707500,26270113,0.0,0.10175,521,0.01,,,,,-4909.9995,,,,,,,none,,,,,,,,https://amrresources.us,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-08,10.00,10.00,9.87,9.88,,,,,,,0,10.0000,0,1317004,,,,
 2026-09-09,9.85,9.86,9.83,9.86,,,,,,,0,10.0000,0,186354,,,,
@@ -76,3 +76,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.82,9.82,9.82,9.82,9.80,9.80,,,,9.7948,1,9.7800,1,982,,-0.0021,-0.0037,0.0016
 2026-11-10,9.82,9.82,9.82,9.82,9.80,9.80,,,,9.7973,1,9.7808,1,982,,-0.0005,-0.0030,0.0025
 2026-11-11,9.81,9.83,9.81,9.82,9.81,9.80,,,,9.7973,1,9.7816,1,59902,,0.0008,-0.0023,0.0030
+2026-11-12,9.83,9.83,9.81,9.81,9.81,9.80,,,,9.7973,1,9.7835,1,442431,,0.0010,-0.0016,0.0026

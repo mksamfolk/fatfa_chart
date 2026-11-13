@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WQEY,WISeQey Corp.,Technology,Software - Application,British Virgin Islands,39650300,6.93,38820,72723,503970.38999999996,1.16,,,0.52532,-3.5743399,-0.43048,-0.15349,-0.09905,491433984,8600000,1.551,12.378,12.122,-41436000,-29381124,4120664,481467,0.054109998,0.02939,200099,3.98,0.0792,,,1.5591938,0.63953483,2.181,-0.983,15.0,15.0,15.0,,none,1,,,,,,0.462,https://www.wisekey.com,2026-11-10T13:54:06.238118+00:00
+0.00,WQEY,WISeQey Corp.,Technology,Software - Application,British Virgin Islands,39650300,6.93,38820,72723,503970.38999999996,1.16,,,0.52532,-3.5743399,-0.43048,-0.15349,-0.09905,491433984,8600000,1.551,12.378,12.122,-41436000,-29381124,4120664,481467,0.054109998,0.02939,200099,3.98,0.0792,,,1.5591938,0.63953483,2.181,-0.983,15.0,15.0,15.0,,none,1,,,,,,0.462,https://www.wisekey.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-05,19.01,19.78,12.55,13.40,,,,,,,0,19.7800,0,6552600,,,,
 2026-10-06,11.47,12.40,9.75,10.24,,,,,,,0,19.7800,0,1096704,,,,
@@ -57,3 +57,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.81,7.14,6.58,6.93,7.58,8.29,,,,9.7953,0,7.8379,0,145530,,,,
 2026-11-10,6.83,6.83,6.26,6.59,7.37,8.16,,,,9.4165,0,7.5827,0,233286,,,,
 2026-11-11,6.69,7.20,6.69,7.01,7.21,8.04,,,,9.4165,0,7.3181,0,79914,,,,
+2026-11-12,6.80,6.80,6.36,6.59,7.01,7.87,,,,9.2656,0,7.2000,0,122574,,,,

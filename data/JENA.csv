@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.96,JENA,Jena Acquisition Corporation II,Financial Services,Shell Companies,United States,303078496,10.46,113110,74943,783903.78,,,,0.0,0.0,0.0,,,66988,0,,6.029,1.601,-1110559,,23225000,21449903,0.00969,0.8836,14600,0.12,0.00059999997,,,,-21.791668,,,,,,,none,,,,,,,,,2026-11-10T10:41:02.555863+00:00
+56.84,JENA,Jena Acquisition Corporation II,Financial Services,Shell Companies,United States,303078496,10.46,113110,74943,783903.78,,,,0.0,0.0,0.0,,,66988,0,,6.029,1.601,-1110559,,23225000,21449903,0.00969,0.8836,14600,0.12,0.00059999997,,,,-21.791668,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-22,10.10,10.10,10.10,10.10,,,,,,,0,10.1000,1,160590,,,,
 2025-07-23,10.10,10.12,10.10,10.12,,,,,,,0,10.1000,1,35420,,,,
@@ -345,3 +345,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.46,10.46,10.46,10.46,10.45,10.44,10.43,10.35,10.33,10.4295,1,10.4112,1,2092,836922,0.0075,0.0044,0.0031
 2026-11-10,10.45,10.45,10.45,10.45,10.45,10.44,10.43,10.35,10.33,10.4295,1,10.4124,1,315590,843192,0.0072,0.0049,0.0023
 2026-11-11,10.45,10.46,10.45,10.46,10.45,10.44,10.43,10.36,10.34,10.4295,1,10.4135,1,1817948,879551,0.0077,0.0055,0.0022
+2026-11-12,10.46,10.46,10.45,10.46,10.45,10.44,10.43,10.36,10.34,10.4295,1,10.4147,1,396434,887105,0.0080,0.0060,0.0020

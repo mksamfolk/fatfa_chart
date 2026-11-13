@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BMM,Blue Moon Metals Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,385772288,3.56,393320,351642,1251845.52,,,,0.0,0.0,0.0,-0.32316002,-0.19025,160080368,16963992,4.33,3.893,3.819,-66564712,-55861968,108363001,83253882,0.21150999,0.29413998,1767115,5.37,,,-18.45901,,1.348648,,-2.598,15.0393305,15.0393305,15.0393305,1.6,buy,1,1,1,0,0,2026-11-12,0.839,https://bluemoonmetals.com,2026-11-10T08:24:22.072586+00:00
+0.00,BMM,Blue Moon Metals Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,385772288,3.56,393320,351642,1251845.52,,,,0.0,0.0,0.0,-0.32316002,-0.19025,160080368,16963992,4.33,3.893,3.819,-66564712,-55861968,108363001,83253882,0.21150999,0.29413998,1767115,5.37,,,-18.45901,,1.348648,,-2.598,15.0393305,15.0393305,15.0393305,1.6,buy,1,1,1,0,0,2026-11-12,0.839,https://bluemoonmetals.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-26,4.75,4.99,4.22,4.52,,,,,,,0,4.2200,1,898124,,,,
 2026-01-27,4.69,4.69,4.34,4.51,,,,,,,0,4.2200,1,685520,,,,
@@ -216,3 +216,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.38,3.61,3.26,3.56,3.67,3.95,4.82,5.99,,4.2188,0,2.7400,1,2032404,1478928,-0.4624,-0.4231,-0.0393
 2026-11-10,3.47,3.57,3.36,3.43,3.58,3.89,4.78,5.97,,4.2188,0,2.7574,1,737793,1427983,-0.4465,-0.4277,-0.0187
 2026-11-11,3.43,3.64,3.36,3.43,3.48,3.84,4.74,5.96,,4.2188,0,2.7745,1,1894389,1422493,-0.4289,-0.4280,-0.0010
+2026-11-12,3.43,3.55,3.12,3.15,3.39,3.78,4.70,5.95,,4.2188,0,2.8091,1,2402505,1365776,-0.4326,-0.4289,-0.0037

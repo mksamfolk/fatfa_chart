@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GLED,GalaxyEdge Acquisition Corporation,Financial Services,Shell Companies,United States,164061952,10.2651,5860,39370,404136.987,,,,0.0,0.0,0.0,,,312210,0,,0.159,0.159,-60000,,15982500,9874947,0.32418,0.53927,31,0.0,,,,,293.28854,,,,,,,none,,,,,,,,https://galaxyedge.co,2026-11-10T10:01:37.400998+00:00
+0.00,GLED,GalaxyEdge Acquisition Corporation,Financial Services,Shell Companies,United States,164061952,10.2651,5860,39370,404136.987,,,,0.0,0.0,0.0,,,312210,0,,0.159,0.159,-60000,,15982500,9874947,0.32418,0.53927,31,0.0,,,,,293.28854,,,,,,,none,,,,,,,,https://galaxyedge.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,9.90,9.90,9.87,9.88,,,,,,,0,9.9000,0,1577836,,,,
 2026-04-15,9.88,9.88,9.87,9.87,,,,,,,0,9.9000,0,18272331,,,,
@@ -162,3 +162,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.27,10.27,10.27,10.27,10.12,10.10,10.04,,,10.2058,1,10.0809,1,2054,448768,0.0373,0.0242,0.0131
 2026-11-10,10.11,10.17,10.11,10.17,10.13,10.10,10.05,,,10.2458,0,10.1074,1,611217,459815,0.0377,0.0269,0.0108
 2026-11-11,10.17,10.17,10.17,10.17,10.14,10.11,10.05,,,10.2458,0,10.1100,1,,458719,0.0376,0.0290,0.0086
+2026-11-12,10.17,10.17,10.17,10.17,10.15,10.11,10.05,,,10.2458,0,10.1100,1,,457722,0.0371,0.0306,0.0064

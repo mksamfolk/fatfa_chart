@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VECA,Vernal Capital Acquisition Corp.,Financial Services,Shell Companies,United States,129540600,10.08,38100,9739,98169.12,,,,0.0,0.0,0.0,,,669644,0,,0.161,0.161,-52280,,12851250,12851250,0.22227,0.58792996,792,25.55,,144.0,,,180.0,,,,,,,none,,,,,,,,https://www.vernalspac.com,2026-11-10T13:38:06.897192+00:00
+0.00,VECA,Vernal Capital Acquisition Corp.,Financial Services,Shell Companies,United States,129540600,10.08,38100,9739,98169.12,,,,0.0,0.0,0.0,,,669644,0,,0.161,0.161,-52280,,12851250,12851250,0.22227,0.58792996,792,25.55,,144.0,,,180.0,,,,,,,none,,,,,,,,https://www.vernalspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-19,9.90,9.91,9.88,9.91,,,,,,,0,9.9100,0,12276508,,,,
 2026-05-20,9.90,9.91,9.88,9.91,,,,,,,0,9.9100,0,1871008,,,,
@@ -137,3 +137,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.07,10.08,10.07,10.08,10.03,10.03,10.02,,,10.0422,1,10.0300,1,2310336,130330,0.0059,0.0011,0.0048
 2026-11-10,10.09,10.09,10.08,10.09,10.03,10.03,10.02,,,10.0525,1,10.0400,1,2079549,165527,0.0100,0.0029,0.0071
 2026-11-11,10.09,10.09,10.09,10.09,10.04,10.03,10.02,,,10.0607,1,10.0496,1,,121172,0.0131,0.0049,0.0082
+2026-11-12,10.15,10.15,10.12,10.14,10.06,10.03,10.03,,,10.0907,1,10.0584,1,63882,122410,0.0194,0.0078,0.0116

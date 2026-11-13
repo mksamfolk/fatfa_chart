@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,EMAT,Evolution Metals & Technologies Corp.,Basic Materials,Other Industrial Metals & Mining,United States,1367297408,2.18,668900,1291892,2816324.56,,,,0.0936,-7.4492702,0.0,,-0.30073,5254000,27546000,,0.157,0.098,-18968478,-61732752,627200646,80013307,0.86382,0.02289,3918564,2.15,0.0467,,43.600002,388.98932,-72.66667,391.985,,8.25,12.0,4.5,,none,2,1,1,0,0,,0.211,https://evolution-metals.com,2026-11-10T09:28:33.105691+00:00
+0.00,EMAT,Evolution Metals & Technologies Corp.,Basic Materials,Other Industrial Metals & Mining,United States,1367297408,2.18,668900,1291892,2816324.56,,,,0.0936,-7.4492702,0.0,,-0.30073,5254000,27546000,,0.157,0.098,-18968478,-61732752,627200646,80013307,0.86382,0.02289,3918564,2.15,0.0467,,43.600002,388.98932,-72.66667,391.985,,8.25,12.0,4.5,,none,2,1,1,0,0,,0.211,https://evolution-metals.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-07,16.10,24.08,16.10,19.00,,,,,,,0,16.1000,1,15209500,,,,
 2026-01-08,17.37,18.30,16.20,17.01,,,,,,,0,16.1000,1,7538832,,,,
@@ -228,3 +228,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.99,2.40,1.99,2.18,1.75,1.60,2.37,5.45,,1.3978,1,1.4793,1,2573490,2983260,-0.1318,-0.2729,0.1411
 2026-11-10,1.86,1.86,1.08,1.22,1.73,1.59,2.35,5.41,,2.5165,0,2.4000,0,3698186,3044559,-0.1679,-0.2519,0.0840
 2026-11-11,1.27,1.32,1.18,1.23,1.68,1.58,2.33,5.38,,2.2361,0,2.4000,0,1070528,3055966,-0.1939,-0.2403,0.0464
+2026-11-12,1.17,1.17,0.96,0.99,1.62,1.55,2.30,5.34,6.28,2.0345,0,2.3735,0,1201959,3069613,-0.2308,-0.2384,0.0076

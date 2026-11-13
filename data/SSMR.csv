@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SSMR,Sunshine Silver Mining & Refining Company,Basic Materials,Other Industrial Metals & Mining,United States,2127153792,14.8,1196190,573810,8492388.0,,,,0.0,-128.08017,0.0,,,288722336,231526,0.072,24.526,24.34,-40033880,,143726603,31394202,0.01696,0.94235003,3623663,5.71,0.16370001,,-52.857143,5001.0083,6.592428,4322.757,-34.644,19.16667,21.0,16.0,1.66667,buy,6,0,0,0,0,2026-11-11,,https://sunshinesilvermining.com,2026-11-10T13:01:51.846190+00:00
+0.00,SSMR,Sunshine Silver Mining & Refining Company,Basic Materials,Other Industrial Metals & Mining,United States,2127153792,14.8,1196190,573810,8492388.0,,,,0.0,-128.08017,0.0,,,288722336,231526,0.072,24.526,24.34,-40033880,,143726603,31394202,0.01696,0.94235003,3623663,5.71,0.16370001,,-52.857143,5001.0083,6.592428,4322.757,-34.644,19.16667,21.0,16.0,1.66667,buy,6,0,0,0,0,2026-11-11,,https://sunshinesilvermining.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,15.00,17.15,14.00,17.15,,,,,,,0,17.1500,0,40830719,,,,
 2026-06-05,15.41,15.41,13.75,14.00,,,,,,,0,17.1500,0,14870800,,,,
@@ -141,3 +141,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.85,15.10,13.81,14.80,12.84,12.74,14.76,,,10.9785,1,10.6300,1,13848360,9719043,-0.4199,-0.6729,0.2530
 2026-11-10,14.08,14.68,13.70,14.07,12.83,12.76,14.69,,,10.9785,1,10.7194,1,6861939,9758289,-0.3031,-0.5989,0.2958
 2026-11-11,14.26,14.40,13.82,14.11,12.88,12.85,14.63,,,10.9785,1,10.8070,1,6714949,9822507,-0.2049,-0.5201,0.3152
+2026-11-12,13.68,14.90,12.65,13.51,12.91,12.92,14.55,,,10.9785,1,10.8929,1,6746894,9849562,-0.1735,-0.4508,0.2773

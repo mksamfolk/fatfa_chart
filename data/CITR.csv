@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CITR,CitroTech Inc.,Basic Materials,Specialty Chemicals,United States,58612904,2.58,39740,47196,121765.68000000001,-0.592,,,0.07926,-13.73857,0.0,-4.30998,-1.22315,2519302,774764,8.596,8.766,6.391,-7786108,-4159610,22718180,13561629,0.47739,0.11173,279299,4.4,0.0375,,-4.607143,43.417995,6.45,41.811,-3.154,16.0,16.0,16.0,,none,1,1,1,0,0,,-0.097,https://www.citrotech.com,2026-11-10T08:48:25.861661+00:00
+0.00,CITR,CitroTech Inc.,Basic Materials,Specialty Chemicals,United States,58612904,2.58,39740,47196,121765.68000000001,-0.592,,,0.07926,-13.73857,0.0,-4.30998,-1.22315,2519302,774764,8.596,8.766,6.391,-7786108,-4159610,22718180,13561629,0.47739,0.11173,279299,4.4,0.0375,,-4.607143,43.417995,6.45,41.811,-3.154,16.0,16.0,16.0,,none,1,1,1,0,0,,-0.097,https://www.citrotech.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-04,8.02,9.50,7.20,7.85,,,,,,,0,7.2000,1,257447,,,,
 2025-12-05,7.85,8.25,7.50,7.83,,,,,,,0,7.2000,1,195750,,,,
@@ -250,3 +250,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.51,2.60,2.43,2.58,2.50,2.61,4.19,5.96,6.34,3.2935,0,2.7882,0,93912,160354,-0.4394,-0.5355,0.0960
 2026-11-10,2.58,2.60,2.35,2.45,2.48,2.60,4.12,5.92,6.31,3.2935,0,2.7777,0,112210,159947,-0.4159,-0.5116,0.0957
 2026-11-11,2.52,2.70,2.25,2.42,2.46,2.59,4.05,5.88,6.29,3.2935,0,2.7673,0,102577,157004,-0.3947,-0.4882,0.0935
+2026-11-12,2.41,2.48,2.10,2.39,2.45,2.55,3.98,5.84,6.26,3.1953,0,2.7466,0,266246,161182,-0.3764,-0.4658,0.0895

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SCTX,Scribe Therapeutics Inc.,Healthcare,Biotechnology,United States,315780416,16.68,337870,385939,6437462.52,-0.608,,,-0.53285,-4.89833,-0.97003,,,43009000,43270000,,0.573,0.562,-37853000,,18931680,6389063,0.20678,0.65792,1118447,1.96,,,-4.6119776,9.482326,-0.2514699,13.104,-15.686,57.0,60.0,50.0,,none,4,1,0,0,0,2026-11-11,,https://www.scribetx.com,2026-11-10T12:41:26.685715+00:00
+0.00,SCTX,Scribe Therapeutics Inc.,Healthcare,Biotechnology,United States,315780416,16.68,337870,385939,6437462.52,-0.608,,,-0.53285,-4.89833,-0.97003,,,43009000,43270000,,0.573,0.562,-37853000,,18931680,6389063,0.20678,0.65792,1118447,1.96,,,-4.6119776,9.482326,-0.2514699,13.104,-15.686,57.0,60.0,50.0,,none,4,1,0,0,0,2026-11-11,,https://www.scribetx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,21.48,22.75,17.31,18.97,,,,,,,0,17.3100,1,7950327,,,,
 2026-07-28,18.00,18.89,17.50,18.06,,,,,,,0,17.3100,1,7740516,,,,
@@ -106,3 +106,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.99,17.40,15.63,16.68,16.27,17.55,22.20,,,21.8008,0,17.5187,0,5100744,9271638,-1.5204,-1.6966,0.1762
 2026-11-10,16.42,18.30,16.01,17.36,16.41,17.46,21.94,,,21.8008,0,14.2900,1,5959688,9298540,-1.3495,-1.6272,0.2777
 2026-11-11,17.50,17.77,16.70,16.86,16.35,17.26,21.69,,,21.8008,0,14.3702,1,6197736,9326795,-1.2401,-1.5498,0.3097
+2026-11-12,16.37,17.49,15.55,16.99,16.30,17.08,21.42,,,21.8008,0,14.4488,1,4796277,9250484,-1.1299,-1.4658,0.3359

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.36,IBTA,Ibotta Inc.,Technology,Software - Application,United States,1410715008,59.91,602150,288650,17293021.5,0.175,,,0.78409,0.048270002,-0.04488,-0.056550004,-0.00936,149888992,24852000,10.428,1.673,1.646,93389000,62839124,20469814,8493570,0.44917,0.48248002,2765604,11.2,0.2555,,27.936974,3.9434197,5.887382,3.575,-372.938,50.57143,65.0,26.0,3.0,hold,7,2,2,1,1,2026-11-02,-0.444,https://www.ibotta.com,2026-11-10T10:25:15.798498+00:00
+96.96,IBTA,Ibotta Inc.,Technology,Software - Application,United States,1410715008,59.91,602150,288650,17293021.5,0.175,,,0.78409,0.048270002,-0.04488,-0.056550004,-0.00936,149888992,24852000,10.428,1.673,1.646,93389000,62839124,20469814,8493570,0.44917,0.48248002,2765604,11.2,0.2555,,27.936974,3.9434197,5.887382,3.575,-372.938,50.57143,65.0,26.0,3.0,hold,7,2,2,1,1,2026-11-02,-0.444,https://www.ibotta.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,103.25,103.50,95.03,98.00,,,,,,,0,103.5000,0,95148200,,,,
 2024-04-22,99.16,101.69,93.15,101.40,,,,,,,0,103.5000,0,47810101,,,,
@@ -673,3 +673,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,58.98,61.00,57.60,59.91,54.46,50.98,44.70,37.13,33.89,49.9480,1,50.0318,1,44189616,15808111,4.3176,3.4002,0.9174
 2026-11-10,59.73,60.69,57.36,60.30,55.61,51.83,45.16,37.32,34.08,49.9480,1,50.6862,1,35890560,16428284,4.4458,3.6093,0.8365
 2026-11-11,59.39,60.68,58.52,59.94,56.76,52.61,45.61,37.51,34.27,49.9480,1,51.3143,1,35454509,17016992,4.4669,3.7808,0.6860
+2026-11-12,59.73,60.88,58.06,58.12,57.63,53.07,46.02,37.69,34.46,49.9480,1,51.9173,1,27368707,17419712,4.2873,3.8821,0.4052
+2026-11-13,58.00,59.03,57.00,57.04,58.47,53.53,46.42,37.84,34.64,49.9480,1,52.4962,1,4179834,17399652,4.0116,3.9080,0.1036

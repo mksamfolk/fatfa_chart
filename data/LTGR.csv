@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LTGR,Long Table Growth Corp.,Financial Services,Shell Companies,United States,229310000,9.97,26880,6854,68334.38,,,,0.0,0.0,0.0,,,1624999936,0,,0.307,0.307,0,,17250000,15660700,0.00174,0.18726,23,0.01,0.0,,,,-11.45977,,,,,,,none,,,,,,,,https://longtablepartners.com,2026-11-10T11:03:37.786207+00:00
+0.00,LTGR,Long Table Growth Corp.,Financial Services,Shell Companies,United States,229310000,9.97,26880,6854,68334.38,,,,0.0,0.0,0.0,,,1624999936,0,,0.307,0.307,0,,17250000,15660700,0.00174,0.18726,23,0.01,0.0,,,,-11.45977,,,,,,,none,,,,,,,,https://longtablepartners.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.94,9.95,9.90,9.90,,,,,,,0,9.9500,0,187110,,,,
 2026-07-28,9.88,9.88,9.88,9.88,,,,,,,0,9.9500,0,56316,,,,
@@ -91,3 +91,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.97,9.97,9.97,9.97,9.97,9.96,9.95,,,9.9656,1,9.9410,1,,80356,0.0058,0.0060,-0.0001
 2026-11-10,9.98,9.98,9.98,9.98,9.97,9.96,9.95,,,9.9687,1,9.9420,1,598800,92332,0.0066,0.0061,0.0005
 2026-11-11,9.98,9.98,9.98,9.98,9.97,9.96,9.95,,,9.9698,1,9.9429,1,,92332,0.0071,0.0063,0.0008
+2026-11-12,10.03,10.03,10.02,10.03,9.98,9.97,9.96,,,10.0008,1,9.9439,1,2036090,133054,0.0113,0.0073,0.0041

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BEBE,TGE Value Creative Solutions Corp,Financial Services,Shell Companies,France,201600000,10.08,56380,12782,128842.56,,,,0.0,0.0,0.0,,,386697,426,,2.6,2.6,-13032,,15000000,7907600,0.00253,0.93737,1694,0.3,0.0001,,,,-35.121952,,,,,,,none,,,,,,,,,2026-11-10T08:16:50.833677+00:00
+0.00,BEBE,TGE Value Creative Solutions Corp,Financial Services,Shell Companies,France,201600000,10.08,56380,12782,128842.56,,,,0.0,0.0,0.0,,,386697,426,,2.6,2.6,-13032,,15000000,7907600,0.00253,0.93737,1694,0.3,0.0001,,,,-35.121952,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-06,9.95,9.95,9.94,9.95,,,,,,,0,9.9500,0,106465,,,,
 2026-02-09,9.93,9.95,9.81,9.81,,,,,,,0,9.9500,0,161865,,,,
@@ -207,3 +207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.07,10.12,10.07,10.08,10.07,10.08,10.03,9.97,,10.0587,1,10.0400,1,1337616,164738,0.0078,0.0124,-0.0045
 2026-11-10,10.08,10.08,10.08,10.08,10.07,10.08,10.04,9.97,,10.0587,1,10.0416,1,604800,176834,0.0081,0.0115,-0.0034
 2026-11-11,10.08,10.08,10.08,10.08,10.06,10.08,10.04,9.97,,10.0587,1,10.0432,1,,176834,0.0082,0.0109,-0.0026
+2026-11-12,10.09,10.09,10.09,10.09,10.07,10.08,10.04,9.97,,10.0605,1,10.0447,1,2018000,211834,0.0090,0.0105,-0.0015

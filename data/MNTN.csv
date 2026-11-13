@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.97,MNTN,MNTN Inc.,Technology,Software - Application,United States,388228416,5.19,2002650,1027454,5332486.260000001,0.146,0.25,0.192,0.80677,0.10885,0.17811,0.18496001,0.07745,252322000,0,,7.103,6.838,73082000,42735000,61892533,39871472,0.19492,0.75333,3542448,4.45,0.0764,4.675676,10.026467,1.199869,1.0889635,0.42,2.657,10.77778,22.0,6.0,2.0,buy,9,0,1,0,1,2026-11-04,,https://mountain.com,2026-11-10T11:19:06.606317+00:00
+10.70,MNTN,MNTN Inc.,Technology,Software - Application,United States,388228416,5.19,2002650,1027454,5332486.260000001,0.146,0.25,0.192,0.80677,0.10885,0.17811,0.18496001,0.07745,252322000,0,,7.103,6.838,73082000,42735000,61892533,39871472,0.19492,0.75333,3542448,4.45,0.0764,4.675676,10.026467,1.199869,1.0889635,0.42,2.657,10.77778,22.0,6.0,2.0,buy,9,0,1,0,1,2026-11-04,,https://mountain.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-22,21.00,26.88,20.76,26.36,,,,,,,0,20.7600,1,304608259,,,,
 2025-05-23,25.93,32.49,24.56,27.71,,,,,,,0,20.7600,1,111078302,,,,
@@ -400,3 +400,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.38,5.53,5.10,5.19,8.30,9.11,10.40,10.03,9.89,8.0277,0,10.4896,0,15043734,9162935,-1.0787,-0.6073,-0.4714
 2026-11-10,5.10,5.20,4.74,4.90,7.85,8.86,10.23,10.00,9.87,7.7039,0,10.2540,0,9701510,9058644,-1.2424,-0.7343,-0.5081
 2026-11-11,4.93,5.09,4.78,4.98,7.38,8.64,10.09,9.98,9.84,7.4948,0,10.0279,0,9887790,9124867,-1.3501,-0.8575,-0.4927
+2026-11-12,4.90,5.18,4.88,4.99,6.89,8.37,9.92,9.95,9.82,7.4215,0,9.8107,0,7181608,9030873,-1.4184,-0.9696,-0.4487

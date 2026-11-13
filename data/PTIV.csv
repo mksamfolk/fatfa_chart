@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-16 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.47,PTIV,Pineapple Financial Inc.,Financial Services,Mortgage Finance,Canada,18195262,0.72,56620,94421,67983.12,-0.167,,,1.0,-1.3956599,-1.14086,-0.120900005,-0.043270003,5089707,22044762,42.706,0.998,0.235,-5129030,-20338420,25271197,7165395,0.71647,0.0056,112439,0.77,0.012,,,6.5456185,0.3560831,12.645,-12.838,5.0,5.0,5.0,,none,1,,,,,,5.602,https://gopineapple.com,2026-11-10T12:16:34.225639+00:00
+20.34,PTIV,Pineapple Financial Inc.,Financial Services,Mortgage Finance,Canada,18195262,0.72,56620,94421,67983.12,-0.167,,,1.0,-1.3956599,-1.14086,-0.120900005,-0.043270003,5089707,22044762,42.706,0.998,0.235,-5129030,-20338420,25271197,7165395,0.71647,0.0056,112439,0.77,0.012,,,6.5456185,0.3560831,12.645,-12.838,5.0,5.0,5.0,,none,1,,,,,,5.602,https://gopineapple.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-11-01,70.00,73.80,41.00,45.00,,,,,,,0,73.8000,0,4203000,,,,
 2023-11-02,46.00,51.80,33.20,37.00,,,,,,,0,73.8000,0,1350315,,,,
@@ -789,3 +789,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.77,0.78,0.71,0.72,0.79,0.86,0.90,0.99,0.92,1.0119,0,0.9065,0,12816,96351,-0.0536,-0.0382,-0.0154
 2026-11-10,0.72,0.73,0.71,0.71,0.77,0.85,0.90,0.99,0.91,0.9673,0,0.8899,0,13774,95488,-0.0564,-0.0418,-0.0146
 2026-11-11,0.71,0.75,0.70,0.74,0.75,0.84,0.89,0.99,0.91,0.9607,0,0.8747,0,30135,95696,-0.0560,-0.0446,-0.0113
+2026-11-12,0.75,0.75,0.70,0.70,0.73,0.83,0.89,0.99,0.91,0.9499,0,0.8608,0,25516,95796,-0.0577,-0.0473,-0.0104

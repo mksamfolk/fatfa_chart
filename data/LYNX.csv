@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LYNX,Lyntris Inc.,Industrials,Aerospace & Defense,United States,1684744576,14.53,759420,765577,11123833.809999999,0.904,,,0.26226,0.12159,-0.024489999,,,88367000,237980000,200.086,1.067,0.861,114771000,,115949384,107630016,0.10561,0.08598,686138,1.36,,,23.950417,3.101632,14.161793,3.377,25.766,19.66667,25.0,17.0,1.0,strong_buy,6,0,0,0,0,2026-11-04,,https://www.lyntris.com,2026-11-10T11:06:04.632310+00:00
+0.00,LYNX,Lyntris Inc.,Industrials,Aerospace & Defense,United States,1684744576,14.53,759420,765577,11123833.809999999,0.904,,,0.26226,0.12159,-0.024489999,,,88367000,237980000,200.086,1.067,0.861,114771000,,115949384,107630016,0.10561,0.08598,686138,1.36,,,23.950417,3.101632,14.161793,3.377,25.766,19.66667,25.0,17.0,1.0,strong_buy,6,0,0,0,0,2026-11-04,,https://www.lyntris.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-19,15.50,16.00,14.28,15.01,,,,,,,0,14.2800,1,160339824,,,,
 2026-08-20,14.75,15.59,14.63,15.55,,,,,,,0,14.2800,1,39245090,,,,
@@ -89,3 +89,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.73,15.45,14.00,14.53,11.89,11.48,12.33,,,10.7404,1,8.9836,1,11940754,6573173,0.1326,-0.2778,0.4104
 2026-11-10,14.50,15.30,14.04,14.95,12.29,11.69,12.36,,,10.7404,1,9.3716,1,7265700,6616365,0.3482,-0.1526,0.5008
 2026-11-11,15.10,15.50,14.55,14.95,12.66,11.87,12.38,,,11.1723,1,9.7363,1,6554080,6663288,0.5131,-0.0195,0.5326
+2026-11-12,14.72,14.93,14.23,14.27,12.87,12.01,12.41,,,11.1723,1,10.1974,1,5284181,6692939,0.5823,0.1009,0.4814

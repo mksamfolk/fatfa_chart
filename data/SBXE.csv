@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SBXE,SilverBox Corp V,Financial Services,Shell Companies,United States,351113408,10.12,51470,30285,306484.19999999995,,,,0.0,0.0,0.0,,,383385,0,,10.425,9.261,-569680,,27795000,25849857,0.008450001,0.81901,105,0.0,0.0,,,,-16.08903,,,,,,,none,,,,,,,,,2026-11-10T12:40:16.103869+00:00
+0.00,SBXE,SilverBox Corp V,Financial Services,Shell Companies,United States,351113408,10.12,51470,30285,306484.19999999995,,,,0.0,0.0,0.0,,,383385,0,,10.425,9.261,-569680,,27795000,25849857,0.008450001,0.81901,105,0.0,0.0,,,,-16.08903,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,10.00,10.05,9.88,9.96,,,,,,,0,9.8800,1,149400,,,,
 2026-01-26,9.91,9.92,9.91,9.92,,,,,,,0,9.8800,1,61504,,,,
@@ -217,3 +217,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.12,10.12,10.12,10.12,10.11,10.11,10.11,10.05,,10.1015,1,10.1352,0,,288548,0.0016,0.0010,0.0007
 2026-11-10,10.12,10.12,10.12,10.12,10.11,10.11,10.11,10.05,,10.1029,1,10.1343,0,404800,296644,0.0019,0.0012,0.0008
 2026-11-11,10.12,10.13,10.12,10.13,10.12,10.11,10.11,10.05,,10.1066,1,10.1334,0,430525,305254,0.0029,0.0015,0.0014
+2026-11-12,10.13,10.13,10.13,10.13,10.12,10.11,10.11,10.06,,10.1134,1,10.1326,0,,305254,0.0037,0.0019,0.0017

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.32,XLAB,Exascale Labs Holdings Inc.,Technology,Software - Infrastructure,United States,72054960,1.12,898180,5743312,6432509.44,0.678,,,0.16314,-0.46513999,-0.82052004,,-0.42712003,2693586,0,,0.205,0.119,,,33689050,,0.76602995,0.63234,39229,0.05,0.0018000001,,,4.86109,,,,,,,,none,,,,,,,,https://www.exascalelabs.ai,2026-11-10T13:58:58.736266+00:00
+5.47,XLAB,Exascale Labs Holdings Inc.,Technology,Software - Infrastructure,United States,72054960,1.12,898180,5743312,6432509.44,0.678,,,0.16314,-0.46513999,-0.82052004,,-0.42712003,2693586,0,,0.205,0.119,,,33689050,,0.76602995,0.63234,39229,0.05,0.0018000001,,,4.86109,,,,,,,,none,,,,,,,,https://www.exascalelabs.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-20,9.92,9.92,9.88,9.92,,,,,,,0,9.8800,1,11641120,,,,
 2025-08-21,9.91,9.91,9.91,9.91,,,,,,,0,9.8800,1,470725,,,,
@@ -339,3 +339,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.51,1.51,1.09,1.12,2.26,2.42,2.62,6.99,7.78,2.9761,0,4.1969,0,1482544,21161365,-0.2563,-0.1010,-0.1553
 2026-11-10,1.17,1.24,1.03,1.04,2.06,2.42,2.56,6.93,7.73,2.7042,0,3.8862,0,1202552,21161431,-0.3211,-0.1450,-0.1761
 2026-11-11,1.04,1.14,1.02,1.04,1.84,2.43,2.50,6.87,7.68,2.5323,0,3.5434,0,870272,21167448,-0.3682,-0.1896,-0.1785
+2026-11-12,1.05,2.50,1.00,2.27,1.76,2.48,2.46,6.82,7.64,2.5323,0,3.1901,0,133272380,23819556,-0.3027,-0.2123,-0.0905

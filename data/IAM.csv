@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IAM,Iambic Therapeutics Inc.,Healthcare,Biotechnology,United States,634222656,13.38,460020,854247,11429824.860000001,2.247,,,0.0,-4.19595,0.0,,,207878000,5226000,3.236,4.593,4.513,-65726000,,47400796,2456877,0.0763,0.20241,0,0.0,,,-4.3773413,34.750023,-1.3580998,27.792,-5.134,24.66667,30.0,22.0,1.33333,strong_buy,3,0,0,0,0,,,https://www.iambic.ai,2026-11-10T10:24:12.391381+00:00
+0.00,IAM,Iambic Therapeutics Inc.,Healthcare,Biotechnology,United States,634222656,13.38,460020,854247,11429824.860000001,2.247,,,0.0,-4.19595,0.0,,,207878000,5226000,3.236,4.593,4.513,-65726000,,47400796,2456877,0.0763,0.20241,0,0.0,,,-4.3773413,34.750023,-1.3580998,27.792,-5.134,24.66667,30.0,22.0,1.33333,strong_buy,3,0,0,0,0,,,https://www.iambic.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-15,16.15,19.70,16.15,18.91,,,,,,,0,16.1500,1,37997754,,,,
 2026-10-16,19.31,25.00,19.31,23.81,,,,,,,0,16.1500,1,70594267,,,,
@@ -49,3 +49,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.06,13.47,9.90,13.38,13.15,,,,,18.1211,0,17.5534,0,12031296,,,,
 2026-11-10,14.47,15.01,12.80,14.78,13.23,,,,,18.1211,0,16.5990,0,12735926,,,,
 2026-11-11,14.87,15.85,13.96,15.39,13.29,14.80,,,,18.1211,0,9.6000,1,5475762,,,,
+2026-11-12,15.39,15.39,14.02,14.84,13.35,14.59,,,,18.1211,0,9.7250,1,7258244,,,,

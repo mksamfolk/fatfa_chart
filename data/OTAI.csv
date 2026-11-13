@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OTAI,Starlink AI Acquisition Corporation,Financial Services,Shell Companies,United States,,10.08,67350,20367,205299.36000000002,,,,0.0,0.0,0.0,,,545960,34877,,0.276,,0,,,7575956,0.18738002,0.35189998,8616,1.19,,,,,-42.711864,,,,,,,none,,,,,,,,https://www.starlinkai.cloud,2026-11-10T11:55:22.879252+00:00
+0.00,OTAI,Starlink AI Acquisition Corporation,Financial Services,Shell Companies,United States,,10.08,67350,20367,205299.36000000002,,,,0.0,0.0,0.0,,,545960,34877,,0.276,,0,,,7575956,0.18738002,0.35189998,8616,1.19,,,,,-42.711864,,,,,,,none,,,,,,,,https://www.starlinkai.cloud,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-29,9.93,10.00,9.93,9.94,,,,,,,0,9.9300,1,4229470,,,,
 2026-06-30,10.05,10.05,9.90,9.90,,,,,,,0,10.0500,0,4386690,,,,
@@ -110,3 +110,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.13,10.13,10.08,10.08,10.09,10.10,10.05,,,9.9586,1,10.6799,0,191520,251310,0.0082,0.0156,-0.0075
 2026-11-10,10.09,10.10,10.08,10.10,10.09,10.10,10.05,,,9.9586,1,10.6551,0,213110,254415,0.0083,0.0142,-0.0059
 2026-11-11,10.10,10.10,10.09,10.10,10.09,10.10,10.06,,,9.9586,1,10.6313,0,24240,216882,0.0083,0.0130,-0.0047
+2026-11-12,10.09,10.10,10.09,10.10,10.09,10.10,10.06,,,9.9586,1,10.6085,0,11110,216445,0.0082,0.0120,-0.0038

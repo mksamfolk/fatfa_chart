@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,QRED,Quasaredge Acquisition Corporation,Financial Services,Shell Companies,United States,162004000,10.1,16340,16053,162135.3,,,,0.0,0.0,0.0,,,242332,5309,1.867,0.532,0.003,-592022,,16040000,5445740,0.25094,0.6444,504,0.16,,,,,561.11115,,,,,,,none,,,,,,,,https://quasaredge.co,2026-11-10T12:20:04.499077+00:00
+0.00,QRED,Quasaredge Acquisition Corporation,Financial Services,Shell Companies,United States,162004000,10.1,16340,16053,162135.3,,,,0.0,0.0,0.0,,,242332,5309,1.867,0.532,0.003,-592022,,16040000,5445740,0.25094,0.6444,504,0.16,,,,,561.11115,,,,,,,none,,,,,,,,https://quasaredge.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-07,9.90,9.91,9.87,9.89,,,,,,,0,9.9100,0,4022263,,,,
 2026-05-08,9.87,9.91,9.87,9.90,,,,,,,0,9.9100,0,7761600,,,,
@@ -145,3 +145,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.10,10.10,10.10,10.10,10.08,10.08,10.05,,,10.0724,1,10.0317,1,,194301,0.0133,0.0121,0.0013
 2026-11-10,10.10,10.11,10.10,10.11,10.09,10.08,10.05,,,10.0771,1,10.0344,1,22242,194606,0.0141,0.0125,0.0016
 2026-11-11,10.11,10.11,10.11,10.11,10.10,10.08,10.06,,,10.0849,1,10.0389,1,,188640,0.0146,0.0129,0.0017
+2026-11-12,10.11,10.12,10.11,10.12,10.10,10.09,10.06,,,10.0894,1,10.0432,1,79948,190239,0.0156,0.0135,0.0021

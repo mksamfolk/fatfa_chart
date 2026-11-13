@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VIDA,VIDA Global Inc.,Technology,Software - Application,United States,10368465,0.711,62060,82189,58436.37899999999,3.44,,,0.42359,-4.5346303,0.0,,,14480176,0,,18.307,17.808,-3014130,,9156530,4507876,0.44884,0.08241,22278,0.36,0.0038,,,9.665674,0.5979815,-3.833,0.868,,,,,none,,,,,,,,https://vida.io,2026-11-10T13:40:18.846633+00:00
+0.00,VIDA,VIDA Global Inc.,Technology,Software - Application,United States,10368465,0.711,62060,82189,58436.37899999999,3.44,,,0.42359,-4.5346303,0.0,,,14480176,0,,18.307,17.808,-3014130,,9156530,4507876,0.44884,0.08241,22278,0.36,0.0038,,,9.665674,0.5979815,-3.833,0.868,,,,,none,,,,,,,,https://vida.io,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-15,4.00,4.00,2.50,2.52,,,,,,,0,4.0000,0,4161024,,,,
 2026-05-18,2.52,2.67,2.04,2.24,,,,,,,0,4.0000,0,369152,,,,
@@ -139,3 +139,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.76,0.84,0.70,0.71,0.91,1.01,1.74,,,1.2273,0,0.9300,0,93720,174600,-0.2686,-0.2801,0.0116
 2026-11-10,0.78,0.83,0.72,0.73,0.88,0.98,1.70,,,1.2226,0,0.8840,0,62999,172130,-0.2639,-0.2769,0.0130
 2026-11-11,0.74,0.79,0.70,0.70,0.84,0.96,1.67,,,1.1748,0,0.8472,0,124250,172010,-0.2597,-0.2735,0.0138
+2026-11-12,0.70,0.76,0.70,0.71,0.81,0.94,1.63,,,1.1349,0,0.8300,0,31666,169946,-0.2526,-0.2693,0.0167

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.67,SION,Sionna Therapeutics Inc.,Healthcare,Biotechnology,United States,161408272,3.57,830010,1717278,6130682.46,,,,0.0,0.0,0.0,-0.32342,-0.21542,211031008,8069000,3.036,20.045,19.573,-75916000,-45443752,45212399,20474887,0.07877,1.02894,3676508,2.66,0.1319,,-1.6001793,,0.606627,,0.382,21.0,63.0,5.0,,none,7,2,2,1,1,2026-11-12,,https://www.sionnatx.com,2026-11-10T12:48:22.060992+00:00
+0.67,SION,Sionna Therapeutics Inc.,Healthcare,Biotechnology,United States,161408272,3.57,830010,1717278,6130682.46,,,,0.0,0.0,0.0,-0.32342,-0.21542,211031008,8069000,3.036,20.045,19.573,-75916000,-45443752,45212399,20474887,0.07877,1.02894,3676508,2.66,0.1319,,-1.6001793,,0.606627,,0.382,21.0,63.0,5.0,,none,7,2,2,1,1,2026-11-12,,https://www.sionnatx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-07,25.00,25.19,21.10,25.00,,,,,,,0,21.1000,1,47257500,,,,
 2025-02-10,23.71,24.90,21.84,22.24,,,,,,,0,21.1000,1,3202560,,,,
@@ -462,3 +462,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.31,3.61,3.22,3.57,3.70,3.83,5.27,28.23,30.71,4.3795,0,8.1099,0,3888801,6999560,-1.0844,-1.3838,0.2994
 2026-11-10,3.49,3.80,3.38,3.70,3.68,3.80,5.23,28.02,30.53,4.3795,0,7.3227,0,3532390,6717322,-1.0057,-1.3082,0.3025
 2026-11-11,3.74,3.86,3.68,3.70,3.65,3.78,5.18,27.80,30.37,4.3795,0,6.6615,0,2394270,6520764,-0.9326,-1.2331,0.3005
+2026-11-12,3.66,3.66,3.39,3.43,3.59,3.74,5.13,27.57,30.20,4.3795,0,6.1061,0,1412474,6314801,-0.8862,-1.1637,0.2775

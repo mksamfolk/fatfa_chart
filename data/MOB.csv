@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.02,MOB,Mobilicom Limited,Industrials,Aerospace & Defense,Israel,28952220,2.25,95390,126854,285421.5,0.19,,,0.517,-3.2514002,0.0,-3.74878,-0.70646006,15080471,427044,3.739,10.765,10.078,-5484180,283939,12867653,11821899,0.13975,0.23427999,321964,2.5,0.026400002,,-12.17203,7.956965,2.5337837,3.93,-0.914,11.0,12.0,10.0,,none,2,,,,,,,https://mobilicom.com,2026-11-10T11:19:24.196321+00:00
+8.33,MOB,Mobilicom Limited,Industrials,Aerospace & Defense,Israel,28952220,2.25,95390,126854,285421.5,0.19,,,0.517,-3.2514002,0.0,-3.74878,-0.70646006,15080471,427044,3.739,10.765,10.078,-5484180,283939,12867653,11821899,0.13975,0.23427999,321964,2.5,0.026400002,,-12.17203,7.956965,2.5337837,3.93,-0.914,11.0,12.0,10.0,,none,2,,,,,,,https://mobilicom.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-25,4.00,6.66,3.70,5.47,,,,,,,0,6.6600,0,193510542,,,,
 2022-08-26,4.38,4.75,3.11,3.30,,,,,,,0,6.6600,0,21139470,,,,
@@ -1072,3 +1072,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.24,2.36,2.15,2.25,2.91,3.05,4.38,5.21,5.55,3.1131,0,3.2506,0,284625,568277,-0.5043,-0.4696,-0.0346
 2026-11-10,2.22,2.59,2.22,2.40,2.82,2.98,4.31,5.18,5.53,3.1131,0,3.1602,0,294960,562308,-0.5020,-0.4761,-0.0259
 2026-11-11,2.45,2.57,2.30,2.32,2.71,2.93,4.24,5.16,5.51,3.1131,0,3.0770,0,112984,558494,-0.5009,-0.4811,-0.0198
+2026-11-12,2.33,2.64,2.28,2.32,2.62,2.88,4.17,5.13,5.48,3.1131,0,3.0004,0,345912,559700,-0.4943,-0.4837,-0.0106

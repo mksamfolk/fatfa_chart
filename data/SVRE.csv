@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-28 09:30:00-04:00,0.05555555555555555\n2025-06-11 09:30:00-04:00,0.3333333333333333\n2025-12-10 09:30:00-05:00,0.3333333333333333\n2026-02-25 09:30:00-05:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.14,SVRE,SaverOne 2014 Ltd.,Technology,Scientific & Technical Instruments,Israel,1925122,0.7701,144720,71270,54885.027,-0.63,,,-2.96852,0.0,0.0,-1.51127,-0.67964,,,1.395,8.389,2.178,,-38284752,2499835,1823608,0.0,0.21942,14489,0.23,0.0058,,,,192.525,,,,,,,none,,,,,,,0.751,https://saver.one,2026-11-10T13:07:21.854333+00:00
+1.30,SVRE,SaverOne 2014 Ltd.,Technology,Scientific & Technical Instruments,Israel,1925122,0.7701,144720,71270,54885.027,-0.63,,,-2.96852,0.0,0.0,-1.51127,-0.67964,,,1.395,8.389,2.178,,-38284752,2499835,1823608,0.0,0.21942,14489,0.23,0.0058,,,,192.525,,,,,,,none,,,,,,,0.751,https://saver.one,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-03,30240.00,30240.00,19180.80,22118.40,,,,,,,0,19180.8008,1,4246733,,,,
 2022-06-06,24192.00,24192.00,20822.40,23760.00,,,,,,,0,19180.8008,1,1758240,,,,
@@ -1129,3 +1129,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.80,0.80,0.68,0.77,0.74,1.11,1.98,3.18,3.36,1.2025,0,0.5739,1,9471,128362,-0.3643,-0.3876,0.0233
 2026-11-10,0.74,0.84,0.73,0.77,0.71,1.09,1.92,3.16,3.33,1.2025,0,0.5807,1,29062,123823,-0.3452,-0.3791,0.0340
 2026-11-11,0.75,0.78,0.68,0.75,0.70,1.07,1.86,3.14,3.31,1.2025,0,0.5873,1,24684,119481,-0.3284,-0.3690,0.0406
+2026-11-12,0.72,0.74,0.54,0.56,0.69,1.02,1.79,3.13,3.28,1.1790,0,0.9130,0,37654,119500,-0.3264,-0.3605,0.0341

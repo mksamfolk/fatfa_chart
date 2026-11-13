@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-24 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.06,APUS,Apimeds Pharmaceuticals US Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4074618,2.7,46540,3757357,10144863.9,,,,0.0,0.0,0.0,,,,,,,,,,1509118,,0.58705,0.02592,73009,0.01,0.09060001,,,,4.160247,,,,,,,none,,,,,,,,https://www.mindwavedao.com,2026-11-10T07:58:02.617839+00:00
+2.36,APUS,Apimeds Pharmaceuticals US Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,United States,4074618,2.7,46540,3757357,10144863.9,,,,0.0,0.0,0.0,,,,,,,,,,1509118,,0.58705,0.02592,73009,0.01,0.09060001,,,,4.160247,,,,,,,none,,,,,,,,https://www.mindwavedao.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-09,40.00,40.00,20.40,22.00,,,,,,,0,40.0000,0,3700620,,,,
 2025-05-12,22.40,22.80,17.20,18.10,,,,,,,0,40.0000,0,705357,,,,
@@ -394,3 +394,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.68,2.73,2.61,2.70,2.93,3.30,3.82,10.13,11.51,4.0718,0,3.0000,0,101520,13528635,-0.4021,-0.3778,-0.0243
 2026-11-10,2.68,2.73,2.60,2.69,2.89,3.20,3.79,10.03,11.44,3.9669,0,2.8780,0,31204,13528606,-0.3972,-0.3817,-0.0156
 2026-11-11,2.62,2.69,2.22,2.36,2.82,3.09,3.75,9.93,11.36,3.7654,0,2.7804,0,150568,13531052,-0.4152,-0.3884,-0.0268
+2026-11-12,2.29,2.37,2.20,2.27,2.72,2.99,3.70,9.82,11.28,3.5154,0,2.7350,0,65149,13503342,-0.4317,-0.3971,-0.0347

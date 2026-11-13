@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RNA,Atrium Therapeutics Inc.,Healthcare,Biotechnology,United States,143345296,8.38,248260,287295,2407532.1,-0.219,,,-0.56366,-7.52929,-1.8414501,,,263900000,1683000,0.784,8.73,8.376,-53188000,,17105643,15043558,0.03299,0.67199,3726302,10.56,,,-1.4060403,3.9999247,0.6680485,-3.317,1.735,22.0,25.0,15.0,1.0,strong_buy,5,1,1,0,0,2026-11-10,,https://atriumtherapeutics.com,2026-11-10T12:31:05.920267+00:00
+0.00,RNA,Atrium Therapeutics Inc.,Healthcare,Biotechnology,United States,143345296,8.38,248260,287295,2407532.1,-0.219,,,-0.56366,-7.52929,-1.8414501,,,263900000,1683000,0.784,8.73,8.376,-53188000,,17105643,15043558,0.03299,0.67199,3726302,10.56,,,-1.4060403,3.9999247,0.6680485,-3.317,1.735,22.0,25.0,15.0,1.0,strong_buy,5,1,1,0,0,2026-11-10,,https://atriumtherapeutics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-27,14.58,15.93,13.06,14.75,,,,,,,0,13.0600,1,117463100,,,,
 2026-03-02,13.81,15.51,13.81,14.91,,,,,,,0,13.0600,1,47841717,,,,
@@ -193,3 +193,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,8.42,8.46,8.20,8.38,8.42,8.16,10.43,12.03,,9.3706,0,8.1340,1,1157278,2536389,-0.4384,-0.6280,0.1896
 2026-11-10,8.30,8.40,8.11,8.23,8.42,8.18,10.35,11.99,,9.3706,0,8.9900,0,895424,2527614,-0.4198,-0.5864,0.1666
 2026-11-11,8.23,8.26,7.93,7.96,8.37,8.20,10.26,11.97,,9.2780,0,8.9724,0,1041964,2527791,-0.4219,-0.5535,0.1316
+2026-11-12,7.89,7.89,7.49,7.50,8.30,8.18,10.17,11.93,,8.8957,0,8.9307,0,2210250,2551501,-0.4555,-0.5339,0.0784

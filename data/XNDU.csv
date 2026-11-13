@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XNDU,Xanadu Quantum Technologies Limited,Technology,Software - Infrastructure,Canada,876652800,2.88,4317870,4920015,14169643.2,0.43,,,0.93184996,-19.84844,0.0,-0.56366,-0.24367,312780000,59146000,18.892,25.535,24.378,-71301000,-47407752,55655379,24141433,0.24084999,0.66095,7989158,0.93,0.24450001,,-5.877551,121.67284,2.7988338,86.47,-7.102,28.75,43.0,16.0,,none,4,1,1,0,0,2026-11-11,,https://www.xanadu.ai,2026-11-10T13:59:22.477256+00:00
+0.00,XNDU,Xanadu Quantum Technologies Limited,Technology,Software - Infrastructure,Canada,876652800,2.88,4317870,4920015,14169643.2,0.43,,,0.93184996,-19.84844,0.0,-0.56366,-0.24367,312780000,59146000,18.892,25.535,24.378,-71301000,-47407752,55655379,24141433,0.24084999,0.66095,7989158,0.93,0.24450001,,-5.877551,121.67284,2.7988338,86.47,-7.102,28.75,43.0,16.0,,none,4,1,1,0,0,2026-11-11,,https://www.xanadu.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-23,8.55,8.90,7.96,8.01,,,,,,,0,7.9600,1,1597194,,,,
 2026-03-24,8.10,8.90,8.10,8.89,,,,,,,0,7.9600,1,1931797,,,,
@@ -191,4 +191,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.48,2.72,2.44,2.67,2.77,2.90,5.34,11.39,,3.3211,0,3.2318,0,10591890,27756210,-0.7222,-0.8690,0.1469
 2026-11-09,2.70,2.92,2.64,2.88,2.80,2.87,5.19,11.36,,3.3211,0,3.2140,0,11103264,27628250,-0.6630,-0.8278,0.1648
 2026-11-10,2.80,2.96,2.63,2.78,2.78,2.84,5.03,11.33,,3.3211,0,3.1965,0,13095468,27082708,-0.6171,-0.7857,0.1686
-2026-11-11,2.86,2.92,2.75,2.80,2.74,2.82,4.89,11.29,,3.3211,0,3.1794,0,15971760,27014535,-0.5724,-0.7430,0.1706
+2026-11-11,2.86,2.92,2.75,2.80,2.74,2.82,4.89,11.29,,3.3211,0,3.1794,0,16247840,27020057,-0.5724,-0.7430,0.1706
+2026-11-12,2.57,2.68,2.47,2.52,2.68,2.78,4.74,11.25,,3.3211,0,3.1626,0,15690024,26852543,-0.5533,-0.7051,0.1518

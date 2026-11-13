@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-10 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.44,THH,TryHard Holdings Limited,Industrials,Specialty Business Services,Japan,6906382,1.38,13710,43079,59449.02,0.005,,,0.116239995,-0.25898,-0.01086,-0.05,-0.11387999,121343000,1804830976,155.923,1.57,1.513,,,5004625,2265469,0.42306,0.0069199996,1004,0.01,0.00029999999,6.2727275,,0.0019468773,0.9813436,0.477,-3.416,,,,,none,,,,,,,,https://tryhard.me,2026-11-10T13:16:02.434067+00:00
+98.46,THH,TryHard Holdings Limited,Industrials,Specialty Business Services,Japan,6906382,1.38,13710,43079,59449.02,0.005,,,0.116239995,-0.25898,-0.01086,-0.05,-0.11387999,121343000,1804830976,155.923,1.57,1.513,,,5004625,2265469,0.42306,0.0069199996,1004,0.01,0.00029999999,6.2727275,,0.0019468773,0.9813436,0.477,-3.416,,,,,none,,,,,,,,https://tryhard.me,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-27,24.45,24.45,24.15,24.19,,,,,,,0,24.4500,0,2128720,,,,
 2025-08-28,7.25,12.00,5.25,6.02,,,,,,,0,24.4500,0,15721230,,,,
@@ -319,3 +319,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.48,1.48,1.29,1.38,1.40,1.37,1.78,0.88,2.04,1.0110,1,1.7523,0,7866,299287,-0.0509,-0.0621,0.0111
 2026-11-10,1.29,1.33,1.26,1.32,1.39,1.36,1.74,0.88,1.94,1.0110,1,1.7129,0,13413,53200,-0.0527,-0.0602,0.0075
 2026-11-11,1.28,1.28,1.20,1.25,1.37,1.36,1.71,0.89,1.84,1.0110,1,1.6767,0,16000,42923,-0.0587,-0.0599,0.0012
+2026-11-12,1.18,1.24,1.17,1.23,1.35,1.35,1.69,0.90,1.75,1.0110,1,1.6290,0,9717,39809,-0.0643,-0.0608,-0.0035

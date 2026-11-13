@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-06 09:30:00-05:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.81,TVGN,Tevogen Inc.,Healthcare,Biotechnology,United States,97880000,5.84,10710,8218,47993.119999999995,,,,0.0,0.0,0.0,,-2.97366,1082155,9442832,,0.327,0.202,-11569983,-3051937,16760273,841617,8.39942,0.01775,55420,10.52,0.0046,,,,-1.4048593,,-2.593,,,,,none,,,,,,2026-11-13,0.228,https://tevogen.com,2026-11-10T13:27:44.539432+00:00
+24.42,TVGN,Tevogen Inc.,Healthcare,Biotechnology,United States,97880000,5.84,10710,8218,47993.119999999995,,,,0.0,0.0,0.0,,-2.97366,1082155,9442832,,0.327,0.202,-11569983,-3051937,16760273,841617,8.39942,0.01775,55420,10.52,0.0046,,,,-1.4048593,,-2.593,,,,,none,,,,,,2026-11-13,0.228,https://tevogen.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-05,487.50,497.50,487.50,496.85,,,,,,,0,487.5000,1,71546,,,,
 2022-01-06,496.50,496.50,496.50,496.50,,,,,,,0,487.5000,1,3972,,,,
@@ -1232,3 +1232,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.75,5.92,5.74,5.84,5.87,6.30,6.62,6.86,8.61,6.8339,0,6.5480,0,15184,59553,-0.2974,-0.2310,-0.0665
 2026-11-10,5.97,5.97,5.72,5.72,5.81,6.23,6.60,6.86,8.54,6.8339,0,6.3635,0,9724,58891,-0.2945,-0.2437,-0.0508
 2026-11-11,5.98,6.00,5.91,6.00,5.79,6.21,6.59,6.87,8.49,6.8339,0,6.2010,0,18600,58345,-0.2665,-0.2482,-0.0182
+2026-11-12,5.99,6.87,5.06,5.72,5.76,6.14,6.58,6.87,8.43,6.8339,0,5.0100,1,113256,59019,-0.2638,-0.2513,-0.0125

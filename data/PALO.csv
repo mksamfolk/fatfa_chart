@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PALO,Paloma Acquisition Corp I,Financial Services,Shell Companies,United States,210704080,9.99,60,2129,21268.71,,,,0.0,0.0,0.0,,,1126887,0,,0.091,,0,,16979000,15121129,0.0029199999,0.63416,1345,0.43,,,,,-38.129772,,,,,,,none,,,,,,,,https://palomaacquisitioncorp.com,2026-11-10T11:58:01.115805+00:00
+0.00,PALO,Paloma Acquisition Corp I,Financial Services,Shell Companies,United States,210704080,9.99,60,2129,21268.71,,,,0.0,0.0,0.0,,,1126887,0,,0.091,,0,,16979000,15121129,0.0029199999,0.63416,1345,0.43,,,,,-38.129772,,,,,,,none,,,,,,,,https://palomaacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,9.87,9.88,9.85,9.87,,,,,,,0,9.8800,0,88830,,,,
 2026-04-15,9.85,9.85,9.85,9.85,,,,,,,0,9.8800,0,50235,,,,
@@ -162,3 +162,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.00,10.00,10.00,10.00,10.00,10.00,9.98,,,10.0157,0,9.9972,1,,19912,0.0059,0.0067,-0.0008
 2026-11-10,10.00,10.00,10.00,10.00,10.00,10.00,9.98,,,10.0142,0,9.9992,1,,19494,0.0056,0.0065,-0.0009
 2026-11-11,10.02,10.02,10.02,10.02,10.00,10.00,9.98,,,10.0013,1,10.0000,1,1402800,47451,0.0069,0.0066,0.0003
+2026-11-12,10.02,10.02,10.02,10.02,10.00,10.00,9.99,,,10.0031,1,10.0000,1,,47451,0.0079,0.0068,0.0010

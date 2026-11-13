@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CAII,Collective Acquisition Corp. II,Financial Services,Shell Companies,United States,339909312,10.02,16610,27712,277674.24,,,,0.0,0.0,0.0,,,806870,0,,,,,,25489750,,0.00863,0.55459,11172,0.33,0.0004,,,,-50.100002,,,,,,,none,,,,,,,,https://ccmacq.com/caii,2026-11-10T08:35:24.064625+00:00
+0.00,CAII,Collective Acquisition Corp. II,Financial Services,Shell Companies,United States,339909312,10.02,16610,27712,277674.24,,,,0.0,0.0,0.0,,,806870,0,,,,,,25489750,,0.00863,0.55459,11172,0.33,0.0004,,,,-50.100002,,,,,,,none,,,,,,,,https://ccmacq.com/caii,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.92,9.95,9.90,9.93,,,,,,,0,9.9500,0,510402,,,,
 2026-06-23,9.90,9.93,9.90,9.91,,,,,,,0,9.9500,0,1083163,,,,
@@ -115,3 +115,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.01,10.02,10.01,10.02,10.02,10.02,10.00,,,10.0111,1,10.0072,1,11022,200896,0.0068,0.0076,-0.0008
 2026-11-10,10.02,10.02,10.02,10.02,10.02,10.02,10.00,,,10.0111,1,10.0077,1,,200896,0.0065,0.0073,-0.0009
 2026-11-11,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,10.0161,1,10.0082,1,25075,201398,0.0069,0.0073,-0.0003
+2026-11-12,10.03,10.03,10.03,10.03,10.02,10.02,10.00,,,10.0175,1,10.0095,1,,201398,0.0072,0.0073,-0.0000

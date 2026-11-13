@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.44,KAZR,Skyline Builders Group Holding Limited,Industrials,Engineering & Construction,Hong Kong,23504142,1.31,252380,222418,291367.58,0.121,,42.669,0.06573,-0.5407,0.18087,0.20549999,-0.10025,4627050,31880130,40.041,2.992,0.556,-2845066,-44026192,15947094,328340,0.91436,0.13187,240418,0.92,0.060700003,65.5,,0.4690338,0.2876592,1.013,-4.346,,,,,none,,,,,,,,https://www.skylinebuildersgroupholding.com,2026-11-10T10:44:05.535429+00:00
+10.30,KAZR,Skyline Builders Group Holding Limited,Industrials,Engineering & Construction,Hong Kong,23504142,1.31,252380,222418,291367.58,0.121,,42.669,0.06573,-0.5407,0.18087,0.20549999,-0.10025,4627050,31880130,40.041,2.992,0.556,-2845066,-44026192,15947094,328340,0.91436,0.13187,240418,0.92,0.060700003,65.5,,0.4690338,0.2876592,1.013,-4.346,,,,,none,,,,,,,,https://www.skylinebuildersgroupholding.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-20,8.30,8.74,7.85,8.59,,,,,,,0,7.8500,1,2497972,,,,
 2025-02-21,8.72,8.87,8.20,8.78,,,,,,,0,7.8500,1,1658542,,,,
@@ -448,4 +448,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.26,1.33,1.20,1.29,1.39,1.64,1.95,2.68,2.80,1.8877,0,1.5333,0,175311,350968,-0.2289,-0.1913,-0.0377
 2026-11-09,1.30,1.44,1.29,1.31,1.38,1.60,1.93,2.67,2.79,1.8877,0,1.4597,0,95237,345255,-0.2219,-0.1974,-0.0245
 2026-11-10,1.35,1.53,1.10,1.25,1.34,1.56,1.91,2.65,2.78,1.8877,0,0.9200,1,295625,328217,-0.2187,-0.2016,-0.0170
-2026-11-11,1.29,1.39,1.11,1.16,1.30,1.52,1.89,2.64,2.78,1.8877,0,0.9322,1,191284,326224,-0.2208,-0.2055,-0.0153
+2026-11-11,1.29,1.39,1.11,1.16,1.30,1.52,1.89,2.64,2.78,1.8877,0,0.9322,1,191321,326225,-0.2208,-0.2055,-0.0153
+2026-11-12,1.16,1.16,1.16,1.16,1.25,1.48,1.87,2.63,2.77,1.8085,0,0.9442,1,,322730,-0.2200,-0.2084,-0.0116

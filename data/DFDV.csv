@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-12-30 09:30:00-05:00,0.125\n2025-05-21 09:30:00-04:00,7.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.56,DFDV,DeFi Development Corp.,Financial Services,Asset Management,United States,111889312,3.43,1385540,1923806,6598654.58,0.669,,,0.97753996,-6.89197,0.0,-5.8929305,-0.51837003,6285000,120564000,,1.209,0.066,-30018000,-98384312,32620790,21307261,0.14715,0.12398,6649141,2.73,0.2743,,-5.8135595,7.414307,-8.705585,14.618,-1.734,8.7,10.4,7.0,,none,2,1,1,0,0,2026-11-11,-3.158,https://defidevcorp.com,2026-11-10T09:13:20.258694+00:00
+28.82,DFDV,DeFi Development Corp.,Financial Services,Asset Management,United States,111889312,3.43,1385540,1923806,6598654.58,0.669,,,0.97753996,-6.89197,0.0,-5.8929305,-0.51837003,6285000,120564000,,1.209,0.066,-30018000,-98384312,32620790,21307261,0.14715,0.12398,6649141,2.73,0.2743,,-5.8135595,7.414307,-8.705585,14.618,-1.734,8.7,10.4,7.0,,none,2,1,1,0,0,2026-11-11,-3.158,https://defidevcorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-25,4.57,6.29,4.18,4.37,,,,,,,0,6.2857,0,9630220,,,,
 2023-07-26,3.55,4.16,3.26,3.76,,,,,,,0,6.2857,0,2648781,,,,
@@ -844,3 +844,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.15,3.50,3.11,3.43,3.48,3.69,4.15,3.78,4.08,4.3442,0,3.8472,0,3445778,7338488,-0.2672,-0.2357,-0.0315
 2026-11-10,3.17,3.38,3.14,3.23,3.43,3.64,4.15,3.77,4.07,4.3442,0,3.7802,0,3315272,7385323,-0.2719,-0.2429,-0.0290
 2026-11-11,3.34,3.41,3.19,3.24,3.36,3.61,4.16,3.76,4.06,4.3442,0,3.7186,0,4536972,7450634,-0.2716,-0.2486,-0.0230
+2026-11-12,3.10,3.34,2.93,2.95,3.27,3.55,4.16,3.75,4.03,4.3221,0,3.6619,0,4990810,7523846,-0.2915,-0.2572,-0.0343

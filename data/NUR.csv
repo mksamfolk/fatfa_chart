@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NUR,Nuran Wireless Inc.,Technology,Communication Equipment,Canada,5178920,0.3925,3301280,1518825,596138.8125,0.383,,,0.08434,-2.1334,0.0,,-0.20953,388724,14708732,6694.003,0.586,0.283,-3797947,-13804715,13194700,8772232,0.5003,0.0,220808,0.53,,,,1.7248291,32.423656,6.494,-2.294,,,,,none,,,,,,,0.98,https://nuranwireless.com,2026-11-10T11:41:42.799159+00:00
+0.00,NUR,Nuran Wireless Inc.,Technology,Communication Equipment,Canada,5178920,0.3925,3301280,1518825,596138.8125,0.383,,,0.08434,-2.1334,0.0,,-0.20953,388724,14708732,6694.003,0.586,0.283,-3797947,-13804715,13194700,8772232,0.5003,0.0,220808,0.53,,,,1.7248291,32.423656,6.494,-2.294,,,,,none,,,,,,,0.98,https://nuranwireless.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-10,4.16,4.16,4.16,4.16,,,,,,,0,4.1600,1,1248,,,,
 2026-08-11,4.20,4.20,4.18,4.19,,,,,,,0,4.1600,1,6704,,,,
@@ -96,3 +96,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.40,0.44,0.39,0.39,0.56,0.65,1.01,,,0.7305,0,0.7524,0,95316,3200886,-0.1933,-0.2003,0.0070
 2026-11-10,0.39,0.42,0.37,0.40,0.53,0.64,0.98,,,0.6952,0,0.7288,0,28720,3200388,-0.1912,-0.1985,0.0072
 2026-11-11,0.39,0.44,0.37,0.39,0.50,0.62,0.95,,,0.6952,0,0.7067,0,51558,3199515,-0.1882,-0.1964,0.0082
+2026-11-12,0.42,0.43,0.39,0.39,0.47,0.60,0.91,,,0.6841,0,0.6859,0,25740,3197529,-0.1837,-0.1939,0.0102

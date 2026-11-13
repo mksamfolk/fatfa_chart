@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,APUR,Aperture AC,Financial Services,Shell Companies,United States,148367376,10.07,18520,79056,796093.92,,,,0.0,0.0,0.0,,,450949,0,,0.202,0.172,-87633,,10961000,8127055,0.05562,0.87005997,1293,0.03,0.0001,,,,314.68747,,,,,,,none,,,,,,,,,2026-11-10T07:57:58.809053+00:00
+0.00,APUR,Aperture AC,Financial Services,Shell Companies,United States,148367376,10.07,18520,79056,796093.92,,,,0.0,0.0,0.0,,,450949,0,,0.202,0.172,-87633,,10961000,8127055,0.05562,0.87005997,1293,0.03,0.0001,,,,314.68747,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-21,10.01,10.02,9.99,10.00,,,,,,,0,10.0200,0,32378000,,,,
 2026-05-22,9.99,10.00,9.99,10.00,,,,,,,0,10.0200,0,6252000,,,,
@@ -135,3 +135,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.06,10.07,10.06,10.07,10.05,10.05,10.02,,,10.0485,1,10.1092,0,516591,864867,0.0099,0.0105,-0.0006
 2026-11-10,10.07,10.07,10.07,10.07,10.06,10.05,10.02,,,10.0551,1,10.1078,0,,864867,0.0105,0.0105,-0.0000
 2026-11-11,10.07,10.07,10.07,10.07,10.06,10.05,10.03,,,10.0566,1,10.1065,0,,857888,0.0108,0.0106,0.0003
+2026-11-12,10.07,10.07,10.07,10.07,10.06,10.05,10.03,,,10.0579,1,10.1051,0,,857888,0.0110,0.0106,0.0003

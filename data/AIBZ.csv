@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AIBZ,Bitzero Holdings Inc.,Technology,Software - Infrastructure,Canada,158707504,2.49,810510,592015,1474117.35,0.655,,,0.023359999,-0.79082,-1.33564,-3.47419,-0.43268,2453673,18181752,274.835,0.352,0.094,-29261940,2423605,61425708,42944431,0.27763999,0.01023,1585960,3.9,,,,5.132864,21.282051,5.134,-8.807,,,,,none,,,,,,,,https://www.bitzero.com,2026-11-10T07:44:27.132356+00:00
+0.00,AIBZ,Bitzero Holdings Inc.,Technology,Software - Infrastructure,Canada,158707504,2.49,810510,592015,1474117.35,0.655,,,0.023359999,-0.79082,-1.33564,-3.47419,-0.43268,2453673,18181752,274.835,0.352,0.094,-29261940,2423605,61425708,42944431,0.27763999,0.01023,1585960,3.9,,,,5.132864,21.282051,5.134,-8.807,,,,,none,,,,,,,,https://www.bitzero.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-09,9.00,10.25,8.60,9.45,,,,,,,0,10.2500,0,5396895,,,,
 2026-06-10,9.50,9.50,7.25,7.60,,,,,,,0,10.2500,0,2162200,,,,
@@ -123,3 +123,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.65,2.73,2.47,2.49,2.89,2.88,4.27,,,3.8256,0,3.5547,0,1068957,2485009,-0.4319,-0.4764,0.0446
 2026-11-10,2.69,3.01,2.64,2.92,2.87,2.87,4.20,,,3.8256,0,3.4512,0,2499520,2487537,-0.3919,-0.4595,0.0677
 2026-11-11,3.02,3.30,2.87,3.03,2.80,2.89,4.14,,,3.8256,0,3.3559,0,2422485,2485828,-0.3473,-0.4371,0.0898
+2026-11-12,2.79,2.95,2.64,2.82,2.75,2.89,4.07,,,3.8256,0,3.3000,0,1665492,2475820,-0.3252,-0.4147,0.0895

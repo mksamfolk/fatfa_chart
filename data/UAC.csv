@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,UAC,United Acquisition Corp. I,Financial Services,Shell Companies,United States,138121200,9.97,7000,27896,278123.12,,,,0.0,0.0,0.0,,,1963796,0,,0.079,0.005,-156240,,10459580,1650943,0.00382,0.75443,10212,0.85,0.0011,,,,-88.230095,,,,,,,none,,,,,,,,https://www.unitedacqcorp1.com,2026-11-10T13:29:41.940687+00:00
+0.00,UAC,United Acquisition Corp. I,Financial Services,Shell Companies,United States,138121200,9.97,7000,27896,278123.12,,,,0.0,0.0,0.0,,,1963796,0,,0.079,0.005,-156240,,10459580,1650943,0.00382,0.75443,10212,0.85,0.0011,,,,-88.230095,,,,,,,none,,,,,,,,https://www.unitedacqcorp1.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-18,9.91,9.91,9.85,9.90,,,,,,,0,9.9100,0,75240,,,,
 2026-02-19,9.89,9.89,9.83,9.85,,,,,,,0,9.9100,0,74860,,,,
@@ -200,3 +200,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.97,9.97,9.97,9.97,9.99,10.00,9.98,9.92,,9.9818,0,10.0020,0,,300620,-0.0027,0.0030,-0.0057
 2026-11-10,9.97,9.97,9.97,9.97,9.98,10.00,9.98,9.92,,9.9807,0,10.0014,0,,300541,-0.0037,0.0017,-0.0054
 2026-11-11,9.97,9.97,9.97,9.97,9.98,9.99,9.98,9.92,,9.9796,0,10.0008,0,,300541,-0.0044,0.0005,-0.0049
+2026-11-12,9.97,9.97,9.97,9.97,9.98,9.99,9.98,9.92,,9.9786,0,10.0001,0,,300401,-0.0050,-0.0006,-0.0043

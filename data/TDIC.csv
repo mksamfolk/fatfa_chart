@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-20 09:30:00-04:00,0.2\n2026-06-15 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.39,TDIC,Dreamland Limited,Communication Services,Advertising Agencies,Hong Kong,5607510,1.51,1969170,1516917,2290544.67,-0.275,,,0.0086900005,-2.4540899,-1.46112,-10.120851,-0.54613,51349664,22526768,394.712,1.228,0.92,-19978088,19830316,3705583,710466,0.79607004,0.0005,367372,0.12,0.1039,,,0.11064058,0.61452305,-0.465,0.375,,,,,none,,,,,,,,https://www.trendicint.com,2026-11-10T13:12:37.392902+00:00
+4.23,TDIC,Dreamland Limited,Communication Services,Advertising Agencies,Hong Kong,5607510,1.51,1969170,1516917,2290544.67,-0.275,,,0.0086900005,-2.4540899,-1.46112,-10.120851,-0.54613,51349664,22526768,394.712,1.228,0.92,-19978088,19830316,3705583,710466,0.79607004,0.0005,367372,0.12,0.1039,,,0.11064058,0.61452305,-0.465,0.375,,,,,none,,,,,,,,https://www.trendicint.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-23,437.50,762.50,418.75,547.50,,,,,,,0,418.7500,1,8694300,,,,
 2025-07-24,475.00,611.25,435.00,527.50,,,,,,,0,418.7500,1,2980375,,,,
@@ -344,3 +344,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.52,1.55,1.50,1.51,1.66,1.72,2.13,13.29,15.59,2.0814,0,2.3742,0,91053,2199849,-0.1824,-0.2009,0.0185
 2026-11-10,1.52,1.66,1.51,1.54,1.65,1.72,2.10,13.17,15.47,2.0814,0,2.2828,0,58520,2199728,-0.1773,-0.1962,0.0189
 2026-11-11,1.61,1.65,1.55,1.55,1.62,1.68,2.08,13.04,15.36,2.0814,0,2.2005,0,59365,2051757,-0.1704,-0.1910,0.0206
+2026-11-12,1.51,1.55,1.47,1.47,1.59,1.65,2.05,12.92,15.24,2.0047,0,2.1264,0,69090,2047603,-0.1695,-0.1867,0.0172

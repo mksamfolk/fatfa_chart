@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.57,FACT,FACT II Acquisition Corp,,,,262914976,10.81,149770,58414,631455.3400000001,,,,,,,,,,,,,,,,18488125,,,,,,,67.56251,,,-27.025002,,,,,,,none,,,,,,,,,2026-11-10T09:38:26.836414+00:00
+59.09,FACT,FACT II Acquisition Corp,,,,262914976,10.81,149770,58414,631455.3400000001,,,,,,,,,,,,,,,,18488125,,,,,,,67.56251,,,-27.025002,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-20,9.88,9.90,9.86,9.88,,,,,,,0,9.9000,0,,,,,
 2024-12-23,9.85,9.85,9.85,9.85,,,,,,,0,9.9000,0,12805,,,,
@@ -488,3 +488,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.81,10.81,10.81,10.81,10.78,10.77,10.72,10.64,10.60,10.7726,1,10.7445,1,2162,737083,0.0209,0.0179,0.0030
 2026-11-10,10.79,10.81,10.79,10.80,10.78,10.77,10.73,10.65,10.61,10.7726,1,10.7472,1,18581400,1108690,0.0210,0.0185,0.0025
 2026-11-11,10.80,10.80,10.80,10.80,10.79,10.77,10.73,10.65,10.61,10.7726,1,10.7497,1,,1108690,0.0209,0.0190,0.0019
+2026-11-12,10.80,10.80,10.80,10.80,10.79,10.77,10.73,10.65,10.61,10.7726,1,10.7521,1,,1103440,0.0205,0.0193,0.0012

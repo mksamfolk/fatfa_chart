@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.88,PDCC,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,United Kingdom,51343316,7.4029,2600,2662,19706.5198,,,,0.0,0.0,0.0,,,,,,,,,,6935568,,0.69205004,0.31725,5286,2.12,0.0044,,5.852095,,,,,10.75,11.0,10.5,,none,2,0,0,0,2,,,,2026-11-10T12:01:45.146707+00:00
+26.81,PDCC,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,United Kingdom,51343316,7.4029,2600,2662,19706.5198,,,,0.0,0.0,0.0,,,,,,,,,,6935568,,0.69205004,0.31725,5286,2.12,0.0044,,5.852095,,,,,10.75,11.0,10.5,,none,2,0,0,0,2,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-18,14.26,14.26,13.77,13.87,,,,,,,0,13.7745,1,1766060,,,,
 2024-07-19,14.26,14.37,14.15,14.26,,,,,,,0,13.7745,1,670000,,,,
@@ -597,3 +597,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.20,7.75,7.20,7.40,7.43,7.47,8.23,9.15,9.76,6.9973,1,7.2000,1,14066,24053,-0.2328,-0.2900,0.0571
 2026-11-10,7.42,7.75,7.42,7.75,7.47,7.45,8.20,9.14,9.74,6.9973,1,7.2000,1,6200,23295,-0.1923,-0.2704,0.0781
 2026-11-11,7.62,7.76,7.52,7.52,7.50,7.43,8.18,9.13,9.72,6.9973,1,7.2000,1,34592,23987,-0.1768,-0.2517,0.0749
+2026-11-12,7.49,7.75,7.49,7.71,7.52,7.42,8.15,9.12,9.69,6.9973,1,7.2564,1,7710,23851,-0.1474,-0.2308,0.0835

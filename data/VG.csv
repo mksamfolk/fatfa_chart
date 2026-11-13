@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-78.59,VG,Venture Global Inc.,Energy,Oil & Gas Midstream,United States,29501097984,11.8,17201060,14893810,175746958.0,0.476,2.643,1.994,0.46923,0.47794,0.22052,0.33641997,0.07379,3151000064,42835001344,354.624,1.185,1.046,6829000192,-8635625472,531488393,521644373,0.02654,0.93338996,45441159,3.4,0.83809996,9.291339,9.528655,1.740375,3.4382286,4.288,9.895,17.22222,22.0,14.0,2.0,buy,18,1,5,0,0,2026-11-10,,https://ventureglobal.com,2026-11-10T13:39:24.165712+00:00
+80.97,VG,Venture Global Inc.,Energy,Oil & Gas Midstream,United States,29501097984,11.8,17201060,14893810,175746958.0,0.476,2.643,1.994,0.46923,0.47794,0.22052,0.33641997,0.07379,3151000064,42835001344,354.624,1.185,1.046,6829000192,-8635625472,531488393,521644373,0.02654,0.93338996,45441159,3.4,0.83809996,9.291339,9.528655,1.740375,3.4382286,4.288,9.895,17.22222,22.0,14.0,2.0,buy,18,1,5,0,0,2026-11-10,,https://ventureglobal.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-24,23.77,23.77,23.77,23.77,,,,,,,0,23.7690,0,,,,,
 2025-01-27,19.74,19.74,19.74,19.74,,,,,,,0,23.7690,0,,,,,
@@ -481,4 +481,6 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,11.62,11.69,11.37,11.53,13.24,13.15,13.63,13.11,12.77,13.8993,0,14.7279,0,142865921,203634109,-0.3137,-0.0932,-0.2205
 2026-11-09,11.29,11.99,11.22,11.80,13.04,13.08,13.58,13.08,12.78,13.8993,0,14.4593,0,162831743,205145129,-0.3722,-0.1490,-0.2232
 2026-11-10,12.02,12.32,11.60,12.00,12.86,12.99,13.53,13.07,12.80,13.8993,0,14.1353,0,242781600,206212661,-0.3979,-0.1988,-0.1991
-2026-11-11,12.28,12.87,12.06,12.66,12.69,12.96,13.48,13.06,12.82,13.8993,0,13.8438,0,201918136,205619748,-0.3608,-0.2312,-0.1296
+2026-11-11,12.28,12.87,12.06,12.66,12.69,12.96,13.48,13.06,12.82,13.8993,0,13.8438,0,202465048,205630686,-0.3608,-0.2312,-0.1296
+2026-11-12,12.86,13.47,12.73,13.26,12.54,13.00,13.45,13.06,12.84,13.8993,0,13.5814,0,194676693,205403267,-0.2798,-0.2409,-0.0389
+2026-11-13,13.36,13.44,13.08,13.09,12.37,13.01,13.42,13.07,12.85,13.8993,0,13.4700,0,13457752,203262748,-0.2270,-0.2381,0.0111

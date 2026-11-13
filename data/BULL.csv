@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.31,BULL,Webull Corporation,Technology,Software - Application,United States,2655280640,4.92,10036200,14766331,72650348.52,0.519,,,0.77176005,0.22273001,0.06337,0.04723,0.0125899995,1925690496,78732968,7.544,1.214,1.194,43460184,,455832205,321482235,0.22754999,0.54215,37232430,2.32,0.0829,61.500004,15.870968,3.9496517,2.497462,1.13,,11.25,12.0,9.0,,none,4,2,2,0,0,2026-11-19,0.714,https://www.webullcorp.com,2026-11-10T08:31:33.568716+00:00
+22.19,BULL,Webull Corporation,Technology,Software - Application,United States,2655280640,4.92,10036200,14766331,72650348.52,0.519,,,0.77176005,0.22273001,0.06337,0.04723,0.0125899995,1925690496,78732968,7.544,1.214,1.194,43460184,,455832205,321482235,0.22754999,0.54215,37232430,2.32,0.0829,61.500004,15.870968,3.9496517,2.497462,1.13,,11.25,12.0,9.0,,none,4,2,2,0,0,2026-11-19,0.714,https://www.webullcorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-08-22,9.92,9.94,9.90,9.94,,,,,,,0,9.9000,1,474893,,,,
 2022-08-23,9.91,9.96,9.88,9.96,,,,,,,0,9.9600,0,1259940,,,,
@@ -1089,4 +1089,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,4.89,4.99,4.77,4.92,5.26,5.66,7.11,7.06,6.77,5.8363,0,5.9287,0,43670905,96314889,-0.5488,-0.5475,-0.0013
 2026-11-09,4.91,5.13,4.82,4.92,5.20,5.59,7.02,7.06,6.75,5.8363,0,5.8360,0,48497917,94011925,-0.5427,-0.5466,0.0039
 2026-11-10,4.87,4.97,4.74,4.87,5.13,5.52,6.93,7.06,6.74,5.7783,0,5.7507,0,50005159,91891857,-0.5356,-0.5444,0.0087
-2026-11-11,5.09,5.14,4.99,5.06,5.09,5.47,6.85,7.06,6.73,5.7783,0,5.6496,0,44521421,90861735,-0.5089,-0.5373,0.0284
+2026-11-11,5.09,5.14,4.99,5.06,5.09,5.47,6.85,7.06,6.73,5.7783,0,5.6496,0,45087635,90873059,-0.5089,-0.5373,0.0284
+2026-11-12,4.98,5.19,4.93,4.96,5.05,5.40,6.77,7.06,6.71,5.7783,0,5.5587,0,38020384,89654619,-0.4901,-0.5278,0.0377

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.12,IQMX,IQM Quantum Computers Oyj,Technology,Computer Hardware,Finland,3940701184,8.31,163490,313443,2604711.33,0.507,,,0.48470002,-5.00282,0.0,,,261755008,38701000,11.737,4.849,4.068,-81096000,,263223216,119931377,0.0,0.03023,1028099,2.95,,,-10.438366,106.078255,4.226889,36.147,-12.686,8.8504715,8.8504715,8.8504715,3.0,hold,1,,,,,2026-11-03,,https://iqm.tech,2026-11-10T10:35:38.578333+00:00
+22.99,IQMX,IQM Quantum Computers Oyj,Technology,Computer Hardware,Finland,3940701184,8.31,163490,313443,2604711.33,0.507,,,0.48470002,-5.00282,0.0,,,261755008,38701000,11.737,4.849,4.068,-81096000,,263223216,119931377,0.0,0.03023,1028099,2.95,,,-10.438366,106.078255,4.226889,36.147,-12.686,8.8504715,8.8504715,8.8504715,3.0,hold,1,,,,,2026-11-03,,https://iqm.tech,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-02,10.18,10.18,10.03,10.05,,,,,,,0,10.0300,1,1552725,,,,
 2025-06-03,10.07,10.07,10.05,10.06,,,,,,,0,10.0300,1,2467718,,,,
@@ -394,3 +394,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.87,8.42,7.71,8.31,8.61,8.96,9.74,10.51,10.50,9.3098,0,8.5092,0,1489983,2776626,-0.4944,-0.4027,-0.0917
 2026-11-10,7.90,8.01,7.51,7.64,8.43,8.85,9.69,10.50,10.49,9.3098,0,8.4200,0,1226220,2710076,-0.5325,-0.4286,-0.1038
 2026-11-11,7.58,7.75,7.43,7.49,8.22,8.74,9.63,10.48,10.47,9.2955,0,8.4200,0,1594621,2721994,-0.5683,-0.4566,-0.1117
+2026-11-12,7.23,7.46,7.12,7.12,8.01,8.62,9.55,10.46,10.46,8.9359,0,8.2000,0,1480960,2551389,-0.6193,-0.4891,-0.1302

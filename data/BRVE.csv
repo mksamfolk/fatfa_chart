@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BRVE,Braveheart Bio Inc.,Healthcare,Biotechnology,United States,1752158208,19.46,485460,452921,8813842.66,,,,0.0,0.0,0.0,,,122831000,575000,0.489,13.628,13.56,-24150000,,90038969,12721378,0.58158,0.31121,4905289,8.11,,,-9.778894,,-1.5291529,,,45.25,48.0,40.0,1.0,strong_buy,4,1,0,0,0,2026-11-12,,https://www.braveheart.bio,2026-11-10T08:29:21.960048+00:00
+0.00,BRVE,Braveheart Bio Inc.,Healthcare,Biotechnology,United States,1752158208,19.46,485460,452921,8813842.66,,,,0.0,0.0,0.0,,,122831000,575000,0.489,13.628,13.56,-24150000,,90038969,12721378,0.58158,0.31121,4905289,8.11,,,-9.778894,,-1.5291529,,,45.25,48.0,40.0,1.0,strong_buy,4,1,0,0,0,2026-11-12,,https://www.braveheart.bio,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-06,30.20,31.56,29.42,29.80,,,,,,,0,29.4200,1,98107557,,,,
 2026-08-07,29.70,32.00,28.47,30.00,,,,,,,0,32.0000,0,16998000,,,,
@@ -98,3 +98,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,19.08,19.87,18.61,19.46,20.43,20.33,22.56,,,23.1207,0,21.4376,0,12034063,11329616,-0.7406,-0.6507,-0.0899
 2026-11-10,18.82,19.78,18.82,19.62,20.21,20.34,22.45,,,23.1207,0,21.1533,0,4149630,11001447,-0.7202,-0.6646,-0.0556
 2026-11-11,20.04,21.85,19.41,20.90,20.12,20.42,22.34,,,23.1207,0,16.7000,1,10220100,11025620,-0.5940,-0.6505,0.0565
+2026-11-12,20.97,21.30,20.01,20.50,20.06,20.47,22.21,,,23.1207,0,16.8030,1,5250050,10917986,-0.5202,-0.6244,0.1042

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.77,PEW,GrabAGun Digital Holdings Inc.,Industrials,Aerospace & Defense,United States,55190128,1.87,427320,295104,551844.48,0.094,,,0.12605,-0.110819995,-0.06998,-0.13703,-0.0963,97512000,7862000,7.665,9.425,8.487,-8954000,-17531624,29513438,18967696,0.34715,0.28381002,2071653,8.42,0.0968,,,0.5462476,0.53751075,-0.341,3.322,5.0,5.0,5.0,,none,1,0,0,1,1,2026-11-12,-0.018,https://grabagun.com,2026-11-10T12:03:38.152479+00:00
+17.45,PEW,GrabAGun Digital Holdings Inc.,Industrials,Aerospace & Defense,United States,55190128,1.87,427320,295104,551844.48,0.094,,,0.12605,-0.110819995,-0.06998,-0.13703,-0.0963,97512000,7862000,7.665,9.425,8.487,-8954000,-17531624,29513438,18967696,0.34715,0.28381002,2071653,8.42,0.0968,,,0.5462476,0.53751075,-0.341,3.322,5.0,5.0,5.0,,none,1,0,0,1,1,2026-11-12,-0.018,https://grabagun.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-11,10.20,10.20,10.07,10.08,,,,,,,0,10.0700,1,458640,,,,
 2024-01-12,10.10,10.10,10.08,10.08,,,,,,,0,10.0700,1,4032,,,,
@@ -726,3 +726,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.93,1.95,1.85,1.87,1.96,1.94,2.17,2.56,2.68,1.7585,1,2.1860,0,447678,693639,-0.0563,-0.0647,0.0083
 2026-11-10,1.88,1.90,1.80,1.81,1.94,1.93,2.15,2.55,2.67,1.7585,1,2.1659,0,489424,684134,-0.0630,-0.0643,0.0013
 2026-11-11,1.82,1.89,1.81,1.81,1.93,1.93,2.14,2.54,2.66,1.7585,1,2.1370,0,659564,690398,-0.0676,-0.0650,-0.0026
+2026-11-12,1.80,1.83,1.76,1.77,1.90,1.93,2.12,2.53,2.66,1.7585,1,2.1104,0,1110321,699391,-0.0736,-0.0667,-0.0069

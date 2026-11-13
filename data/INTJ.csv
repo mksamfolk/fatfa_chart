@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-17 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.60,INTJ,Intelligent Group Limited,Industrials,Consulting Services,Hong Kong,4916245,2.3,27370,13626,31339.8,0.89,28.508,76.324,0.5266,0.09803,-0.5966,-0.19498,-0.12753999,76113992,2176541,2.337,23.597,20.218,1659762,-9762354,1462498,1087281,0.24405001,0.00881,17174,0.94,0.0121,,,0.1906851,0.4141915,-2.677,3.946,,,,,none,,,,,,,1.461,https://www.intelligentjoy.com,2026-11-10T10:32:55.267912+00:00
+8.65,INTJ,Intelligent Group Limited,Industrials,Consulting Services,Hong Kong,4916245,2.3,27370,13626,31339.8,0.89,28.508,76.324,0.5266,0.09803,-0.5966,-0.19498,-0.12753999,76113992,2176541,2.337,23.597,20.218,1659762,-9762354,1462498,1087281,0.24405001,0.00881,17174,0.94,0.0121,,,0.1906851,0.4141915,-2.677,3.946,,,,,none,,,,,,,1.461,https://www.intelligentjoy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-20,100.00,157.40,54.00,66.00,,,,,,,0,157.4000,0,20950710,,,,
 2024-03-21,57.00,59.20,37.40,40.80,,,,,,,0,157.4000,0,5830320,,,,
@@ -679,3 +679,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.48,2.48,2.30,2.30,2.80,2.86,3.04,5.63,6.16,3.3540,0,3.4983,0,17020,42183,-0.1349,-0.0791,-0.0558
 2026-11-10,2.44,2.44,2.17,2.18,2.72,2.83,3.02,5.60,6.11,3.2536,0,3.4264,0,20237,42006,-0.1688,-0.0970,-0.0718
 2026-11-11,2.19,2.45,2.16,2.32,2.65,2.80,3.00,5.56,6.06,3.2457,0,3.3259,0,27317,42115,-0.1823,-0.1141,-0.0683
+2026-11-12,2.30,2.40,2.30,2.30,2.59,2.76,2.98,5.53,6.01,3.2266,0,3.2093,0,8280,41961,-0.1921,-0.1297,-0.0624

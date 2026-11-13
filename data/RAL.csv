@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.41,RAL,Ralliant Corporation,Technology,Electronic Components,United States,7759401984,69.98,1947980,1408357,98556822.86,0.172,1.2,1.158,0.51592,0.18948999,-0.52102,-0.51794,0.047059998,365800000,1222899968,75.646,1.648,1.021,337500000,292312512,110880272,104645474,0.00217,1.05397,4796129,3.3,0.0671,,19.293705,3.4078798,4.7964363,3.784,18.719,81.45455,92.0,60.0,1.90909,buy,11,2,2,0,0,2026-11-04,,https://ralliant.com,2026-11-10T12:22:05.092884+00:00
+82.45,RAL,Ralliant Corporation,Technology,Electronic Components,United States,7759401984,69.98,1947980,1408357,98556822.86,0.172,1.2,1.158,0.51592,0.18948999,-0.52102,-0.51794,0.047059998,365800000,1222899968,75.646,1.648,1.021,337500000,292312512,110880272,104645474,0.00217,1.05397,4796129,3.3,0.0671,,19.293705,3.4078798,4.7964363,3.784,18.719,81.45455,92.0,60.0,1.90909,buy,11,2,2,0,0,2026-11-04,,https://ralliant.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-25,46.77,48.26,46.57,47.27,,,,,,,0,46.5724,1,18985750,,,,
 2025-06-26,47.02,47.77,47.02,47.77,,,,,,,0,46.5724,1,1996800,,,,
@@ -378,3 +378,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,69.27,71.21,68.14,69.98,68.69,68.42,68.30,63.63,58.94,73.7441,0,72.3845,0,151100823,102548569,-0.2390,-0.1870,-0.0520
 2026-11-10,68.64,70.88,67.50,69.93,68.73,68.28,68.46,63.81,59.02,73.7441,0,72.1684,0,116936947,103636412,-0.1039,-0.1704,0.0664
 2026-11-11,72.00,73.89,70.18,71.50,68.89,68.36,68.67,63.99,59.11,73.7441,0,61.5800,1,131767350,104532892,0.1283,-0.1106,0.2390
+2026-11-12,69.65,71.76,68.55,70.57,68.89,68.45,68.85,64.15,59.20,73.7441,0,61.8263,1,92531384,104882835,0.2347,-0.0416,0.2762
+2026-11-13,70.82,71.25,68.40,69.14,69.08,68.58,68.98,64.30,59.27,73.7441,0,62.0677,1,16175718,104198996,0.2012,0.0070,0.1942

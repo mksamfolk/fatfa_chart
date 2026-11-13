@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DSAC,Daedalus Special Acquisition Corp.,Financial Services,Shell Companies,United Kingdom,344605696,10.13,44820,86907,880367.91,,,,0.0,0.0,0.0,,,626995,0,,5.804,5.448,-548057,,25685000,14823829,0.0,0.75653,513,0.02,0.0,,,,-42.742615,,,,,,,none,,,,,,,,https://www.daedalusglobal.com,2026-11-10T09:19:26.717861+00:00
+0.00,DSAC,Daedalus Special Acquisition Corp.,Financial Services,Shell Companies,United Kingdom,344605696,10.13,44820,86907,880367.91,,,,0.0,0.0,0.0,,,626995,0,,5.804,5.448,-548057,,25685000,14823829,0.0,0.75653,513,0.02,0.0,,,,-42.742615,,,,,,,none,,,,,,,,https://www.daedalusglobal.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-29,10.00,10.04,9.96,10.00,,,,,,,0,10.0400,0,241000,,,,
 2026-01-30,9.93,9.93,9.93,9.93,,,,,,,0,10.0400,0,268110,,,,
@@ -213,3 +213,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.13,10.13,10.13,10.13,10.13,10.12,10.14,10.06,,10.1128,1,10.1524,0,202600,1060936,-0.0035,-0.0054,0.0019
 2026-11-10,10.13,10.13,10.13,10.13,10.13,10.12,10.14,10.06,,10.1128,1,10.1505,0,,1054732,-0.0030,-0.0049,0.0020
 2026-11-11,10.13,10.14,10.13,10.14,10.13,10.13,10.14,10.06,,10.1128,1,10.1487,0,2066532,1088781,-0.0017,-0.0043,0.0025
+2026-11-12,10.14,10.14,10.14,10.14,10.13,10.13,10.14,10.07,,10.1151,1,10.1469,0,,1087743,-0.0008,-0.0036,0.0028

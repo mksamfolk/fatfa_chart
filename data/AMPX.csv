@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.62,AMPX,Amprius Technologies Inc.,Industrials,Electrical Equipment & Parts,United States,1390687616,9.52,4932470,5268892,50159851.839999996,1.259,,,0.22252001,-0.12629,-0.33401,-0.3607,-0.08550999,74517000,6377000,5.076,7.17,6.276,-52869000,-35897376,146080618,142884374,0.01176,0.69686997,22724816,3.86,0.1579,,95.200005,12.73197,11.069768,12.108,-89.933,22.1,30.0,14.0,1.09091,strong_buy,10,1,1,1,1,2026-11-10,2.379,https://amprius.com,2026-11-10T07:52:55.621638+00:00
+26.08,AMPX,Amprius Technologies Inc.,Industrials,Electrical Equipment & Parts,United States,1390687616,9.52,4932470,5268892,50159851.839999996,1.259,,,0.22252001,-0.12629,-0.33401,-0.3607,-0.08550999,74517000,6377000,5.076,7.17,6.276,-52869000,-35897376,146080618,142884374,0.01176,0.69686997,22724816,3.86,0.1579,,95.200005,12.73197,11.069768,12.108,-89.933,22.1,30.0,14.0,1.09091,strong_buy,10,1,1,1,1,2026-11-10,2.379,https://amprius.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-15,9.01,26.01,8.90,10.00,,,,,,,0,26.0100,0,3661000,,,,
 2022-09-16,15.73,16.80,7.90,8.30,,,,,,,0,26.0100,0,50986071,,,,
@@ -1072,4 +1072,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.85,8.82,7.71,8.72,8.60,8.36,9.10,13.09,13.34,9.3806,0,9.3573,0,53171074,48287529,-0.2077,-0.2518,0.0441
 2026-11-09,8.88,9.68,8.74,9.52,8.72,8.39,9.09,13.04,13.33,7.5156,1,7.0200,1,70837371,48982702,-0.1089,-0.2233,0.1143
 2026-11-10,9.25,9.49,8.87,9.17,8.75,8.42,9.08,12.99,13.32,7.5156,1,7.0732,1,63413302,49497203,-0.0582,-0.1902,0.1321
-2026-11-11,8.96,9.48,8.43,8.55,8.69,8.45,9.06,12.94,13.31,7.5156,1,7.1253,1,82747757,50388165,-0.0672,-0.1656,0.0984
+2026-11-11,8.96,9.48,8.43,8.55,8.69,8.45,9.06,12.94,13.31,7.5156,1,7.1253,1,83235962,50397929,-0.0672,-0.1656,0.0984
+2026-11-12,8.10,8.84,7.84,8.35,8.61,8.45,9.04,12.88,13.29,7.5156,1,7.1764,1,55709533,50483693,-0.0895,-0.1504,0.0609

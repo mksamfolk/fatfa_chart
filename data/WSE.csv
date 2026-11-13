@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WSE,Wise Group plc,Technology,Information Technology Services,United Kingdom,10913347584,11.31,1954190,1764957,19961663.67,0.268,-0.045,-0.067,0.84154,0.59774,0.19926001,0.27232,0.02412,5385999872,483700000,25.125,1.071,0.187,7553900032,-252487504,964929010,723007559,0.22473,0.4688,4718594,2.31,,23.562502,16.093,4.3604555,6.022364,2.674,5.899,17.01692,19.5,13.1,1.38462,strong_buy,13,,,,,2026-11-12,1.594,https://wise.com,2026-11-10T13:55:01.568373+00:00
+0.00,WSE,Wise Group plc,Technology,Information Technology Services,United Kingdom,10913347584,11.31,1954190,1764957,19961663.67,0.268,-0.045,-0.067,0.84154,0.59774,0.19926001,0.27232,0.02412,5385999872,483700000,25.125,1.071,0.187,7553900032,-252487504,964929010,723007559,0.22473,0.4688,4718594,2.31,,23.562502,16.093,4.3604555,6.022364,2.674,5.899,17.01692,19.5,13.1,1.38462,strong_buy,13,,,,,2026-11-12,1.594,https://wise.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-11,15.96,17.47,14.88,15.40,,,,,,,0,17.4700,0,7430500,,,,
 2026-05-12,14.42,14.49,13.75,14.17,,,,,,,0,17.4700,0,32790797,,,,
@@ -158,3 +158,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.21,11.36,11.14,11.31,11.01,11.18,11.62,,,11.6804,0,10.6247,1,19405699,23126884,-0.1461,-0.2066,0.0605
 2026-11-10,11.20,11.21,10.95,11.05,11.03,11.12,11.58,,,11.6804,0,10.6454,1,17150705,23188977,-0.1411,-0.1935,0.0524
 2026-11-11,11.05,11.19,11.05,11.15,11.06,11.08,11.55,,,11.6804,0,10.6657,1,16253354,23177862,-0.1276,-0.1803,0.0527
+2026-11-12,10.99,11.08,10.91,10.93,11.05,11.02,11.51,,,11.6804,0,10.6856,1,23714822,23355733,-0.1332,-0.1709,0.0377

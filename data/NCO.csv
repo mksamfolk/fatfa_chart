@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NCO,Southern Cross Acquisition I Corp.,Financial Services,Shell Companies,United States,146851120,9.97,540,33007,329079.79000000004,,,,0.0,0.0,0.0,,,203861,469300,,0.829,0.737,-64380,,14729300,11854288,0.19519,0.11270001,347,0.01,,,,,-383.46155,,,,,,,none,,,,,,,,,2026-11-10T11:30:24.857996+00:00
+0.00,NCO,Southern Cross Acquisition I Corp.,Financial Services,Shell Companies,United States,146851120,9.97,540,33007,329079.79000000004,,,,0.0,0.0,0.0,,,203861,469300,,0.829,0.737,-64380,,14729300,11854288,0.19519,0.11270001,347,0.01,,,,,-383.46155,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-31,9.83,9.85,9.83,9.85,,,,,,,0,9.8300,1,106380,,,,
 2026-08-03,9.84,9.86,9.84,9.85,,,,,,,0,9.8300,1,11014270,,,,
@@ -87,3 +87,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.97,9.97,9.97,9.97,9.94,9.94,9.92,,,9.9559,1,9.9240,1,51844,281952,0.0100,0.0100,-0.0000
 2026-11-10,9.97,9.97,9.97,9.97,9.95,9.94,9.92,,,9.9573,1,9.9267,1,697900,259091,0.0111,0.0102,0.0009
 2026-11-11,9.97,9.97,9.97,9.97,9.95,9.95,9.92,,,9.9586,1,9.9293,1,,222665,0.0118,0.0105,0.0013
+2026-11-12,9.97,9.97,9.97,9.97,9.95,9.95,9.92,,,9.9597,1,9.9318,1,,217794,0.0122,0.0109,0.0014

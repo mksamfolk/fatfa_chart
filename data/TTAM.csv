@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.73,TTAM,Titan America SA,Basic Materials,Building Materials,Belgium,2146105728,11.64,471850,281146,3272539.44,0.057,-0.304,-0.308,0.24756001,0.13151,0.09189,0.1507,0.07197,69781000,579544000,51.61,1.177,0.585,300928000,46999500,184373341,24551154,0.86684,0.1571,3133816,13.13,0.1275,13.5348835,9.439548,1.2359861,1.9110162,1.53,7.954,16.14286,20.0,12.0,2.57143,hold,7,0,0,1,1,2026-11-04,,https://titanamerica.com,2026-11-10T13:26:12.551546+00:00
+22.49,TTAM,Titan America SA,Basic Materials,Building Materials,Belgium,2146105728,11.64,471850,281146,3272539.44,0.057,-0.304,-0.308,0.24756001,0.13151,0.09189,0.1507,0.07197,69781000,579544000,51.61,1.177,0.585,300928000,46999500,184373341,24551154,0.86684,0.1571,3133816,13.13,0.1275,13.5348835,9.439548,1.2359861,1.9110162,1.53,7.954,16.14286,20.0,12.0,2.57143,hold,7,0,0,1,1,2026-11-04,,https://titanamerica.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-07,16.00,17.05,15.55,16.49,,,,,,,0,15.5524,1,162698087,,,,
 2025-02-10,17.26,17.56,16.15,16.20,,,,,,,0,15.5524,1,30297783,,,,
@@ -457,3 +457,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.61,11.91,11.41,11.64,13.17,13.33,14.24,15.66,16.11,13.6553,0,14.2744,0,5539476,3936140,-0.5374,-0.3601,-0.1774
 2026-11-10,11.47,11.69,11.15,11.69,12.97,13.26,14.16,15.63,16.09,13.4830,0,14.1538,0,5114375,3993938,-0.5956,-0.4072,-0.1884
 2026-11-11,11.64,11.71,11.35,11.44,12.77,13.18,14.07,15.61,16.06,13.4830,0,13.9736,0,3619616,3989163,-0.6543,-0.4566,-0.1977
+2026-11-12,11.46,11.55,11.13,11.40,12.50,13.06,13.98,15.58,16.03,13.2322,0,13.8042,0,4951020,4019478,-0.6961,-0.5045,-0.1916

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CDLR,Cadeler plc,Industrials,Engineering & Construction,United Kingdom,2544698624,7.16,132880,86364,618366.24,0.213,-0.263,-0.428,0.47027,0.40143,0.2747,0.12743,0.05367,206191008,1610870016,90.825,1.623,1.528,402198016,-368319744,88851210,336255523,0.30768,0.0,1044453,12.71,0.0175,11.365079,,3.4890049,1.3867265,5.714,9.968,,,,,none,,,,,,2026-11-23,0.701,https://www.cadeler.com,2026-11-10T08:41:14.624494+00:00
+0.00,CDLR,Cadeler plc,Industrials,Engineering & Construction,United Kingdom,2544698624,7.16,132880,86364,618366.24,0.213,-0.263,-0.428,0.47027,0.40143,0.2747,0.12743,0.05367,206191008,1610870016,90.825,1.623,1.528,402198016,-368319744,88851210,336255523,0.30768,0.0,1044453,12.71,0.0175,11.365079,,3.4890049,1.3867265,5.714,9.968,,,,,none,,,,,,2026-11-23,0.701,https://www.cadeler.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,25.10,25.30,24.74,25.29,,,,,,,0,25.3000,0,1524987,,,,
 2026-09-04,24.68,25.01,24.68,24.93,,,,,,,0,25.3000,0,982242,,,,
@@ -63,3 +63,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.10,7.30,6.82,7.16,20.67,21.84,,,,16.3652,0,30.1008,0,2672828,,,,
 2026-11-10,6.86,6.86,6.57,6.76,18.82,21.09,,,,15.2667,0,28.6811,0,1644032,,,,
 2026-11-11,6.69,6.75,6.52,6.58,16.90,20.36,,,,14.4035,0,27.3467,0,7930874,,-3.7737,-0.6528,-3.1209
+2026-11-12,6.85,7.08,6.66,6.93,14.93,19.64,,,,14.0122,0,26.0923,0,2873178,,-4.1381,-1.3499,-2.7882

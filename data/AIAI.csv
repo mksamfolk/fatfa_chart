@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AIAI,AIAI Holdings Corporation,Industrials,Conglomerates,United States,80055624,1.13,524590,635887,718552.3099999999,,,,0.0,-0.57986,0.0,,,11226000,43646000,4.382,,,-2487000,,70845688,53433060,0.1857,0.16600999,2420010,5.5,0.0446,,,,0.07903203,,,,,,,none,,,,,,,,https://www.aiaiholdings.com,2026-11-10T07:44:18.944249+00:00
+0.00,AIAI,AIAI Holdings Corporation,Industrials,Conglomerates,United States,80055624,1.13,524590,635887,718552.3099999999,,,,0.0,-0.57986,0.0,,,11226000,43646000,4.382,,,-2487000,,70845688,53433060,0.1857,0.16600999,2420010,5.5,0.0446,,,,0.07903203,,,,,,,none,,,,,,,,https://www.aiaiholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-14,12.00,16.85,11.12,15.09,,,,,,,0,11.1200,1,16958142,,,,
 2026-05-15,14.10,16.63,12.61,14.96,,,,,,,0,11.1200,1,9894544,,,,
@@ -140,3 +140,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.94,1.15,0.93,1.13,1.24,1.87,3.33,,,1.9008,0,1.3440,0,260013,2957765,-0.7210,-0.7363,0.0153
 2026-11-10,1.13,1.19,0.90,0.95,1.16,1.76,3.26,,,1.9008,0,1.2432,0,391305,2952273,-0.7046,-0.7300,0.0254
 2026-11-11,1.01,1.18,1.00,1.15,1.14,1.66,3.18,,,1.9008,0,1.1900,0,413655,2926483,-0.6677,-0.7175,0.0498
+2026-11-12,1.12,1.17,0.96,0.99,1.11,1.56,3.09,,,1.9008,0,1.1900,0,255915,2895966,-0.6440,-0.7028,0.0588

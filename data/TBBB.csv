@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.23,TBBB,BBB Foods Inc.,Consumer Defensive,Discount Stores,Mexico,8147632640,67.58,1140520,889093,60084904.94,0.403,,,0.16503,0.02396,-0.01977,-0.36181998,0.00881,7294539776,17057215488,259.303,0.689,0.445,8637392896,4360269824,77938244,99535675,0.015420001,0.71796995,3231742,4.29,0.0418,,576.24866,0.082037814,24.31134,0.184,11.581,62.257236,75.39063,50.625397,1.69231,buy,13,0,0,0,0,2026-11-02,-0.007,https://tiendas3b.com,2026-11-10T13:10:50.164428+00:00
+95.91,TBBB,BBB Foods Inc.,Consumer Defensive,Discount Stores,Mexico,8147632640,67.58,1140520,889093,60084904.94,0.403,,,0.16503,0.02396,-0.01977,-0.36181998,0.00881,7294539776,17057215488,259.303,0.689,0.445,8637392896,4360269824,77938244,99535675,0.015420001,0.71796995,3231742,4.29,0.0418,,576.24866,0.082037814,24.31134,0.184,11.581,62.257236,75.39063,50.625397,1.69231,buy,13,0,0,0,0,2026-11-02,-0.007,https://tiendas3b.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-09,19.50,21.00,19.05,19.05,,,,,,,0,21.0000,0,295153068,,,,
 2024-02-12,19.20,20.95,18.71,19.55,,,,,,,0,21.0000,0,48966883,,,,
@@ -721,3 +721,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,66.15,67.83,65.22,67.58,60.94,59.23,54.85,45.26,42.83,60.3255,1,57.1235,1,76480288,47665108,2.9874,2.1651,0.8223
 2026-11-10,67.19,68.15,66.67,67.83,61.99,59.80,55.24,45.46,42.99,61.3864,1,57.9800,1,70400759,48426365,3.2531,2.3827,0.8704
 2026-11-11,68.00,68.28,67.23,67.49,63.10,60.36,55.59,45.66,43.16,62.0188,1,58.9970,1,71289685,48922323,3.3971,2.5856,0.8115
+2026-11-12,67.66,68.39,66.97,68.00,64.23,60.96,55.96,45.86,43.33,62.0914,1,60.1110,1,81572800,50101831,3.5118,2.7708,0.7410
+2026-11-13,68.22,70.26,68.14,68.97,65.47,61.52,56.35,46.08,43.50,63.4923,1,61.2701,1,55028681,50934630,3.6391,2.9445,0.6946

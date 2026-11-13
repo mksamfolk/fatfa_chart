@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IRHO,Iron Horse Acquisitions Corp. II,Financial Services,Shell Companies,United States,295252384,10.07,11530,71520,720206.4,,,,0.0,0.0,0.0,,,1522,25545,,1.748,0.007,-962023,,29320000,19450008,0.19611,0.69208,1401,0.02,0.0001,62.9375,,,-26.430445,,,,,,,none,,,,,,,,https://ironhorseacquisition.com/iron-horse-ii,2026-11-10T10:36:12.569181+00:00
+0.00,IRHO,Iron Horse Acquisitions Corp. II,Financial Services,Shell Companies,United States,295252384,10.07,11530,71520,720206.4,,,,0.0,0.0,0.0,,,1522,25545,,1.748,0.007,-962023,,29320000,19450008,0.19611,0.69208,1401,0.02,0.0001,62.9375,,,-26.430445,,,,,,,none,,,,,,,,https://ironhorseacquisition.com/iron-horse-ii,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-06,9.86,9.87,9.85,9.85,,,,,,,0,9.8700,0,1427265,,,,
 2026-02-09,9.85,9.85,9.85,9.85,,,,,,,0,9.8700,0,35460,,,,
@@ -207,3 +207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.07,10.07,10.07,10.07,10.08,10.08,10.06,10.01,,10.0806,0,10.0892,0,,792467,0.0048,0.0078,-0.0030
 2026-11-10,10.07,10.07,10.07,10.07,10.08,10.08,10.06,10.01,,10.0796,0,10.0888,0,,785072,0.0039,0.0070,-0.0031
 2026-11-11,10.08,10.08,10.08,10.08,10.08,10.08,10.06,10.01,,10.0684,1,10.0884,0,1360800,685836,0.0039,0.0064,-0.0025
+2026-11-12,10.11,10.11,10.11,10.11,10.08,10.08,10.06,10.01,,10.0906,1,10.0700,1,1011,669700,0.0063,0.0064,-0.0001

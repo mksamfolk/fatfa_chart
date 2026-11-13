@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.52,NBBK,NB Bancorp Inc.,Financial Services,Banks - Regional,United States,978905024,22.34,271970,282756,6316769.04,0.492,0.349,0.506,0.0,0.41626,0.24455999,0.08397,0.010199999,296772992,181039008,,,,131264000,,43818490,38467794,0.12528,0.55156,1866052,7.64,0.044899996,13.377246,8.900398,3.5760524,1.0649252,2.913,,25.0,26.0,24.0,,none,2,0,0,1,1,2027-01-21,0.014,https://nbbancorp.com,2026-11-10T11:29:09.414162+00:00
+60.03,NBBK,NB Bancorp Inc.,Financial Services,Banks - Regional,United States,978905024,22.34,271970,282756,6316769.04,0.492,0.349,0.506,0.0,0.41626,0.24455999,0.08397,0.010199999,296772992,181039008,,,,131264000,,43818490,38467794,0.12528,0.55156,1866052,7.64,0.044899996,13.377246,8.900398,3.5760524,1.0649252,2.913,,25.0,26.0,24.0,,none,2,0,0,1,1,2027-01-21,0.014,https://nbbancorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-28,13.76,13.93,13.37,13.53,,,,,,,0,13.9323,0,73714943,,,,
 2023-12-29,13.51,13.51,13.22,13.22,,,,,,,0,13.9323,0,12509845,,,,
@@ -750,3 +750,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,22.28,22.68,22.01,22.34,22.37,22.37,22.50,21.57,21.49,23.2318,0,23.3500,0,5529150,6122829,-0.0387,-0.0106,-0.0281
 2026-11-10,22.30,22.38,21.98,22.19,22.33,22.37,22.50,21.57,21.49,23.2318,0,23.2868,0,4373649,6113256,-0.0494,-0.0184,-0.0310
 2026-11-11,22.25,22.25,22.00,22.13,22.30,22.37,22.50,21.57,21.50,23.2318,0,23.2261,0,2657813,6002347,-0.0620,-0.0271,-0.0349
+2026-11-12,22.19,22.64,21.88,21.91,22.23,22.35,22.48,21.56,21.51,23.2318,0,23.1679,0,4053350,5947090,-0.0888,-0.0394,-0.0493

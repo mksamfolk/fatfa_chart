@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TCGX,TCGX Acquisition Corp.,Financial Services,Shell Companies,United States,99243752,10.05,92440,115695,1162734.75,,,,0.0,0.0,0.0,,,,43395,,,,,,8000000,,0.00212,0.113979995,52482,4.24,,,,,-436.95654,,,,,,,none,,,,,,,,https://tcgcrossover.com,2026-11-10T13:11:41.101804+00:00
+0.00,TCGX,TCGX Acquisition Corp.,Financial Services,Shell Companies,United States,99243752,10.05,92440,115695,1162734.75,,,,0.0,0.0,0.0,,,,43395,,,,,,8000000,,0.00212,0.113979995,52482,4.24,,,,,-436.95654,,,,,,,none,,,,,,,,https://tcgcrossover.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-04,10.00,10.00,10.00,10.00,,,,,,,0,10.0000,1,,,,,
 2026-08-05,10.30,11.06,10.30,10.75,,,,,,,0,10.0000,1,11654075,,,,
@@ -85,3 +85,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.05,10.05,10.01,10.05,10.05,10.54,12.58,,,10.8823,0,15.1365,0,737670,1620030,-0.7105,-0.7939,0.0833
 2026-11-10,10.05,10.06,10.01,10.04,10.04,10.42,12.49,,,10.8170,0,15.0317,0,90360,1612350,-0.6732,-0.7697,0.0966
 2026-11-11,10.04,10.04,10.04,10.04,10.04,10.28,12.41,,,10.7438,0,14.9291,0,105420,1610479,-0.6362,-0.7430,0.1068
+2026-11-12,10.06,10.06,10.01,10.03,10.04,10.16,12.26,,,10.6834,0,14.8285,0,95285,1598629,-0.6008,-0.7146,0.1137

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RTSN,Retension Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,103228512,12.39,100240,147386,1826112.54,,,,0.0,0.0,0.0,,,13493037,0,,5.609,4.692,-11891754,,8331599,535948,0.25697002,0.23287001,62034,0.24,,,-5.1625,,-0.67045456,,,52.5,55.0,50.0,1.0,strong_buy,2,,,,,,,https://www.retensionpharmaceuticals.com,2026-11-10T12:34:34.810914+00:00
+0.00,RTSN,Retension Pharmaceuticals Inc.,Healthcare,Biotechnology,United States,103228512,12.39,100240,147386,1826112.54,,,,0.0,0.0,0.0,,,13493037,0,,5.609,4.692,-11891754,,8331599,535948,0.25697002,0.23287001,62034,0.24,,,-5.1625,,-0.67045456,,,52.5,55.0,50.0,1.0,strong_buy,2,,,,,,,https://www.retensionpharmaceuticals.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-09,10.00,11.60,9.66,10.53,,,,,,,0,9.6600,1,8310276,,,,
 2026-10-12,10.88,11.79,10.16,11.32,,,,,,,0,9.6600,1,1968548,,,,
@@ -53,3 +53,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.96,12.83,10.31,12.39,11.86,13.03,,,,15.8451,0,14.8321,0,3796296,,,,
 2026-11-10,12.16,12.77,11.03,12.02,11.71,13.05,,,,15.8451,0,14.2894,0,2982162,,,,
 2026-11-11,11.89,12.40,11.59,12.15,11.62,13.08,,,,15.8451,0,13.8119,0,1111725,,,,
+2026-11-12,11.79,12.40,11.63,12.25,11.66,13.08,,,,15.8451,0,13.3917,0,1156400,,,,

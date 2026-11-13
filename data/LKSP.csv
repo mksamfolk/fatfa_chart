@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LKSP,Lake Superior Acquisition Corp.,Financial Services,Shell Companies,United States,161876720,10.315,31470,32496,335196.24,,,,0.0,0.0,0.0,,,135803,94360,,0.576,0.421,-720732,,11860000,7966720,0.01654,0.99101996,7127,0.16,,73.678566,,,-34.15563,,,,,,,none,,,,,,,,https://www.lakescorp.com,2026-11-10T10:59:07.888742+00:00
+0.00,LKSP,Lake Superior Acquisition Corp.,Financial Services,Shell Companies,United States,161876720,10.315,31470,32496,335196.24,,,,0.0,0.0,0.0,,,135803,94360,,0.576,0.421,-720732,,11860000,7966720,0.01654,0.99101996,7127,0.16,,73.678566,,,-34.15563,,,,,,,none,,,,,,,,https://www.lakescorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-06,9.89,9.96,9.89,9.93,,,,,,,0,9.8900,1,18846583,,,,
 2025-11-07,9.93,9.94,9.93,9.93,,,,,,,0,9.8900,1,5780253,,,,
@@ -269,3 +269,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.32,10.32,10.31,10.31,10.30,10.29,10.25,10.16,10.12,10.2881,1,10.2950,1,25787,369218,0.0188,0.0192,-0.0004
 2026-11-10,10.31,10.33,10.31,10.32,10.31,10.29,10.25,10.16,10.12,10.2889,1,10.2954,1,1664616,402388,0.0191,0.0192,-0.0001
 2026-11-11,10.31,10.31,10.31,10.31,10.31,10.29,10.25,10.16,10.12,10.2889,1,10.2968,1,5155,402491,0.0183,0.0190,-0.0007
+2026-11-12,10.31,10.31,10.31,10.31,10.31,10.30,10.25,10.16,10.12,10.2889,1,10.2981,1,,402491,0.0175,0.0187,-0.0012

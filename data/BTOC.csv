@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-15 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.11,BTOC,Armlogi Holding Corp.,Industrials,Integrated Freight & Logistics,United States,5254702,1.8501,112880,21565,39897.406500000005,-0.153,,,-0.00582,-0.12808,-0.11233,-1.2611,-0.088970006,2217199,111779848,1394.56,0.438,0.394,-5133615,-948201,2840226,891451,0.68612,0.0221,105173,18.18,0.1117,,,0.02827616,0.6555989,0.618,-6.408,,,,,none,,,,,,,3.104,https://www.armlogi.com,2026-11-10T08:31:05.318983+00:00
+99.15,BTOC,Armlogi Holding Corp.,Industrials,Integrated Freight & Logistics,United States,5254702,1.8501,112880,21565,39897.406500000005,-0.153,,,-0.00582,-0.12808,-0.11233,-1.2611,-0.088970006,2217199,111779848,1394.56,0.438,0.394,-5133615,-948201,2840226,891451,0.68612,0.0221,105173,18.18,0.1117,,,0.02827616,0.6555989,0.618,-6.408,,,,,none,,,,,,,3.104,https://www.armlogi.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-14,5.00,6.26,4.14,4.62,,,,,,,0,4.1390,1,6116418,,,,
 2024-05-15,4.69,4.88,4.26,4.62,,,,,,,0,4.1390,1,884651,,,,
@@ -641,3 +641,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.76,1.94,1.74,1.85,2.16,2.19,1.16,0.58,0.54,1.1494,1,0.7709,1,19980,73386,0.2337,0.3671,-0.1334
 2026-11-10,1.89,1.89,1.79,1.81,2.12,2.13,1.19,0.59,0.55,1.1494,1,0.8661,1,12851,73096,0.1937,0.3324,-0.1387
 2026-11-11,1.88,1.88,1.77,1.83,2.09,2.21,1.22,0.60,0.55,1.1494,1,0.9574,1,14274,72769,0.1618,0.2983,-0.1365
+2026-11-12,1.83,1.83,1.81,1.81,2.05,2.29,1.25,0.61,0.56,1.1494,1,1.0451,1,4887,72147,0.1333,0.2653,-0.1320

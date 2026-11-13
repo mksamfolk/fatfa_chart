@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.67,DTCX,Datacentrex Inc.,Financial Services,Financial Data & Stock Exchanges,United States,48082436,1.02,101040,210693,214906.86000000002,-0.008,,,0.36951,-2.50615,-2.0388699,,,51884088,0,,183.58,162.973,-9101819,,47139643,32534000,0.20562,0.05854,690188,4.2,0.016,,,5.3614054,0.5416888,-1.22,2.52,,,,,none,,,,,,,,https://www.datacentrex.com,2026-11-10T09:20:12.706457+00:00
+10.34,DTCX,Datacentrex Inc.,Financial Services,Financial Data & Stock Exchanges,United States,48082436,1.02,101040,210693,214906.86000000002,-0.008,,,0.36951,-2.50615,-2.0388699,,,51884088,0,,183.58,162.973,-9101819,,47139643,32534000,0.20562,0.05854,690188,4.2,0.016,,,5.3614054,0.5416888,-1.22,2.52,,,,,none,,,,,,,,https://www.datacentrex.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-21,7.00,10.00,6.50,10.00,,,,,,,0,6.5000,1,63000,,,,
 2022-03-22,9.00,10.00,8.88,9.99,,,,,,,0,6.5000,1,28971,,,,
@@ -1181,3 +1181,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.05,1.10,0.98,1.02,1.09,1.22,1.74,2.05,2.09,1.4210,0,1.2350,0,46716,438522,-0.2053,-0.2113,0.0060
 2026-11-10,1.02,1.05,0.94,0.94,1.07,1.19,1.72,2.04,2.08,1.4164,0,1.2013,0,71744,434532,-0.2050,-0.2100,0.0050
 2026-11-11,0.93,1.05,0.90,1.04,1.06,1.16,1.71,2.03,2.07,1.3999,0,1.1710,0,91520,432243,-0.1949,-0.2070,0.0121
+2026-11-12,1.02,1.05,0.96,0.99,1.04,1.14,1.69,2.01,2.06,1.3999,0,1.1437,0,36420,430266,-0.1889,-0.2034,0.0145

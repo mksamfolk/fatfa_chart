@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SGP,SpyGlass Pharma Inc.,Healthcare,Biotechnology,United States,1283398912,38.37,151630,110815,4251971.55,,,,0.0,0.0,0.0,,,234186000,1632000,0.702,25.057,24.888,-46558000,,33447979,6496601,0.04275,0.94655997,1224357,9.43,0.1103,,-13.633359,,5.5232472,,-17.201,44.0,62.0,37.0,,none,6,0,0,1,1,2026-11-12,,https://www.spyglasspharma.com,2026-11-10T12:45:31.174450+00:00
+0.00,SGP,SpyGlass Pharma Inc.,Healthcare,Biotechnology,United States,1283398912,38.37,151630,110815,4251971.55,,,,0.0,0.0,0.0,,,234186000,1632000,0.702,25.057,24.888,-46558000,,33447979,6496601,0.04275,0.94655997,1224357,9.43,0.1103,,-13.633359,,5.5232472,,-17.201,44.0,62.0,37.0,,none,6,0,0,1,1,2026-11-12,,https://www.spyglasspharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-06,24.00,32.44,20.16,26.40,,,,,,,0,20.1600,1,31500480,,,,
 2026-02-09,25.25,28.44,24.71,26.18,,,,,,,0,20.1600,1,5403552,,,,
@@ -207,3 +207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,37.59,39.92,36.90,38.37,34.05,30.09,27.84,23.93,,31.9754,1,32.0000,1,8713827,2713470,2.8018,2.0167,0.7851
 2026-11-10,38.00,38.00,33.71,34.18,34.37,30.61,28.02,23.97,,31.9754,1,33.5840,1,3216338,2750826,2.6523,2.1438,0.5084
 2026-11-11,34.43,35.53,33.24,34.97,34.58,31.17,28.22,24.03,,31.9754,1,39.9200,0,2713672,2772794,2.5679,2.2286,0.3393
+2026-11-12,35.68,35.68,33.15,33.32,34.67,31.60,28.38,24.08,,31.9754,1,39.7864,0,1812608,2770232,2.3409,2.2511,0.0898

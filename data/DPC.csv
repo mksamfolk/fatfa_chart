@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DPC,DPC Holdings PLC,Industrials,Aerospace & Defense,United Kingdom,4889633792,32.73,2017720,1365493,44692585.88999999,0.337,,,0.23739,-0.44734,-0.2612,,,846400000,589500032,76.321,1.478,1.099,-13500000,,149393016,105102469,0.02005,0.90865,6438174,5.0,,,33.71203,5.129166,6.3307543,4.86,-67.044,52.8,62.0,43.0,1.8,buy,5,1,0,0,0,2026-11-12,,https://www.doncasters.com,2026-11-10T09:18:18.407301+00:00
+0.00,DPC,DPC Holdings PLC,Industrials,Aerospace & Defense,United Kingdom,4889633792,32.73,2017720,1365493,44692585.88999999,0.337,,,0.23739,-0.44734,-0.2612,,,846400000,589500032,76.321,1.478,1.099,-13500000,,149393016,105102469,0.02005,0.90865,6438174,5.0,,,33.71203,5.129166,6.3307543,4.86,-67.044,52.8,62.0,43.0,1.8,buy,5,1,0,0,0,2026-11-12,,https://www.doncasters.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-25,44.00,47.11,42.90,46.88,,,,,,,0,42.9000,1,874330772,,,,
 2026-06-26,43.74,49.35,43.12,47.15,,,,,,,0,42.9000,1,158853070,,,,
@@ -127,3 +127,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,30.00,32.81,29.39,32.73,29.07,29.28,36.30,,,32.7763,0,25.2400,1,50407472,54074301,-2.0937,-2.8511,0.7574
 2026-11-10,31.90,32.69,29.57,29.89,29.24,29.11,36.06,,,32.7763,0,25.3914,1,43929332,51864632,-1.9172,-2.6643,0.7471
 2026-11-11,30.83,32.24,30.63,31.68,29.60,29.06,35.87,,,32.7763,0,25.5398,1,55652257,52032846,-1.6144,-2.4543,0.8399
+2026-11-12,33.08,35.21,32.54,34.33,30.10,29.19,35.76,,,24.9531,1,25.6852,1,101517248,53384228,-1.1473,-2.1929,1.0456

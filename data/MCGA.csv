@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.02,MCGA,Yorkville Acquisition Corp.,Financial Services,Shell Companies,United States,245483184,10.4101,59140,91157,948953.4857,,,,0.0,0.0,0.0,,,181617,500000,,0.138,0.065,-1216264,,17831250,17479366,0.0,0.84249,37287,0.56,0.0021,,,,-32.430218,,,,,,,none,,,,,,,,https://www.yorkvilleac.com,2026-11-10T11:10:11.344895+00:00
+57.76,MCGA,Yorkville Acquisition Corp.,Financial Services,Shell Companies,United States,245483184,10.4101,59140,91157,948953.4857,,,,0.0,0.0,0.0,,,181617,500000,,0.138,0.065,-1216264,,17831250,17479366,0.0,0.84249,37287,0.56,0.0021,,,,-32.430218,,,,,,,none,,,,,,,,https://www.yorkvilleac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-25,11.00,11.00,10.65,10.77,,,,,,,0,10.6470,1,3326242,,,,
 2025-07-28,10.71,11.66,10.66,10.74,,,,,,,0,10.6470,1,2140283,,,,
@@ -342,3 +342,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.41,10.41,10.41,10.41,10.40,10.39,10.35,10.25,10.22,10.3791,1,10.4000,1,80157,1109301,0.0157,0.0171,-0.0013
 2026-11-10,10.41,10.42,10.41,10.42,10.40,10.39,10.36,10.25,10.22,10.3837,1,10.4000,1,1478598,970446,0.0163,0.0169,-0.0006
 2026-11-11,10.41,10.42,10.41,10.41,10.40,10.40,10.36,10.25,10.22,10.3838,1,10.4040,1,120756,954172,0.0158,0.0167,-0.0009
+2026-11-12,10.43,10.43,10.42,10.42,10.41,10.40,10.36,10.25,10.23,10.3900,1,10.4072,1,8336,949996,0.0160,0.0165,-0.0006

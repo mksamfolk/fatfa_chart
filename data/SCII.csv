@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SCII,SC II Acquisition Corp.,Financial Services,Shell Companies,United States,253958128,10.2,18820,16057,163781.4,,,,0.0,0.0,0.0,,,751003,0,,4.766,4.411,-497024,,17505000,14286390,0.00171,0.9364,328,0.02,0.0,,,,408.0,,,,,,,none,,,,,,,,,2026-11-10T12:40:46.376549+00:00
+0.00,SCII,SC II Acquisition Corp.,Financial Services,Shell Companies,United States,253958128,10.2,18820,16057,163781.4,,,,0.0,0.0,0.0,,,751003,0,,4.766,4.411,-497024,,17505000,14286390,0.00171,0.9364,328,0.02,0.0,,,,408.0,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-20,9.90,9.94,9.90,9.92,,,,,,,0,9.9000,1,15701376,,,,
 2026-01-21,9.92,9.93,9.92,9.93,,,,,,,0,9.9000,1,11002440,,,,
@@ -220,3 +220,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.20,10.20,10.20,10.20,10.19,10.18,10.15,10.07,,10.1919,1,10.1925,1,,135207,0.0137,0.0138,-0.0002
 2026-11-10,10.20,10.20,10.20,10.20,10.19,10.19,10.15,10.07,,10.1919,1,10.1953,1,,135207,0.0133,0.0137,-0.0004
 2026-11-11,10.23,10.24,10.20,10.23,10.20,10.19,10.16,10.07,,10.2004,1,10.1977,1,48104,136169,0.0157,0.0141,0.0016
+2026-11-12,10.23,10.23,10.23,10.23,10.20,10.19,10.16,10.08,,10.2151,1,10.2000,1,1637600,166341,0.0174,0.0148,0.0026

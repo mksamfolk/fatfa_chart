@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ELWT,Elauwit Connection Inc.,Communication Services,Telecom Services,United States,23301682,3.52,12850,12084,42535.68,-0.464,,,0.17703,-1.08543,-0.45343,,-0.47814,1180000,2672000,,0.901,0.541,-9421000,-5654250,6619796,1623108,0.67489,0.09922,13770,1.12,0.0050999997,,,1.2850429,-30.877193,1.367,,10.0,10.0,10.0,,none,1,0,0,1,1,2026-11-16,,https://elauwit.com,2026-11-10T09:28:24.607529+00:00
+11.28,ELWT,Elauwit Connection Inc.,Communication Services,Telecom Services,United States,23301682,3.52,12850,12084,42535.68,-0.464,,,0.17703,-1.08543,-0.45343,,-0.47814,1180000,2672000,,0.901,0.541,-9421000,-5654250,6619796,1623108,0.67489,0.09922,13770,1.12,0.0050999997,,,1.2850429,-30.877193,1.367,,10.0,10.0,10.0,,none,1,0,0,1,1,2026-11-16,,https://elauwit.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-05,8.75,8.75,7.05,7.20,,,,,,,0,8.7500,0,3558960,,,,
 2025-11-06,6.70,8.00,6.62,7.91,,,,,,,0,8.7500,0,1565389,,,,
@@ -270,3 +270,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.49,3.75,3.30,3.52,4.33,4.92,6.29,6.82,6.60,4.8841,0,4.4412,0,104896,76498,-0.7324,-0.6213,-0.1112
 2026-11-10,3.35,3.73,3.35,3.44,4.16,4.82,6.20,6.80,6.59,4.8772,0,4.2129,0,43688,76321,-0.7523,-0.6475,-0.1048
 2026-11-11,3.41,3.60,3.35,3.60,3.99,4.72,6.11,6.78,6.59,4.7535,0,4.0304,0,49680,75475,-0.7465,-0.6673,-0.0792
+2026-11-12,3.48,3.50,3.29,3.29,3.84,4.61,6.00,6.76,6.58,4.6386,0,3.8843,0,28623,73533,-0.7582,-0.6855,-0.0728

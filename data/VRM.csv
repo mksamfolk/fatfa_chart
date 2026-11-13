@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.83,VRM,Vroom Inc.,Financial Services,Credit Services,United States,35229596,6.765,5220,26165,177006.225,-0.042,,,0.65903,0.30895,-0.27807,-0.42803,0.0044400003,16359000,778622016,643.42,3.367,3.108,77652000,4120375,5207627,742703,0.034760002,0.93017,26285,3.43,0.0215,,-0.039149303,0.16927703,0.3548387,3.935,70.081,,,,,none,,,,,,2026-11-10,,https://www.vroom.com,2026-11-10T13:44:26.929019+00:00
+18.75,VRM,Vroom Inc.,Financial Services,Credit Services,United States,35229596,6.765,5220,26165,177006.225,-0.042,,,0.65903,0.30895,-0.27807,-0.42803,0.0044400003,16359000,778622016,643.42,3.367,3.108,77652000,4120375,5207627,742703,0.034760002,0.93017,26285,3.43,0.0215,,-0.039149303,0.16927703,0.3548387,3.935,70.081,,,,,none,,,,,,2026-11-10,,https://www.vroom.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-20,12.00,36.05,12.00,31.00,,,,,,,0,12.0000,1,1047800,,,,
 2025-02-21,27.20,28.50,23.10,24.64,,,,,,,0,12.0000,1,808290,,,,
@@ -449,3 +449,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.50,7.50,6.76,6.76,7.33,7.89,8.99,10.35,12.03,8.5994,0,7.9805,0,13530,319401,-0.6294,-0.5026,-0.1268
 2026-11-10,6.88,7.16,6.84,6.97,7.20,7.80,8.93,10.32,11.96,8.5994,0,7.8105,0,86428,320464,-0.6125,-0.5246,-0.0879
 2026-11-11,7.25,7.29,6.96,6.99,7.06,7.70,8.87,10.30,11.89,8.5994,0,7.6574,0,100656,320686,-0.5906,-0.5378,-0.0528
+2026-11-12,6.50,6.99,6.50,6.99,6.97,7.61,8.81,10.27,11.83,8.5994,0,7.5197,0,18873,320566,-0.5667,-0.5436,-0.0232

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GMTL,Guardian Metal Resources PLC,Basic Materials,Other Precious Metals & Mining,United Kingdom,204671712,5.14,406350,250776,1288988.64,,,,0.0,0.0,0.0,-0.17964001,-0.11226,52459000,0,,15.319,15.319,-5977000,-31624124,39819402,25315297,0.0,0.15841,362337,1.74,,,-16.580645,,2.1372142,,,25.5,30.0,21.0,,none,2,,,,,,1.359,https://www.guardianmetalresources.com,2026-11-10T10:03:10.284031+00:00
+0.00,GMTL,Guardian Metal Resources PLC,Basic Materials,Other Precious Metals & Mining,United Kingdom,204671712,5.14,406350,250776,1288988.64,,,,0.0,0.0,0.0,-0.17964001,-0.11226,52459000,0,,15.319,15.319,-5977000,-31624124,39819402,25315297,0.0,0.15841,362337,1.74,,,-16.580645,,2.1372142,,,25.5,30.0,21.0,,none,2,,,,,,1.359,https://www.guardianmetalresources.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,13.50,13.99,13.05,13.50,,,,,,,0,13.0500,1,4135050,,,,
 2026-03-23,16.50,16.50,14.22,14.31,,,,,,,0,13.0500,1,13481451,,,,
@@ -178,3 +178,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.97,5.17,4.85,5.14,4.99,5.47,9.04,,,6.5960,0,5.6690,0,694928,2071447,-1.1412,-1.3034,0.1622
 2026-11-10,5.00,5.05,4.47,4.51,4.92,5.35,8.88,,,6.5960,0,5.6394,0,1217249,2035426,-1.1111,-1.2650,0.1539
 2026-11-11,4.74,4.74,4.41,4.45,4.88,5.24,8.70,,,6.4133,0,5.6104,0,589180,2003791,-1.0796,-1.2279,0.1483
+2026-11-12,4.44,4.51,4.13,4.30,4.77,5.15,8.52,12.88,,6.0885,0,5.5820,0,695740,1963633,-1.0546,-1.1932,0.1386

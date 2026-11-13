@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2023-08-10 09:30:00-04:00,0.05\n2025-08-29 09:30:00-04:00,0.1\n2026-08-03 09:30:00-04:00,0.14285714285714285\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.04,SEGG,Sports Entertainment Gaming Global Corporation,Consumer Cyclical,Gambling,United States,5046874,1.2,4306750,711254,853504.7999999999,15.839,,,0.21061,-1.49345,0.0,-0.44519,-0.14783,712877,15556971,22.817,0.27,0.028,-12816228,16435513,4205728,3878775,0.16565001,0.04003,135517,3.4,0.043,,,1.1033946,0.08668641,9.617,-2.783,,,,,none,,,,,,,2.458,https://seggmediacorp.com,2026-11-10T12:42:52.688550+00:00
+2.08,SEGG,Sports Entertainment Gaming Global Corporation,Consumer Cyclical,Gambling,United States,5046874,1.2,4306750,711254,853504.7999999999,15.839,,,0.21061,-1.49345,0.0,-0.44519,-0.14783,712877,15556971,22.817,0.27,0.028,-12816228,16435513,4205728,3878775,0.16565001,0.04003,135517,3.4,0.043,,,1.1033946,0.08668641,9.617,-2.783,,,,,none,,,,,,,2.458,https://seggmediacorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-15,240.80,448.00,239.40,364.00,,,,,,,0,239.4000,1,1429792,,,,
 2023-06-16,350.00,364.00,301.00,309.40,,,,,,,0,239.4000,1,174811,,,,
@@ -870,3 +870,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.09,1.28,1.09,1.20,1.47,1.43,2.10,5.37,6.08,1.0751,1,2.3646,0,533040,1763611,-0.2273,-0.2771,0.0498
 2026-11-10,1.16,1.20,1.02,1.03,1.44,1.40,2.07,5.33,6.06,2.2200,0,2.3136,0,221244,1735391,-0.2455,-0.2708,0.0253
 2026-11-11,1.03,1.23,1.01,1.15,1.43,1.38,2.04,5.29,6.04,2.1841,0,2.2360,0,759575,1744816,-0.2474,-0.2661,0.0187
+2026-11-12,1.12,1.20,1.05,1.12,1.43,1.36,2.01,5.26,6.02,2.1279,0,2.1379,0,118496,1744008,-0.2484,-0.2626,0.0142

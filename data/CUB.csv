@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.12,CUB,Lionheart Holdings,Financial Services,Shell Companies,United States,286221376,10.94,24990,85631,936803.14,,,,0.0,0.0,0.0,,-0.018919999,42578,200000,,0.003,0.001,-651785,44436072,21496164,13596038,0.00093000004,1.01045,11,0.0,0.0,182.33333,,,-27.696201,,,,,,,none,,,,,,,0.007,https://www.lheartholdings.com,2026-11-10T09:05:22.029179+00:00
+57.92,CUB,Lionheart Holdings,Financial Services,Shell Companies,United States,286221376,10.94,24990,85631,936803.14,,,,0.0,0.0,0.0,,-0.018919999,42578,200000,,0.003,0.001,-651785,44436072,21496164,13596038,0.00093000004,1.01045,11,0.0,0.0,182.33333,,,-27.696201,,,,,,,none,,,,,,,0.007,https://www.lheartholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-12,9.96,9.98,9.96,9.97,,,,,,,0,9.9600,1,14305953,,,,
 2024-08-13,9.98,9.98,9.98,9.98,,,,,,,0,9.9600,1,28942,,,,
@@ -580,3 +580,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.95,10.95,10.95,10.95,10.94,10.93,10.90,10.84,10.80,10.9956,0,10.9215,1,,948117,0.0155,0.0162,-0.0007
 2026-11-10,10.95,10.96,10.95,10.96,10.95,10.94,10.90,10.84,10.80,10.9956,0,10.9267,1,39456,880637,0.0159,0.0162,-0.0003
 2026-11-11,10.95,10.96,10.95,10.96,10.95,10.94,10.90,10.84,10.80,10.9956,0,10.9317,1,70144,881714,0.0160,0.0161,-0.0002
+2026-11-12,10.96,10.96,10.96,10.96,10.95,10.94,10.90,10.84,10.80,10.9956,0,10.9367,1,43840,882591,0.0158,0.0161,-0.0002

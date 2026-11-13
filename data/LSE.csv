@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.82,LSE,Leishen Energy Holding Co. Ltd.,Energy,Oil & Gas Equipment & Services,China,76272000,4.48,2250,4612,20661.760000000002,-0.256,,,0.21429001,-0.03281,0.00102,0.00934,-0.00115,27757378,3576797,8.024,2.394,1.835,-810465,-695502,4315000,1524929,0.64658,0.00215,8998,1.49,0.0021,448.0,,1.8549227,1.7112299,1.267,142.875,,,,,none,,,,,,,,https://www.r-egroup.com,2026-11-10T11:03:03.756866+00:00
+42.06,LSE,Leishen Energy Holding Co. Ltd.,Energy,Oil & Gas Equipment & Services,China,76272000,4.48,2250,4612,20661.760000000002,-0.256,,,0.21429001,-0.03281,0.00102,0.00934,-0.00115,27757378,3576797,8.024,2.394,1.835,-810465,-695502,4315000,1524929,0.64658,0.00215,8998,1.49,0.0021,448.0,,1.8549227,1.7112299,1.267,142.875,,,,,none,,,,,,,,https://www.r-egroup.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-19,4.25,4.58,3.76,4.35,,,,,,,0,3.7600,1,8954910,,,,
 2024-12-20,4.30,5.25,4.30,4.98,,,,,,,0,3.7600,1,1351572,,,,
@@ -489,3 +489,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.48,4.48,4.48,4.48,4.45,4.50,4.90,4.71,4.71,5.0003,0,4.2075,1,,18617,-0.1168,-0.1300,0.0132
 2026-11-10,4.58,4.58,4.58,4.58,4.46,4.50,4.90,4.71,4.71,5.0003,0,4.2235,1,1374,18427,-0.1005,-0.1241,0.0236
 2026-11-11,4.40,4.54,4.40,4.54,4.47,4.50,4.89,4.71,4.71,5.0003,0,4.2392,1,10437,18020,-0.0899,-0.1172,0.0273
+2026-11-12,4.54,4.54,4.54,4.54,4.47,4.50,4.88,4.71,4.71,5.0003,0,4.2546,1,,16354,-0.0807,-0.1099,0.0293

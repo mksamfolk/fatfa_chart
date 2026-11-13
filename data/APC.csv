@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,APC,ARKO Petroleum Corp.,Energy,Oil & Gas Refining & Marketing,United States,706893504,14.86,137060,154107,2290030.02,0.273,-0.03,0.321,0.047909997,0.01427,0.00654,0.28659,0.04279,10109000,796833984,321.487,1.178,0.823,54957000,14315500,12570223,12550452,0.00466,0.98241997,764048,4.73,0.060900003,16.32967,16.886364,0.110831045,2.8522072,0.234,10.058,21.25,23.0,19.0,1.0,strong_buy,4,2,2,0,0,2026-11-04,,https://www.arkopetroleum.com,2026-11-10T07:56:30.186940+00:00
+0.00,APC,ARKO Petroleum Corp.,Energy,Oil & Gas Refining & Marketing,United States,706893504,14.86,137060,154107,2290030.02,0.273,-0.03,0.321,0.047909997,0.01427,0.00654,0.28659,0.04279,10109000,796833984,321.487,1.178,0.823,54957000,14315500,12570223,12550452,0.00466,0.98241997,764048,4.73,0.060900003,16.32967,16.886364,0.110831045,2.8522072,0.234,10.058,21.25,23.0,19.0,1.0,strong_buy,4,2,2,0,0,2026-11-04,,https://www.arkopetroleum.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,17.07,17.53,16.33,16.86,,,,,,,0,16.3347,1,45417643,,,,
 2026-02-13,17.00,17.54,16.86,17.30,,,,,,,0,16.3347,1,13294800,,,,
@@ -203,3 +203,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.93,15.12,14.46,14.86,14.81,15.40,17.01,18.16,,16.4154,0,15.9836,0,1563272,2516667,-0.7263,-0.7478,0.0215
 2026-11-10,14.86,14.98,14.68,14.90,14.70,15.34,16.95,18.14,,16.4154,0,15.7120,0,1315670,2449620,-0.6788,-0.7340,0.0552
 2026-11-11,14.91,15.40,14.91,15.40,14.73,15.31,16.90,18.13,,16.4154,0,15.4730,0,1122660,2394531,-0.5940,-0.7060,0.1120
+2026-11-12,15.30,15.35,14.55,14.67,14.71,15.24,16.82,18.11,,16.4154,0,15.4000,0,2727153,2314538,-0.5790,-0.6806,0.1016

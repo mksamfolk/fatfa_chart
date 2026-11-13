@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PICS,PicS N.V.,Technology,Software - Infrastructure,Brazil,945989120,7.3,1140770,721376,5266044.8,0.67,,1.596,0.83586997,0.42923,0.099709995,,,6526830080,3457229056,54.773,0.999,0.924,-564124992,,43135919,33208433,0.50481,0.32816002,1357057,2.17,0.0428,3.7435896,2.3489308,0.07070516,0.74826413,-0.159,-0.389,18.063528,23.858091,14.474127,1.22222,strong_buy,9,0,0,0,0,2026-11-16,,https://www.picpay.com,2026-11-10T12:05:53.223251+00:00
+0.00,PICS,PicS N.V.,Technology,Software - Infrastructure,Brazil,945989120,7.3,1140770,721376,5266044.8,0.67,,1.596,0.83586997,0.42923,0.099709995,,,6526830080,3457229056,54.773,0.999,0.924,-564124992,,43135919,33208433,0.50481,0.32816002,1357057,2.17,0.0428,3.7435896,2.3489308,0.07070516,0.74826413,-0.159,-0.389,18.063528,23.858091,14.474127,1.22222,strong_buy,9,0,0,0,0,2026-11-16,,https://www.picpay.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-29,19.55,19.95,18.95,19.00,,,,,,,0,19.9500,0,199042100,,,,
 2026-01-30,19.01,19.09,18.00,18.00,,,,,,,0,19.9500,0,68810400,,,,
@@ -213,3 +213,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.10,7.51,7.02,7.30,7.24,10.16,10.74,11.31,,9.9337,0,9.8656,0,4250790,8292342,-1.3870,-1.0311,-0.3559
 2026-11-10,7.20,7.25,6.86,6.96,7.18,9.84,10.65,11.26,,9.7584,0,9.4521,0,1891032,8247426,-1.3814,-1.1012,-0.2802
 2026-11-11,7.10,7.35,7.10,7.18,7.11,9.53,10.57,11.20,,9.7584,0,9.0883,0,2459150,8212459,-1.3436,-1.1497,-0.1939
+2026-11-12,7.02,7.13,6.87,6.96,7.02,9.22,10.50,11.16,,9.3880,0,8.7681,0,3143136,8061291,-1.3163,-1.1830,-0.1333

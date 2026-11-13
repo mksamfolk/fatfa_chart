@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.84,NSRX,Nasus Pharma Ltd.,Healthcare,Drug Manufacturers - General,Israel,34380024,2.935,13420,17250,50628.75,,,,0.0,0.0,0.0,-3.16043,-0.96730006,11818000,103000,0.937,8.769,8.417,-10521000,-6983000,11713808,5459696,0.49153,0.18358,80432,3.65,0.0123000005,,,,3.1256654,,,16.5,22.0,7.0,2.0,buy,4,2,2,0,0,,,https://www.nasuspharma.com,2026-11-10T11:39:43.369626+00:00
+27.63,NSRX,Nasus Pharma Ltd.,Healthcare,Drug Manufacturers - General,Israel,34380024,2.935,13420,17250,50628.75,,,,0.0,0.0,0.0,-3.16043,-0.96730006,11818000,103000,0.937,8.769,8.417,-10521000,-6983000,11713808,5459696,0.49153,0.18358,80432,3.65,0.0123000005,,,,3.1256654,,,16.5,22.0,7.0,2.0,buy,4,2,2,0,0,,,https://www.nasuspharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-13,8.00,9.51,8.00,8.25,,,,,,,0,8.0000,1,2363625,,,,
 2025-08-14,8.80,8.97,8.01,8.05,,,,,,,0,8.0000,1,505540,,,,
@@ -329,3 +329,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.76,2.96,2.76,2.93,3.09,3.17,3.50,3.13,3.79,3.7001,0,3.2746,0,51656,50415,-0.1512,-0.1200,-0.0311
 2026-11-10,2.94,2.98,2.86,2.98,3.06,3.16,3.49,3.13,3.77,3.7001,0,3.2012,0,41193,50207,-0.1477,-0.1256,-0.0222
 2026-11-11,2.90,3.03,2.89,2.91,3.01,3.14,3.48,3.13,3.74,3.7001,0,3.1380,0,13968,50215,-0.1493,-0.1303,-0.0190
+2026-11-12,2.90,2.91,2.76,2.82,2.98,3.13,3.47,3.13,3.72,3.5613,0,3.0837,0,24252,50499,-0.1560,-0.1355,-0.0206

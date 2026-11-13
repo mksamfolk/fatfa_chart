@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.13,SERV,Serve Robotics Inc.,Industrials,Integrated Freight & Logistics,United States,296836416,3.39,4690530,3723420,12622393.8,3.127,,,0.0,-21.583069,0.0,-0.70153,-0.432,197999008,9471000,3.103,10.852,10.521,-153171008,-90788248,87562360,83863172,0.060149997,0.42556,31217126,10.17,0.3717,,-1.7702351,29.865824,0.97218245,10.995,-0.557,9.76667,16.0,7.0,1.28571,strong_buy,6,0,0,1,1,2026-11-05,2.876,https://www.serverobotics.com,2026-11-10T12:43:37.950017+00:00
+9.69,SERV,Serve Robotics Inc.,Industrials,Integrated Freight & Logistics,United States,296836416,3.39,4690530,3723420,12622393.8,3.127,,,0.0,-21.583069,0.0,-0.70153,-0.432,197999008,9471000,3.103,10.852,10.521,-153171008,-90788248,87562360,83863172,0.060149997,0.42556,31217126,10.17,0.3717,,-1.7702351,29.865824,0.97218245,10.995,-0.557,9.76667,16.0,7.0,1.28571,strong_buy,6,0,0,1,1,2026-11-05,2.876,https://www.serverobotics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-03-08,25.00,30.00,23.80,23.80,,,,,,,0,30.0000,0,230860,,,,
 2024-03-11,23.05,23.05,4.20,5.32,,,,,,,0,30.0000,0,91504,,,,
@@ -701,4 +701,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.63,3.25,2.54,3.22,2.73,3.00,3.96,6.04,6.98,2.2387,1,2.2550,1,31328990,12543298,-0.3962,-0.4382,0.0421
 2026-11-09,3.36,3.70,3.31,3.39,2.81,2.98,3.93,6.01,6.94,2.4994,1,2.2550,1,34758688,12921260,-0.3242,-0.4154,0.0912
 2026-11-10,3.26,3.30,3.05,3.11,2.83,2.94,3.89,5.97,6.89,2.4994,1,2.3128,1,14509705,12779524,-0.2865,-0.3896,0.1032
-2026-11-11,3.32,3.33,3.16,3.16,2.84,2.93,3.86,5.94,6.84,2.4994,1,2.3683,1,6629092,12565055,-0.2493,-0.3616,0.1123
+2026-11-11,3.32,3.33,3.16,3.16,2.84,2.93,3.86,5.94,6.84,2.4994,1,2.3683,1,6735120,12567176,-0.2493,-0.3616,0.1123
+2026-11-12,3.00,3.01,2.84,2.90,2.85,2.90,3.82,5.91,6.80,2.4994,1,2.4216,1,7823165,12439991,-0.2380,-0.3369,0.0989

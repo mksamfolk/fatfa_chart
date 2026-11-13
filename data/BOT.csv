@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BOT,Robostrategy Inc.,Financial Services,Asset Management,United States,531607104,21.71,306600,344668,7482742.28,,,,0.0,0.0,0.0,,,,,,,,,,24486741,,0.00042,0.059510004,898372,2.69,,,,,,,,,,,,none,,,,,,,,https://robostrategy.co,2026-11-10T08:26:47.267708+00:00
+0.00,BOT,Robostrategy Inc.,Financial Services,Asset Management,United States,531607104,21.71,306600,344668,7482742.28,,,,0.0,0.0,0.0,,,,,,,,,,24486741,,0.00042,0.059510004,898372,2.69,,,,,,,,,,,,none,,,,,,,,https://robostrategy.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-11,59.00,59.00,23.78,39.00,,,,,,,0,59.0000,0,37514100,,,,
 2026-05-12,39.65,40.00,22.73,25.40,,,,,,,0,59.0000,0,13947140,,,,
@@ -158,3 +158,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,21.90,23.30,21.19,21.71,22.70,23.51,26.02,,,28.1824,0,24.8804,0,10333960,8450675,-1.3345,-1.2546,-0.0799
 2026-11-10,21.40,23.42,19.63,21.04,22.38,23.22,25.92,,,28.1824,0,24.7828,0,13450873,8592784,-1.3743,-1.2785,-0.0958
 2026-11-11,21.45,22.86,20.60,20.84,22.08,22.91,25.83,,,28.1824,0,24.5767,0,5703908,8599572,-1.4058,-1.3040,-0.1019
+2026-11-12,19.99,20.41,18.30,19.66,21.60,22.58,25.70,,,26.5235,0,24.3788,0,11192438,8713738,-1.5086,-1.3449,-0.1637

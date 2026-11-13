@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-77.34,AURA,Aura Biosciences Inc.,Healthcare,Biotechnology,United States,794378816,7.66,747420,898570,6883046.2,,,,0.0,0.0,0.0,-0.53485,-0.31238002,323840000,16594000,5.263,16.821,16.646,-103007000,-56323752,103704809,74643610,0.02434,0.96106005,10885962,10.19,0.10569999,,-3.7733989,,3.557826,,-2.723,16.6,23.0,12.0,,none,5,3,3,1,1,2026-11-09,0.444,https://www.aurabiosciences.com,2026-11-10T08:07:17.224820+00:00
+70.62,AURA,Aura Biosciences Inc.,Healthcare,Biotechnology,United States,794378816,7.66,747420,898570,6883046.2,,,,0.0,0.0,0.0,-0.53485,-0.31238002,323840000,16594000,5.263,16.821,16.646,-103007000,-56323752,103704809,74643610,0.02434,0.96106005,10885962,10.19,0.10569999,,-3.7733989,,3.557826,,-2.723,16.6,23.0,12.0,,none,5,3,3,1,1,2026-11-09,0.444,https://www.aurabiosciences.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,14.10,18.37,14.00,14.80,,,,,,,0,14.0000,1,23289280,,,,
 2021-11-01,14.85,16.90,14.46,15.30,,,,,,,0,14.0000,1,6631020,,,,
@@ -1278,3 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.67,7.70,6.62,7.66,6.46,6.39,6.97,7.04,6.67,5.9146,1,5.9259,1,8645842,5883362,-0.0141,-0.1545,0.1404
 2026-11-10,7.65,7.95,7.42,7.65,6.60,6.46,6.97,7.04,6.68,6.4041,1,5.9968,1,6695280,5940391,0.0729,-0.1090,0.1819
 2026-11-11,7.71,7.72,7.31,7.61,6.72,6.53,6.96,7.05,6.69,6.4041,1,6.1137,1,4934324,5876927,0.1371,-0.0598,0.1969
+2026-11-12,7.53,7.53,7.06,7.11,6.80,6.57,6.94,7.05,6.70,6.4041,1,6.2236,1,7157637,5880269,0.1459,-0.0187,0.1646

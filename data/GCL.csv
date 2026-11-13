@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.37,GCL,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,Singapore,134409136,1.05,238850,515709,541494.4500000001,0.538,,,0.1035,-0.04741,-0.10462,-0.67315,-0.05826,37188076,60061412,146.865,1.517,0.9,-10496806,-36446824,128008703,38799438,0.71935,0.006,282177,1.84,0.0069999998,,,0.56255996,3.6585364,0.675,-13.853,,,,,none,,,,,,2027-01-14,0.25,https://www.gclglobalholdings.com,2026-11-10T09:56:32.696749+00:00
+96.68,GCL,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,Singapore,134409136,1.05,238850,515709,541494.4500000001,0.538,,,0.1035,-0.04741,-0.10462,-0.67315,-0.05826,37188076,60061412,146.865,1.517,0.9,-10496806,-36446824,128008703,38799438,0.71935,0.006,282177,1.84,0.0069999998,,,0.56255996,3.6585364,0.675,-13.853,,,,,none,,,,,,2027-01-14,0.25,https://www.gclglobalholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-20,9.87,9.87,9.86,9.86,,,,,,,0,9.8700,0,493986,,,,
 2022-04-21,9.86,9.86,9.86,9.86,,,,,,,0,9.8700,0,,,,,
@@ -1160,3 +1160,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.14,1.15,0.98,1.05,0.95,0.91,0.74,0.58,0.65,0.8310,1,0.9002,1,468195,415725,0.0855,0.0746,0.0108
 2026-11-10,1.03,1.07,1.03,1.05,0.97,0.92,0.75,0.59,0.65,0.8310,1,0.9359,1,426930,287487,0.0862,0.0770,0.0092
 2026-11-11,1.06,1.06,1.02,1.05,0.99,0.93,0.76,0.59,0.65,0.8310,1,0.9666,1,325605,288199,0.0858,0.0787,0.0071
+2026-11-12,1.06,1.18,1.03,1.16,1.01,0.95,0.78,0.59,0.65,0.8441,1,0.9930,1,437900,292346,0.0932,0.0816,0.0116

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-22 09:30:00-04:00,0.0625\n2026-10-26 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.00,LHSW,Lianhe Sowell International Group Ltd,Technology,Software - Infrastructure,China,12128118,3.81,45850,1172292,4466432.5200000005,-0.147,,,0.214,-0.34932,-0.13161999,-0.44098,-0.11895,2004915,8336983,59.664,1.068,0.853,-8966396,-2395016,2859795,326593,0.09347,0.00189,39435,0.02,0.036,,,0.2802921,0.11158622,0.184,-1.176,,,,,none,,,,,,,,https://ir.cnsoftwell.com,2026-11-10T10:57:11.627745+00:00
+17.49,LHSW,Lianhe Sowell International Group Ltd,Technology,Software - Infrastructure,China,12128118,3.81,45850,1172292,4466432.5200000005,-0.147,,,0.214,-0.34932,-0.13161999,-0.44098,-0.11895,2004915,8336983,59.664,1.068,0.853,-8966396,-2395016,2859795,326593,0.09347,0.00189,39435,0.02,0.036,,,0.2802921,0.11158622,0.184,-1.176,,,,,none,,,,,,,,https://ir.cnsoftwell.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-03,84.80,130.88,68.64,68.64,,,,,,,0,130.8800,0,20016316,,,,
 2025-04-04,65.28,75.68,45.60,46.72,,,,,,,0,130.8800,0,4553752,,,,
@@ -419,3 +419,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.26,4.00,3.21,3.81,4.08,3.33,2.79,2.87,4.01,5.8353,0,2.2340,1,406146,2384802,0.4519,0.5109,-0.0589
 2026-11-10,3.65,3.81,3.31,3.42,4.01,3.48,2.80,2.87,3.98,5.8353,0,2.3573,1,44460,2382898,0.3921,0.4871,-0.0950
 2026-11-11,3.41,3.73,3.40,3.62,3.93,3.64,2.81,2.88,3.94,5.8028,0,2.4782,1,51766,2382104,0.3568,0.4610,-0.1043
+2026-11-12,3.52,3.55,2.70,2.72,3.72,3.75,2.80,2.88,3.89,5.4125,0,2.5966,1,137632,2383788,0.2532,0.4195,-0.1663

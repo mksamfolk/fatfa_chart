@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FBDT,First Breach Inc.,Industrials,Aerospace & Defense,United States,54102916,0.97,237600,2211550,2145203.5,0.001,,,-2.2734,-124.16296,0.0,,,4923504,11965972,873.646,0.459,0.325,-8671925,,55776201,32814812,0.37562,0.00179,630987,0.15,,,,85.2577,34.642857,96.356,-1.905,,,,,none,,,,,,,,https://www.firstbreach.com,2026-11-10T09:38:57.754052+00:00
+0.00,FBDT,First Breach Inc.,Industrials,Aerospace & Defense,United States,54102916,0.97,237600,2211550,2145203.5,0.001,,,-2.2734,-124.16296,0.0,,,4923504,11965972,873.646,0.459,0.325,-8671925,,55776201,32814812,0.37562,0.00179,630987,0.15,,,,85.2577,34.642857,96.356,-1.905,,,,,none,,,,,,,,https://www.firstbreach.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-20,12.00,12.00,2.81,4.15,,,,,,,0,2.8100,1,5051380,,,,
 2026-08-21,3.40,4.19,3.30,3.99,,,,,,,0,2.8100,1,1036602,,,,
@@ -88,3 +88,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.90,0.98,0.90,0.97,0.92,0.86,0.87,,,1.1684,0,0.7952,1,287314,2115966,-0.0155,-0.0345,0.0190
 2026-11-10,0.97,0.97,0.90,0.92,0.93,0.87,0.88,,,1.1684,0,0.8093,1,75992,2098803,-0.0127,-0.0302,0.0175
 2026-11-11,0.98,1.03,0.95,1.00,0.93,0.87,0.88,,,1.1684,0,0.8225,1,379800,2067475,-0.0039,-0.0249,0.0210
+2026-11-12,1.01,1.01,0.96,0.99,0.93,0.88,0.88,,,1.1684,0,0.8350,1,141174,2042104,0.0022,-0.0195,0.0217

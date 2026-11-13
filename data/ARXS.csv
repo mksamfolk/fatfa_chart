@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ARXS,Arxis Inc.,Industrials,Aerospace & Defense,United States,21648080896,50.26,902680,894992,44982297.92,0.36,,,0.53330004,0.23658001,0.115559995,,,493679008,1803579008,33.712,4.7,3.1,448420000,,90045099,79980746,0.13606,0.67664003,5706907,4.61,0.0653,279.2222,36.348118,11.279536,4.046373,11.962,40.712,66.5,72.0,63.0,1.18182,strong_buy,10,1,1,1,0,2027-01-27,,https://www.arxis.com,2026-11-10T08:01:52.397575+00:00
+0.00,ARXS,Arxis Inc.,Industrials,Aerospace & Defense,United States,21648080896,50.26,902680,894992,44982297.92,0.36,,,0.53330004,0.23658001,0.115559995,,,493679008,1803579008,33.712,4.7,3.1,448420000,,90045099,79980746,0.13606,0.67664003,5706907,4.61,0.0653,279.2222,36.348118,11.279536,4.046373,11.962,40.712,66.5,72.0,63.0,1.18182,strong_buy,10,1,1,1,0,2027-01-27,,https://www.arxis.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-16,38.00,39.05,35.25,38.75,,,,,,,0,35.2500,1,746185500,,,,
 2026-04-17,37.67,39.24,37.39,38.00,,,,,,,0,35.2500,1,145255000,,,,
@@ -175,3 +175,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,50.76,52.00,49.83,50.26,51.44,51.76,50.90,,,46.8821,1,55.2338,0,46606096,51269709,-0.1451,0.1756,-0.3207
 2026-11-10,49.46,51.52,49.28,50.84,51.26,51.81,50.88,,,46.8821,1,55.0513,0,31647900,51462622,-0.1406,0.1124,-0.2530
 2026-11-11,51.18,54.50,50.83,54.37,51.29,51.96,50.94,,,46.8821,1,54.8725,0,48030457,52050926,0.1461,0.1191,0.0270
+2026-11-12,53.59,54.99,52.36,53.79,51.17,51.96,50.99,,,46.8821,1,46.1100,1,30095506,52357848,0.3228,0.1599,0.1630

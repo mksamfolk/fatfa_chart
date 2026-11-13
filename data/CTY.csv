@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CTY,City Therapeutics Inc.,Healthcare,Biotechnology,United States,939703680,18.67,231930,338443,6318730.8100000005,0.14,,,0.0,-8.041989,0.0,,,169604992,57037000,45.872,2.713,2.698,-77671000,,50332279,2561289,0.07369,0.5082,0,,,,,65.5211,-0.7495283,16.888,-2.918,,,,,none,,,,,,,,https://www.citytx.com,2026-11-10T09:05:17.751864+00:00
+0.00,CTY,City Therapeutics Inc.,Healthcare,Biotechnology,United States,939703680,18.67,231930,338443,6318730.8100000005,0.14,,,0.0,-8.041989,0.0,,,169604992,57037000,45.872,2.713,2.698,-77671000,,50332279,2561289,0.07369,0.5082,0,,,,,65.5211,-0.7495283,16.888,-2.918,,,,,none,,,,,,,,https://www.citytx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-16,23.00,23.88,20.50,22.40,,,,,,,0,20.5000,1,31496639,,,,
 2026-10-19,21.94,22.00,21.03,21.46,,,,,,,0,20.5000,1,6489504,,,,
@@ -48,3 +48,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,18.30,18.85,17.88,18.67,19.57,,,,,22.3206,0,21.6266,0,4581618,,,,
 2026-11-10,19.18,19.76,18.91,19.62,19.45,,,,,22.3206,0,21.2776,0,8309070,,,,
 2026-11-11,19.63,21.31,16.21,17.01,18.98,,,,,22.3206,0,15.8100,1,7802487,,,,
+2026-11-12,16.96,19.43,16.65,18.98,18.67,19.94,,,,22.3206,0,15.9200,1,4116762,,,,

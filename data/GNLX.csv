@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.75,GNLX,Genelux Corporation,Healthcare,Biotechnology,United States,93657840,2.07,447080,342340,708643.7999999999,,,,1.0,-4552.75,0.0,-1.77931,-0.77889,18670000,2420000,15.019,2.394,2.334,-25277000,-15252750,45245335,36527607,0.12199,0.31764,4643608,18.27,0.10569999,,-2.7538679,11707.23,5.7340717,9563.856,-2.109,18.83333,31.0,12.0,,none,6,2,2,1,1,,0.664,https://www.genelux.com,2026-11-10T10:03:31.553475+00:00
+16.94,GNLX,Genelux Corporation,Healthcare,Biotechnology,United States,93657840,2.07,447080,342340,708643.7999999999,,,,1.0,-4552.75,0.0,-1.77931,-0.77889,18670000,2420000,15.019,2.394,2.334,-25277000,-15252750,45245335,36527607,0.12199,0.31764,4643608,18.27,0.10569999,,-2.7538679,11707.23,5.7340717,9563.856,-2.109,18.83333,31.0,12.0,,none,6,2,2,1,1,,0.664,https://www.genelux.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-01-26,6.00,7.94,5.95,6.15,,,,,,,0,7.9400,0,9506670,,,,
 2023-01-27,6.00,6.20,5.35,6.01,,,,,,,0,7.9400,0,2094485,,,,
@@ -967,3 +967,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.03,2.09,1.93,2.07,2.02,2.14,2.43,2.68,2.71,2.4308,0,1.7700,1,485829,894063,-0.1468,-0.1495,0.0027
 2026-11-10,2.01,2.10,1.92,1.95,2.01,2.11,2.41,2.68,2.69,2.4308,0,1.7764,1,181740,874066,-0.1432,-0.1483,0.0051
 2026-11-11,1.97,2.00,1.86,1.88,1.97,2.09,2.40,2.68,2.69,2.4308,0,1.7893,1,549712,868312,-0.1443,-0.1475,0.0032
+2026-11-12,1.88,1.95,1.81,1.90,1.95,2.06,2.38,2.67,2.68,2.4188,0,1.8018,1,260870,859987,-0.1419,-0.1464,0.0045

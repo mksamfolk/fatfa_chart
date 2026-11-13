@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-03 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PMI,Picard Medical Inc.,Healthcare,Medical Devices,United States,20750364,8.44,51590,1621770,13687738.799999999,0.386,,,0.18603,-1.5670301,0.0,,-0.93614995,38000,1578000,91.958,1.019,0.088,-16043000,-22790376,2458574,1281782,0.41865003,0.06302,51356,0.13,0.0308,,-1.8755555,3.2937086,10.107784,3.377,-1.377,,,,,none,,0,0,0,0,2026-08-14,,https://www.picardmedical.com,2026-11-10T12:09:25.788386+00:00
+0.00,PMI,Picard Medical Inc.,Healthcare,Medical Devices,United States,20750364,8.44,51590,1621770,13687738.799999999,0.386,,,0.18603,-1.5670301,0.0,,-0.93614995,38000,1578000,91.958,1.019,0.088,-16043000,-22790376,2458574,1281782,0.41865003,0.06302,51356,0.13,0.0308,,-1.8755555,3.2937086,10.107784,3.377,-1.377,,,,,none,,0,0,0,0,2026-08-14,,https://www.picardmedical.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,4.54,4.60,4.10,4.49,,,,,,,0,4.1010,1,1366307,,,,
 2026-09-04,4.46,5.35,4.34,4.56,,,,,,,0,4.1010,1,2322408,,,,
@@ -63,3 +63,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,8.16,8.77,8.00,8.44,7.94,9.33,,,,12.8090,0,12.0101,0,166268,,,,
 2026-11-10,8.11,8.51,7.86,8.05,8.06,8.96,,,,12.8090,0,11.6735,0,183540,,,,
 2026-11-11,8.22,8.26,7.80,8.04,8.14,8.73,,,,12.5241,0,11.3571,0,133464,,-0.1169,-0.1281,0.0112
+2026-11-12,7.50,8.34,7.31,7.85,8.11,8.62,,,,12.1810,0,11.0596,0,476495,,-0.1368,-0.1299,-0.0069

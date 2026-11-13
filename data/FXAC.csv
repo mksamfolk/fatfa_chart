@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,129098320,10.22,49150,38446,392918.12000000005,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28432,0.14961,700,0.03,0.0001,,,,1.5338436,,,,,,,none,,,,,,,,,2026-11-10T09:55:01.467989+00:00
+0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,129098320,10.22,49150,38446,392918.12000000005,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28432,0.14961,700,0.03,0.0001,,,,1.5338436,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-07,10.00,10.03,10.00,10.00,,,,,,,0,10.0300,0,81000,,,,
 2026-07-08,10.00,10.01,9.97,10.00,,,,,,,0,10.0300,0,2671000,,,,
@@ -105,3 +105,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.22,10.22,10.22,10.22,10.14,10.12,10.09,,,10.1391,1,10.0183,1,1022,337322,0.0212,0.0153,0.0059
 2026-11-10,10.14,10.17,10.14,10.15,10.14,10.13,10.09,,,10.1391,1,10.0223,1,5351080,439559,0.0204,0.0163,0.0040
 2026-11-11,10.15,10.15,10.15,10.15,10.15,10.13,10.10,,,10.1391,1,10.0263,1,,417430,0.0195,0.0170,0.0025
+2026-11-12,10.16,10.16,10.15,10.15,10.15,10.13,10.10,,,10.1391,1,10.0302,1,4060,372357,0.0186,0.0173,0.0013

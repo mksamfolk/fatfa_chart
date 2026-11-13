@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ACGC,ACP Holdings Acquisition Corp.,Financial Services,Shell Companies,United States,293623712,10.09,87240,36815,371463.35,,,,0.0,0.0,0.0,,,746223,0,,,,,,21946600,,0.01982,0.80747,159,0.0,0.0,,,,-75.29851,,,,,,,none,,,,,,,,,2026-11-10T07:35:15.300466+00:00
+0.00,ACGC,ACP Holdings Acquisition Corp.,Financial Services,Shell Companies,United States,293623712,10.09,87240,36815,371463.35,,,,0.0,0.0,0.0,,,746223,0,,,,,,21946600,,0.01982,0.80747,159,0.0,0.0,,,,-75.29851,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-28,9.94,10.89,9.90,9.93,,,,,,,0,9.9000,1,7631205,,,,
 2026-05-29,9.92,9.93,9.92,9.92,,,,,,,0,9.9000,1,4805248,,,,
@@ -131,3 +131,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.09,10.09,10.09,10.09,10.08,10.07,10.04,,,10.0772,1,9.9267,1,,303183,0.0145,0.0135,0.0010
 2026-11-10,10.09,10.09,10.09,10.09,10.08,10.07,10.04,,,10.0785,1,9.9300,1,,303024,0.0146,0.0137,0.0009
 2026-11-11,10.12,10.12,10.10,10.10,10.08,10.07,10.04,,,10.0906,1,9.9332,1,12120,302727,0.0153,0.0140,0.0012
+2026-11-12,10.10,10.10,10.10,10.10,10.09,10.07,10.04,,,10.0906,1,9.9407,1,,302348,0.0156,0.0143,0.0013

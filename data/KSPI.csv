@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-67.89,KSPI,Joint Stock Company Kaspi.kz,Technology,Software - Infrastructure,Kazakhstan,17000787968,89.465,461620,568135,50828197.775,0.136,0.002,-0.002,0.69443,0.0,0.24152,0.44781,0.13538,,,22.171,6.515,6.099,,-612422385664,190027266,104834242,0.20377001,0.47274,747475,1.55,0.0073,8.200274,0.013149965,,0.0075127087,,,106.15662,135.6217,83.92935,,none,7,1,1,0,0,2026-11-09,0.23,https://ir.kaspi.kz,2026-11-10T10:50:26.540175+00:00
+68.65,KSPI,Joint Stock Company Kaspi.kz,Technology,Software - Infrastructure,Kazakhstan,17000787968,89.465,461620,568135,50828197.775,0.136,0.002,-0.002,0.69443,0.0,0.24152,0.44781,0.13538,,,22.171,6.515,6.099,,-612422385664,190027266,104834242,0.20377001,0.47274,747475,1.55,0.0073,8.200274,0.013149965,,0.0075127087,,,106.15662,135.6217,83.92935,,none,7,1,1,0,0,2026-11-09,0.23,https://ir.kaspi.kz,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-19,81.38,84.43,79.83,84.43,,,,,,,0,84.4277,0,327305689,,,,
 2024-01-22,80.28,81.95,78.86,80.18,,,,,,,0,84.4277,0,92926343,,,,
@@ -736,3 +736,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,89.50,92.11,89.00,89.46,92.19,92.62,95.46,89.17,84.22,98.2094,0,96.1722,0,82361476,51604443,-0.8841,-0.8559,-0.0283
 2026-11-10,90.00,90.32,86.73,87.90,91.90,92.21,95.16,89.28,84.29,97.6828,0,96.0274,0,82863331,52076572,-1.1539,-0.9155,-0.2384
 2026-11-11,89.00,90.60,88.18,89.44,91.70,91.94,94.91,89.40,84.37,97.6828,0,95.6555,0,31089345,51543487,-1.2293,-0.9782,-0.2510
+2026-11-12,88.00,89.63,87.29,88.64,91.10,91.63,94.60,89.53,84.44,97.3096,0,95.2984,0,33452736,51446073,-1.3382,-1.0502,-0.2879

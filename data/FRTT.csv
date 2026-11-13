@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FRTT,Fort Technology Inc.,Consumer Defensive,Household & Personal Products,Canada,6660855,0.4428,89100,5059107,2240172.5796000003,0.602,,,0.14286,-0.24410999,-0.53287,-2.49574,-0.36856997,781000,910000,18.052,2.407,0.632,-1491000,-3324878,15042582,4243231,0.69932,0.024519999,5787,0.09,,,,0.5016082,1.3100592,0.507,-2.713,,,,,none,,,,,,2026-11-11,1.334,,2026-11-10T09:51:11.057031+00:00
+0.00,FRTT,Fort Technology Inc.,Consumer Defensive,Household & Personal Products,Canada,6660855,0.4428,89100,5059107,2240172.5796000003,0.602,,,0.14286,-0.24410999,-0.53287,-2.49574,-0.36856997,781000,910000,18.052,2.407,0.632,-1491000,-3324878,15042582,4243231,0.69932,0.024519999,5787,0.09,,,,0.5016082,1.3100592,0.507,-2.713,,,,,none,,,,,,2026-11-11,1.334,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-08,3.88,4.09,2.66,3.40,,,,,,,0,4.0900,0,392700,,,,
 2026-06-09,3.18,3.18,2.04,2.64,,,,,,,0,4.0900,0,256080,,,,
@@ -124,3 +124,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.45,0.46,0.44,0.44,0.52,0.59,0.82,,,0.6682,0,0.7389,0,14168,5714097,-0.1001,-0.0955,-0.0046
 2026-11-10,0.44,0.44,0.43,0.43,0.49,0.57,0.81,,,0.6344,0,0.7142,0,9460,5713918,-0.1010,-0.0966,-0.0044
 2026-11-11,0.41,0.43,0.41,0.43,0.48,0.56,0.79,,,0.6054,0,0.6914,0,10148,3423295,-0.1006,-0.0974,-0.0032
+2026-11-12,0.41,0.45,0.41,0.42,0.47,0.55,0.78,,,0.6054,0,0.6633,0,33894,3390188,-0.0999,-0.0979,-0.0020

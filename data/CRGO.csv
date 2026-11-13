@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.54,CRGO,Freightos Limited,Technology,Software - Application,Spain,36636784,0.695,117210,189798,131909.61,0.034,,,0.66886,-0.46106,-0.56236,-0.39426,-0.17900999,21369000,2166000,5.918,1.882,1.666,-12321000,-7305875,52714800,35467251,0.31124002,0.26291,35929,0.48,0.00090000004,,-5.7916665,1.2243278,0.98862016,0.568,-1.089,2.75,3.0,2.5,,none,2,1,1,1,1,2026-11-23,1.264,https://www.freightos.com,2026-11-10T09:00:35.116093+00:00
+9.77,CRGO,Freightos Limited,Technology,Software - Application,Spain,36636784,0.695,117210,189798,131909.61,0.034,,,0.66886,-0.46106,-0.56236,-0.39426,-0.17900999,21369000,2166000,5.918,1.882,1.666,-12321000,-7305875,52714800,35467251,0.31124002,0.26291,35929,0.48,0.00090000004,,-5.7916665,1.2243278,0.98862016,0.568,-1.089,2.75,3.0,2.5,,none,2,1,1,1,1,2026-11-23,1.264,https://www.freightos.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-17,9.71,9.80,9.71,9.78,,,,,,,0,9.7100,1,3952098,,,,
 2021-11-18,9.78,10.03,9.73,9.78,,,,,,,0,9.7100,1,3067008,,,,
@@ -1265,3 +1265,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.65,0.69,0.59,0.69,0.67,0.72,1.02,1.44,1.57,0.8076,0,0.5800,1,39337,307949,-0.0985,-0.1130,0.0146
 2026-11-10,0.69,0.79,0.69,0.76,0.68,0.71,1.01,1.43,1.56,0.8076,0,0.5828,1,70670,309171,-0.0852,-0.1075,0.0223
 2026-11-11,0.75,0.77,0.70,0.75,0.68,0.71,1.00,1.43,1.55,0.8076,0,0.5910,1,49075,309608,-0.0745,-0.1009,0.0263
+2026-11-12,0.79,0.82,0.73,0.76,0.69,0.71,0.99,1.42,1.55,0.8076,0,0.5989,1,45764,310138,-0.0646,-0.0936,0.0290

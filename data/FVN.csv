@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-82.91,FVN,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,China,89999920,11.93,7430,61856,737942.08,,-0.257,-0.257,0.0,0.0,0.0,0.9146,-0.00415,788401,765900,,64.736,0.801,-342862,-63077176,7544000,5612510,0.49735,0.84400004,18299,0.8,0.0078,47.72,,,-596.5,,,,,,,none,,,,,,,-0.111,,2026-11-10T09:54:23.039221+00:00
+88.44,FVN,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,China,89999920,11.93,7430,61856,737942.08,,-0.257,-0.257,0.0,0.0,0.0,0.9146,-0.00415,788401,765900,,64.736,0.801,-342862,-63077176,7544000,5612510,0.49735,0.84400004,18299,0.8,0.0078,47.72,,,-596.5,,,,,,,none,,,,,,,-0.111,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-04,9.97,9.97,9.97,9.97,,,,,,,0,9.9700,0,1008964,,,,
 2024-11-05,9.96,9.97,9.96,9.97,,,,,,,0,9.9700,0,2610146,,,,
@@ -521,3 +521,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.61,11.93,10.61,11.93,11.73,11.18,10.93,10.86,10.81,8.5980,1,8.6111,1,5965,849322,0.3746,0.3449,0.0297
 2026-11-10,10.99,15.09,10.99,14.04,12.02,11.46,10.98,10.89,10.82,8.5980,1,8.7133,1,94068,821972,0.5473,0.3854,0.1619
 2026-11-11,13.27,15.09,12.31,13.60,12.18,11.70,11.03,10.90,10.84,8.7986,1,8.9683,1,156400,806630,0.6412,0.4366,0.2047
+2026-11-12,12.45,14.85,12.32,12.96,12.25,11.88,11.07,10.92,10.85,8.7986,1,9.2132,1,154224,783502,0.6565,0.4805,0.1759

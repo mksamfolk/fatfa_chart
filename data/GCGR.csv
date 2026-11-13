@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GCGR,General Catalyst Global Resilience Merger Corp.,Financial Services,Shell Companies,United States,463709920,10.04,42840,52565,527752.6,,,,0.0,0.0,0.0,,,1238941,0,,,,,,41155000,,0.00049,0.54697,842,0.03,0.0,,,,-34.26621,,,,,,,none,,,,,,,,https://globalresiliencemergercorp.com,2026-11-10T09:56:28.793012+00:00
+0.00,GCGR,General Catalyst Global Resilience Merger Corp.,Financial Services,Shell Companies,United States,463709920,10.04,42840,52565,527752.6,,,,0.0,0.0,0.0,,,1238941,0,,,,,,41155000,,0.00049,0.54697,842,0.03,0.0,,,,-34.26621,,,,,,,none,,,,,,,,https://globalresiliencemergercorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,10.07,10.22,10.07,10.22,,,,,,,0,10.2200,0,100156,,,,
 2026-06-23,10.00,10.11,9.96,10.08,,,,,,,0,10.2200,0,306432,,,,
@@ -115,3 +115,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.01,10.01,10.01,10.01,10.04,10.03,10.11,,,10.0889,0,9.9671,1,,614788,-0.0233,-0.0258,0.0025
 2026-11-10,10.01,10.01,10.01,10.01,10.04,10.03,10.10,,,10.0889,0,9.9698,1,,614788,-0.0234,-0.0253,0.0020
 2026-11-11,9.99,10.00,9.99,10.00,10.04,10.02,10.10,,,10.0834,0,9.9724,1,403000,621818,-0.0240,-0.0251,0.0011
+2026-11-12,10.05,10.05,10.00,10.00,10.04,10.02,10.10,,,10.0834,0,9.9749,1,1006000,641938,-0.0242,-0.0249,0.0007

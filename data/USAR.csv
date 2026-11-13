@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.09,USAR,USA Rare Earth Inc.,Basic Materials,Other Industrial Metals & Mining,United States,3285670912,8.76,15711560,13543125,118637775.0,,,,-1.30933,-47.11626,0.0,-0.04971,-0.04099,1090877056,308908000,6.401,6.621,5.96,-246908992,-311636640,375076567,171451340,0.33653998,0.38047,51499945,3.69,0.1377,,292.0,203.2709,0.44512194,70.442,-4.94,35.125,45.0,21.0,,none,8,0,1,2,2,2026-11-09,,https://www.usare.com,2026-11-10T13:34:36.584200+00:00
+10.28,USAR,USA Rare Earth Inc.,Basic Materials,Other Industrial Metals & Mining,United States,3285670912,8.76,15711560,13543125,118637775.0,,,,-1.30933,-47.11626,0.0,-0.04971,-0.04099,1090877056,308908000,6.401,6.621,5.96,-246908992,-311636640,375076567,171451340,0.33653998,0.38047,51499945,3.69,0.1377,,292.0,203.2709,0.44512194,70.442,-4.94,35.125,45.0,21.0,,none,8,0,1,2,2,2026-11-09,,https://www.usare.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-17,10.12,10.16,10.07,10.07,,,,,,,0,10.1590,0,105735,,,,
 2023-07-18,10.07,10.09,10.07,10.09,,,,,,,0,10.1590,0,18162,,,,
@@ -864,4 +864,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.78,8.29,7.47,8.23,9.13,9.79,13.23,18.29,18.63,10.1592,0,10.2906,0,109589083,175461577,-1.4254,-1.4007,-0.0247
 2026-11-09,8.39,9.14,8.16,8.76,9.12,9.63,13.04,18.25,18.55,10.1592,0,10.0146,0,176119805,174325031,-1.3505,-1.3906,0.0401
 2026-11-10,8.26,8.60,7.62,7.92,8.87,9.47,12.85,18.19,18.45,10.1592,0,9.7606,0,188850818,175564373,-1.3434,-1.3812,0.0377
-2026-11-11,8.28,8.83,8.18,8.27,8.65,9.36,12.67,18.13,18.36,10.1592,0,9.5270,0,136346058,174883514,-1.2951,-1.3640,0.0689
+2026-11-11,8.28,8.83,8.18,8.27,8.65,9.36,12.67,18.13,18.36,10.1592,0,9.5270,0,137128753,174899168,-1.2951,-1.3640,0.0689
+2026-11-12,7.93,8.47,7.69,8.07,8.40,9.21,12.47,18.08,18.28,10.1592,0,9.3120,0,183840242,175692626,-1.2580,-1.3428,0.0848

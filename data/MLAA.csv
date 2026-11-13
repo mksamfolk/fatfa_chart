@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MLAA,Mountain Lake Acquisition Corp. II,Financial Services,Shell Companies,United States,491759200,10.04,21590,75243,755439.72,,,,0.0,0.0,0.0,,,1146565,0,,0.029,,0,,36980000,36470018,0.013789999,0.88697,457,0.0,0.0,,,,-2008.0,,,,,,,none,,,,,,,,,2026-11-10T11:16:49.426698+00:00
+0.00,MLAA,Mountain Lake Acquisition Corp. II,Financial Services,Shell Companies,United States,491759200,10.04,21590,75243,755439.72,,,,0.0,0.0,0.0,,,1146565,0,,0.029,,0,,36980000,36470018,0.013789999,0.88697,457,0.0,0.0,,,,-2008.0,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-19,9.73,11.20,9.40,9.86,,,,,,,0,9.4000,1,281996,,,,
 2026-03-20,9.80,9.82,9.80,9.80,,,,,,,0,9.4000,1,181300,,,,
@@ -179,3 +179,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.02,10.04,10.02,10.04,10.02,10.02,10.01,,,10.0085,1,10.0497,0,64256,807425,0.0060,0.0053,0.0007
 2026-11-10,10.03,10.03,10.03,10.03,10.02,10.02,10.01,,,10.0085,1,10.0487,0,602803,819482,0.0062,0.0055,0.0008
 2026-11-11,10.03,10.03,10.03,10.03,10.02,10.02,10.01,9.97,,10.0099,1,10.0477,0,4012,811905,0.0063,0.0056,0.0007
+2026-11-12,10.03,10.03,10.03,10.03,10.03,10.02,10.01,9.97,,10.0119,1,10.0467,0,,811905,0.0063,0.0058,0.0006

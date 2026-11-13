@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.03,SZZL,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,United States,329550688,10.54,15150,56284,593233.36,,-0.475,-0.122,0.0,0.0,0.0,,,340147,0,,1.127,0.865,-743613,,23600000,19699876,0.06903,1.0716001,522,0.01,0.0,42.16,,,-30.200573,,,,,,,none,,,,,,,,https://www.sizzlespacII.com,2026-11-10T13:09:23.111295+00:00
+58.61,SZZL,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,United States,329550688,10.54,15150,56284,593233.36,,-0.475,-0.122,0.0,0.0,0.0,,,340147,0,,1.127,0.865,-743613,,23600000,19699876,0.06903,1.0716001,522,0.01,0.0,42.16,,,-30.200573,,,,,,,none,,,,,,,,https://www.sizzlespacII.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-23,9.86,9.93,9.86,9.91,,,,,,,0,9.8600,1,14389320,,,,
 2025-05-27,9.90,9.91,9.90,9.90,,,,,,,0,9.8600,1,4082841,,,,
@@ -384,3 +384,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.54,10.54,10.54,10.54,10.53,10.52,10.48,10.38,10.34,10.5176,1,10.5101,1,268770,710797,0.0170,0.0175,-0.0006
 2026-11-10,10.55,10.55,10.54,10.54,10.53,10.52,10.48,10.38,10.35,10.5209,1,10.5125,1,1312230,723189,0.0167,0.0174,-0.0006
 2026-11-11,10.54,10.54,10.54,10.54,10.53,10.52,10.49,10.38,10.35,10.5209,1,10.5157,1,,714091,0.0164,0.0172,-0.0008
+2026-11-12,10.54,10.55,10.54,10.54,10.53,10.52,10.49,10.38,10.35,10.5245,1,10.5187,1,558620,716207,0.0159,0.0169,-0.0010

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PS,Pershing Square Inc.,Financial Services,Asset Management,United States,20780001280,51.95,445740,436807,22692123.650000002,-0.145,,,0.2474,-0.35451,-0.20979,-0.11935,0.00055,767680,314740512,22.363,0.193,0.034,200390288,214005200,400000000,,0.40572,0.81429,2203403,3.22,0.031400003,,59.134216,27.373852,15.306423,27.853,618.47,44.0,51.0,38.0,3.3,hold,9,0,0,1,4,,,https://pershingsquareinc.com,2026-11-10T12:15:00.266691+00:00
+0.00,PS,Pershing Square Inc.,Financial Services,Asset Management,United States,20780001280,51.95,445740,436807,22692123.650000002,-0.145,,,0.2474,-0.35451,-0.20979,-0.11935,0.00055,767680,314740512,22.363,0.193,0.034,200390288,214005200,400000000,,0.40572,0.81429,2203403,3.22,0.031400003,,59.134216,27.373852,15.306423,27.853,618.47,44.0,51.0,38.0,3.3,hold,9,0,0,1,4,,,https://pershingsquareinc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-29,23.92,24.40,21.93,24.12,,,,,,,0,21.9333,1,79523623,,,,
 2026-04-30,25.26,32.39,24.91,27.90,,,,,,,0,21.9333,1,66021200,,,,
@@ -166,3 +166,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,53.09,53.46,48.08,51.95,49.00,47.32,47.51,,,54.8560,0,43.9625,1,48048556,24138670,0.6394,0.1086,0.5308
 2026-11-10,51.06,51.06,44.20,44.20,48.75,47.15,47.53,,,54.8560,0,53.4600,0,40624221,24809690,0.1856,0.1240,0.0615
 2026-11-11,47.40,47.40,44.00,44.52,48.34,47.09,47.65,,,54.8560,0,53.4600,0,22509312,25109417,-0.1466,0.0699,-0.2165
+2026-11-12,43.12,44.47,42.95,44.01,47.82,46.96,47.80,,,54.8560,0,53.0816,0,19100339,25210228,-0.4459,-0.0333,-0.4126

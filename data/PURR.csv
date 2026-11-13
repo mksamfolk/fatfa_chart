@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PURR,Hyperliquid Strategies Inc.,Financial Services,Capital Markets,United States,2479397120,8.91,21515210,20709026,184517421.66,,,,1.0,65.93331,43.276966,,,254572000,0,,41.642,41.466,-36122000,,278271288,273623669,0.03675,0.47792998,23056306,1.2,0.0836,3.7754238,26.205881,114.2053,0.7134278,101.961,,22.5,35.0,17.0,1.25,strong_buy,4,1,2,0,0,2026-11-05,,https://www.hypestrat.xyz,2026-11-10T12:17:20.406556+00:00
+0.00,PURR,Hyperliquid Strategies Inc.,Financial Services,Capital Markets,United States,2479397120,8.91,21515210,20709026,184517421.66,,,,1.0,65.93331,43.276966,,,254572000,0,,41.642,41.466,-36122000,,278271288,273623669,0.03675,0.47792998,23056306,1.2,0.0836,3.7754238,26.205881,114.2053,0.7134278,101.961,,22.5,35.0,17.0,1.25,strong_buy,4,1,2,0,0,2026-11-05,,https://www.hypestrat.xyz,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-03,4.25,4.65,3.33,3.90,,,,,,,0,3.3300,1,16225170,,,,
 2025-12-04,3.99,4.00,3.40,3.60,,,,,,,0,3.3300,1,7590960,,,,
@@ -265,4 +265,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,8.96,9.26,8.52,8.81,9.93,9.67,11.22,8.80,7.80,8.7351,1,12.2432,0,94932256,235516203,-0.4280,-0.3885,-0.0395
 2026-11-09,8.47,9.15,8.44,8.91,9.92,9.60,11.17,8.82,7.83,8.7351,1,12.1581,0,118936024,229067887,-0.4612,-0.4030,-0.0582
 2026-11-10,8.57,8.93,8.47,8.75,9.81,9.53,11.10,8.85,7.86,8.7351,1,12.0748,0,86035250,220840245,-0.4948,-0.4214,-0.0734
-2026-11-11,8.98,9.22,8.73,9.15,9.72,9.51,11.05,8.87,7.88,8.7351,1,11.9931,0,92423231,217167023,-0.4835,-0.4338,-0.0497
+2026-11-11,8.98,9.22,8.73,9.15,9.72,9.51,11.05,8.87,7.88,8.7351,1,11.9931,0,93857036,217195699,-0.4835,-0.4338,-0.0497
+2026-11-12,8.42,9.05,8.41,8.81,9.38,9.46,11.00,8.89,7.90,8.7351,1,11.9130,0,86231770,214794896,-0.4967,-0.4464,-0.0503

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.85,SSEA,Starry Sea Acquisition Corp,Financial Services,Shell Companies,United States,79489424,10.41,0,8025,83540.25,,,,0.0,0.0,0.0,,,6081,198432,9.483,0.336,0.026,-807576,,7635871,5568077,0.31877002,0.51629,369,0.05,0.0001,,,,37.992702,,,,,,,none,,,,,,,,,2026-11-10T13:01:31.814304+00:00
+59.69,SSEA,Starry Sea Acquisition Corp,Financial Services,Shell Companies,United States,79489424,10.41,0,8025,83540.25,,,,0.0,0.0,0.0,,,6081,198432,9.483,0.336,0.026,-807576,,7635871,5568077,0.31877002,0.51629,369,0.05,0.0001,,,,37.992702,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-02,10.00,10.00,9.93,9.93,,,,,,,0,10.0000,0,1686114,,,,
 2025-10-03,9.93,9.94,9.93,9.94,,,,,,,0,10.0000,0,860242,,,,
@@ -294,3 +294,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.41,10.41,10.41,10.41,10.41,10.40,10.37,10.26,10.22,10.4709,0,10.7918,0,,69715,0.0095,0.0139,-0.0044
 2026-11-10,10.44,10.44,10.44,10.44,10.41,10.41,10.37,10.27,10.22,10.4709,0,10.7828,0,2088,69757,0.0112,0.0134,-0.0022
 2026-11-11,10.46,10.46,10.45,10.45,10.42,10.41,10.37,10.27,10.22,10.4709,0,10.7739,0,25080,70258,0.0131,0.0133,-0.0002
+2026-11-12,10.45,10.45,10.45,10.45,10.42,10.41,10.38,10.27,10.23,10.4709,0,10.7653,0,,70258,0.0145,0.0136,0.0010

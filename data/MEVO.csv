@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MEVO,M Evo Global Acquisition Corp II,Financial Services,Shell Companies,United States,401200000,10.03,7760,100392,1006931.7599999999,,,,0.0,0.0,0.0,,,947796,0,,0.113,,0,,30000000,27370000,0.01792,0.87205005,2947,0.07,0.0001,,,,-36.472725,,,,,,,none,,,,,,,,,2026-11-10T11:13:15.507085+00:00
+0.00,MEVO,M Evo Global Acquisition Corp II,Financial Services,Shell Companies,United States,401200000,10.03,7760,100392,1006931.7599999999,,,,0.0,0.0,0.0,,,947796,0,,0.113,,0,,30000000,27370000,0.01792,0.87205005,2947,0.07,0.0001,,,,-36.472725,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-19,9.88,9.95,9.86,9.86,,,,,,,0,9.9500,0,1313352,,,,
 2026-02-20,9.87,9.87,9.86,9.86,,,,,,,0,9.9500,0,83810,,,,
@@ -199,3 +199,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.03,10.03,10.03,10.03,10.02,10.02,10.01,9.94,,10.0611,0,10.5386,0,,1080108,0.0052,0.0048,0.0004
 2026-11-10,10.03,10.03,10.03,10.03,10.02,10.02,10.01,9.94,,10.0580,0,10.5170,0,2024054,1120589,0.0053,0.0049,0.0003
 2026-11-11,10.04,10.04,10.04,10.04,10.03,10.02,10.01,9.94,,10.0580,0,10.4963,0,18072,1120751,0.0060,0.0051,0.0009
+2026-11-12,10.04,10.04,10.04,10.04,10.03,10.02,10.01,9.95,,10.0580,0,10.4765,0,,1113652,0.0066,0.0054,0.0011

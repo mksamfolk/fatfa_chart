@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-05-16 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.53,PDC,Perpetuals.com Ltd,Technology,Software - Application,Japan,20609910,2.54,110110,52243,132697.22,-0.386,,,0.59453,-4.4159603,0.0,-0.72519994,-0.08935001,135906752,705377408,9.419,0.119,0.106,-641442432,1432163328,8114138,5388193,0.10774,0.12217,6973,0.22,0.0011,,,0.08041286,0.7210777,16.796,-5.96,,,,,none,,,,,,,2.474,https://www.perpetuals.com,2026-11-10T12:01:41.023717+00:00
+11.60,PDC,Perpetuals.com Ltd,Technology,Software - Application,Japan,20609910,2.54,110110,52243,132697.22,-0.386,,,0.59453,-4.4159603,0.0,-0.72519994,-0.08935001,135906752,705377408,9.419,0.119,0.106,-641442432,1432163328,8114138,5388193,0.10774,0.12217,6973,0.22,0.0011,,,0.08041286,0.7210777,16.796,-5.96,,,,,none,,,,,,,2.474,https://www.perpetuals.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-07-25,17.50,21.15,16.30,18.00,,,,,,,0,21.1500,0,11444040,,,,
 2023-07-26,16.40,17.82,15.59,16.75,,,,,,,0,21.1500,0,6787100,,,,
@@ -844,3 +844,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.62,2.68,2.24,2.54,2.38,2.63,2.91,4.63,4.80,3.5956,0,2.9203,0,90424,158754,-0.1958,-0.1966,0.0008
 2026-11-10,2.89,2.89,2.20,2.44,2.42,2.59,2.90,4.62,4.78,3.5956,0,1.8000,1,58072,158376,-0.1843,-0.1942,0.0098
 2026-11-11,2.44,2.79,2.14,2.16,2.34,2.54,2.88,4.60,4.76,3.5956,0,1.8218,1,44301,155918,-0.1955,-0.1944,-0.0011
+2026-11-12,2.19,2.19,1.99,2.06,2.31,2.48,2.86,4.58,4.74,3.5956,0,1.8432,1,109592,152772,-0.2101,-0.1976,-0.0125

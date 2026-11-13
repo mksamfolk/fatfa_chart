@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.48,PAII,Pyrophyte Acquisition Corp. II,Financial Services,Shell Companies,United States,282484800,10.36,77250,113459,1175435.24,,,,0.0,0.0,0.0,,,1136,0,,11.641,6.92,-1359141,,20041150,20041150,0.00125,0.95462996,335,0.0,0.0,,,,-30.292397,,,,,,,none,,,,,,,,https://www.pyrophytespac.com,2026-11-10T11:57:48.164939+00:00
+57.84,PAII,Pyrophyte Acquisition Corp. II,Financial Services,Shell Companies,United States,282484800,10.36,77250,113459,1175435.24,,,,0.0,0.0,0.0,,,1136,0,,11.641,6.92,-1359141,,20041150,20041150,0.00125,0.95462996,335,0.0,0.0,,,,-30.292397,,,,,,,none,,,,,,,,https://www.pyrophytespac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-11,9.94,9.94,9.92,9.93,,,,,,,0,9.9400,0,18075580,,,,
 2025-09-12,9.93,9.93,9.92,9.92,,,,,,,0,9.9400,0,5589920,,,,
@@ -309,3 +309,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.44,10.44,10.35,10.36,10.34,10.33,10.31,10.22,10.20,10.3611,0,10.3151,1,6216,1224339,0.0133,0.0121,0.0012
 2026-11-10,10.44,10.44,10.38,10.38,10.35,10.33,10.31,10.23,10.20,10.3370,1,10.3226,1,2076,1224380,0.0153,0.0127,0.0026
 2026-11-11,10.44,10.44,10.38,10.38,10.35,10.34,10.31,10.23,10.20,10.3370,1,10.3296,1,10380,1224588,0.0168,0.0135,0.0032
+2026-11-12,10.44,10.44,10.37,10.38,10.36,10.34,10.31,10.23,10.20,10.3370,1,10.3362,1,1084710,1246282,0.0177,0.0144,0.0033

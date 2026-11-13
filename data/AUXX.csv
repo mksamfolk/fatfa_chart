@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AUXX,Gold X2 Mining Inc.,Basic Materials,Gold,Canada,418399200,4.135,22480,33361,137947.735,,,,0.0,0.0,0.0,-0.31294,-0.19208999,105564432,137981,0.088,3.677,3.647,-38833976,-13450032,101184808,87724193,0.19184,0.11979,422325,13.91,,,,,3.7488263,,-6.091,,,,,none,,,,,,2026-11-26,2.701,https://goldx2.com,2026-11-10T08:07:37.473163+00:00
+0.00,AUXX,Gold X2 Mining Inc.,Basic Materials,Gold,Canada,418399200,4.135,22480,33361,137947.735,,,,0.0,0.0,0.0,-0.31294,-0.19208999,105564432,137981,0.088,3.677,3.647,-38833976,-13450032,101184808,87724193,0.19184,0.11979,422325,13.91,,,,,3.7488263,,-6.091,,,,,none,,,,,,2026-11-26,2.701,https://goldx2.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-08,7.87,8.14,7.49,7.49,,,,,,,0,8.1400,0,1116759,,,,
 2026-09-09,7.41,7.79,7.03,7.04,,,,,,,0,8.1400,0,815232,,,,
@@ -76,3 +76,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.10,4.18,4.10,4.14,3.94,4.15,,,,4.4488,0,3.5100,1,239292,,-0.3529,-0.4279,0.0749
 2026-11-10,3.99,4.00,3.85,3.92,3.92,4.10,,,,4.4488,0,3.5234,1,25480,,-0.3353,-0.4093,0.0741
 2026-11-11,3.98,3.98,3.63,3.73,3.87,4.07,,,,4.4488,0,3.5365,1,245061,,-0.3328,-0.3940,0.0612
+2026-11-12,3.73,3.73,3.58,3.73,3.85,4.03,,,,4.4387,0,3.5494,1,23126,,-0.3271,-0.3806,0.0536

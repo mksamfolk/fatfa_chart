@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-31 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.34,MODD,Modular Medical Inc.,Healthcare,Medical Devices,United States,17567272,1.85,66800,263850,488122.5,,,,0.0,0.0,0.0,-2.47941,-1.29116,3920000,278000,2.583,3.254,2.793,-24353000,-17973750,9495823,7142729,0.014730001,0.24308,279374,2.02,0.0299,,-3.6274512,,0.9575569,,-0.448,,,,,none,,,,,,,0.333,https://www.modularmedical.com,2026-11-10T11:19:40.678417+00:00
+8.67,MODD,Modular Medical Inc.,Healthcare,Medical Devices,United States,17567272,1.85,66800,263850,488122.5,,,,0.0,0.0,0.0,-2.47941,-1.29116,3920000,278000,2.583,3.254,2.793,-24353000,-17973750,9495823,7142729,0.014730001,0.24308,279374,2.02,0.0299,,-3.6274512,,0.9575569,,-0.448,,,,,none,,,,,,,0.333,https://www.modularmedical.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-10,124.50,127.50,109.50,111.30,,,,,,,0,109.5000,1,2277532,,,,
 2022-02-11,174.00,181.50,120.60,127.80,,,,,,,0,109.5000,1,49412593,,,,
@@ -1207,3 +1207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.33,1.86,1.31,1.85,1.67,1.83,2.50,3.69,5.73,2.2543,0,1.9220,0,505050,814206,-0.2803,-0.2929,0.0125
 2026-11-10,1.81,1.91,1.61,1.67,1.67,1.80,2.49,3.65,5.68,2.2543,0,1.1950,1,161656,814967,-0.2634,-0.2870,0.0235
 2026-11-11,1.85,1.85,1.68,1.70,1.65,1.79,2.49,3.62,5.63,2.2543,0,1.2093,1,55760,814116,-0.2448,-0.2785,0.0337
+2026-11-12,1.66,2.05,1.59,1.69,1.65,1.77,2.48,3.59,5.58,2.2543,0,1.2233,1,395291,775625,-0.2282,-0.2685,0.0403

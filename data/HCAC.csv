@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HCAC,Hall Chadwick Acquisition Corp.,Financial Services,Shell Companies,Singapore,296352512,10.15,26570,57903,587715.4500000001,,,,0.0,0.0,0.0,,,35741,0,,11.934,10.602,-334589,,21314000,19311966,0.01783,0.9763,521,0.0,0.0,,,,-78.682175,,,,,,,none,,,,,,,,https://www.hcacq.com,2026-11-10T10:12:40.797402+00:00
+0.00,HCAC,Hall Chadwick Acquisition Corp.,Financial Services,Shell Companies,Singapore,296352512,10.15,26570,57903,587715.4500000001,,,,0.0,0.0,0.0,,,35741,0,,11.934,10.602,-334589,,21314000,19311966,0.01783,0.9763,521,0.0,0.0,,,,-78.682175,,,,,,,none,,,,,,,,https://www.hcacq.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-27,9.95,9.98,9.93,9.94,,,,,,,0,9.9800,0,3277218,,,,
 2026-01-28,9.93,9.96,9.91,9.95,,,,,,,0,9.9800,0,1312069,,,,
@@ -215,3 +215,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.15,10.15,10.15,10.15,10.14,10.14,10.11,10.04,,10.1524,0,10.1216,1,,455752,0.0087,0.0086,0.0001
 2026-11-10,10.16,10.18,10.16,10.18,10.15,10.14,10.12,10.04,,10.1447,1,10.1224,1,463190,464915,0.0111,0.0091,0.0020
 2026-11-11,10.18,10.18,10.18,10.18,10.15,10.14,10.12,10.05,,10.1572,1,10.1247,1,1018,464734,0.0129,0.0099,0.0030
+2026-11-12,10.18,10.22,10.18,10.19,10.16,10.14,10.12,10.05,,10.1635,1,10.1269,1,231426,468254,0.0154,0.0110,0.0044

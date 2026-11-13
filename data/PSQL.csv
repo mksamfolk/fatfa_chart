@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PSQL,Pasqal Holding SA,Technology,Computer Hardware,France,938338176,4.42,573860,793471,3507141.82,,,,0.60648996,-2.13252,0.0,-6.53632,-0.20113,,,,0.675,0.588,-24270000,-18221750,212293691,5843335,0.52459997,0.49942002,810194,1.0,0.0058999998,,-19.037184,39.62744,-6.366367,,,13.824262,16.103693,10.065087,1.2,strong_buy,5,0,0,0,0,2026-09-24,,https://www.pasqal.com,2026-11-10T12:15:52.041974+00:00
+0.00,PSQL,Pasqal Holding SA,Technology,Computer Hardware,France,938338176,4.42,573860,793471,3507141.82,,,,0.60648996,-2.13252,0.0,-6.53632,-0.20113,,,,0.675,0.588,-24270000,-18221750,212293691,5843335,0.52459997,0.49942002,810194,1.0,0.0058999998,,-19.037184,39.62744,-6.366367,,,13.824262,16.103693,10.065087,1.2,strong_buy,5,0,0,0,0,2026-09-24,,https://www.pasqal.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-28,9.95,9.95,9.91,9.95,,,,,,,0,9.9500,0,174125,,,,
 2026-01-29,9.91,9.94,9.91,9.94,,,,,,,0,9.9500,0,69580,,,,
@@ -229,3 +229,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.50,5.00,4.25,4.42,5.02,5.42,7.02,9.28,,5.7276,0,5.3840,0,3859544,6318115,-0.6795,-0.6451,-0.0345
 2026-11-10,4.38,4.59,4.19,4.46,4.90,5.33,6.76,9.24,,5.7276,0,5.2312,0,2860198,5678960,-0.6739,-0.6508,-0.0231
 2026-11-11,4.52,4.67,4.41,4.52,4.80,5.26,6.54,9.20,9.40,5.7276,0,5.0966,0,1552620,5127104,-0.6570,-0.6521,-0.0049
+2026-11-12,4.36,4.47,4.04,4.04,4.68,5.17,6.38,9.16,9.37,5.6736,0,4.9782,0,2197356,5034961,-0.6746,-0.6566,-0.0180

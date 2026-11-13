@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AVLN,Avalyn Pharma Inc.,Healthcare,Biotechnology,United States,1307826304,29.5,585260,311762,9196979.0,,,,0.0,0.0,0.0,,,352424992,17109000,4.295,33.119,32.76,-97479000,,44333095,27409823,0.0,1.0417501,2354271,7.21,0.0531,,-11.434109,,3.28325,,-8.857,61.8,80.0,52.0,,none,5,0,0,0,0,2026-11-16,,https://www.avalynpharma.com,2026-11-10T08:08:28.584147+00:00
+0.00,AVLN,Avalyn Pharma Inc.,Healthcare,Biotechnology,United States,1307826304,29.5,585260,311762,9196979.0,,,,0.0,0.0,0.0,,,352424992,17109000,4.295,33.119,32.76,-97479000,,44333095,27409823,0.0,1.0417501,2354271,7.21,0.0531,,-11.434109,,3.28325,,-8.857,61.8,80.0,52.0,,none,5,0,0,0,0,2026-11-16,,https://www.avalynpharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-30,26.00,30.20,26.00,29.49,,,,,,,0,26.0000,1,192038879,,,,
 2026-05-01,28.00,30.00,27.50,29.84,,,,,,,0,26.0000,1,24767200,,,,
@@ -165,3 +165,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,29.75,30.74,28.56,29.50,26.81,25.87,29.01,,,23.7786,1,25.9808,1,23505600,10203036,0.0122,-0.6507,0.6629
 2026-11-10,29.16,31.51,28.71,31.17,27.34,26.24,28.94,,,23.9858,1,26.1300,1,14905494,10269775,0.3356,-0.4534,0.7891
 2026-11-11,31.07,31.87,30.67,31.62,27.93,26.63,28.87,,,25.3982,1,26.8832,1,15003690,10440300,0.6212,-0.2385,0.8597
+2026-11-12,30.69,31.39,28.15,30.59,28.42,26.93,28.77,,,25.3982,1,27.6811,1,15291941,10616699,0.7556,-0.0397,0.7953

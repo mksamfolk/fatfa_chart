@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OIG,Orion180 Insurance Group Inc.,Financial Services,Insurance - Property & Casualty,United States,916050176,9.25,171580,477662,4418373.5,0.56,,125.519,0.89071,0.41007,0.21486,,,187075008,235240000,,0.993,0.295,120646000,,39097192,58965993,0.24333,0.18691999,522541,0.71,,22.560976,12.545095,5.981821,-14.56693,12.213,30.308,14.98,20.0,12.9,,none,5,0,0,0,0,,,https://www.orion180.com,2026-11-10T11:48:40.787584+00:00
+0.00,OIG,Orion180 Insurance Group Inc.,Financial Services,Insurance - Property & Casualty,United States,916050176,9.25,171580,477662,4418373.5,0.56,,125.519,0.89071,0.41007,0.21486,,,187075008,235240000,,0.993,0.295,120646000,,39097192,58965993,0.24333,0.18691999,522541,0.71,,22.560976,12.545095,5.981821,-14.56693,12.213,30.308,14.98,20.0,12.9,,none,5,0,0,0,0,,,https://www.orion180.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-18,11.50,11.90,11.25,11.66,,,,,,,0,11.2500,1,52999363,,,,
 2026-09-21,11.98,12.06,10.81,11.38,,,,,,,0,12.0600,0,10418390,,,,
@@ -68,3 +68,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.13,9.48,8.86,9.25,9.53,9.37,,,,10.8544,0,10.2266,0,4551000,,-0.0852,-0.1045,0.0193
 2026-11-10,9.25,9.50,9.15,9.36,9.54,9.39,,,,10.8544,0,10.1579,0,1563120,,-0.0815,-0.0999,0.0184
 2026-11-11,9.85,10.62,9.60,10.40,9.62,9.45,,,,10.8544,0,8.5100,1,3023280,,0.0053,-0.0789,0.0842
+2026-11-12,10.26,10.82,10.21,10.70,9.71,9.53,,,,10.8544,0,8.5522,1,3131890,,0.0972,-0.0437,0.1408

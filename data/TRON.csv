@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-45.30,TRON,Tron Inc.,Consumer Cyclical,Leisure,United States,687926528,1.45,755230,1061381,1539002.45,0.075,-0.25,0.226,0.25738,-0.4595,1.86821,0.03787,-0.0049,8576619,521581,0.195,17.824,10.451,-2334457,-7226997,474432064,46902354,0.89219004,0.02809,8977982,13.22,0.0356,,,133.72115,2.5709221,132.155,-371.012,,,,,none,,,,,,,8.789,https://www.srmentertainment.com,2026-11-10T13:23:49.987329+00:00
+38.48,TRON,Tron Inc.,Consumer Cyclical,Leisure,United States,687926528,1.45,755230,1061381,1539002.45,0.075,-0.25,0.226,0.25738,-0.4595,1.86821,0.03787,-0.0049,8576619,521581,0.195,17.824,10.451,-2334457,-7226997,474432064,46902354,0.89219004,0.02809,8977982,13.22,0.0356,,,133.72115,2.5709221,132.155,-371.012,,,,,none,,,,,,,8.789,https://www.srmentertainment.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-15,4.00,6.01,3.60,4.98,,,,,,,0,6.0100,0,18221820,,,,
 2023-08-16,3.60,4.68,3.60,3.75,,,,,,,0,6.0100,0,3572625,,,,
@@ -829,3 +829,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.41,1.48,1.40,1.45,1.38,1.31,1.50,1.77,1.68,1.0503,1,1.5575,0,577390,1878031,-0.0116,-0.0359,0.0244
 2026-11-10,1.43,1.47,1.41,1.45,1.39,1.33,1.50,1.76,1.68,1.0712,1,1.5505,0,573620,1881863,-0.0045,-0.0297,0.0252
 2026-11-11,1.47,1.61,1.47,1.58,1.39,1.34,1.50,1.76,1.68,1.1601,1,1.2050,1,862522,1887370,0.0115,-0.0214,0.0329
+2026-11-12,1.50,1.54,1.43,1.44,1.40,1.36,1.50,1.76,1.68,1.1601,1,1.2131,1,749232,1870587,0.0127,-0.0146,0.0273

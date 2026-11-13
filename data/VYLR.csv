@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VYLR,Vylor Inc.,Financial Services,Shell Companies,United States,48399478784,72.53,3201220,5412785,392589296.05,-0.012,-0.099,-0.116,0.4954,0.3013,0.056649998,0.04256,0.04546,2364999936,4874999808,19.191,1.516,0.989,1211000064,2417250048,667302930,665674793,0.00224,0.0877,14989198,1.79,,103.61429,27.793743,2.7172399,1.9229034,2.871,11.964,82.64286,90.0,74.0,1.6875,buy,14,0,0,0,0,2026-11-11,0.604,https://www.vylor.com,2026-11-10T13:47:05.319112+00:00
+0.00,VYLR,Vylor Inc.,Financial Services,Shell Companies,United States,48399478784,72.53,3201220,5412785,392589296.05,-0.012,-0.099,-0.116,0.4954,0.3013,0.056649998,0.04256,0.04546,2364999936,4874999808,19.191,1.516,0.989,1211000064,2417250048,667302930,665674793,0.00224,0.0877,14989198,1.79,,103.61429,27.793743,2.7172399,1.9229034,2.871,11.964,82.64286,90.0,74.0,1.6875,buy,14,0,0,0,0,2026-11-11,0.604,https://www.vylor.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-01,66.00,75.00,65.00,68.26,,,,,,,0,65.0000,1,1025046800,,,,
 2026-10-02,68.71,71.36,65.11,67.26,,,,,,,0,65.0000,1,911985095,,,,
@@ -59,3 +59,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,70.44,73.20,70.00,72.53,71.75,72.71,,,,78.9985,0,74.3524,0,277927702,,,,
 2026-11-10,72.14,73.63,70.76,72.53,71.80,72.49,,,,78.9985,0,73.8594,0,196737622,,,,
 2026-11-11,72.14,72.89,70.96,72.10,71.77,72.38,,,,78.9985,0,73.6300,0,189781616,,,,
+2026-11-12,72.01,73.57,69.69,72.06,71.71,72.31,,,,78.9985,0,73.6300,0,270952797,,,,

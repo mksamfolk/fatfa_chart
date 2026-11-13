@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PLUN,Plutonian Acquisition Corp II,Financial Services,Shell Companies,United States,136393648,10.1201,9200,23512,237943.7912,,,,0.0,0.0,0.0,,,270975,0,,3.99,3.713,-345013,,10602500,10369309,0.0311,0.48778,226,0.01,0.0,112.44555,,,632.5062,,,,,,,none,,,,,,,,,2026-11-10T12:08:35.665745+00:00
+0.00,PLUN,Plutonian Acquisition Corp II,Financial Services,Shell Companies,United States,136393648,10.1201,9200,23512,237943.7912,,,,0.0,0.0,0.0,,,270975,0,,3.99,3.713,-345013,,10602500,10369309,0.0311,0.48778,226,0.01,0.0,112.44555,,,632.5062,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-18,9.94,10.00,9.94,9.97,,,,,,,0,9.9400,1,73778,,,,
 2026-06-22,9.99,9.99,9.97,9.97,,,,,,,0,9.9400,1,13584125,,,,
@@ -116,3 +116,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.16,10.16,10.12,10.12,10.13,10.13,10.08,,,10.1128,1,10.1035,1,9108,146481,0.0178,0.0211,-0.0033
 2026-11-10,10.17,10.17,10.13,10.13,10.13,10.14,10.08,,,10.1128,1,10.1047,1,1014013,166762,0.0159,0.0201,-0.0042
 2026-11-11,10.17,10.17,10.12,10.12,10.13,10.14,10.08,,,10.1128,1,10.1073,1,32384,167409,0.0134,0.0187,-0.0053
+2026-11-12,10.17,10.17,10.17,10.17,10.14,10.14,10.09,,,10.1128,1,10.1098,1,1017,117430,0.0153,0.0180,-0.0028

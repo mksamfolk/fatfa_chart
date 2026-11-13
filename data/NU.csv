@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-32.55,NU,Nu Holdings Ltd.,Financial Services,Banks - Regional,Brazil,59707310080,12.36,81513240,81611415,1008717089.4,0.521,0.663,0.665,0.0,0.50154,0.42728,0.31628,0.049629997,15170837504,5896687104,,,,-10304786432,,3808087961,3725427094,0.020639999,0.83168,139668793,1.65,0.037100002,16.931505,11.159465,7.0725927,4.5060153,5.974,,18.55652,23.0,12.0,1.6087,buy,23,0,0,3,3,2026-11-12,0.968,https://nubank.com.br,2026-11-10T11:41:26.739781+00:00
+31.01,NU,Nu Holdings Ltd.,Financial Services,Banks - Regional,Brazil,59707310080,12.36,81513240,81611415,1008717089.4,0.521,0.663,0.665,0.0,0.50154,0.42728,0.31628,0.049629997,15170837504,5896687104,,,,-10304786432,,3808087961,3725427094,0.020639999,0.83168,139668793,1.65,0.037100002,16.931505,11.159465,7.0725927,4.5060153,5.974,,18.55652,23.0,12.0,1.6087,buy,23,0,0,3,3,2026-11-12,0.968,https://nubank.com.br,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-09,11.25,12.24,10.01,10.33,,,,,,,0,12.2400,0,931361057,,,,
 2021-12-10,11.45,11.85,9.80,11.85,,,,,,,0,12.2400,0,593416024,,,,
@@ -1264,4 +1264,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,11.81,12.28,11.79,12.03,11.96,13.50,14.01,13.83,14.33,13.6096,0,14.0552,0,702334241,1164154522,-0.7517,-0.5591,-0.1926
 2026-11-09,12.14,12.40,12.00,12.36,11.94,13.32,13.97,13.82,14.30,13.6096,0,13.7707,0,608126815,1153685764,-0.7042,-0.5881,-0.1161
 2026-11-10,12.37,12.39,11.92,12.08,11.91,13.14,13.92,13.80,14.27,13.6096,0,13.5146,0,700402020,1139969885,-0.6813,-0.6068,-0.0746
-2026-11-11,12.19,12.35,12.07,12.32,11.94,13.01,13.88,13.79,14.24,13.6096,0,13.2841,0,714759566,1134743787,-0.6365,-0.6127,-0.0238
+2026-11-11,12.19,12.35,12.07,12.32,11.94,13.01,13.88,13.79,14.24,13.6096,0,13.2841,0,717777966,1134804155,-0.6365,-0.6127,-0.0238
+2026-11-12,12.08,12.27,11.79,11.83,11.92,12.86,13.81,13.77,14.20,13.6096,0,13.0767,0,705116498,1124010969,-0.6332,-0.6168,-0.0164

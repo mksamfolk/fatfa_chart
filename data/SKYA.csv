@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-16 09:30:00-04:00,0.045454545454545456\n2025-04-28 09:30:00-04:00,0.0033333333333333335\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.53,SKYA,SkyAI Inc.,Technology,Software - Infrastructure,United States,150019888,2.95,1141520,1444037,4259909.15,,,,2.67974,485.73615,0.0,-0.58533,0.15640001,7477772,259512,0.108,4.537,2.949,-12090858,183129200,50854199,39121118,0.24757,0.27265,776391,0.31,0.019299999,3.831169,,846.6229,0.60069233,805.887,1.66,,,,,none,,,,,,,,https://www.skyai.co,2026-11-10T12:49:32.172089+00:00
+90.31,SKYA,SkyAI Inc.,Technology,Software - Infrastructure,United States,150019888,2.95,1141520,1444037,4259909.15,,,,2.67974,485.73615,0.0,-0.58533,0.15640001,7477772,259512,0.108,4.537,2.949,-12090858,183129200,50854199,39121118,0.24757,0.27265,776391,0.31,0.019299999,3.831169,,846.6229,0.60069233,805.887,1.66,,,,,none,,,,,,,,https://www.skyai.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-14,17490.00,17820.00,13068.00,13926.00,,,,,,,0,17820.0000,0,7979598,,,,
 2022-04-18,12705.00,12936.00,10956.00,11418.00,,,,,,,0,17820.0000,0,1746954,,,,
@@ -1163,3 +1163,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.95,2.98,2.95,2.95,2.94,2.86,1.98,1.68,1.75,2.7028,1,2.8562,1,745465,4303882,0.2759,0.3219,-0.0460
 2026-11-10,2.95,2.97,2.95,2.96,2.95,2.87,2.01,1.68,1.75,2.7180,1,2.8812,1,1168312,4326036,0.2617,0.3099,-0.0482
 2026-11-11,2.98,2.98,2.96,2.97,2.95,2.89,2.05,1.69,1.75,2.7462,1,2.9017,1,1038015,4333764,0.2484,0.2976,-0.0492
+2026-11-12,2.90,2.96,2.45,2.45,2.90,2.88,2.08,1.70,1.75,3.0624,0,2.9950,0,3785250,4403242,0.1937,0.2768,-0.0831

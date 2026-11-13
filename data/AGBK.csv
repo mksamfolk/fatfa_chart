@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AGBK,Agi Inc.,Financial Services,Banks - Regional,Brazil,1323600512,5.07,776420,339501,1721270.07,-0.152,-0.278,-0.238,0.63654,0.110640004,0.23275,,,2944293888,19716593664,410.83,1.554,1.53,-991913984,,58606471,21658268,0.14257,0.86626,847394,3.17,0.0399,4.9223304,2.802937,0.3794341,0.85032713,5.041,,10.777036,14.496283,7.2481413,1.36364,strong_buy,11,1,2,0,1,2026-11-11,,https://agibank.com.br,2026-11-10T07:42:20.491921+00:00
+0.00,AGBK,Agi Inc.,Financial Services,Banks - Regional,Brazil,1323600512,5.07,776420,339501,1721270.07,-0.152,-0.278,-0.238,0.63654,0.110640004,0.23275,,,2944293888,19716593664,410.83,1.554,1.53,-991913984,,58606471,21658268,0.14257,0.86626,847394,3.17,0.0399,4.9223304,2.802937,0.3794341,0.85032713,5.041,,10.777036,14.496283,7.2481413,1.36364,strong_buy,11,1,2,0,1,2026-11-11,,https://agibank.com.br,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-11,11.00,11.31,10.58,10.75,,,,,,,0,11.3100,0,62218850,,,,
 2026-02-12,10.60,11.06,10.21,10.21,,,,,,,0,11.3100,0,10929805,,,,
@@ -204,3 +204,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.91,5.09,4.80,5.07,5.02,6.05,6.26,6.90,,6.3843,0,7.2407,0,2262741,2389356,-0.4992,-0.3833,-0.1158
 2026-11-10,5.11,5.19,4.95,5.10,5.04,5.94,6.24,6.86,,6.3843,0,7.1845,0,687480,2360023,-0.4813,-0.4029,-0.0784
 2026-11-11,5.24,5.40,5.09,5.39,5.07,5.85,6.22,6.84,,6.3843,0,7.1294,0,1822359,2344592,-0.4387,-0.4101,-0.0286
+2026-11-12,5.85,6.38,5.42,6.32,5.19,5.80,6.22,6.82,,6.3843,0,7.0754,0,2924896,2377985,-0.3261,-0.3933,0.0672

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ANDG,,Consumer Cyclical,Personal Services,United States,1283379584,65.8,513320,488262,32127639.599999998,0.237,,,0.35182,-0.04099,0.04662,-0.67116,0.15946999,177700992,414384992,1317.432,2.186,2.049,188559008,136653744,19504247,12594875,0.00219,0.94545,2465571,5.48,0.24620001,21.433226,28.80999,1.4056146,-1.1434132,2.124,14.341,61.28571,78.0,49.0,1.75,buy,7,2,2,3,3,2026-11-12,,https://www.andersen.com,2026-11-10T07:54:32.128066+00:00
+0.00,ANDG,,Consumer Cyclical,Personal Services,United States,1283379584,65.8,513320,488262,32127639.599999998,0.237,,,0.35182,-0.04099,0.04662,-0.67116,0.15946999,177700992,414384992,1317.432,2.186,2.049,188559008,136653744,19504247,12594875,0.00219,0.94545,2465571,5.48,0.24620001,21.433226,28.80999,1.4056146,-1.1434132,2.124,14.341,61.28571,78.0,49.0,1.75,buy,7,2,2,3,3,2026-11-12,,https://www.andersen.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-17,21.00,24.48,20.00,23.50,,,,,,,0,20.0000,1,180249700,,,,
 2025-12-18,22.56,26.99,22.08,25.40,,,,,,,0,20.0000,1,25971500,,,,
@@ -256,3 +256,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,65.61,67.01,64.25,65.80,65.30,62.85,58.26,46.12,40.54,59.8059,1,63.5747,1,56719603,25757351,2.5751,2.5671,0.0080
 2026-11-10,65.14,66.27,63.85,65.77,65.52,63.23,58.47,46.37,40.75,59.8059,1,68.4100,0,64487482,26699952,2.4745,2.5485,-0.0740
 2026-11-11,66.06,66.50,64.46,65.84,65.81,63.66,58.67,46.62,40.96,59.8059,1,68.3188,0,27139246,26800320,2.3731,2.5135,-0.1403
+2026-11-12,65.81,66.93,65.21,65.42,65.86,63.98,58.85,46.87,41.18,59.8059,1,68.2294,0,39736107,27264496,2.2332,2.4574,-0.2242

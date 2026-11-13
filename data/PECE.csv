@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PECE,Peace Acquisition Corp,Financial Services,Shell Companies,United States,84796880,10.05,31410,42639,428521.95,,,,0.0,0.0,0.0,,,378025,100000,26.897,0.119,0.005,-130372,,8437500,5826431,0.26459,0.59361,3965,0.09,0.00059999997,,,,228.4091,,,,,,,none,,,,,,,,,2026-11-10T12:02:38.475466+00:00
+0.00,PECE,Peace Acquisition Corp,Financial Services,Shell Companies,United States,84796880,10.05,31410,42639,428521.95,,,,0.0,0.0,0.0,,,378025,100000,26.897,0.119,0.005,-130372,,8437500,5826431,0.26459,0.59361,3965,0.09,0.00059999997,,,,228.4091,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,9.90,9.90,9.87,9.89,,,,,,,0,9.8700,1,5009285,,,,
 2026-06-05,9.88,9.91,9.88,9.90,,,,,,,0,9.8700,1,900900,,,,
@@ -126,3 +126,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.05,10.05,10.05,10.05,10.05,10.03,10.00,,,10.0182,1,10.0478,1,,403964,0.0156,0.0154,0.0002
 2026-11-10,10.05,10.05,10.05,10.05,10.05,10.03,10.00,,,10.0204,1,10.0500,1,,403964,0.0151,0.0153,-0.0002
 2026-11-11,10.06,10.06,10.06,10.06,10.05,10.04,10.01,,,10.0303,1,10.0500,1,2012,404004,0.0153,0.0153,0.0000
+2026-11-12,10.06,10.06,10.06,10.06,10.05,10.04,10.01,,,10.0333,1,10.0500,1,,403008,0.0154,0.0153,0.0000

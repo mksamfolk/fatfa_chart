@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KTWO,K2 Capital Acquisition Corporation,Financial Services,Shell Companies,United States,202816544,10.12,12450,32509,328991.07999999996,,,,0.0,0.0,0.0,,,823123,0,,0.75,0.665,0,,14126875,12562201,0.023139998,0.90967005,183,0.01,0.0,,,,289.14285,,,,,,,none,,,,,,,,https://k2spac.com,2026-11-10T10:50:55.391471+00:00
+0.00,KTWO,K2 Capital Acquisition Corporation,Financial Services,Shell Companies,United States,202816544,10.12,12450,32509,328991.07999999996,,,,0.0,0.0,0.0,,,823123,0,,0.75,0.665,0,,14126875,12562201,0.023139998,0.90967005,183,0.01,0.0,,,,289.14285,,,,,,,none,,,,,,,,https://k2spac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-26,9.87,9.87,9.87,9.87,,,,,,,0,9.8700,1,3568992,,,,
 2026-02-27,9.87,9.89,9.86,9.86,,,,,,,0,9.8900,0,76908,,,,
@@ -194,3 +194,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.12,10.12,10.12,10.12,10.10,10.10,10.08,9.99,,10.1270,0,10.0720,1,39468,409513,0.0083,0.0090,-0.0007
 2026-11-10,10.12,10.12,10.12,10.12,10.10,10.10,10.08,9.99,,10.1270,0,10.0729,1,,409513,0.0093,0.0091,0.0002
 2026-11-11,10.12,10.12,10.12,10.12,10.11,10.10,10.08,9.99,,10.1270,0,10.0739,1,,409292,0.0099,0.0092,0.0007
+2026-11-12,10.13,10.13,10.13,10.13,10.11,10.10,10.08,9.99,,10.0874,1,10.0748,1,1519500,439682,0.0111,0.0096,0.0015

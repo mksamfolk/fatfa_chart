@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAGU,Shreya Acquisition Group,Financial Services,Shell Companies,United States,161214416,10.11,12400,35796,361897.56,,,,0.0,0.0,0.0,4.1532197,-0.00241,840520,0,,5.462,4.93,-166886,-36273,11231750,9972491,0.46219003,0.70285004,1909,0.76,0.00029999999,168.5,,,1011.0,,,,,,,none,,,,,,,,,2026-11-10T12:37:48.412903+00:00
+0.00,SAGU,Shreya Acquisition Group,Financial Services,Shell Companies,United States,161214416,10.11,12400,35796,361897.56,,,,0.0,0.0,0.0,4.1532197,-0.00241,840520,0,,5.462,4.93,-166886,-36273,11231750,9972491,0.46219003,0.70285004,1909,0.76,0.00029999999,168.5,,,1011.0,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-22,10.05,10.05,9.85,9.87,,,,,,,0,9.8500,1,2729055,,,,
 2026-05-26,9.87,9.87,9.87,9.87,,,,,,,0,9.8500,1,1389696,,,,
@@ -134,3 +134,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.09,10.11,10.09,10.11,10.06,10.05,10.02,,,10.0113,1,9.9898,1,13143,449685,0.0175,0.0129,0.0046
 2026-11-10,10.09,10.10,10.09,10.10,10.07,10.06,10.02,,,10.0113,1,9.9924,1,7070,448414,0.0189,0.0141,0.0048
 2026-11-11,10.08,10.08,10.08,10.08,10.07,10.06,10.03,,,10.0113,1,9.9949,1,610848,460631,0.0182,0.0149,0.0033
+2026-11-12,10.11,10.14,10.11,10.14,10.08,10.06,10.03,,,10.0321,1,9.9974,1,7098,460773,0.0222,0.0163,0.0058

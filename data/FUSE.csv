@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.92,FUSE,Fusemachines Inc.,Technology,Software - Application,United States,11716097,0.36,96250,989885,356358.6,0.03,,,0.52435,-1.2542,-0.54460996,,-1.36974,1454000,2162000,,0.287,0.226,-9848000,-5540500,32544711,11020290,0.32597,0.34008,557986,0.22,0.039100002,,,1.5719974,-0.71428573,1.667,-1.168,,,,,none,,,,,,,0.949,https://fusemachines.com,2026-11-10T09:54:06.357946+00:00
+3.71,FUSE,Fusemachines Inc.,Technology,Software - Application,United States,11716097,0.36,96250,989885,356358.6,0.03,,,0.52435,-1.2542,-0.54460996,,-1.36974,1454000,2162000,,0.287,0.226,-9848000,-5540500,32544711,11020290,0.32597,0.34008,557986,0.22,0.039100002,,,1.5719974,-0.71428573,1.667,-1.168,,,,,none,,,,,,,0.949,https://fusemachines.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-07,9.69,9.74,9.69,9.74,,,,,,,0,9.6900,1,2240200,,,,
 2022-03-08,9.74,9.74,9.74,9.74,,,,,,,0,9.6900,1,,,,,
@@ -1191,3 +1191,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.33,0.36,0.31,0.36,0.35,0.35,0.54,1.02,1.17,0.4592,0,0.3998,0,13788,77657,-0.0545,-0.0675,0.0130
 2026-11-10,0.35,0.36,0.30,0.33,0.35,0.35,0.53,1.01,1.16,0.4592,0,0.3962,0,11919,70130,-0.0521,-0.0644,0.0123
 2026-11-11,0.32,0.35,0.32,0.35,0.35,0.35,0.52,1.01,1.16,0.4592,0,0.3928,0,8074,63452,-0.0483,-0.0612,0.0128
+2026-11-12,0.33,0.35,0.32,0.32,0.34,0.35,0.51,1.00,1.15,0.4592,0,0.3894,0,9888,57605,-0.0471,-0.0583,0.0113

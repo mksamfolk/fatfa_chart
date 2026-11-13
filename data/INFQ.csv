@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,INFQ,Infleqtion Inc.,Technology,Software - Infrastructure,United States,2176949248,9.66,6612040,8147206,78702009.96000001,1.565,,,0.2897,-2.1464,-1.6778799,,,476958016,14527000,2.529,9.344,9.148,-20392000,,225357052,195598653,0.09117,0.43905,28398549,3.58,,,-40.268456,51.298378,3.7793427,40.401,-26.0,19.57143,25.0,12.0,1.28571,strong_buy,7,1,2,0,0,2026-11-16,,https://infleqtion.com,2026-11-10T10:30:57.005005+00:00
+0.00,INFQ,Infleqtion Inc.,Technology,Software - Infrastructure,United States,2176949248,9.66,6612040,8147206,78702009.96000001,1.565,,,0.2897,-2.1464,-1.6778799,,,476958016,14527000,2.529,9.344,9.148,-20392000,,225357052,195598653,0.09117,0.43905,28398549,3.58,,,-40.268456,51.298378,3.7793427,40.401,-26.0,19.57143,25.0,12.0,1.28571,strong_buy,7,1,2,0,0,2026-11-16,,https://infleqtion.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-17,14.25,17.51,13.01,15.59,,,,,,,0,13.0100,1,99129016,,,,
 2026-02-18,16.20,16.49,14.02,14.71,,,,,,,0,13.0100,1,65347704,,,,
@@ -215,4 +215,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.83,9.09,7.67,8.89,8.78,8.98,11.44,12.40,,9.9095,0,9.4536,0,93879293,86505754,-0.8800,-0.9303,0.0503
 2026-11-09,9.02,9.83,8.89,9.66,8.88,8.95,11.38,12.40,,9.9095,0,7.0100,1,74480531,85709591,-0.7463,-0.8935,0.1472
 2026-11-10,9.40,9.60,8.97,9.35,8.84,8.91,11.31,12.38,,9.9095,0,7.0664,1,37575782,84445060,-0.6578,-0.8464,0.1886
-2026-11-11,9.70,9.75,9.31,9.42,8.82,8.92,11.24,12.37,,9.9095,0,7.1217,1,43971618,83869533,-0.5754,-0.7922,0.2168
+2026-11-11,9.70,9.75,9.31,9.42,8.82,8.92,11.24,12.37,,9.9095,0,7.1217,1,44186394,83873828,-0.5754,-0.7922,0.2168
+2026-11-12,8.85,9.17,8.72,8.73,8.75,8.89,11.16,12.34,,9.9095,0,7.1758,1,34298422,83111549,-0.5593,-0.7456,0.1863

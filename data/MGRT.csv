@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.55,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1625662592,118.23,4610,10700,1265061.0,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00189,30940,5.73,0.0083,,,260.68552,134.81186,260.789,-730.348,,,,,none,,,,,,,,https://qbssystem.com,2026-11-10T11:14:31.935901+00:00
+99.49,MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,Hong Kong,1625662592,118.23,4610,10700,1265061.0,-0.903,,,0.70378,-6.66878,-0.40660998,-0.35402,-0.13968,9813,654796,5.429,7.413,3.038,-13128223,-8385314,13750000,2026888,0.77274,0.00189,30940,5.73,0.0083,,,260.68552,134.81186,260.789,-730.348,,,,,none,,,,,,,,https://qbssystem.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-16,3.99,4.00,3.39,3.81,,,,,,,0,3.3900,1,6199251,,,,
 2025-07-17,3.50,3.64,3.39,3.44,,,,,,,0,3.3900,1,841768,,,,
@@ -349,3 +349,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,120.00,122.00,118.23,118.23,119.30,114.27,107.38,91.35,70.20,107.8730,1,112.5273,1,260106,1220160,3.8604,3.9653,-0.1050
 2026-11-10,119.36,121.21,118.00,118.00,119.16,115.00,107.85,92.08,70.75,107.8730,1,113.5787,1,660800,1181968,3.6096,3.8942,-0.2846
 2026-11-11,118.95,119.80,114.00,117.10,118.92,115.65,108.25,92.81,71.30,107.8730,1,125.6700,0,925090,1172534,3.3002,3.7754,-0.4752
+2026-11-12,117.99,117.99,116.50,116.50,118.58,116.27,108.66,93.54,71.85,107.8730,1,125.4366,0,256300,1107461,2.9723,3.6148,-0.6425
+2026-11-13,117.00,117.00,117.00,117.00,118.42,116.74,109.02,94.27,72.40,107.8730,1,125.2079,0,596817,1082569,2.7214,3.4361,-0.7147

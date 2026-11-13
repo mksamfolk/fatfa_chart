@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VOGX,Vogenx Inc.,Healthcare,Biotechnology,United States,272442304,18.34,104430,156684,2873584.56,,,,0.0,0.0,0.0,,,193017,867700,,0.442,0.061,-862385,,14855087,9808071,0.04741,0.14059,38289,0.29,,,,,-54.260357,,,55.0,55.0,55.0,1.0,strong_buy,1,0.0,0.0,1.0,1.0,2026-11-06,,https://vogenx.com,2026-11-10T13:43:36.568897+00:00
+0.00,VOGX,Vogenx Inc.,Healthcare,Biotechnology,United States,272442304,18.34,104430,156684,2873584.56,,,,0.0,0.0,0.0,,,193017,867700,,0.442,0.061,-862385,,14855087,9808071,0.04741,0.14059,38289,0.29,,,,,-54.260357,,,55.0,55.0,55.0,1.0,strong_buy,1,0.0,0.0,1.0,1.0,2026-11-06,,https://vogenx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-12,13.00,13.88,12.95,13.00,,,,,,,0,12.9500,1,8892000,,,,
 2026-08-13,13.09,14.20,13.00,14.09,,,,,,,0,12.9500,1,1141290,,,,
@@ -89,3 +89,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,18.36,18.81,16.49,18.34,19.33,18.28,24.24,,,23.5091,0,15.9265,1,3996286,3450206,-0.8403,-1.0786,0.2383
 2026-11-10,18.34,19.65,17.44,19.26,19.34,18.41,24.02,,,23.5091,0,16.0472,1,2195640,3242132,-0.7491,-1.0127,0.2636
 2026-11-11,19.81,21.48,17.65,20.77,19.52,18.64,23.80,,,23.5091,0,16.1655,1,2658560,3209542,-0.5486,-0.9199,0.3713
+2026-11-12,20.66,20.80,18.67,19.15,19.45,18.80,23.53,,,23.5091,0,16.2813,1,2003090,3074288,-0.5145,-0.8388,0.3243

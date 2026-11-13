@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-09-19 09:30:00-04:00,0.02\n2025-05-09 09:30:00-04:00,0.04\n2025-08-28 09:30:00-04:00,0.06666666666666667\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.35,GDHG,Golden Heaven Group Holdings Ltd.,Consumer Cyclical,Leisure,China,21033700,1.05,67400,244850,257092.5,-0.482,,,0.58114,-0.95856005,-0.39789,-0.02724,-0.00262,155884592,1983096,0.91,3.048,2.423,4255192,48307336,19960521,12547704,0.29621,0.00106,34313,0.52,0.00059999997,0.001752278,,1.8526719,0.09648961,-11.703,-79.668,,,,,none,,,,,,,-8.198,https://jsyoule.com,2026-11-10T09:57:10.917128+00:00
+11.90,GDHG,Golden Heaven Group Holdings Ltd.,Consumer Cyclical,Leisure,China,21033700,1.05,67400,244850,257092.5,-0.482,,,0.58114,-0.95856005,-0.39789,-0.02724,-0.00262,155884592,1983096,0.91,3.048,2.423,4255192,48307336,19960521,12547704,0.29621,0.00106,34313,0.52,0.00059999997,0.001752278,,1.8526719,0.09648961,-11.703,-79.668,,,,,none,,,,,,,-8.198,https://jsyoule.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-12,75000.00,85875.00,67500.00,75187.50,,,,,,,0,85875.0000,0,3609000,,,,
 2023-04-13,68250.00,77625.00,60750.00,75187.50,,,,,,,0,85875.0000,0,5187938,,,,
@@ -915,3 +915,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.04,1.05,0.99,1.05,1.09,1.10,1.20,1.49,1.62,1.3136,0,1.2200,0,150780,373930,-0.0410,-0.0393,-0.0017
 2026-11-10,1.04,1.05,1.00,1.01,1.08,1.09,1.20,1.48,1.61,1.3136,0,1.2152,0,48177,374724,-0.0440,-0.0402,-0.0038
 2026-11-11,1.06,1.06,1.05,1.05,1.07,1.09,1.19,1.48,1.61,1.3136,0,1.2105,0,2637,374257,-0.0423,-0.0406,-0.0016
+2026-11-12,1.04,1.04,0.91,0.91,1.05,1.09,1.18,1.47,1.60,1.2772,0,1.2059,0,70434,375415,-0.0520,-0.0429,-0.0091

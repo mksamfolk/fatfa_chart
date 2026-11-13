@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NINE,Nine Energy Service Inc.,Energy,Oil & Gas Equipment & Services,United States,93046432,6.67,22180,54843,365802.81,-0.037,,,0.13904999,-0.020539999,0.12662,2.83762,-0.04417,16849000,128870000,99.46,2.344,1.484,-26780000,-3556875,13949990,9101252,0.03078,0.88339996,143800,3.34,0.0173,,10.758064,0.17359571,0.71813095,0.383,23.74,13.38,14.76,12.0,,none,2,0,0,0,0,,,https://nineenergyservice.com,2026-11-10T11:34:25.277132+00:00
+0.00,NINE,Nine Energy Service Inc.,Energy,Oil & Gas Equipment & Services,United States,93046432,6.67,22180,54843,365802.81,-0.037,,,0.13904999,-0.020539999,0.12662,2.83762,-0.04417,16849000,128870000,99.46,2.344,1.484,-26780000,-3556875,13949990,9101252,0.03078,0.88339996,143800,3.34,0.0173,,10.758064,0.17359571,0.71813095,0.383,23.74,13.38,14.76,12.0,,none,2,0,0,0,0,,,https://nineenergyservice.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-31,9.80,10.50,7.32,8.20,,,,,,,0,7.3200,1,683880,,,,
 2026-04-01,8.16,8.84,7.76,8.00,,,,,,,0,7.3200,1,1368800,,,,
@@ -171,3 +171,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.88,7.50,6.59,6.67,7.47,7.78,9.11,,,8.5440,0,8.8275,0,249458,553242,-0.5723,-0.5504,-0.0219
 2026-11-10,6.52,7.49,6.52,7.26,7.41,7.75,9.04,,,8.5440,0,8.6413,0,172788,542809,-0.5457,-0.5494,0.0038
 2026-11-11,7.19,7.50,7.01,7.48,7.35,7.72,8.98,,,8.5440,0,8.4700,0,86020,541729,-0.5010,-0.5398,0.0387
+2026-11-12,7.32,7.32,7.01,7.16,7.28,7.67,8.91,,,8.5440,0,8.3124,0,110264,538997,-0.4859,-0.5290,0.0431

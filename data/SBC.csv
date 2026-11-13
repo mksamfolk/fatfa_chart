@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-92.58,SBC,SBC Medical Group Holdings Incorporated,Industrials,Consulting Services,United States,540974976,5.26,192900,205203,1079367.78,0.134,3.389,3.35,0.71852994,0.38547,0.27988002,0.18913001,0.113249995,184619136,48233080,17.231,3.306,3.186,62820912,63194560,102846943,18104147,0.81532997,0.04758,750813,3.46,0.0395,11.19149,9.740741,3.0883107,2.0451012,2.402,6.129,8.75,11.0,7.0,,none,4,0,2,2,2,2026-11-13,0.522,https://sbc-holdings.com,2026-11-10T12:39:10.342863+00:00
+94.33,SBC,SBC Medical Group Holdings Incorporated,Industrials,Consulting Services,United States,540974976,5.26,192900,205203,1079367.78,0.134,3.389,3.35,0.71852994,0.38547,0.27988002,0.18913001,0.113249995,184619136,48233080,17.231,3.306,3.186,62820912,63194560,102846943,18104147,0.81532997,0.04758,750813,3.46,0.0395,11.19149,9.740741,3.0883107,2.0451012,2.402,6.129,8.75,11.0,7.0,,none,4,0,2,2,2,2026-11-13,0.522,https://sbc-holdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-26,9.95,9.97,9.95,9.96,,,,,,,0,9.9500,1,1518900,,,,
 2022-09-27,9.96,10.00,9.95,10.00,,,,,,,0,9.9500,1,4008000,,,,
@@ -1051,3 +1051,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.06,5.26,5.01,5.26,5.28,5.32,4.66,3.79,3.90,4.8862,1,5.5797,0,2156600,900201,0.1276,0.2146,-0.0870
 2026-11-10,5.26,5.35,5.15,5.29,5.29,5.32,4.70,3.80,3.91,4.8862,1,5.5196,0,1254259,921245,0.1216,0.1960,-0.0745
 2026-11-11,5.28,5.30,5.12,5.24,5.27,5.32,4.74,3.81,3.91,4.8862,1,5.4644,0,584784,924915,0.1115,0.1791,-0.0677
+2026-11-12,5.24,5.39,5.20,5.34,5.23,5.33,4.79,3.82,3.92,4.8862,1,5.4136,0,1079214,937053,0.1102,0.1653,-0.0551

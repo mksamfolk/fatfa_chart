@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.32,SMA,SmartStop Self Storage REIT Inc.,Real Estate,REIT - Industrial,United States,2278642176,39.69,749280,724953,28773384.569999997,0.094,0.772,0.72,0.66865,0.26674998,0.11246,0.027509999,0.01839,30989000,1137847040,91.174,0.506,0.461,93164000,117682376,55367820,55107591,0.0042,1.01712,4899206,5.95,0.0995,66.149994,64.32635,7.862429,1.9217546,11.762,22.739,37.0,42.0,33.0,2.27273,buy,11,1,1,0,0,2026-11-04,,https://www.smartstopselfstorage.com,2026-11-10T12:52:09.107792+00:00
+83.04,SMA,SmartStop Self Storage REIT Inc.,Real Estate,REIT - Industrial,United States,2278642176,39.69,749280,724953,28773384.569999997,0.094,0.772,0.72,0.66865,0.26674998,0.11246,0.027509999,0.01839,30989000,1137847040,91.174,0.506,0.461,93164000,117682376,55367820,55107591,0.0042,1.01712,4899206,5.95,0.0995,66.149994,64.32635,7.862429,1.9217546,11.762,22.739,37.0,42.0,33.0,2.27273,buy,11,1,1,0,0,2026-11-04,,https://www.smartstopselfstorage.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-02,30.34,31.69,30.01,30.60,,,,,,,0,31.6894,0,328921350,,,,
 2025-04-03,29.90,31.20,29.90,30.92,,,,,,,0,31.6894,0,130549704,,,,
@@ -435,3 +435,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,39.13,40.35,38.80,39.69,37.18,35.71,33.69,32.75,32.35,36.4595,1,37.3720,1,29946104,25131436,1.5165,1.1114,0.4051
 2026-11-10,37.40,38.63,37.21,38.63,37.52,35.99,33.81,32.80,32.39,36.4595,1,40.3500,0,233970327,29302622,1.5187,1.1929,0.3258
 2026-11-11,38.48,38.92,37.85,38.91,37.90,36.31,33.94,32.85,32.43,36.4595,1,40.3500,0,74193588,30337734,1.5254,1.2594,0.2661
+2026-11-12,39.03,39.69,38.87,39.33,38.28,36.58,34.08,32.90,32.47,36.4595,1,40.2872,0,65968212,30881499,1.5468,1.3169,0.2300
+2026-11-13,39.58,40.12,39.42,39.79,38.60,36.86,34.21,32.96,32.52,36.4639,1,40.2257,0,9968032,30616268,1.5826,1.3700,0.2126

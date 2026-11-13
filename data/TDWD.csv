@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TDWD,Tailwind 2.0 Acquisition Corp.,Financial Services,Shell Companies,United States,239570384,10.175,20790,38490,391635.75,,,,0.0,0.0,0.0,,,726504,0,,3.343,2.931,-867634,,17795000,16072523,0.0229,0.8536,669,0.01,0.0001,,,,-39.134617,,,,,,,none,,,,,,,,,2026-11-10T13:13:03.641772+00:00
+0.00,TDWD,Tailwind 2.0 Acquisition Corp.,Financial Services,Shell Companies,United States,239570384,10.175,20790,38490,391635.75,,,,0.0,0.0,0.0,,,726504,0,,3.343,2.931,-867634,,17795000,16072523,0.0229,0.8536,669,0.01,0.0001,,,,-39.134617,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-08,9.87,9.88,9.86,9.86,,,,,,,0,9.8800,0,303688,,,,
 2025-12-09,9.85,9.85,9.83,9.85,,,,,,,0,9.8800,0,52205,,,,
@@ -248,3 +248,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.18,10.18,10.18,10.18,10.14,10.13,10.11,10.04,10.01,10.1561,1,10.1266,1,19333,312565,0.0126,0.0101,0.0025
 2026-11-10,10.14,10.14,10.14,10.14,10.14,10.13,10.11,10.04,10.01,10.1675,0,10.1324,1,405600,319671,0.0116,0.0104,0.0011
 2026-11-11,10.14,10.14,10.14,10.14,10.14,10.13,10.11,10.04,10.01,10.1648,0,10.1375,1,,319671,0.0106,0.0105,0.0001
+2026-11-12,10.14,10.14,10.14,10.14,10.14,10.13,10.11,10.04,10.01,10.1623,0,10.1400,1,,318664,0.0097,0.0103,-0.0006

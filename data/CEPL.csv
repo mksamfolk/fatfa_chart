@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CEPL,Capstone Energy+ Inc.,Industrials,Specialty Industrial Machinery,United States,97845784,2.97,461480,482257,1432303.29,-0.106,,,0.34332,0.0388,0.03454,0.33093,0.032279998,31769000,36429000,122.644,1.003,0.593,4476000,-302125,32611589,24977693,0.082370006,0.22389,1352709,2.61,0.1084,,19.8,0.94944286,-2.1413124,1.713,18.847,16.5,20.0,13.0,1.5,strong_buy,2,0,0,1,1,2026-11-12,1.994,https://www.capstoneenergyplus.com,2026-11-10T08:43:00.938179+00:00
+0.00,CEPL,Capstone Energy+ Inc.,Industrials,Specialty Industrial Machinery,United States,97845784,2.97,461480,482257,1432303.29,-0.106,,,0.34332,0.0388,0.03454,0.33093,0.032279998,31769000,36429000,122.644,1.003,0.593,4476000,-302125,32611589,24977693,0.082370006,0.22389,1352709,2.61,0.1084,,19.8,0.94944286,-2.1413124,1.713,18.847,16.5,20.0,13.0,1.5,strong_buy,2,0,0,1,1,2026-11-12,1.994,https://www.capstoneenergyplus.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-08,9.75,11.96,9.69,11.88,,,,,,,0,9.6900,1,4380156,,,,
 2026-07-09,12.22,12.33,11.00,11.15,,,,,,,0,9.6900,1,3229040,,,,
@@ -104,3 +104,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.96,3.06,2.89,2.97,2.82,2.92,4.71,,,3.6157,0,2.2600,1,580932,2182382,-0.5736,-0.7222,0.1486
 2026-11-10,2.92,3.13,2.90,3.06,2.82,2.90,4.62,,,3.6157,0,2.2778,1,693702,2132868,-0.5189,-0.6816,0.1627
 2026-11-11,3.17,3.27,3.08,3.08,2.82,2.90,4.53,,,3.6157,0,2.2952,1,875644,2076539,-0.4685,-0.6389,0.1704
+2026-11-12,3.06,3.06,2.69,2.86,2.83,2.88,4.43,,,3.6157,0,2.3342,1,892892,1982226,-0.4412,-0.5994,0.1582

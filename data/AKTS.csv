@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AKTS,Aktis Oncology Inc.,Healthcare,Biotechnology,United States,910491264,16.37,368680,380829,6234170.73,1.114,,,0.0,-8.53989,0.0,,,517320000,11240000,2.318,16.327,16.173,-75294000,,53746670,28586754,0.14053,0.73384005,4313744,8.44,0.26680002,,-7.6668735,90.50609,1.8678687,40.2,-4.794,35.875,40.0,33.0,,none,8,2,2,2,2,2026-11-12,,https://www.aktisoncology.com,2026-11-10T07:47:14.424114+00:00
+0.00,AKTS,Aktis Oncology Inc.,Healthcare,Biotechnology,United States,910491264,16.37,368680,380829,6234170.73,1.114,,,0.0,-8.53989,0.0,,,517320000,11240000,2.318,16.327,16.173,-75294000,,53746670,28586754,0.14053,0.73384005,4313744,8.44,0.26680002,,-7.6668735,90.50609,1.8678687,40.2,-4.794,35.875,40.0,33.0,,none,8,2,2,2,2,2026-11-12,,https://www.aktisoncology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-09,27.00,29.16,19.33,22.40,,,,,,,0,19.3330,1,69820799,,,,
 2026-01-12,22.45,24.50,20.50,21.75,,,,,,,0,19.3330,1,18045975,,,,
@@ -241,3 +241,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.14,16.52,15.36,16.37,15.78,15.89,19.30,21.51,20.86,17.8846,0,17.0062,0,7662797,7958719,-0.9427,-1.1671,0.2244
 2026-11-10,16.22,17.62,16.21,17.45,15.88,15.93,19.13,21.51,20.84,17.8846,0,13.9600,1,8089820,8009828,-0.7438,-1.0824,0.3386
 2026-11-11,17.48,17.87,17.03,17.04,15.90,15.96,18.96,21.51,20.81,17.8846,0,14.0332,1,2964960,7948793,-0.6123,-0.9884,0.3761
+2026-11-12,16.99,16.99,16.27,16.28,15.85,15.97,18.74,21.50,20.79,17.8846,0,14.1867,1,3996740,7892243,-0.5628,-0.9033,0.3405

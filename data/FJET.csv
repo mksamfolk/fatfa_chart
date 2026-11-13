@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FJET,,Industrials,Aerospace & Defense,United States,59945664,1.09,1042790,1243462,1355373.58,,,,0.0,0.0,0.0,-2.1536,-0.59048,23183200,464007,1.558,11.943,9.855,-14799190,-11746118,54996019,39826467,0.22111,0.19635999,4121202,2.87,0.1024,,,,2.0073667,,-1.734,,,,,none,,,,,,2026-11-09,,https://starfightersspace.com,2026-11-10T09:45:19.945999+00:00
+0.00,FJET,,Industrials,Aerospace & Defense,United States,59945664,1.09,1042790,1243462,1355373.58,,,,0.0,0.0,0.0,-2.1536,-0.59048,23183200,464007,1.558,11.943,9.855,-14799190,-11746118,54996019,39826467,0.22111,0.19635999,4121202,2.87,0.1024,,,,2.0073667,,-1.734,,,,,none,,,,,,2026-11-09,,https://starfightersspace.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-18,10.00,17.72,5.99,8.50,,,,,,,0,5.9900,1,68830450,,,,
 2025-12-19,9.00,10.33,6.40,6.69,,,,,,,0,5.9900,1,15579672,,,,
@@ -240,3 +240,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.85,1.16,0.84,1.09,0.85,0.95,2.22,4.44,5.40,1.1518,0,0.7118,1,4497340,2164575,-0.3513,-0.4539,0.1026
 2026-11-10,1.12,1.15,0.84,0.90,0.87,0.92,2.16,4.40,5.36,1.1518,0,0.7298,1,1950796,2166776,-0.3273,-0.4286,0.1013
 2026-11-11,0.95,0.97,0.88,0.96,0.88,0.90,2.09,4.35,5.31,1.1518,0,0.7470,1,651153,2138766,-0.2999,-0.4028,0.1030
+2026-11-12,0.95,0.96,0.89,0.92,0.88,0.88,2.03,4.31,5.27,1.1518,0,0.7635,1,695086,2102732,-0.2782,-0.3779,0.0997

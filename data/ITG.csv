@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ITG,ITG Inc.,Industrials,Engineering & Construction,United States,666112256,5.38,713360,515618,2774024.84,0.384,-0.846,-0.846,0.17517,0.05659,-0.0133299995,,,2486000,875278976,2546.192,2.802,2.664,-46495000,,48444533,22424974,0.00059999997,0.81099,1748448,2.61,0.078,,5.578193,0.48422694,7.577465,0.824,7.446,13.88889,18.0,9.0,1.11111,strong_buy,9,1,1,0,0,2026-11-10,,https://www.itgcomm.com,2026-11-10T10:37:30.221229+00:00
+0.00,ITG,ITG Inc.,Industrials,Engineering & Construction,United States,666112256,5.38,713360,515618,2774024.84,0.384,-0.846,-0.846,0.17517,0.05659,-0.0133299995,,,2486000,875278976,2546.192,2.802,2.664,-46495000,,48444533,22424974,0.00059999997,0.81099,1748448,2.61,0.078,,5.578193,0.48422694,7.577465,0.824,7.446,13.88889,18.0,9.0,1.11111,strong_buy,9,1,1,0,0,2026-11-10,,https://www.itgcomm.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-01,18.00,19.26,16.32,17.71,,,,,,,0,19.2600,0,84365123,,,,
 2026-07-02,17.30,17.95,14.11,15.46,,,,,,,0,19.2600,0,38999396,,,,
@@ -118,3 +118,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.64,5.42,4.57,5.38,5.26,5.43,8.99,,,6.8916,0,6.6243,0,2556038,4469115,-1.0614,-1.2621,0.2007
 2026-11-10,5.35,5.56,5.15,5.34,5.32,5.33,8.86,,,6.8916,0,6.5241,0,2221440,4472410,-0.9843,-1.2065,0.2222
 2026-11-11,5.11,5.34,4.34,5.13,5.36,5.28,8.72,,,6.8916,0,6.4279,0,5705073,4546518,-0.9295,-1.1511,0.2216
+2026-11-12,4.87,5.44,4.87,5.30,5.32,5.25,8.58,,,6.8916,0,6.3356,0,4834660,4612236,-0.8623,-1.0934,0.2310

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-22 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.68,VWAV,VisionWave Holdings Inc.,Industrials,Aerospace & Defense,United States,4381641,1.35,156700,311055,419924.25,,,,0.40015998,-63.36778,0.0,,,5481610,29292940,20.919,0.16,0.15,-17545334,,3245660,1889,0.60099,0.032390002,156415,0.26,0.087299995,1.0671718e-06,,15.302285,0.012710189,126.172,,,,,,none,,,,,,,0.845,https://www.vwav.inc,2026-11-10T13:46:56.524731+00:00
+1.40,VWAV,VisionWave Holdings Inc.,Industrials,Aerospace & Defense,United States,4381641,1.35,156700,311055,419924.25,,,,0.40015998,-63.36778,0.0,,,5481610,29292940,20.919,0.16,0.15,-17545334,,3245660,1889,0.60099,0.032390002,156415,0.26,0.087299995,1.0671718e-06,,15.302285,0.012710189,126.172,,,,,,none,,,,,,,0.845,https://www.vwav.inc,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-15,2.61,3.86,2.37,3.27,,,,,,,0,2.3700,1,2114709,,,,
 2025-07-16,3.09,3.69,2.52,3.52,,,,,,,0,2.3700,1,1794848,,,,
@@ -350,3 +350,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.35,1.45,1.26,1.35,2.13,2.95,2.23,4.12,5.45,2.7846,0,3.4291,0,202230,2043839,-0.3367,-0.0629,-0.2738
 2026-11-10,1.32,1.41,1.11,1.27,2.01,2.79,2.23,4.08,5.41,2.6367,0,3.0387,0,215773,2027456,-0.3866,-0.1276,-0.2590
 2026-11-11,1.19,1.20,1.03,1.04,1.85,2.64,2.23,4.04,5.37,2.4260,0,2.6529,0,410072,2015314,-0.4397,-0.1901,-0.2497
+2026-11-12,0.51,0.65,0.43,0.56,1.62,2.47,2.22,4.00,5.32,1.9027,0,2.3284,0,17000311,2336279,-0.5149,-0.2550,-0.2599

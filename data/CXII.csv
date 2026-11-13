@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CXII,Churchill Capital Corp XII,Financial Services,Shell Companies,United States,576053504,10.37,7790,37118,384913.66,,,,0.0,0.0,0.0,,,578224,0,,4.414,,0,,41750000,41750269,0.00071999995,0.65237,9839,0.26,0.0002,,,,1.4378814,,,,,,,none,,,,,,,,https://churchillcapital-12.com,2026-11-10T09:08:31.350544+00:00
+0.00,CXII,Churchill Capital Corp XII,Financial Services,Shell Companies,United States,576053504,10.37,7790,37118,384913.66,,,,0.0,0.0,0.0,,,578224,0,,4.414,,0,,41750000,41750269,0.00071999995,0.65237,9839,0.26,0.0002,,,,1.4378814,,,,,,,none,,,,,,,,https://churchillcapital-12.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-17,10.10,10.11,10.09,10.09,,,,,,,0,10.1100,0,93837,,,,
 2026-06-18,10.08,10.08,10.05,10.05,,,,,,,0,10.1100,0,34170,,,,
@@ -117,3 +117,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.38,10.38,10.36,10.37,10.38,10.38,10.59,,,10.5166,0,10.3897,0,8296,478620,-0.0634,-0.0733,0.0099
 2026-11-10,10.38,10.50,10.38,10.48,10.39,10.38,10.59,,,10.5166,0,10.3200,1,157200,481764,-0.0507,-0.0688,0.0181
 2026-11-11,10.48,10.48,10.48,10.48,10.39,10.38,10.58,,,10.5166,0,10.3236,1,,481613,-0.0401,-0.0631,0.0229
+2026-11-12,10.45,10.49,10.45,10.48,10.40,10.39,10.58,,,10.5166,0,10.3271,1,18864,481519,-0.0314,-0.0567,0.0253

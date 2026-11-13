@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-05-06 09:30:00-04:00,0.1\n2026-10-22 09:30:00-04:00,0.4\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-2.38,AXNX,Axonex AI Group Limited,Industrials,Engineering & Construction,Hong Kong,7183464,1.13,804280,2007459,2268428.67,-0.324,,,0.109139994,-1.13345,0.0,-2.27113,-0.98331,1028592,1079216,32.86,1.888,1.31,-858394,3104595,6076297,1967130,0.27056,0.09454001,276523,0.29,0.050300002,,,3.1360362,0.3441974,1.416,-0.323,,,,,none,,,,,,,,https://mimintinc.com,2026-11-10T08:10:01.532454+00:00
+1.88,AXNX,Axonex AI Group Limited,Industrials,Engineering & Construction,Hong Kong,7183464,1.13,804280,2007459,2268428.67,-0.324,,,0.109139994,-1.13345,0.0,-2.27113,-0.98331,1028592,1079216,32.86,1.888,1.31,-858394,3104595,6076297,1967130,0.27056,0.09454001,276523,0.29,0.050300002,,,3.1360362,0.3441974,1.416,-0.323,,,,,none,,,,,,,,https://mimintinc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-10,44.00,47.10,38.30,41.10,,,,,,,0,38.3000,1,6405846,,,,
 2025-01-13,44.00,49.00,41.80,43.60,,,,,,,0,38.3000,1,2987036,,,,
@@ -491,3 +491,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.03,1.22,0.99,1.13,0.99,1.09,1.75,4.91,5.60,1.4646,0,0.6800,1,148708,4641491,-0.2777,-0.3410,0.0634
 2026-11-10,1.12,1.12,1.00,1.02,1.01,1.06,1.72,4.87,5.57,1.4646,0,0.6908,1,43758,4617583,-0.2608,-0.3250,0.0642
 2026-11-11,1.02,1.06,0.96,1.01,1.02,1.03,1.71,4.84,5.53,1.4646,0,0.7014,1,28826,4602505,-0.2450,-0.3090,0.0640
+2026-11-12,1.04,1.04,0.96,0.96,1.01,1.02,1.70,4.80,5.49,1.4646,0,0.7118,1,23642,4590804,-0.2338,-0.2939,0.0601

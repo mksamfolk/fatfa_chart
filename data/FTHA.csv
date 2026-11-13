@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FTHA,Forefront Tech Holdings Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,137444432,10.03,13720,17192,172435.75999999998,,,,0.0,0.0,0.0,,,1042341,0,,0.052,,0,,10370000,7885035,0.0,0.46238,324,0.01,,,,,-73.74999,,,,,,,none,,,,,,,,https://forefrontacq.com,2026-11-10T09:52:40.045400+00:00
+0.00,FTHA,Forefront Tech Holdings Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,137444432,10.03,13720,17192,172435.75999999998,,,,0.0,0.0,0.0,,,1042341,0,,0.052,,0,,10370000,7885035,0.0,0.46238,324,0.01,,,,,-73.74999,,,,,,,none,,,,,,,,https://forefrontacq.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.97,9.97,9.92,9.93,,,,,,,0,9.9700,0,1288914,,,,
 2026-06-23,9.91,9.92,9.90,9.91,,,,,,,0,9.9700,0,90181,,,,
@@ -115,3 +115,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.03,10.03,10.03,10.03,10.02,10.02,9.99,,,10.0166,1,10.0242,1,,56513,0.0115,0.0119,-0.0004
 2026-11-10,10.03,10.03,10.03,10.03,10.02,10.02,9.99,,,10.0179,1,10.0278,1,,56513,0.0114,0.0118,-0.0004
 2026-11-11,10.03,10.03,10.03,10.03,10.03,10.02,9.99,,,10.0191,1,10.0300,1,,56513,0.0112,0.0117,-0.0005
+2026-11-12,10.03,10.03,10.03,10.03,10.03,10.02,9.99,,,10.0202,1,10.0300,1,,56513,0.0109,0.0115,-0.0007

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.03,GBFH,GBank Financial Holdings Inc.,Financial Services,Banks - Regional,United States,225931200,15.56,127440,83962,1306448.72,-0.015,-0.115,-0.106,0.0,0.2754,0.24018,0.10808,0.01307,113340000,95545000,,,,,,14520000,8808122,0.36041,0.26603,731154,9.68,0.0738,12.548388,7.4212923,3.0103288,1.2882928,2.773,,20.0,25.0,15.0,2.0,buy,3,0,0,2,2,2027-01-28,0.046,https://www.gbankfinancialholdings.com,2026-11-10T09:56:12.029091+00:00
+11.38,GBFH,GBank Financial Holdings Inc.,Financial Services,Banks - Regional,United States,225931200,15.56,127440,83962,1306448.72,-0.015,-0.115,-0.106,0.0,0.2754,0.24018,0.10808,0.01307,113340000,95545000,,,,,,14520000,8808122,0.36041,0.26603,731154,9.68,0.0738,12.548388,7.4212923,3.0103288,1.2882928,2.773,,20.0,25.0,15.0,2.0,buy,3,0,0,2,2,2027-01-28,0.046,https://www.gbankfinancialholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-09,16.55,16.90,16.43,16.90,,,,,,,0,16.4350,1,794300,,,,
 2024-07-10,16.90,17.00,16.90,16.90,,,,,,,0,16.4350,1,304200,,,,
@@ -604,3 +604,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.89,16.00,15.41,15.56,15.77,16.55,18.59,25.25,26.88,17.3302,0,17.2266,0,925820,1532619,-1.0024,-1.0590,0.0566
 2026-11-10,15.57,15.68,15.29,15.34,15.56,16.45,18.48,25.19,26.80,17.3302,0,17.1123,0,690300,1501075,-0.9808,-1.0433,0.0625
 2026-11-11,15.31,15.57,13.78,15.32,15.39,16.39,18.36,25.12,26.71,17.3302,0,17.0002,0,1181172,1485392,-0.9544,-1.0256,0.0712
+2026-11-12,15.34,15.66,15.00,15.05,15.37,16.25,18.23,25.05,26.62,17.3302,0,16.8904,0,1134770,1472200,-0.9444,-1.0093,0.0650

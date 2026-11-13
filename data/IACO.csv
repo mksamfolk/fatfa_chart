@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IACO,Idea Acquisition Corp.,Financial Services,Shell Companies,United States,437937504,10.01,24710,67593,676605.9299999999,,,,0.0,0.0,0.0,,,1168048,250689,,,,0,,35000000,32749938,0.00114,0.74385,987,0.01,,,,,-33.590603,,,,,,,none,,,,,,,,,2026-11-10T10:23:59.226643+00:00
+0.00,IACO,Idea Acquisition Corp.,Financial Services,Shell Companies,United States,437937504,10.01,24710,67593,676605.9299999999,,,,0.0,0.0,0.0,,,1168048,250689,,,,0,,35000000,32749938,0.00114,0.74385,987,0.01,,,,,-33.590603,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-06,9.83,9.83,9.82,9.82,,,,,,,0,9.8300,0,201310,,,,
 2026-04-07,9.80,9.82,9.78,9.82,,,,,,,0,9.8300,0,251392,,,,
@@ -168,3 +168,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.00,10.01,10.00,10.01,10.00,10.00,9.99,,,9.9878,1,9.9917,1,5107102,855506,0.0047,0.0052,-0.0006
 2026-11-10,10.01,10.01,10.01,10.01,10.00,10.00,9.99,,,9.9916,1,9.9928,1,,855506,0.0050,0.0052,-0.0002
 2026-11-11,10.01,10.01,10.01,10.01,10.01,10.00,9.99,,,9.9935,1,9.9939,1,2002,855128,0.0051,0.0052,-0.0000
+2026-11-12,10.01,10.01,10.01,10.01,10.00,10.00,9.99,,,9.9951,1,9.9950,1,,854809,0.0052,0.0052,0.0001

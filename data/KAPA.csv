@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-09-01 09:30:00-04:00,0.14285714285714285\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.92,KAPA,,Healthcare,Biotechnology,United States,1709618,0.505,76710,365453,184553.765,,,,0.0,0.0,0.0,-1.13958,-0.66909,2626000,0,,11.977,9.909,-3970000,-1888125,3385383,2247410,0.33611,0.07296,134519,0.16,0.0558,,-0.10767063,,0.36888242,,0.158,49.00245,84.0042,14.0007,,none,2,0,0,0,0,,1.839,https://kairospharma.com,2026-11-10T10:43:53.338969+00:00
+1.72,KAPA,,Healthcare,Biotechnology,United States,1709618,0.505,76710,365453,184553.765,,,,0.0,0.0,0.0,-1.13958,-0.66909,2626000,0,,11.977,9.909,-3970000,-1888125,3385383,2247410,0.33611,0.07296,134519,0.16,0.0558,,-0.10767063,,0.36888242,,0.158,49.00245,84.0042,14.0007,,none,2,0,0,0,0,,1.839,https://kairospharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-16,28.00,28.00,15.47,18.20,,,,,,,0,28.0000,0,1375665,,,,
 2024-09-17,18.20,18.69,15.40,17.22,,,,,,,0,28.0000,0,670357,,,,
@@ -556,3 +556,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.49,0.53,0.49,0.50,0.50,0.56,1.29,2.66,3.19,0.7484,0,0.5502,0,17776,474301,-0.2201,-0.2647,0.0446
 2026-11-10,0.51,0.53,0.47,0.47,0.50,0.54,1.25,2.63,3.17,0.7409,0,0.5300,0,39058,468815,-0.2089,-0.2536,0.0446
 2026-11-11,0.50,0.51,0.47,0.51,0.50,0.53,1.21,2.61,3.15,0.7191,0,0.5300,0,10863,465889,-0.1949,-0.2418,0.0469
+2026-11-12,0.50,0.51,0.48,0.48,0.49,0.52,1.17,2.58,3.12,0.7084,0,0.5300,0,14815,464430,-0.1840,-0.2303,0.0463

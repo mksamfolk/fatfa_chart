@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.46,HCMA,HCM III Acquisition Corp.,Financial Services,Shell Companies,United States,348802656,10.34,78210,52303,540813.02,,,,0.0,0.0,0.0,,,670656,0,,1.637,1.527,-473684,,25300000,25225112,0.0047400002,0.93878,1986,0.04,0.0001,,,,-24.915663,,,,,,,none,,,,,,,,,2026-11-10T10:13:18.684716+00:00
+55.88,HCMA,HCM III Acquisition Corp.,Financial Services,Shell Companies,United States,348802656,10.34,78210,52303,540813.02,,,,0.0,0.0,0.0,,,670656,0,,1.637,1.527,-473684,,25300000,25225112,0.0047400002,0.93878,1986,0.04,0.0001,,,,-24.915663,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-22,10.05,10.15,10.05,10.07,,,,,,,0,10.0500,1,492423,,,,
 2025-09-23,10.09,10.12,10.07,10.10,,,,,,,0,10.0500,1,5003540,,,,
@@ -302,3 +302,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.32,10.34,10.32,10.34,10.32,10.31,10.30,10.24,10.21,10.3067,1,10.2911,1,83754,634541,0.0076,0.0046,0.0030
 2026-11-10,10.35,10.35,10.32,10.34,10.32,10.31,10.30,10.24,10.21,10.3067,1,10.2941,1,387750,642275,0.0088,0.0055,0.0034
 2026-11-11,10.34,10.34,10.34,10.34,10.33,10.31,10.30,10.24,10.22,10.3130,1,10.2986,1,,642255,0.0097,0.0063,0.0034
+2026-11-12,10.35,10.35,10.34,10.34,10.33,10.31,10.31,10.24,10.22,10.3177,1,10.3027,1,604890,654353,0.0103,0.0071,0.0032

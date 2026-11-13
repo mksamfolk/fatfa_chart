@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PPSI,Pioneer Power Solutions Inc.,Industrials,Electrical Equipment & Parts,United States,25084342,2.26,42610,91468,206717.68,-0.4,,,0.16187,-0.39948002,-0.38111,-0.26681,-0.11617,10668000,1337000,5.399,4.112,2.71,-5481000,-5747750,11099266,8603041,0.22489999,0.12316,51494,0.53,0.006,,-13.294118,1.1505524,1.0125448,0.723,-2.917,9.5,12.0,7.0,,none,2,0,0,2,2,2026-11-12,2.235,https://www.pioneerpowersolutions.com,2026-11-10T12:12:14.434828+00:00
+0.00,PPSI,Pioneer Power Solutions Inc.,Industrials,Electrical Equipment & Parts,United States,25084342,2.26,42610,91468,206717.68,-0.4,,,0.16187,-0.39948002,-0.38111,-0.26681,-0.11617,10668000,1337000,5.399,4.112,2.71,-5481000,-5747750,11099266,8603041,0.22489999,0.12316,51494,0.53,0.006,,-13.294118,1.1505524,1.0125448,0.723,-2.917,9.5,12.0,7.0,,none,2,0,0,2,2,2026-11-12,2.235,https://www.pioneerpowersolutions.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,2.90,3.05,2.89,3.01,,,,,,,0,2.8860,1,267890,,,,
 2026-09-04,2.98,3.01,2.89,2.89,,,,,,,0,2.8860,1,184093,,,,
@@ -63,3 +63,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.27,2.36,2.23,2.26,2.45,2.55,,,,2.8455,0,2.7186,0,61924,,,,
 2026-11-10,2.27,2.28,2.15,2.22,2.41,2.51,,,,2.7529,0,2.7082,0,118992,,,,
 2026-11-11,2.30,2.33,2.25,2.27,2.37,2.49,,,,2.7529,0,2.6859,0,55161,,-0.2041,-0.1985,-0.0056
+2026-11-12,2.25,2.27,2.20,2.23,2.33,2.46,,,,2.7192,0,2.6645,0,61994,,-0.2011,-0.1991,-0.0021

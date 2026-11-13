@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OPTH,Optimi Health Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,14314668,2.5,49400,42256,105640.0,-0.286,,,-1.75411,-9.57823,0.0,-0.54362,-0.16063,13073333,5144542,29.167,1.727,1.623,-5200159,-1725642,5725867,4647514,0.12657,0.102390006,25535,0.61,,,,81.485664,1.1398836,36.351,-1.518,,,,,none,,,,,,,1.605,https://www.optimihealth.ca,2026-11-10T11:52:55.356468+00:00
+0.00,OPTH,Optimi Health Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,14314668,2.5,49400,42256,105640.0,-0.286,,,-1.75411,-9.57823,0.0,-0.54362,-0.16063,13073333,5144542,29.167,1.727,1.623,-5200159,-1725642,5725867,4647514,0.12657,0.102390006,25535,0.61,,,,81.485664,1.1398836,36.351,-1.518,,,,,none,,,,,,,1.605,https://www.optimihealth.ca,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,5.50,6.40,5.20,6.08,,,,,,,0,6.4000,0,13606432,,,,
 2026-05-21,5.51,5.82,4.95,5.70,,,,,,,0,6.4000,0,2668740,,,,
@@ -136,3 +136,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.34,2.54,2.15,2.50,2.46,2.89,3.94,,,3.1979,0,1.9000,1,82000,151676,-0.4830,-0.4800,-0.0030
 2026-11-10,2.53,2.53,2.21,2.26,2.38,2.82,3.88,,,3.1979,0,1.9128,1,52432,151444,-0.4747,-0.4789,0.0042
 2026-11-11,2.19,2.40,1.94,2.40,2.35,2.79,3.84,,,3.1979,0,1.9253,1,173040,151161,-0.4516,-0.4735,0.0219
+2026-11-12,2.34,2.48,2.05,2.18,2.30,2.74,3.79,,,3.1979,0,1.9376,1,120554,152879,-0.4459,-0.4679,0.0221

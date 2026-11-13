@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MBGL,Mobility Global Inc.,Technology,Software - Infrastructure,United States,5860232192,19.86,4307400,3946043,78368413.98,0.066,-0.183,-0.185,0.70948,0.25641,0.11301,,,186000000,2008000000,20.417,1.879,1.69,441000000,,295077160,294709288,0.00566,0.41817,9800994,2.37,,46.186047,12.363741,3.230558,0.59534156,4.232,10.722,23.58333,32.0,19.0,,none,12,0,0,1,4,2026-11-12,,https://www.mobilityglobal.com,2026-11-10T11:08:59.763020+00:00
+0.00,MBGL,Mobility Global Inc.,Technology,Software - Infrastructure,United States,5860232192,19.86,4307400,3946043,78368413.98,0.066,-0.183,-0.185,0.70948,0.25641,0.11301,,,186000000,2008000000,20.417,1.879,1.69,441000000,,295077160,294709288,0.00566,0.41817,9800994,2.37,,46.186047,12.363741,3.230558,0.59534156,4.232,10.722,23.58333,32.0,19.0,,none,12,0,0,1,4,2026-11-12,,https://www.mobilityglobal.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-26,24.98,25.92,20.94,20.94,,,,,,,0,20.9387,1,1176000,,,,
 2026-06-29,21.94,23.93,21.69,22.93,,,,,,,0,20.9387,1,3847900,,,,
@@ -126,3 +126,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,19.63,19.87,19.25,19.86,19.24,18.90,18.96,,,18.0999,1,18.5728,1,55564310,73837267,0.2978,0.1365,0.1613
 2026-11-10,19.66,20.03,19.40,19.93,19.42,18.99,18.96,,,18.0999,1,18.7014,1,62329083,73311334,0.3261,0.1744,0.1517
 2026-11-11,19.98,19.98,19.60,19.92,19.58,19.09,18.96,,,18.0999,1,18.8196,1,60317760,73135340,0.3437,0.2083,0.1354
+2026-11-12,21.12,23.31,21.09,23.13,20.00,19.31,19.01,,,19.5585,1,18.9285,1,168576060,74965277,0.6097,0.2886,0.3211

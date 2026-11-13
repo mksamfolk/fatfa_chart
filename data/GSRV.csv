@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GSRV,GSR V Acquisition Corp.,Financial Services,Shell Companies,United States,302080544,9.93,25990,62501,620634.9299999999,,,,0.0,0.0,0.0,,,1558257,0,,7.581,,0,,23671000,21549020,0.00127,0.24915001,2847,0.07,0.0001,,,,-40.365852,,,,,,,none,,,,,,,,,2026-11-10T10:08:51.232033+00:00
+0.00,GSRV,GSR V Acquisition Corp.,Financial Services,Shell Companies,United States,302080544,9.93,25990,62501,620634.9299999999,,,,0.0,0.0,0.0,,,1558257,0,,7.581,,0,,23671000,21549020,0.00127,0.24915001,2847,0.07,0.0001,,,,-40.365852,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-02,9.93,9.93,9.91,9.91,,,,,,,0,9.9300,0,136758,,,,
 2026-07-06,9.85,9.87,9.85,9.87,,,,,,,0,9.9300,0,75012,,,,
@@ -107,3 +107,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9580,0,,642746,0.0053,0.0078,-0.0025
 2026-11-10,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9571,0,,633044,0.0048,0.0072,-0.0024
 2026-11-11,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9555,0,9.9561,0,1489500,658337,0.0043,0.0066,-0.0023
+2026-11-12,9.93,9.93,9.93,9.93,9.93,9.93,9.91,,,9.9529,0,9.9552,0,,658298,0.0039,0.0061,-0.0022

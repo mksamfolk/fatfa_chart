@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SECZ,Securitize Corp.,Technology,Software - Application,United States,1137961728,6.97,1784030,3375150,23524795.5,-0.054,,,0.35654998,-0.67250997,-1.00053,,,41695064,91075848,,1.63,1.11,-18944506,,163265685,8116342,0.13357,0.20071,6531651,1.16,,,-348.5,17.042944,-0.386064,4.211,-29.166,15.65714,21.2,11.0,1.85714,buy,7,1,1,0,0,2026-11-09,,https://securitize.io,2026-11-10T12:42:30.905910+00:00
+0.00,SECZ,Securitize Corp.,Technology,Software - Application,United States,1137961728,6.97,1784030,3375150,23524795.5,-0.054,,,0.35654998,-0.67250997,-1.00053,,,41695064,91075848,,1.63,1.11,-18944506,,163265685,8116342,0.13357,0.20071,6531651,1.16,,,-348.5,17.042944,-0.386064,4.211,-29.166,15.65714,21.2,11.0,1.85714,buy,7,1,1,0,0,2026-11-09,,https://securitize.io,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-02,12.45,13.70,12.04,12.30,,,,,,,0,13.7000,0,10498050,,,,
 2026-07-06,12.96,13.20,10.80,10.88,,,,,,,0,13.7000,0,12743744,,,,
@@ -121,4 +121,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,7.44,7.59,6.70,6.96,7.74,8.79,10.04,,,10.0830,0,8.4900,0,12734016,41441145,-0.9848,-0.8377,-0.1471
 2026-11-09,6.97,7.17,6.76,6.97,7.68,8.55,10.05,,,9.7322,0,8.3468,0,16527264,41577140,-0.9980,-0.8698,-0.1282
 2026-11-10,8.89,9.89,8.25,8.53,7.72,8.42,10.10,,,9.7322,0,6.7000,1,94992636,43301914,-0.8725,-0.8703,-0.0021
-2026-11-11,8.74,9.59,8.36,9.06,7.79,8.34,10.15,,,9.7322,0,6.7600,1,25534705,43732008,-0.7219,-0.8406,0.1187
+2026-11-11,8.74,9.59,8.36,9.06,7.79,8.34,10.15,,,9.7322,0,6.7600,1,25699597,43735306,-0.7219,-0.8406,0.1187
+2026-11-12,8.39,8.85,8.20,8.39,7.79,8.19,10.19,,,9.7322,0,6.8226,1,17298503,43968301,-0.6492,-0.8023,0.1532

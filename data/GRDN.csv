@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-90.98,GRDN,Guardian Pharmacy Services Inc.,Healthcare,Medical Care Facilities,United States,2978901248,47.02,468340,516496,24285641.92,-0.017,0.888,0.903,0.22448,0.067600004,0.05132,0.32006,0.13368,119655000,40599000,14.514,1.646,1.269,114057000,75564752,63320300,35903299,0.45182,0.47838002,2383673,3.76,0.0471,40.188038,32.78277,2.0444758,11.144821,1.999,24.731,50.14286,52.0,47.0,1.14286,strong_buy,7,3,3,1,1,2026-11-05,0.055,https://guardianpharmacy.com,2026-11-10T10:06:50.308222+00:00
+91.23,GRDN,Guardian Pharmacy Services Inc.,Healthcare,Medical Care Facilities,United States,2978901248,47.02,468340,516496,24285641.92,-0.017,0.888,0.903,0.22448,0.067600004,0.05132,0.32006,0.13368,119655000,40599000,14.514,1.646,1.269,114057000,75564752,63320300,35903299,0.45182,0.47838002,2383673,3.76,0.0471,40.188038,32.78277,2.0444758,11.144821,1.999,24.731,50.14286,52.0,47.0,1.14286,strong_buy,7,3,3,1,1,2026-11-05,0.055,https://guardianpharmacy.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-26,14.46,16.55,14.16,16.00,,,,,,,0,14.1600,1,45547200,,,,
 2024-09-27,16.50,20.10,16.23,17.75,,,,,,,0,14.1600,1,10935775,,,,
@@ -563,3 +563,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,42.75,47.03,41.50,47.02,41.33,40.60,41.60,40.00,38.47,37.9760,1,39.4500,1,43850852,24259018,0.5073,-0.0957,0.6030
 2026-11-10,46.67,50.17,46.56,49.85,42.36,41.10,41.86,40.06,38.56,41.4640,1,40.2080,1,59047323,25218166,1.1189,0.1473,0.9717
 2026-11-11,49.75,50.58,49.01,49.98,43.32,41.57,42.08,40.12,38.66,43.1141,1,41.4034,1,33116748,25462804,1.5957,0.4370,1.1588
+2026-11-12,50.06,50.28,48.79,49.38,44.21,42.06,42.29,40.19,38.76,43.1141,1,42.6889,1,19189068,25479844,1.9033,0.7302,1.1730
+2026-11-13,49.61,50.06,49.14,49.46,45.09,42.56,42.47,40.26,38.85,43.5082,1,43.7943,1,3844681,25032880,2.1285,1.0099,1.1186

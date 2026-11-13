@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AIOK,AI OKTO CORP.,Energy,Oil & Gas Refining & Marketing,Cyprus,49463036,11.45,8532830,6136785,70266188.25,,,,0.0,0.0,0.0,,,,,,,,,,4319916,,0.77402,0.0,4753,0.06,,,,,,,,,,,,none,,,,,,,,,2026-11-10T07:45:27.437941+00:00
+0.00,AIOK,AI OKTO CORP.,Energy,Oil & Gas Refining & Marketing,Cyprus,49463036,11.45,8532830,6136785,70266188.25,,,,0.0,0.0,0.0,,,,,,,,,,4319916,,0.77402,0.0,4753,0.06,,,,,,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-09,10.69,10.95,5.78,8.70,,,,,,,0,5.7800,1,945690,,,,
 2026-10-12,7.60,7.73,6.05,6.20,,,,,,,0,5.7800,1,282720,,,,
@@ -53,3 +53,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.85,11.87,9.20,11.45,15.07,10.40,,,,8.6546,1,28.9814,0,6558560,,,,
 2026-11-10,10.54,11.44,10.01,11.10,14.84,10.68,,,,8.6546,1,28.1861,0,3716280,,,,
 2026-11-11,10.87,11.60,10.57,10.96,13.12,11.02,,,,8.6546,1,27.4227,0,1853336,,,,
+2026-11-12,10.13,10.36,10.04,10.35,12.27,11.32,,,,8.6546,1,26.6898,0,951165,,,,

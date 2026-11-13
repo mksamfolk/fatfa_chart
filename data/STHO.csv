@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-44.64,STHO,Star Holdings,Real Estate,Real Estate Services,United States,94050640,7.78,81210,38981,303272.18,-0.599,,,0.34609002,0.03126,0.14099,0.0138,0.017239999,34814000,209236992,73.941,20.95,4.633,-13922000,86169648,12081333,8816594,0.04093,0.68324,81318,1.68,0.007900001,6.377049,,0.9571123,0.38064486,2.715,12.401,,,,,none,,,,,,2026-11-06,1.298,https://www.starholdingsco.com,2026-11-10T13:03:33.041440+00:00
+45.53,STHO,Star Holdings,Real Estate,Real Estate Services,United States,94050640,7.78,81210,38981,303272.18,-0.599,,,0.34609002,0.03126,0.14099,0.0138,0.017239999,34814000,209236992,73.941,20.95,4.633,-13922000,86169648,12081333,8816594,0.04093,0.68324,81318,1.68,0.007900001,6.377049,,0.9571123,0.38064486,2.715,12.401,,,,,none,,,,,,2026-11-06,1.298,https://www.starholdingsco.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-28,20.00,20.00,20.00,20.00,,,,,,,0,20.0000,1,620000,,,,
 2023-03-29,20.00,20.30,19.50,19.55,,,,,,,0,20.3000,0,158355,,,,
@@ -925,3 +925,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.54,7.98,7.54,7.78,7.63,7.66,8.72,8.71,8.62,8.1792,0,7.4617,1,765552,278364,-0.2806,-0.3608,0.0802
 2026-11-10,7.78,7.82,7.62,7.70,7.65,7.64,8.69,8.71,8.62,8.1792,0,7.4770,1,129360,279856,-0.2596,-0.3406,0.0809
 2026-11-11,7.75,7.93,7.69,7.78,7.68,7.63,8.65,8.71,8.61,8.1792,0,7.4921,1,291750,284097,-0.2339,-0.3192,0.0853
+2026-11-12,7.80,7.97,7.64,7.85,7.72,7.62,8.61,8.71,8.61,8.1792,0,7.5069,1,412125,289529,-0.2055,-0.2965,0.0910

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FOIL,Londian Wason New Energy Tech Inc.,Industrials,Electrical Equipment & Parts,China,1149466496,14.59,58370,44190,644732.1,0.164,,,0.06644,0.026819998,0.00177,0.00366,0.012180001,450942016,10163350528,183.634,0.906,0.387,-81262000,-358428640,78784541,22616873,0.18191999,0.0,6454,0.2,,486.33334,10.347518,0.105049886,1.3150885,0.995,12.892,31.0,31.0,31.0,,none,1,,,,,,,https://www.londianwason.com,2026-11-10T09:48:51.344739+00:00
+0.00,FOIL,Londian Wason New Energy Tech Inc.,Industrials,Electrical Equipment & Parts,China,1149466496,14.59,58370,44190,644732.1,0.164,,,0.06644,0.026819998,0.00177,0.00366,0.012180001,450942016,10163350528,183.634,0.906,0.387,-81262000,-358428640,78784541,22616873,0.18191999,0.0,6454,0.2,,486.33334,10.347518,0.105049886,1.3150885,0.995,12.892,31.0,31.0,31.0,,none,1,,,,,,,https://www.londianwason.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-12,26.00,28.49,23.02,24.50,,,,,,,0,23.0200,1,9741200,,,,
 2026-08-13,25.32,26.00,24.46,24.46,,,,,,,0,23.0200,1,1404004,,,,
@@ -79,3 +79,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.20,15.74,14.20,14.59,15.20,16.95,,,,18.9316,0,16.2948,0,224686,,-1.8630,-1.7459,-0.1172
 2026-11-10,15.85,15.85,13.99,14.26,14.87,16.52,,,,18.9316,0,12.5100,1,330832,,-1.8187,-1.7604,-0.0583
 2026-11-11,14.25,15.03,14.25,14.56,14.67,16.25,19.64,,,18.9316,0,12.5768,1,133952,916811,-1.7393,-1.7562,0.0169
+2026-11-12,14.20,14.53,14.20,14.29,14.56,15.96,19.44,,,18.9316,0,12.6423,1,75737,723501,-1.6788,-1.7407,0.0619

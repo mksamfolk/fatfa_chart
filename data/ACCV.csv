@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ACCV,Accelevation Holdings Corp.,Industrials,Electrical Equipment & Parts,United States,2687195136,12.075,1851730,1552112,18741752.4,0.8,,,0.29251,0.08966,0.0677,,,28346000,689400000,2202.063,1.93,1.076,-6531000,,120022472,,0.90130997,0.01939,2835572,0.82,,,11.96848,3.6981106,,,,19.28571,22.0,16.0,1.5,strong_buy,7,0,0,0,0,2026-11-12,,https://www.accelevation.com,2026-11-10T07:34:53.422007+00:00
+0.00,ACCV,Accelevation Holdings Corp.,Industrials,Electrical Equipment & Parts,United States,2687195136,12.075,1851730,1552112,18741752.4,0.8,,,0.29251,0.08966,0.0677,,,28346000,689400000,2202.063,1.93,1.076,-6531000,,120022472,,0.90130997,0.01939,2835572,0.82,,,11.96848,3.6981106,,,,19.28571,22.0,16.0,1.5,strong_buy,7,0,0,0,0,2026-11-12,,https://www.accelevation.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-30,17.55,18.10,17.51,17.95,,,,,,,0,18.1000,0,228991157,,,,
 2026-10-01,17.88,17.88,15.46,16.58,,,,,,,0,18.1000,0,142317950,,,,
@@ -60,3 +60,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.99,12.65,9.70,12.08,13.11,13.18,,,,15.5948,0,15.1004,0,21504816,,,,
 2026-11-10,11.87,12.03,10.22,10.68,12.83,12.95,,,,15.5948,0,14.8780,0,14214012,,,,
 2026-11-11,11.08,12.62,11.01,11.91,12.52,12.84,,,,15.5948,0,14.6644,0,17393364,,,,
+2026-11-12,11.66,13.03,11.66,12.21,12.22,12.76,,,,15.5948,0,14.4595,0,15257616,,,,

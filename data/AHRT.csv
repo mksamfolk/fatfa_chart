@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AHRT,AH REALTY TRUST INC,Real Estate,REIT - Diversified,United States,614670272,6.46,981040,898651,5805285.46,-0.012,,,0.67061996,0.22692,-0.13407,-0.00067000004,0.0226,32664000,1070057024,154.409,1.238,0.412,78573000,166821632,73833986,72863807,0.01311,0.80991,3130382,2.39,0.053400002,,,2.1327388,1.3982685,6.476,11.144,7.5,8.0,7.0,2.25,buy,4,1,1,0,0,2026-11-02,1.142,https://www.ahrealtytrust.com,2026-11-10T07:44:06.364627+00:00
+0.00,AHRT,AH REALTY TRUST INC,Real Estate,REIT - Diversified,United States,614670272,6.46,981040,898651,5805285.46,-0.012,,,0.67061996,0.22692,-0.13407,-0.00067000004,0.0226,32664000,1070057024,154.409,1.238,0.412,78573000,166821632,73833986,72863807,0.01311,0.80991,3130382,2.39,0.053400002,,,2.1327388,1.3982685,6.476,11.144,7.5,8.0,7.0,2.25,buy,4,1,1,0,0,2026-11-02,1.142,https://www.ahrealtytrust.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,6.53,6.58,6.48,6.50,,,,,,,0,6.4800,1,3029650,,,,
 2026-09-04,6.50,6.65,6.44,6.61,,,,,,,0,6.6500,0,3088853,,,,
@@ -67,3 +67,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.48,6.53,6.38,6.46,6.35,6.17,,,,6.1157,1,6.3611,1,3503258,,0.0899,0.0241,0.0658
 2026-11-10,6.36,6.44,6.30,6.38,6.38,6.18,,,,6.1157,1,6.8000,0,3841398,,0.0859,0.0365,0.0494
 2026-11-11,6.37,6.40,6.34,6.37,6.41,6.21,,,,6.1157,1,6.7900,0,2453087,,0.0809,0.0454,0.0355
+2026-11-12,6.41,6.43,6.31,6.34,6.43,6.23,,,,6.1157,1,6.7802,0,2853634,,0.0737,0.0510,0.0227

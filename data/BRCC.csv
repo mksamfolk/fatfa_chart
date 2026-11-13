@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-24 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.53,BRCC,BRC Inc.,Consumer Defensive,Packaged Foods,United States,253280752,10.09,199800,137095,1383288.55,0.073,,,0.34597,-0.06932,-0.015269999,-0.24609,-0.0072500003,9197000,45606000,67.585,1.587,0.632,1677000,-11518375,12055408,9521241,0.2425,0.49307,474996,4.55,0.056700002,,24.023811,0.579558,2.632403,0.411,410.712,14.33333,15.0,13.0,1.0,strong_buy,3,0,0,1,1,2026-11-02,1.218,https://www.blackriflecoffee.com,2026-11-10T08:28:00.165015+00:00
+99.51,BRCC,BRC Inc.,Consumer Defensive,Packaged Foods,United States,253280752,10.09,199800,137095,1383288.55,0.073,,,0.34597,-0.06932,-0.015269999,-0.24609,-0.0072500003,9197000,45606000,67.585,1.587,0.632,1677000,-11518375,12055408,9521241,0.2425,0.49307,474996,4.55,0.056700002,,24.023811,0.579558,2.632403,0.411,410.712,14.33333,15.0,13.0,1.0,strong_buy,3,0,0,1,1,2026-11-02,1.218,https://www.blackriflecoffee.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-10,14.72,18.50,13.61,15.64,,,,,,,0,13.6100,1,121674511,,,,
 2022-02-11,18.85,19.25,15.76,16.28,,,,,,,0,13.6100,1,163403995,,,,
@@ -1205,3 +1205,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.68,10.60,9.40,10.09,11.10,10.87,7.89,3.40,2.77,12.1332,0,12.9730,0,1915082,1315011,0.5569,1.0007,-0.4439
 2026-11-10,9.99,10.36,9.03,9.80,10.92,10.86,8.07,3.46,2.81,12.1332,0,12.8741,0,1697360,1333938,0.4517,0.8909,-0.4392
 2026-11-11,9.72,10.17,9.68,10.09,10.72,10.84,8.25,3.52,2.85,12.1332,0,12.7772,0,1247124,1340525,0.3874,0.7902,-0.4029
+2026-11-12,10.09,10.15,9.27,9.60,10.38,10.79,8.43,3.58,2.90,12.1332,0,12.6823,0,1730880,1340577,0.2934,0.6909,-0.3974

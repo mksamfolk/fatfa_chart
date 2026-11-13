@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.40,OMSE,,Energy,Oil & Gas Equipment & Services,Singapore,163410528,3.8496,18670,25003,96251.5488,-0.017,0.083,0.188,0.30293,0.23124,0.20658001,0.2041,0.106709994,152200000,6441000,3.263,6.655,5.825,54118000,37119124,42448704,15296815,0.66137004,0.0073,4794,0.26,0.00029999999,5.5791306,4.8729115,1.0481081,0.8615936,0.163,0.643,10.0,10.0,10.0,,none,2,,,,,2026-11-19,,https://www.omsos.com,2026-11-10T11:50:31.046481+00:00
+38.92,OMSE,,Energy,Oil & Gas Equipment & Services,Singapore,163410528,3.8496,18670,25003,96251.5488,-0.017,0.083,0.188,0.30293,0.23124,0.20658001,0.2041,0.106709994,152200000,6441000,3.263,6.655,5.825,54118000,37119124,42448704,15296815,0.66137004,0.0073,4794,0.26,0.00029999999,5.5791306,4.8729115,1.0481081,0.8615936,0.163,0.643,10.0,10.0,10.0,,none,2,,,,,2026-11-19,,https://www.omsos.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-13,8.00,9.23,6.71,7.51,,,,,,,0,6.7100,1,13980616,,,,
 2025-05-14,8.06,8.45,7.20,7.89,,,,,,,0,6.7100,1,2955594,,,,
@@ -392,3 +392,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.86,3.94,3.81,3.85,3.99,4.03,4.33,4.41,4.45,4.5134,0,4.3900,0,59290,125853,-0.1220,-0.1149,-0.0071
 2026-11-10,3.86,3.93,3.75,3.79,3.95,4.00,4.31,4.40,4.45,4.4726,0,4.3784,0,127723,121019,-0.1285,-0.1176,-0.0109
 2026-11-11,3.88,3.92,3.79,3.92,3.93,4.00,4.30,4.40,4.45,4.4611,0,4.3533,0,38808,116782,-0.1218,-0.1185,-0.0033
+2026-11-12,3.85,4.05,3.83,3.94,3.92,4.00,4.30,4.39,4.44,4.4611,0,4.3291,0,118594,115995,-0.1135,-0.1175,0.0040

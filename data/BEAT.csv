@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-12.30,BEAT,HeartBeam Inc.,Healthcare,Health Information Services,United States,22860858,0.4057,1981360,7493373,3040061.4261,,,,0.0,0.0,0.0,-3.28441,-1.5351601,8722000,0,,3.657,3.546,-13018000,-6563732,56349171,43670608,0.19567,0.14675,2484378,0.13,0.05,,-0.76547176,,2.7979312,,-0.696,3.5,5.0,2.0,,none,2,1,1,0,0,2026-11-12,-0.847,https://www.heartbeam.com,2026-11-10T08:16:46.699645+00:00
+12.75,BEAT,HeartBeam Inc.,Healthcare,Health Information Services,United States,22860858,0.4057,1981360,7493373,3040061.4261,,,,0.0,0.0,0.0,-3.28441,-1.5351601,8722000,0,,3.657,3.546,-13018000,-6563732,56349171,43670608,0.19567,0.14675,2484378,0.13,0.05,,-0.76547176,,2.7979312,,-0.696,3.5,5.0,2.0,,none,2,1,1,0,0,2026-11-12,-0.847,https://www.heartbeam.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-11,5.40,5.47,4.22,4.69,,,,,,,0,5.4700,0,12361433,,,,
 2021-11-12,4.40,4.78,4.10,4.25,,,,,,,0,5.4700,0,3946550,,,,
@@ -1269,3 +1269,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.40,0.42,0.40,0.41,0.45,0.43,0.47,0.71,0.96,0.3858,1,0.5565,0,189115,5968055,-0.0136,-0.0106,-0.0030
 2026-11-10,0.41,0.41,0.39,0.41,0.45,0.43,0.46,0.71,0.95,0.3858,1,0.5459,0,127622,5963269,-0.0144,-0.0113,-0.0030
 2026-11-11,0.41,0.42,0.41,0.41,0.44,0.43,0.46,0.70,0.94,0.3858,1,0.5359,0,144467,5955605,-0.0146,-0.0120,-0.0026
+2026-11-12,0.41,0.42,0.40,0.40,0.42,0.43,0.46,0.70,0.93,0.3858,1,0.5266,0,177598,5954965,-0.0151,-0.0126,-0.0025

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GHXI,Gores Holdings XI Inc.,Financial Services,Shell Companies,United States,446242496,9.9,8020,87621,867447.9,,,,0.0,0.0,0.0,,,1123701,0,,,,,,36105000,,0.0070599997,0.059070002,1218,0.03,,,,,-17.647058,,,,,,,none,,,,,,,,,2026-11-10T09:59:54.377421+00:00
+0.00,GHXI,Gores Holdings XI Inc.,Financial Services,Shell Companies,United States,446242496,9.9,8020,87621,867447.9,,,,0.0,0.0,0.0,,,1123701,0,,,,,,36105000,,0.0070599997,0.059070002,1218,0.03,,,,,-17.647058,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-13,9.98,10.88,9.94,9.95,,,,,,,0,9.9400,1,119400,,,,
 2026-08-14,10.08,10.08,10.08,10.08,,,,,,,0,9.9400,1,8064,,,,
@@ -78,3 +78,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.90,9.90,9.90,9.90,9.90,9.92,,,,9.9439,0,10.1478,0,,,-0.0223,-0.0248,0.0025
 2026-11-10,9.90,9.90,9.90,9.90,9.90,9.91,,,,9.9395,0,10.1329,0,,,-0.0215,-0.0241,0.0026
 2026-11-11,9.90,9.91,9.90,9.91,9.91,9.91,,,,9.9395,0,10.1189,0,2394256,,-0.0198,-0.0232,0.0034
+2026-11-12,9.92,9.92,9.90,9.92,9.91,9.91,9.97,,,9.9395,0,10.1058,0,12896,997658,-0.0174,-0.0221,0.0046

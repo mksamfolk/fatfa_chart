@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.91,RANG,Range Capital Acquisition Corp.,Financial Services,Shell Companies,United States,73208824,10.93,880,1739,19007.27,,-0.244,-0.307,0.0,0.0,0.0,,,1862,172000,,0.23,0.004,-564370,,6697971,2586488,0.61384,0.42993,4648,5.29,0.0018000001,99.36364,,,-218.6,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-10T12:22:08.882687+00:00
+60.48,RANG,Range Capital Acquisition Corp.,Financial Services,Shell Companies,United States,73208824,10.93,880,1739,19007.27,,-0.244,-0.307,0.0,0.0,0.0,,,1862,172000,,0.23,0.004,-564370,,6697971,2586488,0.61384,0.42993,4648,5.29,0.0018000001,99.36364,,,-218.6,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-14,9.92,9.93,9.92,9.93,,,,,,,0,9.9300,0,1234299,,,,
 2025-01-15,9.92,9.93,9.92,9.92,,,,,,,0,9.9300,0,1438400,,,,
@@ -474,3 +474,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.93,10.93,10.93,10.93,10.93,10.91,10.84,10.69,10.63,10.9460,0,11.0308,0,,22210,0.0269,0.0302,-0.0033
 2026-11-10,10.93,10.93,10.93,10.93,10.93,10.91,10.84,10.69,10.64,10.9460,0,11.0244,0,327900,28102,0.0258,0.0293,-0.0036
 2026-11-11,10.95,10.95,10.95,10.95,10.93,10.92,10.85,10.70,10.64,10.9247,1,11.0181,0,7665,27934,0.0262,0.0287,-0.0025
+2026-11-12,10.95,10.95,10.95,10.95,10.93,10.92,10.85,10.70,10.64,10.9273,1,11.0119,0,,27934,0.0262,0.0282,-0.0020

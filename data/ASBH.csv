@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ASBH,American Savings Bank National Association,Financial Services,Banks - Regional,United States,1314259200,20.22,167210,217402,4395868.4399999995,0.179,0.452,0.452,0.0,0.40043,0.22320999,,,174404000,31300000,,,,,,64997983,25209474,0.0,0.06131,98186,0.43,,,11.064295,4.3121853,1.9000187,3.843,,21.0,22.0,20.0,1.75,buy,4,0,0,0,0,2026-10-29,,https://www.asbhawaii.com,2026-11-10T08:02:08.645022+00:00
+0.00,ASBH,American Savings Bank National Association,Financial Services,Banks - Regional,United States,1314259200,20.22,167210,217402,4395868.4399999995,0.179,0.452,0.452,0.0,0.40043,0.22320999,,,174404000,31300000,,,,,,64997983,25209474,0.0,0.06131,98186,0.43,,,11.064295,4.3121853,1.9000187,3.843,,21.0,22.0,20.0,1.75,buy,4,0,0,0,0,2026-10-29,,https://www.asbhawaii.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-16,17.00,17.45,16.54,17.00,,,,,,,0,16.5400,1,28148600,,,,
 2026-09-17,17.62,18.00,17.02,17.50,,,,,,,0,16.5400,1,9318750,,,,
@@ -70,3 +70,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,19.84,20.77,19.84,20.22,19.35,18.98,,,,17.8796,1,18.3764,1,3862020,,0.4743,0.3934,0.0809
 2026-11-10,20.16,20.40,19.65,20.16,19.46,19.08,,,,17.8796,1,18.5679,1,3608640,,0.5014,0.4150,0.0863
 2026-11-11,20.38,20.38,19.77,20.23,19.60,19.19,,,,17.8796,1,18.7441,1,2953580,,0.5224,0.4365,0.0859
+2026-11-12,20.33,21.39,19.68,20.96,19.80,19.34,,,,17.9069,1,18.9062,1,8478320,,0.5912,0.4674,0.1237

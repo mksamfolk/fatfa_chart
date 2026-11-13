@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-33.16,SFD,Smithfield Foods Inc.,Consumer Defensive,Packaged Foods,United States,7686992384,19.52,2338770,2032356,39671589.12,-0.083,-0.641,-0.641,0.12675,0.03928,0.05942,0.13005,0.06283,1263000064,2390000128,32.798,2.394,1.064,1303000064,676000000,393800826,46287349,0.88264,0.147,5881281,2.78,0.1271,8.561404,10.755237,0.5069238,1.0957675,0.599,5.993,22.78571,28.5,20.0,2.0,buy,7,0,0,4,3,2026-10-27,,https://www.smithfieldfoods.com,2026-11-10T12:44:12.149332+00:00
+34.70,SFD,Smithfield Foods Inc.,Consumer Defensive,Packaged Foods,United States,7686992384,19.52,2338770,2032356,39671589.12,-0.083,-0.641,-0.641,0.12675,0.03928,0.05942,0.13005,0.06283,1263000064,2390000128,32.798,2.394,1.064,1303000064,676000000,393800826,46287349,0.88264,0.147,5881281,2.78,0.1271,8.561404,10.755237,0.5069238,1.0957675,0.599,5.993,22.78571,28.5,20.0,2.0,buy,7,0,0,4,3,2026-10-27,,https://www.smithfieldfoods.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-28,19.38,19.52,17.59,18.19,,,,,,,0,17.5883,1,240262700,,,,
 2025-01-29,18.19,19.05,18.12,18.87,,,,,,,0,17.5883,1,63402206,,,,
@@ -476,7 +476,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-03,18.44,18.58,18.24,18.36,18.46,18.48,19.59,23.55,23.54,19.4432,0,19.4065,0,46305758,39820365,-0.3210,-0.4166,0.0956
 2026-11-04,18.73,19.78,18.72,19.72,18.60,18.54,19.54,23.50,23.52,17.7749,1,17.9100,1,70605486,40481003,-0.1978,-0.3728,0.1750
 2026-11-05,19.89,20.08,19.27,19.60,18.68,18.58,19.49,23.45,23.51,17.8952,1,17.9474,1,40524961,40811697,-0.1086,-0.3200,0.2113
-2026-11-06,19.37,19.37,18.84,19.30,18.75,18.61,19.44,23.39,23.49,17.8952,1,18.0325,1,29187389,40834514,-0.0614,-0.2683,0.2068
-2026-11-09,19.40,19.58,19.09,19.52,18.87,18.67,19.39,23.34,23.48,17.8952,1,18.1142,1,34968129,40967342,-0.0062,-0.2159,0.2096
-2026-11-10,19.50,19.57,19.21,19.25,18.96,18.72,19.34,23.28,23.46,17.8952,1,18.1926,1,28056875,40898304,0.0156,-0.1696,0.1851
-2026-11-11,19.37,19.37,18.92,19.14,19.03,18.76,19.28,23.21,23.45,17.8952,1,18.2679,1,30629741,40983070,0.0237,-0.1309,0.1546
+2026-11-06,19.05,19.05,18.53,18.98,18.72,18.60,19.43,23.39,23.49,17.8952,1,18.0325,1,29187389,40834514,-0.0866,-0.2733,0.1867
+2026-11-09,19.08,19.26,18.78,19.20,18.81,18.63,19.38,23.34,23.48,17.8952,1,18.1142,1,34968129,40967342,-0.0511,-0.2289,0.1777
+2026-11-10,19.18,19.25,18.90,18.94,18.87,18.67,19.32,23.27,23.46,17.8952,1,18.1926,1,28056875,40898304,-0.0439,-0.1919,0.1479
+2026-11-11,19.05,19.05,18.61,18.83,18.90,18.70,19.26,23.21,23.44,17.8952,1,18.2679,1,30629741,40983070,-0.0464,-0.1628,0.1164
+2026-11-12,18.95,19.08,18.76,18.98,18.95,18.72,19.19,23.14,23.42,17.8952,1,18.3402,1,34788441,40965220,-0.0357,-0.1374,0.1017

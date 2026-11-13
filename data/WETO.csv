@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-03 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.53,WETO,Wetour Robotics Limited,Technology,Software - Infrastructure,United States,11680031,0.784,5109200,8214023,6439794.032000001,-0.793,,,0.08315,-3.90722,-2.33246,-0.52933,-0.17556,716662,21700200,35.741,1.826,0.039,4008088,-30330888,14897999,477034,0.00011,0.00013,316482,0.03,0.346,,,0.87581676,0.04849134,1.609,-0.911,,,,,none,,,,,,,,https://www.wetourrobotics.com,2026-11-10T13:49:53.168218+00:00
+0.55,WETO,Wetour Robotics Limited,Technology,Software - Infrastructure,United States,11680031,0.784,5109200,8214023,6439794.032000001,-0.793,,,0.08315,-3.90722,-2.33246,-0.52933,-0.17556,716662,21700200,35.741,1.826,0.039,4008088,-30330888,14897999,477034,0.00011,0.00013,316482,0.03,0.346,,,0.87581676,0.04849134,1.609,-0.911,,,,,none,,,,,,,,https://www.wetourrobotics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-27,410.00,428.00,349.00,360.00,,,,,,,0,428.0000,0,2666880,,,,
 2025-02-28,341.50,400.00,310.00,376.00,,,,,,,0,428.0000,0,670784,,,,
@@ -443,4 +443,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.84,1.05,0.83,1.01,0.85,0.91,6.15,43.78,47.61,2.2455,0,0.7300,1,2803760,50670726,-1.6582,-2.2866,0.6285
 2026-11-09,0.98,0.98,0.77,0.78,0.84,0.90,6.06,43.40,47.18,2.1380,0,0.7364,1,1569098,50692208,-1.5496,-2.1392,0.5896
 2026-11-10,0.78,0.79,0.55,0.60,0.82,0.88,5.98,42.99,46.76,1.8753,0,1.0500,0,1782540,50723315,-1.4616,-2.0037,0.5421
-2026-11-11,0.66,0.69,0.60,0.65,0.80,0.87,5.90,42.72,46.33,1.7536,0,1.0400,0,602640,50729311,-1.3722,-1.8774,0.5052
+2026-11-11,0.66,0.69,0.60,0.65,0.80,0.87,5.90,42.72,46.33,1.7536,0,1.0400,0,611064,50729479,-1.3722,-1.8774,0.5052
+2026-11-12,0.64,0.67,0.61,0.63,0.78,0.84,5.83,42.26,45.91,1.6548,0,1.0302,0,582117,50736639,-1.2883,-1.7596,0.4713

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XE,X-Energy Inc.,Industrials,Specialty Industrial Machinery,United States,4535045632,11.16,6053590,6330804,70651772.64,1.962,,,-0.65384,-2.19545,-2.98698,,,1635175936,26813000,1.279,17.198,16.994,-252588992,,287458734,174464455,0.75178003,0.44679,22317854,3.51,0.1091,,-17.6532,30.178308,1.7672209,12.514,-6.828,29.77778,57.0,8.0,2.0,buy,9,0,0,2,2,2026-11-12,,https://www.x-energy.com,2026-11-10T13:58:06.720485+00:00
+0.00,XE,X-Energy Inc.,Industrials,Specialty Industrial Machinery,United States,4535045632,11.16,6053590,6330804,70651772.64,1.962,,,-0.65384,-2.19545,-2.98698,,,1635175936,26813000,1.279,17.198,16.994,-252588992,,287458734,174464455,0.75178003,0.44679,22317854,3.51,0.1091,,-17.6532,30.178308,1.7672209,12.514,-6.828,29.77778,57.0,8.0,2.0,buy,9,0,0,2,2,2026-11-12,,https://www.x-energy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-24,30.11,31.33,26.90,29.20,,,,,,,0,26.9000,1,1296170514,,,,
 2026-04-27,32.02,35.98,30.50,35.98,,,,,,,0,26.9000,1,1024131109,,,,
@@ -168,4 +168,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,9.61,10.54,9.28,10.43,10.72,10.99,13.90,,,12.2541,0,11.9031,0,72944293,94675773,-1.0809,-1.1393,0.0584
 2026-11-09,10.50,11.29,10.22,11.16,10.77,10.90,13.78,,,12.2541,0,11.7742,0,62714735,93986206,-0.9633,-1.1041,0.1408
 2026-11-10,10.89,11.23,10.57,10.97,10.71,10.81,13.63,,,12.2541,0,11.6504,0,55871308,92036984,-0.8753,-1.0584,0.1830
-2026-11-11,11.37,11.42,10.86,10.94,10.65,10.78,13.48,,,12.2541,0,11.5316,0,54389302,89525430,-0.7988,-1.0065,0.2076
+2026-11-11,11.37,11.42,10.86,10.94,10.65,10.78,13.48,,,12.2541,0,11.5316,0,54611384,89529872,-0.7988,-1.0065,0.2076
+2026-11-12,11.00,11.71,10.70,11.26,10.61,10.77,13.34,,,12.2541,0,8.6800,1,82274570,89273669,-0.7043,-0.9460,0.2418

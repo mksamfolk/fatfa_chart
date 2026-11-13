@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MSGR,MSG Rangers Corp.,Communication Services,Entertainment,United States,2401931520,244.08,256670,197600,48230208.0,0.032,,,0.0,-1.65924,0.0,,,51000,344192000,1498.768,,,,,9840755,,0.01758,0.24755,,,,,-230.26416,,128.19327,,,266.33334,278.0,257.0,1.0,strong_buy,3,0,0,0,0,2027-02-04,,https://www.nhl.com,2026-11-10T11:23:17.805134+00:00
+0.00,MSGR,MSG Rangers Corp.,Communication Services,Entertainment,United States,2401931520,244.08,256670,197600,48230208.0,0.032,,,0.0,-1.65924,0.0,,,51000,344192000,1498.768,,,,,9840755,,0.01758,0.24755,,,,,-230.26416,,128.19327,,,266.33334,278.0,257.0,1.0,strong_buy,3,0,0,0,0,2027-02-04,,https://www.nhl.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-21,210.00,219.30,210.00,219.30,,,,,,,0,219.3000,0,197370,,,,
 2026-10-22,203.48,203.48,203.48,203.48,,,,,,,0,219.3000,0,203480,,,,
@@ -45,3 +45,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,249.35,249.35,235.78,244.08,218.84,,,,,269.1840,0,198.6239,1,36319104,,,,
 2026-11-10,240.97,245.76,225.03,230.57,224.14,,,,,269.1840,0,204.7110,1,30988609,,,,
 2026-11-11,230.00,232.49,226.17,229.91,228.46,,,,,269.1840,0,210.0677,1,36578682,,,,
+2026-11-12,228.50,233.00,227.15,230.15,229.78,,,,,269.1840,0,214.7816,1,20851589,,,,

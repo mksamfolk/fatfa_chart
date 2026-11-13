@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.95,CRAQ,Cal Redwood Acquisition Corp.,Financial Services,Shell Companies,United States,327355648,10.45,12010,46581,486771.44999999995,,0.541,1.879,0.0,0.0,0.0,,,821425,51294,,2.403,2.065,-495754,,23660000,12987718,0.02309,0.99898005,169,0.0,0.0,40.19231,,,-37.86232,,,,,,,none,,,,,,,,,2026-11-10T08:59:27.256344+00:00
+58.59,CRAQ,Cal Redwood Acquisition Corp.,Financial Services,Shell Companies,United States,327355648,10.45,12010,46581,486771.44999999995,,0.541,1.879,0.0,0.0,0.0,,,821425,51294,,2.403,2.065,-495754,,23660000,12987718,0.02309,0.99898005,169,0.0,0.0,40.19231,,,-37.86232,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-23,10.31,10.44,9.95,9.98,,,,,,,0,9.9500,1,118762,,,,
 2025-06-24,9.99,10.00,9.97,10.00,,,,,,,0,9.9500,1,806000,,,,
@@ -365,3 +365,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.45,10.45,10.45,10.45,10.43,10.42,10.39,10.30,10.27,10.4269,1,10.4287,1,542355,502064,0.0152,0.0129,0.0023
 2026-11-10,10.45,10.45,10.45,10.45,10.44,10.42,10.39,10.30,10.27,10.4292,1,10.4317,1,1672000,535504,0.0156,0.0134,0.0021
 2026-11-11,10.47,10.47,10.47,10.47,10.44,10.42,10.40,10.31,10.27,10.4453,1,10.4343,1,21987,535944,0.0173,0.0142,0.0031
+2026-11-12,10.47,10.47,10.47,10.47,10.45,10.43,10.40,10.31,10.27,10.4478,1,10.4400,1,,535944,0.0184,0.0150,0.0034

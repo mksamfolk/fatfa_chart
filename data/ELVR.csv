@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.07,ELVR,Elevra Lithium Limited,Basic Materials,Other Industrial Metals & Mining,Australia,499203264,25.73,91050,55510,1428272.3,0.775,,,1.1352401,0.44524,0.21334,0.08552,0.04361,255279008,78086000,10.738,3.443,2.748,-43605000,-56179752,19401603,17635543,0.00077,0.120129995,218420,3.95,,9.600746,367.5714,2.4728825,0.6830369,1.582,2.769,,,,,none,,,,,,,1.08,https://www.elevra.com,2026-11-10T09:28:19.046992+00:00
+14.01,ELVR,Elevra Lithium Limited,Basic Materials,Other Industrial Metals & Mining,Australia,499203264,25.73,91050,55510,1428272.3,0.775,,,1.1352401,0.44524,0.21334,0.08552,0.04361,255279008,78086000,10.738,3.443,2.748,-43605000,-56179752,19401603,17635543,0.00077,0.120129995,218420,3.95,,9.600746,367.5714,2.4728825,0.6830369,1.582,2.769,,,,,none,,,,,,,1.08,https://www.elevra.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-02,23.73,24.51,22.00,22.82,,,,,,,0,24.5100,0,14830718,,,,
 2025-09-03,21.52,23.20,21.52,22.58,,,,,,,0,24.5100,0,13803154,,,,
@@ -316,3 +316,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,24.95,25.94,24.91,25.73,24.10,25.38,43.45,62.22,60.53,27.7753,0,26.2905,0,2338857,2046611,-5.1913,-6.4014,1.2101
 2026-11-10,25.69,25.72,24.50,24.62,23.82,25.10,42.72,62.05,60.39,27.7753,0,26.0917,0,1295012,2026319,-4.8357,-6.0883,1.2526
 2026-11-11,27.75,28.30,27.75,27.85,23.94,25.07,42.08,61.93,60.27,21.9597,1,21.3200,1,2375605,2048283,-4.2443,-5.7195,1.4752
+2026-11-12,26.15,26.15,24.76,25.19,24.11,24.92,41.35,61.81,60.11,21.9597,1,21.4596,1,1796047,2026418,-3.9448,-5.3645,1.4197

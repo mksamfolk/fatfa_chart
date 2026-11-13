@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,307990304,9.83,18490,39293,386250.19,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.00127,0.10439,299,0.01,0.0,,,,-1228.7499,,,,,,,none,,,,,,,,,2026-11-10T08:39:38.053905+00:00
+0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,307990304,9.83,18490,39293,386250.19,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.00127,0.10439,299,0.01,0.0,,,,-1228.7499,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-31,10.05,10.05,9.80,9.81,,,,,,,0,10.0500,0,166770,,,,
 2026-08-03,9.80,9.83,9.80,9.80,,,,,,,0,10.0500,0,88200,,,,
@@ -87,3 +87,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.83,9.83,9.83,9.83,9.85,9.85,9.85,,,9.8474,0,9.8857,0,,330040,-0.0031,0.0018,-0.0049
 2026-11-10,9.84,9.84,9.84,9.84,9.85,9.85,9.85,,,9.8474,0,9.8840,0,745872,140620,-0.0033,0.0008,-0.0041
 2026-11-11,9.84,9.84,9.84,9.84,9.84,9.85,9.85,,,9.8474,0,9.8823,0,,140522,-0.0034,-0.0000,-0.0034
+2026-11-12,9.84,9.84,9.84,9.84,9.84,9.85,9.85,,,9.8474,0,9.8806,0,,140522,-0.0035,-0.0007,-0.0028

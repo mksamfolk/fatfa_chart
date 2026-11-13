@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-08-25 09:30:00-04:00,0.1\n2026-08-06 09:30:00-04:00,0.2\n2026-10-07 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.84,SUGP,SU Group Holdings Limited,Industrials,Security & Protection Services,Hong Kong,2405039,1.57,35660,987073,1549704.61,-0.2,,,0.15581,-0.03636,-0.106529996,-0.20292,-0.08971,28651212,4544243,5.428,2.942,2.176,,,1501816,111658,0.0026,0.0018600001,71447,0.03,0.3027,,,0.014079488,0.02929723,-0.139,1.442,,,,,none,,,,,,,1.109,https://www.sugroup.com.hk,2026-11-10T13:05:47.216229+00:00
+3.04,SUGP,SU Group Holdings Limited,Industrials,Security & Protection Services,Hong Kong,2405039,1.57,35660,987073,1549704.61,-0.2,,,0.15581,-0.03636,-0.106529996,-0.20292,-0.08971,28651212,4544243,5.428,2.942,2.176,,,1501816,111658,0.0026,0.0018600001,71447,0.03,0.3027,,,0.014079488,0.02929723,-0.139,1.442,,,,,none,,,,,,,1.109,https://www.sugroup.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-24,219.00,236.00,170.00,200.00,,,,,,,0,236.0000,0,7128000,,,,
 2024-01-25,185.00,199.50,156.00,156.00,,,,,,,0,236.0000,0,785928,,,,
@@ -718,3 +718,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.53,1.60,1.45,1.57,1.61,1.68,1.61,9.31,14.15,1.5404,1,2.4121,0,54008,2973289,-0.0331,-0.0291,-0.0040
 2026-11-10,1.56,1.60,1.29,1.34,1.59,1.64,1.59,9.15,14.01,1.9674,0,2.3734,0,127836,2953450,-0.0534,-0.0339,-0.0195
 2026-11-11,1.33,1.38,1.26,1.31,1.56,1.60,1.58,8.99,13.88,1.8263,0,2.3084,0,44278,2940801,-0.0711,-0.0414,-0.0298
+2026-11-12,1.28,1.33,1.00,1.15,1.51,1.57,1.56,8.84,13.74,1.7217,0,2.2246,0,100280,2919167,-0.0970,-0.0525,-0.0445

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.20,NANO,Forge Nano Holdings Inc.,Technology,Semiconductor Equipment & Materials,United States,546786240,4.25,319390,291896,1240558.0,,,,0.0,0.0,0.0,,,,,,,,,,128655585,,0.15180999,0.115200005,,,,,,,,,,16.9,16.9,16.9,1.0,strong_buy,1,,,,,,,https://www.forgenano.com,2026-11-10T11:28:32.025943+00:00
+9.49,NANO,Forge Nano Holdings Inc.,Technology,Semiconductor Equipment & Materials,United States,546786240,4.25,319390,291896,1240558.0,,,,0.0,0.0,0.0,,,,,,,,,,128655585,,0.15180999,0.115200005,,,,,,,,,,16.9,16.9,16.9,1.0,strong_buy,1,,,,,,,https://www.forgenano.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-03,9.98,10.00,9.97,9.97,,,,,,,0,10.0000,0,6979997,,,,
 2025-04-04,9.97,9.98,9.96,9.97,,,,,,,0,10.0000,0,3059255,,,,
@@ -434,3 +434,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.25,4.85,4.24,4.25,4.11,6.34,8.94,10.17,10.26,7.3840,0,6.7201,0,750550,3112602,-1.6320,-1.5417,-0.0903
 2026-11-10,4.18,4.76,4.13,4.67,4.11,6.04,8.82,10.14,10.23,7.3840,0,6.2881,0,603831,3086451,-1.5310,-1.5396,0.0086
 2026-11-11,4.75,5.20,4.65,4.75,4.16,5.77,8.70,10.10,10.20,7.3840,0,5.9079,0,909625,3092375,-1.4281,-1.5173,0.0892
+2026-11-12,4.85,5.02,4.20,4.60,4.20,5.56,8.58,10.06,10.17,7.3840,0,5.5734,0,615940,3078385,-1.3431,-1.4825,0.1394

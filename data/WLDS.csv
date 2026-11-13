@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-10 09:30:00-04:00,0.05\n2025-03-17 09:30:00-04:00,0.25\n2026-03-11 09:30:00-04:00,0.3333333333333333\n2026-06-22 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.33,WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,Israel,3935585,1.6,45940,328028,524844.8,0.19,,,-0.028450001,-16.76286,0.0,-0.88646007,-0.52592,18841000,248000,1.337,13.677,13.267,-7803000,-4257625,2459741,2126293,0.00263,0.18493,26665,0.11,0.0115,,,5.598272,0.19022708,-21.429,1.452,,,,,none,,,,,,,3.05,https://www.wearabledevices.co.il,2026-11-10T13:52:10.432461+00:00
+5.13,WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,Israel,3935585,1.6,45940,328028,524844.8,0.19,,,-0.028450001,-16.76286,0.0,-0.88646007,-0.52592,18841000,248000,1.337,13.677,13.267,-7803000,-4257625,2459741,2126293,0.00263,0.18493,26665,0.11,0.0115,,,5.598272,0.19022708,-21.429,1.452,,,,,none,,,,,,,3.05,https://www.wearabledevices.co.il,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-13,3384.00,4212.00,1771.20,2052.00,,,,,,,0,4212.0000,0,25262172,,,,
 2022-09-14,1908.00,2181.60,1634.40,2124.00,,,,,,,0,4212.0000,0,7720740,,,,
@@ -1060,3 +1060,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.45,1.71,1.45,1.60,1.37,1.35,1.85,2.57,4.03,1.7078,0,1.2617,1,306080,773370,-0.0908,-0.1454,0.0545
 2026-11-10,1.67,1.69,1.57,1.59,1.39,1.36,1.81,2.56,3.98,1.7078,0,1.2900,1,87450,725851,-0.0684,-0.1300,0.0616
 2026-11-11,1.62,1.63,1.52,1.53,1.42,1.37,1.78,2.54,3.93,1.7078,0,1.3236,1,38403,667231,-0.0548,-0.1149,0.0601
+2026-11-12,1.59,1.60,1.43,1.44,1.44,1.38,1.75,2.52,3.87,1.7078,0,1.3545,1,20304,653172,-0.0507,-0.1021,0.0514

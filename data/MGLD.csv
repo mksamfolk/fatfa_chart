@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.85,MGLD,The Marygold Companies Inc.,Financial Services,Asset Management,United States,85623768,1.98,35310,330307,654007.86,0.257,,,0.92636,-0.03581,-0.17267999,-0.21452999,-0.05531,10728000,468000,2.434,4.35,3.703,-2319000,-2661250,42978290,10322697,0.75328004,0.018760001,35599,0.04,0.0026,,,3.3826005,4.4,2.919,-35.199,,,,,none,,,,,,,0.354,https://themarygoldcompanies.com,2026-11-10T11:14:04.938238+00:00
+96.47,MGLD,The Marygold Companies Inc.,Financial Services,Asset Management,United States,85623768,1.98,35310,330307,654007.86,0.257,,,0.92636,-0.03581,-0.17267999,-0.21452999,-0.05531,10728000,468000,2.434,4.35,3.703,-2319000,-2661250,42978290,10322697,0.75328004,0.018760001,35599,0.04,0.0026,,,3.3826005,4.4,2.919,-35.199,,,,,none,,,,,,,0.354,https://themarygoldcompanies.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-14,4.85,5.15,2.92,3.39,,,,,,,0,5.1500,0,35292274,,,,
 2022-03-15,3.36,3.39,2.71,2.85,,,,,,,0,5.1500,0,5611935,,,,
@@ -1186,3 +1186,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.97,1.98,1.97,1.98,1.97,1.97,1.52,1.26,1.21,1.9031,1,1.3789,1,7524,40775,0.1127,0.1451,-0.0324
 2026-11-10,1.97,1.98,1.97,1.97,1.97,1.97,1.54,1.27,1.21,1.9073,1,1.3919,1,13396,40950,0.1050,0.1371,-0.0320
 2026-11-11,1.97,1.98,1.97,1.98,1.97,1.97,1.56,1.27,1.22,1.9111,1,1.4046,1,16632,40878,0.0986,0.1294,-0.0308
+2026-11-12,1.97,1.98,1.97,1.98,1.97,1.97,1.58,1.28,1.22,1.9120,1,1.4172,1,20145,40905,0.0921,0.1219,-0.0298
+2026-11-13,1.97,1.98,1.98,1.98,1.97,1.97,1.60,1.29,1.23,1.9205,1,1.4294,1,348,40807,0.0859,0.1147,-0.0288

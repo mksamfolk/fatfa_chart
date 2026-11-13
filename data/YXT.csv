@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-14 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.78,YXT,YXT.COM Group Holding Limited,Technology,Software - Application,China,8395038,1.27,20850,177000,224790.0,0.06,,,0.70574,-0.04907,-0.28465998,-0.89385,-0.10309,31425000,126278000,202.671,0.328,0.186,-85899000,52505248,6045872,2002053,0.4937,0.06559,48686,1.64,0.0093,,-12.1161585,0.024023162,0.8112982,0.293,-1.385,,,,,none,,,,,,2026-08-13,6.007,https://www.yxt.com,2026-11-10T14:04:41.333551+00:00
+3.77,YXT,YXT.COM Group Holding Limited,Technology,Software - Application,China,8395038,1.27,20850,177000,224790.0,0.06,,,0.70574,-0.04907,-0.28465998,-0.89385,-0.10309,31425000,126278000,202.671,0.328,0.186,-85899000,52505248,6045872,2002053,0.4937,0.06559,48686,1.64,0.0093,,-12.1161585,0.024023162,0.8112982,0.293,-1.385,,,,,none,,,,,,2026-08-13,6.007,https://www.yxt.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-16,110.00,110.00,100.00,100.20,,,,,,,0,110.0000,0,3286560,,,,
 2024-08-19,100.00,100.50,93.00,93.50,,,,,,,0,110.0000,0,1722270,,,,
@@ -576,3 +576,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.35,1.38,1.25,1.27,1.41,1.40,2.37,3.87,4.64,1.8059,0,2.0550,0,33528,1017236,-0.2824,-0.3544,0.0719
 2026-11-10,1.28,1.33,1.25,1.26,1.40,1.37,2.29,3.84,4.61,1.7597,0,2.0389,0,22806,981532,-0.2738,-0.3382,0.0644
 2026-11-11,1.27,1.27,1.20,1.23,1.37,1.34,2.21,3.81,4.56,1.6778,0,2.0231,0,6765,972589,-0.2663,-0.3239,0.0575
+2026-11-12,1.20,1.22,1.13,1.16,1.35,1.33,2.14,3.78,4.53,1.6005,0,1.9902,0,27724,941352,-0.2630,-0.3117,0.0487

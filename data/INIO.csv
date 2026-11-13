@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,INIO,Innio N.V.,Industrials,Specialty Industrial Machinery,Germany,11182499840,14.91,9326700,5498590,81983976.9,0.573,1.96,1.775,0.33083,0.16577,0.02711,,,1195800064,2953299968,853.062,1.272,0.713,980000000,,750000000,414967500,0.00024000001,0.60594004,19025505,3.11,0.21180001,114.692314,17.500206,3.1815464,33.059868,3.684,23.872,31.4,42.0,21.0,1.8,buy,10,5,5,1,1,2027-01-26,,https://www.innio.com/en,2026-11-10T10:31:30.872983+00:00
+0.00,INIO,Innio N.V.,Industrials,Specialty Industrial Machinery,Germany,11182499840,14.91,9326700,5498590,81983976.9,0.573,1.96,1.775,0.33083,0.16577,0.02711,,,1195800064,2953299968,853.062,1.272,0.713,980000000,,750000000,414967500,0.00024000001,0.60594004,19025505,3.11,0.21180001,114.692314,17.500206,3.1815464,33.059868,3.684,23.872,31.4,42.0,21.0,1.8,buy,10,5,5,1,1,2027-01-26,,https://www.innio.com/en,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-08,32.85,34.97,32.70,33.72,,,,,,,0,32.7000,1,162884466,,,,
 2026-06-09,34.70,35.61,32.61,33.72,,,,,,,0,35.6100,0,213764576,,,,
@@ -139,3 +139,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,14.23,15.03,13.85,14.91,16.06,16.21,18.26,,,18.7650,0,18.2022,0,55849877,111706275,-1.1128,-0.9799,-0.1330
 2026-11-10,14.15,14.59,13.60,13.77,15.74,15.98,18.13,,,18.7650,0,17.9921,0,50293550,111041727,-1.1848,-1.0209,-0.1639
 2026-11-11,14.71,15.31,14.49,15.10,15.42,15.91,18.04,,,18.7650,0,17.7904,0,70805412,110883024,-1.1215,-1.0410,-0.0805
+2026-11-12,14.41,15.35,14.10,15.16,15.18,15.85,17.94,,,18.7650,0,17.5968,0,64005519,109970286,-1.0544,-1.0437,-0.0107

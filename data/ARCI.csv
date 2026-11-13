@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ARCI,Archimedes Tech SPAC Partners III Co.,Financial Services,Shell Companies,United States,355088320,10.07,32440,48482,488213.74,,,,0.0,0.0,0.0,,,1009308,0,,0.11,,0,,35262000,27072048,0.18221001,0.56562,1080,0.01,0.0,,,,-41.61157,,,,,,,none,,,,,,,,https://www.archimedesspac3.com,2026-11-10T07:59:12.518204+00:00
+0.00,ARCI,Archimedes Tech SPAC Partners III Co.,Financial Services,Shell Companies,United States,355088320,10.07,32440,48482,488213.74,,,,0.0,0.0,0.0,,,1009308,0,,0.11,,0,,35262000,27072048,0.18221001,0.56562,1080,0.01,0.0,,,,-41.61157,,,,,,,none,,,,,,,,https://www.archimedesspac3.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-16,9.90,9.90,9.85,9.85,,,,,,,0,9.8500,1,48265,,,,
 2026-03-17,9.88,9.90,9.88,9.90,,,,,,,0,9.8500,1,41580,,,,
@@ -182,3 +182,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.08,10.08,10.08,10.08,10.06,10.05,10.09,10.01,,10.0404,1,10.0452,1,,551100,-0.0019,-0.0089,0.0071
 2026-11-10,10.08,10.08,10.08,10.08,10.06,10.05,10.09,10.01,,10.0443,1,10.0474,1,,520529,-0.0005,-0.0072,0.0068
 2026-11-11,10.05,10.08,10.05,10.08,10.07,10.05,10.09,10.01,,10.0443,1,10.0495,1,104832,516910,0.0007,-0.0057,0.0063
+2026-11-12,10.08,10.08,10.07,10.07,10.07,10.06,10.09,10.01,,10.0443,1,10.0500,1,1007000,531334,0.0007,-0.0044,0.0051

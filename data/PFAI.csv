@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-38.44,PFAI,Pinnacle Food Group Limited,Consumer Defensive,Farm Products,Canada,33412882,2.84,106760,1137904,3231647.36,-0.033,,,0.39437,-0.3714,-0.55783004,-0.42726,-0.14803,942820,1785075,28.061,2.203,2.179,-3585698,-4933354,4070100,3566629,0.1167,0.00074,186847,0.06,0.051999997,,,9.789708,7.9775276,10.654,-23.06,,,,,none,,,,,,,,https://pinnaclefoodinc.com,2026-11-10T12:03:42.204016+00:00
+45.41,PFAI,Pinnacle Food Group Limited,Consumer Defensive,Farm Products,Canada,33412882,2.84,106760,1137904,3231647.36,-0.033,,,0.39437,-0.3714,-0.55783004,-0.42726,-0.14803,942820,1785075,28.061,2.203,2.179,-3585698,-4933354,4070100,3566629,0.1167,0.00074,186847,0.06,0.051999997,,,9.789708,7.9775276,10.654,-23.06,,,,,none,,,,,,,,https://pinnaclefoodinc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-21,4.00,4.00,4.00,4.00,,,,,,,0,4.0000,1,,,,,
 2025-04-22,4.00,4.40,3.24,3.35,,,,,,,0,4.4000,0,3068600,,,,
@@ -408,3 +408,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.80,2.98,2.80,2.84,3.41,3.85,3.34,3.46,3.15,2.4516,1,6.0891,0,69580,7032156,-0.1319,0.0264,-0.1583
 2026-11-10,2.82,2.90,2.69,2.69,3.32,3.75,3.34,3.46,3.16,2.4516,1,5.8917,0,56759,7033200,-0.1749,-0.0138,-0.1611
 2026-11-11,2.64,2.77,2.64,2.66,3.20,3.65,3.34,3.46,3.16,2.4516,1,5.6356,0,38038,7033037,-0.2091,-0.0529,-0.1562
+2026-11-12,2.65,2.88,2.65,2.75,3.10,3.54,3.34,3.47,3.16,2.4516,1,5.3360,0,224950,7037536,-0.2263,-0.0876,-0.1387

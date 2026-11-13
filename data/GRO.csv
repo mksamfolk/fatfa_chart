@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-31.39,GRO,Brazil Potash Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,118039856,1.9,301690,227723,432673.69999999995,,,,0.0,0.0,0.0,-0.15839,-0.09752,75710448,491423,0.228,42.2,41.896,-12600913,-13886951,62126240,39888407,0.00259,0.39569,353705,2.08,0.0074,,-6.785714,,0.6462585,,,6.1,12.0,3.5,1.2,strong_buy,5,1,1,0,0,2026-11-11,,https://www.brazilpotash.com,2026-11-10T10:07:27.369933+00:00
+28.35,GRO,Brazil Potash Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,118039856,1.9,301690,227723,432673.69999999995,,,,0.0,0.0,0.0,-0.15839,-0.09752,75710448,491423,0.228,42.2,41.896,-12600913,-13886951,62126240,39888407,0.00259,0.39569,353705,2.08,0.0074,,-6.785714,,0.6462585,,,6.1,12.0,3.5,1.2,strong_buy,5,1,1,0,0,2026-11-11,,https://www.brazilpotash.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-27,12.40,15.00,12.40,13.51,,,,,,,0,12.4000,1,510678,,,,
 2024-11-29,14.10,14.10,13.10,13.10,,,,,,,0,12.4000,1,69430,,,,
@@ -504,3 +504,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.83,1.97,1.83,1.90,1.76,1.87,2.16,2.48,2.54,2.0619,0,1.5800,1,649040,544208,-0.1220,-0.1371,0.0151
 2026-11-10,1.90,1.95,1.83,1.85,1.76,1.85,2.15,2.46,2.54,2.0619,0,1.5956,1,274170,543042,-0.1094,-0.1316,0.0221
 2026-11-11,1.87,1.90,1.85,1.86,1.77,1.84,2.15,2.45,2.53,2.0619,0,1.6106,1,98022,539325,-0.0976,-0.1248,0.0272
+2026-11-12,1.84,1.89,1.76,1.76,1.76,1.82,2.14,2.44,2.53,2.0619,0,1.6250,1,199584,540105,-0.0951,-0.1188,0.0237

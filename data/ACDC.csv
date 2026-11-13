@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-21.39,ACDC,ProFrac Holding Corp.,Energy,Oil & Gas Equipment & Services,United States,622859904,3.42,2262600,1506042,5150663.64,0.268,,,0.21822001,-0.062810004,-0.20392999,-0.42866,-0.03683,43600000,1154400000,163.745,0.901,0.579,132800000,116225000,182122762,30756892,0.84226996,0.17698,5834010,4.58,0.0618,,-4.2222223,0.32863393,1.2324324,1.02,8.086,5.4125,6.9,4.0,3.75,underperform,4,1,1,0,0,2026-11-05,1.485,https://www.pfholdingscorp.com,2026-11-10T07:34:57.742063+00:00
+20.68,ACDC,ProFrac Holding Corp.,Energy,Oil & Gas Equipment & Services,United States,622859904,3.42,2262600,1506042,5150663.64,0.268,,,0.21822001,-0.062810004,-0.20392999,-0.42866,-0.03683,43600000,1154400000,163.745,0.901,0.579,132800000,116225000,182122762,30756892,0.84226996,0.17698,5834010,4.58,0.0618,,-4.2222223,0.32863393,1.2324324,1.02,8.086,5.4125,6.9,4.0,3.75,underperform,4,1,1,0,0,2026-11-05,1.485,https://www.pfholdingscorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-05-13,17.60,18.95,17.60,18.11,,,,,,,0,18.9500,0,114556620,,,,
 2022-05-16,18.00,18.59,17.16,17.99,,,,,,,0,18.9500,0,23091964,,,,
@@ -1158,3 +1158,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.01,3.45,2.90,3.42,4.10,4.12,4.55,5.47,5.52,4.2423,0,4.8858,0,8191242,6158387,-0.2937,-0.1641,-0.1296
 2026-11-10,3.32,3.58,3.16,3.53,3.99,4.07,4.52,5.45,5.52,4.2423,0,4.7969,0,8628026,6241912,-0.2988,-0.1911,-0.1078
 2026-11-11,3.66,3.71,3.39,3.43,3.83,4.03,4.49,5.43,5.51,4.2423,0,4.7117,0,9539859,6304995,-0.3074,-0.2143,-0.0931
+2026-11-12,3.38,3.44,3.11,3.19,3.67,3.98,4.45,5.42,5.50,4.2423,0,4.6298,0,11350658,6377024,-0.3298,-0.2374,-0.0923

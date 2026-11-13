@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PAXG,Pine Tree Acquisition Corp.,Financial Services,Shell Companies,United States,145959152,9.845,62650,61583,606284.635,,,,0.0,0.0,0.0,,,1881,118000,1735.039,0.013,0.013,,,10540000,2932028,0.56238997,0.0759,0,,,,,,4922.5,,,,,,,none,,,,,,,,,2026-11-10T11:59:09.783440+00:00
+0.00,PAXG,Pine Tree Acquisition Corp.,Financial Services,Shell Companies,United States,145959152,9.845,62650,61583,606284.635,,,,0.0,0.0,0.0,,,1881,118000,1735.039,0.013,0.013,,,10540000,2932028,0.56238997,0.0759,0,,,,,,4922.5,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-23,9.90,9.90,9.80,9.83,,,,,,,0,9.8000,1,753961,,,,
 2026-10-26,9.81,9.82,9.81,9.81,,,,,,,0,9.8000,1,351198,,,,
@@ -43,3 +43,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.87,9.87,9.85,9.85,9.82,,,,,9.9108,0,9.8114,1,52205,,,,
 2026-11-10,9.86,9.88,9.84,9.88,9.83,,,,,9.9108,0,9.8132,1,801268,,,,
 2026-11-11,9.85,9.85,9.84,9.85,9.83,,,,,9.9108,0,9.8149,1,29550,,,,
+2026-11-12,9.85,9.85,9.85,9.85,9.84,,,,,9.9108,0,9.8166,1,,,,,

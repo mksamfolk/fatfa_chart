@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.57,BXBL,Boxabl Inc.,Consumer Cyclical,Residential Construction,United States,451708288,1.87,190330,173998,325376.26,0.774,,,0.0,-19.49293,0.0,-0.66532,-0.32474,14687000,5299000,13.917,3.054,1.332,-27059000,-2718875,9471524,9468954,0.35232,0.24611999,361536,2.56,,,,142.81009,-7.220077,397.808,-36.628,,,,,none,,,,,,,,https://www.boxabl.com,2026-11-10T08:33:12.102060+00:00
+4.83,BXBL,Boxabl Inc.,Consumer Cyclical,Residential Construction,United States,451708288,1.87,190330,173998,325376.26,0.774,,,0.0,-19.49293,0.0,-0.66532,-0.32474,14687000,5299000,13.917,3.054,1.332,-27059000,-2718875,9471524,9468954,0.35232,0.24611999,361536,2.56,,,,142.81009,-7.220077,397.808,-36.628,,,,,none,,,,,,,,https://www.boxabl.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-11,9.85,9.85,9.63,9.65,,,,,,,0,9.8500,0,4755520,,,,
 2025-02-12,9.67,9.67,9.62,9.64,,,,,,,0,9.8500,0,621587,,,,
@@ -455,3 +455,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.04,2.10,1.79,1.87,2.10,2.53,3.46,7.45,8.11,2.6770,0,2.1359,0,657866,626721,-0.5036,-0.4978,-0.0058
 2026-11-10,1.87,1.96,1.81,1.87,2.02,2.47,3.41,7.39,8.07,2.6719,0,2.1000,0,195789,615778,-0.4935,-0.4970,0.0034
 2026-11-11,1.97,2.03,1.84,1.96,1.96,2.40,3.35,7.34,8.03,2.6719,0,2.1000,0,257740,603318,-0.4728,-0.4921,0.0193
+2026-11-12,1.93,2.00,1.77,1.80,1.95,2.34,3.30,7.29,7.99,2.6413,0,2.0320,0,256671,593731,-0.4636,-0.4864,0.0228

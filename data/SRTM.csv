@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-07-07 09:30:00-04:00,0.0125\n2026-01-26 09:30:00-05:00,0.1\n2026-04-20 09:30:00-04:00,0.1\n2026-09-08 09:30:00-04:00,0.16666666666666666\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.17,SRTM,Stratum Holdings Corp.,Real Estate,Real Estate Services,United States,753513,0.166,921170,2386694,396191.204,-0.256,,,0.11729,-0.11094,-0.46381,,-0.29768,2282397,22862312,,1.35,0.282,-5306504,-11030788,4539240,552541,0.00332,0.00065,9320,0.06,0.0164,,,0.012101272,-0.0065956768,0.344,-2.143,,,,,none,,,,,,,1.647,https://stratumholdingscorp.com,2026-11-10T13:00:46.781717+00:00
+0.17,SRTM,Stratum Holdings Corp.,Real Estate,Real Estate Services,United States,753513,0.166,921170,2386694,396191.204,-0.256,,,0.11729,-0.11094,-0.46381,,-0.29768,2282397,22862312,,1.35,0.282,-5306504,-11030788,4539240,552541,0.00332,0.00065,9320,0.06,0.0164,,,0.012101272,-0.0065956768,0.344,-2.143,,,,,none,,,,,,,1.647,https://stratumholdingscorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-09,40000.00,40000.00,40000.00,40000.00,,,,,,,0,40000.0000,1,,,,,
 2023-10-10,42000.00,44240.00,25120.00,28000.00,,,,,,,0,44240.0000,0,3108000,,,,
@@ -805,4 +805,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.17,0.17,0.16,0.16,0.20,0.47,1.61,6.48,24.54,0.4387,0,0.2585,0,68118,1375207,-0.4560,-0.5144,0.0585
 2026-11-09,0.16,0.17,0.15,0.17,0.19,0.43,1.56,6.28,23.36,0.4080,0,0.2372,0,181338,1377454,-0.4339,-0.4983,0.0644
 2026-11-10,0.17,0.17,0.16,0.17,0.18,0.38,1.51,6.05,22.24,0.3909,0,0.2202,0,48297,1376649,-0.4114,-0.4810,0.0696
-2026-11-11,0.17,0.22,0.16,0.17,0.18,0.34,1.46,5.83,21.23,0.3909,0,0.1520,1,1100995,1396758,-0.3887,-0.4625,0.0738
+2026-11-11,0.17,0.22,0.16,0.17,0.18,0.34,1.46,5.83,21.23,0.3909,0,0.1520,1,1116430,1397066,-0.3887,-0.4625,0.0738
+2026-11-12,0.16,0.17,0.13,0.14,0.17,0.30,1.41,5.66,20.28,0.3623,0,0.2240,0,207464,1399561,-0.3690,-0.4438,0.0748

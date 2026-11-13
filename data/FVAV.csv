@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FVAV,Fortress Value Acquisition Corp. V,Financial Services,Shell Companies,United States,364627392,10.09,520,30996,312749.64,,,,0.0,0.0,0.0,,,835487,0,,0.929,0.03,0,,28950000,24024571,0.01589,0.91299003,3584,0.3,,,,,-19.478764,,,,,,,none,,,,,,,,https://www.fortressvalueac5.com,2026-11-10T09:54:14.814635+00:00
+0.00,FVAV,Fortress Value Acquisition Corp. V,Financial Services,Shell Companies,United States,364627392,10.09,520,30996,312749.64,,,,0.0,0.0,0.0,,,835487,0,,0.929,0.03,0,,28950000,24024571,0.01589,0.91299003,3584,0.3,,,,,-19.478764,,,,,,,none,,,,,,,,https://www.fortressvalueac5.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-26,10.00,10.02,10.00,10.02,,,,,,,0,10.0200,0,21903721,,,,
 2026-02-27,10.00,10.02,10.00,10.00,,,,,,,0,10.0200,0,235000,,,,
@@ -194,3 +194,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.09,10.09,10.09,10.09,10.10,10.10,10.17,10.12,,10.1470,0,10.1754,0,756750,414774,-0.0209,-0.0269,0.0060
 2026-11-10,10.04,10.04,10.04,10.04,10.09,10.09,10.17,10.12,,10.1258,0,10.1676,0,15060,415075,-0.0244,-0.0264,0.0020
 2026-11-11,10.05,10.05,10.05,10.05,10.09,10.09,10.16,10.12,,10.1258,0,10.1600,0,854250,432160,-0.0261,-0.0263,0.0002
+2026-11-12,10.07,10.09,10.07,10.09,10.09,10.09,10.16,10.12,,10.1258,0,10.1528,0,18162,432524,-0.0239,-0.0258,0.0019

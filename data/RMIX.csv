@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RMIX,Suncrete Inc.,Basic Materials,Building Materials,United States,674491456,8.93,650810,520885,4651503.05,1.462,,,0.32144,-0.23993,-0.13598,-0.15669,-0.0070599997,29278000,234114000,65.394,1.398,1.088,-637000,14752625,52264257,41199098,0.15560001,0.56073004,2393344,4.58,,23.500002,29.183008,2.4376712,1.8329228,3.112,40.749,20.83333,25.0,15.0,1.0,strong_buy,6,1,1,1,2,2026-11-13,0.936,https://www.suncrete.com,2026-11-10T12:30:41.458501+00:00
+0.00,RMIX,Suncrete Inc.,Basic Materials,Building Materials,United States,674491456,8.93,650810,520885,4651503.05,1.462,,,0.32144,-0.23993,-0.13598,-0.15669,-0.0070599997,29278000,234114000,65.394,1.398,1.088,-637000,14752625,52264257,41199098,0.15560001,0.56073004,2393344,4.58,,23.500002,29.183008,2.4376712,1.8329228,3.112,40.749,20.83333,25.0,15.0,1.0,strong_buy,6,1,1,1,2,2026-11-13,0.936,https://www.suncrete.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-02,10.89,12.01,10.76,11.09,,,,,,,0,12.0100,0,212928,,,,
 2026-04-06,11.20,11.42,10.20,10.64,,,,,,,0,12.0100,0,409640,,,,
@@ -174,3 +174,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,8.93,10.09,8.79,8.93,10.12,9.93,12.99,,,12.1951,0,12.4192,0,6568015,6536289,-0.8503,-0.9834,0.1332
 2026-11-10,8.82,9.04,8.35,8.62,10.02,9.81,12.81,,,11.7803,0,12.2552,0,3160954,6494347,-0.8924,-0.9652,0.0729
 2026-11-11,8.75,8.94,8.36,8.39,9.86,9.72,12.62,,,11.6008,0,12.0978,0,3786407,6390884,-0.9335,-0.9589,0.0254
+2026-11-12,8.39,8.53,8.02,8.12,9.64,9.62,12.42,,,11.0837,0,11.9467,0,3929268,6291521,-0.9767,-0.9625,-0.0142

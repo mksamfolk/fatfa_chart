@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.71,TACH,Titan Acquisition Corp,Financial Services,Shell Companies,United States,365009984,10.58,57660,57939,612994.62,,-0.275,-0.212,0.0,0.0,0.0,,-0.0046900003,247336,0,,0.252,0.205,-704070,,27600000,23399970,0.0,0.98941004,394,0.0,0.0,44.083336,,,-25.804878,,,,,,,none,,,,,,,,https://titan-spac.com,2026-11-10T13:09:36.375572+00:00
+58.53,TACH,Titan Acquisition Corp,Financial Services,Shell Companies,United States,365009984,10.58,57660,57939,612994.62,,-0.275,-0.212,0.0,0.0,0.0,,-0.0046900003,247336,0,,0.252,0.205,-704070,,27600000,23399970,0.0,0.98941004,394,0.0,0.0,44.083336,,,-25.804878,,,,,,,none,,,,,,,,https://titan-spac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-02,10.01,10.01,10.00,10.01,,,,,,,0,10.0000,1,1079078,,,,
 2025-06-03,10.01,10.02,10.01,10.02,,,,,,,0,10.0000,1,1971936,,,,
@@ -379,3 +379,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.57,10.58,10.57,10.58,10.57,10.56,10.52,10.42,10.39,10.5427,1,10.5540,1,667598,571354,0.0163,0.0166,-0.0003
 2026-11-10,10.58,10.59,10.58,10.59,10.57,10.56,10.52,10.42,10.39,10.5529,1,10.5566,1,2245080,609379,0.0171,0.0167,0.0004
 2026-11-11,10.58,10.58,10.58,10.58,10.57,10.56,10.53,10.43,10.39,10.5529,1,10.5606,1,730020,622726,0.0166,0.0167,-0.0000
+2026-11-12,10.58,10.60,10.58,10.59,10.58,10.56,10.53,10.43,10.40,10.5543,1,10.5641,1,1815126,651595,0.0169,0.0167,0.0002

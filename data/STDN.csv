@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,STDN,Standard Nuclear Inc.,Basic Materials,Specialty Chemicals,United States,2037340544,12.68,235630,557004,7062810.72,7.565,,,-0.57745,-0.90702003,-2.22316,,,102185336,0,,12.929,12.611,-14906586,,149095234,48981600,0.62988,0.06766,3042749,6.34,,,-197.87766,270.2476,-4.5975347,278.278,-119.001,17.25,20.0,13.0,1.33333,strong_buy,8,0,0,2,0,2026-11-12,,https://www.standardnuclear.com,2026-11-10T13:02:57.104312+00:00
+0.00,STDN,Standard Nuclear Inc.,Basic Materials,Specialty Chemicals,United States,2037340544,12.68,235630,557004,7062810.72,7.565,,,-0.57745,-0.90702003,-2.22316,,,102185336,0,,12.929,12.611,-14906586,,149095234,48981600,0.62988,0.06766,3042749,6.34,,,-197.87766,270.2476,-4.5975347,278.278,-119.001,17.25,20.0,13.0,1.33333,strong_buy,8,0,0,2,0,2026-11-12,,https://www.standardnuclear.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-16,13.50,13.98,12.11,12.30,,,,,,,0,13.9800,0,69550351,,,,
 2026-07-17,12.16,12.47,10.30,10.40,,,,,,,0,13.9800,0,31072079,,,,
@@ -113,3 +113,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,12.17,13.38,12.17,12.68,12.33,12.29,12.84,,,11.1999,1,11.1100,1,3602388,6851389,-0.1237,-0.1119,-0.0118
 2026-11-10,12.43,12.87,12.04,12.58,12.29,12.30,12.77,,,11.1999,1,11.1554,1,2622930,6303428,-0.0922,-0.1080,0.0158
 2026-11-11,12.93,12.94,12.21,12.48,12.26,12.33,12.69,,,11.1999,1,11.1999,1,2666976,5455009,-0.0744,-0.1012,0.0268
+2026-11-12,11.66,11.67,10.12,11.03,12.08,12.28,12.62,,,14.1291,0,13.3800,0,8767747,5219209,-0.1753,-0.1161,-0.0592

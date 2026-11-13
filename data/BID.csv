@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BID,Tribeca Strategic Acquisition Corp.,Financial Services,Shell Companies,United States,191224544,9.92,26120,28507,282789.44,,,,0.0,0.0,0.0,,,714247,0,,,,0,,14610000,12960089,0.00205,0.24280001,142,0.0,0.0,,,,-40.325203,,,,,,,none,,,,,,,,,2026-11-10T08:20:07.158954+00:00
+0.00,BID,Tribeca Strategic Acquisition Corp.,Financial Services,Shell Companies,United States,191224544,9.92,26120,28507,282789.44,,,,0.0,0.0,0.0,,,714247,0,,,,0,,14610000,12960089,0.00205,0.24280001,142,0.0,0.0,,,,-40.325203,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-20,9.90,9.90,9.83,9.84,,,,,,,0,9.9000,0,1056816,,,,
 2026-07-21,9.84,9.84,9.83,9.83,,,,,,,0,9.9000,0,667457,,,,
@@ -96,3 +96,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.92,9.92,9.92,9.92,9.92,9.92,9.91,,,9.9417,0,9.9687,0,,232191,0.0012,0.0029,-0.0017
 2026-11-10,9.93,9.95,9.93,9.94,9.92,9.92,9.91,,,9.9417,0,9.9656,0,320068,237666,0.0030,0.0029,0.0001
 2026-11-11,9.94,9.94,9.94,9.94,9.92,9.92,9.91,,,9.9417,0,9.9625,0,,237666,0.0044,0.0032,0.0012
+2026-11-12,9.94,9.94,9.94,9.94,9.92,9.92,9.91,,,9.9417,0,9.9596,0,6958,204005,0.0055,0.0037,0.0018

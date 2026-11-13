@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ELMT,The Elmet Group Co.,Industrials,Aerospace & Defense,United States,669804352,21.99,507650,732351,16104398.489999998,0.352,,,0.22636999,-0.114879996,-0.0126600005,,,71045000,22852000,12.185,3.025,1.528,-3171000,,30459498,10123214,0.66157997,0.46129,1862653,2.49,0.2784,,37.271187,2.9309638,3.5715444,2.72,55.452,27.5,30.0,26.0,1.25,strong_buy,4,0,0,1,1,2026-11-10,,https://theelmetgroup.com,2026-11-10T09:27:28.794317+00:00
+0.00,ELMT,The Elmet Group Co.,Industrials,Aerospace & Defense,United States,669804352,21.99,507650,732351,16104398.489999998,0.352,,,0.22636999,-0.114879996,-0.0126600005,,,71045000,22852000,12.185,3.025,1.528,-3171000,,30459498,10123214,0.66157997,0.46129,1862653,2.49,0.2784,,37.271187,2.9309638,3.5715444,2.72,55.452,27.5,30.0,26.0,1.25,strong_buy,4,0,0,1,1,2026-11-10,,https://theelmetgroup.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-23,18.00,22.25,17.50,17.91,,,,,,,0,22.2500,0,173590883,,,,
 2026-04-24,17.50,18.29,16.39,17.00,,,,,,,0,22.2500,0,32476800,,,,
@@ -170,3 +170,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,19.65,22.40,19.56,21.99,21.66,20.96,20.05,,,24.4413,0,24.6810,0,10526613,17278904,0.1552,0.4142,-0.2590
 2026-11-10,22.00,22.24,18.97,19.38,21.34,20.86,20.11,,,24.4413,0,24.3790,0,22124207,17627227,0.0143,0.3342,-0.3199
 2026-11-11,20.29,22.59,20.18,21.01,21.08,20.95,20.22,,,24.4413,0,24.0890,0,20514164,17969301,0.0339,0.2741,-0.2403
+2026-11-12,20.23,22.00,19.90,19.99,20.67,20.97,20.30,,,24.4413,0,23.8107,0,8245875,18063578,-0.0326,0.2128,-0.2454

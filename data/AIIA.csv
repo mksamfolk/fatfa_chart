@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AIIA,AI Infrastructure Acquisition Corp.,Financial Services,Shell Companies,United States,198879904,10.31,45980,27982,288494.42000000004,,,,0.0,0.0,0.0,,,858302,0,,9.479,9.417,-50139,,14690000,13037725,0.0013600001,0.76378,538,0.02,0.0,,,,245.4762,,,,,,,none,,,,,,,,https://www.aiia-corp.com,2026-11-10T07:45:01.194871+00:00
+0.00,AIIA,AI Infrastructure Acquisition Corp.,Financial Services,Shell Companies,United States,198879904,10.31,45980,27982,288494.42000000004,,,,0.0,0.0,0.0,,,858302,0,,9.479,9.417,-50139,,14690000,13037725,0.0013600001,0.76378,538,0.02,0.0,,,,245.4762,,,,,,,none,,,,,,,,https://www.aiia-corp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-24,9.86,9.95,9.85,9.93,,,,,,,0,9.8500,1,3229236,,,,
 2025-11-25,9.91,9.93,9.91,9.92,,,,,,,0,9.8500,1,3072224,,,,
@@ -257,3 +257,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.35,10.36,10.31,10.31,10.31,10.31,10.26,10.17,10.14,10.3812,0,10.2226,1,217541,199747,0.0170,0.0177,-0.0007
 2026-11-10,10.31,10.31,10.31,10.31,10.32,10.31,10.26,10.18,10.14,10.3812,0,10.2281,1,16496,194834,0.0156,0.0172,-0.0017
 2026-11-11,10.31,10.31,10.31,10.31,10.32,10.31,10.27,10.18,10.14,10.3812,0,10.2334,1,20620,195246,0.0143,0.0167,-0.0023
+2026-11-12,10.33,10.33,10.32,10.32,10.32,10.31,10.27,10.18,10.14,10.3812,0,10.2384,1,986592,214774,0.0140,0.0161,-0.0022

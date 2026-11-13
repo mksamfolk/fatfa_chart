@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.96,ONL,Orion Properties Inc.,Real Estate,REIT - Office,United States,163147872,2.86,655690,370729,1060284.94,-0.039,,,0.55386,0.10662,-0.2158,-0.04349,-0.00034000003,13731000,444599008,70.529,3.935,2.059,26883000,-50862624,57044714,49683094,0.07755,0.60215,2181980,8.24,0.038900003,,-11.0,1.2532676,0.25931633,4.573,11.765,3.5,3.5,3.5,,none,1,1,1,0,0,2026-11-05,1.606,https://www.onlreit.com,2026-11-10T11:51:28.467477+00:00
+57.52,ONL,Orion Properties Inc.,Real Estate,REIT - Office,United States,163147872,2.86,655690,370729,1060284.94,-0.039,,,0.55386,0.10662,-0.2158,-0.04349,-0.00034000003,13731000,444599008,70.529,3.935,2.059,26883000,-50862624,57044714,49683094,0.07755,0.60215,2181980,8.24,0.038900003,,-11.0,1.2532676,0.25931633,4.573,11.765,3.5,3.5,3.5,,none,1,1,1,0,0,2026-11-05,1.606,https://www.onlreit.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-23,14.19,14.53,14.08,14.34,,,,,,,0,14.0758,1,55099799,,,,
 2021-11-24,14.50,14.57,13.89,14.00,,,,,,,0,14.5717,0,28759956,,,,
@@ -1261,3 +1261,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.75,2.93,2.68,2.86,2.49,2.30,2.53,2.60,2.53,2.3309,1,2.3200,1,3041038,1012206,0.0532,-0.0205,0.0736
 2026-11-10,2.83,2.83,2.64,2.71,2.51,2.33,2.53,2.60,2.54,2.3309,1,2.3200,1,658801,1000242,0.0678,-0.0028,0.0706
 2026-11-11,2.69,2.75,2.62,2.63,2.53,2.36,2.52,2.61,2.54,2.3309,1,2.3322,1,551511,994353,0.0721,0.0122,0.0599
+2026-11-12,2.61,2.65,2.56,2.59,2.56,2.38,2.52,2.61,2.54,2.3309,1,2.3442,1,715876,993700,0.0714,0.0240,0.0474

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.43,SWAG,Stran & Company Inc.,Communication Services,Advertising Agencies,United States,24604260,1.32,18170,24726,32638.320000000003,0.024,-0.45,-0.519,0.29736,0.0025799999,0.00046999997,0.00177,-0.0115,13442000,2044000,6.495,1.964,1.408,-3652000,-4533750,18639590,9634244,0.48313,0.17703,667,0.03,0.0001,,,0.20584688,0.7819906,0.11,155.368,,,,,none,,,,,,,1.991,https://www.stran.com,2026-11-10T13:07:38.835279+00:00
+21.71,SWAG,Stran & Company Inc.,Communication Services,Advertising Agencies,United States,24604260,1.32,18170,24726,32638.320000000003,0.024,-0.45,-0.519,0.29736,0.0025799999,0.00046999997,0.00177,-0.0115,13442000,2044000,6.495,1.964,1.408,-3652000,-4533750,18639590,9634244,0.48313,0.17703,667,0.03,0.0001,,,0.20584688,0.7819906,0.11,155.368,,,,,none,,,,,,,1.991,https://www.stran.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-09,3.10,4.14,3.00,3.96,,,,,,,0,3.0000,1,31078080,,,,
 2021-11-10,4.00,4.99,4.00,4.74,,,,,,,0,3.0000,1,50150146,,,,
@@ -1271,3 +1271,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.25,1.32,1.21,1.32,1.32,1.33,1.57,1.79,1.80,1.4968,0,1.4119,0,70356,42268,-0.0689,-0.0844,0.0155
 2026-11-10,1.28,1.31,1.28,1.28,1.32,1.32,1.55,1.79,1.80,1.4968,0,1.3995,0,18304,41577,-0.0675,-0.0810,0.0135
 2026-11-11,1.40,1.51,1.22,1.24,1.31,1.32,1.54,1.78,1.80,1.4968,0,1.2060,1,73036,38179,-0.0688,-0.0785,0.0098
+2026-11-12,1.30,1.30,1.20,1.24,1.30,1.31,1.52,1.78,1.80,1.4968,0,1.5150,0,54808,38097,-0.0690,-0.0766,0.0076

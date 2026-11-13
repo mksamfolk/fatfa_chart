@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.60,SDRL,Seadrill Limited,Energy,Oil & Gas Drilling,United States,2616742144,42.55,921470,664371,28268986.049999997,0.148,,,0.36257,0.108909994,-0.011779999,-0.00634,0.024330001,483000000,759000000,26.953,2.177,1.742,115000000,220250000,61498053,58108280,0.00638,1.01225,4262447,6.86,0.0696,,12.092087,1.7125276,0.92922187,1.893,6.443,55.0,80.0,26.0,1.77778,buy,9,1,1,0,0,2026-11-03,1.351,https://www.seadrill.com,2026-11-10T12:42:13.113779+00:00
+64.15,SDRL,Seadrill Limited,Energy,Oil & Gas Drilling,United States,2616742144,42.55,921470,664371,28268986.049999997,0.148,,,0.36257,0.108909994,-0.011779999,-0.00634,0.024330001,483000000,759000000,26.953,2.177,1.742,115000000,220250000,61498053,58108280,0.00638,1.01225,4262447,6.86,0.0696,,12.092087,1.7125276,0.92922187,1.893,6.443,55.0,80.0,26.0,1.77778,buy,9,1,1,0,0,2026-11-03,1.351,https://www.seadrill.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-10-14,26.00,28.50,24.51,26.50,,,,,,,0,24.5100,1,2133250,,,,
 2022-10-17,27.06,27.49,25.60,27.40,,,,,,,0,24.5100,1,243860,,,,
@@ -1052,3 +1052,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,42.50,43.27,41.60,42.55,47.10,47.96,47.39,46.11,45.30,50.0688,0,51.6513,0,26985210,32513423,-0.9901,0.0846,-1.0747
 2026-11-10,42.22,44.36,41.77,43.72,46.38,47.70,47.29,46.07,45.32,50.0688,0,50.7888,0,41262937,32945414,-1.0944,-0.1512,-0.9432
 2026-11-11,45.16,45.22,44.17,44.31,45.56,47.56,47.19,46.05,45.35,50.0688,0,49.9953,0,22664566,32880089,-1.1166,-0.3443,-0.7723
+2026-11-12,44.89,45.28,44.03,44.85,44.87,47.49,47.08,46.04,45.38,50.0688,0,49.2652,0,20541299,32868919,-1.0782,-0.4911,-0.5871

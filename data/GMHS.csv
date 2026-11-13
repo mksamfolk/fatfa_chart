@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-28.04,GMHS,Gamehaus Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,China,35585924,0.6265,62150,161381,101105.19649999999,-0.204,-0.467,-0.459,0.52719,-0.04285,0.04092,0.10735,0.01681,22669280,2576287,6.665,2.837,2.054,5992291,6315177,49002093,28070560,0.79119,0.00252,171744,2.93,0.0064999997,7.83125,,0.34004188,0.907971,0.143,4.759,,,,,none,,,,,,,0.653,https://www.gamehaus.com,2026-11-10T10:02:57.038973+00:00
+26.31,GMHS,Gamehaus Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,China,35585924,0.6265,62150,161381,101105.19649999999,-0.204,-0.467,-0.459,0.52719,-0.04285,0.04092,0.10735,0.01681,22669280,2576287,6.665,2.837,2.054,5992291,6315177,49002093,28070560,0.79119,0.00252,171744,2.93,0.0064999997,7.83125,,0.34004188,0.907971,0.143,4.759,,,,,none,,,,,,,0.653,https://www.gamehaus.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-28,10.16,10.16,10.14,10.16,,,,,,,0,10.1400,1,813816,,,,
 2023-06-29,10.16,10.18,10.16,10.17,,,,,,,0,10.1400,1,2313675,,,,
@@ -862,3 +862,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.64,0.67,0.60,0.63,0.66,0.64,0.69,0.86,0.90,0.5790,1,0.7324,0,37118,163706,-0.0107,-0.0153,0.0047
 2026-11-10,0.64,0.78,0.64,0.71,0.66,0.64,0.69,0.86,0.90,0.5790,1,0.5490,1,129493,166092,-0.0051,-0.0133,0.0082
 2026-11-11,0.70,0.76,0.65,0.73,0.67,0.65,0.69,0.86,0.89,0.5790,1,0.5536,1,77852,167345,0.0012,-0.0104,0.0116
+2026-11-12,0.71,0.73,0.69,0.70,0.67,0.65,0.69,0.85,0.89,0.5790,1,0.5581,1,9100,167191,0.0036,-0.0076,0.0112

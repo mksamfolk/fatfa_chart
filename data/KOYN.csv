@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.20,KOYN,CSLM Digital Asset Acquisition Corp III Ltd,Financial Services,Shell Companies,United States,324888736,10.295,31100,86096,886358.32,,,,0.0,0.0,0.0,,,2469590,0,,2.934,2.8,-1332558,,23891250,23316251,0.02553,0.84406996,1019,0.01,0.0,39.596157,,,-52.525513,,,,,,,none,,,,,,,,https://koynspac.com,2026-11-10T10:48:48.973554+00:00
+57.62,KOYN,CSLM Digital Asset Acquisition Corp III Ltd,Financial Services,Shell Companies,United States,324888736,10.295,31100,86096,886358.32,,,,0.0,0.0,0.0,,,2469590,0,,2.934,2.8,-1332558,,23891250,23316251,0.02553,0.84406996,1019,0.01,0.0,39.596157,,,-52.525513,,,,,,,none,,,,,,,,https://koynspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-19,10.00,10.00,9.92,9.94,,,,,,,0,9.9200,1,3058538,,,,
 2025-09-22,9.97,9.97,9.93,9.93,,,,,,,0,9.9200,1,1035699,,,,
@@ -303,3 +303,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.30,10.30,10.30,10.30,10.28,10.26,10.24,10.16,10.12,10.2709,1,10.2428,1,108098,878154,0.0125,0.0103,0.0021
 2026-11-10,10.30,10.30,10.28,10.29,10.28,10.26,10.25,10.16,10.13,10.2709,1,10.2462,1,322077,884595,0.0128,0.0108,0.0020
 2026-11-11,10.29,10.30,10.29,10.29,10.28,10.27,10.25,10.16,10.13,10.2709,1,10.2494,1,1002246,904640,0.0130,0.0113,0.0017
+2026-11-12,10.30,10.30,10.30,10.30,10.28,10.27,10.25,10.16,10.13,10.2709,1,10.2525,1,704178,918622,0.0133,0.0117,0.0017

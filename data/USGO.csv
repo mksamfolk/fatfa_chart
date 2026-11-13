@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.92,USGO,U.S. GoldMining Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,81407272,5.8,160240,113879,660498.2,,,,0.0,0.0,0.0,-1.7721499,-1.0096,7421773,70932,0.815,24.114,21.971,-9862555,-6328004,14035736,3097687,0.77968,0.080979995,485728,4.75,0.1269,,,,9.006211,,-6.789,40.5,55.0,30.75,1.0,strong_buy,3,,,,,2026-11-16,2.053,https://www.usgoldmining.us,2026-11-10T13:35:16.337504+00:00
+12.14,USGO,U.S. GoldMining Inc.,Basic Materials,Other Industrial Metals & Mining,Canada,81407272,5.8,160240,113879,660498.2,,,,0.0,0.0,0.0,-1.7721499,-1.0096,7421773,70932,0.815,24.114,21.971,-9862555,-6328004,14035736,3097687,0.77968,0.080979995,485728,4.75,0.1269,,,,9.006211,,-6.789,40.5,55.0,30.75,1.0,strong_buy,3,,,,,2026-11-16,2.053,https://www.usgoldmining.us,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-20,9.50,9.70,8.47,9.04,,,,,,,0,9.7000,0,2096376,,,,
 2023-04-21,9.10,9.15,8.31,9.15,,,,,,,0,9.7000,0,4721400,,,,
@@ -909,3 +909,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.47,6.16,5.47,5.80,5.30,5.29,7.15,9.21,9.96,5.9078,0,4.6850,1,1379240,770333,-0.4628,-0.6195,0.1567
 2026-11-10,5.76,5.76,4.95,5.06,5.30,5.24,7.07,9.17,9.94,5.9078,0,4.7144,1,841984,772277,-0.4508,-0.5857,0.1349
 2026-11-11,5.06,5.23,4.86,4.93,5.25,5.20,7.00,9.13,9.92,5.9078,0,4.7432,1,511734,775413,-0.4467,-0.5579,0.1112
+2026-11-12,4.83,4.88,4.72,4.81,5.17,5.16,6.92,9.08,9.89,5.9078,0,6.1550,0,729196,777486,-0.4479,-0.5359,0.0880

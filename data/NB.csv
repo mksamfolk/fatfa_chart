@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.46,NB,NioCorp Developments Ltd.,Basic Materials,Other Industrial Metals & Mining,United States,478966016,3.27,2811450,2818348,9215997.96,,,,0.0,0.0,0.0,-0.01198,-0.06532,403364000,347000,0.08,30.192,29.883,-15390000,-23943250,146472789,143131745,0.02192,0.35143003,11982496,4.5,0.0845,,-10.9,,1.091091,,-2.189,10.02,15.0,4.7,1.5,strong_buy,5,0,0,1,1,2027-02-02,0.239,https://www.niocorp.com,2026-11-10T11:29:05.586462+00:00
+14.63,NB,NioCorp Developments Ltd.,Basic Materials,Other Industrial Metals & Mining,United States,478966016,3.27,2811450,2818348,9215997.96,,,,0.0,0.0,0.0,-0.01198,-0.06532,403364000,347000,0.08,30.192,29.883,-15390000,-23943250,146472789,143131745,0.02192,0.35143003,11982496,4.5,0.0845,,-10.9,,1.091091,,-2.189,10.02,15.0,4.7,1.5,strong_buy,5,0,0,1,1,2027-02-02,0.239,https://www.niocorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-21,7.50,7.83,5.40,7.57,,,,,,,0,5.4000,1,1252078,,,,
 2023-03-22,7.78,7.78,6.91,7.28,,,,,,,0,5.4000,1,1519336,,,,
@@ -945,3 +945,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.98,3.29,2.90,3.27,3.18,3.13,3.46,4.58,4.78,3.5926,0,3.5369,0,7495821,9037653,-0.1258,-0.1359,0.0101
 2026-11-10,3.13,3.19,2.94,3.01,3.14,3.12,3.43,4.56,4.76,3.5926,0,3.4801,0,5089569,8939137,-0.1242,-0.1335,0.0093
 2026-11-11,3.10,3.13,2.91,2.92,3.08,3.11,3.41,4.55,4.74,3.5926,0,3.4267,0,5509164,8847472,-0.1283,-0.1325,0.0042
+2026-11-12,2.86,2.91,2.76,2.81,3.00,3.08,3.39,4.54,4.71,3.5926,0,3.3765,0,5908306,8790450,-0.1388,-0.1338,-0.0051

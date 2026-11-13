@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MWH,SOLV Energy Inc.,Utilities,Utilities - Renewable,United States,5545396224,27.4,1865160,1641759,44984196.599999994,0.775,,-0.165,0.17513001,0.0796,0.03756,,,363968000,83620000,9.824,1.094,0.978,326848000,,123745401,45665765,0.0001,1.08901,7366007,5.8,0.23040001,58.29787,16.186678,1.7467217,6.8244085,1.091,11.086,40.90909,55.0,34.0,1.27273,strong_buy,11,1,1,0,0,2026-11-12,,https://www.solvenergy.com,2026-11-10T11:26:31.724302+00:00
+0.00,MWH,SOLV Energy Inc.,Utilities,Utilities - Renewable,United States,5545396224,27.4,1865160,1641759,44984196.599999994,0.775,,-0.165,0.17513001,0.0796,0.03756,,,363968000,83620000,9.824,1.094,0.978,326848000,,123745401,45665765,0.0001,1.08901,7366007,5.8,0.23040001,58.29787,16.186678,1.7467217,6.8244085,1.091,11.086,40.90909,55.0,34.0,1.27273,strong_buy,11,1,1,0,0,2026-11-12,,https://www.solvenergy.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,30.54,31.84,29.69,30.91,,,,,,,0,29.6900,1,69853509,,,,
 2026-02-13,30.80,32.34,30.60,32.34,,,,,,,0,29.6900,1,33481602,,,,
@@ -218,3 +218,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,26.49,27.61,26.12,27.40,24.77,24.03,24.83,30.57,,22.0127,1,22.1394,1,41028759,38182355,0.2321,-0.2469,0.4790
 2026-11-10,26.77,27.83,26.38,27.42,25.25,24.11,24.87,30.56,,22.0127,1,22.5198,1,34982436,38026216,0.4139,-0.1148,0.5287
 2026-11-11,28.69,28.88,27.49,27.58,25.66,24.28,24.92,30.54,,22.8263,1,22.8774,1,55364092,37901932,0.5644,0.0211,0.5433
+2026-11-12,27.66,28.37,26.04,26.78,25.91,24.42,24.97,30.51,,22.8263,1,23.3576,1,85438914,38712439,0.6120,0.1393,0.4728

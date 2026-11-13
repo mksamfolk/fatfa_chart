@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.66,YOUL,Youlife Group Inc.,Consumer Defensive,Education & Training Services,China,10856186,0.134,477550,377951,50645.434,1.148,-0.295,-0.191,0.08019,0.01549,0.01235,0.048309997,-0.00427,130033000,174515008,20.754,1.792,1.649,7441000,-199924496,69855502,54310904,0.22169,0.01627,559255,2.75,0.0150999995,2.2333333,0.63809526,0.0037398152,0.088191435,0.026,13.35,2.0,2.0,2.0,0.0,strong_buy,1,,,,,,,https://ir.youlife.cn,2026-11-10T14:03:49.436425+00:00
+2.10,YOUL,Youlife Group Inc.,Consumer Defensive,Education & Training Services,China,10856186,0.134,477550,377951,50645.434,1.148,-0.295,-0.191,0.08019,0.01549,0.01235,0.048309997,-0.00427,130033000,174515008,20.754,1.792,1.649,7441000,-199924496,69855502,54310904,0.22169,0.01627,559255,2.75,0.0150999995,2.2333333,0.63809526,0.0037398152,0.088191435,0.026,13.35,2.0,2.0,2.0,0.0,strong_buy,1,,,,,,,https://ir.youlife.cn,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-10,3.09,5.50,2.55,5.00,,,,,,,0,2.5500,1,14187500,,,,
 2025-07-11,3.61,4.28,3.06,3.65,,,,,,,0,2.5500,1,3433920,,,,
@@ -353,3 +353,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.13,0.16,0.12,0.13,0.22,0.25,0.38,0.61,0.77,0.3460,0,0.3163,0,59791,160111,-0.0627,-0.0532,-0.0095
 2026-11-10,0.13,0.15,0.12,0.12,0.20,0.24,0.37,0.61,0.77,0.3262,0,0.2995,0,22332,160347,-0.0650,-0.0555,-0.0094
 2026-11-11,0.12,0.13,0.11,0.12,0.18,0.23,0.36,0.60,0.76,0.3014,0,0.2841,0,175956,163117,-0.0663,-0.0577,-0.0086
+2026-11-12,0.12,0.12,0.11,0.11,0.17,0.22,0.36,0.59,0.75,0.2796,0,0.2699,0,53125,98919,-0.0674,-0.0596,-0.0077

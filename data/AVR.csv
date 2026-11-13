@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-43.44,AVR,Anteris Technologies Global Corp.,Healthcare,Medical Devices,Australia,578212672,5.94,1742900,1128101,6700919.94,0.633,,,0.74977994,-30.72052,0.0,-0.74651,-0.42509,256867008,3322000,1.32,14.197,14.02,-86256000,-51131624,97342203,68810556,0.16476,0.71860003,7932391,6.5,0.1163,,-5.1473136,257.9004,2.3014336,145.246,-3.116,14.0,16.0,10.0,1.4,strong_buy,4,0,0,2,2,2026-11-12,,https://anteristech.com,2026-11-10T08:08:49.693384+00:00
+36.13,AVR,Anteris Technologies Global Corp.,Healthcare,Medical Devices,Australia,578212672,5.94,1742900,1128101,6700919.94,0.633,,,0.74977994,-30.72052,0.0,-0.74651,-0.42509,256867008,3322000,1.32,14.197,14.02,-86256000,-51131624,97342203,68810556,0.16476,0.71860003,7932391,6.5,0.1163,,-5.1473136,257.9004,2.3014336,145.246,-3.116,14.0,16.0,10.0,1.4,strong_buy,4,0,0,2,2,2026-11-12,,https://anteristech.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-13,6.00,6.00,5.10,5.60,,,,,,,0,5.1000,1,12362000,,,,
 2024-12-16,5.75,5.85,5.41,5.50,,,,,,,0,5.1000,1,2400200,,,,
@@ -508,3 +508,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.76,6.03,5.69,5.94,5.95,6.04,7.18,7.89,7.39,6.7640,0,6.5068,0,3976236,8436694,-0.3804,-0.4295,0.0491
 2026-11-10,5.85,6.02,5.77,5.89,5.94,6.01,7.13,7.89,7.39,6.7640,0,6.4817,0,4586543,8398397,-0.3578,-0.4152,0.0574
 2026-11-11,6.07,6.23,6.01,6.20,5.95,6.01,7.08,7.90,7.39,6.7640,0,6.4572,0,4659300,8395490,-0.3112,-0.3944,0.0831
+2026-11-12,6.15,6.26,5.82,5.86,5.90,5.98,7.03,7.90,7.38,6.7640,0,6.4332,0,5656072,8427796,-0.2984,-0.3752,0.0768

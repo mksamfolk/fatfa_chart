@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,307476256,10.0264,20,92137,923802.4168,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.77642,901,0.01,,,,,-270.98376,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-11-10T13:19:28.343070+00:00
+0.00,TMTS,Spartacus Acquisition Corp. II,Financial Services,Shell Companies,United States,307476256,10.0264,20,92137,923802.4168,,,,0.0,0.0,0.0,,,1124088,0,,,,-248970,,23000000,19229227,0.0,0.77642,901,0.01,,,,,-270.98376,,,,,,,none,,,,,,,,https://www.spartacus-ac.com/,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-02,9.95,9.95,9.91,9.92,,,,,,,0,9.9500,0,307520,,,,
 2026-04-06,9.91,9.94,9.90,9.94,,,,,,,0,9.9500,0,8670662,,,,
@@ -169,3 +169,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0217,1,10.0375,0,,1064002,-0.0013,-0.0045,0.0032
 2026-11-10,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0225,1,10.0356,0,,1064002,-0.0009,-0.0038,0.0029
 2026-11-11,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0233,1,10.0338,0,,1064002,-0.0006,-0.0032,0.0026
+2026-11-12,10.03,10.03,10.03,10.03,10.03,10.02,10.04,,,10.0240,1,10.0321,0,,1064002,-0.0004,-0.0026,0.0022

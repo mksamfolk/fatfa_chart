@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,DBCA,D. Boral Acquisition I Corp.,Financial Services,Shell Companies,United States,435743264,10.07,42720,75564,760929.48,,,,0.0,0.0,0.0,,,317622,0,,0.219,0.11,0,,30950000,28749970,0.065910004,0.85717005,101,0.0,0.0,,,,774.61536,,,,,,,none,,,,,,,,https://www.dbcacquisition1corp.com,2026-11-10T09:10:50.132356+00:00
+0.00,DBCA,D. Boral Acquisition I Corp.,Financial Services,Shell Companies,United States,435743264,10.07,42720,75564,760929.48,,,,0.0,0.0,0.0,,,317622,0,,0.219,0.11,0,,30950000,28749970,0.065910004,0.85717005,101,0.0,0.0,,,,774.61536,,,,,,,none,,,,,,,,https://www.dbcacquisition1corp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-25,9.93,9.93,9.83,9.85,,,,,,,0,9.8300,1,327020,,,,
 2026-02-26,9.85,9.86,9.85,9.86,,,,,,,0,9.8300,1,4755478,,,,
@@ -195,3 +195,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.07,10.07,10.07,10.07,10.06,10.06,10.03,9.96,,10.0458,1,10.0441,1,3132777,824264,0.0087,0.0092,-0.0005
 2026-11-10,10.07,10.07,10.07,10.07,10.06,10.06,10.03,9.97,,10.0483,1,10.0457,1,7049,808785,0.0090,0.0091,-0.0002
 2026-11-11,10.07,10.07,10.07,10.07,10.06,10.06,10.04,9.97,,10.0504,1,10.0471,1,,802305,0.0091,0.0091,-0.0001
+2026-11-12,10.12,10.12,10.10,10.10,10.07,10.06,10.04,9.97,,10.0774,1,10.0485,1,6060,801485,0.0114,0.0096,0.0018

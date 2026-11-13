@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2020-02-03 09:30:00-05:00,0.006666666666666667\n2021-11-10 09:30:00-05:00,0.002\n2023-06-12 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CELZ,Creative Medical Technology Holdings Inc.,Healthcare,Biotechnology,United States,4647404,0.6121,105900,804893,492675.00529999996,,,,0.66866994,-2080.044,0.0,-0.77884,-0.47323,8839115,14194,0.164,12.91,12.653,-5901718,-3456562,7592557,6557287,0.15704,0.05885,82052,0.08,0.0109,,-0.6955682,1549.1346,0.30108213,-1566.755,0.767,20.0,20.0,20.0,1.0,strong_buy,1,0.0,0.0,1.0,1.0,,1.948,https://www.creativemedicaltechnology.com,2026-11-10T08:42:34.451988+00:00
+0.00,CELZ,Creative Medical Technology Holdings Inc.,Healthcare,Biotechnology,United States,4647404,0.6121,105900,804893,492675.00529999996,,,,0.66866994,-2080.044,0.0,-0.77884,-0.47323,8839115,14194,0.164,12.91,12.653,-5901718,-3456562,7592557,6557287,0.15704,0.05885,82052,0.08,0.0109,,-0.6955682,1549.1346,0.30108213,-1566.755,0.767,20.0,20.0,20.0,1.0,strong_buy,1,0.0,0.0,1.0,1.0,,1.948,https://www.creativemedicaltechnology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,1.14,1.14,1.04,1.06,,,,,,,0,1.0400,1,183486,,,,
 2026-09-04,1.06,1.12,1.06,1.11,,,,,,,0,1.0400,1,167832,,,,
@@ -63,3 +63,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.61,0.64,0.60,0.61,0.65,0.71,,,,0.7989,0,0.7043,0,69902,,,,
 2026-11-10,0.61,0.65,0.60,0.60,0.64,0.70,,,,0.7989,0,0.7020,0,20798,,,,
 2026-11-11,0.60,0.65,0.60,0.63,0.64,0.69,,,,0.7988,0,0.6997,0,27959,,-0.0872,-0.0961,0.0089
+2026-11-12,0.63,0.64,0.61,0.62,0.63,0.68,,,,0.7915,0,0.6976,0,34838,,-0.0836,-0.0936,0.0100

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-86.48,USEA,United Maritime Corporation,Industrials,Marine Shipping,Greece,22044650,2.31,52260,102137,235936.47,-0.199,0.036,0.107,0.49049,0.18805,-0.04894,-0.0297,0.012309999,12090000,94224000,176.883,0.955,0.437,6229000,-4358625,9543139,7173157,0.2473,0.06623,1365503,8.92,0.18959999,,-231.0,0.62106353,0.42,2.957,12.695,4.0,4.0,4.0,,none,1,1,1,0,0,2026-11-12,0.751,https://www.unitedmaritime.gr,2026-11-10T13:35:08.033040+00:00
+94.61,USEA,United Maritime Corporation,Industrials,Marine Shipping,Greece,22044650,2.31,52260,102137,235936.47,-0.199,0.036,0.107,0.49049,0.18805,-0.04894,-0.0297,0.012309999,12090000,94224000,176.883,0.955,0.437,6229000,-4358625,9543139,7173157,0.2473,0.06623,1365503,8.92,0.18959999,,-231.0,0.62106353,0.42,2.957,12.695,4.0,4.0,4.0,,none,1,1,1,0,0,2026-11-12,0.751,https://www.unitedmaritime.gr,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-06,0.40,2.42,0.40,1.45,,,,,,,0,0.3989,1,719200,,,,
 2022-07-07,3.79,4.43,3.07,3.53,,,,,,,0,0.3989,1,291412089,,,,
@@ -1108,3 +1108,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.34,2.38,2.27,2.31,2.48,2.49,2.66,2.43,2.25,2.6660,0,2.6271,0,187110,228134,-0.0708,-0.0610,-0.0098
 2026-11-10,2.31,2.40,2.31,2.40,2.47,2.48,2.65,2.44,2.26,2.6660,0,2.6058,0,74400,225765,-0.0706,-0.0629,-0.0077
 2026-11-11,2.46,2.49,2.40,2.46,2.46,2.47,2.65,2.44,2.26,2.6660,0,2.5858,0,241080,229166,-0.0649,-0.0633,-0.0015
+2026-11-12,2.50,3.20,2.50,3.02,2.51,2.49,2.66,2.45,2.27,2.3340,1,2.2720,1,2078364,269473,-0.0150,-0.0537,0.0387
+2026-11-13,2.99,3.01,2.92,3.00,2.55,2.52,2.66,2.45,2.28,2.4706,1,2.2906,1,226038,269858,0.0227,-0.0384,0.0611

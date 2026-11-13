@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KBON,Karbon Capital Partners Corp.,Financial Services,Shell Companies,United States,444991648,10.11,51810,86960,879165.6,,,,0.0,0.0,0.0,,,418044,0,,4.964,4.058,-754335,,35390000,29167420,0.02628,0.75795,14,0.0,0.0,,,,-36.630436,,,,,,,none,,,,,,,,,2026-11-10T10:44:18.384359+00:00
+0.00,KBON,Karbon Capital Partners Corp.,Financial Services,Shell Companies,United States,444991648,10.11,51810,86960,879165.6,,,,0.0,0.0,0.0,,,418044,0,,4.964,4.058,-754335,,35390000,29167420,0.02628,0.75795,14,0.0,0.0,,,,-36.630436,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-27,10.04,10.07,10.03,10.03,,,,,,,0,10.0700,0,679031,,,,
 2026-01-28,10.04,10.04,10.02,10.02,,,,,,,0,10.0700,0,372744,,,,
@@ -215,3 +215,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.11,10.11,10.11,10.11,10.12,10.10,10.11,10.09,,10.0859,1,10.0696,1,,965506,0.0032,0.0023,0.0009
 2026-11-10,10.11,10.14,10.11,10.14,10.12,10.10,10.11,10.09,,10.0859,1,10.0722,1,1206660,947543,0.0052,0.0029,0.0023
 2026-11-11,10.13,10.15,10.13,10.15,10.12,10.11,10.11,10.09,,10.0969,1,10.0763,1,14210,947827,0.0076,0.0038,0.0037
+2026-11-12,10.15,10.15,10.15,10.15,10.13,10.11,10.11,10.09,,10.1122,1,10.0822,1,149205,950811,0.0093,0.0049,0.0044

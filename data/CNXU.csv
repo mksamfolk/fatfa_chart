@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CNXU,Conexeu Sciences Inc.,Healthcare,Biotechnology,United States,71837856,2.33,291210,286437,667398.21,,,,0.0,0.0,0.0,-3.32935,-1.70733,1971408,453802,7.757,5.31,1.551,-10530844,-5395269,30831698,16467352,0.47626,0.08307,297243,1.04,,,-4.3962264,,10.88785,,-4.876,20.0,20.0,20.0,,none,1,0,0,0,0,2027-01-22,,https://www.conexeu.com,2026-11-10T08:55:03.892837+00:00
+0.00,CNXU,Conexeu Sciences Inc.,Healthcare,Biotechnology,United States,71837856,2.33,291210,286437,667398.21,,,,0.0,0.0,0.0,-3.32935,-1.70733,1971408,453802,7.757,5.31,1.551,-10530844,-5395269,30831698,16467352,0.47626,0.08307,297243,1.04,,,-4.3962264,,10.88785,,-4.876,20.0,20.0,20.0,,none,1,0,0,0,0,2027-01-22,,https://www.conexeu.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-21,13.50,17.50,12.31,13.07,,,,,,,0,12.3100,1,1148853,,,,
 2026-05-22,13.21,14.68,12.72,14.40,,,,,,,0,12.3100,1,457920,,,,
@@ -135,3 +135,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.29,2.40,2.19,2.33,2.49,2.89,4.97,,,3.4015,0,2.6663,0,512134,1520606,-0.7364,-0.8136,0.0771
 2026-11-10,2.29,2.30,2.01,2.22,2.42,2.84,4.87,,,3.2648,0,2.5471,0,459984,1504215,-0.7107,-0.7930,0.0823
 2026-11-11,2.26,2.45,2.22,2.26,2.36,2.77,4.76,,,3.2648,0,2.0100,1,542852,1499478,-0.6792,-0.7702,0.0910
+2026-11-12,2.22,2.39,1.93,2.18,2.29,2.68,4.66,,,3.2590,0,2.4500,0,325474,1485446,-0.6532,-0.7468,0.0936

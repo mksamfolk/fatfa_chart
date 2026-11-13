@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.74,PODC,PodcastOne Inc.,Communication Services,Internet Content & Information,United States,62887052,2.06,592010,158676,326872.56,0.075,,,0.12791,-0.096499994,-0.05013,-0.16206,-0.06483,7014000,141000,0.584,1.049,1.039,1102000,13920000,30527696,7561056,0.78812,0.04998,234046,2.94,0.0313,,-9.809524,1.0013543,2.5717852,0.883,-21.285,5.66667,7.0,5.0,1.0,strong_buy,3,0,0,1,1,2026-11-05,2.167,https://www.podcastone.com,2026-11-10T12:10:38.821979+00:00
+24.54,PODC,PodcastOne Inc.,Communication Services,Internet Content & Information,United States,62887052,2.06,592010,158676,326872.56,0.075,,,0.12791,-0.096499994,-0.05013,-0.16206,-0.06483,7014000,141000,0.584,1.049,1.039,1102000,13920000,30527696,7561056,0.78812,0.04998,234046,2.94,0.0313,,-9.809524,1.0013543,2.5717852,0.883,-21.285,5.66667,7.0,5.0,1.0,strong_buy,3,0,0,1,1,2026-11-05,2.167,https://www.podcastone.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-09-08,4.30,5.80,3.89,4.39,,,,,,,0,5.8000,0,4628816,,,,
 2023-09-11,3.65,4.00,3.22,3.35,,,,,,,0,5.8000,0,515230,,,,
@@ -812,3 +812,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.97,2.11,1.96,2.06,2.14,1.96,2.38,3.13,3.00,1.5183,1,2.6617,0,119480,429140,-0.0918,-0.1268,0.0351
 2026-11-10,2.07,2.16,2.01,2.14,2.17,1.97,2.36,3.13,2.99,1.5183,1,2.6240,0,67996,428154,-0.0766,-0.1168,0.0402
 2026-11-11,2.15,2.29,2.13,2.15,2.14,1.98,2.33,3.13,2.99,1.5183,1,2.5878,0,111800,425649,-0.0635,-0.1061,0.0427
+2026-11-12,2.20,2.43,2.01,2.18,2.10,1.99,2.32,3.13,2.99,1.5183,1,2.5531,0,487666,429057,-0.0500,-0.0949,0.0449

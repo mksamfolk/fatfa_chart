@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-23 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.44,MWG,Multi Ways Holdings Limited,Industrials,Rental & Leasing Services,Singapore,7948540,1.5458,2870,15995,24725.071,0.08,,,0.24077,-0.05074,-0.0096700005,-0.02026,0.0073400005,5328000,30809000,135.992,1.571,0.403,6352000,-2324750,4142024,4021166,0.036,0.00403,20588,3.11,0.0072000003,,,0.17754959,0.35044208,0.747,28.056,,,,,none,,,,,,,1.108,https://www.multiwaysholdings.com,2026-11-10T11:26:27.681807+00:00
+37.09,MWG,Multi Ways Holdings Limited,Industrials,Rental & Leasing Services,Singapore,7948540,1.5458,2870,15995,24725.071,0.08,,,0.24077,-0.05074,-0.0096700005,-0.02026,0.0073400005,5328000,30809000,135.992,1.571,0.403,6352000,-2324750,4142024,4021166,0.036,0.00403,20588,3.11,0.0072000003,,,0.17754959,0.35044208,0.747,28.056,,,,,none,,,,,,,1.108,https://www.multiwaysholdings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-03,30.50,163.30,30.00,88.70,,,,,,,0,30.0000,1,39038643,,,,
 2023-04-04,92.00,124.00,43.50,56.50,,,,,,,0,30.0000,1,22596610,,,,
@@ -921,3 +921,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.32,1.59,1.32,1.55,1.44,1.45,1.36,1.49,1.70,1.3131,1,1.6425,0,25973,26856,0.0156,0.0236,-0.0080
 2026-11-10,1.54,1.54,1.47,1.47,1.44,1.45,1.37,1.48,1.69,1.3131,1,1.6232,0,2499,26156,0.0173,0.0224,-0.0051
 2026-11-11,1.25,1.45,1.25,1.45,1.44,1.45,1.37,1.48,1.69,1.3131,1,1.6050,0,43355,27023,0.0168,0.0213,-0.0044
+2026-11-12,1.45,1.45,1.45,1.45,1.43,1.45,1.38,1.48,1.68,1.3131,1,1.5766,0,,26771,0.0163,0.0203,-0.0040

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAEN,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,32792284,0.6801,267080,85428,58099.582800000004,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43486,0.05519,108069,1.79,0.0023999999,,,,0.6495532,,0.685,,,,,none,,,,,,,0.766,https://www.genenta.com,2026-11-10T12:37:27.326749+00:00
+0.00,SAEN,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,32792284,0.6801,267080,85428,58099.582800000004,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43486,0.05519,108069,1.79,0.0023999999,,,,0.6495532,,0.685,,,,,none,,,,,,,0.766,https://www.genenta.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-11-02,0.66,0.87,0.66,0.82,,,,,,,,0.6610,1,1284406,,,,
 2026-11-03,0.84,0.99,0.82,0.99,,,,,,,,0.6610,1,332438,,,,
@@ -37,3 +37,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.68,0.72,0.63,0.68,,,,,,,,0.9559,0,17136,,,,
 2026-11-10,0.75,0.75,0.68,0.72,,,,,,,,0.9399,0,23550,,,,
 2026-11-11,0.70,0.71,0.67,0.68,,,,,,,,0.9245,0,5712,,,,
+2026-11-12,0.70,0.70,0.62,0.62,,,,,,,,0.9097,0,11669,,,,

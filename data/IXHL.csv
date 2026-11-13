@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-27 09:30:00-05:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-9.35,IXHL,Incannex Healthcare Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,Australia,27472734,2.19,80920,82126,179855.94,,,,0.0,0.0,0.0,-0.478,-0.24576999,67711000,96000,0.142,48.812,48.613,-12867000,-9254625,12544627,10508634,0.0912,0.045089997,411587,4.45,0.0332,,-1.2743182,,0.40774533,,2.214,18.544418,19.194609,17.89423,,none,2,0,0,1,1,,2.839,https://www.incannex.com,2026-11-10T10:38:46.233412+00:00
+10.17,IXHL,Incannex Healthcare Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,Australia,27472734,2.19,80920,82126,179855.94,,,,0.0,0.0,0.0,-0.478,-0.24576999,67711000,96000,0.142,48.812,48.613,-12867000,-9254625,12544627,10508634,0.0912,0.045089997,411587,4.45,0.0332,,-1.2743182,,0.40774533,,2.214,18.544418,19.194609,17.89423,,none,2,0,0,1,1,,2.839,https://www.incannex.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-02,1920.00,2054.40,1785.60,1785.60,,,,,,,0,1785.6000,1,130349,,,,
 2022-03-03,1830.00,1830.00,1792.80,1792.80,,,,,,,0,1785.6000,1,30478,,,,
@@ -1194,3 +1194,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.28,2.28,2.16,2.19,2.45,2.60,3.04,3.33,4.55,2.7730,0,2.6598,0,194910,226679,-0.2173,-0.1899,-0.0274
 2026-11-10,2.21,2.22,1.96,2.01,2.39,2.56,3.02,3.32,4.50,2.6657,0,2.6298,0,369438,228577,-0.2370,-0.1993,-0.0377
 2026-11-11,2.06,2.10,1.96,1.98,2.32,2.52,2.99,3.32,4.45,2.5902,0,2.5762,0,133510,224757,-0.2525,-0.2099,-0.0426
+2026-11-12,1.96,2.06,1.96,2.02,2.26,2.47,2.97,3.31,4.40,2.5431,0,2.5269,0,209676,224208,-0.2582,-0.2196,-0.0386

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MTNE,CH4 Natural Solutions Corporation,Financial Services,Shell Companies,United States,295628672,10.01,28440,8615,86236.15,,,,0.0,0.0,0.0,,,1447919,300000,,0.683,0.629,-232581,,22200000,20399855,0.0,0.63832,209,0.04,,,,,-20.941423,,,,,,,none,,,,,,,,https://mtne.co,2026-11-10T11:25:00.610312+00:00
+0.00,MTNE,CH4 Natural Solutions Corporation,Financial Services,Shell Companies,United States,295628672,10.01,28440,8615,86236.15,,,,0.0,0.0,0.0,,,1447919,300000,,0.683,0.629,-232581,,22200000,20399855,0.0,0.63832,209,0.04,,,,,-20.941423,,,,,,,none,,,,,,,,https://mtne.co,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,10.05,10.05,9.89,9.90,,,,,,,0,10.0500,0,242550,,,,
 2026-06-23,9.86,9.89,9.85,9.85,,,,,,,0,10.0500,0,123125,,,,
@@ -115,3 +115,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.01,10.01,10.01,10.01,9.95,9.94,9.91,,,9.9711,1,9.9235,1,1001,83059,0.0153,0.0102,0.0051
 2026-11-10,9.98,9.98,9.98,9.98,9.95,9.94,9.92,,,9.9711,1,9.9304,1,2994,83119,0.0165,0.0114,0.0051
 2026-11-11,9.98,9.98,9.98,9.98,9.96,9.94,9.92,,,9.9711,1,9.9368,1,1996,83159,0.0173,0.0126,0.0047
+2026-11-12,9.98,9.98,9.98,9.98,9.96,9.94,9.92,,,9.9711,1,9.9427,1,,83159,0.0177,0.0136,0.0041

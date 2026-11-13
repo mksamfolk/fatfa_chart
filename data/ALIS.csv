@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALIS,Goodvision AI Holding Limited,Financial Services,Shell Companies,United States,72012992,8.545,13220,35345,302023.025,,,,0.0,0.0,0.0,3.8968399,-0.01863,232017,0,,3.046,2.349,-513416,-450586,8427500,5064253,0.33483002,0.60405,158874,2.42,0.0255,122.07143,,,356.04166,,,,,,,none,,,,,,,,https://www.calisaspac.com,2026-11-10T07:48:26.861608+00:00
+0.00,ALIS,Goodvision AI Holding Limited,Financial Services,Shell Companies,United States,72012992,8.545,13220,35345,302023.025,,,,0.0,0.0,0.0,3.8968399,-0.01863,232017,0,,3.046,2.349,-513416,-450586,8427500,5064253,0.33483002,0.60405,158874,2.42,0.0255,122.07143,,,356.04166,,,,,,,none,,,,,,,,https://www.calisaspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-19,9.90,9.92,9.90,9.92,,,,,,,0,9.9200,0,146801,,,,
 2025-11-20,9.91,9.92,9.90,9.90,,,,,,,0,9.9200,0,4730220,,,,
@@ -260,3 +260,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,8.04,8.55,7.24,8.55,8.59,8.59,9.60,9.93,9.94,10.9410,0,10.0890,0,40162,362547,-0.3265,-0.3608,0.0343
 2026-11-10,8.19,8.50,8.19,8.47,8.60,8.62,9.57,9.92,9.93,10.9410,0,9.8599,0,16093,361648,-0.3147,-0.3516,0.0369
 2026-11-11,8.07,8.60,8.00,8.60,8.57,8.63,9.54,9.91,9.93,10.9410,0,9.6445,0,61025,361829,-0.2918,-0.3396,0.0478
+2026-11-12,8.07,8.43,7.80,8.40,8.54,8.60,9.50,9.90,9.92,10.8218,0,9.4420,0,55407,360165,-0.2866,-0.3290,0.0424

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LCLN,Lincoln International Inc.,Financial Services,Capital Markets,United States,2878529280,26.97,391980,532564,14363251.08,0.573,,-0.804,0.94149,0.15079,0.117740005,,,363084992,258184000,54.781,1.28,1.205,275516000,,36372399,29615498,0.05322,0.77169997,2219641,2.93,0.0639,,15.299003,2.9354296,6.590909,1.222,,28.21429,31.0,26.0,2.28571,buy,7,0,0,4,6,2026-11-05,,https://www.lincolninternational.com,2026-11-10T10:54:04.987560+00:00
+0.00,LCLN,Lincoln International Inc.,Financial Services,Capital Markets,United States,2878529280,26.97,391980,532564,14363251.08,0.573,,-0.804,0.94149,0.15079,0.117740005,,,363084992,258184000,54.781,1.28,1.205,275516000,,36372399,29615498,0.05322,0.77169997,2219641,2.93,0.0639,,15.299003,2.9354296,6.590909,1.222,,28.21429,31.0,26.0,2.28571,buy,7,0,0,4,6,2026-11-05,,https://www.lincolninternational.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,22.45,22.94,22.18,22.46,,,,,,,0,22.1783,1,196831560,,,,
 2026-05-21,22.41,24.01,22.24,22.99,,,,,,,0,22.1783,1,47418458,,,,
@@ -151,3 +151,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,26.61,27.06,26.03,26.97,25.68,24.83,24.89,,,24.1488,1,24.4700,1,9687624,14573901,0.6255,0.3286,0.2969
 2026-11-10,26.91,27.60,26.53,26.57,25.96,24.93,24.92,,,24.1488,1,24.8940,1,6687669,14574791,0.6487,0.3926,0.2561
 2026-11-11,26.50,27.21,25.79,27.09,26.25,25.09,24.97,,,24.1488,1,25.2756,1,6748119,14465478,0.7011,0.4543,0.2468
+2026-11-12,27.18,27.79,25.99,26.13,26.36,25.18,24.97,,,24.1488,1,25.6190,1,8510541,14370169,0.6575,0.4949,0.1626

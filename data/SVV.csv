@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-63.91,SVV,Savers Value Village Inc.,Consumer Cyclical,Specialty Retail,United States,1625818624,10.61,2761300,1742995,18493176.95,0.085,,,0.5597,0.099630006,0.03497,0.14062999,0.048189998,65430000,1408652032,299.588,0.672,0.32,262899008,76483504,153234555,58681466,0.0030500002,0.96532995,9667150,7.07,0.2731,27.205128,17.910194,0.91381043,3.4661872,1.671,12.033,14.22727,20.0,11.0,1.72727,buy,11,8,8,0,0,2026-11-05,1.225,https://www.savers.com,2026-11-10T13:07:29.887438+00:00
+66.50,SVV,Savers Value Village Inc.,Consumer Cyclical,Specialty Retail,United States,1625818624,10.61,2761300,1742995,18493176.95,0.085,,,0.5597,0.099630006,0.03497,0.14062999,0.048189998,65430000,1408652032,299.588,0.672,0.32,262899008,76483504,153234555,58681466,0.0030500002,0.96532995,9667150,7.07,0.2731,27.205128,17.910194,0.91381043,3.4661872,1.671,12.033,14.22727,20.0,11.0,1.72727,buy,11,8,8,0,0,2026-11-05,1.225,https://www.savers.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-29,24.77,25.00,22.65,22.91,,,,,,,0,25.0000,0,265682686,,,,
 2023-06-30,22.48,24.00,22.30,23.70,,,,,,,0,25.0000,0,35805961,,,,
@@ -876,3 +876,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.02,10.66,9.90,10.61,9.47,9.58,9.54,9.45,9.39,8.4400,1,8.8850,1,26015719,14468349,0.0784,-0.0269,0.1052
 2026-11-10,10.18,10.45,9.90,10.07,9.60,9.62,9.53,9.46,9.39,8.4400,1,9.0625,1,19645562,14597597,0.1067,-0.0002,0.1068
 2026-11-11,10.30,10.30,9.73,9.91,9.70,9.65,9.53,9.47,9.39,8.4400,1,9.2223,1,16947091,14666874,0.1149,0.0228,0.0920
+2026-11-12,9.95,10.23,9.95,10.09,9.76,9.64,9.53,9.49,9.39,8.4400,1,9.3660,1,14277350,14775219,0.1343,0.0451,0.0892

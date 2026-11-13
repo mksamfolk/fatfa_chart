@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HQ,Horizon Quantum Holdings Ltd.,Technology,Software - Infrastructure,Singapore,745354432,13.81,103050,283854,3920023.74,,,,1.0,-121746.03,0.0,-5.4382,-0.20719999,113254440,367519,0.841,33.844,31.909,-15779882,-17351998,34227495,18258215,0.52796,0.58607,1326734,3.76,0.0911,,-27.62,4259168.0,17.070457,3614100.0,-31.317,20.5,21.0,20.0,,none,2,0,0,1,1,2026-11-10,0.369,https://www.horizonquantum.com,2026-11-10T10:19:10.641471+00:00
+0.00,HQ,Horizon Quantum Holdings Ltd.,Technology,Software - Infrastructure,Singapore,745354432,13.81,103050,283854,3920023.74,,,,1.0,-121746.03,0.0,-5.4382,-0.20719999,113254440,367519,0.841,33.844,31.909,-15779882,-17351998,34227495,18258215,0.52796,0.58607,1326734,3.76,0.0911,,-27.62,4259168.0,17.070457,3614100.0,-31.317,20.5,21.0,20.0,,none,2,0,0,1,1,2026-11-10,0.369,https://www.horizonquantum.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,12.00,13.44,8.99,9.85,,,,,,,0,8.9900,1,737765,,,,
 2026-03-23,9.54,11.80,9.54,11.33,,,,,,,0,8.9900,1,879208,,,,
@@ -193,3 +193,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.60,13.90,11.60,13.81,13.52,13.80,14.60,15.25,,15.5178,0,15.2618,0,3917897,3766092,-0.6620,-0.4698,-0.1922
 2026-11-10,13.37,14.17,12.50,12.59,13.28,13.67,14.56,15.28,,15.5178,0,15.0513,0,1333281,3741278,-0.6707,-0.5100,-0.1607
 2026-11-11,13.42,13.67,12.75,12.79,13.03,13.62,14.52,15.30,,15.5178,0,14.8493,0,1295627,3717147,-0.6538,-0.5388,-0.1151
+2026-11-12,12.36,13.09,11.90,12.00,12.70,13.52,14.41,15.32,,15.5178,0,14.6553,0,1396800,3598573,-0.6962,-0.5702,-0.1260

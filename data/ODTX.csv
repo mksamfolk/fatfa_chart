@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ODTX,Odyssey Therapeutics Inc.,Healthcare,Biotechnology,United States,920499776,19.15,380980,296360,5675294.0,,,,0.0,0.0,0.0,,,326000992,23478000,6.248,12.942,12.49,-142414000,,48067877,23687194,0.06185,0.83985,3281824,8.03,0.0779,,-4.316728,Infinity,2.4432254,,-3.676,34.66667,42.0,27.0,1.25,strong_buy,6,0,0,0,0,2026-11-04,,https://odysseytx.com,2026-11-10T11:47:21.238095+00:00
+0.00,ODTX,Odyssey Therapeutics Inc.,Healthcare,Biotechnology,United States,920499776,19.15,380980,296360,5675294.0,,,,0.0,0.0,0.0,,,326000992,23478000,6.248,12.942,12.49,-142414000,,48067877,23687194,0.06185,0.83985,3281824,8.03,0.0779,,-4.316728,Infinity,2.4432254,,-3.676,34.66667,42.0,27.0,1.25,strong_buy,6,0,0,0,0,2026-11-04,,https://odysseytx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-08,20.00,20.30,15.35,16.42,,,,,,,0,15.3500,1,52066178,,,,
 2026-05-11,16.56,17.72,16.41,17.45,,,,,,,0,15.3500,1,7451150,,,,
@@ -159,3 +159,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,19.25,19.72,18.38,19.15,19.63,18.95,21.07,,,21.6430,0,22.1860,0,11897895,7166766,-0.2175,-0.3507,0.1332
 2026-11-10,18.98,20.95,18.71,20.00,19.68,19.08,20.98,,,21.6430,0,22.0190,0,7900000,7241202,-0.1546,-0.3115,0.1569
 2026-11-11,19.98,21.21,19.22,20.99,19.82,19.30,20.91,,,21.6430,0,21.8586,0,5144649,7259423,-0.0246,-0.2541,0.2295
+2026-11-12,20.81,20.81,19.08,20.10,19.85,19.43,20.78,,,21.6430,0,21.7047,0,6472200,7297614,0.0065,-0.2020,0.2085

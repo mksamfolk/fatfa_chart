@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-02-24 09:30:00-05:00,0.05\n2026-05-28 09:30:00-04:00,0.025\n2026-09-25 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.84,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,9274943,9.19,47780,79701,732452.19,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.034621757,,1.9789606,0.02996571,-0.162,-1.077,,,,,none,,,,,,,,https://republicpower.net,2026-11-10T12:33:08.281551+00:00
+97.36,RPGL,Republic Power Group Limited,Technology,Software - Application,Singapore,9274943,9.19,47780,79701,732452.19,3.414,,,0.58492,-0.40947,0.11665,0.09277,0.04721,1109072,149907,1.775,1.675,0.736,1186272,-5120092,1007370,20759,0.00176,0.00324,18774,0.32,0.0187,0.034621757,,1.9789606,0.02996571,-0.162,-1.077,,,,,none,,,,,,,,https://republicpower.net,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-14,3360.00,4152.00,3200.00,3984.00,,,,,,,0,3200.0000,1,24784464,,,,
 2025-10-15,3240.00,3432.00,3216.00,3280.00,,,,,,,0,3200.0000,1,6441920,,,,
@@ -286,3 +286,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,11.45,12.66,9.19,9.19,10.28,11.29,9.96,13.45,82.10,21.3238,0,28.6798,0,229750,1293548,-0.5941,-0.3898,-0.2043
 2026-11-10,10.70,10.70,8.25,9.43,10.46,9.54,10.11,13.32,79.48,19.5689,0,27.7726,0,951487,1311907,-0.6777,-0.4474,-0.2303
 2026-11-11,9.38,10.06,8.61,9.88,10.63,9.26,10.27,13.22,77.08,18.8501,0,26.9017,0,238108,1315995,-0.6996,-0.4978,-0.2018
+2026-11-12,9.90,11.03,9.51,9.58,10.74,9.07,10.42,13.14,75.17,18.8501,0,26.0656,0,259618,1319531,-0.7327,-0.5448,-0.1879

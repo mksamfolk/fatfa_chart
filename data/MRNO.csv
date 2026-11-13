@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.51,MRNO,Murano Global Investments Plc,Real Estate,Real Estate - Development,United Kingdom,16334388,0.2049,142510,7953185,1629607.6065,-0.149,,,0.39893,-0.017,-0.24757999,-0.07516,-0.01058,273625088,11099286528,481.087,0.26,0.067,92845696,-2790219776,79718832,4117250,0.94984,0.00737,454939,0.02,0.2594,,,0.014321557,0.13245629,9.506,-113.588,,,,,none,,,,,,,0.504,https://www.murano.com.mx,2026-11-10T11:21:57.894036+00:00
+17.51,MRNO,Murano Global Investments Plc,Real Estate,Real Estate - Development,United Kingdom,16334388,0.2049,142510,7953185,1629607.6065,-0.149,,,0.39893,-0.017,-0.24757999,-0.07516,-0.01058,273625088,11099286528,481.087,0.26,0.067,92845696,-2790219776,79718832,4117250,0.94984,0.00737,454939,0.02,0.2594,,,0.014321557,0.13245629,9.506,-113.588,,,,,none,,,,,,,0.504,https://www.murano.com.mx,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-16,9.87,9.92,9.87,9.91,,,,,,,0,9.8700,1,14865,,,,
 2022-03-17,9.93,9.93,9.91,9.91,,,,,,,0,9.8700,1,13874,,,,
@@ -1184,3 +1184,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.19,0.21,0.19,0.20,0.21,0.23,0.22,0.30,0.48,0.2704,0,0.2389,0,15477,781677,-0.0080,-0.0040,-0.0040
 2026-11-10,0.21,0.21,0.19,0.19,0.21,0.23,0.22,0.30,0.48,0.2704,0,0.2379,0,17216,781496,-0.0090,-0.0050,-0.0040
 2026-11-11,0.20,0.22,0.19,0.20,0.20,0.23,0.22,0.30,0.48,0.2704,0,0.2369,0,170340,784634,-0.0088,-0.0058,-0.0030
+2026-11-12,0.20,0.21,0.19,0.20,0.20,0.22,0.22,0.29,0.47,0.2704,0,0.2359,0,28908,784906,-0.0090,-0.0064,-0.0026

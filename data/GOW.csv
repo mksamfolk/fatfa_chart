@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.52,GOW,GOWell Energy Technology,Energy,Oil & Gas Equipment & Services,Singapore,110306816,2.36,41510,754757,1781226.52,0.433,0.38,0.38,0.58975,0.27056,0.04097,,,2910012,24348896,53.129,2.792,1.539,,,46740180,8400000,0.99926,0.19913,184091,0.07,,39.333332,,1.9218845,1.5445025,1.607,6.042,14.0,14.0,14.0,,none,1,0,0,0,0,,,https://www.gowell.energy,2026-11-10T10:04:56.267866+00:00
+3.87,GOW,GOWell Energy Technology,Energy,Oil & Gas Equipment & Services,Singapore,110306816,2.36,41510,754757,1781226.52,0.433,0.38,0.38,0.58975,0.27056,0.04097,,,2910012,24348896,53.129,2.792,1.539,,,46740180,8400000,0.99926,0.19913,184091,0.07,,39.333332,,1.9218845,1.5445025,1.607,6.042,14.0,14.0,14.0,,none,1,0,0,0,0,,,https://www.gowell.energy,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-07,9.86,9.87,9.86,9.87,,,,,,,0,9.8600,1,5225178,,,,
 2025-03-10,9.86,9.88,9.86,9.88,,,,,,,0,9.8600,1,19760,,,,
@@ -453,3 +453,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.50,2.74,2.36,2.36,2.73,3.03,5.44,8.81,9.20,3.6701,0,3.3015,0,134048,3523250,-0.7616,-0.8565,0.0949
 2026-11-10,2.43,2.44,2.36,2.36,2.65,2.97,5.28,8.76,9.16,3.5149,0,3.1994,0,14396,3518281,-0.7385,-0.8329,0.0944
 2026-11-11,2.36,2.66,2.33,2.48,2.60,2.94,5.11,8.70,9.12,3.5149,0,3.1034,0,63736,3519237,-0.7024,-0.8068,0.1044
+2026-11-12,2.48,2.74,2.48,2.59,2.55,2.91,4.95,8.65,9.08,3.5149,0,3.0132,0,42994,3516445,-0.6574,-0.7769,0.1196

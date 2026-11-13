@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PONO,Pono Capital Four Inc.,Financial Services,Shell Companies,Cayman Islands,225806768,10.04,15790,37057,372052.27999999997,,,,0.0,0.0,0.0,,,335344,0,,,,,,12205000,,0.0,0.82869005,2407,0.22,0.0002,,,,-85.08475,,,,,,,none,,,,,,,,,2026-11-10T12:11:05.045989+00:00
+0.00,PONO,Pono Capital Four Inc.,Financial Services,Shell Companies,Cayman Islands,225806768,10.04,15790,37057,372052.27999999997,,,,0.0,0.0,0.0,,,335344,0,,,,,,12205000,,0.0,0.82869005,2407,0.22,0.0002,,,,-85.08475,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-05,9.85,9.86,9.84,9.86,,,,,,,0,9.8400,1,7579382,,,,
 2026-05-06,9.85,9.86,9.85,9.86,,,,,,,0,9.8400,1,8576228,,,,
@@ -147,3 +147,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.03,10.04,10.03,10.04,10.03,10.04,10.03,,,10.0207,1,10.0761,0,53212,491930,0.0028,0.0028,-0.0001
 2026-11-10,10.03,10.04,10.03,10.04,10.03,10.04,10.03,,,10.0207,1,10.0749,0,92368,473597,0.0029,0.0028,0.0000
 2026-11-11,10.04,10.05,10.04,10.05,10.04,10.04,10.03,,,10.0207,1,10.0738,0,80400,475205,0.0037,0.0030,0.0007
+2026-11-12,10.05,10.05,10.05,10.05,10.04,10.04,10.03,,,10.0223,1,10.0728,0,39195,405738,0.0044,0.0033,0.0011

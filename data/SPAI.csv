@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-22.56,SPAI,Safe Pro Group Inc.,Industrials,Aerospace & Defense,United States,68814224,3.28,117440,341357,1119650.96,13.362,,,0.65189004,-2.456,0.0,-1.9817799,-1.0234,10230514,595013,4.971,8.762,8.127,-8287331,-3603404,20979946,11760775,0.42821997,0.115380004,531840,1.4,0.0466,,,23.882807,5.5782313,19.836,-4.195,10.66667,13.0,9.0,,none,3,1,1,0,0,,3.911,https://safeprogroup.com,2026-11-10T12:57:27.978963+00:00
+19.98,SPAI,Safe Pro Group Inc.,Industrials,Aerospace & Defense,United States,68814224,3.28,117440,341357,1119650.96,13.362,,,0.65189004,-2.456,0.0,-1.9817799,-1.0234,10230514,595013,4.971,8.762,8.127,-8287331,-3603404,20979946,11760775,0.42821997,0.115380004,531840,1.4,0.0466,,,23.882807,5.5782313,19.836,-4.195,10.66667,13.0,9.0,,none,3,1,1,0,0,,3.911,https://safeprogroup.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-28,4.00,4.89,4.00,4.27,,,,,,,0,4.8900,0,1868979,,,,
 2024-08-29,4.26,4.45,3.40,4.14,,,,,,,0,4.8900,0,818892,,,,
@@ -568,3 +568,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.12,3.34,3.08,3.28,3.17,3.27,4.22,4.32,4.48,3.7440,0,3.4065,0,421808,2114965,-0.2978,-0.3301,0.0323
 2026-11-10,3.37,3.37,2.78,2.93,3.14,3.24,4.19,4.30,4.48,3.7440,0,2.7500,1,1272792,2126446,-0.2977,-0.3236,0.0259
 2026-11-11,3.07,3.14,2.96,3.04,3.10,3.21,4.16,4.29,4.47,3.7440,0,2.7624,1,369968,2120064,-0.2854,-0.3160,0.0305
+2026-11-12,3.03,3.11,2.74,2.81,3.04,3.17,4.12,4.28,4.46,3.7440,0,3.3700,0,657821,2124618,-0.2909,-0.3110,0.0200

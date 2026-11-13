@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-29.04,ADUR,Aduro Clean Technologies Inc.,Industrials,Pollution & Treatment Controls,Canada,386395136,10.8,299130,324328,3502742.4000000004,,,,1.0,-134.97565,0.0,-0.48312,-0.21014999,65804632,464126,0.75,88.771,88.172,-9826461,-7954619,35777326,25345731,0.29541,0.033,3558427,12.45,,,-25.598034,3148.9507,8.756834,2616.454,-20.245,27.390709,32.95739,21.93851,,none,4,0,0,0,0,2027-01-14,1.314,https://www.adurocleantech.com,2026-11-10T07:39:16.289653+00:00
+27.21,ADUR,Aduro Clean Technologies Inc.,Industrials,Pollution & Treatment Controls,Canada,386395136,10.8,299130,324328,3502742.4000000004,,,,1.0,-134.97565,0.0,-0.48312,-0.21014999,65804632,464126,0.75,88.771,88.172,-9826461,-7954619,35777326,25345731,0.29541,0.033,3558427,12.45,,,-25.598034,3148.9507,8.756834,2616.454,-20.245,27.390709,32.95739,21.93851,,none,4,0,0,0,0,2027-01-14,1.314,https://www.adurocleantech.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-08-15,4.59,4.59,4.36,4.46,,,,,,,0,4.3616,1,137272,,,,
 2024-08-16,4.54,4.74,4.52,4.59,,,,,,,0,4.3616,1,189647,,,,
@@ -592,3 +592,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.87,11.19,10.63,10.80,9.95,9.98,11.53,13.36,12.85,11.2403,0,8.8700,1,3203280,3496098,-0.4257,-0.6070,0.1813
 2026-11-10,10.30,10.65,9.99,10.16,9.98,9.97,11.46,13.36,12.83,11.2403,0,8.9626,1,2771648,3392297,-0.3875,-0.5631,0.1756
 2026-11-11,10.25,10.93,10.25,10.71,10.05,10.01,11.40,13.36,12.81,11.2403,0,9.0516,1,2097018,3204549,-0.3093,-0.5123,0.2031
+2026-11-12,10.24,10.55,10.05,10.16,10.04,10.02,11.33,13.36,12.79,11.2403,0,9.1370,1,1867408,3148002,-0.2883,-0.4675,0.1792

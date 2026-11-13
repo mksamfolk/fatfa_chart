@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GYGY,Game Your Game Inc.,Technology,Software - Infrastructure,United States,5037239,0.3501,2266000,4698050,1644787.3050000002,-0.908,,,0.10981,-2192.5017,0.0,,,15991,3599359,,0.879,0.011,-1564298,,14388000,4413451,0.42304,0.0021799998,253869,0.03,,,,108.437325,-1.5913637,185.608,-2.137,,,,,none,,,,,,,,https://www.gamegolf.com,2026-11-10T10:10:50.414425+00:00
+0.00,GYGY,Game Your Game Inc.,Technology,Software - Infrastructure,United States,5037239,0.3501,2266000,4698050,1644787.3050000002,-0.908,,,0.10981,-2192.5017,0.0,,,15991,3599359,,0.879,0.011,-1564298,,14388000,4413451,0.42304,0.0021799998,253869,0.03,,,,108.437325,-1.5913637,185.608,-2.137,,,,,none,,,,,,,,https://www.gamegolf.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-30,22.50,32.66,11.49,15.98,,,,,,,0,32.6600,0,628014,,,,
 2026-07-31,14.00,14.00,7.50,9.08,,,,,,,0,32.6600,0,793592,,,,
@@ -88,3 +88,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.35,0.37,0.34,0.35,0.37,0.38,0.97,,,0.6348,0,0.4452,0,164675,3157521,-0.2706,-0.3645,0.0939
 2026-11-10,0.35,0.36,0.33,0.33,0.37,0.37,0.92,,,0.6058,0,0.4429,0,61677,3133015,-0.2548,-0.3426,0.0878
 2026-11-11,0.34,0.34,0.32,0.34,0.36,0.37,0.88,,,0.5708,0,0.4407,0,130084,3112239,-0.2386,-0.3218,0.0832
+2026-11-12,0.33,0.34,0.30,0.31,0.36,0.37,0.84,,,0.5487,0,0.4359,0,2410219,3155568,-0.2256,-0.3025,0.0769

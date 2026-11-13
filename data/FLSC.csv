@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FLSC,Frazier Life Sciences Acquisition Corp II,Financial Services,Shell Companies,United States,98346376,10.165,11020,98405,1000286.825,,,,0.0,0.0,0.0,,,,,,,,,,7800000,,0.0,0.4359,17259,0.03,,,,,,,,,,,,none,,,,,,,,,2026-11-10T09:46:25.641221+00:00
+0.00,FLSC,Frazier Life Sciences Acquisition Corp II,Financial Services,Shell Companies,United States,98346376,10.165,11020,98405,1000286.825,,,,0.0,0.0,0.0,,,,,,,,,,7800000,,0.0,0.4359,17259,0.03,,,,,,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-14,10.18,10.41,10.18,10.29,,,,,,,0,10.1800,1,12532191,,,,
 2026-10-15,10.23,10.50,10.23,10.49,,,,,,,0,10.1800,1,883258,,,,
@@ -50,3 +50,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.21,10.21,10.13,10.17,10.19,,,,,10.5395,0,10.4340,0,149499,,,,
 2026-11-10,10.28,10.28,10.15,10.15,10.18,10.24,,,,10.5395,0,10.4128,0,250705,,,,
 2026-11-11,10.19,10.19,10.19,10.19,10.18,10.24,,,,10.5395,0,10.3928,0,2038,,,,
+2026-11-12,10.19,10.19,10.13,10.14,10.17,10.22,,,,10.4967,0,10.3740,0,419796,,,,

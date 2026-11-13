@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-12-30 09:30:00-05:00,0.04\n2026-07-13 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.44,BIYA,Baiya International Group Inc.,Technology,Software - Application,China,7683597,1.125,63070,2411289,2712700.125,,,,0.11479,-4.54953,-0.41821998,-0.30751,-0.17274,1181159,0,,12.546,0.791,-1234651,-3704627,3229864,2998775,0.00011,0.027579999,175376,0.03,0.0545,0.024939038,,0.44584343,0.26005545,0.346,-0.757,,,,,none,,,,,,2026-09-29,,https://www.baiyainc.com,2026-11-10T08:21:12.374771+00:00
+0.83,BIYA,Baiya International Group Inc.,Technology,Software - Application,China,7683597,1.125,63070,2411289,2712700.125,,,,0.11479,-4.54953,-0.41821998,-0.30751,-0.17274,1181159,0,,12.546,0.791,-1234651,-3704627,3229864,2998775,0.00011,0.027579999,175376,0.03,0.0545,0.024939038,,0.44584343,0.26005545,0.346,-0.757,,,,,none,,,,,,2026-09-29,,https://www.baiyainc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-21,950.00,1062.50,937.50,1045.00,,,,,,,0,937.5000,1,8063220,,,,
 2025-03-24,1087.50,1115.00,965.25,1037.50,,,,,,,0,937.5000,1,2699575,,,,
@@ -428,3 +428,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.13,1.18,1.08,1.13,1.19,1.25,1.85,6.41,12.61,1.4331,0,1.4631,0,64238,6052444,-0.2274,-0.2644,0.0370
 2026-11-10,1.12,1.22,1.12,1.18,1.19,1.23,1.82,6.33,12.40,1.4331,0,1.4067,0,48380,6030948,-0.2131,-0.2541,0.0410
 2026-11-11,1.21,1.26,1.15,1.22,1.18,1.22,1.79,6.25,12.19,1.4331,0,1.3581,0,35624,6004698,-0.1963,-0.2425,0.0462
+2026-11-12,1.17,1.22,1.15,1.21,1.18,1.22,1.76,6.17,11.97,1.4331,0,1.3164,0,60258,5995590,-0.1817,-0.2304,0.0487

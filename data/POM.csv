@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-22 09:30:00-04:00,0.05555555555555555\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-61.95,POM,Pomdoctor Limited,Healthcare,Pharmaceutical Retailers,China,4309458,1.55,6073680,2051392,3179657.6,0.06,,,0.11996,-1.25879,-0.90164,,-3.5209398,12605976,450125536,,0.35,0.275,-123415392,4101977,2576092,1119065,0.0,7e-05,2250,,0.0011999999,,,0.010499468,-0.05101051,0.988,-1.2,,,,,none,,,,,,,,https://www.7lk.com,2026-11-10T12:11:00.530235+00:00
+70.74,POM,Pomdoctor Limited,Healthcare,Pharmaceutical Retailers,China,4309458,1.55,6073680,2051392,3179657.6,0.06,,,0.11996,-1.25879,-0.90164,,-3.5209398,12605976,450125536,,0.35,0.275,-123415392,4101977,2576092,1119065,0.0,7e-05,2250,,0.0011999999,,,0.010499468,-0.05101051,0.988,-1.2,,,,,none,,,,,,,,https://www.7lk.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-08,81.00,90.72,62.46,72.54,,,,,,,0,62.4600,1,28167282,,,,
 2025-10-09,70.20,87.84,70.20,85.86,,,,,,,0,62.4600,1,7480295,,,,
@@ -290,3 +290,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.61,1.66,1.38,1.55,1.63,1.38,1.09,2.55,3.17,0.6766,1,0.9878,1,612250,5782928,0.1794,0.1811,-0.0017
 2026-11-10,1.58,1.60,1.51,1.60,1.66,1.42,1.10,2.52,3.15,0.6766,1,1.0282,1,194560,5771481,0.1710,0.1791,-0.0081
 2026-11-11,1.60,1.66,1.55,1.66,1.64,1.47,1.12,2.48,3.13,0.6766,1,1.0679,1,88146,5770698,0.1673,0.1767,-0.0094
+2026-11-12,1.61,1.75,1.51,1.66,1.61,1.52,1.13,2.45,3.10,0.6766,1,1.1067,1,107070,5771429,0.1625,0.1739,-0.0114

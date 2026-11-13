@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VMET,Versamet Royalties Corporation,Basic Materials,Other Precious Metals & Mining,Canada,1020820736,9.38,251630,315632,2960628.16,3.919,21.235,27.812,0.72836995,0.58042,0.49921,0.121700004,0.078449994,13236000,375000000,95.045,0.709,0.693,49667000,-122397144,108829507,44332788,0.59941,0.11765,829574,3.35,0.0183,26.800001,,13.760844,2.5875862,18.637,17.32,,,,,none,,,,,,,,https://www.versamet.com,2026-11-10T13:42:35.047732+00:00
+0.00,VMET,Versamet Royalties Corporation,Basic Materials,Other Precious Metals & Mining,Canada,1020820736,9.38,251630,315632,2960628.16,3.919,21.235,27.812,0.72836995,0.58042,0.49921,0.121700004,0.078449994,13236000,375000000,95.045,0.709,0.693,49667000,-122397144,108829507,44332788,0.59941,0.11765,829574,3.35,0.0183,26.800001,,13.760844,2.5875862,18.637,17.32,,,,,none,,,,,,,,https://www.versamet.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-02,10.15,10.27,9.87,9.97,,,,,,,0,10.2700,0,104685,,,,
 2026-03-03,9.86,9.86,9.25,9.52,,,,,,,0,10.2700,0,99008,,,,
@@ -192,3 +192,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.40,9.60,9.21,9.38,8.84,8.60,9.38,10.53,,8.1402,1,8.4664,1,2677052,3154282,-0.0415,-0.1867,0.1452
 2026-11-10,9.13,9.17,8.46,8.72,8.83,8.62,9.36,10.52,,8.1402,1,9.6000,0,2542752,3168133,-0.0495,-0.1592,0.1097
 2026-11-11,8.90,8.90,8.50,8.52,8.79,8.64,9.33,10.50,,8.1402,1,9.6000,0,1610280,3143818,-0.0712,-0.1416,0.0704
+2026-11-12,8.37,8.58,7.87,8.15,8.73,8.63,9.29,10.49,,8.1402,1,9.5772,0,4274675,3167266,-0.1169,-0.1367,0.0198

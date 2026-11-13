@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AEAQ,Activate Energy Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,317813408,10.15,25030,39510,401026.5,,,,0.0,0.0,0.0,,,412631,0,,5.703,4.184,-835958,,23645000,21460077,0.0,0.86747,818,0.02,0.0001,,,,-42.291664,,,,,,,none,,,,,,,,https://activateenergy.us,2026-11-10T07:39:39.188305+00:00
+0.00,AEAQ,Activate Energy Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,317813408,10.15,25030,39510,401026.5,,,,0.0,0.0,0.0,,,412631,0,,5.703,4.184,-835958,,23645000,21460077,0.0,0.86747,818,0.02,0.0001,,,,-42.291664,,,,,,,none,,,,,,,,https://activateenergy.us,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-26,9.94,10.00,9.91,9.91,,,,,,,0,9.9100,1,2663808,,,,
 2026-01-27,10.03,10.03,9.92,9.92,,,,,,,0,9.9100,1,322400,,,,
@@ -216,3 +216,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.15,10.15,10.15,10.15,10.11,10.10,10.09,10.01,,10.1097,1,10.0841,1,7105,323301,0.0118,0.0087,0.0031
 2026-11-10,10.12,10.12,10.12,10.12,10.11,10.11,10.09,10.01,,10.1097,1,10.0854,1,404800,329251,0.0114,0.0092,0.0022
 2026-11-11,10.12,10.12,10.12,10.12,10.12,10.11,10.09,10.01,,10.1097,1,10.0867,1,,329150,0.0110,0.0096,0.0014
+2026-11-12,10.12,10.12,10.12,10.12,10.12,10.11,10.09,10.02,,10.1097,1,10.0880,1,14168,329433,0.0106,0.0098,0.0008

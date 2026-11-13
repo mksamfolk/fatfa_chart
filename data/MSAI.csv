@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-04-13 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.29,MSAI,MultiSensor AI Holdings Inc.,Technology,Electronic Components,United States,7036017,3.19,13040,13960,44532.4,0.195,,,0.48844,-1.53628,-1.4169999,-0.46471,-0.24225001,21005000,0,,7.193,6.158,-8120000,-7303250,2205648,1327469,0.10024,0.3779,171914,26.46,0.6065,,-1.3690988,1.1219928,0.24694225,-2.228,1.769,10.0,10.0,10.0,,none,1,0,0,1,1,,-0.173,https://www.multisensorai.com,2026-11-10T11:22:40.242044+00:00
+10.32,MSAI,MultiSensor AI Holdings Inc.,Technology,Electronic Components,United States,7036017,3.19,13040,13960,44532.4,0.195,,,0.48844,-1.53628,-1.4169999,-0.46471,-0.24225001,21005000,0,,7.193,6.158,-8120000,-7303250,2205648,1327469,0.10024,0.3779,171914,26.46,0.6065,,-1.3690988,1.1219928,0.24694225,-2.228,1.769,10.0,10.0,10.0,,none,1,0,0,1,1,,-0.173,https://www.multisensorai.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-16,395.20,395.20,395.20,395.20,,,,,,,0,395.2000,1,1977186,,,,
 2021-11-17,394.80,396.80,394.80,395.20,,,,,,,0,396.8000,0,3139074,,,,
@@ -1266,3 +1266,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.00,3.29,2.80,3.19,3.23,3.67,4.55,5.68,7.36,3.9441,0,3.3811,0,31900,78724,-0.4252,-0.4123,-0.0129
 2026-11-10,3.28,3.41,3.05,3.05,3.19,3.59,4.50,5.62,7.31,3.9441,0,2.8030,1,23485,77642,-0.4187,-0.4136,-0.0051
 2026-11-11,3.22,3.53,3.20,3.42,3.20,3.54,4.46,5.56,7.25,3.9441,0,2.8030,1,53694,77325,-0.3793,-0.4067,0.0274
+2026-11-12,3.36,3.44,3.08,3.39,3.20,3.50,4.42,5.51,7.20,3.9441,0,2.8321,1,20316,76448,-0.3469,-0.3948,0.0479

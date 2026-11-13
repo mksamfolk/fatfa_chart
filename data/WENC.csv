@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,161378560,10.055,28570,11681,117452.455,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.53486,47353,7.85,0.0038,,,,279.30557,,,,,,,none,,,,,,,,,2026-11-10T13:49:31.362464+00:00
+0.00,WENC,West Enclave Merger Corp.,Financial Services,Shell Companies,Mexico,161378560,10.055,28570,11681,117452.455,,,,0.0,0.0,0.0,,,879639,288839,50.252,0.285,,-329040,,16049583,12501181,0.16221,0.53486,47353,7.85,0.0038,,,,279.30557,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-13,9.86,9.89,9.86,9.88,,,,,,,0,9.8600,1,4223700,,,,
 2026-05-14,9.89,9.89,9.87,9.88,,,,,,,0,9.8600,1,153140,,,,
@@ -141,3 +141,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.06,10.06,10.06,10.06,10.03,10.02,10.01,,,10.0279,1,9.9900,1,1006000,122326,0.0074,0.0064,0.0010
 2026-11-10,10.04,10.06,10.04,10.06,10.03,10.03,10.01,,,10.0279,1,9.9914,1,456724,131441,0.0095,0.0070,0.0025
 2026-11-11,10.04,10.04,10.04,10.04,10.03,10.03,10.01,,,10.0279,1,9.9928,1,3012,131501,0.0094,0.0075,0.0019
+2026-11-12,10.05,10.06,10.05,10.06,10.04,10.03,10.01,,,10.0279,1,9.9941,1,65390,132809,0.0108,0.0082,0.0027

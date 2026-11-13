@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VCRE,Vicore Pharma Holding AB (publ),Healthcare,Biotechnology,Sweden,317413376,11.27,18120,22603,254735.81,0.267,,,1.0,0.0,0.0,-0.56988996,-0.34351003,,,,12.679,12.501,,-282982496,28164451,20080376,0.0,0.01279,1028,0.03,,,,,,,,25.123144,35.32922,14.907197,1.0,strong_buy,3,,,,,,0.1,https://www.vicorepharma.com,2026-11-10T13:37:54.506907+00:00
+0.00,VCRE,Vicore Pharma Holding AB (publ),Healthcare,Biotechnology,Sweden,317413376,11.27,18120,22603,254735.81,0.267,,,1.0,0.0,0.0,-0.56988996,-0.34351003,,,,12.679,12.501,,-282982496,28164451,20080376,0.0,0.01279,1028,0.03,,,,,,,,25.123144,35.32922,14.907197,1.0,strong_buy,3,,,,,,0.1,https://www.vicorepharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-06,14.90,16.53,13.55,16.25,,,,,,,0,13.5500,1,2206750,,,,
 2026-07-07,17.63,17.80,14.25,15.03,,,,,,,0,13.5500,1,9279522,,,,
@@ -106,3 +106,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.92,11.32,10.68,11.27,9.90,9.57,10.54,,,9.0723,1,9.2885,1,95795,172260,0.0084,-0.2289,0.2373
 2026-11-10,11.20,11.46,10.95,11.35,10.10,9.69,10.53,,,9.3171,1,9.3758,1,279210,177702,0.1183,-0.1595,0.2778
 2026-11-11,11.14,11.48,10.68,11.31,10.25,9.80,10.52,,,9.3171,1,9.4595,1,110838,179918,0.1999,-0.0876,0.2875
+2026-11-12,11.18,11.18,10.99,10.99,10.33,9.89,10.48,,,9.3171,1,9.5808,1,60445,179605,0.2360,-0.0229,0.2589

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-31 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.56,CSAI,Cloudastructure Inc.,Technology,Software - Infrastructure,United States,1718293,1.94,15820,65914,127873.16,0.135,,,0.35907,-1.70722,-1.51399,-1.51438,-0.71375,3807000,1300000,36.963,4.957,4.222,-7355000,-4107625,885528,866492,0.0,0.08112001,38812,0.32,0.0444,,,0.29676908,0.45949787,-0.142,0.097,20.0,20.0,20.0,,none,1,0,0,2,2,,,https://www.cloudastructure.com,2026-11-10T09:02:28.312295+00:00
+98.66,CSAI,Cloudastructure Inc.,Technology,Software - Infrastructure,United States,1718293,1.94,15820,65914,127873.16,0.135,,,0.35907,-1.70722,-1.51399,-1.51438,-0.71375,3807000,1300000,36.963,4.957,4.222,-7355000,-4107625,885528,866492,0.0,0.08112001,38812,0.32,0.0444,,,0.29676908,0.45949787,-0.142,0.097,20.0,20.0,20.0,,none,1,0,0,2,2,,,https://www.cloudastructure.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-30,50.00,50.00,33.75,33.75,,,,,,,0,50.0000,0,644625,,,,
 2025-01-31,36.00,36.00,22.00,25.41,,,,,,,0,50.0000,0,434511,,,,
@@ -462,3 +462,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.57,1.94,1.55,1.94,2.11,2.17,3.63,1.87,1.59,2.5255,0,2.3803,0,84584,144272,-0.3920,-0.4208,0.0288
 2026-11-10,1.76,1.80,1.52,1.60,2.05,2.14,3.55,1.88,1.60,2.5255,0,2.3451,0,42240,131192,-0.4031,-0.4173,0.0142
 2026-11-11,1.65,1.65,1.56,1.57,1.98,2.10,3.48,1.89,1.60,2.4288,0,2.3113,0,32342,127620,-0.4095,-0.4157,0.0062
+2026-11-12,1.60,1.60,1.52,1.53,1.90,2.06,3.40,1.89,1.60,2.3254,0,2.2789,0,23256,126871,-0.4131,-0.4152,0.0021

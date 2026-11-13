@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XZO,Exzeo Group Inc.,Financial Services,Insurance - Diversified,United States,1477127808,16.5,355280,314792,5194068.0,0.04,-0.007,0.056,1.0,0.50388,0.37822,0.46744,0.25303,116404000,6310000,2.117,1.533,1.435,83892000,71358496,89522897,10985355,0.87728,0.082200006,1696134,4.02,0.1523,16.836735,14.347826,6.3484054,4.9653926,5.875,11.388,25.25,27.0,23.5,1.33333,strong_buy,2,0,0,1,1,2026-11-04,,https://www.exzeo.com,2026-11-10T14:01:53.078579+00:00
+43.98,XZO,Exzeo Group Inc.,Financial Services,Insurance - Diversified,United States,1477127808,16.5,355280,314792,5194068.0,0.04,-0.007,0.056,1.0,0.50388,0.37822,0.46744,0.25303,116404000,6310000,2.117,1.533,1.435,83892000,71358496,89522897,10985355,0.87728,0.082200006,1696134,4.02,0.1523,16.836735,14.347826,6.3484054,4.9653926,5.875,11.388,25.25,27.0,23.5,1.33333,strong_buy,2,0,0,1,1,2026-11-04,,https://www.exzeo.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-05,21.00,21.75,20.99,21.01,,,,,,,0,21.7500,0,73461466,,,,
 2025-11-06,20.94,21.03,19.05,19.05,,,,,,,0,21.7500,0,26885264,,,,
@@ -270,3 +270,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.60,17.24,16.34,16.50,17.52,17.01,16.49,15.63,16.33,15.9271,1,19.2836,0,3073950,4389103,0.2788,0.3562,-0.0774
 2026-11-10,16.54,16.64,16.32,16.32,17.49,17.03,16.50,15.64,16.30,15.9271,1,19.1431,0,2562240,4392390,0.1870,0.3224,-0.1354
 2026-11-11,16.44,16.61,16.09,16.12,17.34,17.04,16.50,15.64,16.27,15.9271,1,19.0081,0,2437344,4312495,0.0970,0.2773,-0.1803
+2026-11-12,16.31,16.49,16.05,16.14,17.19,17.01,16.51,15.65,16.24,15.9271,1,18.8786,0,1880310,4229512,0.0270,0.2272,-0.2003

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-02-24 09:30:00-05:00,0.04\n2025-12-26 09:30:00-05:00,1.126\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-35.52,SOAR,SOAR AI Inc.,Technology,Information Technology Services,United States,11661201,0.206,2968410,45383125,9348923.75,-0.961,,,0.25858,-2.6114001,-0.11823,,-0.20218,9083000,107000,3.088,1.115,1.012,101000,-8316375,56607771,38406233,0.31861,0.01758,4263456,0.06,0.080299996,,,0.38628596,3.169231,0.069,-0.485,,,,,none,,,,,,,1.077,https://soarai.com,2026-11-10T12:55:58.568331+00:00
+29.16,SOAR,SOAR AI Inc.,Technology,Information Technology Services,United States,11661201,0.206,2968410,45383125,9348923.75,-0.961,,,0.25858,-2.6114001,-0.11823,,-0.20218,9083000,107000,3.088,1.115,1.012,101000,-8316375,56607771,38406233,0.31861,0.01758,4263456,0.06,0.080299996,,,0.38628596,3.169231,0.069,-0.485,,,,,none,,,,,,,1.077,https://soarai.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-21,217.58,217.58,217.36,217.58,,,,,,,0,217.3624,1,568330,,,,
 2022-01-24,223.13,223.13,222.02,222.02,,,,,,,0,217.3624,1,9103,,,,
@@ -1220,4 +1220,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.20,0.20,0.19,0.20,0.22,0.23,0.22,0.21,0.27,0.2726,0,0.3217,0,266600,7800463,-0.0049,0.0025,-0.0074
 2026-11-09,0.20,0.21,0.20,0.21,0.22,0.23,0.22,0.21,0.27,0.2726,0,0.3160,0,286546,7559198,-0.0058,0.0008,-0.0066
 2026-11-10,0.20,0.21,0.18,0.19,0.22,0.23,0.22,0.21,0.27,0.2653,0,0.3106,0,247555,6475367,-0.0076,-0.0009,-0.0068
-2026-11-11,0.19,0.20,0.19,0.20,0.21,0.23,0.22,0.21,0.27,0.2612,0,0.3054,0,222363,6428325,-0.0083,-0.0024,-0.0060
+2026-11-11,0.19,0.20,0.19,0.20,0.21,0.23,0.22,0.21,0.27,0.2612,0,0.3054,0,225606,6428389,-0.0083,-0.0024,-0.0060
+2026-11-12,0.20,0.20,0.18,0.18,0.21,0.22,0.22,0.20,0.26,0.2570,0,0.3003,0,225291,6410428,-0.0102,-0.0039,-0.0063

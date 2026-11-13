@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-76.46,WSBK,Winchester Bancorp Inc.,Financial Services,Banks - Regional,United States,122493360,13.67,11390,9326,127486.42,0.322,,,0.0,0.24961,0.17356001,0.03749,0.0043200003,60085000,159600992,,,,5397000,,8960743,3782939,0.59303004,0.083780006,15851,2.26,0.0046,25.792454,,4.8089414,1.0543772,8.884,,,,,,none,,,,,,,,https://www.winchestersavings.com,2026-11-10T13:54:52.219093+00:00
+77.05,WSBK,Winchester Bancorp Inc.,Financial Services,Banks - Regional,United States,122493360,13.67,11390,9326,127486.42,0.322,,,0.0,0.24961,0.17356001,0.03749,0.0043200003,60085000,159600992,,,,5397000,,8960743,3782939,0.59303004,0.083780006,15851,2.26,0.0046,25.792454,,4.8089414,1.0543772,8.884,,,,,,none,,,,,,,,https://www.winchestersavings.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-02,10.10,10.10,9.22,9.30,,,,,,,0,10.1000,0,530100,,,,
 2025-05-05,9.11,9.98,9.11,9.70,,,,,,,0,10.1000,0,1389040,,,,
@@ -399,3 +399,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.56,13.69,13.56,13.67,13.49,13.25,13.08,12.96,12.72,13.2950,1,13.2552,1,295272,134052,0.1782,0.1293,0.0489
 2026-11-10,13.69,13.74,13.68,13.68,13.53,13.28,13.10,12.97,12.74,13.3658,1,13.2987,1,25992,134234,0.1828,0.1400,0.0428
 2026-11-11,13.70,13.84,13.70,13.84,13.58,13.33,13.11,12.97,12.75,13.4123,1,13.3516,1,45672,133767,0.1971,0.1514,0.0457
+2026-11-12,13.79,13.82,13.76,13.82,13.63,13.37,13.13,12.98,12.77,13.4416,1,13.4200,1,125762,126621,0.2045,0.1620,0.0425

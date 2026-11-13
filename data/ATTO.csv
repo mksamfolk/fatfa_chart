@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ATTO,Attovia Therapeutics Inc.,Healthcare,Biotechnology,United States,728594176,15.96,264750,351696,5613068.16,,,,0.0,-48.451107,0.0,,,115132000,4326000,3.836,9.386,9.198,-67434000,,45651262,26261345,0.11226,0.37625,1453089,3.01,,,-6.705882,404.77454,-0.49693307,486.675,-11.641,42.2,52.0,30.0,1.4,strong_buy,5,0,0,0,0,2026-11-11,,https://www.attovia.com,2026-11-10T08:06:16.920937+00:00
+0.00,ATTO,Attovia Therapeutics Inc.,Healthcare,Biotechnology,United States,728594176,15.96,264750,351696,5613068.16,,,,0.0,-48.451107,0.0,,,115132000,4326000,3.836,9.386,9.198,-67434000,,45651262,26261345,0.11226,0.37625,1453089,3.01,,,-6.705882,404.77454,-0.49693307,486.675,-11.641,42.2,52.0,30.0,1.4,strong_buy,5,0,0,0,0,2026-11-11,,https://www.attovia.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-05,21.00,22.79,20.21,21.90,,,,,,,0,22.7900,0,107469868,,,,
 2026-08-06,22.05,22.05,19.63,20.38,,,,,,,0,22.7900,0,8421016,,,,
@@ -99,3 +99,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.67,16.74,15.54,15.96,15.34,14.80,18.06,,,18.0695,0,14.4120,1,5193384,6659142,-0.5047,-0.8283,0.3235
 2026-11-10,15.65,16.92,14.10,16.64,15.51,14.89,17.97,,,18.0695,0,16.8300,0,3088384,6643913,-0.3577,-0.7342,0.3765
 2026-11-11,16.55,17.37,16.44,16.73,15.60,14.98,17.86,,,18.0695,0,14.1000,1,2511173,6606145,-0.2312,-0.6336,0.4023
+2026-11-12,16.50,16.79,15.41,15.81,15.65,15.03,17.71,,,18.0695,0,14.1000,1,3511401,6638717,-0.2029,-0.5474,0.3445

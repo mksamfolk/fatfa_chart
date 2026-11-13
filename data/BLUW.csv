@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.24,BLUW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,United States,336326272,10.41,38890,52998,551709.18,,0.653,3.721,0.0,0.0,0.0,,,32560,500000,,0.162,0.043,-1318833,,25983000,22637893,0.0,1.01353,1565,0.03,0.0001,,,,-35.529007,,,,,,,none,,,,,,,,https://www.bluewater-acquisition.com,2026-11-10T08:23:41.146443+00:00
+57.02,BLUW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,United States,336326272,10.41,38890,52998,551709.18,,0.653,3.721,0.0,0.0,0.0,,,32560,500000,,0.162,0.043,-1318833,,25983000,22637893,0.0,1.01353,1565,0.03,0.0001,,,,-35.529007,,,,,,,none,,,,,,,,https://www.bluewater-acquisition.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-31,9.93,10.05,9.93,9.98,,,,,,,0,9.9300,1,483982,,,,
 2025-08-01,9.98,9.98,9.98,9.98,,,,,,,0,9.9300,1,750270,,,,
@@ -338,3 +338,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.41,10.41,10.41,10.41,10.40,10.39,10.38,10.33,10.33,10.3973,1,10.3873,1,3123,651547,0.0074,0.0068,0.0006
 2026-11-10,10.41,10.43,10.41,10.43,10.40,10.40,10.38,10.33,10.33,10.4004,1,10.3896,1,3209311,714864,0.0092,0.0073,0.0019
 2026-11-11,10.43,10.43,10.43,10.43,10.41,10.40,10.38,10.33,10.33,10.4083,1,10.3936,1,79268,715104,0.0105,0.0079,0.0026
+2026-11-12,10.43,10.44,10.43,10.44,10.41,10.40,10.39,10.33,10.33,10.4137,1,10.3972,1,15653,715417,0.0118,0.0087,0.0031

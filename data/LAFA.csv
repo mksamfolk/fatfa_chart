@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LAFA,LaFayette Acquisition Corp.,Financial Services,Shell Companies,France,160590272,10.22,17190,13393,136876.46000000002,,,,0.0,0.0,0.0,,,530907,0,,5.076,4.061,-634783,,15713333,9234097,0.2203,0.64668,63,0.0,0.0,68.13333,,,-46.036037,,,,,,,none,,,,,,,,https://lafayetteacquisitioncorp.com,2026-11-10T10:52:22.491560+00:00
+0.00,LAFA,LaFayette Acquisition Corp.,Financial Services,Shell Companies,France,160590272,10.22,17190,13393,136876.46000000002,,,,0.0,0.0,0.0,,,530907,0,,5.076,4.061,-634783,,15713333,9234097,0.2203,0.64668,63,0.0,0.0,68.13333,,,-46.036037,,,,,,,none,,,,,,,,https://lafayetteacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-26,9.90,9.91,9.90,9.90,,,,,,,0,9.9100,0,353252,,,,
 2025-11-28,9.90,9.90,9.87,9.90,,,,,,,0,9.9100,0,28710,,,,
@@ -255,3 +255,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.22,10.22,10.22,10.22,10.21,10.20,10.17,10.09,10.06,10.2040,1,10.2369,0,,52797,0.0135,0.0131,0.0004
 2026-11-10,10.21,10.21,10.21,10.21,10.21,10.20,10.17,10.09,10.06,10.2040,1,10.2362,0,551340,61536,0.0127,0.0130,-0.0003
 2026-11-11,10.21,10.21,10.21,10.21,10.21,10.20,10.17,10.09,10.06,10.2040,1,10.2354,0,,61536,0.0119,0.0128,-0.0009
+2026-11-12,10.21,10.21,10.21,10.21,10.21,10.20,10.18,10.10,10.06,10.2040,1,10.2347,0,,61273,0.0112,0.0125,-0.0013

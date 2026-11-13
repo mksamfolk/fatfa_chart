@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WHK,WhiteHawk Minerals Corp.,Energy,Oil & Gas Midstream,United States,654724224,24.55,148710,207131,5085066.05,0.741,,,1.0,-0.07412,-0.46163,,,13229000,68280000,16.628,1.395,0.937,24248000,,26669013,19406617,0.062280003,0.5195,892206,2.74,0.039100002,,20.4158,8.53161,2.0975733,10.052,11.804,32.4,35.0,29.0,1.4,strong_buy,5,0,1,0,1,2026-11-12,,https://www.whitehawkminerals.com,2026-11-10T13:51:01.102365+00:00
+0.00,WHK,WhiteHawk Minerals Corp.,Energy,Oil & Gas Midstream,United States,654724224,24.55,148710,207131,5085066.05,0.741,,,1.0,-0.07412,-0.46163,,,13229000,68280000,16.628,1.395,0.937,24248000,,26669013,19406617,0.062280003,0.5195,892206,2.74,0.039100002,,20.4158,8.53161,2.0975733,10.052,11.804,32.4,35.0,29.0,1.4,strong_buy,5,0,1,0,1,2026-11-12,,https://www.whitehawkminerals.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-09,26.04,26.39,25.79,25.89,,,,,,,0,26.3920,0,72755800,,,,
 2026-06-10,26.27,26.35,25.39,26.14,,,,,,,0,26.3920,0,15138375,,,,
@@ -123,3 +123,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,24.32,25.13,24.32,24.55,25.40,25.45,26.25,,,27.0980,0,27.2853,0,3984465,3913512,-0.4874,-0.3515,-0.1359
 2026-11-10,24.42,25.06,24.15,24.86,25.21,25.38,26.23,,,27.0980,0,27.2198,0,3219370,3948081,-0.4722,-0.3756,-0.0966
 2026-11-11,25.10,25.63,24.99,25.45,25.05,25.36,26.21,,,27.0980,0,27.1556,0,3601175,3988881,-0.4079,-0.3821,-0.0258
+2026-11-12,25.40,25.93,25.00,25.61,24.98,25.38,26.20,,,27.0980,0,27.0927,0,2584049,3998137,-0.3401,-0.3737,0.0336

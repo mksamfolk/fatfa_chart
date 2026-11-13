@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-55.74,TACO,Berto Acquisition Corp.,Financial Services,Shell Companies,United States,394509696,10.515,93640,98859,1039502.385,,-0.409,-0.403,0.0,0.0,0.0,,,146740,0,,0.129,0.061,-214676,,37518750,30328282,0.14963001,0.77406996,13527,0.2,0.0004,32.859375,,,1.3137182,,,,,,,none,,,,,,,,https://www.bertoacq.com,2026-11-10T13:09:40.239903+00:00
+57.16,TACO,Berto Acquisition Corp.,Financial Services,Shell Companies,United States,394509696,10.515,93640,98859,1039502.385,,-0.409,-0.403,0.0,0.0,0.0,,,146740,0,,0.129,0.061,-214676,,37518750,30328282,0.14963001,0.77406996,13527,0.2,0.0004,32.859375,,,1.3137182,,,,,,,none,,,,,,,,https://www.bertoacq.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-05,10.65,11.32,10.23,10.30,,,,,,,0,10.2300,1,3035410,,,,
 2025-06-06,10.31,10.40,10.28,10.32,,,,,,,0,10.2300,1,8181696,,,,
@@ -376,3 +376,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.51,10.52,10.51,10.52,10.50,10.49,10.48,10.41,10.36,10.4748,1,10.4620,1,156674,1123224,0.0090,0.0063,0.0028
 2026-11-10,10.51,10.52,10.51,10.51,10.50,10.49,10.48,10.41,10.36,10.4793,1,10.4651,1,2976513,1178384,0.0098,0.0070,0.0028
 2026-11-11,10.51,10.52,10.51,10.52,10.50,10.49,10.48,10.42,10.36,10.4821,1,10.4681,1,2499552,1226679,0.0107,0.0077,0.0030
+2026-11-12,10.52,10.52,10.51,10.51,10.51,10.49,10.48,10.42,10.36,10.4821,1,10.4723,1,2542369,1277004,0.0105,0.0083,0.0023

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.38,BHM,Bluerock Homes Trust Inc.,Real Estate,REIT - Residential,United States,88666688,7.728,4540,3328,25718.784,0.134,,-0.225,0.48712003,-0.14298001,0.02623,-0.05899,-0.0075199995,173296992,426473984,61.577,5.696,4.731,7072000,-13237500,4099539,3192266,0.22774,0.37173998,9497,4.32,0.0027,,,1.0667952,0.26248217,10.306,46.248,10.0,10.0,10.0,,none,1,,,,,,0.468,https://www.bluerock.com/bluerock-homes-trust/,2026-11-10T08:19:38.651836+00:00
+38.40,BHM,Bluerock Homes Trust Inc.,Real Estate,REIT - Residential,United States,88666688,7.728,4540,3328,25718.784,0.134,,-0.225,0.48712003,-0.14298001,0.02623,-0.05899,-0.0075199995,173296992,426473984,61.577,5.696,4.731,7072000,-13237500,4099539,3192266,0.22774,0.37173998,9497,4.32,0.0027,,,1.0667952,0.26248217,10.306,46.248,10.0,10.0,10.0,,none,1,,,,,,0.468,https://www.bluerock.com/bluerock-homes-trust/,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-09-28,20.05,20.05,18.75,18.92,,,,,,,0,20.0545,0,136710,,,,
 2022-09-29,19.53,19.53,18.31,18.44,,,,,,,0,20.0545,0,397620,,,,
@@ -1049,3 +1049,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.73,7.73,7.73,7.73,7.43,7.72,8.19,9.38,9.49,8.0241,0,6.5800,1,10046,29856,-0.2479,-0.2365,-0.0114
 2026-11-10,7.44,7.44,7.44,7.44,7.42,7.70,8.17,9.36,9.47,8.0241,0,6.6030,1,6696,29185,-0.2364,-0.2364,0.0000
 2026-11-11,7.55,7.72,7.55,7.72,7.46,7.68,8.15,9.35,9.45,8.0241,0,6.6255,1,10036,28713,-0.2024,-0.2296,0.0272
+2026-11-12,7.70,7.70,7.70,7.70,7.46,7.67,8.13,9.33,9.44,8.0241,0,6.6476,1,2310,28203,-0.1751,-0.2187,0.0437

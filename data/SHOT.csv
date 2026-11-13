@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SHOT,RMG ML Sports Holdings,Financial Services,Shell Companies,United States,286986720,9.87,7550,28153,277870.11,,,,0.0,0.0,0.0,,,1140947,0,,0.23,,0,,21860000,18175243,0.010980001,0.078,2456,0.58,0.0001,,,,-24.310345,,,,,,,none,,,,,,,,,2026-11-10T12:46:52.364645+00:00
+0.00,SHOT,RMG ML Sports Holdings,Financial Services,Shell Companies,United States,286986720,9.87,7550,28153,277870.11,,,,0.0,0.0,0.0,,,1140947,0,,0.23,,0,,21860000,18175243,0.010980001,0.078,2456,0.58,0.0001,,,,-24.310345,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-17,9.90,9.90,9.83,9.83,,,,,,,0,9.9000,0,428588,,,,
 2026-07-20,9.82,9.82,9.82,9.82,,,,,,,0,9.9000,0,62848,,,,
@@ -97,3 +97,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.87,9.87,9.87,9.87,9.88,9.87,9.86,,,9.8813,0,9.8700,1,,341921,0.0047,0.0071,-0.0023
 2026-11-10,9.87,9.87,9.87,9.87,9.87,9.87,9.86,,,9.8802,0,9.8700,1,149037,344096,0.0042,0.0065,-0.0023
 2026-11-11,9.87,9.87,9.87,9.87,9.87,9.87,9.86,,,9.8791,0,9.8700,1,1974000,383438,0.0037,0.0059,-0.0022
+2026-11-12,9.88,9.90,9.88,9.90,9.87,9.88,9.86,,,9.8728,1,9.8700,1,345510,389502,0.0057,0.0059,-0.0002

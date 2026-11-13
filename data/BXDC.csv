@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BXDC,Blackstone Digital Infrastructure Trust Inc.,Real Estate,REIT - Specialty,United States,1680853504,16.7,2087070,1974923,32981214.099999998,,,,0.0,0.0,0.0,,,1943383040,0,,,,,,100649905,,0.0051599997,1.08487,3914716,1.29,,,34.778625,,0.8701543,,,23.36364,26.0,20.0,2.0,buy,11,1,1,0,0,2026-11-16,,https://www.blackstone.com/fund/blackstone-digital-infrastructure-trust-bxdc,2026-11-10T08:33:20.551439+00:00
+0.00,BXDC,Blackstone Digital Infrastructure Trust Inc.,Real Estate,REIT - Specialty,United States,1680853504,16.7,2087070,1974923,32981214.099999998,,,,0.0,0.0,0.0,,,1943383040,0,,,,,,100649905,,0.0051599997,1.08487,3914716,1.29,,,34.778625,,0.8701543,,,23.36364,26.0,20.0,2.0,buy,11,1,1,0,0,2026-11-16,,https://www.blackstone.com/fund/blackstone-digital-infrastructure-trust-bxdc,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-14,20.00,20.00,19.60,19.81,,,,,,,0,19.6000,1,202186798,,,,
 2026-05-15,19.90,20.30,19.81,20.10,,,,,,,0,19.6000,1,64643611,,,,
@@ -155,3 +155,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.23,16.75,16.11,16.70,16.08,16.09,17.75,,,17.6942,0,15.3500,1,23845931,41652317,-0.4109,-0.5680,0.1572
 2026-11-10,16.53,16.87,16.51,16.68,16.13,16.10,17.68,,,17.6942,0,15.3780,1,16087860,40913542,-0.3391,-0.5223,0.1831
 2026-11-11,16.87,16.97,16.66,16.82,16.19,16.12,17.61,,,17.6942,0,15.4377,1,17481026,40894434,-0.2679,-0.4714,0.2035
+2026-11-12,16.70,16.97,16.53,16.55,16.23,16.14,17.54,,,17.6942,0,15.5296,1,22271334,41004730,-0.2306,-0.4232,0.1926

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GLOO,Gloo Holdings Inc.,Technology,Software - Application,United States,274965696,2.97,291070,647303,1922489.9100000001,1.88,,,0.29688,-0.44019002,-0.81347,-1.78836,-0.27618998,39282000,45064000,28.238,1.228,1.06,-64232000,-41453876,41265326,31025362,0.28913,0.23466998,1091229,0.77,,,11.0,1.7821586,1.9500985,1.945,-3.158,11.16667,17.0,7.0,,none,6,0,0,0,0,2026-12-15,,https://www.gloo.com,2026-11-10T10:02:02.517292+00:00
+0.00,GLOO,Gloo Holdings Inc.,Technology,Software - Application,United States,274965696,2.97,291070,647303,1922489.9100000001,1.88,,,0.29688,-0.44019002,-0.81347,-1.78836,-0.27618998,39282000,45064000,28.238,1.228,1.06,-64232000,-41453876,41265326,31025362,0.28913,0.23466998,1091229,0.77,,,11.0,1.7821586,1.9500985,1.945,-3.158,11.16667,17.0,7.0,,none,6,0,0,0,0,2026-12-15,,https://www.gloo.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-18,8.00,8.00,8.00,8.00,,,,,,,0,8.0000,1,,,,,
 2025-11-19,8.05,8.48,7.96,8.10,,,,,,,0,8.4800,0,15995071,,,,
@@ -261,3 +261,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.75,3.02,2.69,2.97,2.89,3.03,3.26,4.47,4.83,3.2158,0,2.5950,1,721710,893272,-0.1498,-0.1397,-0.0101
 2026-11-10,2.94,3.05,2.88,3.02,2.90,2.99,3.25,4.45,4.82,3.2158,0,2.5950,1,427632,895129,-0.1314,-0.1380,0.0067
 2026-11-11,3.06,3.29,3.05,3.10,2.91,2.98,3.25,4.43,4.80,3.2158,0,2.6132,1,729120,903539,-0.1090,-0.1322,0.0232
+2026-11-12,3.08,3.10,2.87,2.98,2.91,2.96,3.24,4.42,4.79,3.2158,0,2.6535,1,470542,907589,-0.0998,-0.1257,0.0259

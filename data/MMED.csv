@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MMED,MiniMed Group Inc.,Healthcare,Medical Instruments & Supplies,United States,5030536192,17.88,8083650,7785564,139205884.32,0.166,,,0.5689,0.0047400002,-0.097449996,-0.086619996,,207000000,59000000,1.63,1.812,1.265,-105000000,,281349931,281265526,0.0011999999,0.21763,20704820,1.61,0.7256,,25.746622,1.5613085,1.3889536,1.515,17.072,25.46667,30.0,15.0,1.5625,buy,15,0,0,2,4,2026-11-24,,https://www.minimed.com,2026-11-10T11:17:49.083228+00:00
+0.00,MMED,MiniMed Group Inc.,Healthcare,Medical Instruments & Supplies,United States,5030536192,17.88,8083650,7785564,139205884.32,0.166,,,0.5689,0.0047400002,-0.097449996,-0.086619996,,207000000,59000000,1.63,1.812,1.265,-105000000,,281349931,281265526,0.0011999999,0.21763,20704820,1.61,0.7256,,25.746622,1.5613085,1.3889536,1.515,17.072,25.46667,30.0,15.0,1.5625,buy,15,0,0,2,4,2026-11-24,,https://www.minimed.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-06,19.05,20.48,18.25,18.49,,,,,,,0,20.4800,0,163140966,,,,
 2026-03-09,18.50,19.05,17.94,18.00,,,,,,,0,20.4800,0,35015400,,,,
@@ -203,3 +203,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.98,17.89,16.78,17.88,18.55,18.23,19.98,16.75,,20.4058,0,19.7992,0,110795203,182968216,-0.3941,-0.3721,-0.0220
 2026-11-10,17.53,17.71,17.25,17.36,18.39,18.17,19.92,16.78,,20.4058,0,19.6736,0,77309291,183508655,-0.4404,-0.3858,-0.0546
 2026-11-11,17.46,18.66,17.25,18.25,18.29,18.25,19.84,16.81,,20.4058,0,19.5531,0,101355025,182811636,-0.4007,-0.3888,-0.0119
+2026-11-12,18.23,18.30,17.62,17.88,18.16,18.24,19.72,16.84,,20.4058,0,19.4374,0,58494417,181847116,-0.3945,-0.3899,-0.0046

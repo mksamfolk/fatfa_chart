@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-10-09 09:30:00-04:00,0.01\n2026-07-21 09:30:00-04:00,0.08333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-8.96,XPON,Expion Energy Inc.,Industrials,Electrical Equipment & Parts,United States,2612244,2.58,18360,2492735,6431256.3,-0.321,,,0.15442,-0.641,-0.82319,-1.96295,-0.95624,1540348,701718,14.566,5.547,2.272,-7126520,-7422640,1012498,687511,0.26159,0.057010002,44874,0.87,0.0458,,-0.21499999,0.31823632,0.5104867,0.2,-0.147,,,,,none,,,,,,2026-08-13,0.736,https://expion360.com,2026-11-10T14:00:15.731734+00:00
+8.55,XPON,Expion Energy Inc.,Industrials,Electrical Equipment & Parts,United States,2612244,2.58,18360,2492735,6431256.3,-0.321,,,0.15442,-0.641,-0.82319,-1.96295,-0.95624,1540348,701718,14.566,5.547,2.272,-7126520,-7422640,1012498,687511,0.26159,0.057010002,44874,0.87,0.0458,,-0.21499999,0.31823632,0.5104867,0.2,-0.147,,,,,none,,,,,,2026-08-13,0.736,https://expion360.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-01,9480.00,13548.00,8712.00,9516.00,,,,,,,0,13548.0000,0,83902572,,,,
 2022-04-04,8724.00,9396.00,7878.00,8004.00,,,,,,,0,13548.0000,0,15271632,,,,
@@ -1172,3 +1172,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.51,2.76,2.50,2.58,3.36,3.63,4.47,5.67,6.62,3.8597,0,3.9573,0,18834,21180321,-0.4642,-0.3576,-0.1066
 2026-11-10,2.63,2.90,2.50,2.50,3.24,3.55,4.44,5.64,6.58,3.8597,0,3.8554,0,25250,21179867,-0.4932,-0.3847,-0.1085
 2026-11-11,2.50,2.65,2.50,2.56,3.11,3.48,4.42,5.60,6.55,3.7755,0,3.7597,0,16390,21175647,-0.5055,-0.4089,-0.0966
+2026-11-12,2.51,2.55,2.38,2.41,2.95,3.41,4.40,5.57,6.50,3.5997,0,3.6697,0,50369,21174800,-0.5214,-0.4314,-0.0900

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SMJF,,Consumer Cyclical,Textile Manufacturing,Singapore,38787000,1.4,87240,1070507,1498709.7999999998,-0.014,,,0.34555998,-0.05788,-0.05308,-0.06964,-0.02454,11799639,5394608,28.523,4.641,3.253,-3406476,-1095406,14937500,2705116,0.26778,0.04003,65055,0.06,0.0057,,,2.2239494,2.618042,1.857,-36.884,,,,,none,,,,,,,,https://smjf.com.sg,2026-11-10T12:52:53.083371+00:00
+0.00,SMJF,,Consumer Cyclical,Textile Manufacturing,Singapore,38787000,1.4,87240,1070507,1498709.7999999998,-0.014,,,0.34555998,-0.05788,-0.05308,-0.06964,-0.02454,11799639,5394608,28.523,4.641,3.253,-3406476,-1095406,14937500,2705116,0.26778,0.04003,65055,0.06,0.0057,,,2.2239494,2.618042,1.857,-36.884,,,,,none,,,,,,,,https://smjf.com.sg,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-04,4.42,7.00,4.25,4.51,,,,,,,0,4.2500,1,7294925,,,,
 2025-12-05,4.30,4.95,4.30,4.40,,,,,,,0,4.2500,1,839520,,,,
@@ -250,3 +250,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.42,1.55,1.36,1.40,1.50,1.67,3.82,4.22,4.21,2.0545,0,6.1075,0,130760,5163585,-0.4417,-0.5565,0.1148
 2026-11-10,1.41,1.48,1.37,1.45,1.48,1.64,3.67,4.21,4.19,2.0230,0,6.0033,0,200680,5122989,-0.4153,-0.5283,0.1130
 2026-11-11,1.42,1.48,1.31,1.40,1.47,1.60,3.52,4.20,4.17,1.9842,0,5.9013,0,275940,4713894,-0.3939,-0.5014,0.1075
+2026-11-12,1.41,1.43,1.40,1.41,1.46,1.57,3.36,4.19,4.15,1.9543,0,5.8012,0,40326,4610079,-0.3718,-0.4755,0.1037

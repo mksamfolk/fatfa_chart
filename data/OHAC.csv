@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OHAC,Oceanhawk Acquisition Corp,Financial Services,Shell Companies,United States,251385216,10.03,37510,34182,342845.45999999996,,,,0.0,0.0,0.0,,,223887,0,,0.063,0.0,-74700,,18930000,13039450,0.01743,0.95018995,672,0.02,0.0,,,,-38.13688,,,,,,,none,,,,,,,,,2026-11-10T11:48:28.522991+00:00
+0.00,OHAC,Oceanhawk Acquisition Corp,Financial Services,Shell Companies,United States,251385216,10.03,37510,34182,342845.45999999996,,,,0.0,0.0,0.0,,,223887,0,,0.063,0.0,-74700,,18930000,13039450,0.01743,0.95018995,672,0.02,0.0,,,,-38.13688,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-05,10.00,10.00,9.88,9.88,,,,,,,0,10.0000,0,1082848,,,,
 2026-06-08,9.86,9.88,9.86,9.87,,,,,,,0,10.0000,0,6883338,,,,
@@ -125,3 +125,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.06,10.06,10.03,10.03,10.01,10.00,9.98,,,10.0175,1,9.9997,1,4012,301943,0.0102,0.0100,0.0002
 2026-11-10,10.03,10.03,10.03,10.03,10.01,10.01,9.98,,,10.0175,1,10.0081,1,130390,304551,0.0112,0.0102,0.0010
 2026-11-11,10.03,10.03,10.03,10.03,10.01,10.01,9.98,,,10.0175,1,10.0154,1,1206609,328683,0.0118,0.0106,0.0013
+2026-11-12,10.03,10.03,10.03,10.03,10.01,10.01,9.98,,,10.0175,1,10.0216,1,,327709,0.0122,0.0109,0.0013

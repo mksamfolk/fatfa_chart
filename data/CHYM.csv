@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.30,CHYM,Chime Financial Inc.,Technology,Software - Application,United States,12484420608,32.53,4040220,6176253,200913510.09,0.321,,,0.89359003,0.23261,0.0305,0.05376,0.15241,1275392000,229104000,14.856,4.798,3.817,453576000,484057632,353422420,248226205,0.074640006,0.93422997,25180963,4.08,0.0851,28.535088,20.204967,4.744197,8.086005,4.347,22.04,41.90476,50.0,34.0,1.41667,strong_buy,21,1,1,0,0,2026-11-04,,https://www.chime.com,2026-11-10T08:47:17.479171+00:00
+90.21,CHYM,Chime Financial Inc.,Technology,Software - Application,United States,12484420608,32.53,4040220,6176253,200913510.09,0.321,,,0.89359003,0.23261,0.0305,0.05376,0.15241,1275392000,229104000,14.856,4.798,3.817,453576000,484057632,353422420,248226205,0.074640006,0.93422997,25180963,4.08,0.0851,28.535088,20.204967,4.744197,8.086005,4.347,22.04,41.90476,50.0,34.0,1.41667,strong_buy,21,1,1,0,0,2026-11-04,,https://www.chime.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-12,43.00,44.94,36.19,37.11,,,,,,,0,44.9400,0,1341459724,,,,
 2025-06-13,36.63,36.87,33.00,34.79,,,,,,,0,44.9400,0,329356939,,,,
@@ -386,3 +386,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,31.63,33.28,31.57,32.53,29.48,29.60,29.92,24.80,23.89,27.7843,1,28.0666,1,255435309,173279677,0.3647,0.0201,0.3447
 2026-11-10,32.46,32.95,31.72,32.54,29.88,29.74,29.91,24.88,23.92,27.7912,1,28.3794,1,193980707,172436084,0.5431,0.1247,0.4184
 2026-11-11,32.64,33.22,32.32,33.08,30.31,29.94,29.94,24.97,23.95,28.4095,1,28.6734,1,114496502,169597410,0.7197,0.2437,0.4761
+2026-11-12,32.84,33.34,32.53,33.03,30.72,30.09,29.93,25.06,23.98,28.7658,1,28.9498,1,85399062,167331205,0.8460,0.3641,0.4818
+2026-11-13,33.26,33.48,32.63,33.22,31.25,30.27,29.93,25.14,24.02,29.0540,1,29.3010,1,47666481,165413920,0.9500,0.4813,0.4687

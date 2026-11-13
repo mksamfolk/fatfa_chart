@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AERO,,Industrials,Airlines,Mexico,2784461056,17.92,348940,388262,6957655.040000001,0.136,-0.608,-0.581,0.31320998,0.11326,0.026989998,,0.051859997,965070016,4063252992,,0.625,0.548,886614016,567967744,155382859,30700995,0.0013600001,0.64995,1351433,3.38,0.015700001,1.792,10.226676,0.47374737,-4.3814178,0.972,6.322,26.15556,30.0,17.0,,none,9,0,0,1,1,2026-10-19,,https://www.aeromexico.com,2026-11-10T07:40:58.235852+00:00
+0.00,AERO,,Industrials,Airlines,Mexico,2784461056,17.92,348940,388262,6957655.040000001,0.136,-0.608,-0.581,0.31320998,0.11326,0.026989998,,0.051859997,965070016,4063252992,,0.625,0.548,886614016,567967744,155382859,30700995,0.0013600001,0.64995,1351433,3.38,0.015700001,1.792,10.226676,0.47374737,-4.3814178,0.972,6.322,26.15556,30.0,17.0,,none,9,0,0,1,1,2026-10-19,,https://www.aeromexico.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-06,19.16,20.53,19.11,20.35,,,,,,,0,20.5300,0,100614472,,,,
 2025-11-07,20.05,20.49,19.05,19.39,,,,,,,0,20.5300,0,25447435,,,,
@@ -269,3 +269,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,16.95,17.94,16.76,17.92,15.58,15.53,15.35,15.61,16.50,14.5519,1,14.2531,1,7904512,5940590,0.2436,0.0027,0.2409
 2026-11-10,17.96,18.07,17.52,17.72,15.90,15.62,15.39,15.63,16.48,15.1117,1,14.5481,1,6646772,5963174,0.3755,0.0773,0.2982
 2026-11-11,17.59,17.95,17.21,17.81,16.16,15.71,15.43,15.66,16.46,15.1117,1,14.9002,1,6188975,6022640,0.4817,0.1582,0.3236
+2026-11-12,17.52,17.76,16.73,16.74,16.31,15.73,15.46,15.68,16.44,15.1117,1,15.2172,1,2295054,5996981,0.4741,0.2214,0.2528

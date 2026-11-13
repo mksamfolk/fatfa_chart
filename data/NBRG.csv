@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NBRG,Newbridge Acquisition Limited,Financial Services,Shell Companies,Hong Kong,76594432,10.15,2970,21151,214682.65,,,,0.0,0.0,0.0,0.47178,-0.01291,1501127,2158521,65.257,0.639,0.639,-625182,-200971,6108750,4467984,0.09969,0.83244,1089,0.24,0.0002,101.49999,,,23.173515,,,,,,,none,,,,,,,,,2026-11-10T11:29:37.749143+00:00
+0.00,NBRG,Newbridge Acquisition Limited,Financial Services,Shell Companies,Hong Kong,76594432,10.15,2970,21151,214682.65,,,,0.0,0.0,0.0,0.47178,-0.01291,1501127,2158521,65.257,0.639,0.639,-625182,-200971,6108750,4467984,0.09969,0.83244,1089,0.24,0.0002,101.49999,,,23.173515,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-23,9.90,9.91,9.90,9.91,,,,,,,0,9.9100,0,60451,,,,
 2026-03-24,9.88,9.89,9.87,9.87,,,,,,,0,9.9100,0,1805223,,,,
@@ -177,3 +177,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.15,10.15,10.15,10.15,10.13,10.12,10.08,,,10.1040,1,10.0571,1,7105,249701,0.0219,0.0194,0.0026
 2026-11-10,10.15,10.15,10.15,10.15,10.14,10.12,10.08,,,10.1086,1,10.0593,1,6090,249803,0.0216,0.0198,0.0018
 2026-11-11,10.16,10.16,10.16,10.16,10.15,10.12,10.08,,,10.1198,1,10.0615,1,12192,250046,0.0219,0.0202,0.0017
+2026-11-12,10.16,10.16,10.16,10.16,10.15,10.13,10.09,,,10.1238,1,10.0637,1,11176,23437,0.0219,0.0205,0.0013

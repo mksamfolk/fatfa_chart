@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.12,VIA,Via Transportation Inc.,Technology,Software - Application,United States,3468064000,42.55,810140,727437,30952444.349999998,0.309,,,0.39960998,-0.14793,-0.15297,-0.13471,-0.07931,322803008,24294000,3.924,4.679,4.499,-46830000,-33648248,77659430,58458512,0.29698,0.46646,6673835,7.41,0.1769,,105.50197,6.598572,5.64923,6.094,-39.206,40.0,58.0,26.0,1.4,strong_buy,9,1,1,0,0,2026-11-09,,https://www.ridewithvia.com,2026-11-10T13:39:59.768094+00:00
+97.00,VIA,Via Transportation Inc.,Technology,Software - Application,United States,3468064000,42.55,810140,727437,30952444.349999998,0.309,,,0.39960998,-0.14793,-0.15297,-0.13471,-0.07931,322803008,24294000,3.924,4.679,4.499,-46830000,-33648248,77659430,58458512,0.29698,0.46646,6673835,7.41,0.1769,,105.50197,6.598572,5.64923,6.094,-39.206,40.0,58.0,26.0,1.4,strong_buy,9,1,1,0,0,2026-11-09,,https://www.ridewithvia.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-12,44.22,52.72,43.50,49.51,,,,,,,0,43.5000,1,250055198,,,,
 2025-09-15,47.61,56.31,47.50,51.05,,,,,,,0,43.5000,1,57512929,,,,
@@ -323,3 +323,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,35.00,44.98,34.20,42.55,37.50,35.68,31.45,22.64,21.44,33.5265,1,40.4850,0,60476314,23729068,2.3437,2.0308,0.3129
 2026-11-10,43.54,44.98,41.72,44.65,38.37,36.31,31.79,22.84,21.54,35.0882,1,44.9800,0,53254057,24436199,2.7466,2.1740,0.5726
 2026-11-11,44.04,44.04,41.18,42.81,39.01,36.88,32.10,23.02,21.62,35.0882,1,44.9800,0,58191635,25405441,2.8842,2.3160,0.5682
+2026-11-12,42.43,42.44,40.50,42.11,39.62,37.31,32.39,23.20,21.70,35.0882,1,44.9800,0,41979460,25930554,2.9032,2.4334,0.4698
+2026-11-13,42.74,42.96,41.78,41.92,40.16,37.80,32.67,23.38,21.79,35.0882,1,44.7644,0,9135583,25794882,2.8704,2.5208,0.3495

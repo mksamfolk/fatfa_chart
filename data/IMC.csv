@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IMC,IMC Rare Earths Ltd,Basic Materials,Other Industrial Metals & Mining,Brazil,1067570048,10.1,88780,98195,991769.5,,,,0.0,0.0,0.0,,-1.37804,,,,0.407,0.391,-2700714,4423218,105700000,8657193,0.89877,1.0000001e-05,222805,2.16,,,-168.33334,,-144.28572,,,,,,,none,,,,,,,,https://imcrareearths.com,2026-11-10T10:28:37.337557+00:00
+0.00,IMC,IMC Rare Earths Ltd,Basic Materials,Other Industrial Metals & Mining,Brazil,1067570048,10.1,88780,98195,991769.5,,,,0.0,0.0,0.0,,-1.37804,,,,0.407,0.391,-2700714,4423218,105700000,8657193,0.89877,1.0000001e-05,222805,2.16,,,-168.33334,,-144.28572,,,,,,,none,,,,,,,,https://imcrareearths.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-29,5.18,5.38,4.51,5.13,,,,,,,0,4.5100,1,22767454,,,,
 2026-07-30,5.61,5.61,5.07,5.07,,,,,,,0,4.5100,1,1021605,,,,
@@ -89,3 +89,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.92,10.10,7.92,10.10,10.30,8.87,8.70,,,7.1873,1,11.5858,0,471670,884998,0.4969,0.5634,-0.0665
 2026-11-10,10.00,10.00,7.80,8.41,10.06,8.94,8.71,,,7.1873,1,11.3118,0,513010,884518,0.3743,0.5256,-0.1513
 2026-11-11,8.30,8.68,8.00,8.20,9.77,9.00,8.71,,,7.1873,1,11.0543,0,214020,881742,0.2573,0.4719,-0.2146
+2026-11-12,7.90,8.30,7.78,8.03,9.37,9.05,8.71,,,7.1873,1,10.8123,0,354123,879592,0.1491,0.4074,-0.2583

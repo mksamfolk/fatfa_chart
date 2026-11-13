@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SIND,Sinda Ltd.,Basic Materials,Other Precious Metals & Mining,Mexico,2043638656,12.87,132270,130300,1676961.0,,,,0.0,0.0,0.0,,,305582752,1051147,0.337,27.919,27.811,-38875844,,158790885,35680312,0.01031,0.94254,171961,1.77,,,-49.376556,,6.559633,,-31.432,18.4,19.0,16.4,1.5,strong_buy,6,1,0,1,0,2026-11-02,,https://sinda.mx,2026-11-10T12:48:13.363724+00:00
+0.00,SIND,Sinda Ltd.,Basic Materials,Other Precious Metals & Mining,Mexico,2043638656,12.87,132270,130300,1676961.0,,,,0.0,0.0,0.0,,,305582752,1051147,0.337,27.919,27.811,-38875844,,158790885,35680312,0.01031,0.94254,171961,1.77,,,-49.376556,,6.559633,,-31.432,18.4,19.0,16.4,1.5,strong_buy,6,1,0,1,0,2026-11-02,,https://sinda.mx,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-26,10.80,12.00,10.80,12.00,,,,,,,0,10.8000,1,29925600,,,,
 2026-06-29,12.00,12.24,11.76,12.00,,,,,,,0,10.8000,1,4093200,,,,
@@ -111,3 +111,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,12.42,13.30,12.00,12.87,11.85,11.88,14.25,,,14.1031,0,10.8106,1,1831401,1943858,-0.4989,-0.7364,0.2375
 2026-11-10,12.80,13.03,12.18,12.37,11.94,11.81,14.17,,,14.1031,0,10.9101,1,828790,1944872,-0.4358,-0.6763,0.2405
 2026-11-11,12.33,12.85,11.67,12.03,11.98,11.75,14.09,,,14.1031,0,11.0057,1,1820139,1926309,-0.4085,-0.6227,0.2142
+2026-11-12,11.83,12.08,11.52,11.78,11.96,11.72,13.98,,,14.1031,0,11.0975,1,1126168,1892995,-0.4025,-0.5787,0.1762

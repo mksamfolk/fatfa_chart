@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FCBM,First Carolina Financial Services Inc.,Financial Services,Banks - Regional,United States,419132288,13.49,176650,175904,2372944.96,0.231,,,0.0,0.32612,0.17562,,,237374000,31654000,,,,,,31069852,25001599,0.19444,0.26726,265226,1.08,0.0098,24.98148,9.635715,3.0916758,0.96869165,1.574,,15.0,15.0,15.0,1.66667,buy,3,1,1,0,0,2026-10-29,,https://www.firstcarolinabank.com,2026-11-10T09:40:08.761602+00:00
+0.00,FCBM,First Carolina Financial Services Inc.,Financial Services,Banks - Regional,United States,419132288,13.49,176650,175904,2372944.96,0.231,,,0.0,0.32612,0.17562,,,237374000,31654000,,,,,,31069852,25001599,0.19444,0.26726,265226,1.08,0.0098,24.98148,9.635715,3.0916758,0.96869165,1.574,,15.0,15.0,15.0,1.66667,buy,3,1,1,0,0,2026-10-29,,https://www.firstcarolinabank.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-18,13.25,13.25,12.60,12.60,,,,,,,0,13.2500,0,8293320,,,,
 2026-06-22,12.73,12.79,12.51,12.58,,,,,,,0,13.2500,0,1720944,,,,
@@ -116,3 +116,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.46,14.00,13.46,13.49,13.19,12.95,12.80,,,12.7291,1,12.9982,1,2523979,1651198,0.1776,0.1220,0.0557
 2026-11-10,13.50,13.52,13.30,13.42,13.23,12.99,12.81,,,12.7291,1,13.1184,1,1504382,1669915,0.1844,0.1344,0.0499
 2026-11-11,13.53,13.59,13.35,13.46,13.28,13.03,12.83,,,12.7291,1,13.2242,1,1040458,1662586,0.1908,0.1457,0.0451
+2026-11-12,13.49,13.53,13.32,13.40,13.31,13.07,12.84,,,12.7291,1,13.3000,1,2357060,1675297,0.1888,0.1543,0.0345

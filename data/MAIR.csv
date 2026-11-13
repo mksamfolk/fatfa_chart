@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MAIR,Madison Air Solutions Corporation,Industrials,Building Products & Equipment,United States,12307256320,24.53,2615570,2631251,64544587.03,0.254,0.432,1.397,0.38103,0.19233,0.05094,,,2645199872,3192600064,53.477,4.304,3.696,475500000,,177342753,121767227,0.36606997,0.49150002,9250997,3.58,0.0784,175.2143,20.21309,3.0974119,2.4330492,3.793,16.945,34.0,49.0,24.0,1.3,strong_buy,9,1,0,0,7,2026-11-05,,https://www.madisonair.com,2026-11-10T11:07:13.669058+00:00
+0.00,MAIR,Madison Air Solutions Corporation,Industrials,Building Products & Equipment,United States,12307256320,24.53,2615570,2631251,64544587.03,0.254,0.432,1.397,0.38103,0.19233,0.05094,,,2645199872,3192600064,53.477,4.304,3.696,475500000,,177342753,121767227,0.36606997,0.49150002,9250997,3.58,0.0784,175.2143,20.21309,3.0974119,2.4330492,3.793,16.945,34.0,49.0,24.0,1.3,strong_buy,9,1,0,0,7,2026-11-05,,https://www.madisonair.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-16,32.00,32.50,31.00,31.75,,,,,,,0,31.0000,1,1169387425,,,,
 2026-04-17,31.28,33.00,31.00,32.45,,,,,,,0,31.0000,1,364595229,,,,
@@ -175,3 +175,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,23.62,24.71,23.26,24.53,23.62,23.44,24.22,,,25.4232,0,25.2276,0,35443398,59361609,-0.2836,-0.3954,0.1118
 2026-11-10,24.09,24.39,23.17,23.94,23.64,23.43,24.17,,,25.4232,0,25.0525,0,43826959,59533638,-0.2283,-0.3620,0.1337
 2026-11-11,24.69,24.76,23.57,24.06,23.66,23.47,24.14,,,25.4232,0,24.8844,0,42908603,59263960,-0.1727,-0.3242,0.1514
+2026-11-12,23.75,24.47,23.64,23.76,23.58,23.48,24.10,,,25.4232,0,24.7600,0,57492073,58303163,-0.1512,-0.2896,0.1384

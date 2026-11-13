@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CEPS,Cantor Equity Partners VI Inc.,Financial Services,Shell Companies,United States,149538240,10.19,28250,20456,208446.63999999998,,,,0.0,0.0,0.0,,,25000,85768,71.066,1.269,0.158,-67009,,11800000,9687114,0.03686,0.92087,985,0.05,0.0001,113.22221,,,1273.7499,,,,,,,none,,,,,,,,,2026-11-10T08:43:09.373576+00:00
+0.00,CEPS,Cantor Equity Partners VI Inc.,Financial Services,Shell Companies,United States,149538240,10.19,28250,20456,208446.63999999998,,,,0.0,0.0,0.0,,,25000,85768,71.066,1.269,0.158,-67009,,11800000,9687114,0.03686,0.92087,985,0.05,0.0001,113.22221,,,1273.7499,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-05,10.13,10.17,10.13,10.15,,,,,,,0,10.1300,1,62611288,,,,
 2026-02-06,10.15,10.17,10.14,10.15,,,,,,,0,10.1300,1,2086840,,,,
@@ -208,3 +208,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.13,10.19,10.13,10.19,10.15,10.14,10.27,10.25,,10.1108,1,10.1200,1,21399,259609,-0.0222,-0.0400,0.0178
 2026-11-10,10.19,10.19,10.19,10.19,10.16,10.14,10.26,10.25,,10.1108,1,10.1260,1,,259609,-0.0185,-0.0357,0.0172
 2026-11-11,10.19,10.19,10.19,10.19,10.16,10.14,10.26,10.25,,10.1108,1,10.1300,1,,259609,-0.0154,-0.0316,0.0162
+2026-11-12,10.17,10.17,10.17,10.17,10.17,10.14,10.25,10.25,,10.1108,1,10.1356,1,1017000,279949,-0.0144,-0.0282,0.0138

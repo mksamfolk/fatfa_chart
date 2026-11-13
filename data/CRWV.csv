@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.74,CRWV,CoreWeave Inc.,Technology,Software - Infrastructure,United States,27014260736,48.98,57590200,41221862,2019046800.7599998,1.125,,,0.67418,-0.01903,-0.25402,-0.43596,-0.00244,5538999808,51612999680,1027.329,0.455,0.386,6911000064,-9088615424,458871690,328302162,0.18625,0.76839995,69779354,1.83,0.22399999,,-24.129742,3.559191,5.371792,9.63,19.29,131.52632,278.0,39.0,1.7619,buy,38,0,1,2,4,2026-11-10,,https://www.coreweave.com,2026-11-10T09:02:23.924153+00:00
+18.45,CRWV,CoreWeave Inc.,Technology,Software - Infrastructure,United States,27014260736,48.98,57590200,41221862,2019046800.7599998,1.125,,,0.67418,-0.01903,-0.25402,-0.43596,-0.00244,5538999808,51612999680,1027.329,0.455,0.386,6911000064,-9088615424,458871690,328302162,0.18625,0.76839995,69779354,1.83,0.22399999,,-24.129742,3.559191,5.371792,9.63,19.29,131.52632,278.0,39.0,1.7619,buy,38,0,1,2,4,2026-11-10,,https://www.coreweave.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-28,39.00,41.94,37.46,40.00,,,,,,,0,41.9400,0,1643644000,,,,
 2025-03-31,38.49,38.49,36.00,37.08,,,,,,,0,41.9400,0,563423212,,,,
@@ -437,4 +437,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,46.92,47.70,43.10,46.40,53.67,59.33,75.56,91.42,90.17,61.7801,0,61.8124,0,2757983611,3046784525,-8.5160,-7.6851,-0.8309
 2026-11-09,46.38,50.10,45.15,48.98,53.05,57.76,74.86,91.18,89.95,61.7801,0,60.5384,0,2400612636,3065599121,-8.2884,-7.8058,-0.4826
 2026-11-10,48.10,51.02,47.06,48.73,51.96,56.31,74.13,90.91,89.71,61.7801,0,59.3409,0,4397989665,3131083607,-8.0355,-7.8517,-0.1838
-2026-11-11,55.97,62.03,53.81,60.77,51.65,56.06,73.71,90.70,89.47,61.7801,0,40.5800,1,9818578589,3301510858,-6.7853,-7.6385,0.8531
+2026-11-11,55.97,62.03,53.81,60.77,51.65,56.06,73.71,90.70,89.47,61.7801,0,40.5800,1,10035223641,3305843759,-6.7853,-7.6385,0.8531
+2026-11-12,50.90,58.56,50.17,56.60,51.23,55.40,73.22,90.40,89.22,61.7801,0,41.0089,1,6100523296,3402645015,-6.0612,-7.3230,1.2618

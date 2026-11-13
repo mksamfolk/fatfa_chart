@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-11 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.68,GMM,Global Mofy AI Limited,Technology,Information Technology Services,China,13006027,1.02,28600,32034,32674.68,0.362,,,0.40238997,0.04512,-0.34505,-0.35919,0.02736,1212063,3692434,5.958,1.098,0.176,22110020,-11360446,9587663,575715,0.0057300003,7e-05,4977,0.23,0.0005,,,0.23249425,0.009709939,0.053,0.197,,,,,none,,,,,,,-1.705,https://www.globalmofy.cn,2026-11-10T10:03:02.067702+00:00
+2.44,GMM,Global Mofy AI Limited,Technology,Information Technology Services,China,13006027,1.02,28600,32034,32674.68,0.362,,,0.40238997,0.04512,-0.34505,-0.35919,0.02736,1212063,3692434,5.958,1.098,0.176,22110020,-11360446,9587663,575715,0.0057300003,7e-05,4977,0.23,0.0005,,,0.23249425,0.009709939,0.053,0.197,,,,,none,,,,,,,-1.705,https://www.globalmofy.cn,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-10-09,250.00,250.00,250.00,250.00,,,,,,,0,250.0000,1,,,,,
 2023-10-10,250.00,305.00,230.00,255.00,,,,,,,0,305.0000,0,19823190,,,,
@@ -791,3 +791,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.04,1.08,0.98,1.02,1.04,1.10,1.85,22.95,33.17,1.3706,0,1.1853,0,40800,72219,-0.2618,-0.3177,0.0558
 2026-11-10,0.99,1.04,0.95,1.04,1.04,1.07,1.82,22.55,32.86,1.3706,0,1.1782,0,36088,69742,-0.2442,-0.3030,0.0588
 2026-11-11,1.00,1.00,0.93,0.94,1.02,1.05,1.78,22.16,32.51,1.3706,0,1.1712,0,13724,67396,-0.2356,-0.2895,0.0539
+2026-11-12,0.94,1.73,0.92,1.08,1.02,1.04,1.74,21.78,32.16,1.3706,0,0.8290,1,2073708,104431,-0.2150,-0.2746,0.0596

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-11 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.13,FFTT,Masonglory Limited,Industrials,Engineering & Construction,Hong Kong,13506851,3.88,212380,2487805,9652683.4,0.21,,,0.044099998,-0.56102,-0.33982,-1.35403,-0.54233,318311,153846,1.84,3.128,3.056,-3813420,-1787101,3481147,1121282,0.10918,0.011849999,89661,0.02,0.031400003,,,0.5733971,0.9832742,0.342,-1.058,,,,,none,,,,,,,,https://www.masontech.com.hk,2026-11-10T09:42:59.913987+00:00
+49.59,FFTT,Masonglory Limited,Industrials,Engineering & Construction,Hong Kong,13506851,3.88,212380,2487805,9652683.4,0.21,,,0.044099998,-0.56102,-0.33982,-1.35403,-0.54233,318311,153846,1.84,3.128,3.056,-3813420,-1787101,3481147,1121282,0.10918,0.011849999,89661,0.02,0.031400003,,,0.5733971,0.9832742,0.342,-1.058,,,,,none,,,,,,,,https://www.masontech.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-08,34.24,37.68,30.64,34.16,,,,,,,0,30.6400,1,7396494,,,,
 2025-07-09,32.00,54.40,31.28,40.24,,,,,,,0,30.6400,1,4947025,,,,
@@ -370,3 +370,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.71,3.94,3.61,3.88,3.86,3.24,3.11,3.39,4.17,4.4445,0,2.0300,1,135412,14193063,0.1683,0.1360,0.0323
 2026-11-10,3.69,4.28,3.50,4.05,3.86,3.30,3.16,3.40,3.95,4.4445,0,2.0682,1,82215,14192789,0.1886,0.1465,0.0421
 2026-11-11,3.93,3.93,3.54,3.84,3.82,3.36,3.20,3.39,3.72,4.4445,0,2.1567,1,103545,14193189,0.1853,0.1543,0.0310
+2026-11-12,3.77,3.99,3.55,3.61,3.80,3.41,3.23,3.39,3.65,4.4445,0,2.2416,1,34656,14192711,0.1626,0.1559,0.0066

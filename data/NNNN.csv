@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.59,NNNN,Anbio Biotechnology,Healthcare,Medical Instruments & Supplies,Germany,179076096,4.08,35100,149925,611694.0,0.739,,,0.87236,0.59093,0.74055,0.27049,0.14664,11901231,0,,344.311,177.127,-6739075,-9605703,43891200,39691251,0.047849998,0.04996,31124,0.23,0.0007,27.199999,,20.709995,5.9388647,19.334,,,,,,none,,,,,,,,https://www.anbiobiotechnology.com,2026-11-10T11:36:44.381354+00:00
+3.63,NNNN,Anbio Biotechnology,Healthcare,Medical Instruments & Supplies,Germany,179076096,4.08,35100,149925,611694.0,0.739,,,0.87236,0.59093,0.74055,0.27049,0.14664,11901231,0,,344.311,177.127,-6739075,-9605703,43891200,39691251,0.047849998,0.04996,31124,0.23,0.0007,27.199999,,20.709995,5.9388647,19.334,,,,,,none,,,,,,,,https://www.anbiobiotechnology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-19,5.26,5.89,5.18,5.77,,,,,,,0,5.1800,1,11927744,,,,
 2025-02-20,5.61,5.75,5.32,5.67,,,,,,,0,5.1800,1,2243619,,,,
@@ -450,3 +450,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.75,4.43,3.53,4.08,3.70,3.66,5.78,15.84,18.57,4.8234,0,3.2173,1,587112,931840,-0.5501,-0.7628,0.2128
 2026-11-10,4.08,4.08,3.80,3.80,3.71,3.64,5.65,15.72,18.44,4.8234,0,3.2897,1,28500,920365,-0.5085,-0.7120,0.2034
 2026-11-11,3.81,4.26,3.81,4.05,3.73,3.66,5.52,15.61,18.29,4.8234,0,3.3579,1,95175,917156,-0.4503,-0.6596,0.2093
+2026-11-12,3.90,3.96,3.80,3.80,3.73,3.68,5.40,15.49,18.15,4.8234,0,3.4219,1,58900,913804,-0.4194,-0.6116,0.1921

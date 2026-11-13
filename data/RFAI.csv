@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.46,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,267000480,32.0,5750,76031,2432992.0,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.38814998,3945,0.31,0.0016,266.6667,,,-50.31447,,,,,,,none,,,,,,,1.491,,2026-11-10T12:27:14.612935+00:00
+98.28,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,267000480,32.0,5750,76031,2432992.0,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.38814998,3945,0.31,0.0016,266.6667,,,-50.31447,,,,,,,none,,,,,,,1.491,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-05,10.00,10.08,10.00,10.04,,,,,,,0,10.0000,1,11805032,,,,
 2024-07-08,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,5622400,,,,
@@ -606,3 +606,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,34.48,34.48,31.75,32.00,30.97,31.86,32.46,18.14,16.31,45.6569,0,51.9808,0,150400,4788007,-0.4908,-0.4118,-0.0790
 2026-11-10,32.50,34.70,31.91,33.49,31.10,31.63,32.90,18.29,16.42,45.6569,0,51.5202,0,164101,4788398,-0.3043,-0.3903,0.0860
 2026-11-11,33.01,40.00,33.01,38.00,31.73,32.02,33.44,18.47,16.56,45.6569,0,51.0687,0,216600,4792375,0.2051,-0.2712,0.4763
+2026-11-12,34.30,36.80,33.50,34.35,32.11,32.04,33.91,18.63,16.68,45.6569,0,50.6263,0,195823,4794077,0.3111,-0.1547,0.4658

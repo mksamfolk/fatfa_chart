@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MTAL,,Financial Services,Shell Companies,Cayman Islands,310960032,10.14,21950,52646,533830.4400000001,,,,0.0,0.0,0.0,,,1889425,0,,0.194,,0,,23000000,19220027,0.00087,0.77452004,18,0.0,,,,,-42.250004,,,,,,,none,,,,,,,,https://www.metalsacqii.com,2026-11-10T11:24:00.135430+00:00
+0.00,MTAL,,Financial Services,Shell Companies,Cayman Islands,310960032,10.14,21950,52646,533830.4400000001,,,,0.0,0.0,0.0,,,1889425,0,,0.194,,0,,23000000,19220027,0.00087,0.77452004,18,0.0,,,,,-42.250004,,,,,,,none,,,,,,,,https://www.metalsacqii.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-15,10.17,10.17,10.00,10.01,,,,,,,0,10.1700,0,119119,,,,
 2026-04-16,10.01,10.04,10.00,10.04,,,,,,,0,10.1700,0,16064,,,,
@@ -161,3 +161,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.14,10.14,10.14,10.14,10.10,10.11,10.16,,,10.1500,0,10.1677,0,,563723,-0.0149,-0.0220,0.0071
 2026-11-10,10.14,10.14,10.14,10.14,10.10,10.11,10.16,,,10.1500,0,10.1609,0,,563682,-0.0110,-0.0198,0.0088
 2026-11-11,10.14,10.14,10.14,10.14,10.10,10.11,10.16,,,10.1500,0,10.1545,0,,539753,-0.0079,-0.0174,0.0095
+2026-11-12,10.10,10.10,10.10,10.10,10.11,10.10,10.16,,,10.1500,0,10.1483,0,15150,538485,-0.0085,-0.0156,0.0071

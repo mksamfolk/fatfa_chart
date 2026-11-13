@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.92,SI,Shoulder Innovations Inc.,,,,448990464,21.46,135250,118071,2533803.66,,,,,,,,,,,,,,,,20922204,,,,,,,19.160713,-17.883331,,3.7915194,,,27.0,28.0,25.0,1.25,strong_buy,4,1,1,2,1,2026-11-05,,,2026-11-10T12:47:05.692134+00:00
+90.13,SI,Shoulder Innovations Inc.,,,,448990464,21.46,135250,118071,2533803.66,,,,,,,,,,,,,,,,20922204,,,,,,,19.160713,-17.883331,,3.7915194,,,27.0,28.0,25.0,1.25,strong_buy,4,1,1,2,1,2026-11-05,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-31,15.60,17.94,14.70,15.05,,,,,,,0,17.9400,0,29771910,,,,
 2025-08-01,14.12,14.88,13.05,14.25,,,,,,,0,17.9400,0,6472350,,,,
@@ -338,3 +338,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,20.97,21.84,19.27,21.46,20.09,19.42,19.96,17.96,16.91,17.8645,1,19.0173,1,5274868,2164252,0.3073,0.0334,0.2739
 2026-11-10,21.53,22.21,20.78,21.93,20.35,19.61,19.98,18.01,16.95,17.8645,1,19.2700,1,3774153,2177900,0.4291,0.1125,0.3165
 2026-11-11,21.92,21.95,21.29,21.92,20.59,19.82,20.02,18.05,16.99,17.8645,1,19.2700,1,4186720,2200938,0.5188,0.1938,0.3250
+2026-11-12,21.50,21.58,20.76,21.08,20.66,19.95,20.06,18.09,17.02,17.8645,1,19.6228,1,2017356,2201406,0.5161,0.2582,0.2579
+2026-11-13,21.32,21.17,20.70,20.70,20.82,20.08,20.09,18.14,17.05,17.8645,1,19.9333,1,560567,2179196,0.4782,0.3022,0.1760

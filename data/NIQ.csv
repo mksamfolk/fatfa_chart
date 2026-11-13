@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.51,NIQ,NIQ Global Intelligence plc,,,,6317954560,21.42,1139110,1399482,29976904.44,,,,,,,,,,,,,,,,294955864,,,,,,,,16.58832,,6.9658537,,,20.69231,25.0,16.0,1.64286,buy,13,1,1,0,0,2026-11-12,,,2026-11-10T11:34:39.028721+00:00
+91.37,NIQ,NIQ Global Intelligence plc,,,,6317954560,21.42,1139110,1399482,29976904.44,,,,,,,,,,,,,,,,294955864,,,,,,,,16.58832,,6.9658537,,,20.69231,25.0,16.0,1.64286,buy,13,1,1,0,0,2026-11-12,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-23,20.25,20.39,18.99,19.01,,,,,,,0,18.9900,1,417742854,,,,
 2025-07-24,19.05,19.90,19.03,19.74,,,,,,,0,18.9900,1,81198515,,,,
@@ -359,3 +359,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,20.69,21.51,20.27,21.42,20.20,19.63,18.61,13.64,13.29,18.4881,1,19.0000,1,31311756,21686782,0.6883,0.6159,0.0724
 2026-11-10,21.11,21.33,20.72,21.02,20.32,19.77,18.65,13.71,13.30,18.6524,1,19.0000,1,23853497,21714303,0.7104,0.6348,0.0756
 2026-11-11,21.09,21.26,21.00,21.06,20.42,19.91,18.70,13.78,13.32,18.9167,1,19.0503,1,23067017,21675707,0.7228,0.6524,0.0704
+2026-11-12,19.77,21.05,18.54,19.22,20.30,19.92,18.72,13.83,13.33,18.9167,1,21.5150,0,47271588,22182023,0.5776,0.6375,-0.0599
+2026-11-13,19.44,19.75,18.68,18.92,20.21,19.94,18.72,13.89,13.34,22.0092,0,21.4555,0,10098095,22005326,0.4328,0.5965,-0.1637

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-20.45,LGPS,LogProstyle Inc.,Industrials,Conglomerates,Japan,15344705,0.6499,39710,1419451,922501.2049,0.174,-0.365,-0.309,0.19839,0.057779998,0.0342,0.19656,0.03973,2613396992,21275375616,504.723,2.4,0.355,-2201764096,-4169457664,23610870,5534388,0.73169,0.00096000003,221169,0.79,0.0348,3.094762,,0.00069054466,0.5757211,0.841,11.363,,,,,none,,,,,,,,https://www.logprostyle.co.jp,2026-11-10T10:56:54.631407+00:00
+23.85,LGPS,LogProstyle Inc.,Industrials,Conglomerates,Japan,15344705,0.6499,39710,1419451,922501.2049,0.174,-0.365,-0.309,0.19839,0.057779998,0.0342,0.19656,0.03973,2613396992,21275375616,504.723,2.4,0.355,-2201764096,-4169457664,23610870,5534388,0.73169,0.00096000003,221169,0.79,0.0348,3.094762,,0.00069054466,0.5757211,0.841,11.363,,,,,none,,,,,,,,https://www.logprostyle.co.jp,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-25,4.58,5.14,3.11,3.53,,,,,,,0,5.1443,0,5523360,,,,
 2025-03-26,3.72,3.81,1.35,1.67,,,,,,,0,5.1443,0,2334850,,,,
@@ -426,3 +426,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.62,0.66,0.62,0.65,0.62,0.64,0.79,0.78,0.79,0.7417,0,0.6650,0,9685,2264161,-0.0458,-0.0576,0.0118
 2026-11-10,0.66,0.67,0.62,0.64,0.63,0.63,0.78,0.78,0.79,0.7417,0,0.5700,1,11352,2263057,-0.0416,-0.0544,0.0128
 2026-11-11,0.68,0.68,0.58,0.61,0.63,0.63,0.78,0.78,0.78,0.7417,0,0.5719,1,16692,2262715,-0.0408,-0.0517,0.0108
+2026-11-12,0.65,0.65,0.60,0.61,0.63,0.63,0.77,0.78,0.78,0.7417,0,0.5762,1,8113,2261979,-0.0396,-0.0493,0.0097

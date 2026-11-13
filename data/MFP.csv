@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MFP,Midera Food Processing Inc.,Industrials,Specialty Industrial Machinery,United States,2085576320,46.11,459910,517571,23865198.81,0.132,,-0.629,0.35282,0.09739,0.07087,,,50500000,263600000,33.558,1.837,1.049,93938000,,45230455,41849478,0.00373,0.63352,2204295,4.57,,128.08333,17.559027,2.222583,2.6550353,2.45,17.851,46.66667,50.0,40.0,,none,3,1,0,1,1,2026-11-17,,https://midera.com,2026-11-10T11:13:44.482716+00:00
+0.00,MFP,Midera Food Processing Inc.,Industrials,Specialty Industrial Machinery,United States,2085576320,46.11,459910,517571,23865198.81,0.132,,-0.629,0.35282,0.09739,0.07087,,,50500000,263600000,33.558,1.837,1.049,93938000,,45230455,41849478,0.00373,0.63352,2204295,4.57,,128.08333,17.559027,2.222583,2.6550353,2.45,17.851,46.66667,50.0,40.0,,none,3,1,0,1,1,2026-11-17,,https://midera.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-26,110.50,200.00,21.00,110.50,,,,,,,0,21.0000,1,,,,,
 2026-06-29,35.00,35.00,35.00,35.00,,,,,,,0,21.0000,1,2873500,,,,
@@ -126,3 +126,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,43.27,46.57,43.11,46.11,42.13,41.52,42.27,,,38.1733,1,39.3095,1,14981139,18876885,0.2986,-0.1337,0.4324
 2026-11-10,45.47,46.04,44.43,45.09,42.40,41.79,42.23,,,38.4831,1,39.8904,1,20736891,18889674,0.4952,-0.0080,0.5032
 2026-11-11,45.66,46.62,44.95,45.62,42.77,42.09,42.26,,,39.2073,1,40.4247,1,11674158,18818089,0.6859,0.1308,0.5551
+2026-11-12,45.02,46.41,44.40,45.16,43.13,42.31,42.26,,,39.2073,1,41.0443,1,12568028,18704175,0.7907,0.2628,0.5279

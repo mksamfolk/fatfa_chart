@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BRTM,B&R Technology Merger Corp.,Financial Services,Shell Companies,United States,478201216,9.78,165150,111073,1086293.94,,,,0.0,0.0,0.0,,,1798,229047,,,,0,,38062500,34040016,0.0,0.03181,26,0.0,,,,,-1630.0,,,,,,,none,,,,,,,,,2026-11-10T08:29:10.021026+00:00
+0.00,BRTM,B&R Technology Merger Corp.,Financial Services,Shell Companies,United States,478201216,9.78,165150,111073,1086293.94,,,,0.0,0.0,0.0,,,1798,229047,,,,0,,38062500,34040016,0.0,0.03181,26,0.0,,,,,-1630.0,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-10,10.00,10.25,9.78,9.86,,,,,,,0,9.7800,1,2387106,,,,
 2026-09-11,9.90,9.91,9.81,9.87,,,,,,,0,9.7800,1,317814,,,,
@@ -74,3 +74,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,9.77,9.78,9.77,9.78,9.78,9.78,,,,9.8004,0,9.8708,0,854772,,-0.0106,-0.0108,0.0002
 2026-11-10,9.78,9.78,9.77,9.77,9.78,9.78,,,,9.8004,0,9.8620,0,2450316,,-0.0105,-0.0108,0.0002
 2026-11-11,9.78,9.79,9.78,9.78,9.78,9.78,,,,9.8004,0,9.8538,0,55746,,-0.0096,-0.0105,0.0009
+2026-11-12,9.78,9.78,9.77,9.78,9.78,9.78,,,,9.8004,0,9.8463,0,574086,,-0.0087,-0.0102,0.0014

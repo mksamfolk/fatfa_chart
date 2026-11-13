@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALUB,Alussa Energy Acquisition Corp. II,Financial Services,Shell Companies,United States,365843776,10.18,22020,75215,765688.7,,,,0.0,0.0,0.0,,,604764,0,,1.983,1.673,-627601,,28750000,28750000,0.0007,0.89609003,4821,0.08,0.0002,,,,-20.23857,,,,,,,none,,,,,,,,https://www.alussaenergy.com/copy-of-alussa-energy-acquisition-corp,2026-11-10T07:50:30.942515+00:00
+0.00,ALUB,Alussa Energy Acquisition Corp. II,Financial Services,Shell Companies,United States,365843776,10.18,22020,75215,765688.7,,,,0.0,0.0,0.0,,,604764,0,,1.983,1.673,-627601,,28750000,28750000,0.0007,0.89609003,4821,0.08,0.0002,,,,-20.23857,,,,,,,none,,,,,,,,https://www.alussaenergy.com/copy-of-alussa-energy-acquisition-corp,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-06,9.98,9.98,9.98,9.98,,,,,,,0,9.9800,0,184630,,,,
 2026-01-07,9.98,9.98,9.90,9.93,,,,,,,0,9.9800,0,822204,,,,
@@ -229,3 +229,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.15,10.18,10.15,10.18,10.15,10.15,10.14,10.06,,10.1250,1,10.1250,1,399056,726178,0.0094,0.0074,0.0020
 2026-11-10,10.17,10.19,10.16,10.16,10.16,10.15,10.14,10.07,,10.1267,1,10.1261,1,504952,736277,0.0091,0.0078,0.0013
 2026-11-11,10.16,10.18,10.16,10.17,10.16,10.15,10.14,10.07,10.05,10.1267,1,10.1285,1,4306995,741537,0.0096,0.0081,0.0014
+2026-11-12,10.17,10.17,10.17,10.17,10.16,10.15,10.14,10.07,10.06,10.1289,1,10.1307,1,6102,741639,0.0098,0.0085,0.0013

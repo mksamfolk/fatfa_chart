@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-05 09:30:00-04:00,0.08333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-83.95,GUTS,Fractyl Health Inc.,Healthcare,Biotechnology,United States,11900019,0.8971,407750,471113,422635.4723,,,,0.0,0.0,0.0,,-0.7457,47140000,60736000,,3.152,2.996,-82428000,-48358752,13264987,12144489,0.01454,0.53254,265311,1.44,0.0214,,-0.24804585,,-7.119841,,-0.301,23.6,60.0,5.0,,none,5,0,0,1,2,2026-11-12,2.888,https://fractyl.com,2026-11-10T10:10:11.107209+00:00
+81.95,GUTS,Fractyl Health Inc.,Healthcare,Biotechnology,United States,11900019,0.8971,407750,471113,422635.4723,,,,0.0,0.0,0.0,,-0.7457,47140000,60736000,,3.152,2.996,-82428000,-48358752,13264987,12144489,0.01454,0.53254,265311,1.44,0.0214,,-0.24804585,,-7.119841,,-0.301,23.6,60.0,5.0,,none,5,0,0,1,2,2026-11-12,2.888,https://fractyl.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-02-02,13.75,14.50,12.70,12.85,,,,,,,0,14.5000,0,37868951,,,,
 2024-02-05,13.91,13.99,10.93,11.10,,,,,,,0,14.5000,0,8554770,,,,
@@ -711,3 +711,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.95,0.95,0.87,0.90,0.93,1.51,1.47,0.96,0.97,1.5296,0,1.8502,0,248110,1292824,-0.2994,-0.2227,-0.0767
 2026-11-10,0.89,0.90,0.81,0.81,0.92,1.35,1.48,0.96,0.97,1.4420,0,1.7267,0,298529,1278203,-0.3009,-0.2383,-0.0626
 2026-11-11,0.82,0.89,0.80,0.88,0.92,1.19,1.48,0.96,0.96,1.3998,0,1.5983,0,124221,1257909,-0.2931,-0.2493,-0.0438
+2026-11-12,0.88,0.90,0.81,0.81,0.90,1.02,1.48,0.96,0.95,1.3848,0,1.4706,0,140638,1253136,-0.2891,-0.2572,-0.0318

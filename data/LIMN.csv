@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-08-21 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.59,LIMN,Liminatus Pharma Inc.,Healthcare,Biotechnology,United States,3640091,2.71,32740,214948,582509.08,,,,0.0,0.0,0.0,,-0.95652,3017096,1442500,479.854,1.116,0.992,-3972747,-10005625,1343207,1023188,0.27185,0.042329997,39632,1.73,0.0366,,,,10.074349,,-0.508,,,,,none,,,,,,,0.781,https://liminatuspharma.com,2026-11-10T10:57:57.842199+00:00
+5.07,LIMN,Liminatus Pharma Inc.,Healthcare,Biotechnology,United States,3640091,2.71,32740,214948,582509.08,,,,0.0,0.0,0.0,,-0.95652,3017096,1442500,479.854,1.116,0.992,-3972747,-10005625,1343207,1023188,0.27185,0.042329997,39632,1.73,0.0366,,,,10.074349,,-0.508,,,,,none,,,,,,,0.781,https://liminatuspharma.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-02,457.50,457.50,300.50,402.00,,,,,,,0,300.5000,1,773448,,,,
 2025-05-05,380.00,399.50,319.55,360.00,,,,,,,0,300.5000,1,264240,,,,
@@ -399,3 +399,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.56,2.83,2.56,2.71,2.75,2.95,3.96,6.67,12.58,3.6187,0,3.0700,0,53387,1879292,-0.3453,-0.3747,0.0294
 2026-11-10,2.80,3.00,2.75,2.77,2.74,2.92,3.90,6.61,12.44,3.6187,0,3.0034,0,53738,1865023,-0.3231,-0.3644,0.0413
 2026-11-11,2.98,3.08,2.85,2.94,2.74,2.91,3.85,6.56,12.28,3.6187,0,2.4040,1,79968,1860828,-0.2884,-0.3492,0.0608
+2026-11-12,3.04,3.08,2.77,2.77,2.73,2.88,3.80,6.51,12.13,3.6187,0,2.4174,1,28254,1858855,-0.2715,-0.3337,0.0621

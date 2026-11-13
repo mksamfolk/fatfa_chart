@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-50.14,JCAP,Jefferson Capital Inc.,Financial Services,Credit Services,United States,1162867072,20.25,242710,284190,5754847.5,0.115,-0.96,-0.133,0.75158995,0.61196,0.24119,0.34952998,0.12515001,20406000,1409570944,296.01,5.355,5.34,221142000,-127625624,57425536,16773425,0.08833,0.96546996,1111775,4.09,0.056799997,22.252747,6.585366,1.8092762,2.4424074,3.971,6.548,28.2,30.0,24.0,,none,5,3,3,0,0,2026-11-12,,https://www.jcap.com,2026-11-10T10:40:24.323588+00:00
+48.87,JCAP,Jefferson Capital Inc.,Financial Services,Credit Services,United States,1162867072,20.25,242710,284190,5754847.5,0.115,-0.96,-0.133,0.75158995,0.61196,0.24119,0.34952998,0.12515001,20406000,1409570944,296.01,5.355,5.34,221142000,-127625624,57425536,16773425,0.08833,0.96546996,1111775,4.09,0.056799997,22.252747,6.585366,1.8092762,2.4424074,3.971,6.548,28.2,30.0,24.0,,none,5,3,3,0,0,2026-11-12,,https://www.jcap.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-26,17.87,18.39,15.99,17.44,,,,,,,0,15.9892,1,63351183,,,,
 2025-06-27,17.02,18.34,17.00,17.87,,,,,,,0,15.9892,1,15175300,,,,
@@ -377,3 +377,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,20.19,20.54,19.52,20.25,20.10,20.31,20.30,19.50,19.61,19.3585,1,21.2800,0,5595075,4880947,-0.0024,-0.0170,0.0146
 2026-11-10,20.20,21.12,19.59,19.66,20.06,20.26,20.28,19.50,19.60,19.3585,1,21.2448,0,2748468,4833615,-0.0469,-0.0230,-0.0239
 2026-11-11,19.68,20.05,19.51,19.94,20.11,20.25,20.27,19.51,19.59,19.3585,1,21.2103,0,2534374,4793023,-0.0590,-0.0302,-0.0288
+2026-11-12,19.86,20.19,19.14,19.46,20.07,20.18,20.23,19.51,19.59,19.3585,1,21.1425,0,5226956,4836397,-0.1060,-0.0454,-0.0607

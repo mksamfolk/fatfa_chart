@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-07-20 09:30:00-04:00,0.07692307692307693\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.75,BANL,CBL International Limited,Energy,Oil & Gas Midstream,Malaysia,6202418,2.955,17500,86439,255427.245,0.492,,,0.01239,0.0076800003,-0.00072999997,-0.02303,0.01118,30492074,207680,0.977,1.254,1.196,6562756,30558058,1085496,363216,0.97322,0.01482,7560,0.55,0.0199,,,0.009272501,0.29379597,-0.036,-16.476,,,,,none,,,,,,,-1.049,https://www.banle-intl.com,2026-11-10T08:12:35.497876+00:00
+98.89,BANL,CBL International Limited,Energy,Oil & Gas Midstream,Malaysia,6202418,2.955,17500,86439,255427.245,0.492,,,0.01239,0.0076800003,-0.00072999997,-0.02303,0.01118,30492074,207680,0.977,1.254,1.196,6562756,30558058,1085496,363216,0.97322,0.01482,7560,0.55,0.0199,,,0.009272501,0.29379597,-0.036,-16.476,,,,,none,,,,,,,-1.049,https://www.banle-intl.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-23,4.18,4.51,4.14,4.39,,,,,,,0,4.1389,1,5951972,,,,
 2023-03-24,4.49,4.52,4.35,4.38,,,,,,,0,4.1389,1,602406,,,,
@@ -928,3 +928,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.89,3.20,2.82,2.95,3.35,3.36,7.02,3.06,2.40,4.3440,0,4.6073,0,57031,815070,-0.9184,-1.0431,0.1247
 2026-11-10,2.99,2.99,2.83,2.90,3.23,3.31,7.00,3.08,2.41,4.2502,0,4.4287,0,59450,814403,-0.8806,-1.0106,0.1300
 2026-11-11,2.97,2.99,2.81,2.84,3.05,3.27,6.97,3.09,2.42,4.1610,0,4.2679,0,21300,813431,-0.8457,-0.9776,0.1319
+2026-11-12,2.94,3.00,2.90,2.92,2.94,3.22,6.91,3.11,2.44,4.1311,0,4.0935,0,16644,460215,-0.8023,-0.9425,0.1402

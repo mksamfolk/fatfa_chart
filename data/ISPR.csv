@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.67,ISPR,Ispire Technology Inc.,Consumer Defensive,Tobacco,United States,96449968,1.67,15760,19290,32214.3,0.325,,,0.12809,-0.50722003,-0.34582,,-0.24469,19328650,4142373,,1.018,0.902,-569416,-19710976,57754471,20074877,0.65779996,0.07323,509390,19.39,0.0252,,83.5,1.0045344,-3.2874014,0.774,-2.341,4.9,6.5,3.3,1.0,strong_buy,2,0,0,1,1,2027-02-04,2.024,https://www.ispiretechnology.com,2026-11-10T10:37:12.301249+00:00
+51.11,ISPR,Ispire Technology Inc.,Consumer Defensive,Tobacco,United States,96449968,1.67,15760,19290,32214.3,0.325,,,0.12809,-0.50722003,-0.34582,,-0.24469,19328650,4142373,,1.018,0.902,-569416,-19710976,57754471,20074877,0.65779996,0.07323,509390,19.39,0.0252,,83.5,1.0045344,-3.2874014,0.774,-2.341,4.9,6.5,3.3,1.0,strong_buy,2,0,0,1,1,2027-02-04,2.024,https://www.ispiretechnology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-04,8.53,9.38,7.01,7.55,,,,,,,0,9.3800,0,5083415,,,,
 2023-04-05,7.34,7.40,6.85,7.00,,,,,,,0,9.3800,0,1838900,,,,
@@ -920,3 +920,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.39,1.67,1.39,1.67,1.46,1.42,1.47,1.61,1.89,1.1785,1,1.3121,1,54609,24149,0.0270,-0.0038,0.0308
 2026-11-10,1.57,1.71,1.47,1.71,1.50,1.44,1.47,1.60,1.89,1.1785,1,1.3264,1,43092,24601,0.0431,0.0056,0.0376
 2026-11-11,1.64,1.78,1.64,1.78,1.54,1.46,1.47,1.60,1.88,1.2905,1,1.3495,1,23140,24601,0.0609,0.0166,0.0443
+2026-11-12,1.72,1.74,1.53,1.74,1.58,1.47,1.47,1.60,1.88,1.2905,1,1.3839,1,26274,24954,0.0709,0.0275,0.0434

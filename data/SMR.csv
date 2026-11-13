@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.07,SMR,NuScale Power Corporation,Industrials,Specialty Industrial Machinery,United States,2233345024,5.44,31758110,34162828,185845784.32000002,-0.966,,,-0.02162,-230.67615,0.0,-0.17122999,0.106920004,933390976,6634000,0.336,24.402,24.052,-605121984,-231772496,410541392,403732268,0.01699,0.6119,91627019,2.53,0.2484,,-8.105491,818.3749,1.1034483,460.627,5.037,8.59375,19.0,3.5,2.84211,hold,16,5,5,1,1,2026-11-05,2.429,https://www.nuscalepower.com,2026-11-10T12:53:13.370305+00:00
+9.63,SMR,NuScale Power Corporation,Industrials,Specialty Industrial Machinery,United States,2233345024,5.44,31758110,34162828,185845784.32000002,-0.966,,,-0.02162,-230.67615,0.0,-0.17122999,0.106920004,933390976,6634000,0.336,24.402,24.052,-605121984,-231772496,410541392,403732268,0.01699,0.6119,91627019,2.53,0.2484,,-8.105491,818.3749,1.1034483,460.627,5.037,8.59375,19.0,3.5,2.84211,hold,16,5,5,1,1,2026-11-05,2.429,https://www.nuscalepower.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-01,10.05,10.07,10.04,10.06,,,,,,,0,10.0400,1,3723206,,,,
 2022-03-02,10.07,10.08,10.05,10.08,,,,,,,0,10.0400,1,4107600,,,,
@@ -1209,4 +1209,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,4.88,5.09,4.64,5.08,5.35,5.60,7.45,9.40,10.48,6.1564,0,5.8600,0,207196433,252920683,-0.6776,-0.6983,0.0207
 2026-11-09,5.12,5.60,4.93,5.44,5.36,5.54,7.37,9.37,10.41,6.1564,0,5.7332,0,187701762,249651255,-0.6221,-0.6830,0.0610
 2026-11-10,5.26,5.37,5.07,5.22,5.32,5.47,7.29,9.34,10.34,6.1564,0,5.6166,0,187007536,249088884,-0.5890,-0.6642,0.0752
-2026-11-11,5.52,5.54,5.18,5.23,5.27,5.44,7.21,9.31,10.27,6.1564,0,5.6000,0,190189474,249650919,-0.5556,-0.6425,0.0869
+2026-11-11,5.52,5.54,5.18,5.23,5.27,5.44,7.21,9.31,10.27,6.1564,0,5.6000,0,190703060,249661191,-0.5556,-0.6425,0.0869
+2026-11-12,4.99,5.17,4.80,4.82,5.16,5.38,7.12,9.28,10.20,6.1564,0,5.5400,0,171070964,247816006,-0.5559,-0.6252,0.0693

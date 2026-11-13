@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.40,EGG,Enigmatig Limited,Industrials,Consulting Services,Singapore,152068224,5.43,25410,129778,704694.5399999999,-0.591,,,0.33341998,-1.90999,-0.96310997,-0.31120002,-0.16707,13207803,825031,5.879,6.94,6.829,-3308568,-2921411,12255200,8255093,0.32639,7e-05,59643,0.18,0.0072000003,,,55.532124,10.838324,51.01,-47.915,,,,,none,,,,,,,,https://www.enigmatig.com,2026-11-10T09:25:40.351225+00:00
+93.14,EGG,Enigmatig Limited,Industrials,Consulting Services,Singapore,152068224,5.43,25410,129778,704694.5399999999,-0.591,,,0.33341998,-1.90999,-0.96310997,-0.31120002,-0.16707,13207803,825031,5.879,6.94,6.829,-3308568,-2921411,12255200,8255093,0.32639,7e-05,59643,0.18,0.0072000003,,,55.532124,10.838324,51.01,-47.915,,,,,none,,,,,,,,https://www.enigmatig.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-18,8.50,13.34,5.89,6.53,,,,,,,0,13.3400,0,9860953,,,,
 2025-06-20,6.00,6.32,3.94,4.67,,,,,,,0,13.3400,0,1257631,,,,
@@ -382,3 +382,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.30,5.50,5.30,5.43,5.13,5.03,4.11,5.60,5.60,4.3943,1,6.0496,0,33123,722119,0.2746,0.2984,-0.0238
 2026-11-10,5.34,5.89,5.34,5.89,5.19,5.10,4.17,5.60,5.60,4.5463,1,6.0216,0,48887,722613,0.3151,0.3018,0.0134
 2026-11-11,6.00,6.00,5.79,5.90,5.30,5.17,4.23,5.59,5.60,4.8679,1,4.6500,1,63130,723235,0.3441,0.3102,0.0339
+2026-11-12,5.92,6.47,5.92,6.23,5.42,5.24,4.30,5.59,5.60,5.0996,1,4.6770,1,83482,723376,0.3893,0.3260,0.0632

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.24,HBNB,Hotel101 Global Holdings Corp.,Real Estate,Real Estate Services,Singapore,1085910272,4.64,26970,11935,55378.399999999994,8.926,,,0.42771998,-0.00797,-0.35211,-2.8901098,0.00748,14670545,110591048,646.288,1.012,0.291,-42242452,-44931432,234032386,11652472,0.95028996,0.00025,5742,0.33,0.0002,,,14.313514,63.56164,15.578,695.46,,,,,none,,,,,,,-0.95,https://www.hotel101global.com,2026-11-10T10:12:24.113923+00:00
+26.12,HBNB,Hotel101 Global Holdings Corp.,Real Estate,Real Estate Services,Singapore,1085910272,4.64,26970,11935,55378.399999999994,8.926,,,0.42771998,-0.00797,-0.35211,-2.8901098,0.00748,14670545,110591048,646.288,1.012,0.291,-42242452,-44931432,234032386,11652472,0.95028996,0.00025,5742,0.33,0.0002,,,14.313514,63.56164,15.578,695.46,,,,,none,,,,,,,-0.95,https://www.hotel101global.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-03,11.91,11.91,10.89,10.89,,,,,,,0,11.9100,0,4356,,,,
 2025-06-04,10.79,10.79,10.79,10.79,,,,,,,0,11.9100,0,4316,,,,
@@ -378,3 +378,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,4.70,4.70,4.62,4.64,4.81,4.67,4.97,5.72,6.34,3.9905,1,5.2352,0,18560,46259,-0.0350,-0.0551,0.0201
 2026-11-10,4.64,4.64,4.64,4.64,4.80,4.69,4.96,5.70,6.33,3.9905,1,5.2207,0,,46226,-0.0408,-0.0522,0.0114
 2026-11-11,4.40,4.40,4.40,4.40,4.75,4.70,4.94,5.67,6.31,3.9905,1,5.2065,0,5720,46341,-0.0640,-0.0546,-0.0094
+2026-11-12,4.43,4.43,4.41,4.41,4.73,4.68,4.92,5.65,6.29,3.9905,1,5.1742,0,4856,46438,-0.0802,-0.0597,-0.0205

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,PLTK,Playtika Holding Corp.,Communication Services,Electronic Gaming & Multimedia,Israel,991127808,2.59,1889460,1422826,3685119.34,-0.001,-0.004,0.033,0.73589,0.29727,-0.09843001,,0.09503999,600400000,2498899968,,1.141,1.072,510300000,565337472,382674853,79412685,0.8527,0.15843001,7674079,7.13,0.0937,,2.9265535,0.35041994,-2.767094,1.022,4.178,4.24,14.0,2.5,2.63636,hold,10,1,1,0,0,2026-11-05,1.023,https://www.playtika.com,2026-11-10T12:08:22.952790+00:00
+0.00,PLTK,Playtika Holding Corp.,Communication Services,Electronic Gaming & Multimedia,Israel,991127808,2.59,1889460,1422826,3685119.34,-0.001,-0.004,0.033,0.73589,0.29727,-0.09843001,,0.09503999,600400000,2498899968,,1.141,1.072,510300000,565337472,382674853,79412685,0.8527,0.15843001,7674079,7.13,0.0937,,2.9265535,0.35041994,-2.767094,1.022,4.178,4.24,14.0,2.5,2.63636,hold,10,1,1,0,0,2026-11-05,1.023,https://www.playtika.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,2.21,2.29,2.21,2.24,,,,,,,0,2.2900,0,2679264,,,,
 2026-09-04,2.21,2.23,2.19,2.20,,,,,,,0,2.2900,0,2122780,,,,
@@ -62,4 +62,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,2.26,2.47,2.23,2.44,2.10,2.10,,,,1.9806,1,1.9162,1,5737416,,,,
 2026-11-09,2.42,2.60,2.42,2.59,2.15,2.12,,,,2.0740,1,1.9402,1,8292403,,,,
 2026-11-10,2.55,2.75,2.48,2.73,2.22,2.15,,,,2.1456,1,1.9798,1,4401852,,,,
-2026-11-11,2.67,2.71,2.54,2.56,2.27,2.17,,,,2.1456,1,2.0414,1,4365056,,0.0741,-0.0301,0.1042
+2026-11-11,2.67,2.71,2.54,2.56,2.27,2.17,,,,2.1456,1,2.0414,1,4443648,,0.0741,-0.0301,0.1042
+2026-11-12,2.58,2.62,2.44,2.49,2.32,2.19,,,,2.1456,1,2.0981,1,2317194,,0.0808,-0.0079,0.0887

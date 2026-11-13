@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2025-06-24 09:30:00-04:00,0.125\n2026-03-23 09:30:00-04:00,0.04\n2026-06-01 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JDZG,JIADE Limited,Consumer Defensive,Education & Training Services,China,1356248,0.2497,13496340,2746687,685847.7439,-0.118,,,0.42786,-6.32358,-2.30039,-0.40515,-0.23188,51837276,14635300,6.846,4.77,2.878,-5624597,-163351168,5137303,5132369,0.00095,0.008590001,688109,0.58,0.134,,,0.055149652,0.04238051,-1.455,0.627,,,,,none,,,,,,,,https://www.sc-kb.cn,2026-11-10T10:40:45.344204+00:00
+0.00,JDZG,JIADE Limited,Consumer Defensive,Education & Training Services,China,1356248,0.2497,13496340,2746687,685847.7439,-0.118,,,0.42786,-6.32358,-2.30039,-0.40515,-0.23188,51837276,14635300,6.846,4.77,2.878,-5624597,-163351168,5137303,5132369,0.00095,0.008590001,688109,0.58,0.134,,,0.055149652,0.04238051,-1.455,0.627,,,,,none,,,,,,,,https://www.sc-kb.cn,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,3.14,3.35,3.00,3.01,,,,,,,0,3.0000,1,58996,,,,
 2026-09-04,3.10,3.27,3.04,3.09,,,,,,,0,3.0000,1,178911,,,,
@@ -62,4 +62,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.34,0.38,0.16,0.21,1.81,4.05,,,,2.0691,0,3.7045,0,5032188,,,,
 2026-11-09,0.34,0.42,0.15,0.25,1.22,3.78,,,,1.9829,0,3.2083,0,50120175,,,,
 2026-11-10,0.20,0.23,0.19,0.21,0.63,3.49,,,,1.7605,0,2.7190,0,1608347,,,,
-2026-11-11,0.20,0.23,0.19,0.21,0.50,3.18,,,,1.6129,0,2.3079,0,736638,,-1.4734,-1.2572,-0.2162
+2026-11-11,0.20,0.23,0.19,0.21,0.50,3.18,,,,1.6129,0,2.3079,0,746277,,-1.4734,-1.2572,-0.2162
+2026-11-12,0.18,0.20,0.18,0.19,0.36,2.88,,,,1.4598,0,1.9627,0,245299,,-1.4525,-1.2962,-0.1562

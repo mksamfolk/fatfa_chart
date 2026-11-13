@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.67,HCHL,Happy City Holdings Limited,Consumer Cyclical,Restaurants,Hong Kong,118183824,3.96,0,0,0.0,-0.442,,,-0.1444,-1.1002201,-1.07498,-3.04703,-0.4032,4450765,5050126,193.396,0.905,0.824,-3585109,-1202654,17844401,6209248,0.33761,0.02308,319756,0.43,0.024,,,23.821438,45.0,23.884,-25.841,,,,,none,,,,,,,,https://gyugyushabushabu.com,2026-11-10T10:12:57.509480+00:00
+95.03,HCHL,Happy City Holdings Limited,Consumer Cyclical,Restaurants,Hong Kong,118183824,3.96,0,0,0.0,-0.442,,,-0.1444,-1.1002201,-1.07498,-3.04703,-0.4032,4450765,5050126,193.396,0.905,0.824,-3585109,-1202654,17844401,6209248,0.33761,0.02308,319756,0.43,0.024,,,23.821438,45.0,23.884,-25.841,,,,,none,,,,,,,,https://gyugyushabushabu.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-24,6.75,7.25,4.50,5.00,,,,,,,0,4.5000,1,14495000,,,,
 2025-06-25,5.22,5.85,5.05,5.38,,,,,,,0,4.5000,1,2666866,,,,
@@ -379,3 +379,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.96,3.96,3.96,3.96,3.96,3.96,3.96,3.55,2.96,3.9600,1,3.9600,1,,,0.0002,0.0003,-0.0001
 2026-11-10,3.96,3.96,3.96,3.96,3.96,3.96,3.96,3.57,2.97,3.9600,1,3.9600,1,,,0.0002,0.0003,-0.0001
 2026-11-11,3.96,3.96,3.96,3.96,3.96,3.96,3.96,3.58,2.99,3.9600,1,3.9600,1,,,0.0002,0.0002,-0.0001
+2026-11-12,3.96,3.96,3.96,3.96,3.96,3.96,3.96,3.60,3.00,3.9600,1,3.9600,1,,,0.0002,0.0002,-0.0001

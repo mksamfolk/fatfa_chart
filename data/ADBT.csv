@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ADBT,Advasa Holdings Inc.,Technology,Software - Application,Japan,,0.1035,5279390,28140890,2912582.1149999998,0.233,0.013,0.016,0.121120006,0.76504,0.052389998,0.085039996,,1698000,590000,2.675,9.745,3.583,-3626000,,,50625609,0.89606005,0.00062,4160530,0.1,,,,,2.3522727,2.662,43.181,,,,,none,,,,,,,,https://adbt.io,2026-11-10T07:37:53.745362+00:00
+0.00,ADBT,Advasa Holdings Inc.,Technology,Software - Application,Japan,,0.1035,5279390,28140890,2912582.1149999998,0.233,0.013,0.016,0.121120006,0.76504,0.052389998,0.085039996,,1698000,590000,2.675,9.745,3.583,-3626000,,,50625609,0.89606005,0.00062,4160530,0.1,,,,,2.3522727,2.662,43.181,,,,,none,,,,,,,,https://adbt.io,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-25,12.00,13.20,3.89,6.26,,,,,,,0,3.8900,1,7023720,,,,
 2026-08-26,5.19,5.62,4.93,5.41,,,,,,,0,3.8900,1,2807790,,,,
@@ -84,4 +84,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,0.10,0.10,0.10,0.10,0.11,0.11,0.43,,,0.1849,0,0.2290,0,211630,4879150,-0.1550,-0.2188,0.0637
 2026-11-09,0.10,0.11,0.10,0.10,0.11,0.11,0.33,,,0.1844,0,0.2151,0,198870,4866271,-0.1446,-0.2039,0.0593
 2026-11-10,0.10,0.10,0.10,0.10,0.11,0.11,0.24,,,0.1715,0,0.2026,0,135740,4846921,-0.1347,-0.1901,0.0553
-2026-11-11,0.10,0.10,0.10,0.10,0.11,0.11,0.17,,,0.1644,0,0.1913,0,209200,4838615,-0.1255,-0.1772,0.0517
+2026-11-11,0.10,0.10,0.10,0.10,0.11,0.11,0.17,,,0.1644,0,0.1913,0,214080,4838713,-0.1255,-0.1772,0.0517
+2026-11-12,0.10,0.10,0.10,0.10,0.10,0.11,0.14,,,0.1579,0,0.1812,0,181530,4719646,-0.1168,-0.1651,0.0483

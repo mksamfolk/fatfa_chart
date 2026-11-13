@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.17,EMIS,Emmis Acquisition Corp.,Financial Services,Shell Companies,United States,163753152,10.38,8460,15271,158512.98,,,,0.0,0.0,0.0,,,708065,0,,11.759,9.801,-601960,,11942500,11632468,0.13628,0.93191004,4199,0.14,0.0004,,,,211.83675,,,,,,,none,,,,,,,,https://www.emmisacquisition.com,2026-11-10T09:28:50.758763+00:00
+58.67,EMIS,Emmis Acquisition Corp.,Financial Services,Shell Companies,United States,163753152,10.38,8460,15271,158512.98,,,,0.0,0.0,0.0,,,708065,0,,11.759,9.801,-601960,,11942500,11632468,0.13628,0.93191004,4199,0.14,0.0004,,,,211.83675,,,,,,,none,,,,,,,,https://www.emmisacquisition.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-22,9.91,9.95,9.90,9.95,,,,,,,0,9.9500,0,830825,,,,
 2025-10-23,9.90,9.94,9.90,9.94,,,,,,,0,9.9500,0,8365504,,,,
@@ -280,3 +280,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.38,10.38,10.38,10.38,10.32,10.30,10.26,10.17,10.14,10.3532,1,10.3000,1,1038,63590,0.0244,0.0190,0.0055
 2026-11-10,10.33,10.33,10.33,10.33,10.33,10.31,10.27,10.17,10.14,10.3691,0,10.3128,1,620833,74985,0.0232,0.0198,0.0034
 2026-11-11,10.33,10.33,10.33,10.33,10.33,10.31,10.27,10.17,10.14,10.3652,0,10.3236,1,,74985,0.0219,0.0202,0.0017
+2026-11-12,10.33,10.33,10.33,10.33,10.33,10.31,10.27,10.18,10.14,10.3617,0,10.3300,1,2066,75026,0.0207,0.0203,0.0004

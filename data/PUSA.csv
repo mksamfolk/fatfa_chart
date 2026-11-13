@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.82,PUSA,Powerus Corporation,Industrials,Aerospace & Defense,United States,256688672,1.55,815350,833450,1291847.5,530.739,,,0.37104,-3.10526,0.0,,,87920416,20000000,41.92,2.803,2.491,-13610937,,165605608,73635,0.47088,0.01474,3806986,2.16,,,-15.499999,47.22209,0.004319317,-12.457,,6.25,7.5,5.0,1.0,strong_buy,2,0,0,0,0,,,https://www.power.us,2026-11-10T12:17:24.409600+00:00
+7.92,PUSA,Powerus Corporation,Industrials,Aerospace & Defense,United States,256688672,1.55,815350,833450,1291847.5,530.739,,,0.37104,-3.10526,0.0,,,87920416,20000000,41.92,2.803,2.491,-13610937,,165605608,73635,0.47088,0.01474,3806986,2.16,,,-15.499999,47.22209,0.004319317,-12.457,,6.25,7.5,5.0,1.0,strong_buy,2,0,0,0,0,,,https://www.power.us,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-12,4.37,4.48,3.72,3.88,,,,,,,0,4.4800,0,9101704,,,,
 2025-02-13,3.50,4.21,3.02,3.47,,,,,,,0,4.4800,0,6615555,,,,
@@ -454,3 +454,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.53,1.57,1.39,1.55,1.66,1.86,2.81,3.59,3.71,2.0596,0,1.6692,0,1324010,2178517,-0.3627,-0.3774,0.0146
 2026-11-10,1.53,1.55,1.31,1.35,1.61,1.81,2.77,3.57,3.70,2.0236,0,1.6054,0,1703565,2177583,-0.3654,-0.3750,0.0096
 2026-11-11,1.39,1.52,1.29,1.33,1.56,1.77,2.73,3.54,3.69,2.0123,0,1.5700,0,1034607,2177978,-0.3649,-0.3729,0.0081
+2026-11-12,1.31,1.41,1.27,1.39,1.52,1.73,2.68,3.52,3.68,1.9263,0,1.5500,0,759635,2173573,-0.3556,-0.3695,0.0139

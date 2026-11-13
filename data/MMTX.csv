@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MMTX,Miluna Acquisition Corp,Financial Services,Shell Companies,Taiwan,90752864,10.28,51980,31193,320664.04,,,,0.0,0.0,0.0,,,136583,0,,14.818,13.636,-240206,,8828100,4384123,0.19257,0.67095,761,0.03,0.0001,,,,-137.06665,,,,,,,none,,,,,,,,,2026-11-10T11:18:10.943943+00:00
+0.00,MMTX,Miluna Acquisition Corp,Financial Services,Shell Companies,Taiwan,90752864,10.28,51980,31193,320664.04,,,,0.0,0.0,0.0,,,136583,0,,14.818,13.636,-240206,,8828100,4384123,0.19257,0.67095,761,0.03,0.0001,,,,-137.06665,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-15,9.90,9.90,9.88,9.89,,,,,,,0,9.9000,0,1550752,,,,
 2025-12-16,9.88,9.88,9.88,9.88,,,,,,,0,9.9000,0,4940,,,,
@@ -243,3 +243,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.28,10.28,10.28,10.28,10.28,10.26,10.21,10.12,10.08,10.2622,1,10.2587,1,,333192,0.0226,0.0234,-0.0008
 2026-11-10,10.28,10.28,10.28,10.28,10.28,10.26,10.21,10.12,10.08,10.2640,1,10.2617,1,,332685,0.0218,0.0231,-0.0013
 2026-11-11,10.28,10.28,10.28,10.28,10.28,10.26,10.21,10.12,10.08,10.2656,1,10.2642,1,,332402,0.0209,0.0227,-0.0018
+2026-11-12,10.28,10.28,10.28,10.28,10.28,10.26,10.22,10.12,10.09,10.2670,1,10.2664,1,,326936,0.0200,0.0221,-0.0022

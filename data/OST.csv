@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-12-31 09:30:00-05:00,0.1\n2025-08-05 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-52.76,OST,Ostin Technology Group Co. Ltd.,Technology,Electronic Components,China,10108845,1.695,0,0,0.0,-0.16,,,0.057589997,-0.22433001,-0.26392,-1.3404201,-0.09673,1796105,33599796,394.682,0.37,0.174,,,5963920,5029857,0.1579,0.00978,176465,2.65,0.0296,,,0.2781918,4.0261283,1.32,-7.329,,,,,none,,,,,,,0.554,https://ostin-technology.com,2026-11-10T11:55:05.358379+00:00
+54.26,OST,Ostin Technology Group Co. Ltd.,Technology,Electronic Components,China,10108845,1.695,0,0,0.0,-0.16,,,0.057589997,-0.22433001,-0.26392,-1.3404201,-0.09673,1796105,33599796,394.682,0.37,0.174,,,5963920,5029857,0.1579,0.00978,176465,2.65,0.0296,,,0.2781918,4.0261283,1.32,-7.329,,,,,none,,,,,,,0.554,https://ostin-technology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-27,2525.00,10000.00,2515.00,9915.00,,,,,,,0,2515.0000,1,85130190,,,,
 2022-04-28,9750.00,11947.50,975.00,1150.00,,,,,,,0,11947.5000,0,80658700,,,,
@@ -1170,3 +1170,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.6950,0,1.6950,1,,,-0.0000,-0.0000,0.0000
 2026-11-10,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.6950,0,1.6950,1,,,-0.0000,-0.0000,0.0000
 2026-11-11,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.6950,0,1.6950,1,,,-0.0000,-0.0000,0.0000
+2026-11-12,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.70,1.6950,0,1.6950,1,,,-0.0000,-0.0000,0.0000

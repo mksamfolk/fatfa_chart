@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-10-29 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ENHA,Enhanced Group Inc.,Consumer Defensive,Packaged Foods,United States,2310966016,8.48,126703,101437,860185.76,,,,-2.27494,-2.88396,0.0,,,19606246,0,,0.887,0.83,-60842404,,13681637,5735005,0.54799,0.40247002,216323,2.68,0.027,,-7.331391,130.54141,35.78059,5.07,-1.036,25.66667,30.0,17.0,1.0,strong_buy,3,0,0,0,0,2026-11-12,,https://www.enhanced.com,2026-11-10T09:29:27.081884+00:00
+0.00,ENHA,Enhanced Group Inc.,Consumer Defensive,Packaged Foods,United States,2310966016,8.48,126703,101437,860185.76,,,,-2.27494,-2.88396,0.0,,,19606246,0,,0.887,0.83,-60842404,,13681637,5735005,0.54799,0.40247002,216323,2.68,0.027,,-7.331391,130.54141,35.78059,5.07,-1.036,25.66667,30.0,17.0,1.0,strong_buy,3,0,0,0,0,2026-11-12,,https://www.enhanced.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-08,7.89,10.17,6.75,9.70,,,,,,,0,10.1700,0,8530180,,,,
 2026-05-11,9.00,9.00,6.49,7.31,,,,,,,0,10.1700,0,1932033,,,,
@@ -144,3 +144,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,8.25,8.61,7.92,8.48,9.13,6.64,3.66,,,11.7806,0,6.3000,1,760656,1589573,1.6011,1.7522,-0.1511
 2026-11-10,8.39,8.43,7.60,7.75,8.83,6.97,3.77,,,11.7806,0,6.7674,1,547925,1577056,1.4659,1.6950,-0.2291
 2026-11-11,7.83,8.53,7.79,8.05,8.47,7.31,3.89,,,11.7806,0,7.2068,1,615020,1545230,1.3672,1.6294,-0.2622
+2026-11-12,8.10,8.49,7.00,7.20,7.90,7.61,3.99,,,11.7806,0,14.0900,0,505440,1525126,1.2064,1.5448,-0.3384

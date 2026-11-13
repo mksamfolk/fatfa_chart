@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-03-16 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.13,SKYQ,,Energy,Oil & Gas Integrated,United States,14909000,1.7,637380,1896643,3224293.1,,,,-2.05952,-5.58117,0.0,-1.3278999,-0.22063999,7226564,12138334,103.199,0.743,0.515,-7957075,-4390395,8770000,8165939,0.07753,0.02779,647304,0.32,0.0758,,,9.219973,1.2696042,12.324,-2.523,,,,,none,,,,,,,2.237,https://skyquarry.com,2026-11-10T12:49:50.962986+00:00
+7.30,SKYQ,,Energy,Oil & Gas Integrated,United States,14909000,1.7,637380,1896643,3224293.1,,,,-2.05952,-5.58117,0.0,-1.3278999,-0.22063999,7226564,12138334,103.199,0.743,0.515,-7957075,-4390395,8770000,8165939,0.07753,0.02779,647304,0.32,0.0758,,,9.219973,1.2696042,12.324,-2.523,,,,,none,,,,,,,2.237,https://skyquarry.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-10,43.92,43.92,32.24,32.88,,,,,,,0,43.9200,0,1103551,,,,
 2024-10-11,33.60,33.60,27.20,28.64,,,,,,,0,43.9200,0,730692,,,,
@@ -538,3 +538,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.04,2.22,1.68,1.70,2.05,2.16,2.52,3.53,3.41,2.5316,0,1.8000,1,3610630,4217279,-0.2023,-0.1829,-0.0195
 2026-11-10,1.70,1.70,1.13,1.18,1.95,2.11,2.47,3.51,3.40,2.2404,0,2.2200,0,1915140,4137237,-0.2557,-0.1974,-0.0582
 2026-11-11,1.18,1.33,1.15,1.18,1.85,2.05,2.42,3.49,3.39,2.0413,0,2.2200,0,1487272,4082488,-0.2945,-0.2168,-0.0777
+2026-11-12,1.15,1.27,1.10,1.25,1.76,1.99,2.38,3.48,3.37,1.9588,0,2.1981,0,1165000,4025444,-0.3161,-0.2367,-0.0794

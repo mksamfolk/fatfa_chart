@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,214957840,10.05,13910,35014,351890.7,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02438,0.06741,5437,0.68,0.00059999997,,,,-55.219784,,,,,,,none,,,,,,,,,2026-11-10T07:41:17.930544+00:00
+0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,214957840,10.05,13910,35014,351890.7,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02438,0.06741,5437,0.68,0.00059999997,,,,-55.219784,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-01,9.88,9.88,9.85,9.86,,,,,,,0,9.8500,1,4199374,,,,
 2026-07-02,9.86,9.87,9.86,9.87,,,,,,,0,9.8500,1,1213023,,,,
@@ -108,3 +108,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.05,10.05,10.05,10.05,10.02,10.02,9.98,,,10.0309,1,9.9889,1,2214015,475350,0.0145,0.0133,0.0012
 2026-11-10,10.06,10.06,10.06,10.06,10.03,10.02,9.99,,,10.0398,1,9.9938,1,100600,477242,0.0164,0.0139,0.0024
 2026-11-11,10.06,10.06,10.06,10.06,10.03,10.02,9.99,,,10.0418,1,10.0004,1,402400,484158,0.0176,0.0147,0.0029
+2026-11-12,10.06,10.06,10.06,10.06,10.04,10.03,9.99,,,10.0436,1,10.0064,1,,481477,0.0184,0.0154,0.0030

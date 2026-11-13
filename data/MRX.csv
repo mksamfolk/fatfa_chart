@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-94.15,MRX,Marex Group Limited,Financial Services,Capital Markets,United Kingdom,4921169408,67.91,845340,745187,50605649.169999994,0.431,0.626,0.776,0.71513003,0.17657,0.12771,0.28444,0.0114400005,15135500288,19083399168,970.425,1.052,0.685,,,72466052,66310786,0.06722,0.83583,2424442,3.38,0.036,12.302537,9.481525,1.3017933,3.3507674,2.346,,82.375,101.0,36.0,1.55556,buy,8,3,4,0,0,2026-11-05,0.069,https://www.marex.com,2026-11-10T11:22:27.290794+00:00
+94.14,MRX,Marex Group Limited,Financial Services,Capital Markets,United Kingdom,4921169408,67.91,845340,745187,50605649.169999994,0.431,0.626,0.776,0.71513003,0.17657,0.12771,0.28444,0.0114400005,15135500288,19083399168,970.425,1.052,0.685,,,72466052,66310786,0.06722,0.83583,2424442,3.38,0.036,12.302537,9.481525,1.3017933,3.3507674,2.346,,82.375,101.0,36.0,1.55556,buy,8,3,4,0,0,2026-11-05,0.069,https://www.marex.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-25,18.81,19.05,18.14,18.32,,,,,,,0,19.0531,0,138040207,,,,
 2024-04-26,18.38,18.61,18.09,18.33,,,,,,,0,19.0531,0,26353000,,,,
@@ -654,3 +654,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,68.02,70.00,67.49,67.91,66.79,68.65,70.54,60.64,55.29,72.9425,0,62.9358,1,76813005,52999816,-1.1773,-1.0512,-0.1262
 2026-11-10,67.91,69.36,66.77,69.26,66.77,68.51,70.72,60.85,55.44,72.9425,0,63.0880,1,59757530,53434216,-0.9599,-1.0329,0.0730
 2026-11-11,70.50,74.17,69.55,73.93,67.53,68.74,71.00,61.10,55.62,60.9481,1,63.2373,1,52386798,53670860,-0.4061,-0.9076,0.5015
+2026-11-12,72.65,73.56,71.21,71.68,68.20,68.71,71.02,61.35,55.78,61.7487,1,63.6745,1,31904768,52397407,-0.1470,-0.7555,0.6084
+2026-11-13,71.40,72.51,70.36,70.81,68.83,68.72,70.99,61.58,55.94,61.7487,1,64.0943,1,5429357,50838531,-0.0118,-0.6067,0.5949

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2024-07-01 09:30:00-04:00,0.03333333333333333\n2025-08-21 09:30:00-04:00,0.15\n2026-10-26 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.22,AZTR,Azitra Inc.,Healthcare,Biotechnology,United States,3902880,0.644,16214250,2651075,1707292.3,,,,0.0,0.0,0.0,-2.56667,-1.19912,6727810,410053,5.591,4.863,4.49,-11105767,-7242045,6060374,5125258,0.07593,0.32127,11229,0.15,0.002,,-1.2384616,,0.5322314,,0.198,6.5,10.0,3.0,2.0,buy,2,1,1,0,0,,-0.895,https://azitrainc.com,2026-11-10T08:11:16.216767+00:00
+98.54,AZTR,Azitra Inc.,Healthcare,Biotechnology,United States,3902880,0.644,16214250,2651075,1707292.3,,,,0.0,0.0,0.0,-2.56667,-1.19912,6727810,410053,5.591,4.863,4.49,-11105767,-7242045,6060374,5125258,0.07593,0.32127,11229,0.15,0.002,,-1.2384616,,0.5322314,,0.198,6.5,10.0,3.0,2.0,buy,2,1,1,0,0,,-0.895,https://azitrainc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-06-16,852.00,1036.00,852.00,988.00,,,,,,,0,852.0000,1,4683120,,,,
 2023-06-20,1000.00,1036.00,894.00,894.00,,,,,,,0,852.0000,1,1392852,,,,
@@ -869,3 +869,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.72,0.72,0.64,0.64,0.82,0.62,0.34,0.24,0.24,1.1753,0,2.1300,0,122424,5002225,0.1433,0.1673,-0.0241
 2026-11-10,0.67,0.69,0.60,0.60,0.77,0.64,0.35,0.25,0.24,1.1142,0,2.1003,0,116220,5001761,0.1223,0.1583,-0.0360
 2026-11-11,0.60,0.62,0.58,0.58,0.73,0.67,0.36,0.25,0.24,1.0345,0,2.0403,0,40657,4996583,0.1033,0.1473,-0.0440
+2026-11-12,0.57,0.70,0.56,0.67,0.73,0.70,0.37,0.25,0.24,1.0345,0,1.9530,0,145240,4995946,0.0940,0.1367,-0.0427

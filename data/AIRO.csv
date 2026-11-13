@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.64,AIRO,AIRO Group Holdings Inc.,Industrials,Aerospace & Defense,United States,178922048,5.67,372470,452710,2566865.7,0.759,,,0.58607,0.0383,-0.23864001,-0.03636,-0.017860001,25850000,9842000,1.367,2.865,2.189,-50401000,-56361684,31555917,17905458,0.32582,0.37416,3465661,8.61,0.14220001,,-4.6285715,1.6777664,0.24844448,1.528,-17.554,15.66667,20.0,11.0,1.5,strong_buy,3,0,0,0,0,2026-11-12,,https://www.theairogroup.com,2026-11-10T07:46:05.305192+00:00
+21.52,AIRO,AIRO Group Holdings Inc.,Industrials,Aerospace & Defense,United States,178922048,5.67,372470,452710,2566865.7,0.759,,,0.58607,0.0383,-0.23864001,-0.03636,-0.017860001,25850000,9842000,1.367,2.865,2.189,-50401000,-56361684,31555917,17905458,0.32582,0.37416,3465661,8.61,0.14220001,,-4.6285715,1.6777664,0.24844448,1.528,-17.554,15.66667,20.0,11.0,1.5,strong_buy,3,0,0,0,0,2026-11-12,,https://www.theairogroup.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-13,12.90,39.07,12.90,24.00,,,,,,,0,12.9000,1,353121600,,,,
 2025-06-16,34.98,37.92,28.60,31.00,,,,,,,0,12.9000,1,368304800,,,,
@@ -370,3 +370,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.31,5.75,5.24,5.67,5.25,5.21,6.72,7.42,8.22,5.8394,0,4.6350,1,1639197,3433726,-0.3259,-0.4512,0.1253
 2026-11-10,5.48,5.61,5.41,5.60,5.31,5.21,6.66,7.38,8.20,5.8394,0,4.6573,1,1303120,3392319,-0.2777,-0.4165,0.1388
 2026-11-11,5.72,5.79,5.45,5.46,5.34,5.21,6.60,7.35,8.18,5.8394,0,4.6792,1,2663934,3414963,-0.2479,-0.3828,0.1349
+2026-11-12,5.88,6.04,5.48,5.58,5.36,5.21,6.54,7.32,8.15,5.8394,0,4.7236,1,2656080,3408349,-0.2122,-0.3487,0.1365

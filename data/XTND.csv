@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XTND,Xtend AI Robotics Inc.,Technology,Computer Hardware,United States,286501728,1.15,4334290,2725602,3134442.3,2.344,,,0.22467,-1.94367,-1.3768201,,,55214000,3502000,8.82,5.476,4.746,-33135000,,249131959,244381013,0.32723,0.14746,1487552,1.37,,,Infinity,12.065263,-0.20154224,15.596,-14.375,9.5,10.0,9.0,,none,2,0,0,0,0,,,https://www.xtend.me,2026-11-10T14:01:16.370154+00:00
+0.00,XTND,Xtend AI Robotics Inc.,Technology,Computer Hardware,United States,286501728,1.15,4334290,2725602,3134442.3,2.344,,,0.22467,-1.94367,-1.3768201,,,55214000,3502000,8.82,5.476,4.746,-33135000,,249131959,244381013,0.32723,0.14746,1487552,1.37,,,Infinity,12.065263,-0.20154224,15.596,-14.375,9.5,10.0,9.0,,none,2,0,0,0,0,,,https://www.xtend.me,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-04,7.15,7.15,4.98,6.19,,,,,,,0,4.9800,1,22904238,,,,
 2026-09-08,6.20,6.20,5.25,5.51,,,,,,,0,4.9800,1,11196871,,,,
@@ -77,3 +77,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.06,1.15,1.01,1.15,1.38,1.70,,,,1.9869,0,2.2793,0,2159930,,-0.6174,-0.6542,0.0368
 2026-11-10,1.13,1.21,1.00,1.20,1.32,1.65,,,,1.9869,0,2.1313,0,2533680,,-0.5902,-0.6414,0.0512
 2026-11-11,1.18,1.35,1.15,1.31,1.28,1.60,,,,1.9869,0,1.9982,0,2332062,,-0.5535,-0.6238,0.0704
+2026-11-12,1.26,1.46,1.25,1.44,1.25,1.57,,,,1.9869,0,1.8784,0,4237200,,-0.5080,-0.6007,0.0927

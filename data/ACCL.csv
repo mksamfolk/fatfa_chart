@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.58,ACCL,Acco Group Holdings Limited,Industrials,Consulting Services,Hong Kong,33898256,2.43,2590,76728,186449.04,0.113,-0.625,-0.582,0.42384,0.06313,0.05538,0.07021,0.02465,5705121,172506,2.888,4.206,3.427,572354,-1559158,11949900,11949903,0.75418997,0.0045,19728,0.77,0.021,121.50001,,6.553537,5.6775703,5.484,115.578,,,,,none,,,,,,,,https://www.accoladegroup.com.hk,2026-11-10T07:34:40.923514+00:00
+81.33,ACCL,Acco Group Holdings Limited,Industrials,Consulting Services,Hong Kong,33898256,2.43,2590,76728,186449.04,0.113,-0.625,-0.582,0.42384,0.06313,0.05538,0.07021,0.02465,5705121,172506,2.888,4.206,3.427,572354,-1559158,11949900,11949903,0.75418997,0.0045,19728,0.77,0.021,121.50001,,6.553537,5.6775703,5.484,115.578,,,,,none,,,,,,,,https://www.accoladegroup.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-17,4.05,4.45,4.00,4.05,,,,,,,0,4.4500,0,10455885,,,,
 2025-10-20,3.08,3.18,2.62,2.91,,,,,,,0,4.4500,0,756309,,,,
@@ -283,3 +283,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,2.50,2.50,2.43,2.43,2.53,2.61,2.73,2.01,1.96,2.8190,0,2.2614,1,9720,263450,-0.0561,-0.0378,-0.0183
 2026-11-10,2.47,2.47,2.27,2.36,2.51,2.60,2.72,2.01,1.96,2.7486,0,2.8700,0,16520,262391,-0.0666,-0.0436,-0.0231
 2026-11-11,2.42,2.42,2.38,2.38,2.49,2.58,2.71,2.02,1.96,2.7486,0,2.8580,0,5712,262035,-0.0725,-0.0494,-0.0232
+2026-11-12,2.40,2.40,2.38,2.40,2.47,2.56,2.70,2.03,1.95,2.7188,0,2.8462,0,2640,261059,-0.0747,-0.0545,-0.0203

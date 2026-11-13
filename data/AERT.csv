@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2026-06-12 09:30:00-04:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.46,AERT,Aeries Technology Inc,Industrials,Consulting Services,Singapore,27629940,5.265,11610,18137,95491.305,0.43,0.053,0.179,0.25978002,0.1533,0.03687,,0.11026,6069000,11170000,,0.849,0.673,10227000,6491625,5247852,662384,0.86673,0.046609998,3311,0.18,0.0033000002,12.244185,,0.36069477,-10.61492,0.439,4.253,,,,,none,,,,,,,0.683,https://aeriestechnology.com,2026-11-10T07:41:03.184589+00:00
+30.85,AERT,Aeries Technology Inc,Industrials,Consulting Services,Singapore,27629940,5.265,11610,18137,95491.305,0.43,0.053,0.179,0.25978002,0.1533,0.03687,,0.11026,6069000,11170000,,0.849,0.673,10227000,6491625,5247852,662384,0.86673,0.046609998,3311,0.18,0.0033000002,12.244185,,0.36069477,-10.61492,0.439,4.253,,,,,none,,,,,,,0.683,https://aeriestechnology.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-17,77.60,77.92,77.60,77.84,,,,,,,0,77.6000,1,409672,,,,
 2021-12-20,78.08,78.08,78.08,78.08,,,,,,,0,77.6000,1,11712,,,,
@@ -1244,3 +1244,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,5.59,5.79,5.15,5.26,5.84,5.99,6.56,5.85,5.31,6.8925,0,6.2842,0,148473,128875,-0.2920,-0.2344,-0.0576
 2026-11-10,5.08,5.52,5.08,5.33,5.76,5.94,6.53,5.87,5.31,6.7123,0,6.1708,0,38376,123359,-0.3080,-0.2491,-0.0589
 2026-11-11,5.39,5.60,5.39,5.58,5.70,5.90,6.50,5.89,5.32,6.7123,0,6.0399,0,46872,121087,-0.2971,-0.2587,-0.0384
+2026-11-12,5.32,5.43,3.63,4.09,5.49,5.78,6.44,5.90,5.32,6.3308,0,5.9247,0,225359,123481,-0.4040,-0.2878,-0.1162

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LFTO,Liftoff Mobile Inc.,Communication Services,Advertising Agencies,United States,3168192512,18.71,787940,838575,15689738.25,0.354,,,0.8624,0.35266,0.052410003,,0.089700006,305398016,1410699008,,1.377,1.336,236934000,179981632,169331527,40150198,0.11901,0.78661,3261590,3.45,0.0533,74.84,13.472547,3.9660013,-566.96967,5.35,12.299,27.375,42.0,18.0,1.72222,buy,16,3,3,0,0,2026-11-12,,https://www.liftoff.ai,2026-11-10T10:56:05.402540+00:00
+0.00,LFTO,Liftoff Mobile Inc.,Communication Services,Advertising Agencies,United States,3168192512,18.71,787940,838575,15689738.25,0.354,,,0.8624,0.35266,0.052410003,,0.089700006,305398016,1410699008,,1.377,1.336,236934000,179981632,169331527,40150198,0.11901,0.78661,3261590,3.45,0.0533,74.84,13.472547,3.9660013,-566.96967,5.35,12.299,27.375,42.0,18.0,1.72222,buy,16,3,3,0,0,2026-11-12,,https://www.liftoff.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,25.10,28.80,24.50,28.45,,,,,,,0,24.5000,1,331769684,,,,
 2026-06-05,27.51,30.10,25.99,26.88,,,,,,,0,24.5000,1,89394813,,,,
@@ -141,3 +141,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,18.32,18.97,17.76,18.71,16.23,16.36,16.72,,,14.8402,1,14.2065,1,18446188,13419486,0.1002,-0.2318,0.3320
 2026-11-10,18.67,18.67,17.84,18.24,16.35,16.45,16.71,,,14.8402,1,14.4923,1,9213024,13442770,0.2234,-0.1407,0.3641
 2026-11-11,18.46,18.89,18.00,18.55,16.59,16.58,16.71,,,15.0880,1,14.7610,1,11493580,13367305,0.3421,-0.0442,0.3863
+2026-11-12,19.39,19.82,18.48,18.71,16.86,16.67,16.71,,,15.7267,1,15.0135,1,22296706,13556264,0.4439,0.0534,0.3905

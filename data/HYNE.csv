@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HYNE,Hoyne Bancorp Inc.,Financial Services,Banks - Regional,United States,136148752,18.24,21090,12059,219956.15999999997,0.361,,-0.186,0.0,0.040949997,0.015,0.00206,0.00055,26246000,3406174,,,,-2777906,,7464296,7213967,0.11181,0.24248,238929,33.6,0.033099998,364.8,,7.926919,0.9164908,7.269,,,,,,none,,,,,,,,https://www.hoyne.com,2026-11-10T10:23:39.032343+00:00
+0.00,HYNE,Hoyne Bancorp Inc.,Financial Services,Banks - Regional,United States,136148752,18.24,21090,12059,219956.15999999997,0.361,,-0.186,0.0,0.040949997,0.015,0.00206,0.00055,26246000,3406174,,,,-2777906,,7464296,7213967,0.11181,0.24248,238929,33.6,0.033099998,364.8,,7.926919,0.9164908,7.269,,,,,,none,,,,,,,,https://www.hoyne.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-04,13.35,14.00,13.35,14.00,,,,,,,0,13.3500,1,23819600,,,,
 2025-12-05,13.75,14.00,13.65,13.80,,,,,,,0,13.3500,1,3124320,,,,
@@ -250,3 +250,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,18.03,18.49,18.03,18.24,18.67,17.94,17.10,16.32,15.84,17.8260,1,19.2271,0,228000,241048,0.4716,0.4986,-0.0269
 2026-11-10,18.16,18.91,18.16,18.82,18.69,18.04,17.15,16.35,15.86,17.8260,1,19.1555,0,461090,244888,0.4752,0.4939,-0.0187
 2026-11-11,18.85,19.05,18.60,18.85,18.70,18.14,17.21,16.38,15.88,17.8260,1,19.0883,0,341185,249890,0.4749,0.4901,-0.0152
+2026-11-12,18.84,18.89,18.54,18.84,18.69,18.24,17.26,16.41,15.91,17.8260,1,19.0500,0,314628,233892,0.4685,0.4858,-0.0173

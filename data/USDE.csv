@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,USDE,StablecoinX Inc.,Financial Services,Capital Markets,United States,146098608,6.08,1051910,4973687,30240016.96,,,,0.0,-2.63049,0.0,,,18856144,6998121,3.266,1.951,0.224,0,,24029375,23329399,0.104040004,0.2123,2533054,0.58,,,,,0.6818437,,,,,,,none,,,,,,,0.929,https://stablecoinx.com,2026-11-10T13:35:03.203044+00:00
+0.00,USDE,StablecoinX Inc.,Financial Services,Capital Markets,United States,146098608,6.08,1051910,4973687,30240016.96,,,,0.0,-2.63049,0.0,,,18856144,6998121,3.266,1.951,0.224,0,,24029375,23329399,0.104040004,0.2123,2533054,0.58,,,,,0.6818437,,,,,,,none,,,,,,,0.929,https://stablecoinx.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-26,7.46,8.20,3.25,3.70,,,,,,,0,8.2000,0,1613200,,,,
 2026-06-29,3.47,3.71,2.86,3.33,,,,,,,0,8.2000,0,1139859,,,,
@@ -121,3 +121,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,6.19,6.24,5.75,6.08,8.07,9.53,10.44,,,9.7303,0,8.3680,0,5068896,35892443,-1.2089,-0.7062,-0.5027
 2026-11-10,5.91,6.19,5.46,5.92,7.64,9.21,10.43,,,9.4058,0,7.8444,0,5790352,34259347,-1.3000,-0.8250,-0.4751
 2026-11-11,6.17,6.61,6.07,6.57,7.35,8.95,10.44,,,9.4058,0,7.3675,0,6584454,33868361,-1.3048,-0.9209,-0.3838
+2026-11-12,5.97,6.33,5.77,6.13,6.98,8.68,10.45,,,9.3767,0,6.9860,0,4123651,33753003,-1.3287,-1.0025,-0.3262

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n2003-12-09 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HGBL,Heritage Global Inc.,Financial Services,Capital Markets,United States,40710712,1.175,50500,158676,186444.30000000002,-0.143,,,0.64827,-0.22316,-0.29634002,-0.24290001,-0.00123,13179000,5348000,10.302,1.694,1.155,579000,946375,34647415,25851071,0.12202,0.36973998,59456,0.81,0.002,,9.791666,0.84453297,0.6094398,0.743,72.499,2.625,3.5,2.0,1.25,strong_buy,4,0,0,0,0,2026-11-05,0.451,https://hginc.com,2026-11-10T10:14:43.333032+00:00
+0.00,HGBL,Heritage Global Inc.,Financial Services,Capital Markets,United States,40710712,1.175,50500,158676,186444.30000000002,-0.143,,,0.64827,-0.22316,-0.29634002,-0.24290001,-0.00123,13179000,5348000,10.302,1.694,1.155,579000,946375,34647415,25851071,0.12202,0.36973998,59456,0.81,0.002,,9.791666,0.84453297,0.6094398,0.743,72.499,2.625,3.5,2.0,1.25,strong_buy,4,0,0,0,0,2026-11-05,0.451,https://hginc.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-03,1.36,1.37,1.30,1.30,,,,,,,0,1.3700,0,187720,,,,
 2026-09-04,1.30,1.36,1.30,1.36,,,,,,,0,1.3700,0,69496,,,,
@@ -63,3 +63,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,1.27,1.27,1.15,1.18,1.26,1.26,,,,1.3458,0,1.3004,0,405920,,,,
 2026-11-10,1.18,1.24,1.18,1.19,1.25,1.26,,,,1.3458,0,1.2944,0,67116,,,,
 2026-11-11,1.20,1.20,1.16,1.18,1.23,1.25,,,,1.3227,0,1.2886,0,32568,,-0.0294,-0.0216,-0.0078
+2026-11-12,1.18,1.18,1.12,1.16,1.22,1.25,,,,1.2964,0,1.2831,0,62988,,-0.0330,-0.0239,-0.0092

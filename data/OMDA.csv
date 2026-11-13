@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-37.35,OMDA,Omada Health Inc.,Healthcare,Health Information Services,United States,936149248,15.09,1425550,1284698,19386092.82,0.342,,,0.7069,0.052789997,0.042140003,0.05722,0.0135,243151008,0,,4.18,3.876,28692000,16940250,62037725,51851751,0.021440001,0.84384,8346222,5.58,0.1372,37.725,22.714272,2.8109634,3.424875,2.081,52.957,26.91667,35.0,19.0,1.75,buy,12,0,0,0,4,2026-11-05,,https://www.omadahealth.com,2026-11-10T11:50:09.697993+00:00
+35.23,OMDA,Omada Health Inc.,Healthcare,Health Information Services,United States,936149248,15.09,1425550,1284698,19386092.82,0.342,,,0.7069,0.052789997,0.042140003,0.05722,0.0135,243151008,0,,4.18,3.876,28692000,16940250,62037725,51851751,0.021440001,0.84384,8346222,5.58,0.1372,37.725,22.714272,2.8109634,3.424875,2.081,52.957,26.91667,35.0,19.0,1.75,buy,12,0,0,0,4,2026-11-05,,https://www.omadahealth.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-06,23.00,28.40,22.30,23.00,,,,,,,0,28.4000,0,259522800,,,,
 2025-06-09,24.95,24.99,21.07,22.60,,,,,,,0,28.4000,0,67350261,,,,
@@ -390,3 +390,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,15.26,15.41,14.65,15.09,18.16,18.43,19.97,19.27,17.73,18.9726,0,19.8068,0,31430961,26641949,-0.9001,-0.5967,-0.3034
 2026-11-10,15.09,15.17,14.32,15.06,17.76,18.27,19.78,19.29,17.72,18.5511,0,19.6005,0,33488923,26622020,-1.0589,-0.6891,-0.3698
 2026-11-11,15.10,15.63,15.10,15.24,17.37,18.12,19.63,19.31,17.72,18.5511,0,19.2840,0,18443448,26337847,-1.1570,-0.7827,-0.3743
+2026-11-12,15.06,15.17,14.63,14.70,16.87,17.92,19.46,19.34,17.72,18.3184,0,18.9865,0,12946290,26025212,-1.2637,-0.8789,-0.3848

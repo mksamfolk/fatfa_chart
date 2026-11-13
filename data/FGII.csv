@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FGII,FG Imperii Acquisition Corp.,Financial Services,Shell Companies,United States,291715200,10.08,278450,77701,783226.08,,,,0.0,0.97051,0.0,,,850213,0,,0.937,0.212,-491276,,23252500,18004153,0.01071,0.72720003,1176,0.02,0.0001,,,,296.47058,,,,,,,none,,,,,,,,https://fgimperii.com,2026-11-10T09:43:21.056733+00:00
+0.00,FGII,FG Imperii Acquisition Corp.,Financial Services,Shell Companies,United States,291715200,10.08,278450,77701,783226.08,,,,0.0,0.97051,0.0,,,850213,0,,0.937,0.212,-491276,,23252500,18004153,0.01071,0.72720003,1176,0.02,0.0001,,,,296.47058,,,,,,,none,,,,,,,,https://fgimperii.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-10,9.90,10.04,9.89,9.89,,,,,,,0,10.0400,0,283843,,,,
 2026-03-11,9.89,9.89,9.88,9.88,,,,,,,0,10.0400,0,4940,,,,
@@ -186,3 +186,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.07,10.09,10.07,10.08,10.06,10.05,10.02,9.95,,10.0558,1,10.0992,0,305424,841788,0.0168,0.0138,0.0031
 2026-11-10,10.08,10.09,10.07,10.09,10.07,10.05,10.02,9.96,,10.0558,1,10.0984,0,686120,855511,0.0178,0.0146,0.0032
 2026-11-11,10.09,10.10,10.09,10.10,10.08,10.05,10.03,9.96,,10.0561,1,10.0600,1,3776390,931038,0.0191,0.0155,0.0036
+2026-11-12,10.09,10.11,10.09,10.10,10.08,10.06,10.03,9.96,,10.0590,1,10.0608,1,805980,947118,0.0200,0.0164,0.0036

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-65.48,FLY,Firefly Aerospace Inc.,Industrials,Aerospace & Defense,United States,4069606656,24.31,4065300,3165140,76944553.39999999,6.569,,,0.22920999,-0.80893,-1.29058,-0.57954,-0.18066,635264000,53397000,4.366,2.727,2.434,-264415008,-166670368,167404645,107066989,0.13774,0.62231,13480890,3.78,0.133,,-13.519675,14.1791725,3.303887,12.152,-13.457,35.72727,45.0,25.0,1.81818,buy,11,0,0,1,1,2026-11-10,,https://www.fireflyspace.com,2026-11-10T09:46:51.228501+00:00
+62.53,FLY,Firefly Aerospace Inc.,Industrials,Aerospace & Defense,United States,4069606656,24.31,4065300,3165140,76944553.39999999,6.569,,,0.22920999,-0.80893,-1.29058,-0.57954,-0.18066,635264000,53397000,4.366,2.727,2.434,-264415008,-166670368,167404645,107066989,0.13774,0.62231,13480890,3.78,0.133,,-13.519675,14.1791725,3.303887,12.152,-13.457,35.72727,45.0,25.0,1.81818,buy,11,0,0,1,1,2026-11-10,,https://www.fireflyspace.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-07,70.00,73.80,60.03,60.35,,,,,,,0,73.8000,0,1844090763,,,,
 2025-08-08,54.85,57.07,49.11,50.17,,,,,,,0,73.8000,0,430267938,,,,
@@ -347,4 +347,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,17.10,20.88,16.31,20.76,18.22,17.89,20.31,27.95,26.86,12.6921,1,14.4450,1,277449099,66114472,-0.7778,-0.9537,0.1759
 2026-11-09,21.29,24.32,20.77,24.31,18.83,18.14,20.37,27.88,26.84,16.1644,1,14.4450,1,211504288,69110712,-0.2228,-0.8075,0.5847
 2026-11-10,23.48,24.84,23.08,23.70,19.21,18.41,20.43,27.78,26.83,17.6895,1,14.8400,1,133703554,70869738,0.1658,-0.6128,0.7787
-2026-11-11,23.78,26.71,23.62,26.61,19.88,18.89,20.55,27.71,26.82,18.5953,1,15.4400,1,187714927,73759287,0.7006,-0.3502,1.0507
+2026-11-11,23.78,26.71,23.62,26.61,19.88,18.89,20.55,27.71,26.82,18.5953,1,15.4400,1,188295025,73770889,0.7006,-0.3502,1.0507
+2026-11-12,26.22,27.00,24.96,25.31,20.43,19.26,20.63,27.63,26.80,19.4549,1,16.3416,1,109541678,75076909,1.0078,-0.0786,1.0864

@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-10.69,NUAI,New Era Energy & Digital Inc.,Technology,Software - Infrastructure,United States,258041408,2.2,11137840,8889881,19557738.200000003,-0.825,,,1.0,-455.69617,0.0,-0.77901,-0.22849001,69821392,15172929,10.948,14.214,11.33,-17899284,-22780188,117291542,73825376,0.21031,0.52128,31214599,3.13,0.2994,,-8.461539,286.42148,1.6910069,199.555,-5.414,8.75,12.0,6.0,1.0,strong_buy,4,0,0,0,0,2026-11-12,1.31,https://www.newerainfra.ai,2026-11-10T11:41:30.570968+00:00
+15.18,NUAI,New Era Energy & Digital Inc.,Technology,Software - Infrastructure,United States,258041408,2.2,11137840,8889881,19557738.200000003,-0.825,,,1.0,-455.69617,0.0,-0.77901,-0.22849001,69821392,15172929,10.948,14.214,11.33,-17899284,-22780188,117291542,73825376,0.21031,0.52128,31214599,3.13,0.2994,,-8.461539,286.42148,1.6910069,199.555,-5.414,8.75,12.0,6.0,1.0,strong_buy,4,0,0,0,0,2026-11-12,1.31,https://www.newerainfra.ai,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-01-06,9.83,9.83,9.83,9.83,,,,,,,0,9.8300,0,399098,,,,
 2022-01-07,9.79,9.81,9.75,9.80,,,,,,,0,9.8300,0,232260,,,,
@@ -1245,4 +1245,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-06,1.79,2.17,1.57,2.07,2.61,2.97,4.77,4.85,4.92,3.3602,0,3.0446,0,37502396,44407488,-0.7859,-0.7461,-0.0398
 2026-11-09,2.02,2.28,1.96,2.20,2.54,2.87,4.72,4.84,4.90,3.3602,0,2.8971,0,26455881,44283581,-0.7626,-0.7494,-0.0132
 2026-11-10,2.13,2.28,1.98,2.07,2.42,2.76,4.66,4.83,4.88,3.3602,0,2.7644,0,16236872,44215072,-0.7460,-0.7487,0.0027
-2026-11-11,2.26,2.49,2.17,2.33,2.32,2.70,4.61,4.81,4.85,3.3602,0,2.6450,0,25349700,44221236,-0.7038,-0.7397,0.0359
+2026-11-11,2.26,2.49,2.17,2.33,2.32,2.70,4.61,4.81,4.85,3.3602,0,2.6450,0,25442434,44223090,-0.7038,-0.7397,0.0359
+2026-11-12,2.27,2.79,2.22,2.72,2.31,2.67,4.56,4.80,4.83,3.3602,0,1.5700,1,43915216,44540508,-0.6316,-0.7181,0.0865

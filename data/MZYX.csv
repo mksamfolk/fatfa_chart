@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MZYX,,Financial Services,Shell Companies,United States,375375008,10.01,50460,35296,353312.96,,,,0.0,0.0,0.0,,,1223202,0,,0.017,,0,,30000000,29996250,0.00433,0.63878,1,0.0,,,,,1.2853107,,,,,,,none,,,,,,,,,2026-11-10T11:27:44.462285+00:00
+0.00,MZYX,,Financial Services,Shell Companies,United States,375375008,10.01,50460,35296,353312.96,,,,0.0,0.0,0.0,,,1223202,0,,0.017,,0,,30000000,29996250,0.00433,0.63878,1,0.0,,,,,1.2853107,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-21,9.94,9.94,9.86,9.89,,,,,,,0,9.8600,1,71208,,,,
 2026-04-22,9.89,9.89,9.89,9.89,,,,,,,0,9.8600,1,2816672,,,,
@@ -157,3 +157,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,10.01,10.01,10.01,10.01,10.00,9.99,9.98,,,9.9838,1,9.9766,1,1257256,388507,0.0055,0.0045,0.0010
 2026-11-10,10.01,10.01,10.01,10.01,10.00,9.99,9.98,,,9.9864,1,9.9780,1,850850,405504,0.0060,0.0048,0.0012
 2026-11-11,9.99,10.02,9.99,10.01,10.00,9.99,9.99,,,9.9864,1,9.9793,1,938938,424064,0.0063,0.0051,0.0012
+2026-11-12,10.01,10.01,10.01,10.01,10.00,10.00,9.99,,,9.9864,1,9.9817,1,,420797,0.0065,0.0054,0.0011

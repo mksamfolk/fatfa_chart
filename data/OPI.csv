@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OPI,Office Properties Income Trust,Real Estate,REIT - Office,United States,301422592,13.73,86070,84981,1166789.1300000001,0.02,,,0.82331,-0.00018999999,-2.43205,-1.3572501,0.0062,50751000,1683555968,329.17,2.931,0.48,-112499000,-56237500,21953577,10691172,0.00013,0.87811,439995,4.63,,,,0.6848303,0.58934623,4.395,9.217,27.0,27.0,27.0,,none,1,,,,,,,https://www.opireit.com,2026-11-10T11:52:26.382580+00:00
+0.00,OPI,Office Properties Income Trust,Real Estate,REIT - Office,United States,301422592,13.73,86070,84981,1166789.1300000001,0.02,,,0.82331,-0.00018999999,-2.43205,-1.3572501,0.0062,50751000,1683555968,329.17,2.931,0.48,-112499000,-56237500,21953577,10691172,0.00013,0.87811,439995,4.63,,,,0.6848303,0.58934623,4.395,9.217,27.0,27.0,27.0,,none,1,,,,,,,https://www.opireit.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-18,33.85,49.69,18.00,33.85,,,,,,,0,49.6900,0,,,,,
 2026-06-22,21.82,27.80,17.00,17.00,,,,,,,0,49.6900,0,868700,,,,
@@ -131,3 +131,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,13.28,13.83,12.77,13.73,13.14,13.22,15.24,,,15.0078,0,12.0524,1,1090162,1311286,-0.5986,-0.7728,0.1742
 2026-11-10,13.85,16.73,13.85,16.50,13.56,13.30,15.21,,,11.9679,1,12.1235,1,2257200,1329536,-0.2945,-0.6771,0.3826
 2026-11-11,16.76,17.02,15.31,15.38,13.76,13.41,15.17,,,12.6621,1,12.3999,1,1374972,1344150,-0.1423,-0.5702,0.4279
+2026-11-12,15.21,15.85,14.07,14.63,13.85,13.44,15.11,,,12.6621,1,12.7695,1,1095787,1353068,-0.0812,-0.4724,0.3912

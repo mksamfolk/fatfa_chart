@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,JAN,Janus Living Inc.,Real Estate,REIT - Residential,United States,9948062720,32.02,4933350,2235971,71595791.42,0.783,,,0.30653,-0.033940002,0.00887,,,338064000,0,,1.551,1.155,267508992,,234372996,111132644,0.47809,0.32005,10781519,5.76,0.113000005,,154.59637,11.83096,2.4107816,9.727,37.751,34.53333,40.0,31.0,1.66667,buy,15,0,0,0,0,2026-11-02,,https://www.janusreit.com,2026-11-10T10:39:24.172919+00:00
+0.00,JAN,Janus Living Inc.,Real Estate,REIT - Residential,United States,9948062720,32.02,4933350,2235971,71595791.42,0.783,,,0.30653,-0.033940002,0.00887,,,338064000,0,,1.551,1.155,267508992,,234372996,111132644,0.47809,0.32005,10781519,5.76,0.113000005,,154.59637,11.83096,2.4107816,9.727,37.751,34.53333,40.0,31.0,1.66667,buy,15,0,0,0,0,2026-11-02,,https://www.janusreit.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,23.24,23.70,22.75,23.34,,,,,,,0,22.7478,1,375110206,,,,
 2026-03-23,22.75,24.09,22.74,23.49,,,,,,,0,24.0929,0,73803125,,,,
@@ -189,7 +189,8 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-03,29.33,30.04,28.95,29.60,28.42,28.54,29.60,28.09,,30.0782,0,26.4600,1,179346402,52588129,-0.2255,-0.3499,0.1244
 2026-11-04,30.11,30.61,29.78,30.07,28.59,28.66,29.57,28.14,,30.0782,0,26.5316,1,125572319,54542172,-0.0927,-0.2984,0.2057
 2026-11-05,29.20,30.79,28.86,30.75,28.80,28.79,29.56,28.19,,27.1709,1,26.6947,1,572786400,65294988,0.0665,-0.2254,0.2920
-2026-11-06,30.71,32.41,30.43,31.99,29.17,28.98,29.58,28.25,,27.8554,1,26.9405,1,253719086,69617098,0.2895,-0.1225,0.4120
-2026-11-09,32.04,32.44,31.47,32.02,29.51,29.15,29.61,28.30,,28.4558,1,27.3780,1,160093598,72467732,0.4633,-0.0053,0.4686
-2026-11-10,31.81,32.99,31.81,32.88,30.02,29.35,29.68,28.37,,28.8968,1,27.8842,1,129606388,73682434,0.6627,0.1283,0.5344
-2026-11-11,32.77,32.91,32.15,32.55,30.54,29.53,29.71,28.43,,29.1491,1,28.4969,1,85707403,73707465,0.7852,0.2597,0.5255
+2026-11-06,30.66,32.36,30.39,31.94,29.17,28.98,29.58,28.24,,27.8099,1,26.9405,1,253719086,69617098,0.2857,-0.1232,0.4089
+2026-11-09,31.99,32.39,31.42,31.97,29.50,29.14,29.61,28.30,,28.4099,1,27.3742,1,160093598,72467732,0.4566,-0.0072,0.4638
+2026-11-10,31.76,32.94,31.76,32.83,30.00,29.34,29.67,28.37,,28.8506,1,27.8760,1,129606388,73682434,0.6538,0.1250,0.5288
+2026-11-11,32.72,32.86,32.10,32.50,30.52,29.52,29.71,28.43,,29.1029,1,28.4838,1,85707403,73707465,0.7745,0.2549,0.5196
+2026-11-12,32.39,32.70,31.94,32.15,30.88,29.67,29.74,28.49,,29.1029,1,29.0187,1,83962944,74640714,0.8322,0.3703,0.4619

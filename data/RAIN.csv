@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.19,RAIN,Rain Enhancement Technologies Holdco Inc.,Industrials,Pollution & Treatment Controls,United States,6345937,0.5422,51240,1247578,676436.7916,,,,0.0,-1018.82513,0.0,,-3.37181,32608,8978682,,0.032,0.002,-3461484,-2273521,11646299,3349465,0.61489,0.078150004,158891,0.05,0.020599999,,,604.37494,-0.46105444,1456.382,-1.435,,,,,none,,,,,,,-0.222,https://rainwatertech.com,2026-11-10T12:22:00.714313+00:00
+3.91,RAIN,Rain Enhancement Technologies Holdco Inc.,Industrials,Pollution & Treatment Controls,United States,6345937,0.5422,51240,1247578,676436.7916,,,,0.0,-1018.82513,0.0,,-3.37181,32608,8978682,,0.032,0.002,-3461484,-2273521,11646299,3349465,0.61489,0.078150004,158891,0.05,0.020599999,,,604.37494,-0.46105444,1456.382,-1.435,,,,,none,,,,,,,-0.222,https://rainwatertech.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-02,10.48,10.84,4.91,7.30,,,,,,,0,4.9100,1,2004580,,,,
 2025-01-03,5.94,6.46,5.14,5.84,,,,,,,0,4.9100,1,929144,,,,
@@ -481,3 +481,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.55,0.56,0.50,0.54,0.55,0.58,0.76,1.65,1.96,0.7566,0,0.6817,0,15989,183456,-0.0739,-0.0859,0.0119
 2026-11-10,0.54,0.54,0.48,0.48,0.55,0.57,0.75,1.63,1.94,0.7283,0,0.6708,0,25200,179535,-0.0749,-0.0837,0.0088
 2026-11-11,0.52,0.52,0.49,0.51,0.54,0.57,0.74,1.61,1.93,0.7160,0,0.6555,0,11118,171252,-0.0724,-0.0814,0.0090
+2026-11-12,0.48,0.52,0.46,0.47,0.52,0.56,0.72,1.60,1.91,0.6979,0,0.6415,0,20429,163993,-0.0725,-0.0797,0.0071

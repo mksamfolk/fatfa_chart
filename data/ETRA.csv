@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ETRA,Electra Therapeutics Inc.,Healthcare,Biotechnology,United States,515944384,8.22,351030,608791,5004262.0200000005,,,,0.0,0.0,0.0,,,97725000,1983000,2.162,7.365,7.191,-74675000,,62766955,28656035,0.05293,0.46345,409380,0.51,,,-4.572993,,-0.0016480827,,,33.2,36.0,30.0,,none,5,0,0,0,0,,,https://electra-therapeutics.com,2026-11-10T09:34:38.027092+00:00
+0.00,ETRA,Electra Therapeutics Inc.,Healthcare,Biotechnology,United States,515944384,8.22,351030,608791,5004262.0200000005,,,,0.0,0.0,0.0,,,97725000,1983000,2.162,7.365,7.191,-74675000,,62766955,28656035,0.05293,0.46345,409380,0.51,,,-4.572993,,-0.0016480827,,,33.2,36.0,30.0,,none,5,0,0,0,0,,,https://electra-therapeutics.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-18,15.00,15.50,13.25,13.25,,,,,,,0,13.2500,1,67897227,,,,
 2026-09-21,13.94,14.48,13.48,13.92,,,,,,,0,13.2500,1,11319744,,,,
@@ -68,3 +68,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,7.80,8.80,7.40,8.22,8.10,8.44,,,,10.1539,0,6.8700,1,3520626,,-0.8255,-0.9289,0.1033
 2026-11-10,8.02,8.86,7.84,7.99,8.04,8.41,,,,10.1539,0,6.9086,1,2382618,,-0.7802,-0.8991,0.1189
 2026-11-11,8.25,9.49,8.18,9.45,8.09,8.44,,,,10.1539,0,6.9867,1,3640140,,-0.6193,-0.8432,0.2239
+2026-11-12,9.53,9.88,8.67,9.11,8.14,8.45,,,,10.1539,0,7.1369,1,4966772,,-0.5133,-0.7772,0.2639
