@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"SilverArc Capital Management, LLC",0.0388,301962,3128326,1.0\n1,2026-09-30,UBS Group AG,0.0,52,538,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.04309\ninstitutionsPercentHeld,0.28296\ninstitutionsFloatPercentHeld,0.29569998\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.04309\ninstitutionsPercentHeld,0.44966\ninstitutionsFloatPercentHeld,0.46991003\ninstitutionsCount,10.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,94988640,10.44,10710,7010,73184.4,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.28296,167,0.04,0.0,,,,-869.99994,,,,,,,none,,,,,,,,,2026-11-12
+0.00,RACD,Research Alliance Corporation IV,Financial Services,Shell Companies,United States,94260760,10.36,9290,6943,71929.48,,,,0.0,0.0,0.0,,,110752,200000,,,,,,7775000,,0.04309,0.44966,2208,0.28,0.00029999999,,,,-863.3333,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,10.35,10.50,10.31,10.34,,,,,,,0,10.3100,1,6943310,,,,
 2026-07-14,10.34,10.68,10.34,10.42,,,,,,,0,10.3100,1,623116,,,,

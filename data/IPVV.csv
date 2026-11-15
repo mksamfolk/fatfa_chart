@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0746,1542489,15178091,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0145000005,300003,2952029,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1968000,1.0\n3,2026-09-30,Periscope Capital Inc.,0.0097,199800,1966032,1.0\n4,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0023999999,49999,491990,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0015,30000,295200,1.0\n6,2026-09-30,Deltec Asset Management LLC,0.00090000004,19500,191880,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"MMCAP International, Inc. SPC",0.08229999,1700000,16778999,1.0\n1,2026-09-30,Wealthspring Capital LLC,0.0746,1542489,15224366,1.0\n2,2026-09-30,BNP Paribas Financial Markets,0.0363,750720,7409606,1.0\n3,2026-09-30,Picton Mahoney Asset Management,0.0294,606994,5991030,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0145000005,300003,2961029,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.0145000005,300000,2960999,1.0\n6,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1973999,1.0\n7,2026-09-30,Periscope Capital Inc.,0.0097,199800,1972025,1.0\n8,2026-09-30,Arax Advisory Partners,0.0026,53799,530996,1.0\n9,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0023999999,49999,493490,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -15,19 +15,19 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31\nFree Cash Flow,-238855.0,-34600.0\nIssuance Of Debt,11350.0,45250.0\nIssuance Of Capital Stock,203150000.0,0.0\nEnd Cash Position,1019105.0,13650.0\nBeginning Cash Position,13650.0,13000.0\nChanges In Cash,1005455.0,650.0\nFinancing Cash Flow,202494310.0,35250.0\nCash Flow From Continuing Financing Activities,202494310.0,35250.0\nNet Other Financing Charges,-455939.0,-10000.0\nNet Common Stock Issuance,203150000.0,0.0\nCommon Stock Issuance,203150000.0,0.0\nNet Issuance Payments Of Debt,-199751.0,45250.0\nNet Short Term Debt Issuance,-199751.0,45250.0\nShort Term Debt Issuance,11350.0,45250.0\nOperating Cash Flow,-238855.0,-34600.0\nCash Flow From Continuing Operating Activities,-238855.0,-34600.0\nChange In Working Capital,-122941.0,-2513.0\nChange In Payables And Accrued Expense,16034.0,0.0\nChange In Accrued Expense,16034.0,0.0\nChange In Prepaid Assets,-138975.0,-2513.0\nNet Income From Continuing Operations,315745.0,-32087.0\n
+,2026-09-30,2026-06-30,2026-03-31\nFree Cash Flow,-135928.0,-238855.0,-34600.0\nRepayment Of Debt,11350.0,,\nIssuance Of Debt,-11350.0,11350.0,45250.0\nIssuance Of Capital Stock,0.0,203150000.0,0.0\nEnd Cash Position,883177.0,1019105.0,13650.0\nBeginning Cash Position,1019105.0,13650.0,13000.0\nChanges In Cash,-135928.0,1005455.0,650.0\nFinancing Cash Flow,0.0,202494310.0,35250.0\nCash Flow From Continuing Financing Activities,0.0,202494310.0,35250.0\nNet Other Financing Charges,0.0,-455939.0,-10000.0\nNet Common Stock Issuance,0.0,203150000.0,0.0\nCommon Stock Issuance,0.0,203150000.0,0.0\nNet Issuance Payments Of Debt,0.0,-199751.0,45250.0\nNet Short Term Debt Issuance,0.0,-199751.0,45250.0\nShort Term Debt Payments,11350.0,,\nShort Term Debt Issuance,-11350.0,11350.0,45250.0\nInvesting Cash Flow,0.0,,\nCash Flow From Continuing Investing Activities,0.0,,\nNet Other Investing Changes,0.0,,\nOperating Cash Flow,-135928.0,-238855.0,-34600.0\nCash Flow From Continuing Operating Activities,-135928.0,-238855.0,-34600.0\nChange In Working Capital,74809.0,-122941.0,-2513.0\nChange In Payables And Accrued Expense,50342.0,16034.0,0.0\nChange In Accrued Expense,,16034.0,0.0\nChange In Prepaid Assets,24467.0,-138975.0,-2513.0\nOther Non Cash Items,-1881960.0,,\nNet Income From Continuing Operations,1671223.0,315745.0,-32087.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00145\ninstitutionsPercentHeld,0.111870006\ninstitutionsFloatPercentHeld,0.11203\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.00145\ninstitutionsPercentHeld,0.4779\ninstitutionsFloatPercentHeld,0.4786\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IPVV,InterPrivate Investment Partners V Inc.,Financial Services,Shell Companies,United States,252851104,9.84,19410,23150,227796.0,,,,0.0,0.0,0.0,,,1019105,0,,0.466,0.466,0,,20665000,,0.00145,0.111870006,2963,0.07,0.0001,,,,1.3015873,,,,,,,none,,,,,,,,,2026-11-12
+0.00,IPVV,InterPrivate Investment Partners V Inc.,Financial Services,Shell Companies,United States,253621984,9.87,48400,27909,275461.82999999996,,,,0.0,0.0,0.0,,,883177,0,,0.466,0.466,0,,20665000,,0.00145,0.4779,2891,0.11,0.0001,,,,1.2944262,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.83,9.90,9.82,9.83,,,,,,,0,9.9000,0,160229,,,,
 2026-07-28,9.80,9.80,9.77,9.80,,,,,,,0,9.9000,0,50960,,,,
@@ -92,3 +92,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.85,9.85,9.85,9.85,9.84,9.84,9.84,,,9.8346,1,9.8347,1,,181727,0.0028,0.0026,0.0002
 2026-11-11,9.85,9.85,9.85,9.85,9.85,9.84,9.84,,,9.8362,1,9.8368,1,,181727,0.0029,0.0026,0.0003
 2026-11-12,9.91,9.91,9.91,9.91,9.85,9.85,9.84,,,9.8796,1,9.8388,1,991000,201547,0.0078,0.0037,0.0041
+2026-11-13,9.88,9.88,9.87,9.87,9.86,9.85,9.84,,,9.9144,0,9.8445,1,2333327,243966,0.0083,0.0046,0.0037

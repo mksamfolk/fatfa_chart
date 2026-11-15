@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0783,1849995,18481449,1.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0423,1000000,9989999,1.0\n2,2026-06-30,Kryger Capital LLC,0.0418,988182,9871937,1.0\n3,2026-06-30,Linden Advisors LP,0.0402,950000,9490499,1.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.0381,900000,8990999,1.0\n5,2026-06-30,Glazer Capital LLC,0.0367,866475,8656085,1.0\n6,2026-06-30,Millennium Management Llc,0.0296,700000,6992999,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.026500002,625000,6243749,1.0\n8,2026-06-30,Shaolin Capital Management LLC,0.0255,602281,6016787,1.0\n9,2026-06-30,"Moore Capital Management, LP",0.0254,600000,5993999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0783,1849995,18499950,1.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0423,1000000,10000000,1.0\n2,2026-06-30,Kryger Capital LLC,0.0418,988182,9881820,1.0\n3,2026-06-30,Linden Advisors LP,0.0402,950000,9500000,1.0\n4,2026-06-30,Sona Asset Management (US) LLC,0.0381,900000,9000000,1.0\n5,2026-06-30,Glazer Capital LLC,0.0367,866475,8664750,1.0\n6,2026-06-30,Millennium Management Llc,0.0296,700000,7000000,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.026500002,625000,6250000,1.0\n8,2026-06-30,Shaolin Capital Management LLC,0.0255,602281,6022810,1.0\n9,2026-06-30,"Moore Capital Management, LP",0.0254,600000,6000000,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,99999,998989,1.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.0021,49998,499480,1.0\n2,2026-08-31,High Income Securities Fund,0.0011,24999,249740,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,99999,999990,1.0\n1,2026-06-30,"Special Opportunities Fund, Inc.",0.0021,49998,499980,1.0\n2,2026-08-31,High Income Securities Fund,0.0011,24999,249990,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.69961\ninstitutionsFloatPercentHeld,0.7005\ninstitutionsCount,40.0\n
+,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.70857\ninstitutionsFloatPercentHeld,0.70947\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ILLU,Illumination Acquisition Corp I,Financial Services,Shell Companies,United States,312603744,9.99,71290,67301,672336.99,,,,0.0,0.0,0.0,,,819260,0,,,,,,23625000,,0.00127,0.69961,130,0.0,0.0,,,,1.377931,,,,,,,none,,,,,,,,https://www.illuminationspac.com,2026-11-12
+0.00,ILLU,Illumination Acquisition Corp I,Financial Services,Shell Companies,United States,312916672,10.0,62380,71523,715230.0,,,,0.0,0.0,0.0,,,819260,0,,,,,,23625000,,0.00127,0.70857,962,0.02,0.0,,,,1.3793104,,,,,,,none,,,,,,,,https://www.illuminationspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-21,9.86,9.89,9.82,9.83,,,,,,,0,9.8200,1,84538,,,,
 2026-04-22,9.89,9.92,9.83,9.83,,,,,,,0,9.8200,1,58980,,,,

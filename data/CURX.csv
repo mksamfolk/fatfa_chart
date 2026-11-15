@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.003,4763,29530,0.8841\n1,2026-06-30,"Renaissance Technologies, LLC",0.0017,2600,16119,1.0\n2,2026-06-30,Virtu Financial LLC,0.0016,2562,15884,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.001,1561,9678,1.0\n4,2026-06-30,"Two Sigma Investments, LP",0.00090000004,1368,8481,0.3504\n5,2026-06-30,"Susquehanna International Group, LLP",0.0005,733,4544,1.0\n6,2026-06-30,"Ground Swell Capital, LLC",0.0004,632,3918,1.0\n7,2026-06-30,UBS Group AG,0.0,76,471,-0.81\n8,2026-06-30,Tower Research Capital LLC (TRC),0.0,50,309,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.003,4763,22862,0.8841\n1,2026-06-30,Virtu Financial LLC,0.0016,2562,12297,1.0\n2,2026-06-30,"Two Sigma Investments, LP",0.00090000004,1368,6566,0.3504\n3,2026-06-30,"Susquehanna International Group, LLP",0.0005,733,3518,1.0\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0,50,240,1.0\n5,2026-09-30,UBS Group AG,0.0,4,19,-0.9474\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0007,1166,7229,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,747,4631,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0007,1166,5596,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,747,3585,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61353\ninstitutionsPercentHeld,0.00874\ninstitutionsFloatPercentHeld,0.02262\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.61354\ninstitutionsPercentHeld,0.00604\ninstitutionsFloatPercentHeld,0.01564\ninstitutionsCount,5.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-08-20 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.87,CURX,Curanex Pharmaceuticals Inc,Healthcare,Biotechnology,United States,9723094,6.2,14140,21893,135736.6,,,,0.0,0.0,0.0,-4.1108,-2.25062,2938463,276359,5.772,45.951,28.172,-12079094,-7714358,1568241,505632,0.61353,0.00874,5195,0.24,0.0086,,,,1.8364929,,,,,,,none,,,,,,,,https://www.curanexpharma.com,2026-11-13
+99.89,CURX,Curanex Pharmaceuticals Inc,Healthcare,Biotechnology,United States,7527557,4.8,4990,21639,103867.2,,,,0.0,0.0,0.0,-4.1108,-2.25062,2938463,276359,5.772,45.951,28.172,-12079094,-7714358,1568241,505632,0.61354,0.00604,5945,0.3,0.0098,,,,0.6062903,,,,,,,none,,,,,,,,https://www.curanexpharma.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-26,3.80,4.18,3.61,4.02,,,,,,,0,3.6100,1,21146808,,,,
 2025-08-27,4.06,4.88,4.06,4.66,,,,,,,0,3.6100,1,3731262,,,,
@@ -321,4 +321,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,6.04,6.09,5.82,6.09,5.72,5.27,4.92,1.99,1.58,4.7179,1,4.9502,1,12180,117689,0.4341,0.3581,0.0759
 2026-11-11,5.64,5.86,5.52,5.66,5.79,5.31,4.95,2.02,1.61,4.7179,1,5.0866,1,16414,117764,0.3997,0.3664,0.0333
 2026-11-12,5.67,5.67,5.67,5.67,5.86,5.35,4.97,2.06,1.63,4.7179,1,5.2093,1,7371,117213,0.3690,0.3670,0.0021
-2026-11-13,4.82,4.82,4.59,4.65,5.81,5.35,4.98,2.09,1.65,6.2251,0,6.3140,0,20892,117018,0.2594,0.3454,-0.0860
+2026-11-13,4.82,4.82,4.59,4.79,5.82,5.36,4.98,2.09,1.65,4.7179,1,6.3140,0,29875,117197,0.2706,0.3477,-0.0771

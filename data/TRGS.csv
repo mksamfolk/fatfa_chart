@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0863,1800000,17946000,1.0\n1,2026-06-30,Glazer Capital LLC,0.0623,1300158,12962575,1.0\n2,2026-06-30,Sculptor Capital LP,0.059899997,1249999,12462490,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0484,1010025,10069949,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0479,1000000,9970000,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0475,990000,9870300,1.0\n6,2026-06-30,Linden Advisors LP,0.042,875000,8723750,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.037,772024,7697079,1.0\n8,2026-06-30,Millennium Management Llc,0.0336,700000,6979000,1.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.031,645541,6436043,0.0033000002\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0863,1800000,18044999,1.0\n1,2026-06-30,Glazer Capital LLC,0.0623,1300158,13034083,1.0\n2,2026-06-30,Sculptor Capital LP,0.059899997,1249999,12531239,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.0484,1010025,10125500,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0479,1000000,10024999,1.0\n5,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0475,990000,9924749,1.0\n6,2026-06-30,Linden Advisors LP,0.042,875000,8771874,1.0\n7,2026-06-30,Hudson Bay Capital Management Lp,0.037,772024,7739540,1.0\n8,2026-06-30,Millennium Management Llc,0.0336,700000,7017499,1.0\n9,2026-09-30,BNP Paribas Financial Markets,0.0323,673440,6751235,0.0941\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0014\ninstitutionsPercentHeld,0.89857\ninstitutionsFloatPercentHeld,0.89984\ninstitutionsCount,41.0\n
+,Value\ninsidersPercentHeld,0.0014\ninstitutionsPercentHeld,0.83548\ninstitutionsFloatPercentHeld,0.83665\ninstitutionsCount,41.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,259369552,9.97,15000,12867,128283.99,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0014,0.89857,4,0.0,0.0,,,,-23.186047,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-11-12
+0.00,TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,260800368,10.025,25720,14517,145532.92500000002,,,,0.0,0.0,0.0,,,1135885,0,,0.147,,0,,20857000,18831998,0.0014,0.83548,49,0.01,0.0,,,,-23.313951,,,,,,,none,,,,,,,,https://www.trgspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-20,10.10,10.10,9.90,9.90,,,,,,,0,10.1000,0,76230,,,,
 2026-04-21,9.90,9.90,9.82,9.83,,,,,,,0,10.1000,0,140569,,,,

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0002,6615,10087,0.29299998\n1,2026-06-30,"Jane Street Group, LLC",0.0001,2454,3742,1.0\n2,2026-06-30,HRT Financial LP,0.0,2091,3188,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0,1947,2969,1.0\n4,2026-06-30,Clear Street Group Inc.,0.0,601,916,0.0\n5,2026-06-30,UBS Group AG,0.0,54,82,8.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0002,6615,10716,0.29299998\n1,2026-09-30,"Jane Street Group, LLC",0.0001,4090,6625,0.6667\n2,2026-06-30,HRT Financial LP,0.0,2091,3387,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0,1947,3154,1.0\n4,2026-06-30,Clear Street Group Inc.,0.0,601,973,0.0\n5,2026-09-30,JPMORGAN CHASE & CO,0.0,6,9,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.17336\ninstitutionsPercentHeld,0.00695\ninstitutionsFloatPercentHeld,0.0084\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.17336\ninstitutionsPercentHeld,0.00914\ninstitutionsFloatPercentHeld,0.0110599995\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "e379c696-51d4-3bc0-8e16-d9144062a493",\n    "title": "Cellyan Biotechnology Announces a 1-for-20 Reverse Stock Split",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/cellyan-biotechnology-announces-1-20-120000259.html",\n    "providerPublishTime": 1792584000,\n    "type": "STORY",\n    "relatedTickers": [\n      "HKPD"\n    ]\n  },\n  {\n    "uuid": "c108caa2-84fa-367e-ba91-da0d453807d8",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018352.html",\n    "providerPublishTime": 1789050618,\n    "type": "STORY",\n    "relatedTickers": [\n      "SNYR",\n      "TNON",\n      "INTC",\n      "^IXIC",\n      "NVDA",\n      "GPRO",\n      "GRAB",\n      "AAPL",\n      "AAL",\n      "HKPD",\n      "ONDS",\n      "PLUG",\n      "UZX",\n      "CIFR"\n    ]\n  },\n  {\n    "uuid": "26b7131c-d5d9-3de0-a51b-98657d9f21dc",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018620.html",\n    "providerPublishTime": 1788273018,\n    "type": "STORY",\n    "relatedTickers": [\n      "GPRO",\n      "LIDR",\n      "HKPD",\n      "RITR",\n      "NVDA",\n      "FLYE",\n      "AAL",\n      "ONDS",\n      "IBIT",\n      "BIAF",\n      "^IXIC",\n      "RZLV",\n      "INTC",\n      "AAPL",\n      "PLUG",\n      "SOFI"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-10-26 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.14,HKPD,Cellyan Biotechnology Co. Ltd,Healthcare,Medical Distribution,Hong Kong,3760456,1.525,41990,181363,276578.575,-0.317,,,0.103199996,-0.19319001,-0.08456001,-0.1559,-0.05643,221841,1258164,13.129,3.859,1.694,-751602,-6506908,2108373,816577,0.17336,0.00695,9786,0.15,0.0058999998,,,0.27993107,0.1869789,0.211,-3.08,,,,,none,,,,,,,,https://www.9zt.hk,2026-11-12
+98.07,HKPD,Cellyan Biotechnology Co. Ltd,Healthcare,Medical Distribution,Hong Kong,3994714,1.62,17180,182103,295006.86000000004,-0.317,,,0.103199996,-0.07481,-0.08456001,-0.1559,-0.05643,221841,1258164,13.129,3.859,1.694,-751602,-6506908,2108373,816577,0.17336,0.00914,16869,0.33,0.010199999,,,0.29736942,0.19862677,0.219,-3.201,,,,,none,,,,,,,,https://www.9zt.hk,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-15,3.50,3.79,2.75,2.82,,,,,,,0,3.7900,0,3696174,,,,
 2025-01-16,2.66,3.20,2.53,2.69,,,,,,,0,3.7900,0,964096,,,,
@@ -474,3 +474,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.64,1.74,1.57,1.58,1.79,1.44,0.73,0.59,0.63,2.3288,0,1.3600,1,28193,629345,0.3026,0.3722,-0.0697
 2026-11-11,1.58,1.65,1.58,1.63,1.73,1.51,0.75,0.60,0.63,2.3288,0,1.4310,1,22005,629704,0.2830,0.3544,-0.0714
 2026-11-12,1.62,1.62,1.47,1.53,1.67,1.58,0.78,0.60,0.64,2.2955,0,2.4200,0,12852,629626,0.2564,0.3348,-0.0784
+2026-11-13,1.62,1.63,1.53,1.62,1.63,1.66,0.80,0.61,0.64,2.2851,0,2.4010,0,11073,628755,0.2399,0.3158,-0.0759

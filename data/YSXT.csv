@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0049,130620,180098,0.195\n1,2026-06-30,"Centiva Capital, LP",0.0008,20998,28952,-0.1665\n2,2026-09-30,"Geode Capital Management, LLC",0.00059999997,16342,22532,0.0\n3,2026-09-30,"William Mack & Associates, Inc.",0.0,1,1,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.75\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0049,130620,156744,0.195\n1,2026-06-30,"Centiva Capital, LP",0.0008,20998,25197,-0.1665\n2,2026-09-30,"Geode Capital Management, LLC",0.00059999997,16342,19610,0.0\n3,2026-09-30,UBS Group AG,0.0001,3068,3681,1.0\n4,2026-09-30,"William Mack & Associates, Inc.",0.0,1,1,1.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,-0.75\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,16342,22532,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,16342,19610,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.49775\ninstitutionsPercentHeld,0.00629\ninstitutionsFloatPercentHeld,0.012519999\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.49775\ninstitutionsPercentHeld,0.00562\ninstitutionsFloatPercentHeld,0.01119\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "5149b059-c001-3d44-8ca5-fd4dcb164427",\n    "title": "YSX TECH. CO. LTD Announces Results of October 2026 Extraordinary General Meeting of Shareholders",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/ysx-tech-co-ltd-announces-201500143.html",\n    "providerPublishTime": 1792527300,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/d00f97f3a616f5357e6b92c1591f6586.png",\n          "width": 200,\n          "height": 200,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BD49B7188F80707086045957C8561F8525EEAAFB6E2108C3407AA86FC7AB3671/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fd00f97f3a616f5357e6b92c1591f6586.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "YSXT"\n    ]\n  },\n  {\n    "uuid": "ccc78e5c-fd03-3ddc-89ef-476c11969a35",\n    "title": "YSX TECH. CO. LTD to Hold Extraordinary General Meeting of Shareholders",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/ysx-tech-co-ltd-hold-020000093.html",\n    "providerPublishTime": 1791252000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/d00f97f3a616f5357e6b92c1591f6586.png",\n          "width": 200,\n          "height": 200,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BD49B7188F80707086045957C8561F8525EEAAFB6E2108C3407AA86FC7AB3671/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fd00f97f3a616f5357e6b92c1591f6586.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "YSXT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-74.14,YSXT,YSX Tech. Co. Ltd,Industrials,Specialty Business Services,China,43959592,1.3788,3740,18115,24976.962,0.137,-0.951,-0.94,0.08663,0.01475,0.0336,0.091520004,0.04644,5889033,8461210,25.13,2.79,2.525,-2685630,-5338383,26705175,9412574,0.49775,0.00629,44554,5.02,0.0032,12.534546,,0.52666545,1.1413908,0.491,11.425,,,,,none,,,,,,,,https://www.ysxnet.com,2026-11-12
+65.01,YSXT,YSX Tech. Co. Ltd,Industrials,Specialty Business Services,China,38259000,1.2,4550,16962,20354.399999999998,0.137,-0.951,-0.94,0.08663,0.04242,0.0336,0.091520004,0.04644,5889033,8461210,25.13,2.79,2.525,-2685630,-5338383,26705175,9412574,0.49775,0.00562,41018,6.93,0.0029,10.909091,,0.45836854,0.99337757,0.432,10.037,,,,,none,,,,,,,,https://www.ysxnet.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-18,4.05,5.52,3.95,4.31,,,,,,,0,5.5200,0,3897964,,,,
 2024-12-19,4.20,4.30,3.95,4.03,,,,,,,0,5.5200,0,567021,,,,
@@ -491,3 +491,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.29,1.38,1.29,1.38,1.33,1.36,1.24,1.14,1.17,1.1874,1,1.4854,0,4140,24208,0.0192,0.0293,-0.0101
 2026-11-11,1.37,1.38,1.24,1.29,1.32,1.36,1.25,1.14,1.17,1.1874,1,1.4629,0,3864,22828,0.0135,0.0262,-0.0127
 2026-11-12,1.24,1.30,1.24,1.25,1.31,1.35,1.26,1.14,1.17,1.1874,1,1.4417,0,5250,22850,0.0058,0.0221,-0.0163
+2026-11-13,1.20,1.21,1.20,1.20,1.30,1.34,1.26,1.14,1.17,1.1874,1,1.4218,0,9599,22892,-0.0042,0.0168,-0.0210

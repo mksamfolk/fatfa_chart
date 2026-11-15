@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.039100002,900000,8846999,1.0\n1,2026-09-30,Wealthspring Capital LLC,0.0296,681200,6696195,1.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0174,400000,3931999,1.0\n3,2026-09-30,Mizuho Securities USA LLC,0.012999999,298468,2933940,1.0\n4,2026-09-30,Periscope Capital Inc.,0.0087,200000,1965999,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.0043,100000,982999,1.0\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0038,87240,857569,1.0\n7,2026-09-30,Deltec Asset Management LLC,0.0022,50000,491499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.039100002,900000,8909999,1.0\n1,2026-09-30,Wealthspring Capital LLC,0.0296,681200,6743879,1.0\n2,2026-09-30,BNP Paribas Financial Markets,0.0294,675450,6686954,1.0\n3,2026-09-30,Picton Mahoney Asset Management,0.0174,400000,3959999,1.0\n4,2026-09-30,Mizuho Securities USA LLC,0.012999999,298468,2954833,1.0\n5,2026-09-30,Periscope Capital Inc.,0.0087,200000,1979999,1.0\n6,2026-09-30,JPMORGAN CHASE & CO,0.0061000003,140260,1388573,1.0\n7,2026-09-30,Mint Tower Capital Management B.V.,0.0043,100000,989999,1.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0038,87240,863675,1.0\n9,2026-09-30,Deltec Asset Management LLC,0.0022,50000,494999,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.23594\ninstitutionsFloatPercentHeld,0.23594\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.2714\ninstitutionsFloatPercentHeld,0.2714\ninstitutionsCount,13.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,WLCO,Wilco 63 Corporation Class A Ordinary Shares,Financial Services,Shell Companies,Cayman Islands,275240000,9.83,26370,26356,259079.48,,,,0.0,0.0,0.0,,,289670,0,,0.242,0.193,-212880,,23000000,19000013,0.0,0.23594,236,0.01,0.0,,,,-29.431139,,,,,,,none,,,,,,,,,2026-11-12
+0.00,WLCO,Wilco 63 Corporation Class A Ordinary Shares,Financial Services,Shell Companies,Cayman Islands,277200000,9.9,36540,27865,275863.5,,,,0.0,0.0,0.0,,,289670,0,,0.242,0.193,-212880,,23000000,19000013,0.0,0.2714,473,0.02,0.0,,,,-1414.2856,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-10,9.90,11.50,9.83,9.90,,,,,,,0,11.5000,0,190080,,,,
 2026-08-11,9.80,9.82,9.78,9.79,,,,,,,0,11.5000,0,149787,,,,
@@ -82,3 +82,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.83,9.89,9.83,9.85,9.82,9.82,9.83,,,9.8556,0,10.0519,0,589030,250728,0.0017,-0.0014,0.0031
 2026-11-11,9.89,9.89,9.89,9.89,9.83,9.83,9.83,,,9.8290,1,10.0406,0,989,247752,0.0065,0.0002,0.0064
 2026-11-12,9.89,9.89,9.89,9.89,9.84,9.83,9.83,,,9.8351,1,10.0298,0,,246832,0.0102,0.0022,0.0080
+2026-11-13,9.85,9.90,9.85,9.90,9.85,9.83,9.83,,,9.8351,1,10.0194,0,991237,265872,0.0138,0.0045,0.0093

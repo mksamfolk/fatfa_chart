@@ -153,7 +153,7 @@
             <span id="ma50UpDaysText" class="hidden text-sm text-gray-700 font-medium px-2.5 py-1 bg-gray-100 border border-gray-200 rounded shadow-sm"></span>
 
             <!-- As of Date Display -->
-            <div id="asofDateDisplay" class="text-sm font-medium text-gray-500 hidden"></div>
+            <div id="asofDateDisplay" class="text-xs leading-tight whitespace-pre shrink-0 font-medium text-gray-500 hidden"></div>
         </div>
 
     </div>
@@ -383,6 +383,8 @@
 
     // Master list of all uploaded files (Persisted, untouched by filters)
     let uploadedFiles = [];
+    const stockDataMaxAgeMs = 10 * 60 * 1000;
+    const refreshingStocks = new WeakSet();
 
     // Shadow list representing currently visible files (Indices pointing to uploadedFiles)
     let activeIndices = [];
@@ -633,7 +635,7 @@
 
             const { metadata, remainingCsv, datasets } = extractMetadataAndCsv(await response.text());
             const existingIndex = uploadedFiles.findIndex(file => file.name.toUpperCase() === stockName);
-            const file = { name: existingIndex === -1 ? stockName : uploadedFiles[existingIndex].name, text: remainingCsv, metadata, datasets };
+            const file = { name: existingIndex === -1 ? stockName : uploadedFiles[existingIndex].name, text: remainingCsv, metadata, datasets, loadedAt: Date.now() };
             if (existingIndex !== -1) uploadedFiles.splice(existingIndex, 1);
             uploadedFiles.unshift(file);
 
@@ -1702,14 +1704,48 @@
         }
     }
 
+    async function refreshStockIfStale(fileObj) {
+        if (Date.now() - fileObj.loadedAt <= stockDataMaxAgeMs || refreshingStocks.has(fileObj)) return;
+        refreshingStocks.add(fileObj);
+        try {
+            const response = await fetch(`data/${encodeURIComponent(fileObj.name)}.csv?_t=${Date.now()}`, { cache: 'no-store' });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const { metadata, remainingCsv, datasets } = extractMetadataAndCsv(await response.text());
+            const parsed = Papa.parse(remainingCsv, { header: true, skipEmptyLines: true });
+            const fields = (parsed.meta.fields || []).map(field => field.trim().toLowerCase());
+            if (parsed.errors.length || !parsed.data.length || !['open', 'high', 'low', 'close'].every(field => fields.includes(field))) {
+                throw new Error('Invalid price CSV');
+            }
+
+            // Resolve the object again: navigation or a manual fetch may have moved/replaced it.
+            const index = uploadedFiles.indexOf(fileObj);
+            if (index === -1) return;
+            uploadedFiles[index] = { name: fileObj.name, text: remainingCsv, metadata, datasets, loadedAt: Date.now() };
+            // Keep the submitted filter membership and sort order until the next submission.
+            if (currentActiveIdx >= 0 && activeIndices[currentActiveIdx] === index) loadCurrentFile();
+        } catch (error) {
+            console.warn(`Failed to refresh ${fileObj.name}; keeping cached data.`, error);
+        } finally {
+            refreshingStocks.delete(fileObj);
+        }
+    }
+
+    function refreshCurrentStockIfStale() {
+        if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
+        const fileObj = uploadedFiles[activeIndices[currentActiveIdx]];
+        if (fileObj) void refreshStockIfStale(fileObj);
+    }
+
     function loadCurrentFile() {
         if (currentActiveIdx < 0 || currentActiveIdx >= activeIndices.length) return;
 
         const realIndex = activeIndices[currentActiveIdx];
         const fileObj = uploadedFiles[realIndex];
+        void refreshStockIfStale(fileObj);
         const asofDate = fileObj.metadata?.retrievedAt || '';
+        const updatedAt = new Date(fileObj.loadedAt).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', hour12: false });
         const asofEl = document.getElementById('asofDateDisplay');
-        asofEl.innerText = asofDate ? ` (As of: ${asofDate})` : '';
+        asofEl.textContent = asofDate ? `(As of: ${asofDate}\nUpdated at: ${updatedAt})` : '';
         asofEl.classList.toggle('hidden', !asofDate);
 
         Papa.parse(fileObj.text, {
@@ -2152,7 +2188,7 @@
 
                     const csvText = await csvResponse.text();
                     const { metadata, remainingCsv, datasets } = extractMetadataAndCsv(csvText);
-                    uploadedFiles.push({ name: stockName, text: remainingCsv, metadata, datasets });
+                    uploadedFiles.push({ name: stockName, text: remainingCsv, metadata, datasets, loadedAt: cacheBuster });
                 } catch (err) { console.warn(`Failed to fetch CSV for ${stockName}:`, err); }
             }
 
@@ -2180,6 +2216,12 @@
         initCharts();
         prepareSampleDataFallback();
         loadInitialData();
+        // Check the displayed stock even when the user does not navigate.
+        setInterval(refreshCurrentStockIfStale, 30 * 1000);
+        // Background tabs can throttle timers; check immediately on returning.
+        document.addEventListener('visibilitychange', () => {
+            if (!document.hidden) refreshCurrentStockIfStale();
+        });
     });
 </script>
 </body>

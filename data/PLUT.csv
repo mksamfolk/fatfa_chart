@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,184,206,-0.08\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n1,2026-09-30,UBS Group AG,0.0,151,173,-0.17930001\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3368,3772,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,3368,3873,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.84,PLUT,Plutus Financial Group Limited,Financial Services,Capital Markets,Hong Kong,17192000,1.12,217900,50140,56156.8,-0.204,,,0.73019,-2.3137,0.0,-0.55325,-0.41210997,33394000,1001000,1.15,3.449,2.955,-80146000,,15350000,5030042,0.67231005,0.089899994,3980,0.17,0.0008,,,2.0088806,1.549979,-1.776,,,,,,none,,,,,,,,https://www.plutusfingroup.com,2026-11-12
+7.04,PLUT,Plutus Financial Group Limited,Financial Services,Capital Markets,Hong Kong,17652500,1.15,219800,51676,59427.399999999994,-0.204,,,0.73019,-3.8925,0.0,-0.55325,-0.41210997,33394000,1001000,1.15,3.449,2.955,-80146000,,15350000,5030042,0.67231005,0.089899994,2410,0.05,0.0005,,,2.0626898,1.5914962,-1.722,,,,,,none,,,,,,,,https://www.plutusfingroup.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-05,4.17,4.20,4.00,4.00,,,,,,,0,4.0000,1,6381600,,,,
 2025-02-06,4.06,4.22,4.01,4.04,,,,,,,0,4.0000,1,6894260,,,,
@@ -460,3 +460,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.12,1.30,1.12,1.17,1.38,1.64,2.18,2.74,2.85,2.1502,0,2.0580,0,34515,90256,-0.3031,-0.2645,-0.0387
 2026-11-11,0.95,1.25,0.87,1.11,1.30,1.60,2.15,2.72,2.84,2.1502,0,1.9265,0,34965,90945,-0.3048,-0.2725,-0.0323
 2026-11-12,1.03,1.28,1.01,1.13,1.24,1.56,2.11,2.71,2.83,2.1502,0,1.8081,0,29945,91544,-0.3010,-0.2782,-0.0228
+2026-11-13,1.10,1.18,1.10,1.14,1.22,1.53,2.08,2.70,2.82,2.1254,0,1.7016,0,12504,91794,-0.2938,-0.2813,-0.0125

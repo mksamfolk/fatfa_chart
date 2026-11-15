@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,5,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0004,915,1582,1.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,5,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2024-09-30,Fidelity NASDAQ Composite Index Fund,0.0004,914,1599,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2024-09-30,Fidelity NASDAQ Composite Index Fund,0.0004,914,1581,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.14364\ninstitutionsPercentHeld,0.0\ninstitutionsFloatPercentHeld,0.0\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.14367\ninstitutionsPercentHeld,0.00035\ninstitutionsFloatPercentHeld,0.00041\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "b3bb17e8-ab7c-3e84-ada0-d4a07797138e",\n    "title": "Jamieson Wellness Inc. Announces Filing of Management Information Circular for its Special Meeting of Shareholders to Approve the Proposed Plan of Arrangement with Kirin Holdings Company, Limited",\n    "publisher": "CNW Group",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/jamieson-wellness-inc-announces-filing-110000646.html",\n    "providerPublishTime": 1787914800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/cnwgroup.com/ea9588fbf1eb4b14de5cbf9b825ce145.jpg",\n          "width": 399,\n          "height": 122,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/A49C4FD0258EE3E5C5B940B7972746035EA621C715A1DFFDAE2A5E7A20EC0447/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2Fea9588fbf1eb4b14de5cbf9b825ce145.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "JWEL.TO",\n      "2503.T",\n      "JWEL"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2023-10-27 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-38.96,JWEL,Jowell Global Ltd.,Consumer Cyclical,Internet Retail,China,4158229,1.75,8620,1392878,2437536.5,0.878,,,0.069910005,-0.03898,-0.03806,-0.44265,-0.13146,2740834,1538942,13.436,1.676,0.295,-1530441,2555088,2376131,2034824,0.14364,0.0,9678,0.45,0.0057,,,0.025201224,0.3629952,0.018,-0.605,,,,,none,,,,,,,1.097,https://www.1juhao.com,2026-11-12
+39.27,JWEL,Jowell Global Ltd.,Consumer Cyclical,Internet Retail,China,4110706,1.73,4260,34337,59403.01,-0.172,,,0.06117,-0.048260003,-0.05548,-0.69598,-0.19409999,927718,894980,10.52,1.319,0.299,-7627372,-2812082,2376131,2034824,0.14367,0.00035,8787,1.0,0.0052,,,0.027060773,0.3588467,0.027,-0.568,,,,,none,,,,,,,,https://www.1juhao.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-10-29,94.88,96.80,92.64,93.28,,,,,,,0,92.6400,1,645404,,,,
 2021-11-01,94.56,98.56,92.00,92.64,,,,,,,0,98.5600,0,1009776,,,,

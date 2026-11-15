@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,UY SCUTI INVESTMENTS LTD,Beneficial Owner of more than 10% of a Class of Security,,Stock Gift,2025-08-15,1448350,2025-08-15\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.09,469800,5167800,0.0\n1,2026-06-30,Berkley W R Corp,0.078099996,407586,4483446,0.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0727,379482,4174302,-0.0135\n3,2026-06-30,"Karpus Management, Inc.",0.0546,284991,3134901,-0.0381\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0383,200000,2200000,0.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0353,184375,2028125,-0.2616\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0332,173367,1907037,-0.0093\n7,2026-06-30,Clear Street Group Inc.,0.0279,145488,1600368,-0.0049\n8,2026-06-30,"Westchester Capital Management, LLC",0.0249,130200,1432200,-0.6055\n9,2026-06-30,AQR Arbitrage LLC,0.0239,124747,1372217,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.09,469800,5186591,0.0\n1,2026-06-30,Berkley W R Corp,0.078099996,407586,4499749,0.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0727,379482,4189481,-0.0135\n3,2026-06-30,"Karpus Management, Inc.",0.0546,284991,3146300,-0.0381\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0383,200000,2207999,0.0\n5,2026-06-30,"RiverNorth Capital Management, LLC",0.0353,184375,2035499,-0.2616\n6,2026-06-30,"Heights Capital Management, Inc                          ",0.0332,173367,1913971,-0.0093\n7,2026-09-30,"Westchester Capital Management, LLC",0.0297,155200,1713407,0.192\n8,2026-06-30,Clear Street Group Inc.,0.0279,145488,1606187,-0.0049\n9,2026-06-30,AQR Arbitrage LLC,0.0239,124747,1377206,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0234,122244,1344684,-0.5801\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0054,28125,309375,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0013,6769,74459,-0.5809\n3,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,1187,13057,-0.605\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,1031,11341,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0234,122244,1349573,-0.5801\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0054,28125,310499,0.0\n2,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0013,6769,74729,-0.5809\n3,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0002,1187,13104,-0.605\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,1031,11382,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,230000,0,,Stock Gift at price 0.00 per share.,UY SCUTI INVESTMENTS LTD,Beneficial Owner of more than 10% of a Class of Security,,2025-08-15,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.42859\ninstitutionsPercentHeld,0.57499003\ninstitutionsFloatPercentHeld,1.00625\ninstitutionsCount,22.0\n
+,Value\ninsidersPercentHeld,0.42859\ninstitutionsPercentHeld,0.57498\ninstitutionsFloatPercentHeld,1.00624\ninstitutionsCount,21.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-63.23,UYSC,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,United States,84241824,11.0,100,1345,14795.0,,-0.3,-0.504,0.0,0.0,0.0,0.38185,-0.01746,8807,919053,,0.03,0.005,-273276,730244,5221060,3163231,0.42859,0.57499003,20952,19.71,0.0058999998,35.48387,,,-35.031845,,,,,,,none,,,,,,,,,2026-11-12
+63.49,UYSC,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,United States,84548160,11.04,110,1328,14661.119999999999,,-0.3,-0.504,0.0,0.0,0.0,0.38185,-0.01746,8807,919053,,0.03,0.005,-273276,730244,5221060,3163231,0.42859,0.57498,20667,16.0,0.0058,35.612904,,,-81.77777,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-05-27,10.05,10.05,9.89,9.99,,,,,,,0,9.8900,1,2522475,,,,
 2025-05-28,9.99,9.99,9.99,9.99,,,,,,,0,9.8900,1,1998000,,,,

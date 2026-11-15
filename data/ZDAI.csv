@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,2500,3125,1.5\n1,2026-09-30,"SBI Securities Co., Ltd.",0.0,130,162,0.26209998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0004,3685,5527,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.00029999999,2500,3750,1.5\n2,2026-09-30,"SBI Securities Co., Ltd.",0.0,130,195,0.26209998\n3,2026-09-30,JPMORGAN CHASE & CO,0.0,1,1,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.17981\ninstitutionsPercentHeld,0.00031\ninstitutionsFloatPercentHeld,0.00037999998\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.17981\ninstitutionsPercentHeld,0.00075\ninstitutionsFloatPercentHeld,0.00092\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "7f77d616-ff28-3ff2-a8b7-a4e4dfbad397",\n    "title": "Baosheng BVI and DirectBooking Technology Entered into AI Business Cooperation Framework Agreement",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/ai/articles/baosheng-bvi-directbooking-technology-entered-130000711.html",\n    "providerPublishTime": 1788267600,\n    "type": "STORY",\n    "relatedTickers": [\n      "ZDAI",\n      "BAOS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-02-19 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-14.25,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,10485591,1.25,4710,22662,28327.5,-0.64,,,-0.21504,-2.46328,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00031,25243,2.57,0.0034999999,,,1.1735384,0.7739938,1.643,-1.217,,,,,none,,,,,,,2.461,https://primegaghl.com,2026-11-12
+16.54,ZDAI,DirectBooking Technology Co. Ltd.,Industrials,Engineering & Construction,Hong Kong,12582710,1.5,5530,8287,12430.5,-0.64,,,-0.21504,-1.53661,-1.48754,-1.19253,-0.48911998,130184,4326575,31.932,3.904,0.885,-1292762,-6926416,8388473,6880142,0.17981,0.00075,8921,1.29,0.0011999999,,,1.4082463,0.92879254,1.878,-1.39,,,,,none,,,,,,,2.461,https://primegaghl.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-23,89.60,152.80,58.56,67.52,,,,,,,0,152.8000,0,14419773,,,,
 2024-07-24,65.60,78.88,57.60,61.44,,,,,,,0,152.8000,0,4687135,,,,
@@ -595,3 +595,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.40,1.43,1.35,1.43,1.29,1.27,1.46,2.16,3.16,1.5313,0,1.1594,1,9581,44854,-0.0339,-0.0652,0.0313
 2026-11-11,1.47,1.57,1.35,1.55,1.32,1.28,1.45,2.14,3.15,1.0350,1,1.1811,1,15190,16524,-0.0118,-0.0545,0.0427
 2026-11-12,1.47,1.53,1.45,1.45,1.33,1.29,1.45,2.13,3.14,1.0628,1,1.2199,1,3045,13611,-0.0023,-0.0441,0.0417
+2026-11-13,1.45,1.54,1.40,1.50,1.37,1.30,1.44,2.11,3.13,1.0628,1,1.2550,1,3042,12881,0.0091,-0.0334,0.0425

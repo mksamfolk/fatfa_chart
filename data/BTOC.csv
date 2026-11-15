@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vanguard Capital Management LLC,0.0089,25375,46946,0.0\n1,2026-06-30,Bank of America Corporation,0.0033000002,9375,17344,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0027,7621,14099,1.0\n3,2026-06-30,"Jane Street Group, LLC",0.0023999999,6698,12391,3.1994\n4,2026-09-30,"Geode Capital Management, LLC",0.0017,4761,8808,-0.0512\n5,2026-06-30,Vanguard Fiduciary Trust Co,0.0011999999,3375,6244,0.0\n6,2026-06-30,Xtx Topco Ltd,0.001,2949,5455,0.8237\n7,2026-06-30,Northern Trust Corporation,0.00029999999,957,1770,1.0\n8,2026-06-30,Virtu Financial LLC,0.00029999999,831,1537,-0.5432\n9,2026-06-30,UBS Group AG,0.00029999999,820,1517,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vanguard Capital Management LLC,0.0089,25375,43898,0.0\n1,2026-06-30,Bank of America Corporation,0.0033000002,9375,16218,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0027,7621,13184,1.0\n3,2026-09-30,"Geode Capital Management, LLC",0.0017,4761,8236,-0.0512\n4,2026-06-30,Vanguard Fiduciary Trust Co,0.0011999999,3375,5838,0.0\n5,2026-06-30,Xtx Topco Ltd,0.001,2949,5101,0.8237\n6,2026-09-30,"Jane Street Group, LLC",0.001,2776,4802,-0.5855\n7,2026-06-30,Northern Trust Corporation,0.00029999999,957,1655,1.0\n8,2026-06-30,Virtu Financial LLC,0.00029999999,831,1437,-0.5432\n9,2026-09-30,"Nuveen, LLC",0.0002,685,1185,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund,0.0070999996,20079,37148,0.0\n1,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0019,5297,9799,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0014,4019,7435,-0.0212\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0002,488,902,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund,0.0070999996,20079,34736,0.0\n1,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.0019,5297,9163,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0014,4019,6952,-0.0212\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0002,488,844,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2025-09-25 08:00:00-04:00,-
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.68612\ninstitutionsPercentHeld,0.0221\ninstitutionsFloatPercentHeld,0.0704\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.68613\ninstitutionsPercentHeld,0.02069\ninstitutionsFloatPercentHeld,0.065910004\ninstitutionsCount,11.0\n
 news
 [\n  {\n    "uuid": "751bed04-1e6e-36c3-893a-2804f756724d",\n    "title": "Armlogi Holding Corp. Reports Fiscal Year 2026 Financial Results; Warehousing Services Revenue Grows 21.9% to $77.1 Million",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/armlogi-holding-corp-reports-fiscal-110000077.html",\n    "providerPublishTime": 1790593200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/7742466f926d7334189fed50f3e50254.png",\n          "width": 301,\n          "height": 110,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/ECE8A80E96009CE250AE2E6742B17DDD13BF86DDB2752CB44F7A6B6C15E0094C/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F7742466f926d7334189fed50f3e50254.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BTOC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-10-15 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.15,BTOC,Armlogi Holding Corp.,Industrials,Integrated Freight & Logistics,United States,5254702,1.8501,112880,21565,39897.406500000005,-0.153,,,-0.00582,-0.12808,-0.11233,-1.2611,-0.088970006,2217199,111779848,1394.56,0.438,0.394,-5133615,-948201,2840226,891451,0.68612,0.0221,105173,18.18,0.1117,,,0.02827616,0.6555989,0.618,-6.408,,,,,none,,,,,,,3.104,https://www.armlogi.com,2026-11-12
+99.05,BTOC,Armlogi Holding Corp.,Industrials,Integrated Freight & Logistics,United States,4913591,1.73,106780,21644,37444.12,-0.153,,,-0.00582,-0.11527,-0.11233,-1.2611,-0.088970006,2217199,111779848,1394.56,0.438,0.394,-5133615,-948201,2840226,891451,0.68613,0.02069,8242,0.79,0.0092,,,0.026440604,0.6130404,0.616,-6.389,,,,,none,,,,,,,3.104,https://www.armlogi.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-14,5.00,6.26,4.14,4.62,,,,,,,0,4.1390,1,6116418,,,,
 2024-05-15,4.69,4.88,4.26,4.62,,,,,,,0,4.1390,1,884651,,,,
@@ -642,3 +642,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.89,1.89,1.79,1.81,2.12,2.13,1.19,0.59,0.55,1.1494,1,0.8661,1,12851,73096,0.1937,0.3324,-0.1387
 2026-11-11,1.88,1.88,1.77,1.83,2.09,2.21,1.22,0.60,0.55,1.1494,1,0.9574,1,14274,72769,0.1618,0.2983,-0.1365
 2026-11-12,1.83,1.83,1.81,1.81,2.05,2.29,1.25,0.61,0.56,1.1494,1,1.0451,1,4887,72147,0.1333,0.2653,-0.1320
+2026-11-13,1.80,1.80,1.72,1.73,2.00,2.24,1.28,0.62,0.56,1.1494,1,1.1293,1,7550,72035,0.1031,0.2329,-0.1297

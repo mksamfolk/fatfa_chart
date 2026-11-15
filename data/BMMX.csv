@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2026-12-01 16:00:00-05:00,,
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,260000,37960.0,,Exercise of warrants at price 0.15 per share.,Henderson (Hollie),10% Security Holder of Issuer,,2026-02-25,D\n1,4400000,,,,Tielens (Olivier),10% Security Holder of Issuer,,2026-02-20,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.33284\ninstitutionsPercentHeld,0.04381\ninstitutionsFloatPercentHeld,0.06567\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.33141997\ninstitutionsPercentHeld,0.04363\ninstitutionsFloatPercentHeld,0.06525\ninstitutionsCount,1.0\n
 news
 [\n  {\n    "uuid": "2701e93a-ab7f-3d27-b8b8-eb41d743ff63",\n    "title": "Black Mammoth Metals Extends Target Zone and Obtains Drill Permit at Mustang Gold and Silver Property, NV",\n    "publisher": "CNW Group",\n    "link": "https://finance.yahoo.com/markets/commodities/articles/black-mammoth-metals-extends-target-130000443.html",\n    "providerPublishTime": 1792674000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/cnwgroup.com/92072d1c9325cb1461f714c434084852.jpg",\n          "width": 400,\n          "height": 208,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/9A8FBC39707A2872DD4562F8660F7E56325649C7E97B817ADAC90448AF5B8B32/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2F92072d1c9325cb1461f714c434084852.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "BMMX",\n      "BMMX",\n      "LQRCF"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BMMX,Black Mammoth Metals Corporation,Basic Materials,Other Industrial Metals & Mining,Canada,153938112,2.85,24170,394647,1124743.95,,,,0.0,0.0,0.0,-0.06666,-0.03422,3076122,0,,3.357,3.323,-370373,-3610123,54013371,41490911,0.33284,0.04381,3509,0.01,,,,,13.430736,,-234.593,,,,,none,,,,,,2026-12-01,-0.486,https://blackmammothmetals.com,2026-11-12
+0.00,BMMX,Black Mammoth Metals Corporation,Basic Materials,Other Industrial Metals & Mining,Canada,147456512,2.73,12340,307381,839150.13,,,,0.0,0.0,0.0,-0.06666,-0.03422,3076122,0,,3.357,3.323,-370373,-3610123,54013371,41490911,0.33141997,0.04363,43038,0.15,,,,,12.8652315,,-224.514,,,,,none,,,,,,2026-12-01,-0.486,https://blackmammothmetals.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-15,3.36,3.42,2.55,3.24,,,,,,,0,2.5500,1,19267632,,,,
 2026-10-16,3.07,3.13,2.89,3.10,,,,,,,0,2.5500,1,529480,,,,
@@ -50,3 +50,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.83,3.08,2.72,2.72,2.86,,,,,3.6504,0,3.2707,0,25568,,,,
 2026-11-11,2.70,2.73,2.59,2.65,2.82,2.96,,,,3.5064,0,3.2245,0,38425,,,,
 2026-11-12,2.96,2.96,2.60,2.80,2.79,2.94,,,,3.5064,0,3.1810,0,25200,,,,
+2026-11-13,2.78,2.88,2.67,2.73,2.79,2.92,,,,3.5064,0,3.1402,0,30773,,,,

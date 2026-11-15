@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0005,26612,101391,-0.0252\n1,2026-06-30,"Renaissance Technologies, LLC",0.0002,10596,40370,0.16440001\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0,275,1047,1.0\n3,2026-06-30,UBS Group AG,0.0,323,1230,-0.1718\n4,2026-09-30,Gamma Investing LLC,0.0,1968,7498,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0005,26612,88617,-0.0252\n1,2026-09-30,"Jane Street Group, LLC",0.0002,12557,41814,1.0\n2,2026-09-30,UBS Group AG,0.0001,5490,18281,15.9969\n3,2026-06-30,Tower Research Capital LLC (TRC),0.0,275,915,1.0\n4,2026-09-30,Gamma Investing LLC,0.0,1968,6553,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Advisors Preferred Trust-Quantified Global Fund,0.00029999999,12642,48166,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Advisors Preferred Trust-Quantified Global Fund,0.00029999999,12642,42097,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00343\ninstitutionsFloatPercentHeld,0.00343\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.004\ninstitutionsFloatPercentHeld,0.004\ninstitutionsCount,6.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-06-02 09:30:00-04:00,0.25\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-80.75,WYHG,Wing Yip Food Holdings Group Limited,Consumer Defensive,Packaged Foods,China,135564256,3.81,541150,745126,2838930.06,-0.075,0.017,0.014,0.28923,0.12516,0.047140002,0.03856,0.03168,155525136384,46245392384,16.749,5.094,3.877,-23928737792,-35614134272,35581166,4175689,0.0,0.00343,33920,0.39,0.0011,8.659091,,0.0006650531,0.23055504,-0.536,-4.217,,,,,none,,,,,,,0.723,https://wingyip-food.com,2026-11-12
+79.04,WYHG,Wing Yip Food Holdings Group Limited,Consumer Defensive,Packaged Foods,China,118485288,3.33,542210,543946,1811340.18,-0.075,0.017,0.014,0.28923,0.07771,0.047140002,0.03856,0.03168,155525136384,46245392384,16.749,5.094,3.877,-23928737792,-35614134272,35581166,4175689,0.0,0.004,30544,0.82,0.001,7.5681815,,0.0005812668,0.20150875,-0.536,-4.217,,,,,none,,,,,,,0.723,https://wingyip-food.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-26,16.00,17.60,14.20,16.96,,,,,,,0,14.2000,1,3495880,,,,
 2024-11-27,15.08,17.56,15.08,16.16,,,,,,,0,14.2000,1,1459652,,,,
@@ -506,3 +506,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,4.00,4.00,3.52,3.52,3.29,3.05,4.04,3.58,3.18,2.4403,1,3.0292,1,65472,5414789,-0.0473,-0.2161,0.1688
 2026-11-11,3.68,3.79,3.50,3.50,3.36,3.07,3.96,3.59,3.19,2.4403,1,3.1342,1,94500,3675713,-0.0319,-0.1793,0.1474
 2026-11-12,3.52,3.64,3.40,3.41,3.41,3.09,3.90,3.60,3.19,2.4403,1,3.2288,1,67177,3588889,-0.0267,-0.1488,0.1221
+2026-11-13,3.44,3.44,3.28,3.33,3.47,3.10,3.85,3.61,3.19,2.4403,1,4.0800,0,25401,3551534,-0.0287,-0.1248,0.0961

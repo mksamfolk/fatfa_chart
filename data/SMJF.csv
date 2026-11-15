@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.016,239654,335515,1.0\n1,2026-06-30,HRT Financial LP,0.0074,110574,154803,1.0\n2,2026-06-30,Marshall Wace LLP,0.0068,101325,141854,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0036000002,53154,74415,-0.3165\n4,2026-06-30,"Two Sigma Investments, LP",0.0029,42809,59932,1.0\n5,2026-06-30,"Centiva Capital, LP",0.001,15147,21205,1.0\n6,2026-06-30,"Renaissance Technologies, LLC",0.001,14400,20159,1.0\n7,2026-06-30,"Point72 Asset Management, L.P.",0.001,14883,20836,1.0\n8,2026-09-30,Deutsche Bank AG,0.0004,6000,8399,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.016,239654,328325,1.0\n1,2026-06-30,HRT Financial LP,0.0074,110574,151486,1.0\n2,2026-06-30,Marshall Wace LLP,0.0068,101325,138815,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0036000002,53154,72820,-0.3165\n4,2026-06-30,"Two Sigma Investments, LP",0.0029,42809,58648,1.0\n5,2026-09-30,UBS Group AG,0.0023,34095,46710,1.0\n6,2026-06-30,"Centiva Capital, LP",0.001,15147,20751,1.0\n7,2026-06-30,"Point72 Asset Management, L.P.",0.001,14883,20389,1.0\n8,2026-09-30,Deutsche Bank AG,0.0004,6000,8220,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.26778\ninstitutionsPercentHeld,0.04003\ninstitutionsFloatPercentHeld,0.05467\ninstitutionsCount,9.0\n
+,Value\ninsidersPercentHeld,0.27006\ninstitutionsPercentHeld,0.00782\ninstitutionsFloatPercentHeld,0.010720001\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "f88f8ef4-c812-31c0-873e-ce587df6acfa",\n    "title": "SMJ International Holdings Inc. Receives a Warning Letter from NYSE American LLC",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/smj-international-holdings-inc-receives-180000650.html",\n    "providerPublishTime": 1791396000,\n    "type": "STORY",\n    "relatedTickers": [\n      "SMJF"\n    ]\n  },\n  {\n    "uuid": "653a6696-8592-396a-bd9d-6ae042d0b89e",\n    "title": "SMJ International Holdings Inc. Issues Statement Regarding Unusual Market Action",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/smj-international-holdings-inc-issues-154500350.html",\n    "providerPublishTime": 1787931900,\n    "type": "STORY",\n    "relatedTickers": [\n      "SMJF"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SMJF,,Consumer Cyclical,Textile Manufacturing,Singapore,38787000,1.4,87240,1070507,1498709.7999999998,-0.014,,,0.34555998,-0.05788,-0.05308,-0.06964,-0.02454,11799639,5394608,28.523,4.641,3.253,-3406476,-1095406,14937500,2705116,0.26778,0.04003,65055,0.06,0.0057,,,2.2239494,2.618042,1.857,-36.884,,,,,none,,,,,,,,https://smjf.com.sg,2026-11-12
+0.00,SMJF,,Consumer Cyclical,Textile Manufacturing,Singapore,37955852,1.37,84000,1006570,1379000.9000000001,-0.014,,,0.34555998,-0.055320002,-0.05308,-0.06964,-0.02454,11799639,5394608,28.523,4.641,3.253,-3406476,-1095406,14937500,2705116,0.27006,0.00782,72273,0.11,0.0063,,,2.1762936,2.5619411,1.809,-35.937,,,,,none,,,,,,,,https://smjf.com.sg,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-12-04,4.42,7.00,4.25,4.51,,,,,,,0,4.2500,1,7294925,,,,
 2025-12-05,4.30,4.95,4.30,4.40,,,,,,,0,4.2500,1,839520,,,,
@@ -251,3 +251,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.41,1.48,1.37,1.45,1.48,1.64,3.67,4.21,4.19,2.0230,0,6.0033,0,200680,5122989,-0.4153,-0.5283,0.1130
 2026-11-11,1.42,1.48,1.31,1.40,1.47,1.60,3.52,4.20,4.17,1.9842,0,5.9013,0,275940,4713894,-0.3939,-0.5014,0.1075
 2026-11-12,1.41,1.43,1.40,1.41,1.46,1.57,3.36,4.19,4.15,1.9543,0,5.8012,0,40326,4610079,-0.3718,-0.4755,0.1037
+2026-11-13,1.36,1.47,1.36,1.37,1.44,1.55,3.19,4.18,4.13,1.9334,0,5.7032,0,34662,4521475,-0.3534,-0.4511,0.0976

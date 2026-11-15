@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.002,22113,52407,-0.005\n1,2026-06-30,Sankala Group LLC,0.00029999999,3333,7899,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.002,22113,50156,-0.005\n1,2026-09-30,Sankala Group LLC,0.00029999999,3333,7559,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-34.84,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,25749580,2.37,5310,5251,12444.87,0.884,,,0.14397,-2.27463,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2279,0.34,0.0004,15.799998,,24.143936,4.47125,17.501,-6.179,,,,,none,,,,,,,,https://belive.technology,2026-11-12
+35.15,BLIV,BeLive Holdings,Technology,Software - Application,Singapore,24643544,2.2682,500,5092,11549.674400000002,0.884,,,0.14397,-2.80241,-2.7091699,-0.32841,-0.20040001,7120122,35009,0.476,13.52,13.227,-2475687,-2069457,10864802,5270190,0.51493,0.00234,2053,0.23,0.0004,15.121332,,23.106869,4.279194,16.464,-5.813,,,,,none,,,,,,,,https://belive.technology,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-04,4.00,4.00,3.30,3.54,,,,,,,0,4.0000,0,5296194,,,,
 2025-04-07,3.29,3.53,3.03,3.15,,,,,,,0,4.0000,0,2462040,,,,

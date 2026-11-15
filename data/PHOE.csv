@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.00059999997,13420,241560,0.061300002\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0,700,12600,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.00059999997,13420,211901,0.061300002\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0,700,11052,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13420,241560,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,13420,211901,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-48.58,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,388800000,18.0,1030,10868,195624.0,0.032,,,0.04575,-0.38554,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00065,1112,0.18,0.0002,,,53.956917,63.157894,53.786,-328.028,,,,,none,,,,,,,,https://www.winfield.hk,2026-11-12
+49.15,PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,Hong Kong,341064000,15.79,1130,9826,155152.53999999998,0.032,,,0.04575,-0.16791001,-0.16667,-0.25913998,-0.11915,1294918,65295,1.06,5.461,5.461,-5727785,-4021118,21600000,5500008,0.74537003,0.00065,1085,0.72,0.0002,,,47.332207,55.40351,47.162,-287.625,,,,,none,,,,,,,,https://www.winfield.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-25,7.00,7.37,3.22,3.65,,,,,,,0,7.3700,0,6100975,,,,
 2025-04-28,3.13,3.95,2.52,3.00,,,,,,,0,7.3700,0,2643300,,,,

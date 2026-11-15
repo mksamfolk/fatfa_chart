@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18251820,0.0\n1,2026-06-30,Linden Advisors LP,0.056500003,1300000,13181870,0.625\n2,2026-06-30,Magnetar Financial LLC,0.0435,1000000,10139900,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,800000,8111920,0.0\n4,2026-06-30,AQR Arbitrage LLC,0.026300002,605942,6144191,0.0689\n5,2026-06-30,"MMCAP International, Inc. SPC",0.026099999,600000,6083940,1.0\n6,2026-06-30,"Meteora Capital, LLC",0.0238,548000,5556665,0.6884\n7,2026-06-30,Governors Lane LP,0.0231,531499,5389346,1.2959\n8,2026-06-30,"Saba Capital Management, L.P.",0.0222,511515,5186711,0.0\n9,2026-06-30,Sona Asset Management (US) LLC,0.022,506018,5130972,0.012\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18143999,0.0\n1,2026-06-30,Linden Advisors LP,0.056500003,1300000,13103999,0.625\n2,2026-06-30,Magnetar Financial LLC,0.0435,1000000,10079999,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.0348,800000,8063999,0.0\n4,2026-06-30,AQR Arbitrage LLC,0.026300002,605942,6107895,0.0689\n5,2026-09-30,"MMCAP International, Inc. SPC",0.026099999,600000,6047999,0.0\n6,2026-06-30,"Meteora Capital, LLC",0.0238,548000,5523839,0.6884\n7,2026-06-30,Governors Lane LP,0.0231,531499,5357509,1.2959\n8,2026-06-30,"Saba Capital Management, L.P.",0.0222,511515,5156071,0.0\n9,2026-06-30,Sona Asset Management (US) LLC,0.022,506018,5100661,0.012\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0186,428892,4348922,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.003,68484,694420,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0014,33332,337983,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0013,30222,306448,0.0\n4,2026-08-31,High Income Securities Fund,0.0011,25000,253497,1.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,12903,130835,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0186,428892,4323231,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.003,68484,690318,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0014,33332,335986,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0013,30222,304637,0.0\n4,2026-08-31,High Income Securities Fund,0.0011,25000,251999,1.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,12903,130062,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.29159\ninstitutionsPercentHeld,0.77163005\ninstitutionsFloatPercentHeld,1.0892501\ninstitutionsCount,58.0\n
+,Value\ninsidersPercentHeld,0.29159\ninstitutionsPercentHeld,0.74957\ninstitutionsFloatPercentHeld,1.05811\ninstitutionsCount,54.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SVIV,Spring Valley Acquisition Corp. IV,Financial Services,Shell Companies,United States,310956960,10.1399,20990,32884,333440.47160000005,,,,0.0,0.0,0.0,,,842941,0,,0.238,,0,,23000000,4608667,0.29159,0.77163005,13,0.0,0.0,,,,-3379.9668,,,,,,,none,,,,,,,,https://sv-ac.com,2026-11-12
+0.00,SVIV,Spring Valley Acquisition Corp. IV,Financial Services,Shell Companies,United States,309120000,10.08,17730,32937,332004.96,,,,0.0,0.0,0.0,,,842941,0,,0.238,,0,,23000000,21199867,0.29159,0.74957,62,0.0,0.0,,,,-37.61194,,,,,,,none,,,,,,,,https://sv-ac.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-02,10.08,10.80,9.55,10.02,,,,,,,0,9.5500,1,51102,,,,
 2026-03-03,10.07,10.07,9.89,9.89,,,,,,,0,9.5500,1,76153,,,,
@@ -193,3 +193,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.06,10.16,10.06,10.16,10.08,10.08,10.14,10.10,,10.0197,1,10.0228,1,20320,356548,-0.0078,-0.0182,0.0103
 2026-11-11,10.16,10.16,10.16,10.16,10.09,10.09,10.14,10.10,,10.0396,1,10.0255,1,,356548,-0.0018,-0.0149,0.0131
 2026-11-12,10.07,10.16,10.05,10.10,10.09,10.09,10.13,10.10,,10.0396,1,10.0282,1,28280,357114,-0.0019,-0.0123,0.0104
+2026-11-13,10.10,10.19,10.08,10.08,10.10,10.09,10.13,10.10,,10.0396,1,10.0309,1,13729,356817,-0.0035,-0.0105,0.0070

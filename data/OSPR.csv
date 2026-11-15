@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Periscope Capital Inc.,0.0166,499500,4910084,1.0\n1,2026-09-30,Stonex Group Inc.,0.0153,458457,4506632,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0149,447987,4403712,1.0\n3,2026-09-30,First Trust Capital Management L.P.,0.013300001,399738,3929424,1.0\n4,2026-09-30,"Context Capital Management, LLC",0.01,300000,2948999,1.0\n5,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0058,172908,1699685,1.0\n6,2026-09-30,Deltec Asset Management LLC,0.0033000002,99900,982016,1.0\n7,2026-09-30,Gritstone Asset Management LLC,0.0023,70000,688099,1.0\n8,2026-09-30,ABC Arbitrage SA,0.001,30000,294899,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,BNP Paribas Financial Markets,0.0341,1050279,10313739,1.0\n1,2026-09-30,Picton Mahoney Asset Management,0.0163,499995,4909950,1.0\n2,2026-09-30,Periscope Capital Inc.,0.0162,499500,4905089,1.0\n3,2026-09-30,Stonex Group Inc.,0.0149,458457,4502047,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0146,447987,4399232,1.0\n5,2026-09-30,First Trust Capital Management L.P.,0.012999999,399738,3925427,1.0\n6,2026-09-30,"Context Capital Management, LLC",0.0098,300000,2945999,1.0\n7,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0056,172908,1697956,1.0\n8,2026-09-30,JPMORGAN CHASE & CO,0.004,122730,1205208,1.0\n9,2026-09-30,Deltec Asset Management LLC,0.0032,99900,981017,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0017,49998,491480,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0016,49998,490980,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00098\ninstitutionsPercentHeld,0.15142\ninstitutionsFloatPercentHeld,0.15156999\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.00098\ninstitutionsPercentHeld,0.34402\ninstitutionsFloatPercentHeld,0.34435\ninstitutionsCount,20.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OSPR,Osprey Acquisition Corp. III,Financial Services,Shell Companies,United States,403187264,9.83,12570,91017,894697.11,,,,0.0,0.0,0.0,,,22607,176934,,,,,,30762000,,0.00098,0.15142,523,0.01,0.0,,,,-1092.2223,,,,,,,none,,,,,,,,https://www.ospreyiii.com,2026-11-12
+0.00,OSPR,Osprey Acquisition Corp. III,Financial Services,Shell Companies,United States,402777120,9.82,25320,87090,855223.8,,,,0.0,0.0,0.0,,,1221617,0,,,,,,30762000,,0.00098,0.34402,419,0.01,0.0,,,,-35.19713,,,,,,,none,,,,,,,,https://www.ospreyiii.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-21,9.99,10.00,9.82,9.95,,,,,,,0,9.8200,1,208950,,,,
 2026-08-24,9.99,10.05,9.85,9.91,,,,,,,0,9.8200,1,21537403,,,,
@@ -88,3 +88,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.83,9.83,9.82,9.83,9.83,9.83,9.83,,,9.8435,0,9.8086,1,131722,495171,0.0001,-0.0010,0.0011
 2026-11-11,9.83,9.83,9.82,9.83,9.83,9.83,9.83,,,9.8435,0,9.8098,1,88470,494185,0.0002,-0.0008,0.0009
 2026-11-12,9.82,9.82,9.82,9.82,9.83,9.83,9.83,,,9.8407,0,9.8110,1,2946,489973,-0.0006,-0.0007,0.0001
+2026-11-13,9.82,9.82,9.82,9.82,9.83,9.83,9.83,,,9.8387,0,9.8122,1,1037179,509516,-0.0012,-0.0008,-0.0004

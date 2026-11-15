@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0232,400000,3988000,1.0\n1,2026-09-30,Periscope Capital Inc.,0.0174,300000,2991000,1.0\n2,2026-09-30,Gritstone Asset Management LLC,0.0052,90000,897300,1.0\n3,2026-09-30,Stonex Group Inc.,0.0047999998,81986,817400,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0021,35490,353835,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0017,30000,299100,1.0\n6,2026-09-30,First Trust Capital Management L.P.,0.0014,24800,247256,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,BNP Paribas Financial Markets,0.0256,441600,4424832,1.0\n1,2026-09-30,Wealthspring Capital LLC,0.0232,400000,4008000,1.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0232,400000,4008000,1.0\n3,2026-09-30,Periscope Capital Inc.,0.0174,300000,3006000,1.0\n4,2026-09-30,JPMORGAN CHASE & CO,0.0061000003,105196,1054063,1.0\n5,2026-09-30,Gritstone Asset Management LLC,0.0052,90000,901800,1.0\n6,2026-09-30,Stonex Group Inc.,0.0047999998,81986,821499,1.0\n7,2026-09-30,"Wolverine Asset Management, LLC",0.0021,35490,355609,1.0\n8,2026-09-30,ABC Arbitrage SA,0.0017,30000,300600,1.0\n9,2026-09-30,First Trust Capital Management L.P.,0.0014,24800,248496,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -15,19 +15,19 @@ recommendations
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31\nFree Cash Flow,-339000.0,-26000.0\nIssuance Of Debt,89000.0,110000.0\nEnd Cash Position,1625000.0,21000.0\nBeginning Cash Position,21000.0,50000.0\nChanges In Cash,1604000.0,-29000.0\nFinancing Cash Flow,175306000.0,-3000.0\nCash Flow From Continuing Financing Activities,175306000.0,-3000.0\nNet Other Financing Charges,-614000.0,-113000.0\nNet Issuance Payments Of Debt,-180000.0,110000.0\nNet Short Term Debt Issuance,-180000.0,110000.0\nShort Term Debt Issuance,89000.0,110000.0\nOperating Cash Flow,-339000.0,-26000.0\nCash Flow From Continuing Operating Activities,-339000.0,-26000.0\nChange In Working Capital,5111000.0,16000.0\nChange In Payables And Accrued Expense,85000.0,16000.0\nChange In Accrued Expense,75000.0,11000.0\nChange In Payable,10000.0,5000.0\nChange In Account Payable,10000.0,5000.0\nNet Income From Continuing Operations,-5063000.0,-42000.0\n
+,2026-09-30,2026-06-30,2026-03-31\nFree Cash Flow,-194000.0,-339000.0,-26000.0\nRepayment Of Debt,0.0,,\nIssuance Of Debt,0.0,89000.0,110000.0\nIssuance Of Capital Stock,0.0,,\nEnd Cash Position,1431000.0,1625000.0,21000.0\nBeginning Cash Position,1625000.0,21000.0,50000.0\nChanges In Cash,-194000.0,1604000.0,-29000.0\nFinancing Cash Flow,0.0,175306000.0,-3000.0\nCash Flow From Continuing Financing Activities,0.0,175306000.0,-3000.0\nNet Other Financing Charges,0.0,-614000.0,-113000.0\nProceeds From Stock Option Exercised,0.0,,\nNet Common Stock Issuance,0.0,,\nCommon Stock Issuance,0.0,,\nNet Issuance Payments Of Debt,0.0,-180000.0,110000.0\nNet Short Term Debt Issuance,0.0,-180000.0,110000.0\nShort Term Debt Payments,0.0,,\nShort Term Debt Issuance,0.0,89000.0,110000.0\nInvesting Cash Flow,0.0,,\nCash Flow From Continuing Investing Activities,0.0,,\nNet Other Investing Changes,0.0,,\nOperating Cash Flow,-194000.0,-339000.0,-26000.0\nCash Flow From Continuing Operating Activities,-194000.0,-339000.0,-26000.0\nChange In Working Capital,202000.0,5111000.0,16000.0\nChange In Other Working Capital,99000.0,,\nChange In Payables And Accrued Expense,57000.0,85000.0,16000.0\nChange In Accrued Expense,13000.0,75000.0,11000.0\nChange In Payable,44000.0,10000.0,5000.0\nChange In Account Payable,44000.0,10000.0,5000.0\nChange In Prepaid Assets,46000.0,,\nOther Non Cash Items,-1588000.0,,\nNet Income From Continuing Operations,1192000.0,-5063000.0,-42000.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.18726\ninstitutionsFloatPercentHeld,0.18759\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.4133\ninstitutionsFloatPercentHeld,0.41402\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,LTGR,Long Table Growth Corp.,Financial Services,Shell Companies,United States,229310000,9.97,26880,6854,68334.38,,,,0.0,0.0,0.0,,,1624999936,0,,0.307,0.307,0,,17250000,15660700,0.00174,0.18726,23,0.01,0.0,,,,-11.45977,,,,,,,none,,,,,,,,https://longtablepartners.com,2026-11-12
+0.00,LTGR,Long Table Growth Corp.,Financial Services,Shell Companies,United States,230460016,10.02,51460,10831,108526.62,,,,0.0,0.0,0.0,,,1431000064,0,,0.307,0.307,0,,17250000,14449980,0.00174,0.4133,60,0.02,0.0,,,,-0.025316905,,,,,,,none,,,,,,,,https://longtablepartners.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-27,9.94,9.95,9.90,9.90,,,,,,,0,9.9500,0,187110,,,,
 2026-07-28,9.88,9.88,9.88,9.88,,,,,,,0,9.9500,0,56316,,,,
@@ -92,3 +92,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.98,9.98,9.98,9.98,9.97,9.96,9.95,,,9.9687,1,9.9420,1,598800,92332,0.0066,0.0061,0.0005
 2026-11-11,9.98,9.98,9.98,9.98,9.97,9.96,9.95,,,9.9698,1,9.9429,1,,92332,0.0071,0.0063,0.0008
 2026-11-12,10.03,10.03,10.02,10.03,9.98,9.97,9.96,,,10.0008,1,9.9439,1,2036090,133054,0.0113,0.0073,0.0041
+2026-11-13,10.06,10.06,9.99,10.06,9.99,9.97,9.96,,,10.0008,1,9.9473,1,30140,132624,0.0170,0.0092,0.0078

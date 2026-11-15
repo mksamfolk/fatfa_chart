@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.0256,390000,3919500,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0026,40000,402000,1.0\n2,2026-09-30,ABC Arbitrage SA,0.002,30000,301500,1.0\n3,2026-09-30,"Geode Capital Management, LLC",0.0007,10783,108369,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0004,6810,68440,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.0552,840208,8452492,1.0\n1,2026-09-30,"MMCAP International, Inc. SPC",0.0511,778500,7831710,1.0\n2,2026-09-30,"Westchester Capital Management, LLC",0.0479,730000,7343800,1.0\n3,2026-09-30,First Trust Capital Management L.P.,0.0256,390000,3923400,1.0\n4,2026-09-30,"Gabelli & Co. Investment Advisers, Inc.",0.0182,276500,2781590,1.0\n5,2026-09-30,BNP Paribas Financial Markets,0.0098,149824,1507229,1.0\n6,2026-09-30,"Gabelli Funds, LLC",0.0047999998,73500,739410,1.0\n7,2026-09-30,Deltec Asset Management LLC,0.0026,40000,402400,1.0\n8,2026-09-30,ABC Arbitrage SA,0.002,30000,301800,1.0\n9,2026-09-30,"Geode Capital Management, LLC",0.0007,10783,108476,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0367,558520,5613126,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,15350,154267,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,10783,108369,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0367,558520,5618711,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.001,15350,154421,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,10783,108476,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.02438\ninstitutionsPercentHeld,0.06741\ninstitutionsFloatPercentHeld,0.06909\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.02438\ninstitutionsPercentHeld,0.50125\ninstitutionsFloatPercentHeld,0.51377\ninstitutionsCount,20.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,214957840,10.05,13910,35014,351890.7,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02438,0.06741,5437,0.68,0.00059999997,,,,-55.219784,,,,,,,none,,,,,,,,,2026-11-12
+0.00,AESP,Aeon Acquisition I Corp.,Financial Services,Shell Companies,United States,215171744,10.06,40940,38887,391203.22000000003,,,,0.0,0.0,0.0,,,302745,0,,,,0,,15228125,11532649,0.02438,0.50125,5467,0.29,0.00059999997,,,,-55.274727,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-01,9.88,9.88,9.85,9.86,,,,,,,0,9.8500,1,4199374,,,,
 2026-07-02,9.86,9.87,9.86,9.87,,,,,,,0,9.8500,1,1213023,,,,

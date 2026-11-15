@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.079,817948,8293993,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0651,673644,6830750,0.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0556,575000,5830500,1.0909\n3,2026-06-30,"RiverNorth Capital Management, LLC",0.048299998,500000,5070000,0.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,500000,5070000,0.0\n5,2026-09-30,Alberta Investment Management Corp,0.048299998,500000,5070000,0.0\n6,2026-06-30,Sona Asset Management (US) LLC,0.0462,477971,4846626,0.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0436,451467,4577875,0.1245\n8,2026-06-30,Millennium Management Llc,0.038599998,400000,4056000,1.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.038599998,399861,4054590,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.079,817948,8244915,0.0\n1,2026-06-30,AQR Arbitrage LLC,0.0651,673644,6790331,0.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0556,575000,5795999,1.0909\n3,2026-06-30,"RiverNorth Capital Management, LLC",0.048299998,500000,5039999,0.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.048299998,500000,5039999,0.0\n5,2026-09-30,Alberta Investment Management Corp,0.048299998,500000,5039999,0.0\n6,2026-06-30,Sona Asset Management (US) LLC,0.0462,477971,4817947,0.0\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0436,451467,4550787,0.1245\n8,2026-06-30,Millennium Management Llc,0.038599998,400000,4031999,1.0\n9,2026-06-30,"Radcliffe Capital Management, L.P.",0.038599998,399861,4030598,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0097,100000,1014000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0097,100000,1007999,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00386\ninstitutionsPercentHeld,0.80902\ninstitutionsFloatPercentHeld,0.81216\ninstitutionsCount,34.0\n
+,Value\ninsidersPercentHeld,0.00386\ninstitutionsPercentHeld,0.81343\ninstitutionsFloatPercentHeld,0.81658995\ninstitutionsCount,33.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SCPQ,Social Commerce Partners Corporation,Financial Services,Shell Companies,United States,138749008,10.14,10,13740,139323.6,,,,0.0,0.0,0.0,,,349599,0,,7.228,6.997,-176400,,10350000,9282089,0.00386,0.80902,39,0.0,0.0,,,,-53.650795,,,,,,,none,,,,,,,,https://socialcommercepartnerscorp.com,2026-11-12
+0.00,SCPQ,Social Commerce Partners Corporation,Financial Services,Shell Companies,United States,137928000,10.08,8510,15062,151824.96,,,,0.0,0.0,0.0,,,349599,0,,7.228,6.997,-176400,,10350000,9282089,0.00386,0.81343,61,0.01,0.0,,,,-43.826084,,,,,,,none,,,,,,,,https://socialcommercepartnerscorp.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-12,10.00,10.00,9.90,9.91,,,,,,,0,10.0000,0,68379,,,,
 2026-02-13,9.86,9.87,9.85,9.87,,,,,,,0,10.0000,0,48363,,,,
@@ -204,3 +204,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.14,10.14,10.14,10.14,10.14,10.12,10.07,9.99,,10.1305,1,10.0972,1,,110264,0.0223,0.0243,-0.0020
 2026-11-11,10.07,10.07,10.07,10.07,10.13,10.12,10.07,9.99,,10.0996,0,10.1400,0,1007,110284,0.0156,0.0226,-0.0070
 2026-11-12,10.07,10.07,10.07,10.07,10.13,10.12,10.07,9.99,,10.0966,0,10.1400,0,,110184,0.0102,0.0201,-0.0099
+2026-11-13,10.08,10.08,10.08,10.06,10.12,10.12,10.07,9.99,,10.0966,0,10.1386,0,855191,127288,0.0050,0.0171,-0.0121

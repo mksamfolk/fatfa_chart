@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0153,316505,3098583,1.0\n1,2026-09-30,Periscope Capital Inc.,0.013300001,274982,2692073,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1957999,1.0\n3,2026-09-30,Gritstone Asset Management LLC,0.0036000002,75000,734249,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0015,30000,293699,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,BNP Paribas Financial Markets,0.031600002,653164,6407539,1.0\n1,2026-09-30,Stonex Group Inc.,0.0153,316505,3104914,1.0\n2,2026-09-30,Periscope Capital Inc.,0.013300001,274982,2697573,1.0\n3,2026-09-30,"Context Capital Management, LLC",0.0097,200000,1962000,1.0\n4,2026-09-30,Gritstone Asset Management LLC,0.0036000002,75000,735750,1.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0015,30000,294300,1.0\n6,2026-09-30,UBS Group AG,0.0,800,7848,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.04341\ninstitutionsFloatPercentHeld,0.04341\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.15062\ninstitutionsFloatPercentHeld,0.15062\ninstitutionsCount,11.0\n
 news
-[]\n
+[\n  {\n    "uuid": "c7c659b1-1e34-31b8-a5ef-69a2977b3c75",\n    "title": "1&1 AG (XTER:1U1) (Q3 2026) Earnings Call Highlights: Open RAN Coverage Climbs to 36% as ...",\n    "publisher": "GuruFocus.com",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/1-1-ag-xter-1u1-230507485.html",\n    "providerPublishTime": 1794524707,\n    "type": "STORY",\n    "relatedTickers": [\n      "1U1.DE",\n      "1U1"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XTER,Xterax Corporation II,Financial Services,Shell Companies,United States,267430176,9.79,65280,49976,489265.04,,,,0.0,0.0,0.0,,,18500,37597,,,,0,,20650000,20400087,0.0,0.04341,1196,0.02,0.0001,,,,-1958.0,,,,,,,none,,,,,,,,,2026-11-12
+0.00,XTER,Xterax Corporation II,Financial Services,Shell Companies,United States,267976528,9.81,79390,49489,485487.09,,,,0.0,0.0,0.0,,,18500,37597,,,,0,,20650000,20400087,0.0,0.15062,1232,0.02,0.0001,,,,-1962.0001,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-27,9.90,9.90,9.83,9.84,,,,,,,0,9.9000,0,1028280,,,,
 2026-08-28,9.83,9.83,9.81,9.82,,,,,,,0,9.9000,0,168904,,,,
@@ -84,3 +84,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.80,9.81,9.80,9.80,9.78,9.78,9.79,,,9.7750,1,9.7706,1,151900,486752,-0.0026,-0.0051,0.0026
 2026-11-11,9.80,9.80,9.79,9.79,9.78,9.78,9.79,,,9.7750,1,9.7722,1,1464584,513530,-0.0018,-0.0045,0.0026
 2026-11-12,9.79,9.79,9.79,9.79,9.78,9.78,9.79,,,9.7750,1,9.7737,1,,513078,-0.0013,-0.0038,0.0026
+2026-11-13,9.81,9.81,9.81,9.81,9.78,9.78,9.79,,,9.7772,1,9.7751,1,73889,512101,0.0008,-0.0029,0.0037

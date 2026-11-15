@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.044299997,1526796,15695462,0.038599998\n1,2026-06-30,Alberta Investment Management Corp,0.042,1450000,14905999,0.0\n2,2026-06-30,Glazer Capital LLC,0.039100002,1350000,13877999,0.2574\n3,2026-06-30,Peak6 LLC,0.036199998,1250000,12849999,0.0\n4,2026-06-30,Picton Mahoney Asset Management,0.0324,1116998,11482739,0.0155\n5,2026-06-30,AQR Arbitrage LLC,0.0321,1108776,11398216,0.007900001\n6,2026-06-30,Linden Advisors LP,0.0319,1100000,11307999,0.0\n7,2026-06-30,"MMCAP International, Inc. SPC",0.0319,1100000,11307999,0.0\n8,2026-06-30,Polar Asset Management Partners Inc.,0.0319,1100000,11307999,0.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.0319,1100000,11307999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.044299997,1526796,15710730,0.038599998\n1,2026-09-30,Alberta Investment Management Corp,0.042,1450000,14920499,0.0\n2,2026-06-30,Glazer Capital LLC,0.039100002,1350000,13891499,0.2574\n3,2026-06-30,Peak6 LLC,0.036199998,1250000,12862499,0.0\n4,2026-09-30,Picton Mahoney Asset Management,0.0324,1116998,11493909,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0321,1108776,11409304,0.007900001\n6,2026-06-30,Linden Advisors LP,0.0319,1100000,11318999,0.0\n7,2026-06-30,Polar Asset Management Partners Inc.,0.0319,1100000,11318999,0.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.0319,1100000,11318999,0.0\n9,2026-09-30,"MMCAP International, Inc. SPC",0.0319,1100000,11318999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.01,343728,3533523,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0029,99999,1027989,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0029,99999,1027989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0016,53609,551100,0.0\n4,2026-06-30,"Special Opportunities Fund, Inc.",0.0014,50000,513999,0.0\n5,2026-08-31,High Income Securities Fund,0.0014,50000,513999,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00029999999,9124,93794,-0.040799998\n7,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,8888,91368,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.01,343728,3536961,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0029,99999,1028989,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0029,99999,1028989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0016,53609,551636,0.0\n4,2026-06-30,"Special Opportunities Fund, Inc.",0.0014,50000,514499,0.0\n5,2026-08-31,High Income Securities Fund,0.0014,50000,514499,0.0\n6,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.00029999999,9124,93885,-0.040799998\n7,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,8888,91457,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.06103\ninstitutionsPercentHeld,0.87364995\ninstitutionsFloatPercentHeld,0.93043\ninstitutionsCount,72.0\n
+,Value\ninsidersPercentHeld,0.06103\ninstitutionsPercentHeld,0.87333\ninstitutionsFloatPercentHeld,0.9301\ninstitutionsCount,71.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-57.14,MBVI,M3-Brigade Acquisition Vi Corp.,Financial Services,Shell Companies,United States,443324992,10.28,23760,41918,430917.04,,,,0.0,0.0,0.0,,,706889,0,,3.694,3.099,-767962,,34500000,34500000,0.06103,0.87364995,2547,0.06,0.0001,,,,-28.010897,,,,,,,none,,,,,,,,https://www.m3-brigade.com/m3-brigade-acquisition-iii-corp,2026-11-12
+57.42,MBVI,M3-Brigade Acquisition Vi Corp.,Financial Services,Shell Companies,United States,443756256,10.29,23500,42762,440020.98,,0.398,1.949,0.0,0.0,0.0,,,693848,0,,2.473,2.006,-598385,,34500000,6900000,0.06103,0.87333,2757,0.04,0.0001,,,,-5.5772357,,,,,,,none,,,,,,,,https://www.m3-brigade.com/m3-brigade-acquisition-iii-corp,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-17,10.30,10.50,10.02,10.09,,,,,,,0,10.5000,0,1001937,,,,
 2025-10-20,10.09,10.09,10.00,10.04,,,,,,,0,10.5000,0,714848,,,,
@@ -284,3 +284,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.28,10.28,10.28,10.28,10.27,10.26,10.24,10.16,10.14,10.2654,1,10.2459,1,311484,403089,0.0129,0.0118,0.0011
 2026-11-11,10.28,10.30,10.28,10.30,10.28,10.26,10.24,10.16,10.14,10.2709,1,10.2480,1,179220,405246,0.0143,0.0123,0.0019
 2026-11-12,10.30,10.30,10.30,10.30,10.28,10.26,10.24,10.17,10.15,10.2828,1,10.2521,1,,404450,0.0152,0.0129,0.0023
+2026-11-13,10.29,10.29,10.29,10.30,10.28,10.27,10.25,10.17,10.15,10.2828,1,10.2560,1,64663,405744,0.0157,0.0134,0.0022

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,22,311,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0,22,342,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,895,12691,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,895,13917,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.48217\ninstitutionsPercentHeld,1.0000001e-05\ninstitutionsFloatPercentHeld,2.0000001e-05\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.48217\ninstitutionsPercentHeld,0.0\ninstitutionsFloatPercentHeld,0.0\ninstitutionsCount,0.0\n
 news
 [\n  {\n    "uuid": "0cbd0227-e8e5-328b-b6a8-0fc5878efac3",\n    "title": "EUDA Health Subsidiary Melana International Wins SME100 Awards 2026 Singapore",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/small-business/articles/euda-health-subsidiary-melana-international-100000891.html",\n    "providerPublishTime": 1787738400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/c0279e041417232763638903d602b01f.jpg",\n          "width": 134,\n          "height": 62,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/008CFD056C8217BAF97EA1237F5BBE091858E62FBB432BD426EFF28F5DF848E5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc0279e041417232763638903d602b01f.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "EUDA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-03-23 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-25.24,EUDA,EUDA Health Holdings Limited,Real Estate,Real Estate Services,Singapore,42459528,14.18,56990,31035,440076.3,0.134,,,0.47566003,-0.21959999,-0.32689998,-2.11359,-0.21923,365904,339985,5.702,2.528,0.302,-2417153,-8796983,2994325,1761681,0.48217,1.0000001e-05,1616,0.06,0.0008,,8.8625,5.872057,7.1042085,5.867,-23.024,55.0,55.0,55.0,,none,1,,,,,,0.546,https://eudahealth.com,2026-11-12
+23.33,EUDA,EUDA Health Holdings Limited,Real Estate,Real Estate Services,Singapore,46561756,15.55,33730,32142,499808.10000000003,0.134,,,0.47566003,-0.28626,-0.32689998,-2.11359,-0.21923,365904,339985,5.702,2.528,0.302,-2417153,-8796983,2994325,1761681,0.48217,0.0,6429,0.15,0.0031,,9.71875,6.439386,7.790581,6.434,-25.251,55.0,55.0,55.0,,none,1,,,,,,0.546,https://eudahealth.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-12-14,193.00,193.00,193.00,193.00,,,,,,,0,193.0000,1,11280850,,,,
 2021-12-15,193.00,193.60,193.00,193.20,,,,,,,0,193.0000,1,4249434,,,,
@@ -1248,3 +1248,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,14.53,15.50,14.38,14.66,15.32,14.96,14.97,13.88,16.51,18.3555,0,13.4684,1,406082,512543,-0.1717,-0.0486,-0.1231
 2026-11-11,15.27,15.69,15.17,15.65,15.35,14.97,14.98,13.92,16.36,18.3555,0,13.5590,1,334910,518784,-0.1033,-0.0596,-0.0438
 2026-11-12,15.72,15.80,15.59,15.80,15.38,14.99,15.03,13.98,16.21,18.3555,0,13.6478,1,25280,517454,-0.0366,-0.0550,0.0184
+2026-11-13,14.27,15.79,14.27,15.55,15.16,14.99,15.06,14.03,16.05,18.3555,0,13.7349,1,106689,518524,-0.0038,-0.0447,0.0409

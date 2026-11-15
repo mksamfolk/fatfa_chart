@@ -5,11 +5,11 @@ Date,Dividends\n
 income_stmt
 ""\n
 insider_roster_holders
-,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,CHEN BIHUA X.,Chief Executive Officer,,Stock Award(Grant),2026-01-26,497500,1769385600\n
+,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date\n0,CHEN BIHUA X.,Chief Executive Officer,,Purchase,2026-01-26,1297500,1769385600\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Cormorant Asset Management, LP",0.0731,1297500,13338299,0.0\n1,2026-06-30,"Affinity Asset Advisors, Llc",0.0704,1250000,12849999,0.0\n2,2026-06-30,"RA Capital Management, L.P.",0.0704,1250000,12849999,0.0\n3,2026-06-30,"Nantahala Capital Management, LLC",0.0704,1250000,12849999,0.0\n4,2026-06-30,"SilverArc Capital Management, LLC",0.0664,1177821,12107999,-0.025799999\n5,2026-06-30,Decagon Asset Management LLP,0.0589,1044766,10740194,0.3078\n6,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0563,1000000,10279999,0.0\n7,2026-06-30,Balyasny Asset Management LP,0.0558,990000,10177199,0.0\n8,2026-06-30,Braidwell LP                          ,0.0507,900000,9251999,0.0\n9,2026-06-30,Sculptor Capital LP,0.049200002,872563,8969947,0.098000005\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Cormorant Asset Management, LP",0.0731,1297500,13351274,0.0\n1,2026-06-30,"Affinity Asset Advisors, Llc",0.0704,1250000,12862499,0.0\n2,2026-06-30,"RA Capital Management, L.P.",0.0704,1250000,12862499,0.0\n3,2026-06-30,"Nantahala Capital Management, LLC",0.0704,1250000,12862499,0.0\n4,2026-09-30,"SilverArc Capital Management, LLC",0.0681,1208030,12430628,0.0256\n5,2026-06-30,Decagon Asset Management LLP,0.0589,1044766,10750642,0.3078\n6,2026-06-30,"Adar1 Capital Management, LLC                          ",0.0563,1000000,10289999,0.0\n7,2026-06-30,Balyasny Asset Management LP,0.0558,990000,10187099,0.0\n8,2026-06-30,Braidwell LP                          ,0.0507,900000,9260999,0.0\n9,2026-06-30,Sculptor Capital LP,0.049200002,872563,8978673,0.098000005\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0057,101878,1047305,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,16122,165734,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,9079,93332,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0057,101878,1048324,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00090000004,16122,165895,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,9079,93422,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -19,15 +19,15 @@ cashflow
 earnings_dates
 ""\n
 insider_transactions
-,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,497500,4975000,,Stock Award(Grant) at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n1,497500,4975000,,Stock Award(Grant) at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n2,800000,8000000,,Purchase at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n
+,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,800000,8000000,,Purchase at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n1,497500,4975000,,Stock Award(Grant) at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n2,497500,4975000,,Stock Award(Grant) at price 10.00 per share.,CHEN BIHUA X.,Chief Executive Officer,,2026-01-26,I\n
 major_holders
-,Value\ninsidersPercentHeld,0.00169\ninstitutionsPercentHeld,0.99039\ninstitutionsFloatPercentHeld,0.99207\ninstitutionsCount,41.0\n
+,Value\ninsidersPercentHeld,0.0035299999\ninstitutionsPercentHeld,0.98953\ninstitutionsFloatPercentHeld,0.99304\ninstitutionsCount,43.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,226776800,10.28,32520,37178,382189.83999999997,,,,0.0,0.0,0.0,,,2183741,0,,0.163,0.075,0,,17747500,10524605,0.00169,0.99039,100,0.0,0.0,,,,-77.29323,,,,,,,none,,,,,,,,,2026-11-12
+0.00,HLXC,Helix Acquisition Corp. III,Financial Services,Shell Companies,United States,226997392,10.29,35390,36803,378702.87,,,,0.0,0.0,0.0,,,2142301,0,,0.163,0.075,0,,17747500,10524605,0.0035299999,0.98953,550,0.01,0.0,,,,-14.391609,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,10.24,10.35,10.17,10.25,,,,,,,0,10.1700,1,55789725,,,,
 2026-01-26,10.22,10.28,10.22,10.22,,,,,,,0,10.1700,1,4274004,,,,
@@ -218,3 +218,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.27,10.29,10.27,10.28,10.29,10.30,10.56,10.41,,10.4124,0,10.1683,1,898472,339707,-0.0683,-0.0822,0.0139
 2026-11-11,10.27,10.28,10.27,10.28,10.29,10.29,10.56,10.41,,10.3988,0,10.1711,1,9252,339680,-0.0649,-0.0787,0.0139
 2026-11-12,10.28,10.28,10.28,10.28,10.29,10.29,10.55,10.41,,10.3914,0,10.1739,1,,325918,-0.0615,-0.0753,0.0138
+2026-11-13,10.29,10.29,10.29,10.29,10.29,10.28,10.54,10.41,,10.3914,0,10.1766,1,14622,314536,-0.0573,-0.0717,0.0144

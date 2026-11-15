@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,Sale,2026-05-04,0,2026-05-04\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0147,19057,13250,1.0\n1,2026-06-30,Virtu Financial LLC,0.0078,10129,7042,1.0\n2,2026-06-30,UBS Group AG,0.0,48,33,0.0435\n3,2026-06-30,Morgan Stanley,0.0,32,22,-0.90330005\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Jane Street Group, LLC",0.0114,14782,10993,-0.2243\n1,2026-06-30,Virtu Financial LLC,0.0078,10129,7532,1.0\n2,2026-09-30,UBS Group AG,0.0004,554,412,10.5417\n3,2026-06-30,Morgan Stanley,0.0,32,23,-0.90330005\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,23662,2430,,Sale at price 0.10 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-05-04,D\n1,180825,19801,,Purchase at price 0.09 - 0.11 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-05-01,D\n2,63656,8785,,Sale at price 0.14 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-04-29,D\n3,239692,35714,,Purchase at price 0.15 per share.,HRT FINANCIAL L.P,Beneficial Owner of more than 10% of a Class of Security,,2026-04-28,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.025899999\ninstitutionsFloatPercentHeld,0.025899999\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.022969998\ninstitutionsFloatPercentHeld,0.022969998\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "7c74729e-49c8-3f8e-bdb3-559a8a5fe14e",\n    "title": "FCHL to Hold Annual General Meeting on November 12, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/fchl-hold-annual-general-meeting-210800358.html",\n    "providerPublishTime": 1793308080,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/2405c4f477b4cb8f7cd7097b2f6aa4da.png",\n          "width": 242,\n          "height": 99,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/27C5EDD588DAF4E2ACE6511708FC735827D084A85E0DAFE6C59890DAA19D5B0B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F2405c4f477b4cb8f7cd7097b2f6aa4da.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "FCHL"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-03-23 09:30:00-04:00,0.06666666666666667\n2026-05-04 09:30:00-04:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.22,FCHL,Fitness Champs Holdings Limited,Consumer Defensive,Education & Training Services,Singapore,916921,0.6953,60330,1086865,755697.2345,-0.054,,,0.23729,-1.6802001,-1.11629,-3.5546799,-0.85390997,3141000,422000,15.257,3.946,3.792,-3101000,-1494250,1299391,1295044,0.0,0.025899999,151101,0.05,0.1163,,,0.22735457,0.42348993,-0.447,0.399,,,,,none,,,,,,,,https://www.fitnesschamps.sg,2026-11-12
+6.98,FCHL,Fitness Champs Holdings Limited,Consumer Defensive,Education & Training Services,Singapore,980748,0.7437,77830,1090260,810826.3620000001,-0.054,,,0.23729,-1.13166,-1.11629,-3.5546799,-0.85390997,3141000,422000,15.257,3.946,3.792,-3101000,-1494250,1299391,1295044,0.0,0.022969998,56557,0.02,0.0435,,,0.24318075,0.4529692,-0.431,0.385,,,,,none,,,,,,,,https://www.fitnesschamps.sg,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-09-04,1755.00,2052.00,1755.00,1912.50,,,,,,,0,1755.0000,1,13092975,,,,
 2025-09-05,1935.00,2272.50,1935.00,2070.00,,,,,,,0,1755.0000,1,12273030,,,,
@@ -315,3 +315,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.69,0.75,0.67,0.72,0.79,0.84,0.96,10.31,34.14,1.0323,0,1.1421,0,17828,1258791,-0.0788,-0.0644,-0.0144
 2026-11-11,0.67,0.73,0.67,0.73,0.78,0.83,0.96,9.77,33.57,1.0323,0,1.1047,0,10279,1258352,-0.0771,-0.0670,-0.0101
 2026-11-12,0.66,0.78,0.64,0.72,0.76,0.82,0.95,9.28,33.01,1.0323,0,1.0697,0,40215,1258793,-0.0754,-0.0687,-0.0068
+2026-11-13,0.70,0.80,0.70,0.74,0.75,0.82,0.94,8.79,32.37,1.0323,0,1.0367,0,23656,1258639,-0.0715,-0.0692,-0.0023

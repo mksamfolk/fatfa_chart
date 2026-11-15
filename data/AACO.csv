@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0848,1950000,19587750,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18081000,1.0\n2,2026-06-30,Linden Advisors LP,0.0587,1350000,13560750,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.044699997,1027935,10325607,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10045000,1.0\n5,2026-06-30,Mint Tower Capital Management B.V.,0.039100002,900000,9040500,1.0\n6,2026-06-30,Kryger Capital LLC,0.0365,839955,8437348,1.0\n7,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0348,800000,8036000,1.0\n8,2026-06-30,Millennium Management Llc,0.031600002,726000,7292670,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.031,713283,7164927,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Magnetar Financial LLC,0.0848,1950000,19587750,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18081000,1.0\n2,2026-06-30,Linden Advisors LP,0.0587,1350000,13560750,1.0\n3,2026-06-30,AQR Arbitrage LLC,0.044699997,1027935,10325607,1.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10045000,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.039100002,900000,9040500,0.0\n6,2026-06-30,Kryger Capital LLC,0.0365,839955,8437348,1.0\n7,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0348,800000,8036000,1.0\n8,2026-06-30,Millennium Management Llc,0.031600002,726000,7292670,1.0\n9,2026-06-30,"Tenor Capital Management Co., L.p.",0.031,713283,7164927,1.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0037,84999,853814,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2223,22330,0.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.02131\ninstitutionsPercentHeld,0.76462\ninstitutionsFloatPercentHeld,0.78126997\ninstitutionsCount,42.0\n
+,Value\ninsidersPercentHeld,0.02131\ninstitutionsPercentHeld,0.77229\ninstitutionsFloatPercentHeld,0.78911\ninstitutionsCount,42.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AACO,Abony Acquisition Corp. I,Financial Services,Shell Companies,United States,315027968,10.045,750,22970,230733.65,,,,0.0,0.0,0.0,,,1174280,0,,0.086,,0,,23695000,19479986,0.02131,0.76462,20880,0.44,0.00090000004,,,,-45.452488,,,,,,,none,,,,,,,,https://www.abonyacquisitioncorp.com,2026-11-12
+0.00,AACO,Abony Acquisition Corp. I,Financial Services,Shell Companies,United States,315027968,10.045,790,22256,223561.52,,,,0.0,0.0,0.0,,,1019820,0,,0.086,,0,,23695000,19479986,0.02131,0.77229,262,0.01,0.0,,,,-44.251102,,,,,,,none,,,,,,,,https://www.abonyacquisitioncorp.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-14,9.85,9.88,9.85,9.87,,,,,,,0,9.8500,1,92778,,,,
 2026-04-15,9.87,9.87,9.87,9.87,,,,,,,0,9.8500,1,33558,,,,

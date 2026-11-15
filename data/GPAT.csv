@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.1114,1800000,19908000,0.5319\n1,2026-06-30,AQR Arbitrage LLC,0.0866,1400000,15484000,-0.1121\n2,2026-06-30,"MMCAP International, Inc. SPC",0.0789,1275000,14101500,0.0\n3,2026-06-30,Alberta Investment Management Corp,0.0619,1000000,11060000,-0.38459998\n4,2026-06-30,Mizuho Securities USA LLC,0.0346,558486,6176855,8.2929\n5,2026-06-30,Berkley W R Corp,0.0308,497064,5497528,-0.413\n6,2026-06-30,HGC Investment Management Inc.,0.0247,399387,4417220,1.0\n7,2026-06-30,"Verition Fund Management, LLC",0.0247,398885,4411668,0.7527\n8,2026-06-30,Toronto Dominion Bank,0.0214,345181,3817702,-0.4568\n9,2026-09-30,Deutsche Bank AG,0.0179,290000,3207400,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Polar Asset Management Partners Inc.,0.1114,1800000,19925999,0.5319\n1,2026-06-30,AQR Arbitrage LLC,0.0866,1400000,15497999,-0.1121\n2,2026-09-30,"MMCAP International, Inc. SPC",0.0789,1275000,14114249,0.0\n3,2026-09-30,Alberta Investment Management Corp,0.0619,1000000,11069999,0.0\n4,2026-06-30,Berkley W R Corp,0.0308,497064,5502498,-0.413\n5,2026-06-30,HGC Investment Management Inc.,0.0247,399387,4421213,1.0\n6,2026-06-30,"Verition Fund Management, LLC",0.0247,398885,4415656,0.7527\n7,2026-06-30,Toronto Dominion Bank,0.0214,345181,3821153,-0.4568\n8,2026-09-30,Deutsche Bank AG,0.0179,290000,3210299,0.0\n9,2026-09-30,Mizuho Securities USA LLC,0.0163,262873,2910004,-0.5293\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0017,27434,303420,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0017,27434,303694,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.44474\ninstitutionsPercentHeld,0.67867\ninstitutionsFloatPercentHeld,1.22225\ninstitutionsCount,29.0\n
+,Value\ninsidersPercentHeld,0.44474\ninstitutionsPercentHeld,0.70455\ninstitutionsFloatPercentHeld,1.26885\ninstitutionsCount,27.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-59.23,GPAT,GP-Act III Acquisition Corp.,Financial Services,Shell Companies,United States,178743184,11.06,81870,16170,178840.2,,-0.862,-0.903,0.0,0.0,0.0,,-0.00698,10586,596313,,0.05,0.004,-387103,236482,16161228,4498801,0.44474,0.67867,5242,1.05,0.0004,44.24,,,-10.961349,,,,,,,none,,,,,,,-0.007,https://www.gp-act3.com,2026-11-12
+59.61,GPAT,GP-Act III Acquisition Corp.,Financial Services,Shell Companies,United States,178904784,11.07,179330,31832,352380.24,,-0.862,-0.903,0.0,0.0,0.0,,-0.00698,10586,596313,,0.05,0.004,-387103,236482,16161228,4498801,0.44474,0.70455,5014,3.02,0.0004,44.28,,,-10.971259,,,,,,,none,,,,,,,-0.007,https://www.gp-act3.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-02,9.98,10.00,9.98,9.99,,,,,,,0,9.9800,1,7854138,,,,
 2024-07-03,9.98,9.99,9.98,9.99,,,,,,,0,9.9800,1,119880,,,,

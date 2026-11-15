@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Renaissance Technologies, LLC",0.001,76600,1937214,-0.0217\n1,2026-06-30,Blackrock Inc.,0.0,124,3135,0.0\n2,2026-06-30,Arax Advisory Partners,0.0,860,21749,1.0\n3,2026-06-30,Rhumbline Advisers,0.0,1310,33129,0.0\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,162,4096,0.0\n5,2026-06-30,"FMR, LLC",0.0,490,12392,-0.0684\n6,2026-06-30,Morgan Stanley,0.0,132,3338,-0.6393\n7,2026-06-30,Osaic Holdings Inc.,0.0,329,8320,-0.0208\n8,2026-09-30,"Assetmark, Inc.",0.0,129,3262,0.0\n9,2026-09-30,"Russell Investments Group, Ltd.",0.0,194,4906,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Renaissance Technologies, LLC",0.00090000004,74000,1871460,-0.0339\n1,2026-06-30,Morgan Stanley,0.0,132,3338,-0.6393\n2,2026-09-30,"Assetmark, Inc.",0.0,129,3262,0.0\n3,2026-09-30,"Russell Investments Group, Ltd.",0.0,194,4906,0.0\n4,2026-09-30,Rhumbline Advisers,0.0,1310,33129,0.0\n5,2026-09-30,"FMR, LLC",0.0,383,9686,-0.2184\n6,2026-09-30,UBS Group AG,0.0,216,5462,1.4828\n7,2026-09-30,Arax Advisory Partners,0.0,860,21749,0.0\n8,2026-09-30,Osaic Holdings Inc.,0.0,320,8092,-0.0274\n9,2026-09-30,JPMORGAN CHASE & CO,0.0,162,4096,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-02-28,Trust for Professional Managers-ActivePassive International Equity ETF,0.0,1400,35406,0.012999999\n
 recommendations
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-01-26 16:00:00-05:00,,
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00102\ninstitutionsFloatPercentHeld,0.00102\ninstitutionsCount,17.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00099\ninstitutionsFloatPercentHeld,0.00099\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n1997-04-07 09:30:00-04:00,2.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-71.46,AKO-A,Embotelladora Andina S.A.,Consumer Defensive,Beverages - Non-Alcoholic,Chile,3989795072,25.29,1320,667,16868.43,0.12,0.075,0.075,0.39749,0.0,0.08202,0.23156,0.08217,,,90.759,1.613,1.066,,185115951104,78881550,78238793,0.0,0.00102,440,1.5,0.0,12.8375635,,,0.021081781,,,,,,,none,,,,,,2027-01-26,0.432,https://www.koandina.com,2026-11-12
+71.78,AKO-A,Embotelladora Andina S.A.,Consumer Defensive,Beverages - Non-Alcoholic,Chile,3989795072,25.29,1310,603,15249.869999999999,0.12,0.075,0.075,0.39749,0.0,0.08202,0.23156,0.08217,,,90.759,1.613,1.066,,185115951104,78881550,78238793,0.0,0.00099,378,1.44,0.0,12.8375635,,,0.021081781,,,,,,,none,,,,,,2027-01-26,0.432,https://www.koandina.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-19,6.66,6.78,6.49,6.65,,,,,,,0,6.4894,1,22239,,,,
 2021-11-22,6.75,7.27,6.75,7.27,,,,,,,0,6.4894,1,28950,,,,

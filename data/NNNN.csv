@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.0005,22209,90612,-0.1693\n1,2026-06-30,BNP Paribas Financial Markets,0.00029999999,11800,48143,0.1346\n2,2026-06-30,Marshall Wace LLP,0.00029999999,11502,46928,1.0\n3,2026-06-30,Bank of America Corporation,0.00029999999,13419,54749,1.0\n4,2026-06-30,Morgan Stanley,0.0002,7231,29502,-0.0146\n5,2026-06-30,JPMORGAN CHASE & CO,0.0,53,216,1.0\n6,2026-06-30,UBS Group AG,0.0,828,3378,-0.8694\n7,2026-06-30,Osaic Holdings Inc.,0.0,77,314,1.0\n8,2026-09-30,"Eversource Wealth Advisors, Llc",0.0,31,126,-0.83419997\n9,2026-09-30,Larson Financial Group LLC,0.0,96,391,18.2\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,State Street Corporation,0.00059999997,25608,97822,1.0\n1,2026-09-30,"Geode Capital Management, LLC",0.0005,22209,84838,-0.1693\n2,2026-09-30,"Jane Street Group, LLC",0.0004,16506,63052,1.0\n3,2026-06-30,Marshall Wace LLP,0.00029999999,11502,43937,1.0\n4,2026-06-30,Bank of America Corporation,0.00029999999,13419,51260,1.0\n5,2026-06-30,Morgan Stanley,0.0002,7231,27622,-0.0146\n6,2026-09-30,UBS Group AG,0.0,634,2421,-0.2343\n7,2026-09-30,BNP Paribas Financial Markets,0.0,1800,6875,-0.8475\n8,2026-09-30,JPMORGAN CHASE & CO,0.0,188,718,2.5472\n9,2026-09-30,"Superior Planning, LLC",0.0,144,550,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.00059999997,25608,104480,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,22209,90612,0.0\n2,2026-06-30,Northern Funds-SMALL CAP CORE FUND,0.0002,7140,29131,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF,0.00059999997,25608,97822,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,22209,84838,0.0\n2,2026-06-30,Northern Funds-SMALL CAP CORE FUND,0.0002,7140,27274,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.047849998\ninstitutionsPercentHeld,0.04996\ninstitutionsFloatPercentHeld,0.052470002\ninstitutionsCount,13.0\n
+,Value\ninsidersPercentHeld,0.047859997\ninstitutionsPercentHeld,0.05059\ninstitutionsFloatPercentHeld,0.05313\ninstitutionsCount,15.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-3.63,NNNN,Anbio Biotechnology,Healthcare,Medical Instruments & Supplies,Germany,179076096,4.08,35100,149925,611694.0,0.739,,,0.87236,0.59093,0.74055,0.27049,0.14664,11901231,0,,344.311,177.127,-6739075,-9605703,43891200,39691251,0.047849998,0.04996,31124,0.23,0.0007,27.199999,,20.709995,5.9388647,19.334,,,,,,none,,,,,,,,https://www.anbiobiotechnology.com,2026-11-12
+3.84,NNNN,Anbio Biotechnology,Healthcare,Medical Instruments & Supplies,Germany,167664384,3.82,38750,149776,572144.32,0.739,,,0.87236,0.66703004,0.74055,0.27049,0.14664,11901231,0,,344.311,177.127,-6739075,-9605703,43891200,39691251,0.047859997,0.05059,33299,0.63,0.0008,25.466665,,19.39024,5.5604076,18.014,,,,,,none,,,,,,,,https://www.anbiobiotechnology.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-02-19,5.26,5.89,5.18,5.77,,,,,,,0,5.1800,1,11927744,,,,
 2025-02-20,5.61,5.75,5.32,5.67,,,,,,,0,5.1800,1,2243619,,,,
@@ -451,3 +451,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,4.08,4.08,3.80,3.80,3.71,3.64,5.65,15.72,18.44,4.8234,0,3.2897,1,28500,920365,-0.5085,-0.7120,0.2034
 2026-11-11,3.81,4.26,3.81,4.05,3.73,3.66,5.52,15.61,18.29,4.8234,0,3.3579,1,95175,917156,-0.4503,-0.6596,0.2093
 2026-11-12,3.90,3.96,3.80,3.80,3.73,3.68,5.40,15.49,18.15,4.8234,0,3.4219,1,58900,913804,-0.4194,-0.6116,0.1921
+2026-11-13,3.80,3.98,3.69,3.82,3.78,3.72,5.27,15.36,18.00,4.8234,0,3.4821,1,82997,906928,-0.3889,-0.5671,0.1781

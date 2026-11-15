@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,COORS PETER JOSEPH,Director,,Stock Award(Grant),2025-05-15,410178,2025-05-15\n1,STELTER ROXANNE,Officer,,Stock Award(Grant),2026-02-27,12365,2026-02-27\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vinva Investment Management Ltd.,0.005,12753,548379,0.0\n1,2026-06-30,UBS Group AG,0.0,127,5461,0.0\n2,2026-09-30,Bank of Montreal /CAN/,0.0,24,1032,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Vinva Investment Management Ltd.,0.005,12753,548379,0.0\n1,2026-09-30,Bank of Montreal /CAN/,0.0,24,1032,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2022-12-31,RBC Fds Tr-RBC Micro Cap Value Fd,0.0005,1300,55900,1.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,2052,0.0,,Stock Award(Grant) at price 0.00 per share.,STELTER ROXANNE,Officer,,2026-02-27,D\n1,3022,,,,COORS PETER JOSEPH,Director,,2025-05-15,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.00053\ninstitutionsPercentHeld,0.00503\ninstitutionsFloatPercentHeld,0.00504\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.00053\ninstitutionsPercentHeld,0.00503\ninstitutionsFloatPercentHeld,0.00503\ninstitutionsCount,3.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2007-10-04 09:30:00-04:00,2.0\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-53.18,TAP-A,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,United States,7970204672,43.0,1460,531,22833.0,-0.016,,,0.35874,0.13733,0.0809,0.07985,0.040260002,605900032,6195100160,58.859,0.856,0.471,1821100032,897524992,2563034,155094625,0.00053,0.00503,700,11.29,0.0007,9.347826,,0.7221678,0.77953625,1.254,6.372,,,,,none,,,,,,,0.452,https://www.molsoncoors.com,2026-11-12
+53.54,TAP-A,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,United States,7970204672,43.0,660,531,22833.0,-0.016,,,0.35874,0.13272001,0.0809,0.07985,0.040260002,605900032,6195100160,58.859,0.856,0.471,1821100032,897524992,2563034,155094625,0.00053,0.00503,732,0.93,0.0007,9.347826,,0.7221678,0.77953625,1.254,6.372,,,,,none,,,,,,,0.452,https://www.molsoncoors.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-19,46.39,46.99,46.39,46.99,,,,,,,0,46.3856,1,21880,,,,
 2021-11-22,47.24,47.50,47.24,47.50,,,,,,,0,46.3856,1,27650,,,,

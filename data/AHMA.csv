@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0047999998,52110,58102,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0042,45658,50908,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0023,25401,28322,0.6107\n3,2026-06-30,Wells Fargo & Company,0.0002,1750,1951,1.5\n4,2026-06-30,UBS Group AG,0.0001,1580,1761,-0.84419996\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n6,2026-09-30,"Eversource Wealth Advisors, Llc",0.0,435,485,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.0047999998,52110,59926,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0023,25401,29211,0.6107\n2,2026-09-30,Bank of Montreal /CAN/,0.0022,24000,27599,1.0\n3,2026-09-30,"Jane Street Group, LLC",0.0021,22870,26300,-0.4991\n4,2026-06-30,Wells Fargo & Company,0.0002,1750,2012,1.5\n5,2026-09-30,UBS Group AG,0.0001,840,965,-0.4684\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n7,2026-09-30,"Eversource Wealth Advisors, Llc",0.0,435,500,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,5129,5718,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0005,5129,5898,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2026-12-08 08:00:00-05:00,,
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61797\ninstitutionsPercentHeld,0.01204\ninstitutionsFloatPercentHeld,0.03153\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.61802\ninstitutionsPercentHeld,0.01203\ninstitutionsFloatPercentHeld,0.0315\ninstitutionsCount,9.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-15.86,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,33143376,1.115,32910,472865,527244.475,0.046,0.042,0.067,0.24858,0.09134,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61797,0.01204,25920,0.63,0.0062,27.875,,1.6383945,2.654762,1.499,21.835,,,,,none,,,,,,2026-12-08,,,2026-11-12
+18.88,AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,United Arab Emirates,34183748,1.15,24660,472278,543119.7,0.046,0.042,0.067,0.24858,0.06382,0.06046,0.12967,0.06444,2928797,110970,0.888,4.183,2.791,496518,-703961,10965000,2144956,0.61802,0.01203,23689,0.73,0.0057,28.75,,1.6898237,2.7380953,1.551,22.584,,,,,none,,,,,,2026-12-08,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-10-21,4.00,5.40,4.00,4.65,,,,,,,0,4.0000,1,13632870,,,,
 2025-10-22,4.25,4.49,4.13,4.39,,,,,,,0,4.0000,1,4655116,,,,
@@ -282,3 +282,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.14,1.27,1.12,1.24,1.12,1.13,1.31,1.47,4.26,1.4010,0,1.0300,1,63984,1026536,-0.0457,-0.0676,0.0219
 2026-11-11,1.24,1.24,1.16,1.22,1.13,1.13,1.30,1.44,4.24,1.4010,0,1.0348,1,15552,1024829,-0.0362,-0.0613,0.0251
 2026-11-12,1.17,1.21,1.15,1.17,1.14,1.13,1.29,1.42,4.22,1.4010,0,1.0395,1,27612,1024536,-0.0320,-0.0555,0.0234
+2026-11-13,1.18,1.18,1.15,1.15,1.14,1.13,1.28,1.40,4.20,1.4010,0,1.0441,1,17730,1023958,-0.0299,-0.0504,0.0204

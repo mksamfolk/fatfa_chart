@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0172,28230,19972,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0066000004,10810,7648,1.8027\n2,2026-06-30,UBS Group AG,0.0058999998,9696,6859,57.7636\n3,2026-06-30,Virtu Financial LLC,0.0033000002,5408,3826,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0023999999,3975,2812,-0.571\n5,2026-06-30,Citadel Advisors Llc,0.0021,3444,2436,0.1117\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0172,28230,21468,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0066000004,10810,8221,1.8027\n2,2026-09-30,"Jane Street Group, LLC",0.0061000003,10063,7652,1.5316\n3,2026-09-30,UBS Group AG,0.0056,9124,6938,-0.059\n4,2026-06-30,Virtu Financial LLC,0.0033000002,5408,4112,1.0\n5,2026-06-30,Citadel Advisors Llc,0.0021,3444,2619,0.1117\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,6798,4809,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0008,6798,5169,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.05096\ninstitutionsPercentHeld,0.03759\ninstitutionsFloatPercentHeld,0.03961\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.05653\ninstitutionsPercentHeld,0.01815\ninstitutionsFloatPercentHeld,0.01924\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "0880d1f5-a7d2-3a16-afcc-39f2333407f3",\n    "title": "ICZOOM Group Inc. to Effect Share Consolidation on September 15, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/iczoom-group-inc-effect-share-130000203.html",\n    "providerPublishTime": 1789131600,\n    "type": "STORY",\n    "relatedTickers": [\n      "IZM"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-09-15 09:30:00-04:00,0.2\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-95.85,IZM,ICZOOM Group Inc.,Technology,Electronics & Computer Distribution,China,1700562,0.7075,14480,492676,348568.27,0.072,,,0.03312,0.00475,0.0063899998,0.07756,0.015149999,1750420,15256647,98.93,1.584,1.149,2746352,-1547481,1637722,1554278,0.05096,0.03759,51657,0.05,0.0332,1.415,,0.009091548,0.109928526,0.081,14.05,,,,,none,,,,,,,0.805,https://www.iczoomex.com,2026-11-12
+97.15,IZM,ICZOOM Group Inc.,Technology,Electronics & Computer Distribution,China,1827954,0.7605,15330,407423,309845.19149999996,0.072,,,0.03312,0.00526,0.0063899998,0.07756,0.015149999,1750420,15256647,98.93,1.584,1.149,2746352,-1547481,1637722,1554278,0.05653,0.01815,36396,0.04,0.0234,1.521,,0.009772611,0.11816346,0.082,14.168,,,,,none,,,,,,,0.805,https://www.iczoomex.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-15,4.00,4.22,3.07,3.31,,,,,,,0,3.0700,1,2210418,,,,
 2023-03-16,3.15,3.47,3.10,3.22,,,,,,,0,3.0700,1,613732,,,,
@@ -935,3 +935,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.66,0.74,0.66,0.70,0.70,0.75,0.55,0.44,0.62,0.9445,0,1.2881,0,11280,744375,0.0211,0.0442,-0.0232
 2026-11-11,0.69,0.71,0.69,0.69,0.69,0.74,0.56,0.44,0.61,0.9297,0,1.2628,0,2829,744117,0.0178,0.0389,-0.0212
 2026-11-12,0.68,0.80,0.68,0.70,0.69,0.73,0.57,0.44,0.60,0.9297,0,1.2385,0,14980,586320,0.0158,0.0343,-0.0185
+2026-11-13,0.75,0.78,0.75,0.76,0.70,0.73,0.58,0.45,0.59,0.9297,0,1.2152,0,17406,583667,0.0189,0.0312,-0.0123

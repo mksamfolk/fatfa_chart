@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.0298,600000,5897999,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.027,543735,5344915,1.0\n2,2026-09-30,Periscope Capital Inc.,0.016,321200,3157395,1.0\n3,2026-09-30,Stonex Group Inc.,0.0148,297785,2927226,1.0\n4,2026-09-30,Gritstone Asset Management LLC,0.0037,75000,737249,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0015,30000,294899,1.0\n6,2026-09-30,Deltec Asset Management LLC,0.0011999999,25000,245749,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.0298,600000,5891999,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.027,543735,5339477,1.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0174,350000,3436999,1.0\n3,2026-09-30,Periscope Capital Inc.,0.016,321200,3154183,1.0\n4,2026-09-30,Stonex Group Inc.,0.0148,297785,2924248,1.0\n5,2026-09-30,Gritstone Asset Management LLC,0.0037,75000,736499,1.0\n6,2026-09-30,Mint Tower Capital Management B.V.,0.0025,50000,490999,1.0\n7,2026-09-30,ABC Arbitrage SA,0.0015,30000,294599,1.0\n8,2026-09-30,Deltec Asset Management LLC,0.0011999999,25000,245499,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00149\ninstitutionsPercentHeld,0.11243\ninstitutionsFloatPercentHeld,0.1126\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.00149\ninstitutionsPercentHeld,0.21554\ninstitutionsFloatPercentHeld,0.21586001\ninstitutionsCount,13.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MIAC,Meridian3 Industrials Acquisition Corp,Financial Services,Shell Companies,United States,247285936,9.83,110600,78833,774928.39,,,,0.0,0.0,0.0,,,245,136112,,,,,,20125000,,0.00149,0.11243,685,0.01,0.0,,,,-1638.3333,,,,,,,none,,,,,,,,https://meridian3SPAC.com,2026-11-12
+0.00,MIAC,Meridian3 Industrials Acquisition Corp,Financial Services,Shell Companies,United States,247034368,9.82,90500,72210,709102.2000000001,,,,0.0,0.0,0.0,,,1051153,0,,,,,,20125000,,0.00149,0.21554,728,0.02,0.0,,,,-33.40136,,,,,,,none,,,,,,,,https://meridian3SPAC.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-24,9.80,9.95,9.78,9.95,,,,,,,0,9.7800,1,829830,,,,
 2026-08-25,9.81,9.87,9.81,9.84,,,,,,,0,9.7800,1,624840,,,,

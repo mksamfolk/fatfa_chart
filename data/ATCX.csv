@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0064,22080,44380,0.0523\n1,2026-09-30,"FNY Investment Advisers, LLC",0.0004,1255,2522,0.0\n2,2026-06-30,Morgan Stanley,0.0001,251,504,-0.86190003\n3,2026-06-30,Allied Private Wealth LLC,0.0,120,241,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0064,22203,41741,0.0056\n1,2026-09-30,"FNY Investment Advisers, LLC",0.0004,1255,2359,0.0\n2,2026-06-30,Morgan Stanley,0.0001,251,471,-0.86190003\n3,2026-06-30,Allied Private Wealth LLC,0.0,120,225,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -27,7 +27,7 @@ news
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ATCX,Atlas Critical Minerals Corporation,,,,10217505,2.01,8520,16681,33528.81,,,,,,,,,,,,,,,,5083336,,,,,,,,-2.4512196,,1.3009709,,,18.58333,27.0,13.75,1.0,strong_buy,3,,,,,,,,2026-11-12
+0.00,ATCX,Atlas Critical Minerals Corporation,,,,9556672,1.88,5500,15632,29388.16,,,,,,,,,,,,,,,,5083336,,,,,,,,-2.292683,,1.2168285,,,18.58333,27.0,13.75,1.0,strong_buy,3,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-09,10.00,10.75,8.21,8.80,,,,,,,0,8.2100,1,1611280,,,,
 2026-01-12,9.75,10.27,8.81,8.83,,,,,,,0,8.2100,1,1750989,,,,
@@ -227,3 +227,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.00,2.03,2.00,2.03,2.01,2.06,2.75,3.83,,2.3347,0,1.8694,1,1013,28174,-0.1900,-0.2322,0.0422
 2026-11-11,2.02,2.08,2.02,2.08,2.01,2.06,2.73,3.81,,2.3347,0,1.8740,1,2080,27474,-0.1739,-0.2205,0.0466
 2026-11-12,1.90,2.04,1.88,1.93,1.99,2.06,2.71,3.78,,2.3347,0,1.8785,1,7141,26556,-0.1713,-0.2107,0.0393
+2026-11-13,1.95,1.95,1.87,1.88,1.99,2.04,2.68,3.76,,2.3168,0,2.1000,0,12361,25849,-0.1713,-0.2028,0.0315

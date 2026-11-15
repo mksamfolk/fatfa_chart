@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Empyrean Capital Partners, LP",0.0861,1980000,20077200,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18252000,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0467,1075000,10900500,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.0435,1000000,10140000,1.0\n4,2026-06-30,Magnetar Financial LLC,0.0435,999993,10139929,1.0\n5,2026-06-30,Sailingstone Capital Partners LLC,0.0382,879729,8920452,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.026099999,600000,6084000,1.0\n7,2026-06-30,"Saba Capital Management, L.P.",0.024500001,564436,5723381,1.0\n8,2026-06-30,BNP Paribas Financial Markets,0.023,529434,5368460,1.0\n9,2026-06-30,Linden Advisors LP,0.0217,500000,5070000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Empyrean Capital Partners, LP",0.0861,1980000,20096999,1.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0783,1800000,18269999,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0467,1075000,10911249,1.0\n3,2026-06-30,"Moore Capital Management, LP",0.0435,1000000,10149999,1.0\n4,2026-06-30,Magnetar Financial LLC,0.0435,999993,10149928,1.0\n5,2026-06-30,Sailingstone Capital Partners LLC,0.0382,879729,8929249,1.0\n6,2026-09-30,Alberta Investment Management Corp,0.026099999,600000,6089999,0.0\n7,2026-09-30,BNP Paribas Financial Markets,0.0252,579708,5884035,0.095\n8,2026-06-30,"Saba Capital Management, L.P.",0.024500001,564436,5729025,1.0\n9,2026-06-30,Linden Advisors LP,0.0217,500000,5074999,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Victory Portfolios-Victory Global Energy Transition Fund,0.0232,533695,5411667,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.012999999,299964,3041635,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0021,49215,499040,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,405589,1.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund,0.0013,30891,313234,-0.0287\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,13190,133746,-0.0286\n6,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,1514,15351,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Victory Portfolios-Victory Global Energy Transition Fund,0.0232,533695,5417004,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.012999999,299964,3044634,1.0\n2,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0021,49215,499532,1.0\n3,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0017,39999,405989,1.0\n4,2026-07-31,Saba Capital Income & Opportunities Fund,0.0013,30891,313543,-0.0287\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,13190,133878,-0.0286\n6,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,1514,15367,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00087\ninstitutionsPercentHeld,0.77452004\ninstitutionsFloatPercentHeld,0.77519995\ninstitutionsCount,43.0\n
+,Value\ninsidersPercentHeld,0.00087\ninstitutionsPercentHeld,0.77822995\ninstitutionsFloatPercentHeld,0.77891\ninstitutionsCount,44.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MTAL,,Financial Services,Shell Companies,Cayman Islands,310960032,10.14,21950,52646,533830.4400000001,,,,0.0,0.0,0.0,,,1889425,0,,0.194,,0,,23000000,19220027,0.00087,0.77452004,18,0.0,,,,,-42.250004,,,,,,,none,,,,,,,,https://www.metalsacqii.com,2026-11-12
+0.00,MTAL,,Financial Services,Shell Companies,Cayman Islands,311266656,10.15,21960,46939,476430.85000000003,,,,0.0,0.0,0.0,,,1553364,0,,0.194,,0,,23000000,19220027,0.00087,0.77822995,974,0.02,,,,,-42.291664,,,,,,,none,,,,,,,,https://www.metalsacqii.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-15,10.17,10.17,10.00,10.01,,,,,,,0,10.1700,0,119119,,,,
 2026-04-16,10.01,10.04,10.00,10.04,,,,,,,0,10.1700,0,16064,,,,
@@ -162,3 +162,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.14,10.14,10.14,10.14,10.10,10.11,10.16,,,10.1500,0,10.1609,0,,563682,-0.0110,-0.0198,0.0088
 2026-11-11,10.14,10.14,10.14,10.14,10.10,10.11,10.16,,,10.1500,0,10.1545,0,,539753,-0.0079,-0.0174,0.0095
 2026-11-12,10.10,10.10,10.10,10.10,10.11,10.10,10.16,,,10.1500,0,10.1483,0,15150,538485,-0.0085,-0.0156,0.0071
+2026-11-13,10.15,10.10,10.10,10.15,10.11,10.11,10.16,,,10.0634,1,10.1424,0,1137,536957,-0.0049,-0.0135,0.0086

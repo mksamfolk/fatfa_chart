@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Dimensional Fund Advisors LP,0.0019,10265,3215408,0.0\n1,2026-06-30,"Gabelli Funds, LLC",0.0015,7800,2443271,0.0\n2,2026-09-30,Old Republic International Corp,0.00059999997,2960,927190,1.0\n3,2026-06-30,"FAS Wealth Partners, Inc.",0.0004,2163,677538,0.0\n4,2026-06-30,Goldman Sachs Group Inc,0.00029999999,1354,424126,-0.010199999\n5,2026-06-30,Df Dent & Co Inc,0.0002,1245,389983,0.0\n6,2026-06-30,"Modern Wealth Management, LLC",0.0002,868,271892,1.0\n7,2026-06-30,Crews Bank & Trust                          ,0.0001,500,156619,-0.2308\n8,2026-06-30,Morgan Stanley,0.0001,589,184498,0.0\n9,2026-06-30,"Beacon Pointe Advisors, LLC",0.0001,553,173221,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Dimensional Fund Advisors LP,0.0019,10265,3215408,0.0\n1,2026-09-30,"Gabelli Funds, LLC",0.0015,7800,2443271,0.0\n2,2026-09-30,Old Republic International Corp,0.00059999997,2960,927190,1.0\n3,2026-06-30,"FAS Wealth Partners, Inc.",0.0004,2163,677538,0.0\n4,2026-06-30,Goldman Sachs Group Inc,0.00029999999,1354,424126,-0.010199999\n5,2026-06-30,Df Dent & Co Inc,0.0002,1245,389983,0.0\n6,2026-06-30,"Modern Wealth Management, LLC",0.0002,868,271892,1.0\n7,2026-06-30,Crews Bank & Trust                          ,0.0001,500,156619,-0.2308\n8,2026-06-30,Morgan Stanley,0.0001,589,184498,0.0\n9,2026-06-30,"Beacon Pointe Advisors, LLC",0.0001,553,173221,1.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gabelli Equity Series Funds Inc-The Gabelli Small Cap Growth Fund,0.0015,7800,2443271,0.0\n1,2026-07-31,DFA INVESTMENT DIMENSIONS GROUP INC-U.S. Core Equity 2 Portfolio,0.00090000004,4958,1553043,0.0\n2,2026-07-31,DFA INVESTMENT DIMENSIONS GROUP INC-U.S. Core Equity 1 Portfolio,0.0004,2268,710428,0.0\n3,2026-07-31,Dimensional ETF Trust-Dimensional US Core Equity 2 ETF,0.00029999999,1750,548169,0.0\n4,2026-07-31,DFA INVESTMENT DIMENSIONS GROUP INC-U.S. Vector Equity Portfolio,0.0002,1205,377454,0.0\n5,2026-06-30,Allianz Varbl Insurance Prod. TRT-AZL DFA U.S. Core Eqy. Fd.,0.0,84,26312,0.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.92926\ninstitutionsPercentHeld,0.00506\ninstitutionsFloatPercentHeld,0.071490005\ninstitutionsCount,14.0\n
+,Value\ninsidersPercentHeld,0.97957003\ninstitutionsPercentHeld,0.00533\ninstitutionsFloatPercentHeld,0.26097\ninstitutionsCount,14.0\n
 news
 []\n
 splits
 Date,Stock Splits\n1982-06-16 09:30:00-04:00,1.5\n1984-06-18 09:30:00-04:00,2.0\n1992-04-09 09:30:00-04:00,1.05\n1995-05-16 09:30:00-04:00,1.5\n1996-06-17 09:30:00-04:00,1.5\n1998-08-17 09:30:00-04:00,1.5\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-41.03,WSO-B,Watsco Inc.,Industrials,Industrial Distribution,United States,12952501248,313.24,40,75,23493.0,0.074,-0.053,-0.038,0.27177998,0.096990004,0.06313,0.16209999,0.08258,648697984,563414976,15.936,3.152,1.471,703425024,451984128,5372539,33884494,0.92926,0.00506,48,0.87,0.0001,27.261967,,1.7416337,3.9873216,1.686,18.128,,,,,none,,,,,,,1.029,https://www.watsco.com,2026-11-12
+41.54,WSO-B,Watsco Inc.,Industrials,Industrial Distribution,United States,12952501248,313.24,20,70,21926.8,0.074,-0.053,-0.038,0.27177998,0.08695,0.06313,0.16209999,0.08258,648697984,563414976,15.936,3.152,1.471,703425024,451984128,5372539,33875596,0.97957003,0.00533,48,0.87,0.0001,27.261967,,1.7416337,4.000613,1.686,18.128,,,,,none,,,,,,,1.029,https://www.watsco.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-19,264.15,264.15,264.15,264.15,,,,,,,0,264.1531,0,,,,,
 2021-11-22,264.15,264.15,264.15,264.15,,,,,,,0,264.1531,0,,,,,

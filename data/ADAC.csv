@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12612500,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0543,1250000,12612500,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.0466,1072494,10821464,0.0\n3,2026-06-30,"Aristeia Capital, LLC",0.0442,1016800,10259512,0.0\n4,2026-06-30,Alberta Investment Management Corp,0.0435,1000000,10090000,0.0\n5,2026-06-30,"MMCAP International, Inc. SPC",0.0435,1000000,10090000,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10090000,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0435,999990,10089899,0.0\n8,2026-06-30,HGC Investment Management Inc.,0.0342,786413,7934907,0.0\n9,2026-06-30,Picton Mahoney Asset Management,0.0326,750000,7567500,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Tenor Capital Management Co., L.p.",0.0543,1250000,12625000,0.0\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0543,1250000,12625000,0.0\n2,2026-06-30,AQR Arbitrage LLC,0.0466,1072494,10832189,0.0\n3,2026-09-30,Picton Mahoney Asset Management,0.0462,1061936,10725554,0.4159\n4,2026-06-30,"Aristeia Capital, LLC",0.0442,1016800,10269680,0.0\n5,2026-06-30,Polar Asset Management Partners Inc.,0.0435,1000000,10100000,0.0\n6,2026-06-30,Magnetar Financial LLC,0.0435,999990,10099899,0.0\n7,2026-09-30,Alberta Investment Management Corp,0.0435,1000000,10100000,0.0\n8,2026-09-30,"MMCAP International, Inc. SPC",0.0435,1000000,10100000,0.0\n9,2026-06-30,HGC Investment Management Inc.,0.0342,786413,7942771,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0015199999\ninstitutionsPercentHeld,0.8575\ninstitutionsFloatPercentHeld,0.8588\ninstitutionsCount,52.0\n
+,Value\ninsidersPercentHeld,0.0015199999\ninstitutionsPercentHeld,0.88075995\ninstitutionsFloatPercentHeld,0.8821\ninstitutionsCount,51.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ADAC,American Drive Acquisition Company,Financial Services,Shell Companies,United States,290087520,10.09,12630,19612,197885.08,,,,0.0,0.0,0.0,,,845197,0,,12.924,12.893,-184136,,23000000,23000000,0.0015199999,0.8575,6008,0.23,0.00029999999,,,,-28.994255,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ADAC,American Drive Acquisition Company,Financial Services,Shell Companies,United States,290375008,10.1,18060,20534,207393.4,,,,0.0,0.0,0.0,,,845197,0,,12.924,12.893,-184136,,23000000,23000000,0.0015199999,0.88075995,5550,1.87,0.0002,,,,-35.069447,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-09,9.95,9.95,9.85,9.85,,,,,,,0,9.8500,1,113275,,,,
 2026-02-10,9.88,9.89,9.87,9.87,,,,,,,0,9.8500,1,55272,,,,
@@ -207,3 +207,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.09,10.09,10.09,10.09,10.09,10.08,10.09,10.02,,10.1411,0,10.0716,1,,131090,0.0005,-0.0013,0.0018
 2026-11-11,10.09,10.09,10.09,10.09,10.09,10.08,10.09,10.02,,10.1402,0,10.0732,1,,131069,0.0007,-0.0009,0.0016
 2026-11-12,10.10,10.10,10.10,10.10,10.09,10.08,10.09,10.02,,10.1402,0,10.0747,1,25250,131574,0.0016,-0.0004,0.0020
+2026-11-13,10.10,10.10,10.10,10.10,10.09,10.08,10.09,10.02,,10.1402,0,10.0762,1,555591,142686,0.0023,0.0001,0.0022

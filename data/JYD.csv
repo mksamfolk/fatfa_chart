@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.061100002,193573,282616,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0278,87911,128350,5.5371003\n2,2026-06-30,"Jane Street Group, LLC",0.0146,46336,67650,1.0\n3,2026-06-30,UBS Group AG,0.0088,27923,40767,8.3482\n4,2026-06-30,Scientech Research LLC                          ,0.0050999997,16208,23663,1.0\n5,2026-06-30,Tower Research Capital LLC (TRC),0.0016,5000,7300,1.0\n6,2026-06-30,Blackrock Inc.,0.0,20,29,0.0\n7,2026-06-30,Osaic Holdings Inc.,0.0,1,1,0.0\n8,2026-09-30,City State Bank,0.0,60,87,0.0\n9,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.061100002,193573,241966,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0278,87911,109888,5.5371003\n2,2026-09-30,"Jane Street Group, LLC",0.0064,20130,25162,-0.56560004\n3,2026-06-30,Scientech Research LLC                          ,0.0050999997,16208,20260,1.0\n4,2026-06-30,Tower Research Capital LLC (TRC),0.0016,5000,6250,1.0\n5,2026-09-30,UBS Group AG,0.0007,2275,2843,-0.9185\n6,2026-06-30,Blackrock Inc.,0.0,20,25,0.0\n7,2026-09-30,City State Bank,0.0,60,75,0.0\n8,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n9,2026-09-30,Osaic Holdings Inc.,0.0,1,1,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-05-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.0008,66726,97419,-0.0399\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-05-31,Invesco Exchange-Traded Fund Trust-Invesco Golden Dragon China ETF,0.0008,66726,83407,-0.0399\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.047859997\ninstitutionsPercentHeld,0.04603\ninstitutionsFloatPercentHeld,0.04835\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.04694\ninstitutionsPercentHeld,0.015759999\ninstitutionsFloatPercentHeld,0.01654\ninstitutionsCount,10.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2025-10-13 09:30:00-04:00,0.02\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.28,JYD,Jayud Global Logistics Limited,Industrials,Integrated Freight & Logistics,China,12116394,1.46,241680,750753,1096099.38,0.086,,,0.0335,-0.11695,-0.05926,-0.43738,-0.106809996,52852236,33077228,35.316,1.505,1.227,-35957112,-22799348,8190708,3076582,0.047859997,0.04603,174588,0.1,0.0224,,,0.020167923,0.30397084,-0.044,0.75,,,,,none,,,,,,,-1.912,https://jayud.com,2026-11-12
+25.61,JYD,Jayud Global Logistics Limited,Industrials,Integrated Freight & Logistics,China,10573625,1.25,113000,738462,923077.5,0.5,,,-0.00476,-0.08176,-0.07811,-0.59989,-0.14575,46718968,68699600,57.543,1.43,0.982,,,8350708,7949082,0.04694,0.015759999,65165,0.04,0.0082,,,0.014266679,0.260249,0.035,-0.427,,,,,none,,,,,,,-1.912,https://jayud.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-04-21,263.00,500.00,225.00,252.00,,,,,,,0,500.0000,0,29244600,,,,
 2023-04-24,203.00,229.00,184.50,203.50,,,,,,,0,500.0000,0,6305244,,,,
@@ -909,3 +909,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.42,1.42,1.22,1.22,1.62,1.58,1.19,1.81,2.15,2.0415,0,2.1624,0,90402,1353087,0.0837,0.1536,-0.0699
 2026-11-11,1.19,1.23,1.11,1.14,1.53,1.57,1.19,1.80,2.14,1.8554,0,2.1247,0,55290,1353821,0.0470,0.1323,-0.0853
 2026-11-12,1.22,1.31,1.22,1.29,1.46,1.57,1.20,1.79,2.12,1.8554,0,2.0638,0,71466,1343041,0.0297,0.1117,-0.0821
+2026-11-13,1.29,1.29,1.21,1.25,1.43,1.56,1.20,1.78,2.10,1.8554,0,2.0066,0,38073,1342455,0.0125,0.0919,-0.0794

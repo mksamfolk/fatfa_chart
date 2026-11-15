@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.074200004,497293,5435412,-0.1383\n1,2026-09-30,Mizuho Securities USA LLC,0.054899998,367420,4015900,2.7036\n2,2026-06-30,"Karpus Management, Inc.",0.0396,265540,2902352,0.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0376,251800,2752174,-0.7278\n4,2026-06-30,"Meteora Capital, LLC",0.033,220999,2415519,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.032,214197,2341173,-0.70089996\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0278,186523,2038696,-0.045\n7,2026-09-30,Mint Tower Capital Management B.V.,0.0127,85000,929050,0.0\n8,2026-06-30,Goldman Sachs Group Inc,0.01,66881,731009,-0.7018\n9,2026-06-30,Dakota Wealth Management,0.009,60050,656346,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.074200004,497293,5445358,-0.1383\n1,2026-09-30,Mizuho Securities USA LLC,0.054899998,367420,4023248,2.7036\n2,2026-06-30,"Karpus Management, Inc.",0.0396,265540,2907662,0.0\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0376,251800,2757209,-0.7278\n4,2026-06-30,"Meteora Capital, LLC",0.033,220999,2419939,1.0\n5,2026-06-30,AQR Arbitrage LLC,0.032,214197,2345457,-0.70089996\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0278,186523,2042426,-0.045\n7,2026-09-30,Mint Tower Capital Management B.V.,0.0127,85000,930749,0.0\n8,2026-06-30,Goldman Sachs Group Inc,0.01,66881,732346,-0.7018\n9,2026-09-30,Dakota Wealth Management,0.009,60050,657547,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,2691,29412,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,2691,29466,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.61384\ninstitutionsPercentHeld,0.42993\ninstitutionsFloatPercentHeld,1.11333\ninstitutionsCount,22.0\n
+,Value\ninsidersPercentHeld,0.61384\ninstitutionsPercentHeld,0.42433\ninstitutionsFloatPercentHeld,1.09884\ninstitutionsCount,21.0\n
 news
 [\n  {\n    "uuid": "5f98561b-c0e3-3173-878c-bf3a1ded8098",\n    "title": "\"SUPER BOWL\" OF LONG RANG COMPETITION SELLS OUT IN LESS THAN 10 MINUTES, SETTING ORGANIZATION RECORD",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/media-advertising/articles/super-bowl-long-rang-competition-210000208.html",\n    "providerPublishTime": 1788469200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/cc9ede9ed1d104d1323c2cf50be33559.png",\n          "width": 500,\n          "height": 500,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/63D41C18DA8859E6B5619A280A2BFE22B36DC98B902B2D358261DEA013323D9B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fcc9ede9ed1d104d1323c2cf50be33559.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-60.48,RANG,Range Capital Acquisition Corp.,Financial Services,Shell Companies,United States,73208824,10.93,880,1739,19007.27,,-0.244,-0.307,0.0,0.0,0.0,,,1862,172000,,0.23,0.004,-564370,,6697971,2586488,0.61384,0.42993,4648,5.29,0.0018000001,99.36364,,,-218.6,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-12
+60.65,RANG,Range Capital Acquisition Corp.,Financial Services,Shell Companies,United States,73342784,10.95,3950,2073,22699.35,,-0.244,-0.307,0.0,0.0,0.0,,,1862,172000,,0.23,0.004,-564370,,6697971,2586488,0.61384,0.42433,4426,8.09,0.0017,99.545456,,,842.3077,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-14,9.92,9.93,9.92,9.93,,,,,,,0,9.9300,0,1234299,,,,
 2025-01-15,9.92,9.93,9.92,9.92,,,,,,,0,9.9300,0,1438400,,,,

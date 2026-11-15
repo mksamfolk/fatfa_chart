@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0001,300,4953,-0.025999999\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0,60,990,-0.8\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.87695\ninstitutionsPercentHeld,8.9999994e-05\ninstitutionsFloatPercentHeld,0.00075999997\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.87695\ninstitutionsPercentHeld,2.0000001e-05\ninstitutionsFloatPercentHeld,0.00014999999\ninstitutionsCount,1.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2025-11-14 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.55,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,52832000,16.51,60,329,5431.790000000001,0.335,,,0.00282,-0.01846,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,8.9999994e-05,15172,40.89,0.0116,,,1.0308031,10.631037,1.059,-5.704,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-11-12
+96.62,NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,Hong Kong,52832000,16.51,80,300,4953.000000000001,0.335,,,0.00282,-0.18568,-0.17811,-1.4622301,-0.4566,1910450,3471156,71.225,1.558,1.512,,,3200000,643744,0.87695,2.0000001e-05,15125,119.09,0.0116,,,1.0308031,10.631037,1.059,-5.704,,,,,none,,,,,,,,https://www.nclogistics.com.hk,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-12-18,32.00,33.20,17.28,20.32,,,,,,,0,17.2800,1,3290824,,,,
 2024-12-19,20.16,24.00,20.16,20.80,,,,,,,0,17.2800,1,908710,,,,

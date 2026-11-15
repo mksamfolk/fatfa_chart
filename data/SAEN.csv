@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Eurizon Capital Sgr S.p.a.,0.0153,360000,244836,0.0\n1,2026-06-30,Allianz SE,0.0099,234050,159177,0.0\n2,2026-09-30,"Alti Global, Inc.",0.0085,200288,136215,1.0\n3,2026-06-30,Virtu Financial LLC,0.0016,36913,25104,1.0\n4,2026-09-30,"Simplicity Wealth, LLC",0.0008,20038,13627,0.0779\n5,2026-09-30,Financial Planning Navigators Corp,0.0005,11371,7733,1.0\n6,2026-09-30,Gamma Investing LLC,0.0002,5389,3665,-0.45360002\n7,2026-06-30,UBS Group AG,0.0001,3027,2058,-0.0257\n8,2026-09-30,"Farther Finance Advisors, Llc",0.0,3,2,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Eurizon Capital Sgr S.p.a.,0.0153,360000,233928,0.0\n1,2026-09-30,Allianz SE,0.0099,234050,152085,0.0\n2,2026-09-30,"Alti Global, Inc.",0.0085,200288,130147,1.0\n3,2026-09-30,BNP Paribas Financial Markets,0.002,47009,30546,1.0\n4,2026-09-30,"Jane Street Group, LLC",0.0018000001,42102,27357,1.0\n5,2026-06-30,Virtu Financial LLC,0.0016,36913,23986,1.0\n6,2026-09-30,"Simplicity Wealth, LLC",0.0008,20038,13020,0.0779\n7,2026-09-30,Financial Planning Navigators Corp,0.0005,11371,7388,1.0\n8,2026-09-30,Gamma Investing LLC,0.0002,5389,3501,-0.45360002\n9,2026-09-30,UBS Group AG,0.0002,5077,3299,0.6772\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6540,4447,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,6540,4249,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,20 +21,21 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.43486\ninstitutionsPercentHeld,0.05519\ninstitutionsFloatPercentHeld,0.09766\ninstitutionsCount,14.0\n
+,Value\ninsidersPercentHeld,0.43486\ninstitutionsPercentHeld,0.05906\ninstitutionsFloatPercentHeld,0.104499996\ninstitutionsCount,16.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAEN,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,32792284,0.6801,267080,85428,58099.582800000004,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43486,0.05519,108069,1.79,0.0023999999,,,,0.6495532,,0.685,,,,,none,,,,,,,0.766,https://www.genenta.com,2026-11-12
+0.00,SAEN,Genenta Science S.p.A.,Industrials,Conglomerates,Italy,31331314,0.6498,246900,84595,54969.831000000006,,,,0.0,0.0,0.0,-0.38034,-0.17671,28149190,7603000,34.811,14.155,13.898,-6867959,-3095756,48216858,18780103,0.43486,0.05906,108069,1.79,0.0023999999,,,,0.6206141,,0.793,,,,,none,,,,,,,0.766,https://www.genenta.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
-2026-11-02,0.66,0.87,0.66,0.82,,,,,,,,0.6610,1,1284406,,,,
-2026-11-03,0.84,0.99,0.82,0.99,,,,,,,,0.6610,1,332438,,,,
-2026-11-04,0.78,0.80,0.66,0.70,,,,,,,,0.9900,0,132790,,,,
-2026-11-05,0.67,0.68,0.56,0.65,,,,,,,,0.9900,0,103090,,,,
-2026-11-06,0.64,0.72,0.60,0.67,,,,,,,,0.9726,0,71222,,,,
-2026-11-09,0.68,0.72,0.63,0.68,,,,,,,,0.9559,0,17136,,,,
-2026-11-10,0.75,0.75,0.68,0.72,,,,,,,,0.9399,0,23550,,,,
-2026-11-11,0.70,0.71,0.67,0.68,,,,,,,,0.9245,0,5712,,,,
-2026-11-12,0.70,0.70,0.62,0.62,,,,,,,,0.9097,0,11669,,,,
+2026-11-02,0.66,0.87,0.66,0.82,,,,,,,0,0.6610,1,1284406,,,,
+2026-11-03,0.84,0.99,0.82,0.99,,,,,,,0,0.6610,1,332438,,,,
+2026-11-04,0.78,0.80,0.66,0.70,,,,,,,0,0.9900,0,132790,,,,
+2026-11-05,0.67,0.68,0.56,0.65,,,,,,,0,0.9900,0,103090,,,,
+2026-11-06,0.64,0.72,0.60,0.67,,,,,,,0,0.9726,0,71222,,,,
+2026-11-09,0.68,0.72,0.63,0.68,,,,,,,0,0.9559,0,17136,,,,
+2026-11-10,0.75,0.75,0.68,0.72,,,,,,,0,0.9399,0,23550,,,,
+2026-11-11,0.70,0.71,0.67,0.68,,,,,,,0,0.9245,0,5712,,,,
+2026-11-12,0.70,0.70,0.62,0.62,,,,,,,0,0.9097,0,11669,,,,
+2026-11-13,0.67,0.67,0.62,0.62,0.71,,,,,1.0412,0,0.8955,0,11696,,,,

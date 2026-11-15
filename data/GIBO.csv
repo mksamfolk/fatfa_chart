@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0,1173,227081,0.36240003\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,193,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0,1173,88737,0.36240003\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,75,1.0\n2,2026-09-30,UBS Group AG,0.0,238,18004,1.0\n3,2026-09-30,JPMORGAN CHASE & CO,0.0,1,75,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,827,160098,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,827,62562,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0046200003\ninstitutionsPercentHeld,0.00051\ninstitutionsFloatPercentHeld,0.00051\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.0046200003\ninstitutionsPercentHeld,0.00013\ninstitutionsFloatPercentHeld,0.00013\ninstitutionsCount,4.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2025-08-20 09:30:00-04:00,0.005\n2026-06-29 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-97.82,GIBO,GIBO Holdings Limited,Communication Services,Internet Content & Information,Hong Kong,504244640,193.59,24970,33746,6532888.14,,,,0.0,0.0,0.0,,,185899,2261370,3.649,0.575,0.064,-16522990,,2433999,366021800,0.0046200003,0.00051,8047,0.15,0.0033000002,,,,1586.8032,,-1651.154,,,,,none,,,,,,,-2.578,https://globalibo.com,2026-11-12
+97.77,GIBO,GIBO Holdings Limited,Communication Services,Internet Content & Information,Hong Kong,197045856,75.65,19720,35175,2660988.75,,,,0.0,0.0,0.0,,,185899,2261370,3.649,0.575,0.064,-16522990,,2433999,366021800,0.0046200003,0.00013,13894,0.24,0.0057,,,,620.082,,-645.25,,,,,none,,,,,,,-2.578,https://globalibo.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-08-21,50750.00,50900.00,50750.00,50900.00,,,,,,,0,50750.0000,1,8194900,,,,
 2023-08-22,50900.00,51250.00,50900.00,50900.00,,,,,,,0,50750.0000,1,1170700,,,,
@@ -826,3 +826,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,178.76,178.76,144.51,150.47,117.39,88.57,57.26,40.08,40.11,132.1071,1,114.5494,1,1850781,1851109,29.1335,19.1205,10.0129
 2026-11-11,149.59,149.99,103.40,105.00,120.68,90.96,58.77,40.55,40.38,193.0654,0,194.9050,0,1417500,1879459,25.7580,20.4480,5.3100
 2026-11-12,100.00,100.17,54.00,80.99,121.40,91.91,59.80,40.85,40.54,152.1183,0,193.0749,0,3474471,1948537,20.9045,20.5393,0.3652
+2026-11-13,70.38,89.00,70.38,75.65,120.26,92.72,60.72,41.12,40.68,152.1183,0,187.5119,0,936925,1966798,16.4377,19.7190,-3.2813

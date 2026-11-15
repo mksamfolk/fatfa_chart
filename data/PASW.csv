@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,3364,4541,1.0\n1,2026-06-30,Citadel Advisors Llc,0.001,2854,3852,1.0\n2,2026-06-30,Virtu Financial LLC,0.00029999999,926,1250,1.0\n3,2026-06-30,"Two Sigma Securities, LLC",0.0001,327,441,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0011999999,3364,5146,1.0\n1,2026-06-30,Citadel Advisors Llc,0.001,2854,4366,1.0\n2,2026-09-30,"Jane Street Group, LLC",0.00059999997,1796,2747,1.0\n3,2026-06-30,Virtu Financial LLC,0.00029999999,926,1416,1.0\n4,2026-06-30,"Two Sigma Securities, LLC",0.0001,327,500,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,5758,7773,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00029999999,5758,8809,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.12060001\ninstitutionsPercentHeld,0.00265\ninstitutionsFloatPercentHeld,0.00301\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.12060001\ninstitutionsPercentHeld,0.00328\ninstitutionsFloatPercentHeld,0.00373\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "6484d84d-ac3c-301f-950b-5b8fe396f6d8",\n    "title": "Ping An Biomedical Enters into Patent Purchase Agreement with Future Biotechnology Group for Tumor Cell Technologies",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/ping-biomedical-enters-patent-purchase-183000544.html",\n    "providerPublishTime": 1793817000,\n    "type": "STORY",\n    "relatedTickers": [\n      "PASW"\n    ]\n  },\n  {\n    "uuid": "ecbe817c-e891-365d-a903-c54813de9430",\n    "title": "Ping An Biomedical Announces Planned Acquisition of Three Tumor Cell-Related Medical Technology Patents to Build a Core Oncology and Biotech Intellectual Property Portfolio",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/ping-biomedical-announces-planned-acquisition-193000656.html",\n    "providerPublishTime": 1792697400,\n    "type": "STORY",\n    "relatedTickers": [\n      "PASW"\n    ]\n  },\n  {\n    "uuid": "598ea9e9-8326-3f20-82aa-878bcc674219",\n    "title": "Ping An Biomedical Announces 1-for-40 Reverse Stock Split",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/ping-biomedical-announces-1-40-150000769.html",\n    "providerPublishTime": 1792594800,\n    "type": "STORY",\n    "relatedTickers": [\n      "PASW"\n    ]\n  },\n  {\n    "uuid": "c9273da2-67c7-3ca3-8da1-a42ead11d387",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143018991.html",\n    "providerPublishTime": 1788186618,\n    "type": "STORY",\n    "relatedTickers": [\n      "VVOS",\n      "PASW",\n      "CLGN",\n      "NVDA",\n      "FNGR",\n      "NCRA",\n      "GPRO",\n      "LGCL",\n      "AAL",\n      "AEHL",\n      "WBUY",\n      "WETO",\n      "^IXIC",\n      "INTC",\n      "TSLA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-10-23 09:30:00-04:00,0.025\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-99.53,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,3809261,1.35,137180,183022,247079.7,-0.474,,,0.092709996,0.05603,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,2821675,1866402,0.12060001,0.00265,9257,0.4,0.0037,,,0.14931706,0.36069483,0.3,-0.726,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-11-12
+99.49,PASW,Ping An Biomedical Co. Ltd.,Consumer Cyclical,Textile Manufacturing,Hong Kong,4317162,1.53,150340,187509,286888.77,-0.474,,,0.092709996,-0.4134,-0.14778,-0.11350001,-0.088570006,6842381,10272911,13.14,2.537,0.612,-5542738,-46387028,2821675,1866402,0.12060001,0.00328,12734,0.32,0.0050999997,,,0.16922599,0.40878743,0.322,-0.779,,,,,none,,,,,,,,https://newbrandcashmere.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-07-18,5.39,5.40,2.55,3.30,,,,,,,0,2.5450,1,15917880,,,,
 2025-07-21,2.96,3.17,2.61,2.90,,,,,,,0,2.5450,1,3051960,,,,
@@ -348,3 +348,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.47,1.50,1.10,1.10,3.31,3.09,1.31,0.54,0.46,4.4171,0,5.4021,0,143000,1261471,0.2228,0.7240,-0.5012
 2026-11-11,1.14,1.47,1.12,1.36,2.94,3.15,1.34,0.55,0.46,4.2114,0,5.1422,0,164696,1260385,0.1033,0.5999,-0.4966
 2026-11-12,1.35,1.91,1.27,1.57,2.60,3.22,1.37,0.56,0.47,4.2114,0,4.8978,0,128174,1262657,0.0248,0.4849,-0.4601
+2026-11-13,1.45,1.61,1.45,1.53,2.24,3.29,1.39,0.57,0.47,4.1144,0,4.6682,0,4506,1262511,-0.0398,0.3799,-0.4197

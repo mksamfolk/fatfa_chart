@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.026099999,599994,5927760,1.0\n1,2026-09-30,"Context Capital Management, LLC",0.0174,400000,3951879,1.0\n2,2026-09-30,Wealthspring Capital LLC,0.0087,199995,1975890,1.0\n3,2026-09-30,Picton Mahoney Asset Management,0.0076,174994,1728888,1.0\n4,2026-09-30,Mizuho Securities USA LLC,0.0064999997,150102,1482962,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.0043,100000,987969,1.0\n6,2026-09-30,Gritstone Asset Management LLC,0.0022,50000,493984,1.0\n7,2026-09-30,ABC Arbitrage SA,0.0013,30000,296390,1.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.00059999997,14700,145231,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.026099999,599994,5921940,1.0\n1,2026-09-30,BNP Paribas Financial Markets,0.025,574080,5666169,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0174,400000,3947999,1.0\n3,2026-09-30,Wealthspring Capital LLC,0.0087,199995,1973950,1.0\n4,2026-09-30,Picton Mahoney Asset Management,0.0076,174994,1727190,1.0\n5,2026-09-30,Mizuho Securities USA LLC,0.0064999997,150102,1481506,1.0\n6,2026-09-30,Mint Tower Capital Management B.V.,0.0043,100000,986999,1.0\n7,2026-09-30,Gritstone Asset Management LLC,0.0022,50000,493499,1.0\n8,2026-09-30,ABC Arbitrage SA,0.0013,30000,296099,1.0\n9,2026-09-30,"Wolverine Asset Management, LLC",0.00059999997,14700,145088,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0022,49998,493965,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0022,49998,493480,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0013\ninstitutionsPercentHeld,0.14265999\ninstitutionsFloatPercentHeld,0.14285\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.0013\ninstitutionsPercentHeld,0.34254003\ninstitutionsFloatPercentHeld,0.34299\ninstitutionsCount,20.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378721824,9.8797,27290,60175,594510.9475,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0013,0.14265999,217,0.01,,,,,1.7051604,,,,,,,none,,,,,,,,,2026-11-12
+0.00,YICC,Yorkville International Capital Corp.,Financial Services,Shell Companies,United States,378349984,9.87,47530,60806,600155.22,,,,0.0,0.0,0.0,,,811018,0,,,,,,23000000,,0.0013,0.34254003,480,0.02,,,,,1.7034863,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,9.88,9.93,9.84,9.93,,,,,,,0,9.8400,1,205551,,,,
 2026-07-14,9.85,9.85,9.85,9.85,,,,,,,0,9.8400,1,152675,,,,
@@ -102,3 +102,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.87,9.88,9.86,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,1734159,663706,-0.0110,-0.0118,0.0008
 2026-11-11,9.87,9.87,9.87,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,,663706,-0.0104,-0.0115,0.0011
 2026-11-12,9.86,9.87,9.86,9.87,9.87,9.87,9.90,,,9.8902,0,9.8800,0,626745,636641,-0.0098,-0.0112,0.0014
+2026-11-13,9.88,9.88,9.87,9.87,9.87,9.87,9.90,,,9.8902,0,9.8500,1,12189,636884,-0.0092,-0.0108,0.0016

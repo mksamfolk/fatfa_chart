@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0146,30330,55807,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0007,1500,2760,0.5\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0146,30330,53077,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0007,1500,2625,0.5\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,0.0\n3,2026-09-30,UBS Group AG,0.0,91,159,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,862,1586,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,862,1508,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.52962\ninstitutionsPercentHeld,0.01533\ninstitutionsFloatPercentHeld,0.03258\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.52962\ninstitutionsPercentHeld,0.015369999\ninstitutionsFloatPercentHeld,0.032679997\ninstitutionsCount,4.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2025-12-30 09:30:00-05:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-11.62,ILAG,Intelligent Living Application Group Inc.,Industrials,Building Products & Equipment,Hong Kong,3821584,1.84,21310,71464,131493.76,-0.279,,,0.028889999,-5.11538,0.0,-2.21181,-0.90302,645939,1838139,37.848,1.973,0.298,-2429866,-5815714,2076948,986446,0.52962,0.01533,13707,0.08,0.0139,,,0.8504557,0.78699744,1.116,-0.318,,,,,none,,,,,,,2.194,https://www.i-l-a-g.com,2026-11-12
+12.31,ILAG,Intelligent Living Application Group Inc.,Industrials,Building Products & Equipment,Hong Kong,3634659,1.75,12960,72953,127667.75,0.023,,,0.01248,-2.79633,0.0,-2.15309,-0.73870003,174788,1999583,57.907,1.471,0.151,-1542717,-2723732,2076948,986459,0.52962,0.015369999,4232,0.02,0.0043,,,0.79948086,1.0529482,1.201,-0.45,,,,,none,,,,,,,,https://www.i-l-a-g.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-07-13,220.10,264.00,57.20,61.20,,,,,,,0,264.0000,0,43806349,,,,
 2022-07-14,56.50,57.80,22.10,25.40,,,,,,,0,264.0000,0,17638014,,,,
@@ -1104,3 +1104,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.85,1.89,1.75,1.76,1.95,2.30,2.75,3.22,3.19,2.4804,0,2.6343,0,78144,301128,-0.2990,-0.2640,-0.0350
 2026-11-11,1.74,1.77,1.69,1.73,1.88,2.23,2.72,3.22,3.18,2.3484,0,2.5222,0,23355,301563,-0.3002,-0.2712,-0.0290
 2026-11-12,1.73,1.73,1.73,1.73,1.84,2.17,2.69,3.21,3.16,2.2865,0,2.4057,0,,301518,-0.2976,-0.2765,-0.0211
+2026-11-13,1.79,1.93,1.75,1.78,1.82,2.12,2.67,3.21,3.15,2.2865,0,2.3055,0,56309,302644,-0.2883,-0.2789,-0.0094

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HSG Holding Ltd,0.0342,14342,3737,1.0\n1,2026-06-30,Orland Properties Ltd.,0.0247,10371,2702,1.0\n2,2026-06-30,Citadel Advisors Llc,0.0167,7018,1828,1.0\n3,2026-06-30,Xtx Topco Ltd,0.0124,5212,1358,1.0\n4,2026-06-30,"Jane Street Group, LLC",0.0050999997,2151,560,1.0\n5,2026-06-30,HRT Financial LP,0.0023999999,1005,261,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HSG Holding Ltd,0.0342,14342,2197,1.0\n1,2026-09-30,UBS Group AG,0.0276,11575,1773,1.0\n2,2026-06-30,Orland Properties Ltd.,0.0247,10371,1588,1.0\n3,2026-06-30,Citadel Advisors Llc,0.0167,7018,1075,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0124,5212,798,1.0\n5,2026-06-30,HRT Financial LP,0.0023999999,1005,153,1.0\n6,2026-09-30,JPMORGAN CHASE & CO,0.0,1,0,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00158\ninstitutionsFloatPercentHeld,0.00158\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.00014999999\ninstitutionsPercentHeld,0.00177\ninstitutionsFloatPercentHeld,0.00177\ninstitutionsCount,6.0\n
 news
 [\n  {\n    "uuid": "7f304fba-fa8d-3d1e-9af8-240ac9f1549b",\n    "title": "Nasdaq Confirms Yimutian’s Return to Compliance",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-confirms-yimutian-return-compliance-161500251.html",\n    "providerPublishTime": 1792772100,\n    "type": "STORY",\n    "relatedTickers": [\n      "^IXIC",\n      "YMT"\n    ]\n  },\n  {\n    "uuid": "76405527-cc04-38a0-a710-bfbc83b30742",\n    "title": "Why Is Yimutian Stock Gaining Tuesday?",\n    "publisher": "Benzinga",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/why-yimutian-stock-gaining-tuesday-113826010.html",\n    "providerPublishTime": 1790681906,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/Benzinga/ba78b0a61a9a5ec1d68580dbdd6f24ef.jpg",\n          "width": 1920,\n          "height": 1080,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/393E89D8CC3300152D3E838CE9ACE52B2AE1F608C7F9C44AEA6EC7692CCF0C3B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2Fba78b0a61a9a5ec1d68580dbdd6f24ef.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "YMT"\n    ]\n  }\n]\n
 splits
-Date,Stock Splits\n2026-05-18 09:30:00-04:00,0.06666666666666667\n2026-08-27 09:30:00-04:00,0.0625\n
+Date,Stock Splits\n2026-08-27 09:30:00-04:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-5.49,YMT,Yimutian Inc.,Technology,Software - Application,China,6616131,0.2606,1836990,1284339,334698.7434,-0.077,,,0.8464,-0.36476,-0.33161998,,-0.23512,111111000,129860000,,0.497,0.386,-49179000,-42766248,25330941,60086,0.0,0.00158,10430,0.0,0.0005,,,0.047038004,-0.0043327133,0.342,-1.182,,,,,none,,,,,,,,https://www.ymt.com,2026-11-12
+2.97,YMT,Yimutian Inc.,Technology,Software - Application,China,3889452,0.1532,964948,277943,42580.8676,-0.077,,,0.8464,-0.29704002,-0.33161998,,-0.23512,111111000,129860000,,0.497,0.386,-49179000,-42766248,25330941,60086,0.00014999999,0.00177,17147,0.16,0.0007,,,0.027652424,-0.0025470902,0.346,-1.197,,,,,none,,,,,,,,https://www.ymt.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-19,88.20,90.75,28.50,42.00,,,,,,,0,28.5000,1,8286894,,,,
 2025-08-20,33.30,37.03,30.90,33.45,,,,,,,0,28.5000,1,653847,,,,
@@ -324,4 +324,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.27,0.27,0.25,0.26,0.34,0.49,0.91,1.47,6.03,0.5595,0,0.3849,0,21350,1186173,-0.2219,-0.2123,-0.0095
 2026-11-10,0.26,0.28,0.26,0.26,0.32,0.46,0.91,1.43,5.91,0.5377,0,0.3561,0,26387,1184431,-0.2155,-0.2130,-0.0025
 2026-11-11,0.26,1.45,0.25,0.32,0.30,0.43,0.91,1.39,5.79,0.5377,0,0.2410,1,28785963,1290064,-0.2035,-0.2111,0.0076
-2026-11-12,0.23,0.25,0.20,0.23,0.28,0.41,0.91,1.35,5.65,0.5377,0,1.4500,0,626886,1291103,-0.1985,-0.2086,0.0101
+2026-11-12,0.23,0.25,0.20,0.23,0.28,0.41,0.91,1.35,5.65,0.5377,0,1.4500,0,643876,1291443,-0.1985,-0.2086,0.0101
+2026-11-13,0.22,0.22,0.14,0.15,0.26,0.39,0.91,1.31,5.52,0.5377,0,1.4500,0,396261,1291231,-0.1987,-0.2066,0.0079

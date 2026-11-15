@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0717,2475000,24774750,0.0\n1,2026-06-30,"Meteora Capital, LLC",0.0614,2119064,21211831,-0.2455\n2,2026-06-30,Magnetar Financial LLC,0.0435,1500000,15015000,0.0\n3,2026-06-30,Jain Global LLC,0.0366,1262388,12636504,1.0\n4,2026-06-30,"J. Goldman & Co., L.P.",0.0304,1049106,10501551,1.9974\n5,2026-06-30,Sculptor Capital LP,0.0297,1025000,10260250,0.025\n6,2026-06-30,Alberta Investment Management Corp,0.029000001,1000000,10010000,1.0\n7,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,1000000,10010000,0.0\n8,2026-06-30,"Moore Capital Management, LP",0.029000001,1000000,10010000,1.0\n9,2026-06-30,Governors Lane LP,0.029000001,1000000,10010000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0717,2475000,24848999,0.0\n1,2026-06-30,"Meteora Capital, LLC",0.0614,2119064,21275402,-0.2455\n2,2026-06-30,Magnetar Financial LLC,0.0435,1500000,15059999,0.0\n3,2026-06-30,Jain Global LLC,0.0366,1262388,12674375,1.0\n4,2026-06-30,"J. Goldman & Co., L.P.",0.0304,1049106,10533024,1.9974\n5,2026-06-30,Sculptor Capital LP,0.0297,1025000,10290999,0.025\n6,2026-06-30,Polar Asset Management Partners Inc.,0.029000001,1000000,10039999,0.0\n7,2026-06-30,"Moore Capital Management, LP",0.029000001,1000000,10039999,1.0\n8,2026-06-30,Governors Lane LP,0.029000001,1000000,10039999,0.0\n9,2026-09-30,Alberta Investment Management Corp,0.029000001,1000000,10039999,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0062,214556,2147705,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,34132,341661,0.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.0005,16936,169529,-0.2508\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,7232,72392,-0.2508\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5762,57677,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0062,214556,2154142,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,34132,342685,0.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.0005,16936,170037,-0.2508\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0002,7232,72609,-0.2508\n4,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5762,57850,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00116\ninstitutionsPercentHeld,0.79851997\ninstitutionsFloatPercentHeld,0.79944\ninstitutionsCount,55.0\n
+,Value\ninsidersPercentHeld,0.00116\ninstitutionsPercentHeld,0.79025\ninstitutionsFloatPercentHeld,0.79116994\ninstitutionsCount,55.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,KRAQ,KRAKacquisition Corp.,Financial Services,Shell Companies,United States,431681248,10.01,61410,67237,673042.37,,,,0.0,0.0,0.0,,,746553,0,,0.079,0.079,,,34500000,29216325,0.00116,0.79851997,216,0.0,0.0,,,,-21.666666,,,,,,,none,,,,,,,,https://www.kraq.it,2026-11-12
+0.00,KRAQ,KRAKacquisition Corp.,Financial Services,Shell Companies,United States,432975008,10.04,33180,65946,662097.84,,,,0.0,0.0,0.0,,,746553,0,,0.079,0.079,,,34500000,29216325,0.00116,0.79025,1192,0.01,0.0,,,,-21.731602,,,,,,,none,,,,,,,,https://www.kraq.it,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-20,9.90,10.01,9.87,9.92,,,,,,,0,9.8700,1,172608,,,,
 2026-03-23,9.88,9.99,9.88,9.90,,,,,,,0,9.8700,1,647460,,,,

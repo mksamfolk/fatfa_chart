@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Mizuho Securities USA LLC,0.2066,789636,8330659,1.4174\n1,2026-06-30,Berkley W R Corp,0.17979999,687425,7252333,1.2118\n2,2026-06-30,"RiverNorth Capital Management, LLC",0.103999995,397500,4193625,0.0\n3,2026-06-30,"Shaw D.E. & Co., Inc.",0.088199995,337000,3555350,0.0\n4,2026-06-30,Hudson Bay Capital Management Lp,0.0785,300000,3165000,0.0\n5,2026-06-30,"Mangrove Partners IM, LLC",0.0771,294882,3111005,0.0\n6,2026-06-30,Clear Street Group Inc.,0.0757,289227,3051344,0.735\n7,2026-06-30,Shaolin Capital Management LLC,0.0674,257844,2720254,-0.35740003\n8,2026-06-30,"Karpus Management, Inc.",0.060100004,229575,2422016,-0.237\n9,2026-06-30,"Whitebox Advisors, LLC",0.0572,218500,2305175,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Berkley W R Corp,0.17979999,687425,7252333,1.2118\n1,2026-06-30,"RiverNorth Capital Management, LLC",0.103999995,397500,4193625,0.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.088199995,337000,3555350,0.0\n3,2026-06-30,Hudson Bay Capital Management Lp,0.0785,300000,3165000,0.0\n4,2026-06-30,"Mangrove Partners IM, LLC",0.0771,294882,3111005,0.0\n5,2026-06-30,Clear Street Group Inc.,0.0757,289227,3051344,0.735\n6,2026-06-30,Shaolin Capital Management LLC,0.0674,257844,2720254,-0.35740003\n7,2026-06-30,"Karpus Management, Inc.",0.060100004,229575,2422016,-0.237\n8,2026-06-30,"Whitebox Advisors, LLC",0.0572,218500,2305175,0.0\n9,2026-06-30,"Two Sigma Investments, LP",0.056900002,217499,2294614,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.041199997,157332,1659852,-0.72199994\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.026199998,100000,1055000,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0025,9602,101301,-0.7023\n3,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0022,8388,88493,-0.734\n4,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Credit Event Fund,0.0017,6612,69756,-0.6942\n5,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00090000004,3254,34329,-0.71309996\n6,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,2525,26638,0.0\n7,2026-06-30,Merger Fund VL-The Merger Fund VL,0.0004,1700,17935,-0.7068\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.62444997\ninstitutionsPercentHeld,1.73991\ninstitutionsFloatPercentHeld,4.6329403\ninstitutionsCount,37.0\n
+,Value\ninsidersPercentHeld,0.62444997\ninstitutionsPercentHeld,1.1583999\ninstitutionsFloatPercentHeld,3.0845401\ninstitutionsCount,30.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-58.13,LCCC,Lakeshore Acquisition III Corp.,Financial Services,Shell Companies,United States,40330404,10.55,10,689,7268.950000000001,,0.567,0.567,0.0,0.0,0.0,,,252080,0,,,,-770864,,3822787,2919157,0.62444997,1.73991,251,2.89,0.0001,31.029411,,,-54.381443,,,,,,,none,,,,,,,,,2026-11-12
+58.62,LCCC,Lakeshore Acquisition III Corp.,Financial Services,Shell Companies,United States,40330404,10.55,10,468,4937.400000000001,,-0.022,-0.422,0.0,0.0,0.0,,,176425,0,,,,-640231,,3822787,,0.62444997,1.1583999,252,0.35,0.0001,31.029411,,,-54.381443,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-06-23,10.00,10.24,10.00,10.00,,,,,,,0,10.2400,0,447000,,,,
 2025-06-24,10.04,10.04,10.00,10.01,,,,,,,0,10.2400,0,1327326,,,,

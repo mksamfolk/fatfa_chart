@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Highbridge Capital Management, LLC.",0.065799996,570000,5751300,1.0\n1,2026-06-30,Mizuho Securities USA LLC,0.0541,468506,4727225,1.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.032899998,285000,2875650,1.0\n3,2026-06-30,"Whitebox Advisors, LLC",0.032899998,285000,2875650,1.0\n4,2026-06-30,Linden Advisors LP,0.028900001,250000,2522500,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.028900001,250000,2522500,1.0\n6,2026-06-30,Berkley W R Corp,0.0287,248540,2507768,1.0\n7,2026-06-30,"Karpus Management, Inc.",0.019299999,167500,1690075,1.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0182,157904,1593251,-0.1725\n9,2026-06-30,"Two Sigma Investments, LP",0.0126,108749,1097277,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.0795,689011,6972791,0.4707\n1,2026-06-30,"Highbridge Capital Management, LLC.",0.065799996,570000,5768399,1.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.032899998,285000,2884199,1.0\n3,2026-06-30,"Whitebox Advisors, LLC",0.032899998,285000,2884199,1.0\n4,2026-06-30,Linden Advisors LP,0.028900001,250000,2529999,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.028900001,250000,2529999,1.0\n6,2026-06-30,Berkley W R Corp,0.0287,248540,2515224,1.0\n7,2026-06-30,"Karpus Management, Inc.",0.019299999,167500,1695099,1.0\n8,2026-09-30,"Wolverine Asset Management, LLC",0.0182,157904,1597988,-0.1725\n9,2026-09-30,BNP Paribas Financial Markets,0.0178,154300,1561515,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,5058,51035,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,2064,20825,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,5058,51186,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,2064,20887,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.36848\ninstitutionsPercentHeld,0.44262\ninstitutionsFloatPercentHeld,0.70088\ninstitutionsCount,25.0\n
+,Value\ninsidersPercentHeld,0.30663002\ninstitutionsPercentHeld,0.51881003\ninstitutionsFloatPercentHeld,0.74824\ninstitutionsCount,27.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,MCAH,Mountain Crest Acquisition 6 Corp.,Financial Services,Shell Companies,United States,87393816,10.09,7440,18678,188461.02,,,,0.0,0.0,0.0,,,14184,423670,0.707,,,,,8661429,,0.36848,0.44262,10020,1.26,,,,,1.4583032,,,,,,,none,,,,,,,,,2026-11-12
+0.00,MCAH,Mountain Crest Acquisition 6 Corp.,Financial Services,Shell Companies,United States,87653664,10.12,37840,23815,241007.8,,,,0.0,0.0,0.0,,,1701,423670,0.701,,,,,8661429,,0.30663002,0.51881003,9669,0.64,,,,,1.4506881,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.94,9.94,9.92,9.94,,,,,,,0,9.9400,0,3853738,,,,
 2026-06-23,9.92,9.94,9.92,9.93,,,,,,,0,9.9400,0,7014552,,,,

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Indirectly,Position Indirect Date,Shares Owned Directly,Position Direct Date\n0,BURNETT GAVIN GEOFFERY,Chief Executive Officer,,Stock Award(Grant),2026-09-24,16906.0,1790208000.0,,\n1,CHEGWIDDEN JOHN JOSEPH,Director,,Stock Award(Grant),2026-09-24,31124.0,1790208000.0,,\n2,JACKSON JASON DALE,Chief Operating Officer,,Purchase,2026-04-02,,,11050.0,2026-04-02\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0,526,499,-0.4745\n1,2026-06-30,BNP Paribas Financial Markets,0.0,100,94,1.0\n2,2026-06-30,Osaic Holdings Inc.,0.0,30,28,0.0\n3,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,9,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"SBI Securities Co., Ltd.",0.0,10,8,0.0\n1,2026-09-30,UBS Group AG,0.0,151,133,-0.7129\n2,2026-09-30,BNP Paribas Financial Markets,0.0,800,707,7.0\n3,2026-09-30,Osaic Holdings Inc.,0.0,30,26,0.0\n4,2026-09-30,JPMORGAN CHASE & CO,0.0,1,0,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,12006,29175,,Stock Award(Grant) at price 2.43 per share.,BURNETT GAVIN GEOFFERY,Chief Executive Officer,,2026-09-24,I\n1,13216,32115,,Stock Award(Grant) at price 2.43 per share.,CHEGWIDDEN JOHN JOSEPH,Director,,2026-09-24,I\n2,9285,38997,,Purchase at price 4.20 per share.,JACKSON JASON DALE,Chief Operating Officer,,2026-04-02,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.21374\ninstitutionsPercentHeld,0.00037\ninstitutionsFloatPercentHeld,0.00046999997\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.21374\ninstitutionsPercentHeld,0.00055\ninstitutionsFloatPercentHeld,0.0007\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "de881750-1b91-3b9b-95f2-deb4b477966e",\n    "title": "Locafy to Acquire Map Labs’ Assets, Significantly Expanding Revenue and U.S. Customer Base",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/articles/locafy-acquire-map-labs-assets-120000694.html",\n    "providerPublishTime": 1791288000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/ba1c5a44ebe0030556bc76ebfee94c9a.jpg",\n          "width": 274,\n          "height": 76,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/98DC69C51243DFCA372C4F0BD19EB2BA06839A0DB4CF278C86AE2D6B53EEE3D5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fba1c5a44ebe0030556bc76ebfee94c9a.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LCFY"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2022-12-08 09:30:00-05:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.28,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,2132576,0.95,11930,68629,65197.549999999996,0.47,,,0.23781,-0.67239,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00037,2807,0.02,0.0015,,,0.5413418,0.6570553,0.248,-0.352,,,,,none,,,,,,,1.782,https://www.locafy.com,2026-11-12
+5.38,LCFY,Locafy Limited,Communication Services,Internet Content & Information,Australia,1986663,0.885,34190,72431,64101.435,0.47,,,0.23781,-0.73045,-0.78158,-0.69513,-0.28507,1441709,344129,7.657,1.377,1.162,-311887,-1305501,2244817,1676208,0.21374,0.00055,1845,0.01,0.001,,,0.5043027,0.6120989,0.212,-0.301,,,,,none,,,,,,,1.782,https://www.locafy.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-03-25,66.80,66.80,44.60,66.80,,,,,,,0,44.6000,1,8438510,,,,
 2022-03-28,66.00,90.00,52.60,66.00,,,,,,,0,44.6000,1,37341810,,,,
@@ -1178,3 +1178,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.90,0.90,0.85,0.85,1.07,1.17,1.88,3.13,3.28,1.2172,0,1.1849,0,7820,168113,-0.2560,-0.2691,0.0131
 2026-11-11,0.87,0.90,0.87,0.87,1.04,1.14,1.84,3.11,3.27,1.2064,0,1.1581,0,7150,167776,-0.2543,-0.2661,0.0119
 2026-11-12,0.88,1.12,0.88,1.00,1.02,1.12,1.81,3.09,3.26,1.2064,0,1.1334,0,227073,170821,-0.2399,-0.2609,0.0210
+2026-11-13,0.91,0.95,0.88,0.88,1.00,1.10,1.77,3.06,3.25,1.2064,0,1.1200,0,33791,171421,-0.2350,-0.2557,0.0207

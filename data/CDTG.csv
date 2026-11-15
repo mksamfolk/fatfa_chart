@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.005,15050,14901,1.0\n1,2026-06-30,HRT Financial LP,0.0047,14139,13999,1.0\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Jane Street Group, LLC",0.0452,136449,142589,1.0\n1,2026-06-30,"Susquehanna International Group, LLP",0.005,15050,15727,1.0\n2,2026-06-30,HRT Financial LP,0.0047,14139,14775,1.0\n3,2026-09-30,UBS Group AG,0.0034999999,10434,10903,1.0\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,1,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.06057\ninstitutionsPercentHeld,0.05178\ninstitutionsFloatPercentHeld,0.055120002\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.062470004\ninstitutionsPercentHeld,0.05171\ninstitutionsFloatPercentHeld,0.05515\ninstitutionsCount,4.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-06-01 09:30:00-04:00,0.04\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-13.21,CDTG,CDT Environmental Technology Investment Holdings Limited,Industrials,Waste Management,China,2991119,0.9901,98260,4283401,4240995.3301,-0.361,,,0.41474,-0.96401,-0.55949,-0.30454,-0.0817,66686,6129135,20.004,1.456,1.445,-1490957,-5753700,3021027,2766994,0.06057,0.05178,186771,0.68,0.065799996,,,0.16411437,0.017497571,0.498,-0.796,,,,,none,,,,,,,-1.871,https://www.cdthb.cn,2026-11-12
+15.59,CDTG,CDT Environmental Technology Investment Holdings Limited,Industrials,Waste Management,China,3156973,1.045,86360,4244904,4435924.68,-0.361,,,0.41474,-0.63928,-0.55949,-0.30454,-0.0817,66686,6129135,20.004,1.456,1.445,-1490957,-5753700,3021027,2766994,0.062470004,0.05171,148800,0.7,0.052399997,,,0.17321432,0.018467791,0.507,-0.81,,,,,none,,,,,,,-1.871,https://www.cdthb.cn,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-04-19,81.00,115.00,80.38,93.75,,,,,,,0,80.3750,1,897375,,,,
 2024-04-22,98.50,111.00,93.75,101.00,,,,,,,0,80.3750,1,200384,,,,
@@ -659,3 +659,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.98,1.08,0.94,1.00,0.97,1.04,1.26,3.99,5.08,1.4117,0,1.1848,0,44600,10207762,-0.0742,-0.0810,0.0067
 2026-11-11,0.99,1.06,0.97,1.03,0.98,1.04,1.26,3.93,5.03,1.4117,0,1.1588,0,49852,10204804,-0.0664,-0.0780,0.0117
 2026-11-12,1.07,1.15,0.95,1.06,0.99,1.04,1.26,3.88,5.00,1.4117,0,0.8600,1,97414,10205276,-0.0571,-0.0739,0.0167
+2026-11-13,1.02,1.08,1.02,1.05,1.00,1.04,1.25,3.82,4.96,1.4117,0,0.8658,1,11150,10167695,-0.0500,-0.0691,0.0191

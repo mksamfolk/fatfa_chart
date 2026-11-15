@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.001,11095,2665,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0228,264623,58217,1.0\n1,2026-09-30,"Jane Street Group, LLC",0.0054,62419,13732,4.6259\n2,2026-09-30,JPMORGAN CHASE & CO,0.0,43,9,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.66826\ninstitutionsPercentHeld,0.00096000003\ninstitutionsFloatPercentHeld,0.0028799998\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.66828\ninstitutionsPercentHeld,0.02913\ninstitutionsFloatPercentHeld,0.087799996\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "e56151f0-37d5-36dd-b3fe-91774bd763a8",\n    "title": "AMASS Brands’ Pizzolato Widens Its Lead as America’s No. 1 Organic Sparkling Wine, With Retail Sales Up 61% in the Latest Four Weeks",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/amass-brands-pizzolato-widens-lead-123000304.html",\n    "providerPublishTime": 1793190600,\n    "type": "STORY",\n    "relatedTickers": [\n      "AMSS"\n    ]\n  },\n  {\n    "uuid": "89643b52-fa35-358d-969c-9cc393ee3a08",\n    "title": "AMASS Brands Inc. Announces Preliminary Third Quarter 2026 Net Revenue of Approximately $5.3 Million, Up 30% Year-Over-Year",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/amass-brands-inc-announces-preliminary-123000768.html",\n    "providerPublishTime": 1791289800,\n    "type": "STORY",\n    "relatedTickers": [\n      "AMSS"\n    ]\n  },\n  {\n    "uuid": "977f7cc6-4aa8-351d-a541-036070fc4aaf",\n    "title": "AMASS Electrolytes Achieves Approximately $1.4 Million Annualized Revenue Run Rate Four Months After Launch",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/small-business/articles/amass-electrolytes-achieves-approximately-1-130000351.html",\n    "providerPublishTime": 1790686800,\n    "type": "STORY",\n    "relatedTickers": [\n      "AMSS"\n    ]\n  },\n  {\n    "uuid": "5b86c23f-b0dc-39d0-a408-b825c3678997",\n    "title": "AMASS Brands Group’s Good Twin Retail Sales Accelerate 136%, Nearly 8x the Growth Rate of the U.S. Non-Alcoholic Wine Category",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/small-business/articles/amass-brands-group-good-twin-130000967.html",\n    "providerPublishTime": 1789477200,\n    "type": "STORY",\n    "relatedTickers": [\n      "AMSS"\n    ]\n  },\n  {\n    "uuid": "52909e3f-b688-3c83-8cdb-f815635a84da",\n    "title": "AMASS Brands Inc. Reports Second Quarter 2026 Results",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/amass-brands-inc-reports-second-120000338.html",\n    "providerPublishTime": 1786968000,\n    "type": "STORY",\n    "relatedTickers": [\n      "AMSS"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,AMSS,AMASS Brands Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,United States,2787540,0.2402,113350,167639,40266.8878,0.016,,,0.17079,-1.00461,-1.1386399,,,1570517,6770090,310.914,0.701,0.224,-6654906,,11605081,6791758,0.66826,0.00096000003,26058,0.08,,,-0.24262626,0.15717515,-2.1836364,0.645,-0.952,4.0,4.0,4.0,,none,1,0,0,1,1,,,https://www.amassbrandsgroup.com,2026-11-12
+0.00,AMSS,AMASS Brands Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,United States,2553117,0.22,122440,170168,37436.96,0.016,,,0.17079,-0.7597,-1.1386399,,,1570517,6770090,310.914,0.701,0.224,-6654906,,11605081,6843052,0.66828,0.02913,19040,0.07,,,-0.22222222,0.14395724,-2.0,0.632,-0.932,4.0,4.0,4.0,,none,1,0,0,1,1,,,https://www.amassbrandsgroup.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-05-20,17.00,17.00,10.50,11.35,,,,,,,0,17.0000,0,912540,,,,
 2026-05-21,8.70,9.68,6.26,6.43,,,,,,,0,17.0000,0,1210769,,,,
@@ -137,3 +137,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.24,0.27,0.24,0.26,0.28,0.31,0.59,,,0.3920,0,0.3825,0,30316,46351,-0.0978,-0.1152,0.0174
 2026-11-11,0.27,0.27,0.25,0.26,0.27,0.30,0.58,,,0.3920,0,0.3788,0,10296,45851,-0.0925,-0.1107,0.0182
 2026-11-12,0.26,0.26,0.20,0.21,0.26,0.30,0.56,,,0.3757,0,0.3752,0,24465,45648,-0.0912,-0.1068,0.0156
+2026-11-13,0.21,0.22,0.20,0.22,0.25,0.29,0.54,,,0.3511,0,0.3717,0,7260,44564,-0.0885,-0.1031,0.0146

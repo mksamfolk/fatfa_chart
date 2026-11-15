@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Context Capital Management, LLC",0.019,450000,4423499,1.0\n1,2026-09-30,Periscope Capital Inc.,0.016900001,399600,3928067,1.0\n2,2026-09-30,First Trust Capital Management L.P.,0.0116,274998,2703230,1.0\n3,2026-09-30,ABC Arbitrage SA,0.0013,30000,294899,1.0\n4,2026-09-30,Gritstone Asset Management LLC,0.0011,25000,245749,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Picton Mahoney Asset Management,0.033099998,782998,7712530,1.0\n1,2026-09-30,BNP Paribas Financial Markets,0.0234,552960,5446656,1.0\n2,2026-09-30,"Westchester Capital Management, LLC",0.0211,500343,4928378,1.0\n3,2026-09-30,"Context Capital Management, LLC",0.019,450000,4432500,1.0\n4,2026-09-30,Periscope Capital Inc.,0.016900001,399600,3936060,1.0\n5,2026-09-30,First Trust Capital Management L.P.,0.0116,274998,2708730,1.0\n6,2026-09-30,Mizuho Securities USA LLC,0.0063,150000,1477500,1.0\n7,2026-09-30,Mint Tower Capital Management B.V.,0.0042,100000,985000,1.0\n8,2026-09-30,ABC Arbitrage SA,0.0013,30000,295500,1.0\n9,2026-09-30,Gritstone Asset Management LLC,0.0011,25000,246250,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0021,49998,491480,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11269,110774,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0021,49998,492480,1.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,11269,110999,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.10439\ninstitutionsFloatPercentHeld,0.10453\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.00127\ninstitutionsPercentHeld,0.38062\ninstitutionsFloatPercentHeld,0.3811\ninstitutionsCount,21.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,307990304,9.83,18490,39293,386250.19,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.00127,0.10439,299,0.01,0.0,,,,-1228.7499,,,,,,,none,,,,,,,,,2026-11-12
+0.00,CCCT,Columbus Circle Capital Corp III,Financial Services,Shell Companies,United States,308616928,9.85,25040,24425,240586.25,,,,0.0,0.0,0.0,,,,239922,,0.409,,0,,23665000,23665121,0.00127,0.38062,351,0.04,0.0,,,,-1231.25,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-31,10.05,10.05,9.80,9.81,,,,,,,0,10.0500,0,166770,,,,
 2026-08-03,9.80,9.83,9.80,9.80,,,,,,,0,10.0500,0,88200,,,,
@@ -88,3 +88,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.84,9.84,9.84,9.84,9.85,9.85,9.85,,,9.8474,0,9.8840,0,745872,140620,-0.0033,0.0008,-0.0041
 2026-11-11,9.84,9.84,9.84,9.84,9.84,9.85,9.85,,,9.8474,0,9.8823,0,,140522,-0.0034,-0.0000,-0.0034
 2026-11-12,9.84,9.84,9.84,9.84,9.84,9.85,9.85,,,9.8474,0,9.8806,0,,140522,-0.0035,-0.0007,-0.0028
+2026-11-13,9.85,9.85,9.85,9.85,9.84,9.85,9.85,,,9.8334,1,9.8790,0,114899,142820,-0.0023,-0.0010,-0.0012

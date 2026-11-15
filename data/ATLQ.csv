@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0328,611095,6123172,1.0\n1,2026-09-30,First Trust Capital Management L.P.,0.0215,400000,4008000,1.0\n2,2026-09-30,Periscope Capital Inc.,0.0107,200000,2004000,1.0\n3,2026-09-30,Warberg Asset Management LLC,0.0025,46875,469687,1.0\n4,2026-09-30,ABC Arbitrage SA,0.0016,30000,300600,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Westchester Capital Management, LLC",0.056399997,1050000,10547250,1.0\n1,2026-09-30,Mizuho Securities USA LLC,0.0438,814156,8178197,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0328,611095,6138449,1.0\n3,2026-09-30,First Trust Capital Management L.P.,0.0215,400000,4018000,1.0\n4,2026-09-30,BNP Paribas Financial Markets,0.0186,346650,3482099,1.0\n5,2026-09-30,Periscope Capital Inc.,0.0107,200000,2009000,1.0\n6,2026-09-30,Warberg Asset Management LLC,0.0025,46875,470859,1.0\n7,2026-09-30,ABC Arbitrage SA,0.0016,30000,301350,1.0\n8,2026-09-30,UBS Group AG,0.0,18,180,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2854297,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1651446,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1387419,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,269137,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165199,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0153,284860,2861418,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0089,164815,1655566,1.0\n2,2026-08-31,Brinker Capital Destinations TRT-Destinations Low Duration Fixed Incom,0.0074,138465,1390880,1.0\n3,2026-09-30,Trust for Professional Managers-CrossingBridge Responsible Credit Fund,0.0014,26860,269808,1.0\n4,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.00090000004,16487,165611,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.050419997\ninstitutionsPercentHeld,0.085710004\ninstitutionsFloatPercentHeld,0.09026\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.050419997\ninstitutionsPercentHeld,0.46378\ninstitutionsFloatPercentHeld,0.48841\ninstitutionsCount,15.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,285190688,10.02,9320,99164,993623.2799999999,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.050419997,0.085710004,5035,0.13,0.00029999999,,,,1002.00006,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ATLQ,JAB Acquisition Corp I,Financial Services,Shell Companies,United States,285902240,10.045,24190,80406,807678.27,,,,0.0,0.0,0.0,,,644149,0,,,,,,18605000,,0.050419997,0.46378,5128,0.11,0.00029999999,,,,1004.5,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-05,9.89,9.91,9.89,9.91,,,,,,,0,9.8900,1,16960965,,,,
 2026-08-06,9.90,9.91,9.90,9.90,,,,,,,0,9.8900,1,3181860,,,,
@@ -97,3 +97,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.02,10.02,10.02,10.02,10.02,10.01,9.99,,,10.0154,1,10.0108,1,,330894,0.0120,0.0128,-0.0008
 2026-11-11,10.00,10.02,10.00,10.00,10.02,10.01,9.99,,,10.0365,0,10.0400,0,32000,331474,0.0096,0.0122,-0.0025
 2026-11-12,10.00,10.02,10.00,10.02,10.02,10.01,9.99,,,10.0365,0,10.0392,0,1541076,361460,0.0092,0.0116,-0.0023
+2026-11-13,10.03,10.07,10.03,10.07,10.03,10.02,9.99,,,10.0081,1,10.0000,1,117467,362355,0.0128,0.0118,0.0010

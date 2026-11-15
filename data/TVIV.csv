@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0858,1479900,14784200,1.0\n1,2026-09-30,"Context Capital Management, LLC",0.0232,400000,3995999,1.0\n2,2026-09-30,Picton Mahoney Asset Management,0.0232,400000,3995999,1.0\n3,2026-09-30,Periscope Capital Inc.,0.014099999,243996,2437519,1.0\n4,2026-09-30,"Wolverine Asset Management, LLC",0.0091,156951,1567940,1.0\n5,2026-09-30,Mint Tower Capital Management B.V.,0.0058,100000,998999,1.0\n6,2026-09-30,ABC Arbitrage SA,0.0017,29971,299410,1.0\n7,2026-09-30,First Trust Capital Management L.P.,0.0014,24800,247751,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Wealthspring Capital LLC,0.0858,1479900,14821199,1.0\n1,2026-09-30,BNP Paribas Financial Markets,0.038599998,666430,6674296,1.0\n2,2026-09-30,"Context Capital Management, LLC",0.0232,400000,4006000,1.0\n3,2026-09-30,Picton Mahoney Asset Management,0.0232,400000,4006000,1.0\n4,2026-09-30,Periscope Capital Inc.,0.014099999,243996,2443620,1.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.0091,156951,1571864,1.0\n6,2026-09-30,Mint Tower Capital Management B.V.,0.0058,100000,1001500,1.0\n7,2026-09-30,Arax Advisory Partners,0.0021,36470,365247,1.0\n8,2026-09-30,ABC Arbitrage SA,0.0017,29971,300159,1.0\n9,2026-09-30,First Trust Capital Management L.P.,0.0014,24800,248372,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0029,50000,499499,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,High Income Securities Fund,0.0029,50000,500750,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.23372999\ninstitutionsFloatPercentHeld,0.23414\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.00174\ninstitutionsPercentHeld,0.27448\ninstitutionsFloatPercentHeld,0.27495\ninstitutionsCount,12.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,TVIV,Texas Ventures Acquisition IV Corp.,Financial Services,Shell Companies,United States,229770000,9.99,19550,19598,195784.02000000002,,,,0.0,0.0,0.0,,,1152952,0,,0.929,0.009,-495952,,17250000,16387500,0.00174,0.23372999,331,0.01,0.0,,,,-41.11111,,,,,,,none,,,,,,,,,2026-11-12
+0.00,TVIV,Texas Ventures Acquisition IV Corp.,Financial Services,Shell Companies,United States,230345008,10.015,20440,19592,196213.88,,,,0.0,0.0,0.0,,,1152952,0,,0.929,0.009,-495952,,17250000,16387500,0.00174,0.27448,387,0.03,0.0,,,,-5007.5,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-13,9.92,9.94,9.90,9.90,,,,,,,0,9.9400,0,1408770,,,,
 2026-07-14,9.91,9.91,9.90,9.90,,,,,,,0,9.9400,0,1084050,,,,
@@ -102,3 +102,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.96,9.96,9.96,9.96,9.96,9.96,9.94,,,9.9557,1,9.9224,1,149400,142601,0.0075,0.0067,0.0008
 2026-11-11,9.96,9.96,9.96,9.96,9.96,9.96,9.94,,,9.9557,1,9.9251,1,,142601,0.0066,0.0067,-0.0001
 2026-11-12,9.99,9.99,9.99,9.99,9.97,9.96,9.94,,,9.9557,1,9.9277,1,9990,142801,0.0083,0.0070,0.0013
+2026-11-13,10.02,10.02,10.02,10.02,9.97,9.97,9.95,,,9.9703,1,9.9302,1,54261,143886,0.0115,0.0079,0.0036

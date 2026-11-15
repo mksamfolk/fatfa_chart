@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,28162,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12752,1.0\n2,2026-06-30,UBS Group AG,0.00029999999,4569,5802,3.5553\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0014,22175,28605,1.0\n1,2026-06-30,HRT Financial LP,0.0007,10041,12952,1.0\n2,2026-09-30,UBS Group AG,0.0002,2504,3230,-0.45200002\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,2,1.0\n4,2026-09-30,JPMORGAN CHASE & CO,0.0,4,5,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.78823\ninstitutionsPercentHeld,0.00238\ninstitutionsFloatPercentHeld,0.01122\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.78823\ninstitutionsPercentHeld,0.00159\ninstitutionsFloatPercentHeld,0.00753\ninstitutionsCount,4.0\n
 news
 [\n  {\n    "uuid": "8de9d988-3c49-3b17-bdf2-b054750dd5ac",\n    "title": "Rectitude Holdings Ltd. Announces Acquisition of MR. BUTLER PTE. LTD. and Executes Business Migration Agreements with INOS and G & L",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/rectitude-holdings-ltd-announces-acquisition-130000228.html",\n    "providerPublishTime": 1793624400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/907ae0ffdd15a7afe5dd2747cc92502d.png",\n          "width": 3089,\n          "height": 537,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/E2B480B1478B10AFE734A9637789337DF937C438665D9C6317F90726323CC9B6/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F907ae0ffdd15a7afe5dd2747cc92502d.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RECT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-48.78,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,20933092,1.27,5620,5471,6948.17,0.235,-0.146,-0.146,0.31414,0.05697,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,16482750,2347985,0.78823,0.00238,9378,2.89,0.0021,6.6842103,,0.40833968,0.8387191,0.42,4.352,,,,,none,,,,,,,1.05,https://www.rectitude.com.sg,2026-11-12
+48.23,RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,Singapore,21262746,1.29,5480,5009,6461.610000000001,0.235,-0.146,-0.146,0.31414,0.08319,0.07005,0.13599,0.057740003,6054617,9167317,32.685,2.527,1.656,-2153490,-1889997,16482750,2347985,0.78823,0.00159,7981,1.24,0.0018000001,6.7894735,,0.4147702,0.8519273,0.426,4.41,,,,,none,,,,,,,1.05,https://www.rectitude.com.sg,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-06-21,4.05,4.25,3.03,3.90,,,,,,,0,3.0300,1,3772860,,,,
 2024-06-24,3.53,3.74,3.12,3.70,,,,,,,0,3.0300,1,1017870,,,,
@@ -616,3 +616,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.27,1.34,1.20,1.25,1.25,1.26,1.27,1.29,1.36,1.4390,0,1.1640,1,9500,8042,-0.0039,-0.0032,-0.0007
 2026-11-11,1.34,1.34,1.34,1.34,1.26,1.27,1.27,1.29,1.35,1.4390,0,1.1691,1,671,7719,0.0028,-0.0020,0.0047
 2026-11-12,1.33,1.33,1.28,1.31,1.27,1.27,1.27,1.29,1.35,1.4390,0,1.1741,1,2751,7450,0.0054,-0.0005,0.0059
+2026-11-13,1.31,1.36,1.30,1.29,1.28,1.27,1.28,1.29,1.35,1.4390,0,1.1790,1,4075,7336,0.0058,0.0008,0.0050

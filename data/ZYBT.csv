@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.001,48865,72808,0.1069\n1,2026-09-30,Stonex Group Inc.,0.0004,17661,26314,1.0\n2,2026-06-30,Winton Group Ltd,0.00029999999,12730,18967,-0.61869997\n3,2026-06-30,UBS Group AG,0.0002,7992,11908,-0.0055\n4,2026-06-30,JPMORGAN CHASE & CO,0.0,134,199,1.0\n5,2026-06-30,Morgan Stanley,0.0,248,369,-0.0498\n6,2026-06-30,Royal Bank of Canada,0.0,1230,1832,0.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,7,10,6.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.001,48865,73297,0.1069\n1,2026-09-30,"Jane Street Group, LLC",0.00059999997,27258,40887,1.0\n2,2026-09-30,Stonex Group Inc.,0.0004,17661,26491,1.0\n3,2026-09-30,UBS Group AG,0.0001,4202,6303,-0.47419998\n4,2026-06-30,Morgan Stanley,0.0,248,372,-0.0498\n5,2026-06-30,Royal Bank of Canada,0.0,1230,1845,0.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,7,10,6.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29068,43311,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-07-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29068,43602,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.16163999\ninstitutionsPercentHeld,0.0081\ninstitutionsFloatPercentHeld,0.0096700005\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.16163999\ninstitutionsPercentHeld,0.00907\ninstitutionsFloatPercentHeld,0.01082\ninstitutionsCount,7.0\n
 news
-[]\n
+[\n  {\n    "uuid": "2b283a93-bdd1-3c99-95be-8ec83111cbb9",\n    "title": "Zhengye Biotechnology Holding Limited Announces Financial Results for the First Six Months of Fiscal Year 2026",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/zhengye-biotechnology-holding-limited-announces-213000649.html",\n    "providerPublishTime": 1794519000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/36efece87fb7e76e741c20441d5d7e29.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/83A870EA10B3A916B63D7A4D684746BB6B39200268914A57F128200EB04D1B32/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F36efece87fb7e76e741c20441d5d7e29.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "ZYBT"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-85.33,ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,China,70613152,1.49,39440,615821,917573.29,-0.409,,,0.20513001,-0.77039003,-0.59971,-0.2517,-0.094790004,51892000,75083000,24.48,1.141,0.584,13333000,39576752,47391376,6261823,0.16163999,0.0081,67594,0.04,0.0015,,,0.6068403,1.8874269,1.295,-3.377,,,,,none,,,,,,,,https://www.jlzybio.com,2026-11-12
+88.37,ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,China,71087064,1.5,23210,605100,907650.0,-0.409,,,0.20513001,-0.60592,-0.59971,-0.2517,-0.094790004,51892000,75083000,24.48,1.141,0.584,13333000,39576752,47391376,6261823,0.16163999,0.00907,31167,0.02,0.0007,,,0.61091304,1.9000942,1.299,-3.387,,,,,none,,,,,,,,https://www.jlzybio.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-07,3.77,6.10,3.70,4.86,,,,,,,0,3.7000,1,9063414,,,,
 2025-01-08,4.81,5.85,4.14,4.50,,,,,,,0,3.7000,1,2556900,,,,
@@ -479,3 +479,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.45,1.55,1.45,1.54,1.41,1.44,1.54,1.22,1.15,1.0259,1,2.3756,0,23100,1342845,-0.0159,-0.0355,0.0196
 2026-11-11,1.53,1.56,1.50,1.52,1.42,1.44,1.54,1.23,1.15,1.0853,1,2.3273,0,34656,1334866,-0.0085,-0.0301,0.0217
 2026-11-12,1.50,1.55,1.49,1.50,1.43,1.44,1.54,1.23,1.16,1.0976,1,2.2811,0,44100,1330593,-0.0041,-0.0249,0.0208
+2026-11-13,1.50,1.59,1.45,1.50,1.45,1.44,1.54,1.23,1.16,1.1007,1,2.2366,0,31983,1326279,-0.0007,-0.0201,0.0194

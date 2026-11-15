@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,KUNO KEISUKE,Officer,,Sale,2024-11-19,75785,2024-11-19\n1,YASUI DAISHIN,Unknown,,Sale,2025-05-30,2201760,2025-05-30\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"SBI Securities Co., Ltd.",0.0002,313,466,23.076899\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.004,6114,8562,1.0\n1,2026-09-30,"SBI Securities Co., Ltd.",0.0002,313,438,23.076899\n2,2026-09-30,JPMORGAN CHASE & CO,0.0,1,1,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,608,905,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-05-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,608,851,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2025-08-13 16:00:00-04:00,-
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,110000,75440,,Sale at price 0.67 - 0.70 per share.,YASUI DAISHIN,Unknown,,2025-05-30,D\n1,10869,6130,,Sale at price 0.56 - 0.61 per share.,YASUI DAISHIN,Beneficial Owner of more than 10% of a Class of Security,,2025-05-21,D\n2,2500,2638,,Sale at price 1.06 per share.,YASUI DAISHIN,Beneficial Owner of more than 10% of a Class of Security,,2025-03-21,D\n3,300,285,,Sale at price 0.95 per share.,YASUI DAISHIN,Beneficial Owner of more than 10% of a Class of Security,,2025-03-19,D\n4,26000,32980,,Sale at price 1.26 - 1.28 per share.,KUNO KEISUKE,Officer,,2024-11-19,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.60258\ninstitutionsPercentHeld,0.00021\ninstitutionsFloatPercentHeld,0.00052\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.60258\ninstitutionsPercentHeld,0.01423\ninstitutionsFloatPercentHeld,0.03579\ninstitutionsCount,4.0\n
 news
-[\n  {\n    "uuid": "786d99d3-303e-328b-b222-24e00b34fa2d",\n    "title": "HeartCore Reports Second Quarter 2026 Financial Results",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/heartcore-reports-second-quarter-2026-123000397.html",\n    "providerPublishTime": 1786624200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/7bbeb7a15b456b3baac095a5b9150073.jpg",\n          "width": 2000,\n          "height": 696,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/8338687040708A17363284B95DDAA88FB8F9B635DAB7953D295CE233DB7AB3C9/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F7bbeb7a15b456b3baac095a5b9150073.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "HTCR"\n    ]\n  }\n]\n
+[\n  {\n    "uuid": "e7ea9695-6303-3e04-912d-0a404b43212f",\n    "title": "HeartCore Partners with ONE AI to Bring Physical AI to Existing Industrial Robots in Japan",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/ai/articles/heartcore-partners-one-ai-bring-133000223.html",\n    "providerPublishTime": 1794490200,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/7bbeb7a15b456b3baac095a5b9150073.jpg",\n          "width": 2000,\n          "height": 696,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/8338687040708A17363284B95DDAA88FB8F9B635DAB7953D295CE233DB7AB3C9/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F7bbeb7a15b456b3baac095a5b9150073.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "HTCR",\n      "INTC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-04-06 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.84,HTCR,HeartCore Enterprises Inc.,Technology,Software - Application,Japan,2257838,1.49,45500,27420,40855.8,0.716,,,0.31913,-2.5636098,0.42786,-1.0982499,-0.1903,3255391,485747,9.587,1.165,0.907,-3970641,-1983946,1515328,660380,0.60258,0.00021,14719,0.42,0.0175,,13.545455,0.24858531,0.47987118,0.009,-0.023,,,,,none,,,,,,,1.734,https://www.heartcore.co.jp,2026-11-12
+9.16,HTCR,HeartCore Enterprises Inc.,Technology,Software - Application,Japan,2122065,1.4004,44030,25885,36249.354,0.716,,,0.31913,-0.37530997,0.42786,-1.0982499,-0.1903,3255391,485747,9.587,1.165,0.907,-3970641,-1983946,1515328,660380,0.60258,0.01423,13169,0.38,0.0156,,12.730909,0.23363687,0.4510145,-0.006,0.017,,,,,none,,,,,,,1.734,https://www.heartcore.co.jp,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-02-10,80.94,89.03,72.36,80.13,,,,,,,0,72.3571,1,16673085,,,,
 2022-02-11,81.91,100.20,63.13,66.85,,,,,,,0,100.1992,0,41975667,,,,
@@ -1208,3 +1208,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.42,1.50,1.42,1.49,1.47,1.50,1.97,2.79,3.47,1.1237,1,1.1792,1,10409,41044,-0.1238,-0.1624,0.0386
 2026-11-11,1.44,1.48,1.38,1.48,1.48,1.49,1.94,2.77,3.44,1.1237,1,1.2072,1,5328,39765,-0.1160,-0.1531,0.0371
 2026-11-12,1.56,1.57,1.34,1.34,1.46,1.48,1.91,2.75,3.42,1.1237,1,1.2341,1,21306,39416,-0.1198,-0.1465,0.0266
+2026-11-13,1.40,1.47,1.40,1.40,1.45,1.47,1.89,2.73,3.39,1.1237,1,1.2600,1,11784,38259,-0.1166,-0.1405,0.0239

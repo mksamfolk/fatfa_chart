@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.0714,301121,3077456,1.0\n1,2026-09-30,"Context Capital Management, LLC",0.0652,275000,2810500,1.0\n2,2026-09-30,"Geode Capital Management, LLC",0.012,50607,517203,1.0\n3,2026-09-30,ABC Arbitrage SA,0.0070999996,30000,306600,1.0\n4,2026-09-30,Warberg Asset Management LLC,0.0064999997,27568,281744,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Mizuho Securities USA LLC,0.1391,586550,5953482,1.0\n1,2026-09-30,"Wolverine Asset Management, LLC",0.0714,301121,3056378,1.0\n2,2026-09-30,"Westchester Capital Management, LLC",0.0712,300094,3045953,1.0\n3,2026-09-30,BNP Paribas Financial Markets,0.0699,294500,2989174,1.0\n4,2026-09-30,"Context Capital Management, LLC",0.0652,275000,2791249,1.0\n5,2026-09-30,"Gabelli & Co. Investment Advisers, Inc.",0.0156,65700,666854,1.0\n6,2026-09-30,"Geode Capital Management, LLC",0.012,50607,513661,1.0\n7,2026-09-30,ABC Arbitrage SA,0.0070999996,30000,304499,1.0\n8,2026-09-30,Warberg Asset Management LLC,0.0064999997,27568,279815,1.0\n9,2026-09-30,JPMORGAN CHASE & CO,0.0,34,345,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.059299998,250000,2555000,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.012,50607,517203,0.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0016,6744,68923,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.059299998,250000,2537499,1.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.012,50607,513661,0.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0016,6744,68451,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.28432\ninstitutionsPercentHeld,0.14961\ninstitutionsFloatPercentHeld,0.20905\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.28432\ninstitutionsPercentHeld,0.31265\ninstitutionsFloatPercentHeld,0.43686\ninstitutionsCount,16.0\n
 news
 [\n  {\n    "uuid": "261a6f97-c327-3413-ba1c-791f1f28e9fd",\n    "title": "FortuneX Acquisition Corporation and WT Realty Group Inc. Announce Business Combination Agreement",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/real-estate/articles/fortunex-acquisition-corporation-wt-realty-004000149.html",\n    "providerPublishTime": 1789778400,\n    "type": "STORY",\n    "relatedTickers": [\n      "FXAC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,129098320,10.22,49150,38446,392918.12000000005,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28432,0.14961,700,0.03,0.0001,,,,1.5338436,,,,,,,none,,,,,,,,,2026-11-12
+0.00,FXAC,FortuneX Acquisition Corporation,Financial Services,Shell Companies,United States,128214072,10.15,68270,41070,416860.5,,,,0.0,0.0,0.0,,,574630,0,,,,0,,12631929,5243135,0.28432,0.31265,665,0.03,0.0001,,,,1.5233377,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-07,10.00,10.03,10.00,10.00,,,,,,,0,10.0300,0,81000,,,,
 2026-07-08,10.00,10.01,9.97,10.00,,,,,,,0,10.0300,0,2671000,,,,

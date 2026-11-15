@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gamma Investing LLC,0.0002,1493,9562,1.0\n1,2026-06-30,"Steward Partners Investment Advisory, LLC",0.0,100,640,1.0\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,13,83,0.18180001\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gamma Investing LLC,0.0002,1493,8958,1.0\n1,2026-09-30,UBS Group AG,0.0001,1089,6534,1.0\n2,2026-06-30,"Steward Partners Investment Advisory, LLC",0.0,100,600,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,13,78,0.18180001\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.338\ninstitutionsPercentHeld,0.00017000001\ninstitutionsFloatPercentHeld,0.00025\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.338\ninstitutionsPercentHeld,0.00028\ninstitutionsFloatPercentHeld,0.00042\ninstitutionsCount,4.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2026-01-26 09:30:00-05:00,0.03333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.09,PCLA,PicoCELA Inc.,Communication Services,Telecom Services,Japan,61576424,6.405,3126730,810167,5189119.635,0.455,,,0.54433995,-7.05938,0.0,-8.90307,-2.30599,187399008,74166000,36.702,1.765,0.877,-432928000,612168640,9613805,340529,0.338,0.00017000001,55080,1.4,0.0084,,,0.093368486,20.822409,-0.131,0.03,,,,,none,,,,,,,,https://picocela.com,2026-11-12
+92.30,PCLA,PicoCELA Inc.,Communication Services,Telecom Services,Japan,57683792,6.0001,45750,801715,4810370.1715,0.455,,,0.54433995,-4.4047604,0.0,-8.90307,-2.30599,187399008,74166000,36.702,1.765,0.877,-432928000,612168640,9613805,340529,0.338,0.00028,169325,0.12,0.025999999,,,0.087466076,19.506094,-0.134,0.031,,,,,none,,,,,,,,https://picocela.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-16,120.00,123.00,84.63,85.20,,,,,,,0,123.0000,0,2784592,,,,
 2025-01-17,84.60,84.60,70.50,77.40,,,,,,,0,123.0000,0,241720,,,,
@@ -473,3 +473,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,6.39,6.41,6.05,6.15,7.15,6.67,6.88,5.04,5.08,9.2086,0,11.7650,0,103935,10453942,-0.0671,0.0399,-0.1070
 2026-11-11,6.53,6.53,6.05,6.37,7.19,6.70,6.87,5.07,5.07,9.1186,0,11.5272,0,740194,10434796,-0.0860,0.0147,-0.1007
 2026-11-12,6.09,6.35,6.01,6.20,6.70,6.67,6.86,5.09,5.05,8.8328,0,11.2989,0,92380,10421054,-0.1134,-0.0109,-0.1025
+2026-11-13,6.11,6.22,6.00,6.10,6.49,6.65,6.85,5.12,5.04,8.5676,0,11.0797,0,64282,10414263,-0.1415,-0.0370,-0.1045

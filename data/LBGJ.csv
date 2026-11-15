@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Xtx Topco Ltd,0.0002,122,207,1.0\n1,2026-06-30,HRT Financial LP,0.0002,96,163,0.5738\n2,2026-06-30,"Jane Street Group, LLC",0.0001,67,113,-0.5037\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,UBS Group AG,0.0053,3318,6403,1.0\n1,2026-06-30,Xtx Topco Ltd,0.0002,122,235,1.0\n2,2026-06-30,HRT Financial LP,0.0002,96,185,0.5738\n3,2026-09-30,JPMORGAN CHASE & CO,0.0,1,1,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00124\ninstitutionsPercentHeld,0.0015\ninstitutionsFloatPercentHeld,0.0015\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.0062\ninstitutionsPercentHeld,0.00058\ninstitutionsFloatPercentHeld,0.00058\ninstitutionsCount,3.0\n
 news
 [\n  {\n    "uuid": "8d0e56b4-92aa-3131-b8d2-33a26354f6f0",\n    "title": "Li Bang International Corporation Inc. Announces Results of September 2026 Extraordinary General Meeting",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/li-bang-international-corporation-inc-020000936.html",\n    "providerPublishTime": 1790128800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/dd8eb8c0b62e31c119f3bccfb0799900.png",\n          "width": 100,\n          "height": 103,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/171B88383ED41A11097D310E3B19A2E2D55149DA3FE39CD6C3D1651DBEEDA2B7/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fdd8eb8c0b62e31c119f3bccfb0799900.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LBGJ"\n    ]\n  },\n  {\n    "uuid": "488bcede-8110-335e-bd0d-ebffbfe06ae4",\n    "title": "LI BANG INTERNATIONAL CORPORATION INC. Announces Adjournment of Extraordinary General Meeting",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/li-bang-international-corporation-inc-201500100.html",\n    "providerPublishTime": 1790021700,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/dd8eb8c0b62e31c119f3bccfb0799900.png",\n          "width": 100,\n          "height": 103,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/171B88383ED41A11097D310E3B19A2E2D55149DA3FE39CD6C3D1651DBEEDA2B7/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fdd8eb8c0b62e31c119f3bccfb0799900.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LBGJ"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2026-03-27 09:30:00-04:00,0.01\n2026-08-03 09:30:00-04:00,0.005\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.11,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1207724,1.7,198080,503396,855773.2,-0.096,0.117,0.231,0.2925,-0.02722,-0.09126,-0.16829,-0.03204,3587976,10654794,136.348,1.177,0.938,-926667,-2449627,621418,2897715,0.00124,0.0015,52791,0.27,0.085,,,0.10874442,0.00020219664,1.138,-13.595,,,,,none,,,,,,,3.048,https://www.libangco.cn,2026-11-12
+1.93,LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,China,1371122,1.93,203240,291725,563029.25,-0.096,0.117,0.231,0.19009,-0.56736,-0.49828,-0.15121001,-0.059380002,3587976,10654794,136.348,0.793,0.415,-47209,-8531818,621418,13359,0.0062,0.00058,46830,0.32,0.0754,,,0.1789559,0.00068884436,0.918,-1.791,,,,,none,,,,,,,,https://www.libangco.cn,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-23,94000.00,110000.00,81200.00,82000.00,,,,,,,0,110000.0000,0,6478000,,,,
 2024-10-24,83400.00,86000.00,78000.00,78600.00,,,,,,,0,110000.0000,0,1650600,,,,
@@ -530,3 +530,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.67,1.70,1.60,1.60,1.64,1.61,2.23,137.39,3177.44,2.5601,0,1.3581,1,23200,1649016,-1.9580,-2.8642,0.9062
 2026-11-11,1.60,1.66,1.55,1.62,1.65,1.60,2.20,133.40,3118.65,2.4571,0,1.3743,1,37260,1638013,-1.8164,-2.6547,0.8383
 2026-11-12,1.61,1.82,1.60,1.76,1.66,1.61,2.17,129.15,3049.76,2.4571,0,1.3901,1,56672,1614169,-1.6735,-2.4584,0.7849
+2026-11-13,1.76,2.02,1.65,1.93,1.70,1.63,2.15,125.16,2979.77,2.4571,0,1.4057,1,56151,1596593,-1.5290,-2.2725,0.7436

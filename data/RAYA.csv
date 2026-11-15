@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0099,10000,5878,1.0\n1,2026-06-30,UBS Group AG,0.0,5,2,-0.9781\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,37,21,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Morgan Stanley,0.0099,10000,4824,1.0\n1,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,37,17,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,6,3,0.5\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Blackstone Alternative Investment Fd.s-Blackstone Alternative Multi-St,0.0,6,2,0.5\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00035\ninstitutionsPercentHeld,0.00979\ninstitutionsFloatPercentHeld,0.0098\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.00035\ninstitutionsPercentHeld,0.01036\ninstitutionsFloatPercentHeld,0.01036\ninstitutionsCount,3.0\n
 news
 [\n  {\n    "uuid": "1a69f6ab-c367-3810-8e02-22100a9bbbd4",\n    "title": "ERAYAK Advances Hybrid Power Strategy as Ruike Facility Enters Final Acceptance Phase",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/energy/articles/erayak-advances-hybrid-power-strategy-110000996.html",\n    "providerPublishTime": 1793962800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/689dc276ce8f2af9f142bc8bd0931618.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/B07BE9E71871DA2A5C3E75B8E0BE8BE72A136D3BE1852ACDC3FB1FCA9BF638CF/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F689dc276ce8f2af9f142bc8bd0931618.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RAYA"\n    ]\n  },\n  {\n    "uuid": "97698b19-21c2-3a18-8cf0-d4230d080ea8",\n    "title": "ERAYAK Expands U.S. Branded Distribution and Unveils Roadmap From Portable Power to 30 kW-Class Hybrid Home Energy Systems",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/energy/articles/erayak-expands-u-branded-distribution-120000024.html",\n    "providerPublishTime": 1789560000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/261143abde1042ad3066dca2f9edea14.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/CD588219EEBA63450BFD96608EF5E9B3B2982F67D7A25D9ADA15798498D983AD/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F261143abde1042ad3066dca2f9edea14.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RAYA"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-09-30 09:30:00-04:00,0.004545454545454545\n2026-04-20 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-1.09,RAYA,Erayak Power Solution Group Inc.,Industrials,Electrical Equipment & Parts,China,631997,0.5878,7508020,1243704,731049.2112,0.392,,,0.20569,-0.08036,-0.06219,-0.04731,-0.01633,6423618,18324416,42.915,2.016,1.207,-6122256,-15662768,1026101,1022465,0.00035,0.00979,3415,0.06,0.0033000002,,,0.024048073,0.014801199,0.477,-12.959,,,,,none,,,,,,,1.398,https://erayakpower.com,2026-11-12
+1.17,RAYA,Erayak Power Solution Group Inc.,Industrials,Electrical Equipment & Parts,China,518780,0.4825,7774190,1283956,619508.77,0.392,,,0.20569,-0.061,-0.06219,-0.04731,-0.01633,6423618,18324416,42.915,2.016,1.207,-6122256,-15662768,1026101,1022465,0.00035,0.01036,2881,0.19,0.0028,,,0.01974006,0.012149673,0.473,-12.841,,,,,none,,,,,,,1.398,https://erayakpower.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-12-14,8140.00,8250.00,7062.00,7414.00,,,,,,,0,8250.0000,0,7784700,,,,
 2022-12-15,6864.00,7370.00,5522.00,5676.00,,,,,,,0,8250.0000,0,1379268,,,,
@@ -995,4 +995,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.66,0.68,0.52,0.59,1.02,1.19,1.80,3.05,6.49,1.3284,0,2.1250,0,608521,1284390,-0.2835,-0.2612,-0.0222
 2026-11-10,0.45,0.73,0.45,0.70,0.97,1.15,1.77,3.00,6.30,1.3284,0,2.1250,0,420029,1291649,-0.2890,-0.2668,-0.0222
 2026-11-11,0.61,0.69,0.55,0.64,0.91,1.11,1.73,2.95,6.11,1.3284,0,2.0579,0,130454,1290458,-0.2945,-0.2723,-0.0222
-2026-11-12,0.57,0.57,0.45,0.48,0.83,1.06,1.69,2.90,5.92,1.2575,0,1.9935,0,786576,1304325,-0.3084,-0.2795,-0.0289
+2026-11-12,0.57,0.57,0.45,0.48,0.83,1.06,1.69,2.90,5.92,1.2575,0,1.9935,0,803616,1304666,-0.3084,-0.2795,-0.0289
+2026-11-13,0.47,0.49,0.43,0.48,0.78,1.01,1.65,2.86,5.73,1.1510,0,1.9317,0,106857,1305641,-0.3156,-0.2868,-0.0289

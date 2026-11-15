@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0787,2250000,22612500,1.0\n1,2026-06-30,Sculptor Capital LP,0.0525,1500000,15075000,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.043,1230000,12361500,1.0\n3,2026-06-30,Millennium Management Llc,0.0399,1141000,11467050,1.0\n4,2026-09-30,Deutsche Bank AG,0.0376,1073668,10790363,0.0279\n5,2026-06-30,"Moore Capital Management, LP",0.035,1000000,10050000,1.0\n6,2026-06-30,Linden Advisors LP,0.035,1000000,10050000,1.0\n7,2026-06-30,Sona Asset Management (US) LLC,0.035,1000000,10050000,1.0\n8,2026-06-30,Magnetar Financial LLC,0.035,999990,10049899,1.0\n9,2026-06-30,AQR Arbitrage LLC,0.0318,909584,9141319,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0787,2250000,22500000,1.0\n1,2026-06-30,Sculptor Capital LP,0.0525,1500000,15000000,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.043,1230000,12300000,1.0\n3,2026-06-30,Millennium Management Llc,0.0399,1141000,11410000,1.0\n4,2026-09-30,Deutsche Bank AG,0.0376,1073668,10736680,0.0279\n5,2026-06-30,"Moore Capital Management, LP",0.035,1000000,10000000,1.0\n6,2026-06-30,Linden Advisors LP,0.035,1000000,10000000,1.0\n7,2026-06-30,Sona Asset Management (US) LLC,0.035,1000000,10000000,1.0\n8,2026-06-30,Magnetar Financial LLC,0.035,999990,9999900,1.0\n9,2026-06-30,AQR Arbitrage LLC,0.0318,909584,9095840,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2925,29396,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,2925,29250,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0013600001\ninstitutionsPercentHeld,0.68575996\ninstitutionsFloatPercentHeld,0.6867\ninstitutionsCount,42.0\n
+,Value\ninsidersPercentHeld,0.0013600001\ninstitutionsPercentHeld,0.69328004\ninstitutionsFloatPercentHeld,0.69421995\ninstitutionsCount,42.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ACAA,Averin Capital Acquisition Corp.,Financial Services,Shell Companies,United States,358609248,10.05,58990,57546,578337.3,,,,0.0,0.0,0.0,,,339276,0,,0.021,,0,,28586008,28295160,0.0013600001,0.68575996,939,0.03,0.0,,,,-23.591549,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ACAA,Averin Capital Acquisition Corp.,Financial Services,Shell Companies,United States,356825120,10.0,6160,57514,575140.0,,,,0.0,0.0,0.0,,,339276,0,,0.021,,0,,28586008,28295160,0.0013600001,0.69328004,5259,0.05,0.0002,,,,-23.474178,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-04-10,10.05,10.08,10.00,10.05,,,,,,,0,10.0800,0,143715,,,,
 2026-04-13,9.90,9.95,9.56,9.89,,,,,,,0,10.0800,0,218569,,,,

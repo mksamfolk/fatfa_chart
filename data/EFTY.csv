@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.0,43691,656238,0.0\n1,2026-06-30,UBS Group AG,0.0,22869,343492,0.0\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0,100,1502,0.0\n3,2026-09-30,State of Wyoming,0.0,3855,57902,0.0\n4,2026-09-30,"Geode Capital Management, LLC",0.0,11423,171573,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Quadrature Capital Ltd,0.0,43691,656238,0.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0,100,1502,0.0\n2,2026-09-30,State of Wyoming,0.0,3855,57902,0.0\n3,2026-09-30,"Geode Capital Management, LLC",0.0,11423,171573,0.0\n4,2026-09-30,UBS Group AG,0.0,22869,343492,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,11423,171573,1.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.68081003\ninstitutionsPercentHeld,0.00542\ninstitutionsFloatPercentHeld,0.01699\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.68232\ninstitutionsPercentHeld,0.00391\ninstitutionsFloatPercentHeld,0.012309999\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "e3fd9e04-a9c9-3dbf-b4e9-0df309ba36a9",\n    "title": "Etoiles Capital Group Completes Domestication to Nevada",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/etoiles-capital-group-completes-domestication-134834841.html",\n    "providerPublishTime": 1792158514,\n    "type": "STORY",\n    "relatedTickers": [\n      "EFTY"\n    ]\n  },\n  {\n    "uuid": "12cd2f91-f399-3b51-aa73-9f256840b931",\n    "title": "Etoiles Capital Group Co., Ltd. Completes Domestication from the Cayman Islands to Nevada",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/etoiles-capital-group-co-ltd-133000089.html",\n    "providerPublishTime": 1792157400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/f54ef5ad06b8d4c1e3f3b044de34c241.jpg",\n          "width": 178,\n          "height": 57,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/61475D32178640152D88B2000B1A1FABA8D9D2F98B78921EA7FAFD9BFFAA76CE/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Ff54ef5ad06b8d4c1e3f3b044de34c241.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "EFTY"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.26,EFTY,Etoiles Capital Group Co. Ltd,Industrials,Consulting Services,Hong Kong,302052224,15.02,0,0,0.0,-0.259,,,0.69044995,-0.53793997,-0.04769,-0.04597,-0.00368,5738616,2081612,35.908,4.368,4.368,-910681,-770757,15110000,4822981,0.68081003,0.00542,497444,2.56,0.1031,214.57144,,93.7368,52.152782,92.602,15976.613,,,,,none,,,,,,,,https://www.etoilesgroup.com,2026-11-12
+54.56,EFTY,Etoiles Capital Group Co. Ltd,Industrials,Consulting Services,Hong Kong,302052224,15.02,0,0,0.0,-0.259,,,0.69044995,-0.0099,-0.04769,-0.04597,-0.00368,5738616,2081612,35.908,4.368,4.368,-910681,-770757,15110000,4822981,0.68232,0.00391,513715,2.56,0.1065,214.57144,,93.7368,52.152782,92.602,15976.613,,,,,none,,,,,,,,https://www.etoilesgroup.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-08,4.00,4.90,3.88,4.88,,,,,,,0,3.8800,1,14410640,,,,
 2025-08-11,4.79,4.94,4.67,4.75,,,,,,,0,3.8800,1,4102100,,,,

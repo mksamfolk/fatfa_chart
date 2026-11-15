@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0022,32490,72127,1.0\n1,2026-06-30,UBS Group AG,0.0,286,634,39.8571\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Citadel Advisors Llc,0.0022,32490,69853,1.0\n1,2026-09-30,UBS Group AG,0.0002,2985,6417,9.4371\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00225\ninstitutionsFloatPercentHeld,0.00225\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.00244\ninstitutionsFloatPercentHeld,0.00244\ninstitutionsCount,2.0\n
 news
 [\n  {\n    "uuid": "e2cced2e-4d11-3308-b273-565592ca2d87",\n    "title": "Valor Energy Inc. Announces US$5.0 Million Private Placement to Support Planned AI Data Center Development",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/ai/articles/valor-energy-inc-announces-us-105800143.html",\n    "providerPublishTime": 1793012280,\n    "type": "STORY",\n    "relatedTickers": [\n      "VAI"\n    ]\n  },\n  {\n    "uuid": "048e3141-d1e9-3e36-9b95-f7d1eca24f0f",\n    "title": "Top Premarket Decliners",\n    "publisher": "MT Newswires",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-decliners-114123095.html",\n    "providerPublishTime": 1792496483,\n    "type": "STORY",\n    "relatedTickers": [\n      "RAIL",\n      "AXG",\n      "VAI"\n    ]\n  },\n  {\n    "uuid": "231055a4-a4fb-3934-bea4-3adc72e5e11e",\n    "title": "Valor Energy Inc. Enters into Agreement to Acquire 18MW Computing Center in Youngstown, Ohio",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/technology/ai/articles/valor-energy-inc-enters-agreement-105800774.html",\n    "providerPublishTime": 1792407480,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/a543ec086b407e614b5186313866e5c6.png",\n          "width": 256,\n          "height": 55,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/65A5A6BA0A8705CC6854735D9C7D58CCE1888F19B9A04505B5B4E21599EC6E8B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fa543ec086b407e614b5186313866e5c6.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "VAI"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2022-04-06 09:30:00-04:00,0.1\n2025-07-29 09:30:00-04:00,0.1\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-96.01,VAI,Valor Energy Inc.,Industrials,Rental & Leasing Services,China,32317626,2.22,58100,658187,1461175.1400000001,-0.156,,,0.12845,-1.7478501,0.0,,-0.19313,12871865,639913,,0.274,0.258,-2162053,44570824,14557489,14440447,0.0,0.00225,285982,4.93,0.0196,,,21.8463,-0.83773583,15.794,-10.249,,,,,none,,,,,,,0.85,https://www.senmiaotech.com,2026-11-13
+95.08,VAI,Valor Energy Inc.,Industrials,Rental & Leasing Services,China,31298602,2.15,62060,81618,175478.69999999998,-0.611,,,0.04636,-3.19374,0.0,-45.73347,-0.19248,12526164,39158,1.9,1.095,1.039,-2477346,7301868,14557489,19880549,0.0,0.00244,378124,3.97,0.025999999,,,34.502316,-26.543211,37.326,-15.645,,,,,none,,,,,,,,https://www.senmiaotech.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2021-11-22,63.00,67.00,55.00,56.80,,,,,,,0,67.0000,0,973041,,,,
 2021-11-23,56.80,59.00,52.50,54.20,,,,,,,0,67.0000,0,234307,,,,
@@ -1278,4 +1278,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.23,2.55,2.22,2.47,2.04,2.24,2.22,1.64,1.56,2.5448,0,1.5598,1,85215,168693,-0.0427,-0.0462,0.0034
 2026-11-11,2.57,2.58,2.27,2.27,2.05,2.23,2.23,1.64,1.56,2.5448,0,1.5890,1,248565,173005,-0.0297,-0.0429,0.0131
 2026-11-12,2.22,2.50,2.13,2.22,2.06,2.21,2.23,1.65,1.57,2.5448,0,1.6176,1,82584,168080,-0.0232,-0.0389,0.0157
-2026-11-13,2.31,2.34,2.21,2.27,2.07,2.21,2.24,1.66,1.57,2.5448,0,1.6457,1,18716,162724,-0.0138,-0.0339,0.0201
+2026-11-13,2.31,2.34,2.15,2.15,2.06,2.20,2.23,1.66,1.57,2.5448,0,1.6457,1,28184,162914,-0.0234,-0.0358,0.0124

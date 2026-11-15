@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.013300001,208193,2084011,1.0\n1,2026-09-30,Periscope Capital Inc.,0.0095999995,150000,1501500,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0054,84874,849588,1.0\n3,2026-09-30,Warberg Asset Management LLC,0.0011,17819,178368,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Westchester Capital Management, LLC",0.074099995,1160000,11628999,1.0\n1,2026-09-30,BNP Paribas Financial Markets,0.0150999995,235799,2363884,1.0\n2,2026-09-30,Stonex Group Inc.,0.013300001,208193,2087134,1.0\n3,2026-09-30,RLH Capital LLC,0.0128,200000,2004999,1.0\n4,2026-09-30,"Gabelli & Co. Investment Advisers, Inc.",0.0112,175600,1760389,1.0\n5,2026-09-30,Periscope Capital Inc.,0.0095999995,150000,1503749,1.0\n6,2026-09-30,"Wolverine Asset Management, LLC",0.0054,84874,850861,1.0\n7,2026-09-30,Mizuho Securities USA LLC,0.0026,40468,405691,1.0\n8,2026-09-30,Warberg Asset Management LLC,0.0011,17819,178635,1.0\n9,2026-09-30,"Gabelli Funds, LLC",0.001,15350,153883,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0128,200000,2002000,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0128,200000,2002000,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,16910,169269,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Ultra-Short Duration Fd.,0.0128,200000,2004999,1.0\n1,2026-08-31,Brinker Capital Destinations TRT-Destinations Global Fixed Income Oppo,0.0128,200000,2004999,1.0\n2,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0011,16910,169522,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.24489\ninstitutionsPercentHeld,0.15766\ninstitutionsFloatPercentHeld,0.20879\ninstitutionsCount,11.0\n
+,Value\ninsidersPercentHeld,0.24489\ninstitutionsPercentHeld,0.43372002\ninstitutionsFloatPercentHeld,0.57438\ninstitutionsCount,18.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,OCAC,Ocean Capital Acquisition Corporation,Financial Services,Shell Companies,United States,156689872,10.01,16770,40762,408027.62,,,,0.0,0.0,0.0,,-0.00287,171379,0,,2.273,1.702,-167937,-141170,15653333,11819988,0.24489,0.15766,4353,0.32,0.0004,,,,-40.200806,,,,,,,none,,,,,,,,,2026-11-12
+0.00,OCAC,Ocean Capital Acquisition Corporation,Financial Services,Shell Companies,United States,156924656,10.025,31240,42368,424739.2,,,,0.0,0.0,0.0,,-0.00287,171379,0,,2.273,1.702,-167937,-141170,15653333,11819988,0.24489,0.43372002,4318,0.44,0.0004,,,,-40.261044,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-03,9.90,9.90,9.75,9.89,,,,,,,0,9.7500,1,5046867,,,,
 2026-08-04,9.90,9.90,9.90,9.90,,,,,,,0,9.7500,1,19813859,,,,
@@ -87,3 +87,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.01,10.01,10.01,10.01,9.99,9.99,9.97,,,9.9961,1,9.9812,1,,479949,0.0094,0.0082,0.0011
 2026-11-11,10.01,10.01,10.01,10.01,9.99,9.99,9.97,,,9.9975,1,9.9824,1,,479413,0.0099,0.0086,0.0013
 2026-11-12,10.03,10.03,10.03,10.03,10.00,9.99,9.97,,,10.0127,1,9.9835,1,1455353,504350,0.0117,0.0092,0.0025
+2026-11-13,10.02,10.02,10.02,10.02,10.00,10.00,9.98,,,10.0127,1,9.9863,1,1123,501373,0.0126,0.0099,0.0028

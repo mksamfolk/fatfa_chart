@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23818500,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22612500,0.0\n2,2026-06-30,Alberta Investment Management Corp,0.0573,2000000,20100000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15075000,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,15064950,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13065000,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10050000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9248864,-0.39169997\n8,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8588488,0.2208\n9,2026-06-30,BNP Paribas Financial Markets,0.023599999,822359,8264708,3.3929\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Millennium Management Llc,0.0679,2370000,23818500,3.74\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0645,2250000,22612500,0.0\n2,2026-09-30,Alberta Investment Management Corp,0.0573,2000000,20100000,0.0\n3,2026-06-30,Magnetar Financial LLC,0.043,1500000,15075000,0.0\n4,2026-06-30,"Empyrean Capital Partners, LP",0.043,1499000,15064950,1.0\n5,2026-06-30,Hudson Bay Capital Management Lp,0.0373,1300000,13065000,-0.1333\n6,2026-06-30,Polar Asset Management Partners Inc.,0.0287,1000000,10050000,0.0\n7,2026-06-30,AQR Arbitrage LLC,0.026400002,920285,9248864,-0.39169997\n8,2026-09-30,BNP Paribas Financial Markets,0.0252,880591,8849939,0.0708\n9,2026-06-30,"Verition Fund Management, LLC",0.024500001,854576,8588488,0.2208\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,21183,212889,0.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01232\ninstitutionsPercentHeld,0.80529\ninstitutionsFloatPercentHeld,0.81534\ninstitutionsCount,57.0\n
+,Value\ninsidersPercentHeld,0.01232\ninstitutionsPercentHeld,0.79767996\ninstitutionsFloatPercentHeld,0.80764\ninstitutionsCount,57.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,437376000,10.05,5790,91075,915303.7500000001,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01232,0.80529,3681,0.04,0.0001,,,,-38.505745,,,,,,,none,,,,,,,,,2026-11-12
+0.00,IEAG,Infinite Eagle Acquisition Corp.,Financial Services,Shell Companies,United States,437376000,10.05,13300,78353,787447.65,,,,0.0,0.0,0.0,,,454112,0,,0.016,,0,,34895000,29879962,0.01232,0.79767996,3510,0.02,0.0001,,,,-2010.0001,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-10,10.05,10.05,10.00,10.00,,,,,,,0,10.0000,1,23000,,,,
 2026-03-11,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,11044,,,,

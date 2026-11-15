@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0,200000,1957999,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0,25000,244749,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0,332378,3253980,1.0\n3,2026-09-30,"Context Capital Management, LLC",0.0,400000,3915999,1.0\n4,2026-09-30,Periscope Capital Inc.,0.0,200000,1957999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Gritstone Asset Management LLC,0.0,200000,1960000,1.0\n1,2026-09-30,Deltec Asset Management LLC,0.0,25000,245000,1.0\n2,2026-09-30,"Wolverine Asset Management, LLC",0.0,332378,3257304,1.0\n3,2026-09-30,"Context Capital Management, LLC",0.0,400000,3920000,1.0\n4,2026-09-30,Periscope Capital Inc.,0.0,200000,1960000,1.0\n5,2026-09-30,BNP Paribas Financial Markets,0.0,636484,6237543,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.08696\ninstitutionsPercentHeld,0.05032\ninstitutionsFloatPercentHeld,0.05511\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.08696\ninstitutionsPercentHeld,0.15333\ninstitutionsFloatPercentHeld,0.16792999\ninstitutionsCount,10.0\n
 news
 [\n  {\n    "uuid": "c318c699-d077-3484-b3fe-e6003a4bea39",\n    "title": "Samos Energy Acquisition Corporation Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing August 31, 2026",\n    "publisher": "Business Wire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/samos-energy-acquisition-corporation-announces-163800633.html",\n    "providerPublishTime": 1788194280,\n    "type": "STORY",\n    "relatedTickers": [\n      "SAMO-UN",\n      "SAMO"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,SAMO,Samos Energy Acquisition Corporation,Financial Services,Shell Companies,United States,281462496,9.79,70580,32784,320955.36,,,,0.0,0.0,0.0,,,,93088,,,,,,28750000,,0.08696,0.05032,67,0.0,,,,,-1398.5714,,,,,,,none,,,,,,,,,2026-11-12
+0.00,SAMO,Samos Energy Acquisition Corporation,Financial Services,Shell Companies,United States,281750016,9.8,120470,39614,388217.2,,,,0.0,0.0,0.0,,,,93088,,,,,,28750000,,0.08696,0.15333,67,0.0,,,,,-1400.0,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-08-31,9.90,9.90,9.80,9.82,,,,,,,0,9.9000,0,370214,,,,
 2026-09-01,9.80,9.81,9.79,9.80,,,,,,,0,9.9000,0,267540,,,,
@@ -82,3 +82,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,9.79,9.79,9.79,9.79,9.80,9.80,9.81,,,9.8076,0,9.8317,0,,313937,-0.0040,-0.0025,-0.0016
 2026-11-11,9.79,9.79,9.79,9.79,9.80,9.80,9.81,,,9.8058,0,9.8309,0,,308586,-0.0044,-0.0029,-0.0015
 2026-11-12,9.79,9.79,9.79,9.79,9.80,9.80,9.81,,,9.8042,0,9.8301,0,,308234,-0.0046,-0.0032,-0.0014
+2026-11-13,9.80,9.80,9.80,9.80,9.79,9.80,9.81,,,9.8042,0,9.8293,0,4900069,405057,-0.0039,-0.0033,-0.0006

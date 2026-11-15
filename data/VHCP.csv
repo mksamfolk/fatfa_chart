@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0685,1575000,15883875,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.037,850000,8572250,0.0625\n2,2026-06-30,Glazer Capital LLC,0.036,827893,8349300,0.0\n3,2026-06-30,Linden Advisors LP,0.0348,800000,8068000,0.0\n4,2026-06-30,Magnetar Financial LLC,0.0342,787593,7942875,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0326,750000,7563750,0.0\n6,2026-06-30,"Aristeia Capital, LLC",0.0304,700000,7059500,0.0\n7,2026-06-30,"Verition Fund Management, LLC",0.03,689566,6954273,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0295,678084,6838477,0.0116\n9,2026-06-30,Hudson Bay Capital Management Lp,0.028299998,649998,6555229,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0685,1575000,15891750,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.037,850000,8576500,0.0625\n2,2026-06-30,Glazer Capital LLC,0.036,827893,8353440,0.0\n3,2026-06-30,Linden Advisors LP,0.0348,800000,8072000,0.0\n4,2026-06-30,Magnetar Financial LLC,0.0342,787593,7946813,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0326,750000,7567500,0.0\n6,2026-06-30,"Aristeia Capital, LLC",0.0304,700000,7063000,0.0\n7,2026-06-30,"Verition Fund Management, LLC",0.03,689566,6957721,0.0\n8,2026-06-30,AQR Arbitrage LLC,0.0295,678084,6841867,0.0116\n9,2026-06-30,Hudson Bay Capital Management Lp,0.028299998,649998,6558479,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.013200001,303308,3058861,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0087,200000,2017000,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1008489,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,46692,470888,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.013200001,303308,3060377,0.0\n1,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0087,200000,2018000,0.0\n2,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0043,99999,1008989,0.0\n3,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.002,46692,471122,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.29138002\ninstitutionsPercentHeld,0.83584\ninstitutionsFloatPercentHeld,1.17952\ninstitutionsCount,51.0\n
+,Value\ninsidersPercentHeld,0.29138002\ninstitutionsPercentHeld,0.83796\ninstitutionsFloatPercentHeld,1.1825299\ninstitutionsCount,51.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,VHCP,Vine Hill Capital Investment Corp. II,Financial Services,Shell Companies,United States,309273344,10.085,23570,27264,274957.44,,,,0.0,0.0,0.0,,,2038000,0,,8.389,7.689,-330000,,23000000,21424960,0.29138002,0.83584,309,0.01,0.0,,,,-49.92574,,,,,,,none,,,,,,,,https://www.vinehillcapital.com,2026-11-12
+0.00,VHCP,Vine Hill Capital Investment Corp. II,Financial Services,Shell Companies,United States,309426688,10.09,19790,27509,277565.81,,,,0.0,0.0,0.0,,,2038000,0,,8.389,7.689,-330000,,23000000,21424960,0.29138002,0.83796,134,0.0,0.0,,,,-57.657146,,,,,,,none,,,,,,,,https://www.vinehillcapital.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-09,9.97,10.02,9.91,9.97,,,,,,,0,10.0200,0,109670,,,,
 2026-02-10,9.90,9.95,9.89,9.95,,,,,,,0,10.0200,0,2959130,,,,

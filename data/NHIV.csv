@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0758,1575000,15757875,1.0\n1,2026-06-30,Alberta Investment Management Corp,0.0482,1000000,10005000,1.0\n2,2026-06-30,Linden Advisors LP,0.045700002,950000,9504750,1.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.040900003,849999,8504240,1.0\n4,2026-06-30,"Moore Capital Management, LP",0.0337,700000,7003500,1.0\n5,2026-06-30,Millennium Management Llc,0.0277,575000,5752875,1.0\n6,2026-09-30,Wealthspring Capital LLC,0.0251,521656,5219168,-0.0928\n7,2026-06-30,Mint Tower Capital Management B.V.,0.0217,450000,4502250,1.0\n8,2026-06-30,Magnetar Financial LLC,0.02,416346,4165541,1.0\n9,2026-06-30,"Verition Fund Management, LLC",0.0198,411091,4112965,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0758,1575000,15655499,1.0\n1,2026-09-30,Alberta Investment Management Corp,0.0482,1000000,9939999,0.0\n2,2026-06-30,Linden Advisors LP,0.045700002,950000,9442999,1.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.040900003,849999,8448989,1.0\n4,2026-06-30,"Moore Capital Management, LP",0.0337,700000,6957999,1.0\n5,2026-06-30,Millennium Management Llc,0.0277,575000,5715499,1.0\n6,2026-09-30,Wealthspring Capital LLC,0.0251,521656,5185260,-0.0928\n7,2026-09-30,BNP Paribas Financial Markets,0.0231,480249,4773674,1.0\n8,2026-09-30,Mint Tower Capital Management B.V.,0.0217,450000,4472999,0.0\n9,2026-09-30,Picton Mahoney Asset Management,0.0209,434295,4316892,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0047999998,99999,1000490,1.0\n1,2026-08-31,High Income Securities Fund,0.0029,59634,596638,1.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.00090000004,18151,181600,1.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0004,7830,78339,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0047999998,99999,993990,1.0\n1,2026-08-31,High Income Securities Fund,0.0029,59634,592761,1.0\n2,2026-07-31,Saba Capital Income & Opportunities Fund,0.00090000004,18151,180420,1.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund II,0.0004,7830,77830,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.022149999\ninstitutionsPercentHeld,0.59080005\ninstitutionsFloatPercentHeld,0.60418\ninstitutionsCount,33.0\n
+,Value\ninsidersPercentHeld,0.022149999\ninstitutionsPercentHeld,0.62917\ninstitutionsFloatPercentHeld,0.64342004\ninstitutionsCount,34.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,NHIV,NewHold Investment Corp IV,Financial Services,Shell Companies,United States,274883232,10.005,8690,18470,184792.35,,,,0.0,0.0,0.0,,,1332000,0,,0.071,,0,,20766250,18777504,0.022149999,0.59080005,185,0.01,0.0,,,,-12.171533,,,,,,,none,,,,,,,,https://nhicspac.com/newhold-investment-corp-iv/,2026-11-12
+0.00,NHIV,NewHold Investment Corp IV,Financial Services,Shell Companies,United States,273097344,9.94,6010,18110,180013.4,,,,0.0,0.0,0.0,,,1332000,0,,0.071,,0,,20766250,18777504,0.022149999,0.62917,97,0.0,0.0,,,,-45.181816,,,,,,,none,,,,,,,,https://nhicspac.com/newhold-investment-corp-iv/,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-08,10.50,11.50,9.80,10.05,,,,,,,0,9.8000,1,154770,,,,
 2026-06-09,10.00,10.00,10.00,10.00,,,,,,,0,9.8000,1,12000,,,,

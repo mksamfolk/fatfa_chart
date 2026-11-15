@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0015,70261,141575,1.0\n1,2026-06-30,Marex Group Ltd.,0.001,47325,95359,1.0\n2,2026-06-30,UBS Group AG,0.0008,37553,75669,0.895\n3,2026-09-30,"Geode Capital Management, LLC",0.00059999997,29578,59599,0.0\n4,2026-06-30,Osaic Holdings Inc.,0.0,725,1460,0.0\n5,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,6,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Jane Street Group, LLC",0.0011,53667,108407,-0.2362\n1,2026-06-30,Marex Group Ltd.,0.001,47325,95596,1.0\n2,2026-09-30,"Geode Capital Management, LLC",0.00059999997,29578,59747,0.0\n3,2026-09-30,UBS Group AG,0.0004,17201,34746,-0.542\n4,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,6,0.0\n5,2026-09-30,Osaic Holdings Inc.,0.0,725,1464,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29578,59599,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,29578,59747,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.8684\ninstitutionsPercentHeld,0.0038400001\ninstitutionsFloatPercentHeld,0.02921\ninstitutionsCount,6.0\n
+,Value\ninsidersPercentHeld,0.86875\ninstitutionsPercentHeld,0.00273\ninstitutionsFloatPercentHeld,0.020769998\ninstitutionsCount,6.0\n
 news
 [\n  {\n    "uuid": "76fc791d-e9fe-3c9e-86b4-0a7366e99f8c",\n    "title": "enVVeno Medical Releases New Episode of \"WTF\" Video Series Featuring CEO Rob Berman",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/envveno-medical-releases-episode-wtf-124400748.html",\n    "providerPublishTime": 1792586640,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/accesswire.ca/871e3f0e3f315b965e4e85d9a7104a8f.png",\n          "width": 400,\n          "height": 400,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/713F91CCF43F494465AC9F57E37049268A641C419462A2C1FD58642D58CB4365/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2F871e3f0e3f315b965e4e85d9a7104a8f.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NVNO"\n    ]\n  },\n  {\n    "uuid": "232c2a7a-a283-36ea-8764-7c46ab42a2a7",\n    "title": "enVVeno Medical CEO Rob Berman Goes Direct to Investors with New \"WTF\" Video Series",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/envveno-medical-ceo-rob-berman-125000759.html",\n    "providerPublishTime": 1789563000,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/accesswire.ca/8211cba8890c68b7f35d2d8cf8d20479.png",\n          "width": 400,\n          "height": 400,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/96669E21B1F028F767E59DB653F5108C4D83F7BFD15F31202F858651502D01AE/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2F8211cba8890c68b7f35d2d8cf8d20479.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "NVNO"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-16.72,WTF,Waton Financial Limited,Financial Services,Capital Markets,Hong Kong,97198512,2.015,25380,8825,17782.375,0.029,,,0.61282,-1.5453501,-1.49132,-0.87857,-0.35494,26719868,2577450,11.864,1.544,1.507,-7060432,,48237472,6348041,0.8684,0.0038400001,172440,35.26,0.0272,,,9.566436,4.477778,7.19,,,,,,none,,,,,,,,https://www.waton.com,2026-11-12
+17.16,WTF,Waton Financial Limited,Financial Services,Capital Markets,Hong Kong,97439696,2.02,16060,9226,18636.52,0.029,,,0.61282,-1.4297501,-1.49132,-0.87857,-0.35494,26719868,2577450,11.864,1.544,1.507,-7060432,,48237472,6348041,0.86875,0.00273,169707,12.86,0.026700001,,,9.590174,4.4888887,7.214,,,,,,none,,,,,,,,https://www.waton.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-04-01,4.30,19.85,4.05,19.85,,,,,,,0,4.0500,1,386334602,,,,
 2025-04-02,15.01,18.05,6.30,7.03,,,,,,,0,4.0500,1,70162917,,,,
@@ -422,3 +422,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.15,2.15,1.99,2.00,2.02,2.22,2.52,2.99,3.19,2.7420,0,2.3419,0,16600,24497,-0.1630,-0.1556,-0.0074
 2026-11-11,2.19,2.19,2.01,2.11,2.03,2.20,2.51,2.98,3.19,2.7420,0,2.3070,0,14559,24788,-0.1489,-0.1543,0.0053
 2026-11-12,2.01,2.08,1.88,2.00,2.03,2.16,2.49,2.97,3.18,2.6874,0,2.2742,0,20600,24873,-0.1450,-0.1524,0.0074
+2026-11-13,2.00,2.19,1.90,2.02,2.02,2.14,2.47,2.96,3.17,2.6874,0,2.2433,0,15429,25076,-0.1386,-0.1497,0.0110

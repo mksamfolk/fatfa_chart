@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.049099997,409500,4115475,1.0\n1,2026-09-30,Periscope Capital Inc.,0.027,225000,2261250,1.0\n2,2026-09-30,Gritstone Asset Management LLC,0.0105,87208,876440,1.0\n3,2026-09-30,Stonex Group Inc.,0.0064999997,54390,546619,1.0\n4,2026-09-30,Warberg Asset Management LLC,0.006,50000,502500,1.0\n5,2026-09-30,ABC Arbitrage SA,0.0036000002,30000,301500,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Wolverine Asset Management, LLC",0.049099997,409500,4119447,1.0\n1,2026-09-30,"Westchester Capital Management, LLC",0.048,400084,4024725,1.0\n2,2026-09-30,BNP Paribas Financial Markets,0.0396,329840,3318091,1.0\n3,2026-09-30,Periscope Capital Inc.,0.027,225000,2263432,1.0\n4,2026-09-30,Gritstone Asset Management LLC,0.0105,87208,877286,1.0\n5,2026-09-30,Stonex Group Inc.,0.0064999997,54390,547147,1.0\n6,2026-09-30,Warberg Asset Management LLC,0.006,50000,502985,1.0\n7,2026-09-30,Mizuho Securities USA LLC,0.0058,48092,483791,1.0\n8,2026-09-30,ABC Arbitrage SA,0.0036000002,30000,301791,1.0\n9,2026-09-30,UBS Group AG,0.0,300,3017,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,5488,55154,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0007,5488,55207,1.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0036000002\ninstitutionsPercentHeld,0.1011\ninstitutionsFloatPercentHeld,0.10147\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.0036000002\ninstitutionsPercentHeld,0.42490003\ninstitutionsFloatPercentHeld,0.42644\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,BRKH,Burtech Acquisition Corp II,Financial Services,Shell Companies,United States,118193744,10.05,6890,29898,300474.9,,,,0.0,0.0,0.0,,,662441,158202,30.426,0.04,,0,,8332000,7652956,0.0036000002,0.1011,849,0.04,,,,,228.4091,,,,,,,none,,,,,,,,,2026-11-12
+0.00,BRKH,Burtech Acquisition Corp II,Financial Services,Shell Companies,United States,118307816,10.0597,17740,18889,190017.6733,,,,0.0,0.0,0.0,,,662441,158202,30.426,0.04,,0,,8332000,7652956,0.0036000002,0.42490003,845,0.17,,,,,228.62955,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-07-14,10.00,10.00,9.80,9.95,,,,,,,0,9.8000,1,206960,,,,
 2026-07-15,9.92,9.93,9.92,9.92,,,,,,,0,9.8000,1,62496,,,,
@@ -101,3 +101,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.03,10.03,10.03,10.03,10.03,10.02,10.00,,,10.0234,1,10.2185,0,10030,284792,0.0093,0.0086,0.0007
 2026-11-11,10.03,10.03,10.03,10.03,10.03,10.02,10.01,,,10.0234,1,10.2054,0,,144256,0.0086,0.0086,0.0000
 2026-11-12,10.05,10.05,10.05,10.05,10.03,10.03,10.01,,,10.0234,1,10.1931,0,753750,159331,0.0096,0.0088,0.0008
+2026-11-13,10.07,10.07,10.05,10.06,10.04,10.03,10.01,,,10.0268,1,10.1815,0,334887,166029,0.0111,0.0093,0.0018

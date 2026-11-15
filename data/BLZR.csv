@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0533,1465886,15039990,-0.3127\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0436,1200000,12312000,0.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.0404,1111421,11403179,0.0186\n3,2026-06-30,"MMCAP International, Inc. SPC",0.0364,1000000,10260000,0.0\n4,2026-06-30,Polar Asset Management Partners Inc.,0.0364,1000000,10260000,0.0\n5,2026-06-30,"Tenor Capital Management Co., L.p.",0.0364,1000000,10260000,0.0\n6,2026-06-30,Magnetar Financial LLC,0.0364,999987,10259866,0.0\n7,2026-06-30,"Two Sigma Investments, LP",0.031600002,869999,8926189,0.0\n8,2026-06-30,JPMORGAN CHASE & CO,0.0296,815120,8363131,-0.040599998\n9,2026-06-30,AQR Arbitrage LLC,0.026199998,719752,7384655,0.0191\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Meteora Capital, LLC",0.0533,1465886,15069307,-0.3127\n1,2026-06-30,Adage Capital Partners GP L.L.C.,0.0436,1200000,12335999,0.0\n2,2026-06-30,"Shaw D.E. & Co., Inc.",0.0404,1111421,11425407,0.0186\n3,2026-06-30,Polar Asset Management Partners Inc.,0.0364,1000000,10279999,0.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0364,1000000,10279999,0.0\n5,2026-06-30,Magnetar Financial LLC,0.0364,999987,10279866,0.0\n6,2026-09-30,"MMCAP International, Inc. SPC",0.0364,1000000,10279999,0.0\n7,2026-06-30,"Two Sigma Investments, LP",0.031600002,869999,8943589,0.0\n8,2026-09-30,JPMORGAN CHASE & CO,0.027999999,769083,7906173,-0.056500003\n9,2026-06-30,AQR Arbitrage LLC,0.026199998,719752,7399050,0.0191\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,172110,1765848,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0036000002,99999,1025989,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0036000002,99999,1025989,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0011,31400,322164,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,26712,274065,0.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,16005,164211,0.0\n6,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,15503,159060,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0063,172110,1769290,0.0\n1,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0036000002,99999,1027989,0.0\n2,2026-06-30,First Trust Alternative Opportunities Fund,0.0036000002,99999,1027989,0.0\n3,2026-07-31,Saba Capital Income & Opportunities Fund,0.0011,31400,322791,0.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.001,26712,274599,0.0\n5,2026-07-31,Saba Capital Income & Opportunities Fund II,0.00059999997,16005,164531,0.0\n6,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,15503,159370,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00072999997\ninstitutionsPercentHeld,0.83659\ninstitutionsFloatPercentHeld,0.8372\ninstitutionsCount,70.0\n
+,Value\ninsidersPercentHeld,0.00072999997\ninstitutionsPercentHeld,0.84373003\ninstitutionsFloatPercentHeld,0.84433997\ninstitutionsCount,71.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-56.48,BLZR,Trailblazer Acquisition Corp.,Financial Services,Shell Companies,United States,352687520,10.26,26480,54410,558246.6,,,,0.0,0.0,0.0,,,951192,0,,10.331,9.663,-540782,,27500000,25367375,0.00072999997,0.83659,71,0.0,0.0,,,,-32.67516,,,,,,,none,,,,,,,,,2026-11-12
+57.36,BLZR,Trailblazer Acquisition Corp.,Financial Services,Shell Companies,United States,353374976,10.28,23720,54739,562716.9199999999,,,,0.0,0.0,0.0,,,951192,0,,10.331,9.663,-540782,,27500000,25367375,0.00072999997,0.84373003,1069,0.01,0.0,,,,-32.738853,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-03,10.14,10.16,10.14,10.15,,,,,,,0,10.1400,1,5850460,,,,
 2025-11-04,10.17,10.17,10.14,10.14,,,,,,,0,10.1700,0,2242968,,,,
@@ -273,3 +273,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.26,10.27,10.26,10.26,10.26,10.24,10.22,10.14,10.12,10.2349,1,10.2454,1,779760,654923,0.0125,0.0126,-0.0002
 2026-11-11,10.27,10.27,10.27,10.27,10.26,10.25,10.22,10.14,10.12,10.2394,1,10.2479,1,11297,655007,0.0129,0.0127,0.0002
 2026-11-12,10.27,10.27,10.27,10.27,10.26,10.25,10.22,10.14,10.12,10.2424,1,10.2501,1,,654844,0.0131,0.0128,0.0003
+2026-11-13,10.27,10.28,10.27,10.28,10.26,10.25,10.23,10.14,10.12,10.2472,1,10.2521,1,70038,647112,0.0138,0.0130,0.0009

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,SHAO MENGSHU,Chief Financial Officer,,Stock Award(Grant),2025-01-16,51355,2025-01-16\n1,WEI DING,Chief Executive Officer,,Stock Award(Grant),2026-09-09,30313,2026-09-09\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.0221,55616,146826,1.0\n1,2026-06-30,"Ewa, LLC                          ",0.0058999998,14983,39555,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0037,9405,24829,1.0\n3,2026-06-30,Vanguard Capital Management LLC,0.001,2465,6507,0.0\n4,2026-06-30,Morgan Stanley,0.0,12,31,1.0\n5,2026-06-30,UBS Group AG,0.0,1,2,-0.98980004\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,2,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Geode Capital Management, LLC",0.0221,55616,147382,1.0\n1,2026-09-30,"Jane Street Group, LLC",0.0062,15678,41546,1.0\n2,2026-06-30,"Ewa, LLC                          ",0.0058999998,14983,39704,1.0\n3,2026-09-30,State Street Corporation,0.0042,10600,28090,1.0\n4,2026-06-30,Xtx Topco Ltd,0.0037,9405,24923,1.0\n5,2026-06-30,Vanguard Capital Management LLC,0.001,2465,6532,0.0\n6,2026-06-30,Morgan Stanley,0.0,12,31,1.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,2,1.0\n8,2026-09-30,UBS Group AG,0.0,1,2,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0091,22882,60408,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0058,14505,38293,-0.0021\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0018000001,4587,12109,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0016,4037,10657,0.0\n4,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.001,2465,6507,0.3397\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0091,22882,60637,0.0\n1,2026-09-30,Fidelity Concord Street Trust-Fidelity Extended Market Index Fund,0.0058,14505,38438,-0.0021\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Total Market Index Fund,0.0018000001,4587,12155,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Series Total Market Index Fund,0.0016,4037,10698,0.0\n4,2026-06-30,VANGUARD INDEX FUNDS-Vanguard Extended Market Index Fund,0.001,2465,6532,0.3397\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,30000,0,,Stock Award(Grant) at price 0.00 per share.,WEI DING,Chief Executive Officer,,2026-09-09,D\n1,150000,775500,,Stock Award(Grant) at price 5.17 per share.,WEI DING,Chief Executive Officer,,2025-01-16,D\n2,51355,265505,,Stock Award(Grant) at price 5.17 per share.,SHAO MENGSHU,Chief Financial Officer,,2025-01-16,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.01281\ninstitutionsPercentHeld,0.03284\ninstitutionsFloatPercentHeld,0.033269998\ninstitutionsCount,10.0\n
+,Value\ninsidersPercentHeld,0.01281\ninstitutionsPercentHeld,0.052259997\ninstitutionsFloatPercentHeld,0.05294\ninstitutionsCount,11.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2024-10-10 09:30:00-04:00,0.1\n2025-12-22 09:30:00-05:00,0.041666666666666664\n2026-05-04 09:30:00-04:00,0.05\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-6.70,INHD,Inno Holdings Inc.,Basic Materials,Steel,Hong Kong,6654334,2.64,19090,412989,1090290.96,0.903,,,0.036760002,-0.72963,-0.72702,-0.12673001,-0.07243,33275776,279795,0.503,137.226,108.079,-12656412,-20647884,2520581,2489628,0.01281,0.03284,130004,0.19,0.051599998,0.07430341,,1.2007198,0.11960856,-4.753,7.048,,,,,none,,,,,,,-22.531,https://www.innoholdings.com,2026-11-12
+8.08,INHD,Inno Holdings Inc.,Basic Materials,Steel,Hong Kong,6679540,2.65,26790,322357,854246.0499999999,0.903,,,0.036760002,-0.6786,-0.72702,-0.12673001,-0.07243,33275776,279795,0.503,137.226,108.079,-12656412,-20647884,2520581,2489628,0.01281,0.052259997,103421,0.16,0.040999997,0.074584864,,1.205268,0.12006162,-4.749,7.041,,,,,none,,,,,,,-22.531,https://www.innoholdings.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-12-14,50400.00,92208.00,25200.00,66576.00,,,,,,,0,92208.0000,0,33887184,,,,
 2023-12-15,35808.00,35808.00,9408.00,10224.00,,,,,,,0,92208.0000,0,14691888,,,,
@@ -745,3 +745,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.76,2.80,2.45,2.51,3.29,3.55,4.79,14.14,16.65,3.8720,0,4.3959,0,121484,2445643,-0.8791,-1.0101,0.1310
 2026-11-11,2.64,2.85,2.62,2.80,3.17,3.50,4.71,14.00,16.53,3.8720,0,4.0845,0,117880,2413347,-0.8470,-0.9775,0.1305
 2026-11-12,2.78,2.78,2.63,2.63,3.05,3.43,4.63,13.88,16.40,3.8599,0,3.8230,0,58123,2382223,-0.8257,-0.9471,0.1214
+2026-11-13,2.62,2.86,2.50,2.65,2.94,3.36,4.46,13.76,16.28,3.8274,0,3.6033,0,27759,1763641,-0.7981,-0.9173,0.1193

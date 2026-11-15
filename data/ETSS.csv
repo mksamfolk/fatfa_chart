@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.09,1350000,13446000,1.0\n1,2026-06-30,Sona Asset Management (US) LLC,0.0498,747500,7445100,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0467,700000,6972000,1.0\n3,2026-06-30,Linden Advisors LP,0.0467,700000,6972000,1.0\n4,2026-06-30,AQR Arbitrage LLC,0.045500003,681864,6791365,1.0\n5,2026-06-30,BNP Paribas Financial Markets,0.044499997,668130,6654574,1.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.024400001,366500,3650340,1.0\n7,2026-06-30,Shaolin Capital Management LLC,0.0217,325874,3245705,1.0\n8,2026-06-30,Glazer Capital LLC,0.0202,303248,3020350,1.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.02,300000,2988000,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.09,1350000,13378499,1.0\n1,2026-06-30,Sona Asset Management (US) LLC,0.0498,747500,7407724,1.0\n2,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.0467,700000,6936999,1.0\n3,2026-06-30,Linden Advisors LP,0.0467,700000,6936999,1.0\n4,2026-06-30,AQR Arbitrage LLC,0.045500003,681864,6757272,1.0\n5,2026-09-30,BNP Paribas Financial Markets,0.044499997,668130,6621168,0.0\n6,2026-06-30,Hudson Bay Capital Management Lp,0.024400001,366500,3632014,1.0\n7,2026-06-30,Shaolin Capital Management LLC,0.0217,325874,3229411,1.0\n8,2026-06-30,Glazer Capital LLC,0.0202,303248,3005187,1.0\n9,2026-06-30,Polar Asset Management Partners Inc.,0.02,300000,2972999,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.002\ninstitutionsPercentHeld,0.76975\ninstitutionsFloatPercentHeld,0.77129996\ninstitutionsCount,33.0\n
+,Value\ninsidersPercentHeld,0.002\ninstitutionsPercentHeld,0.78083\ninstitutionsFloatPercentHeld,0.78239995\ninstitutionsCount,33.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ETSS,Energy Transition Special Opportunities,Financial Services,Shell Companies,United States,199200000,9.96,30020,50859,506555.6400000001,,,,0.0,0.0,0.0,,,747253,0,,,,0,,15000000,9362637,0.002,0.76975,437,0.01,0.0,,,,-24.0,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ETSS,Energy Transition Special Opportunities,Financial Services,Shell Companies,United States,198200000,9.91,40720,54007,535209.37,,,,0.0,0.0,0.0,,,647771,0,,,,0,,15000000,15000000,0.002,0.78083,627,0.02,0.0,,,,-36.167885,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-04,9.77,9.92,9.77,9.87,,,,,,,0,9.7700,1,47376,,,,
 2026-06-05,9.87,9.87,9.85,9.85,,,,,,,0,9.7700,1,68950,,,,

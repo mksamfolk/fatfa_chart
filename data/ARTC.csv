@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0612,1600000,16016000,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0591,1543436,15449794,0.029000001\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0574,1500000,15015000,0.0\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.0574,1500000,15015000,0.0\n4,2026-06-30,"Aristeia Capital, LLC",0.055,1435717,14371527,0.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.045,1175073,11762480,0.4046\n6,2026-06-30,AQR Arbitrage LLC,0.04,1045608,10466536,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0383,1000000,10010000,0.0\n8,2026-06-30,Mint Tower Capital Management B.V.,0.0383,1000000,10010000,0.0\n9,2026-06-30,"Karpus Management, Inc.",0.0373,973200,9741732,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0612,1600000,16032000,0.0\n1,2026-06-30,Polar Asset Management Partners Inc.,0.0591,1543436,15465229,0.029000001\n2,2026-06-30,"Tenor Capital Management Co., L.p.",0.0574,1500000,15030000,0.0\n3,2026-06-30,"Highbridge Capital Management, LLC.",0.0574,1500000,15030000,0.0\n4,2026-06-30,"Aristeia Capital, LLC",0.055,1435717,14385884,0.0\n5,2026-09-30,"Wolverine Asset Management, LLC",0.045,1175073,11774231,0.4046\n6,2026-06-30,AQR Arbitrage LLC,0.04,1045608,10476992,0.0\n7,2026-06-30,Magnetar Financial LLC,0.0383,1000000,10020000,0.0\n8,2026-09-30,Mint Tower Capital Management B.V.,0.0383,1000000,10020000,0.0\n9,2026-06-30,"Karpus Management, Inc.",0.0373,973200,9751464,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0178,466000,4664660,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0022,57104,571611,0.0\n2,2026-08-31,High Income Securities Fund,0.0019,50000,500500,1.0\n3,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0008,21538,215595,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00029999999,8836,88448,1.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5077,50820,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0178,466000,4669320,1.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.0022,57104,572182,0.0\n2,2026-08-31,High Income Securities Fund,0.0019,50000,501000,1.0\n3,2026-06-30,Collaborative Investment Series Trust-The SPAC and New Issue ETF,0.0008,21538,215810,1.0\n4,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.00029999999,8836,88536,1.0\n5,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0002,5077,50871,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.02163\ninstitutionsPercentHeld,0.8764\ninstitutionsFloatPercentHeld,0.89577\ninstitutionsCount,50.0\n
+,Value\ninsidersPercentHeld,0.02163\ninstitutionsPercentHeld,0.88852996\ninstitutionsFloatPercentHeld,0.90817\ninstitutionsCount,53.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ARTC,Art Technology Acquisition Corp.,Financial Services,Shell Companies,United States,348681664,10.01,18950,37978,380159.77999999997,,,,0.0,0.0,0.0,,,2309856,0,,0.092,,0,,26125000,24625076,0.02163,0.8764,7390,0.12,0.00029999999,,,,-41.363636,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ARTC,Art Technology Acquisition Corp.,Financial Services,Shell Companies,United States,349030016,10.02,25590,39781,398605.62,,,,0.0,0.0,0.0,,,1974926,0,,0.092,,0,,26125000,25594836,0.02163,0.88852996,8464,1.12,0.00029999999,,,,-9.690522,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-27,9.86,9.86,9.81,9.83,,,,,,,0,9.8100,1,302764,,,,
 2026-03-02,9.83,9.85,9.82,9.83,,,,,,,0,9.8100,1,83555,,,,

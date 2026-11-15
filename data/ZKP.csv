@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.01593\ninstitutionsPercentHeld,0.84334\ninstitutionsFloatPercentHeld,0.85697997\ninstitutionsCount,51.0\n
+,Value\ninsidersPercentHeld,0.01593\ninstitutionsPercentHeld,0.84204\ninstitutionsFloatPercentHeld,0.85567003\ninstitutionsCount,50.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ZKP,Lafayette Digital Acquisition Corp. I,Financial Services,Shell Companies,United States,393278944,10.06,24220,21170,212970.2,,,,0.0,0.0,0.0,,,709155,0,,,,0,,29510000,29074885,0.01593,0.84334,1416,0.04,0.0,,,,-42.26891,,,,,,,none,,,,,,,,,2026-11-12
+0.00,ZKP,Lafayette Digital Acquisition Corp. I,Financial Services,Shell Companies,United States,393278944,10.06,25790,21235,213624.1,,,,0.0,0.0,0.0,,,618867,0,,,,0,,29510000,29074885,0.01593,0.84204,1828,0.14,0.0001,,,,-41.57025,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-02-04,10.00,10.04,9.90,9.93,,,,,,,0,10.0400,0,108237,,,,
 2026-02-05,9.90,9.90,9.86,9.86,,,,,,,0,10.0400,0,300730,,,,

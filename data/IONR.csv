@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Invesco Ltd.,0.024300002,1873219,5170084,-0.1625\n1,2026-06-30,Goldman Sachs Group Inc,0.0022,166395,459250,3.3527\n2,2026-06-30,Integrated Wealth Concepts LLC,0.0018000001,142517,393346,-0.2442\n3,2026-09-30,Cambridge Investment Research Advisors Inc.,0.0005,39864,110024,-0.65419996\n4,2026-06-30,"Susquehanna International Group, LLP",0.0004,28821,79545,0.17790002\n5,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.00029999999,25378,70043,1.0\n6,2026-06-30,HRT Financial LP,0.00029999999,23162,63927,1.0\n7,2026-06-30,Xtx Topco Ltd,0.00029999999,20737,57234,1.0\n8,2026-09-30,Gk Wealth Management LLC,0.00029999999,24784,68403,-0.22629999\n9,2026-09-30,King Luther Capital Management Corp.,0.00029999999,25000,68999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Invesco Ltd.,0.0199,1536803,3350230,-0.17959999\n1,2026-06-30,Goldman Sachs Group Inc,0.0022,166395,362741,3.3527\n2,2026-06-30,Integrated Wealth Concepts LLC,0.0018000001,142517,310687,-0.2442\n3,2026-09-30,Cambridge Investment Research Advisors Inc.,0.0005,39864,86903,-0.65419996\n4,2026-06-30,"Susquehanna International Group, LLP",0.0004,28821,62829,0.17790002\n5,2026-06-30,"Vanguard Personalized Indexing Management, LLC",0.00029999999,25378,55324,1.0\n6,2026-06-30,HRT Financial LP,0.00029999999,23162,50493,1.0\n7,2026-06-30,Xtx Topco Ltd,0.00029999999,20737,45206,1.0\n8,2026-09-30,Gk Wealth Management LLC,0.00029999999,24784,54029,-0.22629999\n9,2026-09-30,King Luther Capital Management Corp.,0.00029999999,25000,54500,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco WilderHill Clean Energy ETF,0.024300002,1872366,5167730,-0.0398\n1,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,5026,13871,0.9227\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,5790,15980,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-08-31,Invesco Exchange-Traded Fund Trust-Invesco WilderHill Clean Energy ETF,0.024300002,1872366,4081758,-0.0398\n1,2026-07-31,Tidal Trust II-Carbon Collective Climate Solutions U.S. Equity ETF,0.0001,5026,10956,0.9227\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,5790,12622,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00518\ninstitutionsPercentHeld,0.032279998\ninstitutionsFloatPercentHeld,0.03244\ninstitutionsCount,34.0\n
+,Value\ninsidersPercentHeld,0.00526\ninstitutionsPercentHeld,0.02797\ninstitutionsFloatPercentHeld,0.028110001\ninstitutionsCount,35.0\n
 news
 [\n  {\n    "uuid": "0395a5c9-913d-366c-a3e9-467fb9ab1a77",\n    "title": "Six Holes, 3,050 Feet and a Federal Deadline: Nevada Tungsten Moves Toward the Drill",\n    "publisher": "CNW Group",\n    "link": "https://finance.yahoo.com/markets/commodities/articles/six-holes-3-050-feet-130300895.html",\n    "providerPublishTime": 1791896580,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/cnwgroup.com/0a95d0b172a89e965b549c2fb59f2735.jpg",\n          "width": 400,\n          "height": 113,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/BDC73954E406878B718CE2419455E1FB5DE324486FD352B32507A75D59E345AF/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2F0a95d0b172a89e965b549c2fb59f2735.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "WSR.CN",\n      "ELMT",\n      "UAMY",\n      "PPTA",\n      "4K2.F",\n      "IONR",\n      "PPTA",\n      "WSRIF"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-18.99,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,213210000,2.76,61210,79801,220250.75999999998,,,,1.0,-6.0841,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,77250000,61592605,0.00518,0.032279998,146128,1.54,0.0023999999,,,325.01526,0.7666667,234.157,-19.548,,,,,none,,,,,,,0.889,https://www.ioneer.com,2026-11-12
+16.90,IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,Australia,168405008,2.18,66940,78345,170792.1,,,,1.0,-12.31098,0.0,,,58840000,297000,0.107,8.585,8.422,-6138000,,77250000,61592605,0.00526,0.02797,111181,1.63,0.0018000001,,,256.71497,0.6055556,166.196,-13.874,,,,,none,,,,,,,0.889,https://www.ioneer.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-06-30,16.80,17.63,15.40,17.63,,,,,,,0,15.4000,1,8815,,,,
 2022-07-01,18.60,19.00,11.05,12.58,,,,,,,0,19.0000,0,408850,,,,
@@ -1112,3 +1112,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.62,2.81,2.47,2.51,2.68,2.71,2.94,3.56,3.84,3.0190,0,2.8200,0,171684,210194,-0.0972,-0.0981,0.0009
 2026-11-11,2.63,2.75,2.57,2.58,2.66,2.70,2.92,3.56,3.82,3.0190,0,2.8130,0,105264,207086,-0.0973,-0.0979,0.0007
 2026-11-12,2.43,2.43,2.27,2.31,2.61,2.68,2.90,3.55,3.81,2.9475,0,2.8061,0,237646,207005,-0.1182,-0.1020,-0.0162
+2026-11-13,2.29,2.29,2.13,2.18,2.55,2.65,2.88,3.55,3.79,2.8003,0,2.7847,0,130785,203998,-0.1432,-0.1102,-0.0330

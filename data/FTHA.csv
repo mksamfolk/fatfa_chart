@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0868,900000,9026999,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0844,875000,8776249,1.0\n2,2026-06-30,Linden Advisors LP,0.0482,500000,5014999,1.0\n3,2026-06-30,"Tenor Capital Management Co., L.p.",0.028900001,300000,3008999,1.0\n4,2026-09-30,Wealthspring Capital LLC,0.025799999,268028,2688320,1.0\n5,2026-06-30,Sona Asset Management (US) LLC,0.0241,250000,2507499,1.0\n6,2026-06-30,Clear Street Group Inc.,0.0228,236383,2370921,1.0\n7,2026-06-30,Kepos Capital Lp,0.0217,225000,2256749,1.0\n8,2026-06-30,"Two Sigma Investments, LP",0.0175,181250,1817937,1.0\n9,2026-06-30,"MMCAP International, Inc. SPC",0.016900001,175000,1755249,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0868,900000,9026999,1.0\n1,2026-06-30,Magnetar Financial LLC,0.0844,875000,8776249,1.0\n2,2026-06-30,Linden Advisors LP,0.0482,500000,5014999,1.0\n3,2026-09-30,Picton Mahoney Asset Management,0.038599998,400000,4011999,1.0\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.028900001,300000,3008999,1.0\n5,2026-09-30,BNP Paribas Financial Markets,0.026800001,277740,2785732,1.0\n6,2026-09-30,Wealthspring Capital LLC,0.025799999,268028,2688320,1.0\n7,2026-06-30,Sona Asset Management (US) LLC,0.0241,250000,2507499,1.0\n8,2026-06-30,Clear Street Group Inc.,0.0228,236383,2370921,1.0\n9,2026-06-30,Kepos Capital Lp,0.0217,225000,2256749,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.46238\ninstitutionsFloatPercentHeld,0.46238\ninstitutionsCount,16.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.48916999\ninstitutionsFloatPercentHeld,0.48916999\ninstitutionsCount,19.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,FTHA,Forefront Tech Holdings Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,137444432,10.03,13720,17192,172435.75999999998,,,,0.0,0.0,0.0,,,1042341,0,,0.052,,0,,10370000,7885035,0.0,0.46238,324,0.01,,,,,-73.74999,,,,,,,none,,,,,,,,https://forefrontacq.com,2026-11-12
+0.00,FTHA,Forefront Tech Holdings Acquisition Corp.,Financial Services,Shell Companies,Cayman Islands,137444432,10.03,13520,17192,172435.75999999998,,,,0.0,0.0,0.0,,,1042341,0,,0.052,,0,,10370000,7885035,0.0,0.48916999,347,0.07,,,,,-1114.4445,,,,,,,none,,,,,,,,https://forefrontacq.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-06-22,9.97,9.97,9.92,9.93,,,,,,,0,9.9700,0,1288914,,,,
 2026-06-23,9.91,9.92,9.90,9.91,,,,,,,0,9.9700,0,90181,,,,

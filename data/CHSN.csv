@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0037,13348,36173,1.0\n1,2026-06-30,Tower Research Capital LLC (TRC),0.0021,7500,20325,1.0\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,2,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Jane Street Group, LLC",0.0045,16239,9153,1.0\n1,2026-09-30,Stonex Group Inc.,0.0037,13348,7524,1.0\n2,2026-06-30,Tower Research Capital LLC (TRC),0.0021,7500,4227,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,1,0,0.0\n4,2026-09-30,UBS Group AG,0.0,93,52,1.0\n5,2026-09-30,JPMORGAN CHASE & CO,0.0,3,1,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-10-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,72,195,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-10-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,72,40,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.09708\ninstitutionsPercentHeld,0.0094099995\ninstitutionsFloatPercentHeld,0.01042\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.09708\ninstitutionsPercentHeld,0.016449999\ninstitutionsFloatPercentHeld,0.01822\ninstitutionsCount,7.0\n
 news
 [\n  {\n    "uuid": "c8c6340a-e4a3-3d5a-8b5f-67040a084a5a",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153018770.html",\n    "providerPublishTime": 1793719818,\n    "type": "STORY",\n    "relatedTickers": [\n      "MERC",\n      "HUBC",\n      "GRAB",\n      "INLF",\n      "INTC",\n      "RBNE",\n      "^IXIC",\n      "SGRX",\n      "SHFS",\n      "CHSN",\n      "NVDA",\n      "CIFR",\n      "AAL",\n      "AAPL",\n      "PLTR"\n    ]\n  },\n  {\n    "uuid": "aae3d7cd-1f4e-3ffe-a250-b7aeb3b5b1af",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017600.html",\n    "providerPublishTime": 1793197817,\n    "type": "STORY",\n    "relatedTickers": [\n      "DVLT",\n      "RCT",\n      "CDT",\n      "GERN",\n      "CHSN",\n      "INTC",\n      "SOFI",\n      "^IXIC",\n      "NVDA",\n      "SHFS",\n      "BRAI",\n      "AAL",\n      "HODO",\n      "CRWV",\n      "ONCO",\n      "IREN"\n    ]\n  },\n  {\n    "uuid": "b51055ef-eb62-3a69-9b4f-da23685e1d21",\n    "title": "Chanson International Holding Announces First Half of Fiscal Year 2026 Financial Results",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/chanson-international-holding-announces-first-120000649.html",\n    "providerPublishTime": 1789732800,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/603038aac0f20411b14722c6da83e992.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/494C0AFD219018F62D97F4527F5CD94743B59EE4FC8C5CF83A95BB369BA88E5C/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F603038aac0f20411b14722c6da83e992.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "CHSN"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-08-18 09:30:00-04:00,0.0125\n2026-05-07 09:30:00-04:00,0.01\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-4.27,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,6293679,2.71,22702410,3623525,9819752.75,-0.045,,,0.46486,-0.09425,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.0094099995,71938,0.6,0.031,0.00932425,,0.35206556,0.089335755,-0.071,1.269,,,,,none,,,,,,,-4.371,https://www.ir.chanson-international.net,2026-11-12
+4.12,CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,China,1309131,0.5637,21050840,4550428,2565076.2635999997,-0.045,,,0.46486,-0.11461,0.11665,0.043899998,-0.01717,20005380,12450480,17.673,1.365,1.138,62112,1076158,2321682,2095145,0.09708,0.016449999,176033,0.05,0.0758,0.0019395128,,0.073232196,0.018582497,-0.349,6.282,,,,,none,,,,,,,-4.371,https://www.ir.chanson-international.net,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-03-30,32000.00,32000.00,18320.00,19600.00,,,,,,,0,32000.0000,0,2410800,,,,
 2023-03-31,24000.00,27120.00,14880.00,16880.00,,,,,,,0,32000.0000,0,5536640,,,,
@@ -923,4 +923,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,3.05,3.07,2.55,2.71,2.07,1.50,1.24,47.38,88.86,1.2097,1,2.0786,1,3069075,12355650,0.4431,0.2344,0.2088
 2026-11-10,2.80,2.83,2.35,2.35,2.20,1.57,1.27,45.59,87.80,1.2097,1,2.2900,1,3614300,12424479,0.4289,0.2733,0.1557
 2026-11-11,1.02,1.30,0.60,0.68,2.12,1.55,1.26,43.88,86.72,3.6495,0,5.0000,0,36926875,13158223,0.2799,0.2746,0.0053
-2026-11-12,0.56,0.62,0.51,0.60,2.07,1.54,1.25,42.17,85.66,3.0457,0,4.9120,0,1455240,13186054,0.1534,0.2504,-0.0970
+2026-11-12,0.56,0.62,0.51,0.60,2.07,1.54,1.25,42.17,85.66,3.0457,0,4.9120,0,1472040,13186390,0.1534,0.2504,-0.0970
+2026-11-13,0.61,0.61,0.54,0.56,2.00,1.52,1.24,40.45,84.65,2.8288,0,4.7361,0,356523,13192246,0.0496,0.2102,-0.1606

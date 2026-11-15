@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Cetera Investment Advisers,0.0034,19862,42504,-0.1612\n1,2026-09-30,Citigroup Inc.,0.0025,14461,30946,-0.0877\n2,2026-06-30,UBS Group AG,0.00059999997,3541,7577,-0.3609\n3,2026-06-30,Acadian Asset Management. LLC,0.0005,2961,6336,-0.4425\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Cetera Investment Advisers,0.0034,19862,40121,-0.1612\n1,2026-09-30,Citigroup Inc.,0.0025,14461,29211,-0.0877\n2,2026-09-30,Acadian Asset Management. LLC,0.0004,2317,4680,-0.2175\n3,2026-09-30,UBS Group AG,0.0001,809,1634,-0.7715\n4,2026-09-30,JPMORGAN CHASE & CO,0.0,15,30,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.48771\ninstitutionsPercentHeld,0.00695\ninstitutionsFloatPercentHeld,0.0135699995\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.48776\ninstitutionsPercentHeld,0.0063300002\ninstitutionsFloatPercentHeld,0.01235\ninstitutionsCount,5.0\n
 news
 [\n  {\n    "uuid": "d2bffbcc-fec2-3fc6-a925-59944c11b36a",\n    "title": "Atlas Trinity Tech Limited Announces Appointment of Mr. Haoyuan Liu as Chief Executive Officer",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/atlas-trinity-tech-limited-announces-130000826.html",\n    "providerPublishTime": 1792069200,\n    "type": "STORY",\n    "relatedTickers": [\n      "ATTT"\n    ]\n  },\n  {\n    "uuid": "fa694e44-11bd-3d44-a5a1-cab19b724869",\n    "title": "Raytech Holding Limited Announces Official Name Change to “Atlas Trinity Tech Limited” and New Ticker Symbol “ATTT” Effective September 10, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/raytech-holding-limited-announces-official-130500057.html",\n    "providerPublishTime": 1788959100,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/4ec7850359572c8f1f0d9ac56b2230ba.png",\n          "width": 512,\n          "height": 179,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/4F9D91C6320BDA555C13338D3C0FEFA7FC8439177043E546BCD240F53B301D6B/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F4ec7850359572c8f1f0d9ac56b2230ba.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "RAY"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-11-07 09:30:00-05:00,0.0625\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-24.52,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,12571951,2.14,10540,156114,334083.96,1.96,0.335,2.302,0.27777,0.12696,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48771,0.00695,14522,0.53,0.003,2.326087,,0.08814437,0.35319042,-0.357,-2.787,,,,,none,,,,,,,-2.404,https://www.raytech.com.hk,2026-11-12
+22.29,ATTT,Atlas Trinity Tech Limited,Consumer Defensive,Household & Personal Products,Hong Kong,11866981,2.02,11840,156409,315946.18,1.96,0.335,2.302,0.27777,0.12642,0.117019996,0.16163999,0.07249,78032888,14551432,11.232,2.357,2.039,-14511287,-15592857,5874743,4957578,0.48776,0.0063300002,13076,1.57,0.0027,2.195652,,0.08320169,0.33338532,-0.362,-2.826,,,,,none,,,,,,,-2.404,https://www.raytech.com.hk,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-05-15,80.80,96.64,64.32,67.68,,,,,,,0,64.3200,1,10064422,,,,
 2024-05-16,70.40,92.32,67.68,70.08,,,,,,,0,64.3200,1,4778125,,,,
@@ -646,3 +646,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.07,2.20,2.00,2.20,2.25,2.37,2.58,2.95,3.24,2.4627,0,2.3612,0,19800,620300,-0.1369,-0.1168,-0.0201
 2026-11-11,2.08,2.20,2.08,2.20,2.22,2.35,2.57,2.94,3.24,2.4627,0,2.2794,0,17380,620488,-0.1311,-0.1196,-0.0115
 2026-11-12,2.20,2.20,2.00,2.19,2.19,2.33,2.56,2.93,3.24,2.4627,0,2.2107,0,9194,620672,-0.1259,-0.1209,-0.0050
+2026-11-13,2.02,2.02,1.97,2.03,2.16,2.30,2.54,2.92,3.23,2.4627,0,2.2000,0,4492,620446,-0.1331,-0.1233,-0.0098

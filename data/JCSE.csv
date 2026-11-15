@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,LONG JIA KWANG,Chief Financial Officer,,Stock Award(Grant),2026-09-04,30000,2026-09-04\n1,YIN HONG BEE,Chief Executive Officer,,Stock Award(Grant),2026-09-04,324902,2026-09-04\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Two Sigma Investments, LP",0.032899998,57695,86548,1.0\n1,2026-06-30,"Renaissance Technologies, LLC",0.014400001,25230,37847,1.0\n2,2026-06-30,Xtx Topco Ltd,0.0058999998,10322,15484,1.0\n3,2026-06-30,Osaic Holdings Inc.,0.00029999999,541,811,1.4044\n4,2026-06-30,UBS Group AG,0.0,56,84,-0.7021\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Two Sigma Investments, LP",0.032899998,57695,92312,1.0\n1,2026-09-30,"Renaissance Technologies, LLC",0.007900001,13900,22240,-0.4491\n2,2026-06-30,Xtx Topco Ltd,0.0058999998,10322,16515,1.0\n3,2026-09-30,UBS Group AG,0.0004,618,988,10.0357\n4,2026-09-30,Osaic Holdings Inc.,0.00029999999,541,865,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,183,274,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2025-03-31,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0,183,292,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,271836,0,,Stock Award(Grant) at price 0.00 per share.,YIN HONG BEE,Chief Executive Officer,,2026-09-04,D\n1,30000,0,,Stock Award(Grant) at price 0.00 per share.,LONG JIA KWANG,Chief Financial Officer,,2026-09-04,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.16433\ninstitutionsPercentHeld,0.043449998\ninstitutionsFloatPercentHeld,0.051999997\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.16434\ninstitutionsPercentHeld,0.044549998\ninstitutionsFloatPercentHeld,0.05331\ninstitutionsCount,6.0\n
 news
 [\n  {\n    "uuid": "9316944b-5c02-39cd-a217-55c4665592b7",\n    "title": "JE Cleantech (JCSE) Reports Growth in H1 2026 Results Revenue Increased by 221% compared to H1 2025 Net Income and Earnings Per Share Return to Profitability",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/je-cleantech-jcse-reports-growth-123000655.html",\n    "providerPublishTime": 1792499400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/acc478746ee272890a8a2f841bad857a.png",\n          "width": 272,\n          "height": 80,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/7AEF6FE69DB3D8E96D1D25E1039ACAB2682B5201396EB4E213CB5F0B603315F6/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Facc478746ee272890a8a2f841bad857a.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "JCSE"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2023-10-16 09:30:00-04:00,0.3333333333333333\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-91.27,JCSE,JE Cleantech Holdings Limited,Industrials,Specialty Industrial Machinery,Singapore,7877953,1.5001,14040,17343,26016.2343,2.205,,,0.33756,0.1719,0.16663,0.33756,0.081750005,15090000,3513000,19.021,1.874,1.478,12236000,11942250,1751619,1387301,0.16433,0.043449998,2174,0.26,0.0011999999,1.7648236,,0.22758126,0.54384714,-0.107,-0.701,,,,,none,,,,,,,-0.351,https://www.jecleantech.sg,2026-11-12
+89.91,JCSE,JE Cleantech Holdings Limited,Industrials,Specialty Industrial Machinery,Singapore,8387550,1.6,10970,17009,27214.4,2.205,,,0.33756,0.13317999,0.16663,0.33756,0.081750005,15090000,3513000,19.021,1.874,1.478,12236000,11942250,1742219,1387301,0.16434,0.044549998,16251,1.4,0.0011999999,1.882353,,0.24230269,0.58006495,-0.092,-0.602,,,,,none,,,,,,,-0.351,https://www.jecleantech.sg,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2022-04-22,29.55,49.92,29.55,39.53,,,,,,,0,29.5463,1,22794300,,,,
 2022-04-25,36.83,43.03,36.83,38.72,,,,,,,0,29.5463,1,3511707,,,,
@@ -1159,3 +1159,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,1.50,1.50,1.46,1.50,1.56,1.56,1.52,1.36,1.31,1.3805,1,1.4587,1,9867,32163,0.0055,0.0196,-0.0142
 2026-11-11,1.54,1.60,1.50,1.60,1.55,1.56,1.52,1.37,1.31,1.3805,1,1.4600,1,6720,32142,0.0101,0.0177,-0.0077
 2026-11-12,1.60,1.60,1.57,1.60,1.54,1.57,1.52,1.37,1.31,1.3805,1,1.4600,1,6400,32107,0.0135,0.0169,-0.0033
+2026-11-13,1.60,1.61,1.60,1.53,1.53,1.57,1.52,1.37,1.31,1.3805,1,1.4736,1,3274,31652,0.0105,0.0156,-0.0051

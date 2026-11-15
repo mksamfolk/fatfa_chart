@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0023999999,14437,153869,0.0374\n1,2026-06-30,UBS Group AG,0.0007,4480,47747,0.384\n2,2026-06-30,Clear Street Group Inc.,0.0001,397,4231,-0.9976\n3,2026-06-30,Morgan Stanley,0.0,28,298,-0.1765\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Susquehanna International Group, LLP",0.0209,14437,153722,0.0374\n1,2026-06-30,Clear Street Group Inc.,0.00059999997,397,4227,-0.9976\n2,2026-06-30,Morgan Stanley,0.0,28,298,-0.1765\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-02-28,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,1044,11126,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-02-28,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0002,1044,11116,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.40074003\ninstitutionsPercentHeld,0.03475\ninstitutionsFloatPercentHeld,0.05799\ninstitutionsCount,5.0\n
+,Value\ninsidersPercentHeld,0.40074003\ninstitutionsPercentHeld,0.02823\ninstitutionsFloatPercentHeld,0.04711\ninstitutionsCount,3.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-51.48,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22021698,10.658,1000,4779,50934.581999999995,,,,0.0,0.0,0.0,,,1006248,0,,5.945,5.578,-372844,,691213,414214,0.40074003,0.03475,3964,2.73,0.0057,62.69412,,,24.671295,,,,,,,none,,,,,,,,,2026-11-12
+51.93,BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,22000624,10.6478,640,4632,49320.6096,,,,0.0,0.0,0.0,,,1006248,0,,5.945,5.578,-372844,,691213,414214,0.40074003,0.02823,59,0.05,0.0001,62.63412,,,24.647686,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-08-07,10.32,10.32,9.82,10.01,,,,,,,0,9.8200,1,1533767,,,,
 2025-08-08,10.00,10.01,10.00,10.01,,,,,,,0,9.8200,1,12012,,,,
@@ -334,3 +334,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.50,10.67,10.50,10.67,10.67,10.75,11.02,11.22,10.96,10.8048,0,10.9920,0,13871,64027,-0.1180,-0.1288,0.0109
 2026-11-11,10.50,10.66,10.50,10.66,10.66,10.73,11.01,11.22,10.96,10.8048,0,10.9330,0,4264,62868,-0.1126,-0.1256,0.0130
 2026-11-12,10.66,10.66,10.66,10.66,10.66,10.72,11.00,11.22,10.97,10.8048,0,10.8810,0,,62347,-0.1071,-0.1219,0.0147
+2026-11-13,10.64,10.69,10.45,10.47,10.64,10.70,10.98,11.22,10.97,10.8048,0,10.8353,0,37828,62469,-0.1168,-0.1209,0.0041

@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-""\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,BANC FUNDS CO LLC,0.019299999,200000,6822000,1.0\n1,2026-09-30,"Siena Capital Partners GP, LLC",0.0073,75000,2558250,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ Earnings Date,EPS Estimate,Reported EPS,Surprise(%)\n2027-02-25 08:00:00-05:00,,
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.24173\ninstitutionsPercentHeld,0.14425999\ninstitutionsFloatPercentHeld,0.19025\ninstitutionsCount,1.0\n
+,Value\ninsidersPercentHeld,0.24173\ninstitutionsPercentHeld,0.17086\ninstitutionsFloatPercentHeld,0.22532\ninstitutionsCount,3.0\n
 news
 [\n  {\n    "uuid": "641dda06-bbc9-3d5c-b827-beb2a4e000d8",\n    "title": "Georgia Banking Company, Inc. Announces Direct Listing of Common Stock on Nasdaq",\n    "publisher": "ACCESS Newswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/georgia-banking-company-inc-announces-201500504.html",\n    "providerPublishTime": 1793132100,\n    "type": "STORY",\n    "relatedTickers": [\n      "GBC"\n    ]\n  },\n  {\n    "uuid": "4b52b915-4df4-3f63-969b-07b32df3f56a",\n    "title": "GBC Introduces an Evolved Brand Built on an Enduring Purpose",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/technology/articles/gbc-introduces-evolved-brand-built-140800466.html",\n    "providerPublishTime": 1790604480,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/348e448fe25a2e412331eaee9dd22960.jpg",\n          "width": 400,\n          "height": 116,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/AA246591E529F253D9E06EFF8BE98D58F09EB10768C640A73F2D4B01FCBEA433/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F348e448fe25a2e412331eaee9dd22960.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  },\n  {\n    "uuid": "5d0d1d47-e34c-300a-9fd8-5ed5885a88a4",\n    "title": "Ministry of Food and Drug Safety of Korea, Successfully Concludes 'GBC 2026,' Marking a Great Leap in Bio",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/healthcare/articles/ministry-food-drug-safety-korea-120000900.html",\n    "providerPublishTime": 1788782400,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/8773ffe1e3a25e83e7a2744e9fe597ea.png",\n          "width": 16,\n          "height": 16,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/5AB3D83D11BE9ED9D7AA50E2FEF9CDE38FD09FE64D77CD62D68AF677B51FEEAE/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F8773ffe1e3a25e83e7a2744e9fe597ea.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GBC,Georgia Banking Company Inc.,Financial Services,Banks - Regional,United States,355919136,33.35,33657,33657,1122460.95,0.206,0.768,0.975,0.0,0.3748,0.24183,,,433327008,121092000,,,,44229000,,10340897,,0.24173,0.14425999,,,,11.953404,,3.004754,1.2300826,0.275,,,,,,none,,,,,,,,https://georgiabanking.com,2026-11-12
+0.00,GBC,Georgia Banking Company Inc.,Financial Services,Banks - Regional,United States,364030048,34.11,46330,42575,1452233.25,0.206,0.768,0.975,0.0,0.37672,0.24183,,,433327008,121092000,,,,44229000,,10340897,10340809,0.24173,0.17086,3190,0.13,,12.358696,,3.0732284,1.2581146,0.342,,,,,,none,,,,,,,,https://georgiabanking.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-10-29,60.00,60.00,35.50,38.28,,,,,,,0,35.5000,1,1006764,,,,
 2026-10-30,36.14,43.73,36.10,38.38,,,,,,,0,35.5000,1,817494,,,,
@@ -40,3 +40,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,33.15,33.92,33.15,33.83,,,,,,,0,54.1779,0,3159722,,,,
 2026-11-11,33.58,33.92,33.40,33.84,35.02,,,,,47.3490,0,52.9102,0,666648,,,,
 2026-11-12,33.48,34.75,33.45,34.75,34.66,,,,,46.8101,0,51.7186,0,698475,,,,
+2026-11-13,34.10,34.59,34.00,34.11,34.24,,,,,45.9591,0,50.5985,0,1697587,,,,

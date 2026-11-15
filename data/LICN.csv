@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,UBS Group AG,0.0083,135167,41225,808.3832\n1,2026-06-30,Virtu Financial LLC,0.002,31661,9656,1.0\n2,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,0,2.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,"Jane Street Group, LLC",0.0047999998,77856,2281,1.0\n1,2026-09-30,UBS Group AG,0.0028,46016,1348,-0.6596\n2,2026-06-30,Virtu Financial LLC,0.002,31661,927,1.0\n3,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,3,0,2.0\n4,2026-09-30,JPMORGAN CHASE & CO,0.0,14,0,1.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,9739,2970,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.00059999997,9739,285,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,8.9999994e-05\ninstitutionsPercentHeld,0.01089\ninstitutionsFloatPercentHeld,0.01089\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.0029300002\ninstitutionsPercentHeld,0.00735\ninstitutionsFloatPercentHeld,0.00738\ninstitutionsCount,5.0\n
 news
-[]\n
+[\n  {\n    "uuid": "84a45a8a-008f-3d87-a212-2ed2c3e4d7f9",\n    "title": "Univest Securities, LLC Announces Closing of $3.5 Million Registered Direct Offering for its Client Lichen International Limited (NASDAQ: LICN)",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/univest-securities-llc-announces-closing-224600281.html",\n    "providerPublishTime": 1794437160,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/4bafc739badf27a37cd7cc2aec0a60c1.jpg",\n          "width": 2047,\n          "height": 634,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/D81F0E9ABDEB4121F853CC9A59E802B402DD52305C4056F279243F946B660E55/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F4bafc739badf27a37cd7cc2aec0a60c1.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "LICN"\n    ]\n  },\n  {\n    "uuid": "767481f0-f8b4-36ff-9aa5-8c2f44a97b5c",\n    "title": "BC-Most Active Stocks",\n    "publisher": "Associated Press",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153019828.html",\n    "providerPublishTime": 1794411019,\n    "type": "STORY",\n    "relatedTickers": [\n      "CENN",\n      "RCT",\n      "SCKT",\n      "^IXIC",\n      "SHFS",\n      "CRWV",\n      "NCT",\n      "IREN",\n      "NVDA",\n      "INLF",\n      "AUUD",\n      "LICN",\n      "INTC"\n    ]\n  },\n  {\n    "uuid": "14206045-ab96-388e-9589-3dfd1842b7d3",\n    "title": "Lichen International Limited Announces Pricing of $3.5 Million Registered Direct Offering",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/lichen-international-limited-announces-pricing-130000915.html",\n    "providerPublishTime": 1794315600,\n    "type": "STORY",\n    "relatedTickers": [\n      "LICN"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.11,LICN,Lichen International Limited,Industrials,Specialty Business Services,China,4979681,0.305,45310,25360,7734.8,-0.28,,,0.31327,-0.84976995,-1.1770301,-0.38606998,-0.16869,19600000,621000,1.02,5.809,5.08,-21803000,-4674625,16216825,16215313,8.9999994e-05,0.01089,140743,7.44,0.0087,0.011034733,,0.24265087,0.08179136,-0.682,0.848,,,,,none,,,,,,,-0.837,https://www.lichenzx.com,2026-11-12
+0.09,LICN,Lichen International Limited,Industrials,Specialty Business Services,China,991125,0.0293,31705470,4971070,145652.351,-0.28,,,0.31327,-0.87131,-1.1770301,-0.38606998,-0.16869,19600000,621000,1.02,5.809,5.08,-21803000,-4674625,33716825,16215313,0.0029300002,0.00735,101080,4.05,0.0062,0.0010600579,,0.048295733,0.007857335,-0.902,1.12,,,,,none,,,,,,,-0.837,https://www.lichenzx.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2023-02-06,3.90,4.25,3.08,3.50,,,,,,,0,4.2500,0,16550450,,,,
 2023-02-07,3.22,3.55,2.82,3.45,,,,,,,0,4.2500,0,2350830,,,,
@@ -960,4 +960,5 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-09,0.29,0.38,0.29,0.31,0.63,0.77,1.01,2.42,2.57,0.7051,0,0.8798,0,248697,32462,-0.1526,-0.1172,-0.0354
 2026-11-10,0.05,0.05,0.04,0.04,0.55,0.72,0.99,2.40,2.56,0.4579,0,0.8094,0,3321751,97304,-0.1887,-0.1315,-0.0573
 2026-11-11,0.04,0.05,0.04,0.04,0.47,0.68,0.96,2.38,2.54,0.4132,0,0.7018,0,5303256,200637,-0.2150,-0.1482,-0.0668
-2026-11-12,0.04,0.04,0.03,0.04,0.40,0.64,0.93,2.36,2.53,0.3734,0,0.5955,0,1931608,237891,-0.2336,-0.1653,-0.0683
+2026-11-12,0.04,0.04,0.03,0.04,0.40,0.64,0.93,2.36,2.53,0.3734,0,0.5955,0,2387798,247015,-0.2336,-0.1653,-0.0683
+2026-11-13,0.03,0.03,0.03,0.03,0.34,0.59,0.91,2.34,2.51,0.3357,0,0.4942,0,1034497,267151,-0.2460,-0.1814,-0.0646

@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0731,1729896,17662238,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0592,1400000,14294000,0.0\n2,2026-06-30,Glazer Capital LLC,0.0466,1101518,11246498,0.0014\n3,2026-06-30,AQR Arbitrage LLC,0.045500003,1075984,10985796,0.0171\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0423,1000000,10210000,0.0\n5,2026-09-30,Picton Mahoney Asset Management,0.0378,894080,9128556,0.0\n6,2026-06-30,Millennium Management Llc,0.0317,750000,7657500,0.0\n7,2026-09-30,Alberta Investment Management Corp,0.0296,700000,7147000,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0292,689842,7043286,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0254,600000,6126000,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Linden Advisors LP,0.0731,1729896,17679537,0.0\n1,2026-06-30,Magnetar Financial LLC,0.0592,1400000,14308000,0.0\n2,2026-06-30,Glazer Capital LLC,0.0466,1101518,11257514,0.0014\n3,2026-06-30,AQR Arbitrage LLC,0.045500003,1075984,10996556,0.0171\n4,2026-06-30,"Tenor Capital Management Co., L.p.",0.0423,1000000,10220000,0.0\n5,2026-09-30,Picton Mahoney Asset Management,0.0378,894080,9137497,0.0\n6,2026-06-30,Millennium Management Llc,0.0317,750000,7665000,0.0\n7,2026-09-30,Alberta Investment Management Corp,0.0296,700000,7154000,0.0\n8,2026-06-30,"Shaw D.E. & Co., Inc.",0.0292,689842,7050185,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.0254,600000,6132000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,100000,1021000,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0042,100000,1021000,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,15923,162573,0.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,9124,93156,-0.040799998\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,RIVERNORTH OPPORTUNITIES FUND INC.-Rivernorth Opportunities Fund Inc,0.0042,100000,1022000,0.0\n1,2026-06-30,First Trust Alternative Opportunities Fund,0.0042,100000,1022000,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0007,15923,162733,0.0\n3,2026-06-30,Elevation Series Trust-RiverNorth Enhanced Pre-Merger SPAC ETF,0.0004,9124,93247,-0.040799998\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00085\ninstitutionsPercentHeld,0.87635005\ninstitutionsFloatPercentHeld,0.87709\ninstitutionsCount,59.0\n
+,Value\ninsidersPercentHeld,0.054759998\ninstitutionsPercentHeld,0.884\ninstitutionsFloatPercentHeld,0.93521005\ninstitutionsCount,58.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,RNGT,Range Capital Acquisition Corp II,Financial Services,Shell Companies,United States,319845280,10.21,18590,45567,465239.07000000007,,,,0.0,0.0,0.0,,,816510,15065,,14.113,13.114,-395108,,23660000,21500118,0.00085,0.87635005,2284,0.06,0.0001,,,,-44.199135,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-12
+0.00,RNGT,Range Capital Acquisition Corp II,Financial Services,Shell Companies,United States,320158560,10.22,15970,46684,477110.48000000004,,,,0.0,0.0,0.0,,,816510,15065,,14.113,13.114,-395108,,23660000,21500118,0.054759998,0.884,586,0.01,0.0,,,,-46.666668,,,,,,,none,,,,,,,,https://rangecapspac.com,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-11-24,10.00,10.03,9.90,10.00,,,,,,,0,9.8980,1,2097000,,,,
 2025-11-25,10.00,10.02,10.00,10.02,,,,,,,0,9.8980,1,39078,,,,

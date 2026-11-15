@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ,Name,Position,URL,Most Recent Transaction,Latest Transaction Date,Shares Owned Directly,Position Direct Date\n0,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,Sale,2025-02-11,550387,2025-02-11\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.2138,677008,8144406,-0.0044\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1608940,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1002544,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,927813,0.0\n4,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,2923,1.1696\n5,2026-06-30,UBS Group AG,0.0,59,709,3.2143\n6,2026-06-30,Morgan Stanley,0.0,43,517,-0.14\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,First Trust Capital Management L.P.,0.2138,677008,8388129,-0.0044\n1,2026-06-30,Glazer Capital LLC,0.0422,133744,1657088,0.0\n2,2026-06-30,Clear Street Group Inc.,0.026300002,83337,1032545,0.0\n3,2026-06-30,"Karpus Management, Inc.",0.024400001,77125,955578,0.0\n4,2026-09-30,UBS Group AG,0.00029999999,907,11237,14.3729\n5,2026-09-30,"SBI Securities Co., Ltd.",0.0001,243,3010,1.1696\n6,2026-06-30,Morgan Stanley,0.0,43,532,-0.14\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,69846,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0018000001,5806,71936,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ,Shares,Value,URL,Text,Insider,Position,Transaction,Start Date,Ownership\n0,150000,1629000,,Sale at price 10.86 per share.,"MIZUHO SECURITIES USA, LLC.",Beneficial Owner of more than 10% of a Class of Security,,2025-02-11,D\n
 major_holders
-,Value\ninsidersPercentHeld,0.64965\ninstitutionsPercentHeld,0.31932\ninstitutionsFloatPercentHeld,0.91143\ninstitutionsCount,8.0\n
+,Value\ninsidersPercentHeld,0.64965\ninstitutionsPercentHeld,0.29522\ninstitutionsFloatPercentHeld,0.84263\ninstitutionsCount,6.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-23.86,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,38090972,12.03,2540,15328,184395.84,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.31932,2243,0.96,0.002,171.85713,,,-8.495763,,,,,,,none,,,,,,,0.969,,2026-11-12
+19.34,AFJK,Aimei Health Technology Co. Ltd,Financial Services,Shell Companies,United States,39230856,12.39,3870,12145,150476.55000000002,,,,0.0,0.0,0.0,,-0.01391,1466,3325368,,0.011,0.0,-370854,-892171,3166332,1109324,0.64965,0.29522,1641,1.26,0.0015,177.0,,,-8.75,,,,,,,none,,,,,,,0.969,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-01-22,10.15,10.16,10.15,10.15,,,,,,,0,10.1500,1,3929065,,,,
 2024-01-23,10.16,10.17,10.15,10.16,,,,,,,0,10.1500,1,7379208,,,,
@@ -721,3 +721,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,12.29,12.75,12.29,12.40,12.22,12.21,12.21,25.04,30.25,12.0052,1,12.7746,0,132680,195195,-0.0716,-0.1119,0.0402
 2026-11-11,12.21,12.21,12.21,12.21,12.24,12.20,12.21,24.93,29.95,12.0052,1,12.7595,0,6105,175069,-0.0665,-0.1028,0.0363
 2026-11-12,12.21,12.41,12.08,12.41,12.23,12.19,12.22,24.84,29.63,12.0052,1,12.7500,0,24820,173861,-0.0457,-0.0914,0.0457
+2026-11-13,12.64,12.64,12.35,12.21,12.23,12.19,12.22,24.74,29.30,12.0052,1,12.7354,0,23346,174328,-0.0449,-0.0821,0.0372

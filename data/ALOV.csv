@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0583,1750000,17552499,0.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1200000,12035999,0.0\n2,2026-06-30,Linden Advisors LP,0.04,1200000,12035999,0.0\n3,2026-06-30,"MMCAP International, Inc. SPC",0.04,1200000,12035999,1.0\n4,2026-06-30,Magnetar Financial LLC,0.04,1200000,12035999,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0356,1068535,10717405,1.0\n6,2026-06-30,Alberta Investment Management Corp,0.033299997,1000000,10029999,0.0\n7,2026-06-30,Polar Asset Management Partners Inc.,0.033299997,1000000,10029999,1.0\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,1000000,10029999,0.0\n9,2026-06-30,Hudson Bay Capital Management Lp,0.033299997,999999,10029989,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0583,1750000,17552499,0.0\n1,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.04,1200000,12035999,0.0\n2,2026-06-30,Linden Advisors LP,0.04,1200000,12035999,0.0\n3,2026-06-30,Magnetar Financial LLC,0.04,1200000,12035999,0.0\n4,2026-09-30,"MMCAP International, Inc. SPC",0.04,1200000,12035999,0.0\n5,2026-06-30,AQR Arbitrage LLC,0.0356,1068535,10717405,1.0\n6,2026-06-30,Polar Asset Management Partners Inc.,0.033299997,1000000,10029999,1.0\n7,2026-06-30,"Tenor Capital Management Co., L.p.",0.033299997,1000000,10029999,0.0\n8,2026-06-30,Hudson Bay Capital Management Lp,0.033299997,999999,10029989,0.0\n9,2026-09-30,Alberta Investment Management Corp,0.033299997,1000000,10029999,0.0\n
 mutualfund_holders
 ,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Special Opportunities Fund, Inc.",0.0033000002,99999,1002989,1.0\n1,2026-08-31,High Income Securities Fund,0.0025,75000,752249,1.0\n2,2026-06-30,Listed Funds Trust-Horizon Kinetics SPAC Active ETF,0.0013,39999,401189,1.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0001,1693,16980,0.0\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00133\ninstitutionsPercentHeld,0.77038\ninstitutionsFloatPercentHeld,0.77141\ninstitutionsCount,50.0\n
+,Value\ninsidersPercentHeld,0.00133\ninstitutionsPercentHeld,0.76603997\ninstitutionsFloatPercentHeld,0.76706004\ninstitutionsCount,49.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,376313088,10.03,86320,54420,545832.6,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.00133,0.77038,2672,0.07,0.0001,,,,-31.640377,,,,,,,none,,,,,,,,https://aldabra4.com,2026-11-12
+0.00,ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc.,Financial Services,Shell Companies,United States,376313088,10.03,84600,62675,628630.25,,,,0.0,0.0,0.0,,,891230,0,,0.07,0.07,-33711,,30015000,30015000,0.00133,0.76603997,754,0.02,0.0,,,,-31.640377,,,,,,,none,,,,,,,,https://aldabra4.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-03-16,9.90,9.90,9.82,9.82,,,,,,,0,9.9000,0,23568,,,,
 2026-03-17,9.82,9.82,9.82,9.82,,,,,,,0,9.9000,0,,,,,
@@ -183,3 +183,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.03,10.04,10.03,10.03,10.01,10.01,10.00,9.94,,10.0075,1,9.9908,1,710124,556231,0.0066,0.0045,0.0021
 2026-11-11,10.03,10.03,10.03,10.03,10.02,10.01,10.00,9.94,,10.0075,1,9.9928,1,,556231,0.0073,0.0051,0.0022
 2026-11-12,10.03,10.03,10.03,10.03,10.02,10.01,10.00,9.94,,10.0077,1,9.9947,1,,556231,0.0078,0.0056,0.0022
+2026-11-13,10.06,10.06,10.02,10.03,10.02,10.01,10.00,9.94,,10.0080,1,9.9965,1,4582536,647344,0.0081,0.0061,0.0020

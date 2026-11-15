@@ -7,27 +7,27 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18413999,0.0\n1,2026-06-30,Glazer Capital LLC,0.0517,1223410,12515483,0.0533\n2,2026-06-30,Alberta Investment Management Corp,0.0507,1200000,12275999,0.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.048600003,1150000,11764499,0.0\n4,2026-06-30,Picton Mahoney Asset Management,0.0429,1015000,10383449,0.015\n5,2026-06-30,Magnetar Financial LLC,0.039,921640,9428376,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0373,883323,9036393,0.0171\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0354,837673,8569394,0.0462\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.033800002,800000,8183999,0.0\n9,2026-06-30,Millennium Management Llc,0.033800002,800000,8183999,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Adage Capital Partners GP L.L.C.,0.0761,1800000,18234000,0.0\n1,2026-06-30,Glazer Capital LLC,0.0517,1223410,12393143,0.0533\n2,2026-09-30,Alberta Investment Management Corp,0.0507,1200000,12156000,0.0\n3,2026-06-30,Healthcare of Ontario Pension Plan Trust Fund,0.048600003,1150000,11649500,0.0\n4,2026-09-30,Picton Mahoney Asset Management,0.0429,1015000,10281950,0.0\n5,2026-06-30,Magnetar Financial LLC,0.039,921640,9336213,0.0\n6,2026-06-30,AQR Arbitrage LLC,0.0373,883323,8948062,0.0171\n7,2026-06-30,"Shaw D.E. & Co., Inc.",0.0354,837673,8485627,0.0462\n8,2026-06-30,"Tenor Capital Management Co., L.p.",0.033800002,800000,8104000,0.0\n9,2026-06-30,Millennium Management Llc,0.033800002,800000,8104000,0.0\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0042,100000,1022999,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,10975,112274,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,9862,100888,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,TRT for Professional Managers-CrossingBridge Low Duration High Income ,0.0042,100000,1013000,0.0\n1,2026-08-31,"Principal Funds, Inc-Global Multi-Strategy Fund",0.0005,10975,111176,1.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0004,9862,99902,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31\nFree Cash Flow,-79228.0,-144404.0\nEnd Cash Position,937889.0,1017117.0\nBeginning Cash Position,1017117.0,1163614.0\nChanges In Cash,-79228.0,-146497.0\nFinancing Cash Flow,0.0,-2093.0\nCash Flow From Continuing Financing Activities,0.0,-2093.0\nNet Other Financing Charges,0.0,-2093.0\nOperating Cash Flow,-79228.0,-144404.0\nCash Flow From Continuing Operating Activities,-79228.0,-144404.0\nChange In Working Capital,157195.0,136268.0\nChange In Payables And Accrued Expense,105541.0,126279.0\nChange In Accrued Expense,39284.0,62547.0\nChange In Payable,66257.0,63732.0\nChange In Account Payable,-8743.0,-11268.0\nChange In Prepaid Assets,51654.0,9989.0\nOther Non Cash Items,-1925295.0,-1962225.0\nNet Income From Continuing Operations,1688872.0,1681553.0\n
+,2026-09-30,2026-06-30,2026-03-31\nFree Cash Flow,-59668.0,-79228.0,-144404.0\nEnd Cash Position,878221.0,937889.0,1017117.0\nBeginning Cash Position,937889.0,1017117.0,1163614.0\nChanges In Cash,-59668.0,-79228.0,-146497.0\nFinancing Cash Flow,0.0,0.0,-2093.0\nCash Flow From Continuing Financing Activities,0.0,0.0,-2093.0\nNet Other Financing Charges,0.0,0.0,-2093.0\nOperating Cash Flow,-59668.0,-79228.0,-144404.0\nCash Flow From Continuing Operating Activities,-59668.0,-79228.0,-144404.0\nChange In Working Capital,104623.0,157195.0,136268.0\nChange In Payables And Accrued Expense,73803.0,105541.0,126279.0\nChange In Accrued Expense,8695.0,39284.0,62547.0\nChange In Payable,65108.0,66257.0,63732.0\nChange In Account Payable,-9892.0,-8743.0,-11268.0\nChange In Prepaid Assets,30820.0,51654.0,9989.0\nOther Non Cash Items,-2222460.0,-1925295.0,-1962225.0\nNet Income From Continuing Operations,2058169.0,1688872.0,1681553.0\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00169\ninstitutionsPercentHeld,0.86885\ninstitutionsFloatPercentHeld,0.87031996\ninstitutionsCount,54.0\n
+,Value\ninsidersPercentHeld,0.00169\ninstitutionsPercentHeld,0.84926003\ninstitutionsFloatPercentHeld,0.85069\ninstitutionsCount,52.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,GPAC,General Purpose Acquisition Corp.,Financial Services,Shell Companies,United States,300864288,10.23,58610,29329,300035.67,,,,0.0,0.0,0.0,,,878221,0,,6.069,5.488,-846034,,23660000,19967331,0.00169,0.86885,5436,0.18,0.00029999999,,,,-35.27586,,,,,,,none,,,,,,,,https://www.generalacquisition.com,2026-11-12
+0.00,GPAC,General Purpose Acquisition Corp.,Financial Services,Shell Companies,United States,297923296,10.13,42750,29659,300445.67000000004,,,,0.0,0.0,0.0,,,878221,0,,6.069,5.488,-846034,,23660000,21429891,0.00169,0.84926003,39238,1.09,0.0021,,,,-34.222973,,,,,,,none,,,,,,,,https://www.generalacquisition.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-01-23,9.95,10.00,9.87,9.89,,,,,,,0,10.0000,0,235263,,,,
 2026-01-26,9.87,9.90,9.86,9.90,,,,,,,0,10.0000,0,395010,,,,
@@ -218,3 +218,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.15,10.15,10.13,10.14,10.13,10.12,10.08,10.01,,10.1156,1,10.1200,1,173394,277662,0.0200,0.0157,0.0043
 2026-11-11,10.19,10.19,10.12,10.12,10.13,10.12,10.09,10.01,,10.1156,1,10.2300,0,9108,277844,0.0174,0.0160,0.0014
 2026-11-12,10.12,10.12,10.12,10.12,10.13,10.12,10.09,10.01,,10.1156,1,10.2278,0,,277844,0.0152,0.0159,-0.0006
+2026-11-13,10.20,10.20,10.20,10.13,10.13,10.12,10.09,10.01,,10.1156,1,10.2256,0,6483,277973,0.0141,0.0155,-0.0014

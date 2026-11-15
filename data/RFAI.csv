@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.4611,1619533,51825056,-0.0128999995\n1,2026-06-30,Berkley W R Corp,0.23200001,814851,26075232,0.063200004\n2,2026-09-30,First Trust Capital Management L.P.,0.050300002,176704,5654528,-0.65660006\n3,2026-06-30,AQR Arbitrage LLC,0.048499998,170479,5455328,0.0082\n4,2026-06-30,Polar Asset Management Partners Inc.,0.014199999,50000,1600000,0.0\n5,2026-06-30,Glazer Capital LLC,0.0114,39988,1279616,-0.5856\n6,2026-06-30,Kepos Capital Lp,0.0083,29057,929824,0.0\n7,2026-06-30,Clear Street Group Inc.,0.0049,17384,556288,0.2551\n8,2026-06-30,Goldman Sachs Group Inc,0.0046,16214,518848,0.0\n9,2026-06-30,Morgan Stanley,0.0002,669,21408,7.6883\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.4611,1619533,55606664,-0.0128999995\n1,2026-06-30,Berkley W R Corp,0.23200001,814851,27977908,0.063200004\n2,2026-09-30,First Trust Capital Management L.P.,0.050300002,176704,6067131,-0.65660006\n3,2026-06-30,AQR Arbitrage LLC,0.048499998,170479,5853396,0.0082\n4,2026-06-30,Polar Asset Management Partners Inc.,0.014199999,50000,1716749,0.0\n5,2026-06-30,Glazer Capital LLC,0.0114,39988,1372987,-0.5856\n6,2026-06-30,Kepos Capital Lp,0.0083,29057,997672,0.0\n7,2026-06-30,Clear Street Group Inc.,0.0049,17384,596879,0.2551\n8,2026-06-30,Goldman Sachs Group Inc,0.0046,16214,556707,0.0\n9,2026-06-30,Morgan Stanley,0.0002,669,22970,7.6883\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.1337,469553,15025696,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0119,41885,1340320,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0014,5006,160192,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Merger Arbitrage Fund,0.1337,469553,16122101,0.0\n1,2026-06-30,INVESTMENT MANAGERS SERIES TRUST II-First Trust Multi-Strategy Fund,0.0119,41885,1438121,0.0\n2,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0014,5006,171881,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.34457\ninstitutionsPercentHeld,0.38814998\ninstitutionsFloatPercentHeld,0.59220004\ninstitutionsCount,16.0\n
+,Value\ninsidersPercentHeld,0.34457\ninstitutionsPercentHeld,0.34412998\ninstitutionsFloatPercentHeld,0.52505\ninstitutionsCount,17.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-98.28,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,267000480,32.0,5750,76031,2432992.0,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.38814998,3945,0.31,0.0016,266.6667,,,-50.31447,,,,,,,none,,,,,,,1.491,,2026-11-12
+98.21,RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,Singapore,286483168,34.335,5320,76089,2612515.815,,-0.825,-0.903,0.0,0.0,0.0,,-0.01121,10191,25000,,0.057,0.007,-521515,88924,8343765,4831290,0.34457,0.34412998,5391,0.46,0.0022,286.125,,,-62.42727,,,,,,,none,,,,,,,1.491,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-07-05,10.00,10.08,10.00,10.04,,,,,,,0,10.0000,1,11805032,,,,
 2024-07-08,10.03,10.04,10.03,10.04,,,,,,,0,10.0000,1,5622400,,,,
@@ -607,3 +607,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,32.50,34.70,31.91,33.49,31.10,31.63,32.90,18.29,16.42,45.6569,0,51.5202,0,164101,4788398,-0.3043,-0.3903,0.0860
 2026-11-11,33.01,40.00,33.01,38.00,31.73,32.02,33.44,18.47,16.56,45.6569,0,51.0687,0,216600,4792375,0.2051,-0.2712,0.4763
 2026-11-12,34.30,36.80,33.50,34.35,32.11,32.04,33.91,18.63,16.68,45.6569,0,50.6263,0,195823,4794077,0.3111,-0.1547,0.4658
+2026-11-13,34.33,34.33,34.33,34.67,32.58,32.24,34.38,18.79,16.80,45.6569,0,50.1928,0,138229,4796199,0.4157,-0.0407,0.4563

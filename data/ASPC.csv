@@ -7,27 +7,27 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Fifth Lane Capital, LP",0.0087,20368,208772,1.0\n1,2026-06-30,Clear Street Group Inc.,0.0047999998,11274,115558,-0.3803\n2,2026-06-30,UBS Group AG,0.0001,275,2818,-0.13520001\n3,2026-06-30,Morgan Stanley,0.0,36,369,-0.027\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Fifth Lane Capital, LP",0.0087,20368,208792,1.0\n1,2026-06-30,Clear Street Group Inc.,0.0047999998,11274,115569,-0.3803\n2,2026-06-30,Morgan Stanley,0.0,36,369,-0.027\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0042,9845,100911,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0042,9845,100921,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
 ""\n
 cashflow
-,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30,2025-03-31\nFree Cash Flow,-36604.0,-201022.0,-191282.0,-5877.0,-51101.0,\nRepayment Of Debt,0.0,0.0,0.0,0.0,0.0,\nIssuance Of Debt,,,0.0,,,\nEnd Cash Position,633724.0,670328.0,871350.0,1062632.0,1068509.0,\nBeginning Cash Position,670328.0,871350.0,1062632.0,1068509.0,1119610.0,\nChanges In Cash,-36604.0,-201022.0,-191282.0,-5877.0,-51101.0,\nFinancing Cash Flow,0.0,0.0,-59502058.0,0.0,0.0,\nCash Flow From Continuing Financing Activities,0.0,0.0,-59502058.0,0.0,0.0,\nNet Issuance Payments Of Debt,0.0,0.0,0.0,0.0,0.0,\nNet Short Term Debt Issuance,0.0,0.0,0.0,0.0,0.0,\nShort Term Debt Payments,0.0,0.0,0.0,0.0,0.0,\nShort Term Debt Issuance,,,0.0,,,\nInvesting Cash Flow,0.0,0.0,,,0.0,0.0\nOperating Cash Flow,-36604.0,-201022.0,-191282.0,-5877.0,-51101.0,\nCash Flow From Continuing Operating Activities,-36604.0,-201022.0,-191282.0,-5877.0,-51101.0,\nChange In Working Capital,5223.0,-60832.0,-48397.0,157595.0,204811.0,\nChange In Other Working Capital,,,,,,-632037.0\nChange In Payables And Accrued Expense,-38105.0,62714.0,6390.0,104529.0,146331.0,\nChange In Payable,,62714.0,6390.0,104529.0,146331.0,37592.0\nChange In Account Payable,,62714.0,6390.0,104529.0,146331.0,37592.0\nChange In Prepaid Assets,43328.0,-38546.0,-54787.0,53066.0,58480.0,\nChange In Receivables,0.0,-85000.0,0.0,0.0,0.0,\nOther Non Cash Items,-26609.0,-26202.0,-213323.0,-643824.0,-635851.0,\nNet Income From Continuing Operations,-15218.0,-113988.0,70438.0,480352.0,379939.0,\n
+,2026-09-30,2026-06-30,2026-03-31,2025-12-31,2025-09-30,2025-06-30,2025-03-31\nFree Cash Flow,53148.0,-36604.0,-201022.0,-191282.0,-5877.0,,\nRepayment Of Debt,0.0,0.0,0.0,0.0,0.0,,\nIssuance Of Debt,,,,0.0,,,\nEnd Cash Position,686872.0,633724.0,670328.0,871350.0,1062632.0,,\nBeginning Cash Position,633724.0,670328.0,871350.0,1062632.0,1068509.0,,\nChanges In Cash,53148.0,-36604.0,-201022.0,-191282.0,-5877.0,,\nFinancing Cash Flow,0.0,0.0,0.0,-59502058.0,0.0,,\nCash Flow From Continuing Financing Activities,0.0,0.0,0.0,-59502058.0,0.0,,\nNet Issuance Payments Of Debt,0.0,0.0,0.0,0.0,0.0,,\nNet Short Term Debt Issuance,0.0,0.0,0.0,0.0,0.0,,\nShort Term Debt Payments,0.0,0.0,0.0,0.0,0.0,,\nShort Term Debt Issuance,,,,0.0,,,\nInvesting Cash Flow,0.0,0.0,0.0,,0.0,0.0,\nOperating Cash Flow,53148.0,-36604.0,-201022.0,-191282.0,-5877.0,,\nCash Flow From Continuing Operating Activities,53148.0,-36604.0,-201022.0,-191282.0,-5877.0,,\nChange In Working Capital,145706.0,5223.0,-60832.0,-48397.0,157595.0,,\nChange In Other Working Capital,,,,,,,-632037.0\nChange In Payables And Accrued Expense,17516.0,-38105.0,62714.0,6390.0,104529.0,,\nChange In Payable,,,62714.0,6390.0,104529.0,146331.0,37592.0\nChange In Account Payable,,,62714.0,6390.0,104529.0,146331.0,37592.0\nChange In Prepaid Assets,43190.0,43328.0,-38546.0,-54787.0,53066.0,,\nChange In Receivables,85000.0,0.0,-85000.0,0.0,0.0,,\nOther Non Cash Items,-27711.0,-26609.0,-26202.0,-213323.0,-643824.0,,\nNet Income From Continuing Operations,-64847.0,-15218.0,-113988.0,70438.0,480352.0,,\n
 earnings_dates
 ""\n
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.76364\ninstitutionsPercentHeld,0.13467\ninstitutionsFloatPercentHeld,0.56977004\ninstitutionsCount,7.0\n
+,Value\ninsidersPercentHeld,0.76629996\ninstitutionsPercentHeld,0.135\ninstitutionsFloatPercentHeld,0.57767\ninstitutionsCount,5.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-39.72,ASPC,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,23960206,10.25,5480,21906,224536.5,,,,0.0,0.0,0.0,-0.00374,-0.00828,686872,0,,1.251,1.188,-375760,-236199,2337481,559496,0.76364,0.13467,11532,3.24,0.040799998,256.25,,,7.4762945,,,,,,,none,,,,,,,,,2026-11-12
+40.11,ASPC,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,Hong Kong,23879582,10.251,4530,21968,225193.968,,,,0.0,0.0,0.0,-0.00374,-0.00828,686872,0,,1.251,1.188,-375760,-236199,2329388,559496,0.76629996,0.135,12872,3.0,0.0456,,,,7.477024,,,,,,,none,,,,,,,,,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-01-03,9.95,9.98,9.95,9.95,,,,,,,0,9.9500,1,2064625,,,,
 2025-01-06,9.96,9.97,9.96,9.97,,,,,,,0,9.9500,1,4619101,,,,

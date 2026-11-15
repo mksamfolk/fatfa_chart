@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0068,90354,71397,1.0\n1,2026-06-30,"Jane Street Group, LLC",0.0031,40979,32381,1.0\n2,2026-06-30,Xtx Topco Ltd,0.001,12901,10194,-0.2345\n3,2026-06-30,Morgan Stanley,0.0,251,198,0.0\n4,2026-06-30,UBS Group AG,0.0,222,175,-0.65089995\n5,2026-06-30,BNP Paribas Financial Markets,0.0,58,45,0.0\n6,2026-06-30,Royal Bank of Canada,0.0,218,172,0.0\n7,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,1,-0.75\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,HRT Financial LP,0.0068,90354,60871,1.0\n1,2026-09-30,"Jane Street Group, LLC",0.0014,18370,12375,-0.5517\n2,2026-06-30,Xtx Topco Ltd,0.001,12901,8691,-0.2345\n3,2026-09-30,UBS Group AG,0.0004,5790,3900,25.0811\n4,2026-06-30,Morgan Stanley,0.0,251,169,0.0\n5,2026-06-30,Royal Bank of Canada,0.0,218,146,0.0\n6,2026-09-30,"Caitong International Asset Management Co., Ltd",0.0,2,1,-0.75\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,John Hancock Variable Insurance Trust-Total Stock Market Index Trust,0.0,240,189,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-03-31,John Hancock Variable Insurance Trust-Total Stock Market Index Trust,0.0,240,161,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0054\ninstitutionsPercentHeld,0.058319997\ninstitutionsFloatPercentHeld,0.05864\ninstitutionsCount,9.0\n
+,Value\ninsidersPercentHeld,0.0075700004\ninstitutionsPercentHeld,0.025\ninstitutionsFloatPercentHeld,0.025190001\ninstitutionsCount,7.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-7.44,EPSM,Epsium Enterprise Limited,Consumer Defensive,Beverages - Wineries & Distilleries,China,10606881,0.7902,21090,260921,206179.7742,-0.616,,,0.1236,-0.38758,-0.29261,-0.15201999,-0.07816,2023568,195991,1.707,7.35,1.253,-2379183,-2375105,2649034,2634673,0.0054,0.058319997,29063,0.04,0.011,,,2.072436,0.9242105,1.715,-5.949,,,,,none,,,,,,,,https://www.epsium.co,2026-11-12
+7.90,EPSM,Epsium Enterprise Limited,Consumer Defensive,Beverages - Wineries & Distilleries,China,9043098,0.6737,41340,265131,178618.7547,-0.616,,,0.1236,-0.2923,-0.29261,-0.15201999,-0.07816,2023568,195991,1.707,7.35,1.253,-2379183,-2375105,2649034,2634673,0.0075700004,0.025,14645,0.34,0.0056,,,1.7668947,0.7879532,1.41,-4.889,,,,,none,,,,,,,,https://www.epsium.co,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2025-03-26,4.48,5.38,4.23,4.82,,,,,,,0,4.2300,1,4474406,,,,
 2025-03-27,5.18,6.15,5.02,5.38,,,,,,,0,4.2300,1,2448438,,,,
@@ -426,3 +426,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,0.81,0.81,0.71,0.73,0.83,0.90,1.20,1.32,1.45,1.0609,0,0.9300,0,19947,37458,-0.1171,-0.1191,0.0020
 2026-11-11,0.80,0.81,0.64,0.69,0.81,0.88,1.18,1.31,1.45,1.0474,0,0.9124,0,14076,37203,-0.1209,-0.1194,-0.0014
 2026-11-12,0.69,0.69,0.65,0.67,0.79,0.86,1.16,1.31,1.44,0.9703,0,0.8852,0,11827,36908,-0.1239,-0.1203,-0.0035
+2026-11-13,0.72,0.82,0.65,0.67,0.78,0.84,1.15,1.30,1.43,0.9703,0,0.8606,0,47742,37493,-0.1247,-0.1212,-0.0035

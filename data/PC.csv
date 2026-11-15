@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0061000003,12722,119586,0.0\n1,2026-06-30,UBS Group AG,0.0025,5191,48795,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Jane Street Group, LLC",0.0061000003,12722,119586,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.00563\ninstitutionsPercentHeld,0.008640001\ninstitutionsFloatPercentHeld,0.0086900005\ninstitutionsCount,2.0\n
+,Value\ninsidersPercentHeld,0.00563\ninstitutionsPercentHeld,0.0\ninstitutionsFloatPercentHeld,0.0\ninstitutionsCount,0.0\n
 news
 [\n  {\n    "uuid": "0214079e-44cb-303f-8e89-0e21ab61bcd0",\n    "title": "Premium Catering (Holdings) Limited Receives NASDAQ Notice Related to Late Filing of Its Interim Report",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/premium-catering-holdings-limited-receives-071500704.html",\n    "providerPublishTime": 1788938100,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/f315517c5639434966836aacbd887052.png",\n          "width": 282,\n          "height": 108,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/064F93310DBD304D44E3AC6D3E2232692999002E7E4B2349E372D4D385BDF2A5/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Ff315517c5639434966836aacbd887052.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": [\n      "PC"\n    ]\n  }\n]\n
 splits
 Date,Stock Splits\n2025-07-22 09:30:00-04:00,0.1111111111111111\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-54.26,PC,Premium Catering (Holdings) Limited,Industrials,Specialty Business Services,Singapore,274480000,9.4,0,0,0.0,-0.079,,,0.2227,-0.23083,-1.08346,-0.57773995,-0.28469,10126525,741461,7.567,9.633,9.574,,,18652750,888945,0.00563,0.008640001,183328,2.09,0.0098,,,66.72208,3.9754856,5.132,-4.125,,,,,none,,,,,,,0.523,https://premium-catering.com.sg,2026-11-12
+54.56,PC,Premium Catering (Holdings) Limited,Industrials,Specialty Business Services,Singapore,274480000,9.4,0,0,0.0,-0.079,,,0.2227,-1.26564,-1.08346,-0.57773995,-0.28469,10126525,741461,7.567,9.633,9.574,,,18652750,888945,0.00563,0.0,183328,2.09,0.0098,,,66.72208,3.9754856,5.132,-4.125,,,,,none,,,,,,,0.523,https://premium-catering.com.sg,2026-11-12
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-09-25,47.70,51.57,32.40,33.48,,,,,,,0,32.4000,1,5182336,,,,
 2024-09-26,34.02,40.05,34.02,34.83,,,,,,,0,32.4000,1,834388,,,,

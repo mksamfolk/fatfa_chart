@@ -7,9 +7,9 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0635,479169,5716486,-0.0031\n1,2026-06-30,"Westchester Capital Management, LLC",0.0499,376362,4489998,0.0\n2,2026-06-30,"Heights Capital Management, Inc                          ",0.0318,240103,2864428,-0.2612\n3,2026-06-30,L1 Global Manager Pty Ltd,0.0298,225000,2684250,0.0\n4,2026-06-30,RLH Capital LLC,0.028900001,218027,2601062,0.1181\n5,2026-06-30,AQR Arbitrage LLC,0.028199999,212622,2536580,-0.3132\n6,2026-06-30,"Shaw D.E. & Co., Inc.",0.024500001,184625,2202576,0.0\n7,2026-06-30,Shaolin Capital Management LLC,0.0238,179865,2145789,-0.2824\n8,2026-06-30,Quarry LP                          ,0.0226,170600,2035258,0.1766\n9,2026-06-30,Goldman Sachs Group Inc,0.0201,151374,1805891,0.0032\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,"Karpus Management, Inc.",0.0635,479169,6612532,-0.0031\n1,2026-06-30,"Heights Capital Management, Inc                          ",0.0318,240103,3313421,-0.2612\n2,2026-06-30,L1 Global Manager Pty Ltd,0.0298,225000,3105000,0.0\n3,2026-06-30,AQR Arbitrage LLC,0.028199999,212622,2934183,-0.3132\n4,2026-06-30,"Shaw D.E. & Co., Inc.",0.024500001,184625,2547825,0.0\n5,2026-06-30,Shaolin Capital Management LLC,0.0238,179865,2482137,-0.2824\n6,2026-06-30,Quarry LP                          ,0.0226,170600,2354280,0.1766\n7,2026-06-30,Goldman Sachs Group Inc,0.0201,151374,2088961,0.0032\n8,2026-06-30,"Aristeia Capital, LLC",0.0162,122531,1690927,0.0\n9,2026-06-30,Clear Street Group Inc.,0.014400001,108317,1494774,0.2316\n
 mutualfund_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0427,322503,3847460,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0023,17702,211184,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0023,17683,210958,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0013,9582,114313,0.0\n4,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00090000004,6535,77962,0.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-06-30,Merger Fund-The Merger Fund,0.0427,322503,4450541,0.0\n1,2026-06-30,JNL Series Trust-JNL Multi-Manager Alternative Fund,0.0023,17702,244287,0.0\n2,2026-06-30,Virtus Event Opportunities Trust-Virtus Westchester Event-Driven Fund,0.0023,17683,244025,0.0\n3,2026-09-30,Fidelity Concord Street Trust-Fidelity Nasdaq Composite Index Fund,0.0013,9582,132231,0.0\n4,2026-06-30,JNL Series Trust-JNL/Westchester Capital Event Driven Fund,0.00090000004,6535,90183,0.0\n
 recommendations
 ""\n
 upgrades_downgrades
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.49735\ninstitutionsPercentHeld,0.84400004\ninstitutionsFloatPercentHeld,1.67909\ninstitutionsCount,26.0\n
+,Value\ninsidersPercentHeld,0.49735\ninstitutionsPercentHeld,0.74701\ninstitutionsFloatPercentHeld,1.48614\ninstitutionsCount,24.0\n
 news
 []\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-88.44,FVN,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,China,89999920,11.93,7430,61856,737942.08,,-0.257,-0.257,0.0,0.0,0.0,0.9146,-0.00415,788401,765900,,64.736,0.801,-342862,-63077176,7544000,5612510,0.49735,0.84400004,18299,0.8,0.0078,47.72,,,-596.5,,,,,,,none,,,,,,,-0.111,,2026-11-12
+89.57,FVN,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,China,104107200,13.8,9970,56720,782736.0,,-0.257,-0.257,0.0,0.0,0.0,0.9146,-0.00415,788401,765900,,64.736,0.801,-342862,-63077176,7544000,5612510,0.49735,0.74701,17795,1.79,0.0076,55.2,,,57.74059,,,,,,,none,,,,,,,-0.111,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-11-04,9.97,9.97,9.97,9.97,,,,,,,0,9.9700,0,1008964,,,,
 2024-11-05,9.96,9.97,9.96,9.97,,,,,,,0,9.9700,0,2610146,,,,
@@ -522,3 +522,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.99,15.09,10.99,14.04,12.02,11.46,10.98,10.89,10.82,8.5980,1,8.7133,1,94068,821972,0.5473,0.3854,0.1619
 2026-11-11,13.27,15.09,12.31,13.60,12.18,11.70,11.03,10.90,10.84,8.7986,1,8.9683,1,156400,806630,0.6412,0.4366,0.2047
 2026-11-12,12.45,14.85,12.32,12.96,12.25,11.88,11.07,10.92,10.85,8.7986,1,9.2132,1,154224,783502,0.6565,0.4805,0.1759
+2026-11-13,13.01,13.51,13.01,13.51,12.45,12.00,11.10,10.94,10.87,8.7986,1,9.4483,1,152947,778715,0.7048,0.5254,0.1794

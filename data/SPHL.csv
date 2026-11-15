@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0052,11852,28207,1.0\n1,2026-06-30,Basecamp Wealth Advisors LLC,0.0001,273,649,0.0\n2,2026-06-30,UBS Group AG,0.0,18,42,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Stonex Group Inc.,0.0052,11852,28563,1.0\n1,2026-06-30,Basecamp Wealth Advisors LLC,0.0001,273,657,0.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.45314\ninstitutionsPercentHeld,0.00537\ninstitutionsFloatPercentHeld,0.00982\ninstitutionsCount,3.0\n
+,Value\ninsidersPercentHeld,0.45314\ninstitutionsPercentHeld,0.0053600003\ninstitutionsFloatPercentHeld,0.0098\ninstitutionsCount,2.0\n
 news
 []\n
 splits
 Date,Stock Splits\n2025-12-02 09:30:00-05:00,0.125\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-26.71,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5383515,2.38,51540,1044931,2486935.78,0.384,,,0.16402,-0.05535,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.00537,11325,0.02,0.0092,,,0.5824715,5.6397195,3.061,-12.681,,,,,none,,,,,,,1.514,https://www.springviewggl.com,2026-11-12
+30.12,SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,Singapore,5451374,2.41,28620,1045334,2519254.94,0.384,,,0.16402,-0.24152,-0.23371,-0.35445,-0.14657,1748607,853240,12.91,3.528,2.874,-2624448,-4661702,2261980,1236989,0.45314,0.0053600003,86604,0.04,0.07,,,0.58981353,5.7108083,3.1,-12.846,,,,,none,,,,,,,1.514,https://www.springviewggl.com,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2024-10-18,32.96,35.11,31.28,33.28,,,,,,,0,31.2800,1,874033,,,,
 2024-10-21,32.89,35.12,32.40,35.04,,,,,,,0,31.2800,1,1359132,,,,
@@ -533,3 +533,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,2.37,2.48,2.25,2.27,2.36,2.46,2.48,2.66,2.99,3.2681,0,4.6996,0,66738,3660213,-0.0518,-0.0306,-0.0212
 2026-11-11,2.37,2.37,2.25,2.27,2.32,2.46,2.47,2.65,2.99,3.1672,0,4.5526,0,62879,3660768,-0.0561,-0.0357,-0.0204
 2026-11-12,2.31,2.34,2.26,2.27,2.30,2.45,2.46,2.65,2.99,3.0954,0,4.4144,0,34958,3660481,-0.0589,-0.0404,-0.0185
+2026-11-13,2.33,2.45,2.33,2.41,2.31,2.46,2.45,2.65,3.00,3.0954,0,4.2846,0,41254,3660998,-0.0492,-0.0421,-0.0071

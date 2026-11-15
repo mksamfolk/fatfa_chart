@@ -7,7 +7,7 @@ income_stmt
 insider_roster_holders
 ""\n
 institutional_holders
-,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0072000003,300000,3056999,1.0\n
+,Date Reported,Holder,pctHeld,Shares,Value,pctChange\n0,2026-09-30,BNP Paribas Financial Markets,0.0166,686400,7001279,1.0\n1,2026-09-30,Commonwealth Of Pennsylvania Public School Empls Retrmt Sys,0.0072000003,300000,3059999,1.0\n2,2026-09-30,"Jane Street Group, LLC",0.0005,21971,224104,1.0\n3,2026-09-30,UBS Group AG,0.0,500,5099,1.0\n
 mutualfund_holders
 ""\n
 recommendations
@@ -21,13 +21,13 @@ earnings_dates
 insider_transactions
 ""\n
 major_holders
-,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.17071\ninstitutionsFloatPercentHeld,0.17071\ninstitutionsCount,4.0\n
+,Value\ninsidersPercentHeld,0.0\ninstitutionsPercentHeld,0.23569\ninstitutionsFloatPercentHeld,0.23569\ninstitutionsCount,12.0\n
 news
 [\n  {\n    "uuid": "3f00c5d6-0e5c-3772-bb47-02d4a55e3eb0",\n    "title": "reVolver Podcasts’ Contacto XIII Ranks Among Spotify Mexico’s Top 50 Science Podcasts",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/media-advertising/articles/revolver-podcasts-contacto-xiii-ranks-195800808.html",\n    "providerPublishTime": 1791316680,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/globenewswire.com/ff3da378bb70bf240a63a6cbffda9b79.png",\n          "width": 1400,\n          "height": 1400,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/92C8B4F8143F1005DA21E6DC3F84FB9B49EDA1197C0EC28EACCCD6E512DE8982/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fff3da378bb70bf240a63a6cbffda9b79.png",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  },\n  {\n    "uuid": "6038dd14-0af5-37e8-b278-a3681ed439b6",\n    "title": "Churchill Capital Corp XIII Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 18, 2026",\n    "publisher": "GlobeNewswire",\n    "link": "https://finance.yahoo.com/markets/stocks/articles/churchill-capital-corp-xiii-announces-204000286.html",\n    "providerPublishTime": 1789591200,\n    "type": "STORY",\n    "relatedTickers": [\n      "XIIIU",\n      "XIII",\n      "XIIIW"\n    ]\n  },\n  {\n    "uuid": "f8382226-c554-3c44-8960-ab361e7401ed",\n    "title": "LOUIS XIII COGNAC UNVEILS THE LATEST MASTERPIECE OF ITS BLACK PEARL COLLECTION",\n    "publisher": "PR Newswire",\n    "link": "https://finance.yahoo.com/media-advertising/articles/louis-xiii-cognac-unveils-latest-130700037.html",\n    "providerPublishTime": 1788959220,\n    "type": "STORY",\n    "thumbnail": {\n      "resolutions": [\n        {\n          "url": "https://media.zenfs.com/en/prnewswire.com/689dda5a422c2d8d717998bc2735d315.jpg",\n          "width": 400,\n          "height": 225,\n          "tag": "original"\n        },\n        {\n          "url": "https://s.yimg.com/lo/mysterio/api/940EA2793B86C13F43006CA58C707D6213CFF1204893A63FEE4237DF15C49F26/subgraphmysterio/resizefill_w140_h140/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F689dda5a422c2d8d717998bc2735d315.jpg",\n          "width": 140,\n          "height": 140,\n          "tag": "140x140"\n        }\n      ]\n    },\n    "relatedTickers": []\n  }\n]\n
 splits
 Date,Stock Splits\n
 rsRating,symbol,longName,sector,industry,country,marketCap,currentPrice,averageVolume10days,averageVolume3months,averageDollarVolume,revenueGrowth,earningsGrowth,earningsQuarterlyGrowth,grossMargins,operatingMargins,profitMargins,returnOnEquity,returnOnAssets,totalCash,totalDebt,debtToEquity,currentRatio,quickRatio,operatingCashflow,freeCashflow,sharesOutstanding,floatShares,heldPercentInsiders,heldPercentInstitutions,sharesShort,shortRatio,shortPercentOfFloat,trailingPE,forwardPE,priceToSalesTrailing12Months,priceToBook,enterpriseToRevenue,enterpriseToEbitda,targetMeanPrice,targetHighPrice,targetLowPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,epsRevisionUpLast7Days,epsRevisionUpLast30Days,epsRevisionDownLast7Days,epsRevisionDownLast30Days,nextEarningsDate,beta,website,retrievedAt
-0.00,XIII,Churchill Capital Corp XIII,Financial Services,Shell Companies,United States,421865984,10.19,117640,100540,1024502.6,,,,0.0,0.0,0.0,,,,52440,1596.347,,,,,41400000,,0.0,0.17071,695,0.01,,,,,,,,,,,,none,,,,,,,,,2026-11-12
+0.00,XIII,Churchill Capital Corp XIII,Financial Services,Shell Companies,United States,422280000,10.2,70660,93024,948844.7999999999,,,,0.0,0.0,0.0,,,,52440,1596.347,,,,,41400000,,0.0,0.23569,1252,0.01,,,,,,,,,,,,none,,,,,,,,,2026-11-13
 Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Line,Ma200:Top:Line,Supertrend:Top:ColorLine,Supertrend_Dir,ParabolicSAR:Top:ColorLine,ParabolicSAR_Dir,Volume:Middle:Histogram,Vo50:Middle:Line,Macd:Bottom:Line,MacdSignal:Bottom:Line,MacdDelta:Bottom:Histogram
 2026-09-18,10.83,11.25,10.01,10.72,,,,,,,0,10.0100,1,635696,,,,
 2026-09-21,10.30,10.30,10.13,10.13,,,,,,,0,10.0100,1,51663,,,,
@@ -69,3 +69,4 @@ Date,Open,High,Low,Close,Ma10:Top:Line,Ma20:Top:Line,Ma50:Top:Line,Ma150:Top:Lin
 2026-11-10,10.31,10.43,10.12,10.15,10.20,10.17,,,,10.3907,0,10.0379,1,937860,,-0.0289,-0.0348,0.0059
 2026-11-11,10.15,10.15,10.15,10.15,10.19,10.17,,,,10.3907,0,10.0535,1,,,-0.0296,-0.0337,0.0041
 2026-11-12,10.24,10.25,10.20,10.25,10.19,10.18,,,,10.3907,0,10.0686,1,10250,,-0.0219,-0.0314,0.0095
+2026-11-13,10.20,10.20,10.20,10.20,10.19,10.18,,,,10.3907,0,10.0831,1,6110,,-0.0196,-0.0290,0.0094
